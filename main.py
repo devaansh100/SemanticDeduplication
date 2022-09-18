@@ -6,13 +6,23 @@ from runner import *
 from torch.utils.data import DataLoader
 import torch.nn as nn
 from model import *
+import random
+import numpy as np
+import torch
+
+def init_seed(seed):
+    random.seed(seed)
+    os.environ['PYTHONHASHSEED'] = str(seed)
+    np.random.seed(seed)
+    torch.manual_seed(seed)
+    torch.cuda.manual_seed(seed)
+    torch.backends.cudnn.deterministic = True
 
 def collate(batch):
-
 	entities_ids      = torch.cat([x[0]['input_ids'] for x in batch])
 	entities_att_mask = torch.cat([x[0]['attention_mask'] for x in batch])
 	articles_ids      = torch.cat([x[1]['input_ids'] for x in batch])
-	return {'source_ids': entities_ids, 'source_mask': entities_att_mask, 'target_ids': articles_ids[:-1], 'lm_labels': articles_ids[1:]}
+	return {'source_ids': entities_ids, 'source_mask': entities_att_mask, 'target_ids': articles_ids[:, :-1], 'lm_labels': articles_ids[:, 1:]}
 
 def main(params):
 	entities, files = get_conll_data(f'{params.data_dir}/Final_CONLL')
@@ -39,9 +49,10 @@ if __name__ == '__main__':
 	parser.add_argument('--lm', dest = 'load_model', type = str, default = '', help = 'Name of model to be loaded')
 	parser.add_argument('--test', action = 'store_true')
 	parser.add_argument('--mb', dest = 'batch_size', type = int, default = 128)
-	parser.add_argument('--lr', type = float, default = 5e-3)
+	parser.add_argument('--lr', type = float, default = 1e-5)
 	parser.add_argument('--subset', type = int, default = 5)
 	parser.add_argument('--data_dir', type = str, default = 'Re_Annotated_Articles')
 	parser.add_argument('--epochs', type = int, default = 15)
+	parser.add_argument('--seq_len', type = int, default = 512)
 	params = parser.parse_args()
 	main(params)

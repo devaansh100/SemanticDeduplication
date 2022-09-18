@@ -1,5 +1,5 @@
 import torch
-from tqdm import tqdm
+from tqdm.autonotebook import tqdm
 import torch.optim as optim
 import os
 

@@ -5,14 +5,10 @@ import torch
 class WildlifeDataset(Dataset):
 	def __init__(self, entities, articles, tokenizer, params):
 		super().__init__()
-		# TODO: Ensure the below are torch matrices
 		self.entities = entities
 		self.articles = articles
 		self.subset = params.subset
-		self.seq_len = 512
-		self.cls_token_id = [tokenizer.cls_token_id]
-		self.sep_token_id = [tokenizer.sep_token_id]
-		self.pad_token_id = [tokenizer.pad_token_id]
+		self.seq_len = params.seq_len
 
 	def __len__(self):
 		return len(self.articles)
@@ -38,4 +34,4 @@ class WildlifeDataset(Dataset):
 		# entities_conc = torch.cat(entities_conc)
 		entity = self.entities[idx]
 		article = self.articles[idx]
-		return entity, article# span, entities_conc
+		return entity, article # span, entities_conc
