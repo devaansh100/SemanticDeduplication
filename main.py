@@ -9,10 +9,10 @@ from model import *
 
 def collate(batch):
 
-	entities_ids      = torch.cat([x['input_ids'] for x in batch[0]]).cuda()
-	entities_att_mask = torch.cat([x['attention_mask'] for x in batch[0]]).cuda()
-	articles_ids      = torch.cat([x['input_ids'] for x in batch[1]]).cuda()
-	return {'source_ids': entities_ids, 'source_mask': entities_att_mask, 'target_ids': article_ids[:-1], 'lm_labels': article_ids[1:]}
+	entities_ids      = torch.cat([x[0]['input_ids'] for x in batch])
+	entities_att_mask = torch.cat([x[0]['attention_mask'] for x in batch])
+	articles_ids      = torch.cat([x[1]['input_ids'] for x in batch])
+	return {'source_ids': entities_ids, 'source_mask': entities_att_mask, 'target_ids': articles_ids[:-1], 'lm_labels': articles_ids[1:]}
 
 def main(params):
 	entities, files = get_conll_data(f'{params.data_dir}/Final_CONLL')
@@ -42,5 +42,6 @@ if __name__ == '__main__':
 	parser.add_argument('--lr', type = float, default = 5e-3)
 	parser.add_argument('--subset', type = int, default = 5)
 	parser.add_argument('--data_dir', type = str, default = 'Re_Annotated_Articles')
+	parser.add_argument('--epochs', type = int, default = 15)
 	params = parser.parse_args()
 	main(params)

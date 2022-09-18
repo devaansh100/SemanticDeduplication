@@ -54,4 +54,4 @@ def get_raw_data(txt_folder, files = None):
 	return data
 
 def tokenize(text_list, tokenizer):
-	return [tokenizer.encode_plus(text, add_special_tokens = True, max_length = 512, pad_to_max_length = True, return_attention_mask = True, return_tensors = 'pt') for text in text_list]
+	return [tokenizer.encode_plus(text, add_special_tokens = True, max_length = 512, truncation =  True, pad_to_max_length = True, return_attention_mask = True, return_tensors = 'pt') for text in text_list]

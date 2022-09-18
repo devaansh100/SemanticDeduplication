@@ -1,6 +1,7 @@
 import torch
 from tqdm import tqdm
-import sacrebleu
+import torch.optim as optim
+import os
 
 class Runner:
 	def __init__(self, train_dl, test_dl, loss_fn):
@@ -30,6 +31,8 @@ class Runner:
 		model.train()
 		train_loss = 0.0
 		for i, batch in enumerate(tqdm(self.train_dl, desc = f'Epoch {epoch}')):
+			for key in batch:
+				batch[key] = batch[key].cuda()
 			self.optimizer.zero_grad() # TODO: Should we clip gradient?
 			output = model(**batch)
 			loss = output[0] # self.loss_fn(output['loss'], output['target'])
@@ -47,10 +50,11 @@ class Runner:
 		pass
 
 	def train(self, model, params):
+		os.environ["TOKENIZERS_PARALLELISM"] = "false"
 		self.best_train_loss = float('Inf')
 		self.best_bleu_test = float('Inf')
 		model = model.cuda()
-		self.optimizer = optim.Adam(model.parameters(), lr = lr)
+		self.optimizer = optim.Adam(model.parameters(), lr = params.lr)
 		last_epoch = 0
 		last_batch = -1
 		steps_per_epoch = len(self.train_dl)
@@ -67,7 +71,7 @@ class Runner:
 			epochs = params.epochs, steps_per_epoch = steps_per_epoch, div_factor = 10, final_div_factor = 1e4, 
 			last_epoch = last_batch, pct_start  =  0.2, anneal_strategy = 'linear')
 
-		for epoch in params.epochs:
+		for epoch in range(params.epochs):
 			self.fit_one_epoch(model, params, epoch)
 			# self.test(model, params)
 
