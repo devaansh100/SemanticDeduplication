@@ -14,7 +14,6 @@ class Runner:
 			'model': model.state_dict(),
 			'optimizer': self.optimizer.state_dict(),
 			'epoch': epoch,
-			'best_bleu_test': self.best_bleu_test
 		}
 		torch.save(checkpoint, name)
 
@@ -25,7 +24,7 @@ class Runner:
 		if load_opt:
 			self.optimizer.load_state_dict(checkpoint['optimizer'])
 
-		return checkpoint['epoch'], checkpoint['best_bleu_test']
+		return checkpoint['epoch']
 
 	def fit_one_epoch(self, model, params, epoch):
 		model.train()
@@ -40,19 +39,34 @@ class Runner:
 			self.optimizer.step()
 			self.cycle_scheduler.step()
 			train_loss = loss.item()
-			# translated_sents.extend(output['translated_src'])
-			# target_sents.extend(batch['target_sent'])
-		# bleu_score = sacrebleu.corpus_bleu(translated_sents, target_sentences).score
+		if self.best_train_loss < loss:
+			self.best_train_loss = loss
+			self.save_model(model, f'{params.model_name}/model_best_loss.pth', epoch)
+
 		print(f'Epoch {epoch}:')
 		print(f'\tLoss: {loss}')
 
 	def test(self, model, params, epoch):
-		pass
+		model.eval()
+		# test_loss = 0.0
+		for i, batch in enumerate(tqdm(self.train_dl, desc = f'Epoch {epoch}')):
+			for key in batch:
+				batch[key] = batch[key].cuda()
+			output = model(**batch, mode = 'generate')
+			targets = model.tokenizer.batch_decode(batch['target_ids'], skip_special_tokens=True, clean_up_tokenization_spaces=True)
+			for g,t in zip(output, targets):
+				print(f'Generated: {g}')
+				print(f'Target: {t}')
+			# test_loss = loss.item()
+
+		# if self.best_test_loss < loss:
+		# 	self.best_test_loss = loss
+		# 	self.save_model(model, f'{params.model_name}/model_best_loss.pth', epoch)
+
 
 	def train(self, model, params):
 		os.environ["TOKENIZERS_PARALLELISM"] = "false"
 		self.best_train_loss = float('Inf')
-		self.best_bleu_test = float('Inf')
 		model = model.cuda()
 		self.optimizer = optim.Adam(model.parameters(), lr = params.lr)
 		last_epoch = 0
@@ -60,7 +74,7 @@ class Runner:
 		steps_per_epoch = len(self.train_dl)
 
 		if params.load_model:
-			last_epoch, self.best_bleu_test = self.load_model(model, params, load_opt = not params.test)
+			last_epoch = self.load_model(model, params, load_opt = not params.test)
 			last_batch = (last_epoch - 1) * steps_per_epoch
 
 		if params.test:
@@ -73,5 +87,5 @@ class Runner:
 
 		for epoch in range(params.epochs):
 			self.fit_one_epoch(model, params, epoch)
-			# self.test(model, params)
+			self.test(model, params)
 

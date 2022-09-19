@@ -27,14 +27,25 @@ def collate(batch):
 def main(params):
 	entities, files = get_conll_data(f'{params.data_dir}/Final_CONLL')
 	articles = get_raw_data(f'{params.data_dir}/Final_TEXT', files)
-	
+
+	test_articles_1 = ["Smugglers caught near Chennai. 2kg of tiger claws and a tiger skin recovered. Local authorities carried out a raid on Saturday, apprehending two men and seizing 2kg of tiger claws and a tiger skin from them.",
+					   "7 men apprehended near Guwahati for smuggling bear pelts. Two pelts recovered in a raid on Saturday. Local authorities carried out a raid on Saturday and caught 7 men, seizing two bear skins from them.",
+					   "Smugglers caught near Chennai. 2 kg of tiger claws and a tiger skin recovered. Local authorities carried out a raid on Saturday, apprehending two men and seizing 2 kg of tiger claws and a tiger skin from them.",
+					   ]
+	test_articles_2 = ["Police recently arrested a group of smugglers near Manali, Chennai. Tigers nails and hide have also been seized. Chennai police and forest rangers arrested two men in a joint operation yesterday. They were found with 2kg of tiger nails and a hide.",
+					   "Smugglers caught near Chennai. 7 kg of bear claws and a bear skin recovered. Local authorities carried out a raid on Saturday, apprehending two men and seizing 7 kg of bear claws and a bear skin from them.",
+					   "Smugglers caught near Chennai. 7 kg of bear claws and a bear skin recovered. Local authorities carried out a raid on Saturday, apprehending two men and seizing 7 kg of bear claws and a bear skin from them.",
+					   ]
+	tokenized_test_1 = tokenize(test_articles_1, model.tokenizer)
+	tokenized_test_2 = tokenize(test_articles_2, model.tokenizer)
+
 	model = Model()
 	print('Tokenizing Articles')
 	tokenized_articles = tokenize(articles, model.tokenizer)
 	print('Tokenizing Entities')
 	tokenized_entities = tokenize(entities, model.tokenizer)
 	train_ds = WildlifeDataset(tokenized_entities, tokenized_articles, model.tokenizer, params)
-	test_ds = WildlifeDataset(tokenized_entities, tokenized_articles, model.tokenizer, params)
+	test_ds = WildlifeDataset(test_articles_1, test_articles_2, model.tokenizer, params)
 
 	train_dl = DataLoader(train_ds, batch_size = params.batch_size, shuffle = True, pin_memory = True, num_workers = 6, collate_fn = collate)
 	test_dl = DataLoader(test_ds, batch_size = params.batch_size, pin_memory = True, num_workers = 6, collate_fn = collate)
