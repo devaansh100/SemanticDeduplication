@@ -33,24 +33,22 @@ class Runner:
 		for i, batch in enumerate(pbar):
 			for key in batch:
 				batch[key] = batch[key].cuda()
-			self.optimizer.zero_grad() # TODO: Should we clip gradient?
+			self.optimizer.zero_grad()
 			output = model(**batch)
-			loss = output[0] # self.loss_fn(output['loss'], output['target'])
+			loss = output[0]
 			loss.backward()
 			self.optimizer.step()
 			self.cycle_scheduler.step()
-			train_loss = loss.item()
-			pbar.set_descroption(f'Epoch: {epoch}, Loss: {train_loss}')
+			train_loss += loss.item()
+			pbar.set_postfix(loss = train_loss/(i+1))
 		
 		if self.best_train_loss < loss:
 			self.best_train_loss = loss
 			self.save_model(model, f'{params.model_name}/model_best_loss.pth', epoch)
 
-		# print(f'Loss: {train_loss}')
 
-	def test(self, model, params, epoch):
+	def test_similarity(self, model, params, epoch):
 		model.eval()
-		# test_loss = 0.0
 		for i, batch in enumerate(tqdm(self.test_dl, desc = f'Epoch {epoch}')):
 			for key in batch:
 				batch[key] = batch[key].cuda()
@@ -59,11 +57,6 @@ class Runner:
 				print(f'\nArticle 1: {model.tokenizer.decode(article_1, skip_special_tokens=True, clean_up_tokenization_spaces=True)}')
 				print(f'Article 2: {model.tokenizer.decode(article_2, skip_special_tokens=True, clean_up_tokenization_spaces=True)}')
 				print(f'Similarity: {score}\n')
-
-		# if self.best_test_loss < loss:
-		# 	self.best_test_loss = loss
-		# 	self.save_model(model, f'{params.model_name}/model_best_loss.pth', epoch)
-
 
 	def train(self, model, params):
 		os.environ["TOKENIZERS_PARALLELISM"] = "false"
@@ -79,7 +72,7 @@ class Runner:
 			last_batch = (last_epoch - 1) * steps_per_epoch
 
 		if params.test:
-			self.test(model, params, last_epoch)
+			self.test_similarity(model, params, last_epoch)
 			return
 		
 		self.cycle_scheduler = optim.lr_scheduler.OneCycleLR(optimizer = self.optimizer, max_lr = params.lr, 
@@ -87,8 +80,8 @@ class Runner:
 			last_epoch = last_batch, pct_start  =  0.2, anneal_strategy = 'linear')
 		
 		print('Zero-Shot testing of article similarity with pretrained T5 weights')
-		self.test(model, params, 0)
+		self.test_similarity(model, params, 0)
 		for epoch in range(params.epochs):
 			self.fit_one_epoch(model, params, epoch)
-			self.test(model, params, epoch)
+			self.test_similarity(model, params, epoch)
 
