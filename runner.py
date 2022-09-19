@@ -49,15 +49,14 @@ class Runner:
 	def test(self, model, params, epoch):
 		model.eval()
 		# test_loss = 0.0
-		for i, batch in enumerate(tqdm(self.train_dl, desc = f'Epoch {epoch}')):
+		for i, batch in enumerate(tqdm(self.test_dl, desc = f'Epoch {epoch}')):
 			for key in batch:
 				batch[key] = batch[key].cuda()
 			output = model.forward_similarity(**batch)
-			targets = model.tokenizer.batch_decode(batch['target_ids'], skip_special_tokens=True, clean_up_tokenization_spaces=True)
-			for g,t in zip(output, targets):
-				print(f'Generated: {g}')
-				print(f'Target: {t}')
-			# test_loss = loss.item()
+			for article_1, article_2, score in zip(batch['article_1_ids'], batch['article_2_ids'], output):
+				print(model.tokenizer.decode(article_1, skip_special_tokens=True, clean_up_tokenization_spaces=True))
+				print(model.tokenizer.decode(article_2, skip_special_tokens=True, clean_up_tokenization_spaces=True))
+				print(f'Similarity: {score}')
 
 		# if self.best_test_loss < loss:
 		# 	self.best_test_loss = loss

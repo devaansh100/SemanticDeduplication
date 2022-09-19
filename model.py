@@ -10,6 +10,19 @@ class Model(nn.Module):
 		self.seq_len = 512
 		self.sim = nn.CosineSimilarity(dim = 1)
 
+	def get_scores(self, article_1_emb, article_2_emb):
+		score = torch.zeros(article_1_emb.shape[0])
+		for b in range(sim_matrix.shape[0]):
+			n_article_1 = torch.sum(article_1_att_mask[b])
+			n_article_2 = torch.sum(article_2_att_mask[b])
+			sim_matrix = torch.zeros((n_article_1, n_article_2))
+			for i in range(n_article_1):
+				for j in range(n_article_2):
+					sim_matrix[i, j] = self.sim(article_1_emb[b, i], article_2_emb[b, j])
+			score[b] = torch.max(dim = 1) + torch.max(dim = 0)
+			score[b] = score[b]/(n_article_1 + n_article_2)
+		return score
+
 	def forward(self, source_mask, source_ids, target_ids, lm_labels, mode = 'train'):
 		# TODO: Add attention masks etc etc here.
 		if mode == 'train':
@@ -30,16 +43,15 @@ class Model(nn.Module):
 							)
 		return self.tokenizer.batch_decode(generated_ids, skip_special_tokens=True, clean_up_tokenization_spaces=True)
 
-	def forward_similarity(self, article_1_ids, article_1_att_mask, article_2_ids, article_2_att_mask)
+	def forward_similarity(self, article_1_ids, article_1_att_mask, article_2_ids, article_2_att_mask, article_1_txt = None, article_2_txt = None):
 		article_1_emb = self.t5.encoder(
-				input_ids = source_ids,
-				attention_mask = source_mask, 
-			)
+				input_ids = article_1_ids,
+				attention_mask = article_1_att_mask, 
+			).last_hidden_state
 		article_2_emb = self.t5.encoder(
-				input_ids = target_ids,
-				attention_mask = target_mask, 
-			)
-		print(article_1_emb.shape)
-		print(article_2_emb.shape)
+				input_ids = article_2_ids,
+				attention_mask = article_2_att_mask, 
+			).last_hidden_state
 
-			
+		score = self.get_scores(article_1_emb, article_2_emb)
+		return score
