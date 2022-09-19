@@ -64,8 +64,7 @@ class Runner:
 			for key in batch:
 				batch[key] = batch[key].cuda()
 			output = model(**batch, mode = 'generate')
-			preds = [tokenizer.decode(g, skip_special_tokens=True, clean_up_tokenization_spaces=True) for g in output]
-			target = [tokenizer.decode(t, skip_special_tokens=True, clean_up_tokenization_spaces=True)for t in batch['target_ids']]
+			preds = model.tokenizer.bactch_decode(output, skip_special_tokens=True, clean_up_tokenization_spaces=True) for g in output
 			for pred, target in zip(preds, target):
 				print(f'\nGenerated Article: {pred}')
 				print(f'Target Article: {target}\n')
@@ -95,9 +94,9 @@ class Runner:
 		print('Zero-Shot testing of article similarity with pretrained T5 weights')
 		self.test_similarity(model, params, 0)
 		print('Zero-Shot testing of article generation with pretrained T5 weights')
-		self.test_generation(model, params, epoch)
+		self.test_generation(model, params, 0)
 		for epoch in range(params.epochs):
-			self.fit_one_epoch(model, params, epoch)
-			self.test_similarity(model, params, epoch)
-			self.test_generation(model, params, epoch)
+			self.fit_one_epoch(model, params, epoch + 1)
+			self.test_similarity(model, params, epoch + 1)
+			self.test_generation(model, params, epoch + 1)
 

@@ -40,7 +40,7 @@ class Model(nn.Module):
 								num_beams = 5,
 								early_stopping = True
 							)
-		return self.tokenizer.batch_decode(generated_ids, skip_special_tokens=True, clean_up_tokenization_spaces=True)
+		return generated_ids
 
 	def forward_similarity(self, article_1_ids, article_1_att_mask, article_2_ids, article_2_att_mask, article_1_txt = None, article_2_txt = None):
 		article_1_emb = self.t5.encoder(
