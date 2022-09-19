@@ -25,6 +25,13 @@ def collate(batch):
 	articles_ids      = torch.cat([x[1]['input_ids'] for x in batch])
 	return {'source_ids': entities_ids, 'source_mask': entities_att_mask, 'target_ids': articles_ids[:, :-1], 'lm_labels': articles_ids[:, 1:]}
 
+def collate_test(batch):
+	article_1_ids      = torch.cat([x[0]['input_ids'] for x in batch])
+	article_1_att_mask = torch.cat([x[0]['attention_mask'] for x in batch])
+	article_2_ids      = torch.cat([x[1]['input_ids'] for x in batch])
+	article_2_att_mask = torch.cat([x[1]['attention_mask'] for x in batch])
+	return {'article_1_ids': article_1_ids, 'article_1_att_mask': article_1_att_mask, 'article_2_ids': article_2_ids, 'article_2_att_mask': article_2_att_mask}
+
 def main(params):
 	init_seed(42)
 	entities, files = get_conll_data(f'{params.data_dir}/Final_CONLL')
@@ -38,19 +45,20 @@ def main(params):
 					   "Smugglers caught near Chennai. 7 kg of bear claws and a bear skin recovered. Local authorities carried out a raid on Saturday, apprehending two men and seizing 7 kg of bear claws and a bear skin from them.",
 					   "Smugglers caught near Chennai. 7 kg of bear claws and a bear skin recovered. Local authorities carried out a raid on Saturday, apprehending two men and seizing 7 kg of bear claws and a bear skin from them.",
 					   ]
-	tokenized_test_1 = tokenize(test_articles_1, model.tokenizer)
-	tokenized_test_2 = tokenize(test_articles_2, model.tokenizer)
 
 	model = Model()
 	print('Tokenizing Articles')
 	tokenized_articles = tokenize(articles, model.tokenizer)
 	print('Tokenizing Entities')
 	tokenized_entities = tokenize(entities, model.tokenizer)
+	print('Tokenizing Test articles')
+	tokenized_test_1 = tokenize(test_articles_1, model.tokenizer)
+	tokenized_test_2 = tokenize(test_articles_2, model.tokenizer)
 	train_ds = WildlifeDataset(tokenized_entities, tokenized_articles, model.tokenizer, params)
 	test_ds = WildlifeDataset(tokenized_test_1, tokenized_test_2, model.tokenizer, params)
 
 	train_dl = DataLoader(train_ds, batch_size = params.batch_size, shuffle = True, pin_memory = True, num_workers = 6, collate_fn = collate)
-	test_dl = DataLoader(test_ds, batch_size = params.batch_size, pin_memory = True, num_workers = 6, collate_fn = collate)
+	test_dl = DataLoader(test_ds, batch_size = params.batch_size, pin_memory = True, num_workers = 6, collate_fn = collate_test)
 
 	runner = Runner(train_dl, test_dl, nn.NLLLoss())
 	runner.train(model, params)

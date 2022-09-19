@@ -52,7 +52,7 @@ class Runner:
 		for i, batch in enumerate(tqdm(self.train_dl, desc = f'Epoch {epoch}')):
 			for key in batch:
 				batch[key] = batch[key].cuda()
-			output = model(**batch, mode = 'generate')
+			output = model.forward_similarity(**batch)
 			targets = model.tokenizer.batch_decode(batch['target_ids'], skip_special_tokens=True, clean_up_tokenization_spaces=True)
 			for g,t in zip(output, targets):
 				print(f'Generated: {g}')
@@ -87,5 +87,5 @@ class Runner:
 
 		for epoch in range(params.epochs):
 			self.fit_one_epoch(model, params, epoch)
-			self.test(model, params)
+			self.test(model, params, epoch)
 
