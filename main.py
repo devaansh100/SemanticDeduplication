@@ -9,6 +9,7 @@ from model import *
 import random
 import numpy as np
 import torch
+import os
 
 def init_seed(seed):
     random.seed(seed)
@@ -25,6 +26,7 @@ def collate(batch):
 	return {'source_ids': entities_ids, 'source_mask': entities_att_mask, 'target_ids': articles_ids[:, :-1], 'lm_labels': articles_ids[:, 1:]}
 
 def main(params):
+	init_seed(42)
 	entities, files = get_conll_data(f'{params.data_dir}/Final_CONLL')
 	articles = get_raw_data(f'{params.data_dir}/Final_TEXT', files)
 
@@ -45,7 +47,7 @@ def main(params):
 	print('Tokenizing Entities')
 	tokenized_entities = tokenize(entities, model.tokenizer)
 	train_ds = WildlifeDataset(tokenized_entities, tokenized_articles, model.tokenizer, params)
-	test_ds = WildlifeDataset(test_articles_1, test_articles_2, model.tokenizer, params)
+	test_ds = WildlifeDataset(tokenized_test_1, tokenized_test_2, model.tokenizer, params)
 
 	train_dl = DataLoader(train_ds, batch_size = params.batch_size, shuffle = True, pin_memory = True, num_workers = 6, collate_fn = collate)
 	test_dl = DataLoader(test_ds, batch_size = params.batch_size, pin_memory = True, num_workers = 6, collate_fn = collate)
