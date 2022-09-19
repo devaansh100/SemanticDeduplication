@@ -64,7 +64,8 @@ class Runner:
 			for key in batch:
 				batch[key] = batch[key].cuda()
 			output = model(**batch, mode = 'generate')
-			preds = model.tokenizer.bactch_decode(output, skip_special_tokens=True, clean_up_tokenization_spaces=True) for g in output
+			preds = model.tokenizer.batch_decode(output, skip_special_tokens=True, clean_up_tokenization_spaces=True)
+			target = model.tokenizer.batch_decode(batch['target_ids'], skip_special_tokens=True, clean_up_tokenization_spaces=True)
 			for pred, target in zip(preds, target):
 				print(f'\nGenerated Article: {pred}')
 				print(f'Target Article: {target}\n')
