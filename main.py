@@ -57,8 +57,8 @@ def main(params):
 	train_ds = WildlifeDataset(tokenized_entities, tokenized_articles, model.tokenizer, params)
 	test_ds = WildlifeDataset(tokenized_test_1, tokenized_test_2, model.tokenizer, params)
 
-	train_dl = DataLoader(train_ds, batch_size = params.batch_size, shuffle = True, pin_memory = True, num_workers = 6, collate_fn = collate)
-	test_dl = DataLoader(test_ds, batch_size = params.batch_size, pin_memory = True, num_workers = 6, collate_fn = collate_test)
+	train_dl = DataLoader(train_ds, batch_size = params.batch_size, shuffle = True, pin_memory = True, num_workers = 2, collate_fn = collate)
+	test_dl = DataLoader(test_ds, batch_size = params.batch_size, pin_memory = True, num_workers = 2, collate_fn = collate_test)
 
 	runner = Runner(train_dl, test_dl, nn.NLLLoss())
 	runner.train(model, params)

@@ -54,9 +54,9 @@ class Runner:
 				batch[key] = batch[key].cuda()
 			output = model.forward_similarity(**batch)
 			for article_1, article_2, score in zip(batch['article_1_ids'], batch['article_2_ids'], output):
-				print(model.tokenizer.decode(article_1, skip_special_tokens=True, clean_up_tokenization_spaces=True))
-				print(model.tokenizer.decode(article_2, skip_special_tokens=True, clean_up_tokenization_spaces=True))
-				print(f'Similarity: {score}')
+				print(f'\nArticle 1: {model.tokenizer.decode(article_1, skip_special_tokens=True, clean_up_tokenization_spaces=True)}')
+				print(f'Article 2: {model.tokenizer.decode(article_2, skip_special_tokens=True, clean_up_tokenization_spaces=True)}')
+				print(f'Similarity: {score}\n')
 
 		# if self.best_test_loss < loss:
 		# 	self.best_test_loss = loss
@@ -83,7 +83,9 @@ class Runner:
 		self.cycle_scheduler = optim.lr_scheduler.OneCycleLR(optimizer = self.optimizer, max_lr = params.lr, 
 			epochs = params.epochs, steps_per_epoch = steps_per_epoch, div_factor = 10, final_div_factor = 1e4, 
 			last_epoch = last_batch, pct_start  =  0.2, anneal_strategy = 'linear')
-
+		
+		print('Zero-Shot testing of article generation with pretrained T5 weights')
+		self.test(model, params, epoch)
 		for epoch in range(params.epochs):
 			self.fit_one_epoch(model, params, epoch)
 			self.test(model, params, epoch)
