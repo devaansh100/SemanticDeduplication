@@ -49,7 +49,7 @@ class Runner:
 
 	def test_similarity(self, model, params, epoch):
 		model.eval()
-		for i, batch in enumerate(tqdm(self.test_dl, desc = f'Test Epoch {epoch}')):
+		for i, batch in enumerate(tqdm(self.test_dl, desc = f'Similarity Epoch {epoch}')):
 			for key in batch:
 				batch[key] = batch[key].cuda()
 			output = model.forward_similarity(**batch)
@@ -60,7 +60,7 @@ class Runner:
 
 	def test_generation(self, model, params, epoch):
 		model.eval()
-		for i, batch in enumerate(tqdm(self.train_dl, desc = f'Test Epoch {epoch}', total = 1)):
+		for i, batch in enumerate(tqdm(self.train_dl, desc = f'Generation Epoch {epoch}', total = 1)):
 			for key in batch:
 				batch[key] = batch[key].cuda()
 			output = model(**batch, mode = 'generate')
