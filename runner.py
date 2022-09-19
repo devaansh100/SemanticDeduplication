@@ -29,7 +29,8 @@ class Runner:
 	def fit_one_epoch(self, model, params, epoch):
 		model.train()
 		train_loss = 0.0
-		for i, batch in enumerate(tqdm(self.train_dl, desc = f'Epoch {epoch}')):
+		pbar = tqdm(self.train_dl, desc = f'Epoch: {epoch}, Loss: 0.0')
+		for i, batch in enumerate(pbar):
 			for key in batch:
 				batch[key] = batch[key].cuda()
 			self.optimizer.zero_grad() # TODO: Should we clip gradient?
@@ -39,12 +40,13 @@ class Runner:
 			self.optimizer.step()
 			self.cycle_scheduler.step()
 			train_loss = loss.item()
+			pbar.set_descroption(f'Epoch: {epoch}, Loss: {train_loss}')
+		
 		if self.best_train_loss < loss:
 			self.best_train_loss = loss
 			self.save_model(model, f'{params.model_name}/model_best_loss.pth', epoch)
 
-		print(f'Epoch {epoch}:')
-		print(f'\tLoss: {loss}')
+		# print(f'Loss: {train_loss}')
 
 	def test(self, model, params, epoch):
 		model.eval()
@@ -84,8 +86,8 @@ class Runner:
 			epochs = params.epochs, steps_per_epoch = steps_per_epoch, div_factor = 10, final_div_factor = 1e4, 
 			last_epoch = last_batch, pct_start  =  0.2, anneal_strategy = 'linear')
 		
-		print('Zero-Shot testing of article generation with pretrained T5 weights')
-		self.test(model, params, epoch)
+		print('Zero-Shot testing of article similarity with pretrained T5 weights')
+		self.test(model, params, 0)
 		for epoch in range(params.epochs):
 			self.fit_one_epoch(model, params, epoch)
 			self.test(model, params, epoch)
