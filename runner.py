@@ -58,6 +58,19 @@ class Runner:
 				print(f'Article 2: {model.tokenizer.decode(article_2, skip_special_tokens=True, clean_up_tokenization_spaces=True)}')
 				print(f'Similarity: {score}\n')
 
+	def test_generation(self, model, params, epoch):
+		model.eval()
+		for i, batch in enumerate(tqdm(self.train_dl, desc = f'Epoch {epoch}', total = 1)):
+			for key in batch:
+				batch[key] = batch[key].cuda()
+			output = model(**batch, mode = 'generate')
+			preds = [tokenizer.decode(g, skip_special_tokens=True, clean_up_tokenization_spaces=True) for g in output]
+			target = [tokenizer.decode(t, skip_special_tokens=True, clean_up_tokenization_spaces=True)for t in batch['target_ids']]
+			for pred, target in zip(preds, target):
+				print(f'\nGenerated Article: {pred}')
+				print(f'Target Article: {target}\n')
+			break
+
 	def train(self, model, params):
 		os.environ["TOKENIZERS_PARALLELISM"] = "false"
 		self.best_train_loss = float('Inf')
@@ -81,7 +94,10 @@ class Runner:
 		
 		print('Zero-Shot testing of article similarity with pretrained T5 weights')
 		self.test_similarity(model, params, 0)
+		print('Zero-Shot testing of article generation with pretrained T5 weights')
+		self.test_generation(model, params, epoch)
 		for epoch in range(params.epochs):
 			self.fit_one_epoch(model, params, epoch)
 			self.test_similarity(model, params, epoch)
+			self.test_generation(model, params, epoch)
 
