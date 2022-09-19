@@ -38,7 +38,7 @@ class Model(nn.Module):
 								attention_mask = source_mask, 
 								max_length = self.seq_len, 
 								num_beams = 5,
-								repitition_penalty = 2.5
+								repetition_penalty = 2.5
 							)
 		return generated_ids
 
