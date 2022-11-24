@@ -1,9 +1,0 @@
-
-['Mala Lake and Goa Three Kings Chapel Goa\nYour name: Email: Mobile number:']
-
-
-Mala Lake----SP.COMMON
-
-Goa----LOC.STATE
-
-Goa----LOC.STATE

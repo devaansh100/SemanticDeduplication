@@ -1,5 +1,0 @@
-
-['A lizard, at an initial distance of 21 cm behind an insect, moves from rest with an acceleration of `2cms^(-2)` and pursues the insect which is crawling uniformly along a straight line at a speed of `\nA lizard, at an initial distance of 21 cm behind an insect, moves from rest with an acceleration of `2cms^(-2)` and pursues the insect which is crawling uniformly along a straight line at a speed of `20cms^(-1)`. Then the lizard will catch the insect after']
-
-
-lizard----SP.COMMON

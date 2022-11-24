@@ -1,7 +1,0 @@
-
-["Oops! Snake enters washroom, wears tissue roll as necklace in viral video\nvia snake_unity/Instagram Shocking! It would surely be a nightmare to enter one's washroom and suddenly spot a long snake using the place... Goosebumps coming your way? In a recent video shared on Instagram, we could see a snake having entered a toilet and rolled itself around the western commode. According to reports, the reptile happens to be a cobra, fiercely flaunting its tongue often. Not just that, it has also wrapped a tissue roll against its body, as if it were a neck accessory. Watch the video, right here:"]
-
-
-Snake----SP.COMMON
-
-tissue roll----CONCEALMENT_METHOD

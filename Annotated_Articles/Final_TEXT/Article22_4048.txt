@@ -1,7 +1,0 @@
-
-['Andhra Pradesh: Fisherman attacked by Black Marlin fish, dies\nA police officer said that probably it was the first incident in the region where a fisherman died after being attacked by a fish. (Representational Image)']
-
-
-Fisherman----SUS.AFFIL
-
-Black Marlin fish----SP.SPECIFIC

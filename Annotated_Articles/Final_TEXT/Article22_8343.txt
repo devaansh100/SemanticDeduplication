@@ -1,5 +1,0 @@
-
-['Wildlife News\nA wildlife photographer spent a week on the trail of a cheetah named Malaika and her two cubs in Masai Mara and came away with some stunning visuals.']
-
-
-Malaika----SUS.NAME

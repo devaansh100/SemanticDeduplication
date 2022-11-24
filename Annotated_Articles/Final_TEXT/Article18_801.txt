@@ -1,9 +1,0 @@
-
-["Monkey menace in Karnataka; single women targeted\nUTTARA KANNADA: In a rare incident, authorities and residents of Karnataka 's Uttara Kannada district are struggling to trap a monkey which has attacked more than 10 single women.The menace has become unbearable since a week in Babruwada village near Ankola. Residents of the village are forced to walk with a stick in their hands to defend themselves from being attacked by the monkey.The monkey has been carrying out sudden attacks on people, especially single women. It is biting and scratching people.The villagers have lost their patience after the monkey attacked an elderly woman, Lakshmi, leaving her to bleed profusely.Due to the menace, parents are terrified to leave their children outside their homes. People of the village have been forced to leave their work and instead concentrate on catching the monkey.Officers from the forest department, anesthetic specialists, and a team of villagers are putting in all-out efforts to trap the monkey."]
-
-
-Monkey----SP.COMMON
-
-Karnataka----LOC.STATE
-
-forest department----AUTH.SEIZE

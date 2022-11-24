@@ -42,14 +42,14 @@ def get_json_data(json_folder, files = None):
 
 def get_raw_data(txt_folder, files = None):
 	data = []
-	files = glob.glob(f'{txt_folder}/*txt') if files is None else files
+	files = glob.glob(f'{json_folder}/*txt') if files is None else files
 	for file in files:
 		try:
 			f = open(file.replace('CONLL', 'TEXT').replace('conll', 'txt'))
 		except:
 			print(f'Error opening {file}')
 			continue
-		data.append(f'summarize:{f.read()}')
+		data.append(f.read())
 
 	return data
 

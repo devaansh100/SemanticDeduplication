@@ -1,7 +1,0 @@
-
-['American Eagle Bird - Bald Eagle\nTo catch the fish, the eagle jumps over the water and pulls the fish out of the water using his talons.  They catch fish with one claw and tear meat with the other claw to eat.']
-
-
-American Eagle Bird----SP.SPECIFIC
-
-Bald Eagle----SP.SPECIFIC

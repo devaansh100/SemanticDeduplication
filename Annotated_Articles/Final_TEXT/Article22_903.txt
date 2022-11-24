@@ -1,9 +1,0 @@
-
-['Jadavpur Jadavpur Kolkata\nNon-veg item. Veg Fried Rice + Chili Chicken. Costs: 300 rupees, Description: Veg Fried Rice + Chili Chicken Swipe right to add item to cart. Veg Fried Rice + Chili Chicken 300']
-
-
-Chili Chicken----SP.SPECIFIC
-
-300 rupees----VALUE
-
-Chili Chicken----SP.SPECIFIC

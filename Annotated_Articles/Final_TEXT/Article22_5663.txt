@@ -1,9 +1,0 @@
-
-['Jamaica Gleaner\n... # GLNRToday wounding 18 others in Colorado, United States, officials said. The club said the suspect was subdued by patrons. Authorities received a report of a shooting at Club Q at 11:57 p.m. on Saturday and responded within minutes, said Lt Pamela Castro of the Colorado Springs Police Department. Read more: https://jamaica-gleaner.com/…/five-dead…']
-
-
-received a report----DETECTION_METHOD
-
-11:57 p.m.----TIME
-
-Saturday----DATE

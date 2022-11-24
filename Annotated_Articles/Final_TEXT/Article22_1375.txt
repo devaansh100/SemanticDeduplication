@@ -1,9 +1,0 @@
-
-['Boriya Village: Latest News, Videos and Photos of Boriya Village\nCommunal clash in Gujarat village over playing of loud music during procession; 5 hurt in stone-pelting PTI / Apr 06, 2022, 16:00 (IST) \u200b\u200bAs per the FIR, arguments broke out between two groups over loud music being played during the procession of Janata Mataji when it was passing by a mosque.']
-
-
-Boriya Village----LOC.EXACT
-
-Gujarat----LOC.STATE
-
-5----SUS.NUMBER

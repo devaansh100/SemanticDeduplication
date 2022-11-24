@@ -1,7 +1,0 @@
-
-['Sariska National Park: Latest News, Videos and Photos of Sariska National Park\nPathological liar vs slave: No-holds-barred brawl between BJP, Congress over cheetahs TIMESOFINDIA.COM / Sep 19, 2022, 17:50 (IST) The scramble to take the credit for reintroducing cheetahs in India and the skirmish over the ongoing Bharat Jodo Yatra between the BJP and the Congress have only intensified in the recent days. The war of words promises to get more shrill in the coming days.']
-
-
-Sariska National Park----LOC.EXACT
-
-cheetahs----SP.COMMON

@@ -1,7 +1,0 @@
-
-["Optical Illusion: There are 16 tigers in this image; can you find them all?\nWhile at first glance it seems to be a picture of a tiger family with two adult tigers and two cubs, actually there are 16 tigers inside this picture. Surprised? What's more interesting is that not many can spot all the tigers embedded in this picture in 30 seconds. Some of them are too difficult to spot and many have failed even after trying for several hours! Optical illusions, such as this one, are definitely fun to attempt but what one can learn from these is the way the brain and the vision coordinate. Optical illusions also teach us about looking at things in a different manner, going into details within a few seconds of looking at the picture. So, how many tigers could you spot till now? Read: This optical illusion will surprise you by revealing your strengths  Read: Spot the hidden tiger in this image; Only 1% have solved this riddle so far "]
-
-
-16----QTY
-
-tigers----SP.COMMON

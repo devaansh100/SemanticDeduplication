@@ -1,9 +1,0 @@
-
-['Latest News on Veterinary Officer - Times of India\nDMC to start registration of cattle in Dehradun TNN / May 12, 2019, 10:37 (IST) In a bid to check the stray cattle menace, Dehradun Municipal Corporation (DMC) on Saturday ordered all cattle owners to get their livestock registered with the civic body.']
-
-
-Dehradun Municipal Corporation----AUTH.SEIZE
-
-DMC----AUTH.SEIZE
-
-Saturday----DATE

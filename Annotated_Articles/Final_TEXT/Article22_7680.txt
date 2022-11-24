@@ -1,9 +1,0 @@
-
-['Kolhapur Wild Elephant: Latest News, Videos and Photos of Kolhapur Wild Elephant\nNAGPUR:Rs 1 lakh compensation for damage to houses by jumbos TNN / Jun 20, 2022, 04:57 (IST) NAGPUR: The state government has now made a provision of compensation for damage to houses by elephants. Though there are no resident elephants in Maharashtra, the added relief seems to have been given considering the damage caused by a herd of 23 elephants in Gadchiroli early this year.']
-
-
-Kolhapur Wild Elephant----SP.SPECIFIC
-
-Rs 1 lakh----VALUE
-
-jumbos----SUS.AFFIL

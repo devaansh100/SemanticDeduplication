@@ -1,7 +1,0 @@
-
-['Ranikuthi: Latest News, Videos and Photos of Ranikuthi\nKolkata: Boy robbed after threat to tell kin about girlfriend TNN / Jan 20, 2020, 04:05 (IST) After targeting elderly residents and salaried professionals, conmen have now turned their attention towards school students, duping them of expensive gadgets and petty cash after threatening to inform their families of the teenage secrets they would like to keep to themselves.']
-
-
-Boy----SUS.GENDER
-
-robbed----CRIME.CAT

@@ -1,9 +1,0 @@
-
-['Kanpur: Leopard remains elusive, may have changed location\nKANPUR: As the elusive leopard in Kanpur has neither sighted nor killed any animal for the last two days, it seems it has changed its location, claimed district forest authorities on Wednesday."The team has now started combing the forests of Sudeenpurwa village. Efforts are on to preserve the leopard\'s pug mark and other evidence by planning a campaign. The forest department has placed a new cage in Sudeenpurwa village. Two cocks have been placed as bait to bring the leopard to the cage. Two night vision cameras have been installed to capture the movement of the leopard at night," said district forest officer Arvind Yadav .He further said, "Though the leopard did not show up in the past couple of days, we are expecting that it will come soon near the newly placed bait."After locals had approached the forest department following sighting of big cat\'s pugmarks the latter installed four night vision cameras.']
-
-
-Leopard----SP.COMMON
-
-leopard----SP.COMMON
-
-forest department----AUTH.SEIZE

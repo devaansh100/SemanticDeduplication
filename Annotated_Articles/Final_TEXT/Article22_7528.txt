@@ -1,9 +1,0 @@
-
-['OMG: 40 Crocodiles Attack The Lion: Watch The Lion Save Himself\nThe animal kingdom has its own set of threats, and the animals themselves have their own set of risks. A lion can be seen escaping through crocodile-infested waters in a video published on YouTube by the channel Facts Tell. The video’s caption states, “Lion escapes through crocodile-infested waters.” The incident occurred in Kenya’s Masai Mara National Reserve, according to the information supplied in the video. More than 40 crocodiles surround a lion trapped on top of a hippopotamus carcass. When the video was shot is unknown. In the background, you can hear people shouting for the lion to traverse the predator-infested waters. As the lion manages to cross the lake and reach safety, the applause grows louder. On the video-sharing website, the clip has nearly 2,500 views. People expressed their opinions about the video in the comments area. “WOW! HE CAME UP WITH A WAY TO DO IT, AND HE DID IT! TIME WASN’T ON HIS SIDE, AND THE LION KNEW IT,” according to one user. Another user added, “The King reminds us: Never give up, no matter how bleak things appear to be.” When it comes to fighting, lions have various advantages over crocodiles, but the latter would triumph against the king of the jungle. Increase the number of crocodiles to 40 and the number of lions to one. Even a single crocodile is too much for a lion to handle. Also Read: Anand Mahindra refers a man as a “human Segway” as he balances a sack on his head while cycling on narrow road']
-
-
-40----SUS.NUMBER
-
-Masai Mara National Reserve----LOC.EXACT
-
-40----QTY

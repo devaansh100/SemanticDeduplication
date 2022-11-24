@@ -1,9 +1,0 @@
-
-["Chaos in Purulia over leopard's presence in Kotshila forest ahead of hunting festival dgtld - Anandabazar\nFollow us on: Save: Advertisement Advertisement Something isn't right! Please refresh."]
-
-
-Purulia----LOC.STATE
-
-leopard----SP.COMMON
-
-Kotshila forest----LOC.EXACT

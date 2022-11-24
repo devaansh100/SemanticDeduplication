@@ -1,7 +1,0 @@
-
-["Lycodon jara (Shaw, 1802) by Kingshuk Mondal on 13 December 2018\nI got a call from a local workers that a rare looking 'venomous' snake has arrived to my village with the stone chips that was brought here for construction works. The caller informed that it is definately a snake from the hills, and must be a venomous one. He kept is trapped inside a country liquor bottle. I arrived on the scene to 'rescue' it. As soon as I saw it, took it out from the bottle and I told them it is neither a venomous snake nor from the hills. It is very much local snake. Interestingly, the snake has no Bengali common name. The snake is very rare, hence it got no local name. After taking some pictures, I released this fellow right where it was caught at."]
-
-
-call----DETECTION_METHOD
-
-'venomous' snake----SP.SPECIFIC

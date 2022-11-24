@@ -1,7 +1,0 @@
-
-['Dolphin rescue centre to come up in M’luru\nDolphin rescue centre to come up in M’luru This story is from June 7, 2022']
-
-
-Dolphin----SP.COMMON
-
-M’luru----LOC.DISTRICT

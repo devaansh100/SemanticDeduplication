@@ -1,9 +1,0 @@
-
-['Tiger Found Dead In Nagarahole\nWhat your favourite alcoholic drink says about your personality Food']
-
-
-Tiger----SP.COMMON
-
-Found Dead----CRIME.CAT
-
-Nagarahole----LOC.DISTRICT

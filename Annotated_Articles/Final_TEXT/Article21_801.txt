@@ -1,7 +1,0 @@
-
-['Assam: Four Animals Electrocuted In Kaziranga National Park On The Same Day\nPOPULAR TAGS FOLLOW US ON: This material may not be published, broadcast, rewritten, or redistributed, 2022 © G plus. All rights reserved. Copyright © 2022 Insight Brandcom Pvt. Ltd. All rights reserved.']
-
-
-Assam----LOC.STATE
-
-Kaziranga National Park----LOC.EXACT

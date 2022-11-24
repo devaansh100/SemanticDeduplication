@@ -1,9 +1,0 @@
-
-['Nepalese held with leopard hide in Tanakpur\nRicha-Ali wedding: All You Need To Know Entertainment']
-
-
-Nepalese----SUS.NAME
-
-leopard----SP.COMMON
-
-hide----ITEM

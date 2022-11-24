@@ -1,9 +1,0 @@
-
-['Prowler Owl Decoy, Bird Scaring Device, Pigeon Control India\nNEW and Improved Prowler Owl replica! Scare birds with a dynamic, realistic, owl decoy; resembles the most-feared aerial predator, the Great Horned Owl, which catches and eats almost anything that moves. Lifelike design increases effectiveness Accurate plumage and hunting flight pose Intimidating, glassy eyes Flexible wings move and flap in the wind realistically Don’t be fooled by imitations that are immobile – without movement, an owl scare is useless! Install Prowler Owl decoy in any open outdoor area where pest birds or small critters are a problem.']
-
-
-Prowler Owl----SP.COMMON
-
-Decoy----ITEM
-
-Owl----SP.COMMON
