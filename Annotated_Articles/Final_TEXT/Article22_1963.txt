@@ -1,0 +1,41 @@
+
+["25-30 ft long snake spotted crossing road in Odisha’s Nabarangpur | VIDEO\nA giant snake estimated to be 25-30 feet long was spotted on a road in Odisha's Nabarangpur district. By Mohammad Suffian: A giant snake was spotted on a road in Odisha’s Nabarangpur district. The snake was estimated to be around 25-30 feet long. Locals spotted the snake on Friday night while crossing the main road next to the Khatiguda Jawahar Navodaya Vidyalaya. It was reported that the snake covered the entire road. The incident left the locals residing around the area in a state of panic. advertisement A Giant snake of 25 -30 ft was spotted while crossing the main road at Khatiguda area of Odisha's Nabrangpur District on Friday Night.#snake #Roadies @aajtak @IndiaToday pic.twitter.com/aczlPG33tp — Mohammad Suffian (@iamsuffian) April 9, 2022 --- ENDS ---"]
+
+
+25-30 ft----QTY
+
+snake----SP.COMMON
+
+Odisha’s----LOC.STATE
+
+Nabarangpur----LOC.DISTRICT
+
+giant snake----SP.COMMON
+
+25-30 feet long----QTY
+
+Odisha's----LOC.STATE
+
+Nabarangpur----LOC.DISTRICT
+
+giant snake----SP.COMMON
+
+Odisha----LOC.STATE
+
+Nabarangpur----LOC.DISTRICT
+
+snake----SP.COMMON
+
+25-30 feet long----QTY
+
+snake----SP.COMMON
+
+Friday----DATE
+
+night----TIME
+
+snake----SP.COMMON
+
+25 -30 ft----QTY
+
+Friday----DATE

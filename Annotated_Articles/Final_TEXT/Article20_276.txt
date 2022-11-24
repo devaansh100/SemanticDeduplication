@@ -1,0 +1,61 @@
+
+['Leopard skin smuggling has once again come back to haunt Odisha A joint team of Chhattisgarh police and Odisha Forest department arrested a person on charges of leopard skin trade in Indagaon near Nua\nNuapada: After a brief lull, leopard skin smuggling has once again come back to haunt Odisha. A joint team of Chhattisgarh police and Odisha Forest department arrested a person on charges of leopard skin trade in Indagaon near Nuapada on Odisha-Chhattisgarh border. The accused has been identified as Sanjay Bag, a resident of Nangalbod village in Sinapali area of Nuapada district. As per sources, the accused was waiting for a prospective customer when the team detained him for interrogation. A bag containing a leopard skin was seized from his possession and after preliminary questioning; he was booked under the Wildlife Protection Act 1972. The probe team later handed over the youth to the Odisha Forest department. Even though it is yet to be ascertained whether the leopard skin belonged to Odisha forest jurisdiction or not, Chhattisgarh Police has asked their Odisha counterparts to initiate an enquiry. Earlier last month, Odisha Crime Branch had arrested three persons including the mastermind involved in leopard skin smuggling racket in Nayagarh. Last year the STF of Odisha Crime Branch arrested more than 10 persons for their involvement in leopard skin smuggling rackets in various parts of the State. Raising serious concerns over the rampant smuggling of leopard skin in the State, the National Tiger Conservation Authority had sent a notice to the Chief Wildlife Warden of Odisha seeking factual status of steps taken for the protection of leopards and action taken to curb smuggling. Not only leopards and elephants, poaching and smuggling of pangolins in Odisha has also emerged as a big headache for the wildlife agencies in the State. Experts observed that endangered wildlife species are under serious threat from several international racketeers especially from South East Asia, China, European Union as well as the Middle East. (Edited By Bikram Keshari Jena) Also Read: Caught On Cam: Leopard Skin Trade In Odisha Sparks Concerns Leopard Skin Smuggling: Crime Branch STF Nabs Mastermind From Nayagarh']
+
+
+Leopard----SP.COMMON
+
+skin----ITEM
+
+smuggling----CRIME.CAT
+
+Chhattisgarh police----AUTH.SEIZE
+
+Forest department----AUTH.SEIZE
+
+leopard----SP.COMMON
+
+Indagaon----ROUTE.SRC
+
+leopard----SP.COMMON
+
+skin----ITEM
+
+smuggling----CRIME.CAT
+
+Chhattisgarh police----AUTH.SEIZE
+
+Forest department----AUTH.SEIZE
+
+leopard----SP.COMMON
+
+Indagaon----ROUTE.SRC
+
+Sanjay Bag----SUS.NAME
+
+Nangalbod village----SUS.LOC
+
+Nuapada----SUS.LOC
+
+bag----CONCEALMENT_METHOD
+
+leopard----SP.COMMON
+
+skin----ITEM
+
+three----SUS.NUMBER
+
+leopard----SP.COMMON
+
+Nayagarh----LOC.EXACT
+
+more than 10----SUS.NUMBER
+
+leopard----SP.COMMON
+
+leopards----SP.COMMON
+
+elephants----SP.COMMON
+
+poaching----CRIME.CAT
+
+pangolins----SP.COMMON

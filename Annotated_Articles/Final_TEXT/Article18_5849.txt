@@ -1,0 +1,25 @@
+
+['Snake In A Plane! This Air Asia Flight Had A Snake & Passengers Were Terrified\nSnake In A Plane! This Air Asia Flight Had A Snake & Passengers Were Terrified After a snake slithered above passengers’ heads through the cabin’s overhead lights, the domestic AirAsia flight AK5748 was forced to divert. When the serpent was spotted crawling its way through the cabin, way through the cabin of domestic flight travelling from Kuala Lumpur to Tawau. Thanks to the sneaky stowaway, footage onboard capture announcements being made about an emergency landing at Sarawak, Borneo. According to FlightRadar24, an Airbus A320 matching the rumoured plane’s tail number was diverted while en-route to Tawau last night. The awareness of this incident by AirAsia was confirmed by Chief Safety Officer Captain Liong Tien Ling. Event is Rare, However Can Happen To Any Aircraft : Captain He added that though the event is rare, it can happen to any aircraft from time to time. Appropriate action was taken by the Captain and the flight shall soon depart from Tawau, said the captain. To fumigate the plane, this aircraft diversion was a precautionary measure, while clarifying his decision. Image Source : Mirror.co.uk No One Was Hurt : Captain Liong Captain Liong also confirmed nobody was hurt in the incident, but did not specify if that included the snake. Whether the snake was carried by some passenger to the plane or it managed to get onboard on its accord, is yet to be known. Previously, a massive, poisonous snake forced an emergency landing during a two-hour Aeromexico flight between Torreon in the northern state of Coahuila and the Mexican capital.']
+
+
+Snake----SP.COMMON
+
+Air Asia Flight----TRANSPORT_MODE
+
+Snake----SP.COMMON
+
+Snake----SP.COMMON
+
+Air Asia Flight----TRANSPORT_MODE
+
+Snake----SP.COMMON
+
+snake----SP.COMMON
+
+Kuala----ROUTE.SRC
+
+Lumpur----ROUTE.SRC
+
+Airbus A320----TRANSPORT_MODE
+
+night----TIME

@@ -1,0 +1,29 @@
+
+['Madhya Pradesh: Teak wood smugglers give the slip to foresters but fall into police trap\nFile Photo | Hoshangabad (Madhya Pradesh): A band of teak wood smugglers gave the slip to a team of foresters in Barkutai on Tuesday but fell into the police trap, sources said on Wednesday. As the culprits were trying to run away in a four-wheeler, they encountered a team from Rampur station which caught the criminals, sources further said. The police also confiscated several logs of teak wood from the car and arrested two persons, sources further said. They said that the logs of wood were being brought from the forest of Barkutai. As soon as ranger of the forest circle Jaideep Sharma and deputy ranger Hargovind came to know about the incident, they sent a team of foresters to the spot. The team surrounded the smugglers from all sides, sources said, adding that the police captured them as they were running away. The police seized the car which was registered in the name of Mazhar Meer Khan, a resident of Bhopal. According to sources, the cops of the Rampur police station have begun to take action. Read Also Madhya Pradesh: Arch dam wonder of engineering work']
+
+
+Madhya Pradesh----LOC.STATE
+
+Teak wood----SP.COMMON
+
+Barkutai----LOC.EXACT
+
+Tuesday----DATE
+
+Rampur station----AUTH.SEIZE
+
+several----QTY
+
+logs----ITEM
+
+teak wood----ITEM
+
+car----TRANSPORT_MODE
+
+two----SUS.NUMBER
+
+car----ITEM
+
+Mazhar Meer Khan----SUS.NAME
+
+Bhopal----SUS.LOC

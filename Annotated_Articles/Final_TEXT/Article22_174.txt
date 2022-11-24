@@ -1,0 +1,19 @@
+
+['8-Week-Old Leopard Cubs Rescued And Reunited With Mother, Heartwarming Visuals\nA pair of eight-week-old leopard cubs were found in a sugarcane field in Ale village which falls in the Otur Forest Range of Pune, Maharashtra. These cubs were rescued and reunited with their mother. In an operation carried out by the Maharashtra Forest Department and Wildlife SOS, an NGO, the two cubs were rescued and reunited with their mother.']
+
+
+Leopard----SP.COMMON
+
+pair----QTY
+
+leopard----SP.COMMON
+
+sugarcane field in Ale village which falls in the Otur Forest Range----LOC.EXACT
+
+Pune----LOC.DISTRICT
+
+Maharashtra----LOC.STATE
+
+Maharashtra Forest Department----AUTH.SEIZE
+
+Wildlife SOS----AUTH.SEIZE

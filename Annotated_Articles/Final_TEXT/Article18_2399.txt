@@ -1,0 +1,23 @@
+
+['Another Leopard Electrocuted; 2nd Such Death In Satna In 3 Days\nBHOPAl: Two leopards have died of electrocution in past 3 days at Satna district of Madhya Pradesh . In the latest case, carcass of a leopard was found in Maharajpur village under Unnchehra range of the Satna district on Wednesday.The carcass was spotted by locals near a pond in Maharajpur village, sources said that movement of leopard was seen near the area for past few days. Forest officials reached the spot with sniffer dogs and two accused have been arrested. Prior to this on May 30 also, a leopard was found dead due to electrocution in Chitrakoot forest area. Three accused were arrested.“In both the cases, the leopards died of electrocution and both the places lie in revenue areas. Three accused were arrested in previous case and two have been arrested now”, district forest officer Satna, Vipin Patel told TOI.He added, “We are constantly keeping a vigil in the forest areas and water bodies too, both the incidents have been reported from tribal villages. It is probably a part of culture that if there is a marriage or any such ceremony meat of forest animals is prepared and these electric wires are probably set for killing other forest animals for the feast, even in the recent case, a marriage ceremony was scheduled a day later. Though these wires are laid for killing other animals, leopards accidentally get trapped. We are creating awareness and are also co-ordinating with electricity department to ensure such incidents are not repeated”, he said.']
+
+
+Leopard----SP.COMMON
+
+Electrocuted----CRIME.CAT
+
+Satna----LOC.DISTRICT
+
+leopards----SP.COMMON
+
+electrocution----CRIME.CAT
+
+Madhya Pradesh----LOC.STATE
+
+carcass----ITEM
+
+leopard----SP.COMMON
+
+Maharajpur village----LOC.EXACT
+
+Wednesday----DATE

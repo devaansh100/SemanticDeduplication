@@ -1,0 +1,23 @@
+
+['Ludhiana Robbery: Latest News, Videos and Photos of Ludhiana Robbery\nLudhiana: Rs 7 lakh PNB robbery cracked, peon turns out to be key conspirator TNN / Aug 14, 2022, 11:41 (IST) City police solved the Rs 7.44 lakh robbery at Detwal branch of Punjab National Bank within 48 hours of the crime with the arrest of four accused, including a peon of the bank. Two of their accomplices are yet to be arrested. The police have also recovered Rs 2.39 lakh cash and weapons from the accused. The robbers had executed the robbery in four minutes.']
+
+
+Ludhiana Robbery----LOC.CITY
+
+Rs 7 lakh----VALUE
+
+peon----SUS.AFFIL
+
+City police----AUTH.SEIZE
+
+Rs 7.44 lakh----VALUE
+
+Detwal branch----LOC.EXACT
+
+four----SUS.NUMBER
+
+Rs 2.39 lakh----VALUE
+
+cash----ITEM
+
+weapons----ITEM

@@ -1,0 +1,9 @@
+
+['Shocking video of a snake found inside the Plane Mid-Air\nIf you are going somewhere on an airplane and you see an alive snake in the seat near which you are sitting, then you will be very scared to see it. One such video is going viral on social media, which has been shared by commercial pilot Hana Mohsin Khan on her Twitter account. In this video shared by Hana Mohsin Khan, it can be seen that a snake was seen onboard an airplane. The snake or this video is of the illuminated area of the plane where the snake got stuck and The Air Asia Airbus A320-200 was on its way to Tawau, Malaysia from Kuala Lumpur. According to some media reports, it is being said that this snake has either come out of a passenger\'s luggage or climbed on board from the ground. Sharing the video, the pilot of the plane wrote in the caption "Yikes! Snake on a plane! Either an escaped pet from passenger carry-on/luggage or possibly climbed its way into the aircraft from the ground. Air Asia Airbus A320-200 ,Kuala Lumpur to Tawau. This dude happily stayed inside the illuminated area till the plane was diverted". Twitter users are giving reactions after watching this video. One user wrote "Id have lost it and run off the flight. Good lord thr site of it freaked me out."  ']
+
+
+snake----SP.COMMON
+
+Kuala----ROUTE.TRANSIT
+
+snake----SP.COMMON

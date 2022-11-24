@@ -1,0 +1,23 @@
+
+["Caught on Cam: Thieves Use Crane to Dig Out ATM With Rs 27 Lakh in Maha's Sangli | Watch\nAn attempt to rob an ATM machine containing Rs 27 Lakh failed in Maharashtra’s Sangli district after the stolen crane used in the crime got stuck in a pothole. According to video footage from a CCTV inside an ATM, miscreants used a JCB to break open the door and manage to uproot and remove the machine. However, after taking out the machine, the crane got stuck in a pothole, following which the thieves left the machine and fled from the spot. The video of the incident has gone viral on social media. While the Rs 27 lakh inside the ATM has been recovered, the police have launched a manhunt to nab the thieves. Read all the Latest News , Breaking News and IPL 2022 Live Updates here."]
+
+
+Thieves----SUS.AFFIL
+
+Crane----ITEM
+
+Rs 27 Lakh----VALUE
+
+Maha's----LOC.DISTRICT
+
+Sangli----LOC.DISTRICT
+
+Rs 27 Lakh----VALUE
+
+Maharashtra’s----LOC.STATE
+
+Sangli----LOC.DISTRICT
+
+crane----ITEM
+
+Rs 27 lakh----VALUE

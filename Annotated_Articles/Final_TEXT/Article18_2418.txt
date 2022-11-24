@@ -1,0 +1,35 @@
+
+['Assam: Man arrested for fishing rare Barca snakehead in Orang National Park\nMangaldai: A man was arrested at the Orang National Park and Tiger Reserve on Sunday for illegally fishing a rare ornamental fish. As per sources, patrolling forest guards nabbed the accused, Mazit Ali for sneaking into the national park to fish out a rare species named Barca snakehead. The fish is also known as Channa Barca locally called Pipli Cheng. The arrested accused is a resident of Kachomari, Nepaligaon. Also Read: My wife hasn’t committed a crime, she tried to help Assam: Himanta Biswa Sarma The accused along with four others tried to catch this variety of fish from water bodies under the Chandapur anti-poaching camp area of the park. However, the four accomplices managed to escape and Ali was caught on the spot. This fish has a high demand in the black market. One fish weighing only a hundred grams can fetch a price of Rs 10,000. A case has been registered in this regard under the Wildlife Protection Act. Also Read: Assam Police arrests one from Arunachal for rhino poaching The Barca snakehead (Channa Barca) is a rare species of snakehead fish. It is endemic to the upper Brahmaputra river basin in northeastern India and Bangladesh. Overall it has been assessed as data deficient by the IUCN, and in 2014 it was assessed as critically endangered in Bangladesh by the IUCN.']
+
+
+Man----SUS.GENDER
+
+arrested----CRIME.CAT
+
+fishing----CRIME.CAT
+
+Barca snakehead----SP.SPECIFIC
+
+Orang National Park----LOC.EXACT
+
+man----SUS.GENDER
+
+arrested----CRIME.CAT
+
+Orang National Park and Tiger Reserve----LOC.EXACT
+
+Sunday----DATE
+
+patrolling forest guards----AUTH.SEIZE
+
+Mazit Ali----SUS.NAME
+
+Barca snakehead----SP.SPECIFIC
+
+fish----SP.COMMON
+
+Channa Barca----SP.SPECIFIC
+
+Pipli Cheng----SP.SPECIFIC
+
+Kachomari----SUS.LOC

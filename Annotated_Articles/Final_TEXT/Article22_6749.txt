@@ -1,0 +1,25 @@
+
+["Kerala: Class 4 student bitten by snake at Thrissur school, out of danger\nTHRISSUR: A class four student was bitten by a venomous snake on Thursday at his school in Wadakkanchery area of Thrissur district in Kerala The child's health condition is stable and he is out of danger, police said.The incident occurred in the morning close to 10.00 AM when the boy arrived at his school.He was bit by the snake barely 200 metres from his classroom, police said.The child was immediately rushed to the hospital, it said."]
+
+
+Kerala----LOC.STATE
+
+bitten----CRIME.CAT
+
+snake----SP.COMMON
+
+Thrissur school----LOC.EXACT
+
+snake----SP.COMMON
+
+Thursday----DATE
+
+Wadakkanchery area----LOC.EXACT
+
+Thrissur----LOC.DISTRICT
+
+Kerala----LOC.STATE
+
+morning----TIME
+
+10.00 AM----TIME

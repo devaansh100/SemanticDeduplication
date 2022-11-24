@@ -1,0 +1,23 @@
+
+['Tiger kills man, eats body parts\nChandrapur: Tiger killed a man in forest under North Bramhapuri forest range. The mutilated body of the victim, identified as Tarachand Chandankhede (53) from Bhagwanpur village, was discovered on Wednesday morning.It is learnt, Chandankhede had started on his bike to purchase some diesel on Tuesday evening. He stopped to answer nature’s call in the forest between Esteem Podar School and Saigata T-point. A tiger present in the area attacked him.The tiger took the body deep into the jungle and devoured a part of it. After Chandankhede did not return home in the night, his relatives searched for him and found his bike parked along the road in the forest. They informed forest officials and again searched for him on Wednesday morning. The body was discovered in compartment no. 858 of the forest.Officials have given ex gratia aid of Rs20,000 to the family.The death toll in predator attacks this year has risen to 22. It includes 17 victims claimed by tiger, while five others were killed by leopards.']
+
+
+Tiger----SP.COMMON
+
+kills----CRIME.CAT
+
+man----SUS.GENDER
+
+body parts----ITEM
+
+Tiger----SP.COMMON
+
+Tarachand Chandankhede----SUS.NAME
+
+53----SUS.AGE
+
+Bhagwanpur village----SUS.LOC
+
+Wednesday----DATE
+
+morning.It----TIME

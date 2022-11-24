@@ -1,0 +1,77 @@
+
+['Thane crime branch arrest man for smuggling antlers of deer\nThane crime branch arrest man for smuggling antlers of deer | FPJ Thane: The Thane crime branch Unit 5 have arrested a 26-year-old man with possession of antlers of Sambar and Chital deer, worth Rs 15 lakh. The police are further investigating to trace the black market syndicate going on across the city. The police said the arrested accused is identified as Subham Devidas Shinde 26, a resident of Indira Nagar in Titwala in Thane district. Bhushan Shinde, assistant police inspector, Unit 5 of Thane crime branch received information about Shinde coming for a lot of deer antlers in front of Utsav Hotel, near Viviana mall, Thane. However, a trap was laid to detain Shinde under the guidance of Vikas Ghodke, senior police inspector, Unit 5 (Wagle estate). "On February 2 a trap was laid and Shinde was detained with possession of 10 pieces of antlers of Sambar and Chital deer. The antlers were 8 kilogram worth Rs 15 lakhs," added Ghodke. A case has been registered at Vartak Nagar police station under the relevant section of the Wildlife Protection Act, 1972. Ghodke further added, "We are further investigating to find where he brought the antlers from. And where the animals were killed or hunted to get it. Also, who he was going to sell it and the syndicate behind the complete killing of animals to the selling process," he added.']
+
+
+Thane crime branch----AUTH.SEIZE
+
+arrest----CRIME.CAT
+
+man----SUS.GENDER
+
+smuggling----CRIME.CAT
+
+antlers----ITEM
+
+deer----SP.COMMON
+
+Thane crime branch----AUTH.SEIZE
+
+antlers----ITEM
+
+deer----SP.COMMON
+
+Thane crime branch Unit 5----AUTH.SEIZE
+
+arrested----CRIME.CAT
+
+26-year-old----SUS.AGE
+
+man----SUS.GENDER
+
+antlers----ITEM
+
+Sambar----SP.COMMON
+
+Chital----SP.SPECIFIC
+
+deer----SP.COMMON
+
+Rs 15 lakh----VALUE
+
+Subham Devidas Shinde----SUS.NAME
+
+26----SUS.AGE
+
+Indira Nagar in Titwala in Thane district----SUS.LOC
+
+Bhushan Shinde----OFF.NAME
+
+assistant police inspector----OFF.DESIG
+
+information----DETECTION_METHOD
+
+deer----SP.COMMON
+
+trap was laid----DETECTION_METHOD
+
+Vikas Ghodke----OFF.NAME
+
+February 2----DATE
+
+trap was laid----DETECTION_METHOD
+
+10 pieces----QTY
+
+antlers----ITEM
+
+Sambar----SP.SPECIFIC
+
+Chital deer----SP.SPECIFIC
+
+antlers----ITEM
+
+8 kilogram----QTY
+
+Rs 15 lakhs----VALUE
+
+case has been registered at Vartak Nagar police station----OUTCOME

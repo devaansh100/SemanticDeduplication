@@ -1,0 +1,21 @@
+
+['WCCB India on Instagram: "A leopard skin was seized and two persons were arrested in a joint operation conducted by Wildlife Crime Control Bureau and Madhya Pradesh Police, at Mandla District of Madhy\n']
+
+
+A----QTY
+
+leopard----SP.COMMON
+
+skin----ITEM
+
+seized----CRIME.CAT
+
+two----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+Wildlife Crime Control Bureau----AUTH.SEIZE
+
+Madhya Pradesh Police----AUTH.SEIZE
+
+Mandla----LOC.DISTRICT

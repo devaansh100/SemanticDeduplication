@@ -1,0 +1,69 @@
+
+['NE insurgent groups involved in rhino poaching, illegal trade, one NSCN militant held\nThe value of the recovered rhino horn is estimated to be Rs 1 crore in the international market. Some militant groups in the North-Eastern region have links with rhino poaching and illegal rhino horn trades. It has once again come to light after security forces arrested a militant of the Isak-Muivah faction of the National Socialist Council of Nagaland or NSCN (IM) with a rhino horn in Nagaland.  Security forces had arrested a militant of NSCN (IM) at Seitheke Basti in Nagaland’s Dimapur district. Based on specific information, troops of the army and Nagaland police had jointly launched an operation in the area and arrested the NSCN (IM) militant and recovered one rhino horn, three AK-47 rifles with four magazines, one point 22 rifles with magazine, 87 rounds of live ammunition in possession from him. A police official of the Dimapur district said that the value of the recovered rhino horn is estimated at Rs 1 crore in the international market. Dr Numal Momin, Assam Legislative Assembly Deputy Speaker and local MLA of Bokajan constituency nearby Dimapur, said that a few days back police had arrested one mastermind of the rhino poacher gang from Manipur and there is clear evidence that there is a nexus between rhino poachers, rhino horn smugglers, and extremist groups. “It is a serious issue, because if insurgency groups are involved in rhino poaching, then it will be a serious threat for the wild animals. So, we are taking the matter very seriously. One NSCN insurgent was also arrested with rhino horn. Several rhino poachers were arrested from Manipur earlier also. But these arrests have given some more evidences that some insurgency groups are involved in rhino poaching, rhino horn trade. We will take measures according to the law,” Dr Numal Momin said. According to the reports, based on secret information shared by the Assam Police, a team of Manipur police on Monday also arrested a most wanted rhino poacher in Manipur’s Churachandpur district. Later Manipur police had handed over the arrested rhino poacher to the Assam police. A top official of Manipur Police said that the poacher was arrested in connection with an FIR no. 117/2021 u/s 120(B)/447/429/379 of IPC, r/w 25(1-A)/27/35 Arms Act, r/w 51(I-A) of Wildlife Protection Act filed at Bokakhat police station in Assam’s Golaghat district. Assam’s Golaghat district Superintendent of Police Dr Robin Kumar told India Today TV that a police team of Churachandpur district had arrested the rhino poacher identified as 35-year-old Gouchin V Khamkhopau on Monday and later handed him over to the Assam police. “The arrested rhino poacher is also a member of a militant group named Zomi Revolutionary Army (ZRA). The poacher was arrested in connection with a case registered at Bokakhat police station,” Dr Robin Kumar said. Assam is home to the largest population of greater-one horned rhinos, with 2657 rhinos, and out of which Kaziranga National Park has 2413 rhinos, Manas National Park has 43, Orang National Park has 101 and Pobitora Wildlife Sanctuary has 100. According to the Assam state Forest department, poachers have killed at least 33 one-horned rhinos in Kaziranga National Park in the past five years. Also read: Assam: Three rhino poachers held near Kaziranga National Park Also read: Most wanted rhino poacher arrested in Arunachal Pradesh']
+
+
+NE insurgent groups----SUS.AFFIL
+
+rhino----SP.COMMON
+
+poaching----CRIME.CAT
+
+one----SUS.NUMBER
+
+rhino----SP.COMMON
+
+horn----ITEM
+
+Rs 1 crore----VALUE
+
+security forces----AUTH.SEIZE
+
+Isak-Muivah faction of the National Socialist Council of Nagaland or NSCN (IM)----SUS.AFFIL
+
+Nagaland----LOC.STATE
+
+Security forces----AUTH.SEIZE
+
+Seitheke Basti----LOC.EXACT
+
+Dimapur district----LOC.DISTRICT
+
+information----DETECTION_METHOD
+
+troops of the army----AUTH.SEIZE
+
+Nagaland police----AUTH.SEIZE
+
+launched an operation----DETECTION_METHOD
+
+one----QTY
+
+rhino horn----ITEM
+
+three----QTY
+
+AK-47 rifles----ITEM
+
+four----QTY
+
+magazines----ITEM
+
+22----QTY
+
+rifles with magazine----ITEM
+
+87----QTY
+
+live ammunition----ITEM
+
+Rs 1 crore----VALUE
+
+one----SUS.NUMBER
+
+rhino poacher gang----SUS.AFFIL
+
+Manipur----SUS.LOC
+
+Zomi Revolutionary Army----SUS.AFFIL
+
+ZRA----SUS.AFFIL

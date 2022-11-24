@@ -1,0 +1,49 @@
+
+['Bhopal: Boy killed & partly eaten by wild animals in Army base\nBHOPAL: A seven-year-old boy was found killed and partially eaten by wild animals and dogs in a wooded area of an Army base in Bhopal in the wee hours of Thursday.The victim, Ritik Bhamore , was missing since Wednesday night. When his mother and grandfather went looking for him, they came upon the horrific sight of a stray feeding on his body. She fainted from the shock.Police said the preliminary autopsy report says he was killed by wild animals. A joint team of Army, police, forest department, and district administration is scouring the area to track them down. Bhopal is ringed by forests and the wild often intersects with the urban.Ritik lived with his mother Preeti Bhamore and maternal grandfather Mahesh in the servant quarters within the Dronachal Army campus, investigating officer ASI Chhatrapal Singh said. The boy liked to go cycling at night, said the ASI. He went out with his cycle around 10pm on Wednesday but didn\'t return.Mahesh told TOI that Preeti said she was with the boy for some time and sat in the park while he played with two children from their locality. At 11.30pm, she got up to leave but Ritik asked to be allowed to stay on for some more time, so she went home alone, said Mahesh. Preeti fell asleep, thinking Ritik would be back, said Singh. She woke up at 4am and panicked at not seeing him in bed.Preeti and Mahesh set out to look for him. The Dronachal military area sprawls on hundreds of acres, from Koh-e-Fiza to Jail Road in Nishatpura. They found his bicycle on the road near an area named \'Parmeshwar Point\', and went into a dense patch of jungle nearby.In the bushes, they saw a stray dog feeding on Ritik\'s corpse. Preeti fainted on the spot. Mahesh shooed the dog away, covered Ritik with Preeti\'s dupatta and ran to inform some Armymen deployed at a checkpoint. They alerted police.Nishatpura police went to the spot and recovered what was left of the body. The boy had deep injuries in his head and body and was eaten up from the waist down.A forest team went to the area and looked for pugmarks and other telltale signs to identify the animal that killed Ritik. Sources say it\'s a leopard corridor and other carnivores also frequent the area. "Police should investigate the boy\'s death from all angles," said Mahesh.']
+
+
+Boy----SUS.GENDER
+
+killed & partly eaten----CRIME.CAT
+
+wild animals----SP.COMMON
+
+seven-year-old----SUS.AGE
+
+boy----SUS.GENDER
+
+wild animals----SP.COMMON
+
+Bhopal----LOC.CITY
+
+wee hours----TIME
+
+Thursday.The----DATE
+
+Ritik Bhamore----SUS.NAME
+
+Wednesday----DATE
+
+night----TIME
+
+police----AUTH.SEIZE
+
+forest department----AUTH.MISC
+
+district administration----AUTH.SEIZE
+
+Preeti Bhamore----SUS.NAME
+
+Mahesh----SUS.NAME
+
+10pm----TIME
+
+Wednesday----DATE
+
+4am----TIME
+
+bicycle----TRANSPORT_MODE
+
+Parmeshwar Point----LOC.EXACT
+
+stray dog----SP.COMMON

@@ -1,0 +1,55 @@
+
+['Red sanders logs worth ₹17 lakh seized, 2 held\nThe accused are repeat offenders, said police Police with the accused and the seized red sanders logs at Rompicharla police station in Chittoor district on Saturday. The accused are repeat offenders, said police The Piler rural police on Saturday raided an agricultural field and seized a dump of red sanders logs worth ₹17 lakh at a forested village, and arrested two persons who were said to be repeat offenders in red sanders smuggling cases. Circle Inspector (Piler Rural) S. Murali Krishna headed a special party with Sub-Inspectors Hari Prasad and Lakshmi Narayana of Rompicharla and Yerravari Palem police stations, and raided the field at Ganugachinta village of Rompicharla mandal. Accused V. Prasad Reddy (46) and Bukke Giri Naik (28) were nabbed. The accused were allegedly planning to shift the dump after the lifting of the lockdown. The duo reportedly told the police that the logs were procured from the Seshachalam hills. “Searches are under way to arrest the other members involved in maintaining the dump. Raids would continue at all suspected areas to detect any dumps,” the police officer said. Superintendent of Police S. Senthil Kumar and Deputy SP (Madanapalle) A. Ravi Manohar Achari lauded the special party for unearthing the red sanders dump.']
+
+
+Red sanders----SP.COMMON
+
+logs----ITEM
+
+seized----CRIME.CAT
+
+2----SUS.NUMBER
+
+red sanders----SP.COMMON
+
+logs----ITEM
+
+Chittoor----LOC.DISTRICT
+
+Saturday----DATE
+
+Piler rural police----AUTH.SEIZE
+
+Saturday----DATE
+
+raided----CRIME.CAT
+
+red sanders----SP.COMMON
+
+logs----ITEM
+
+two----SUS.NUMBER
+
+Circle Inspector----OFF.DESIG
+
+S. Murali Krishna----OFF.NAME
+
+Sub-Inspectors----OFF.DESIG
+
+Hari Prasad----OFF.NAME
+
+Lakshmi Narayana----OFF.NAME
+
+V. Prasad Reddy----SUS.NAME
+
+46----SUS.AGE
+
+Bukke Giri Naik----SUS.NAME
+
+28----SUS.AGE
+
+Superintendent of Police----OFF.DESIG
+
+S. Senthil Kumar----OFF.NAME
+
+Deputy SP----OFF.DESIG

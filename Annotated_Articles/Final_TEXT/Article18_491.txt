@@ -1,0 +1,85 @@
+
+['Assam: Two arrested for smuggling rhino horn\nJorhat (Assam) [India], June 6 (ANI): Police arrested two smugglers and recovered a rhino horn weighing about 1.158 kg from their possession in the Titabor area of Assam\'s Jorhat district.  Based on intelligence input, a police team of Jorhat district led by the Sub-Divisional Police Officer (SDPO) of Titabor Sub-Division had launched an operation on Sunday night and caught two persons at Teliapatty area near Titabor while they were in the area for selling a rhino horn. Mrinmoy Goswami, Additional Superintendent of Police of Jorhat district said that the market value of the horn is estimated at around Rs 1.50 crore.   "Yesterday, we had received information that two persons are coming here to sell a rhino horn. Immediately, a police team led by Maitrayee Deka launched an operation on Sunday night and apprehended two persons at Chuni Teliapatty. The police team recovered a rhino horn weighing about 1.158 kg in possession from them. Our investigation is on," said Mrinmoy Goswami. The apprehended persons were identified as Rajen Bauri and Azizul Rahman. (ANI)   ']
+
+
+Assam----LOC.STATE
+
+Two----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+rhino----SP.COMMON
+
+horn----ITEM
+
+Police----AUTH.SEIZE
+
+arrested----CRIME.CAT
+
+two----SUS.NUMBER
+
+recovered----OUTCOME
+
+a----QTY
+
+rhino----SP.COMMON
+
+horn----ITEM
+
+1.158 kg----QTY
+
+Titabor area----LOC.EXACT
+
+Assam's----LOC.STATE
+
+Jorhat----LOC.DISTRICT
+
+intelligence input----DETECTION_METHOD
+
+police team of Jorhat district----AUTH.SEIZE
+
+Sub-Divisional Police Officer (SDPO)----OFF.DESIG
+
+operation----DETECTION_METHOD
+
+Sunday----DATE
+
+night----TIME
+
+two----SUS.NUMBER
+
+Teliapatty area near Titabor----LOC.EXACT
+
+rhino----SP.COMMON
+
+horn----ITEM
+
+Mrinmoy Goswami----OFF.NAME
+
+Additional Superintendent of Police----OFF.DESIG
+
+Rs 1.50 crore----VALUE
+
+information----DETECTION_METHOD
+
+Maitrayee Deka----OFF.NAME
+
+Sunday----DATE
+
+night----TIME
+
+two----SUS.NUMBER
+
+Chuni Teliapatty----LOC.EXACT
+
+a----QTY
+
+rhino----SP.COMMON
+
+horn----ITEM
+
+1.158 kg----QTY
+
+Rajen Bauri----SUS.NAME
+
+Azizul Rahman----SUS.NAME

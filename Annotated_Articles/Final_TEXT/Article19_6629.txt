@@ -1,0 +1,57 @@
+
+['Lion nails: Forest dept suspects bigger racket\nRAJKOT: Officials of Rajasthan forest department raided the house of a suspected smuggler of animal organs on Thursday and found similar nail of suspected lion besides organs of wild animals during the raid in the house of Samsher Singh in Sultanpura village near Navalgadh.The raid follows the postal parcel of suspected lion nails that a man in Junagadh had received recently from a person in Jhunjhunu in Rajasthan.Forest officials suspect that Singh may be just the tip of an iceberg in the huge nexus of online racket selling these restricted commodities.Deputy conservator of forest, Jhunjhunu, Rajendra Hooda told TOI: "We have found nails suspected to be of lions and organs of other wild animals like panther and bear too. We are trying to dig further into the online nexus and have also booked a case of cyber crime."According to the forest department, the nexus was operating in Gujarat , Rajasthan and Uttar Pradesh.Meanwhile, Rajasthan forest department arrested Singh and his father, Birbal Singh, who owns the property where the organs of wild animals were found on Thursday. Both were produced in the Navalgadh court and sent on a three-day remand.The forest department has sent the organs to the FSL for verification and are also investigating call details and social media accounts of the accused. The department also asked the postal department to provide details of places where the accused had been sending parcels.According to a senior forest officer in Junagadh, investigating the supply route is crucial as wildlife crimes are very isolated and unrelated. "Such crime involve common people who are mostly from vulnerable society groups and they play conduits for measly sums but the kingpins operating the nexus covertly may be based elsewhere," he added.']
+
+
+Lion----SP.COMMON
+
+nails----ITEM
+
+Forest dept----AUTH.SEIZE
+
+Rajasthan forest department----AUTH.SEIZE
+
+raided----CRIME.CAT
+
+Thursday----DATE
+
+nail----ITEM
+
+lion----SP.COMMON
+
+organs----ITEM
+
+Samsher Singh----SUS.NAME
+
+Sultanpura village near Navalgadh.The----SUS.LOC
+
+postal parcel----DETECTION_METHOD
+
+lion----SP.COMMON
+
+nails----ITEM
+
+Jhunjhunu----LOC.EXACT
+
+nails----ITEM
+
+lions----SP.COMMON
+
+organs----ITEM
+
+panther----SP.COMMON
+
+bear----SP.COMMON
+
+Rajasthan forest department----AUTH.SEIZE
+
+arrested----CRIME.CAT
+
+Singh----SUS.NAME
+
+Birbal Singh----SUS.NAME
+
+organs----ITEM
+
+Thursday----DATE
+
+Both were produced in the Navalgadh court and sent on a three-day remand.The----OUTCOME

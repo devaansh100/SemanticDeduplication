@@ -1,0 +1,83 @@
+
+['Himachal villagers take up hunting amid lockdown\nSeveral Himachal residents have oiled their guns and set their sights on the state’s rich forest reserves with the state under lockdown to check the spread of the novel coronavirus disease (Covid-19). There have been multiple incidents of poaching. Traps set to snare wild animals and birds have been discovered across the state. Deer and bears have been poached and some unsuspecting dogs also ended up in the hunter’s crosshairs this week. DEER CARCASS, GUNS RECOVERED Police arrested three people for hunting wild animals in the forest area near Anandpur village in Shimla on Tuesday. Those arrested are Bhuveshneshwar, 27, of village Dhaiyath, Arki, an Alpine retreat employee, Purna Thakur,55, of Bhogh Village and Manseej Thakur, 25. The vehicle, which had a Haryana licence plate, was intercepted during curfew. The meat had been packed in polythene bags. The occupants confessed to have killed a barking deer. Their arms were seized and a case was registered under sections of the Indian Penal Code and Wildlife Act. ANIMALS COME CLOSE TO HABITATION With lack of human activity, wild animals are coming close to habitation. “Few people are taking advantage of the situation and hunting down animals. Forest teams are trying to keep a tab on hunters,” said Shimla divisional forest officer, wildlife, Shimla, Rajesh Sharma. The dense forests near Chail, Shimla and Solan are a habitat to many animal and bird species, bears, deer, hare, fox and leopards. The towns also have a substantial number of Kaleej and red jungle fowls. LABOURERS PUT OUT SNARES TO KILL WILD ANIMALS Benmore councillor found as many as six stray dogs entangled in steel wires and snares put up near Jakhu to trap birders and wild animals. The dogs were rescued with the help of locals and finally the case was taken up with municipal commissioner Pankaj Rai who later handed over the case to the police. “The dogs were entangled in the wires and had suffered wounds and cuts,” said Kimi Sood councillor. Similar incidents were also reported from Totu ward. No arrests have been made. HUNTERS GUN DOWN BEAR IN KULLU In Kullu, hunters killed a black bear near a stream adjoining Kharaga and Mawa Khadh in Kullu district’s Anni, three days ago. Hunters also pelted stones on the police party, which reached the forest area. Police confiscated the carcass of the bear, which was later handed over to the forest department. The forest veterinarian said the bear had died due to bullet injuries. SHARE THIS ARTICLE ON']
+
+
+Himachal----SUS.LOC
+
+hunting----CRIME.CAT
+
+DEER----SP.COMMON
+
+CARCASS----ITEM
+
+GUNS----ITEM
+
+Police----AUTH.SEIZE
+
+three----SUS.NUMBER
+
+Anandpur village in Shimla----LOC.EXACT
+
+Tuesday----DATE
+
+Bhuveshneshwar----SUS.NAME
+
+27----SUS.AGE
+
+village Dhaiyath----SUS.LOC
+
+Arki----SUS.NAME
+
+Alpine retreat employee----SP.COMMON
+
+Purna Thakur,55----SUS.NAME
+
+Bhogh Village----SUS.LOC
+
+Manseej Thakur----SUS.NAME
+
+25----SUS.AGE
+
+vehicle----TRANSPORT_MODE
+
+intercepted----CRIME.CAT
+
+meat----ITEM
+
+packed in polythene bags----CONCEALMENT_METHOD
+
+killed----CRIME.CAT
+
+barking----SP.SPECIFIC
+
+deer----SP.COMMON
+
+SNARES----ITEM
+
+WILD ANIMALS----SP.COMMON
+
+six----QTY
+
+stray dogs----SP.COMMON
+
+Pankaj Rai----OFF.NAME
+
+HUNTERS----AUTH.SEIZE
+
+GUN----CRIME.CAT
+
+BEAR----SP.COMMON
+
+KULLU----LOC.CITY
+
+Kullu----LOC.CITY
+
+hunters----SUS.AFFIL
+
+killed----CRIME.CAT
+
+black bear----SP.SPECIFIC
+
+three days ago----DATE
+
+forest department----AUTH.MISC

@@ -1,0 +1,15 @@
+
+['Elephants Destroyed Sugarcane & Mango Orchards In Tamil Nadu\nFarmers in Dharmapuri, Tamil Nadu, are angry after wild elephants destroyed their sugar cane crops and mango orchards. Farmers in Dharmapuri, Tamil Nadu, are enraged after wild elephants destroyed their sugar cane crops and mango orchards. Elephants had gone to the farmlands in quest of water, farmers claimed, and had devastated roughly 10 acres of sugar cane and mango orchards. Karuppanan, a farmer from Karimangalam in Dharmapuri, told IANS: "Elephants have wreaked havoc on our sugar cane crops and mango orchards, destroying about ten acres. A herd of six to nine elephants has arrived on farmland, causing significant losses to most farmers. This is an unusual occurrence, as it has never happened before." He said that elephants came to the farmland in search of water, and that the Forest Department should install additional water tanks in the forest so that elephants may quench their thirst there. Another farmer in the region, Somanathan, 61, said the village elders and general people had sent a memorandum to Dharmapuri district forest officials to stop the elephant threat. According to him, the losses of sugar cane and mangoes have pushed many farmers into debt since they expected to sell their goods at market. Special forest forces have been formed, according to forest officials, to prevent wild elephants from entering farmland. The government has also taken steps to keep wild elephants from grazing in rural towns and villages, and fence will be installed along the border to minimise man-animal conflict and crop loss . The elephants were forced away by the Palacode forest range\'s Rapid Response Force on Sunday, and "we have now implemented preventative measures against elephants approaching the village and damaging crops," a senior officer from the Palacode forest range in Dharmapuri told IANS. Farmers who have lost crops due to elephant attacks would be compensated if they provide the facts to the district administration, he added.']
+
+
+Elephants----SP.COMMON
+
+Tamil Nadu----LOC.STATE
+
+Dharmapuri----LOC.DISTRICT
+
+Tamil Nadu----LOC.STATE
+
+Dharmapuri----LOC.DISTRICT
+
+Tamil Nadu----LOC.STATE

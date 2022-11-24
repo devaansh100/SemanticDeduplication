@@ -1,0 +1,27 @@
+
+['Pune: Woman ‘kills two stray dogs’ after her son bitten by one of them, booked\nA woman allegedly killed two stray dogs in a residential society in Hadapsar after one of them reportedly bit her son earlier. An FIR has been registered at Hadapsar police station against the woman under the Prevention of Cruelty to Animals Act, 1960, and the Indian Penal Code section pertaining to killing or maiming of animals. The woman allegedly beat two stray dogs to death with a stick sometime between the night of April 8 and morning of April 9. Senior Inspector Arvind Gokule, in-charge of Hadapsar police station, said, “According to our primary information, a dog had bitten the woman’s son. The complainant has said that two dogs have been killed by the woman. The body of one dog has been found, another is yet to be traced. Both were stray dogs.” The woman allegedly also threatened to kill all stray dogs in the area. When the residents went to speak with her, she allegedly used abusive language and threatened to kill pet dogs of the residents as well.']
+
+
+Woman----SUS.GENDER
+
+kills----CRIME.CAT
+
+two----QTY
+
+stray dogs----SP.COMMON
+
+woman----SUS.GENDER
+
+stray dogs----SP.COMMON
+
+Hadapsar----LOC.CITY
+
+stray dogs----SP.COMMON
+
+night----TIME
+
+April 8----DATE
+
+morning----TIME
+
+April 9----DATE

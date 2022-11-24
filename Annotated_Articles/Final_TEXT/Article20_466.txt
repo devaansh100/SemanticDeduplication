@@ -1,0 +1,59 @@
+
+['Two elephant tusk smugglers arrested,Tusks recovered\nTwo persons have been arrested for allegedly smuggling elephant tusk at Amguri forest area in Chirang district. According to police, a search operation was carried out late last night and was able to detect the elephant tuskers smuggling team. The police team was led by additional SP Chirang,Prakash Medhi and in associated with Runikatha circle inspector Rustam Raj Brahma. Two elephant tusks were recovered, when they were traveling in a vehicle along the Indo-Bhutan border area under Amguri police station in Chirang district. They have been identified as Rahul Basumatary age 33 and Kankan Narzary age 34 of Amguri in Chirang. The police team also seized a vehicle bearing registration no.AS01AG-9780, a scooty registration no.AS26B-4792, Also read:Village in Assam sans electricity even after 74 years of India’s Independence mobile handsets and cash money worth rupees 3220 from their possession. Two other smugglers involved in the crime however managed to escape. "Police administration has been taking strong initiative to root out the smuggling vases in the area and accordingly able to detect the smuggling tuskers", said a senior police officer in Chirang. Readers like you make Inside Northeast’s work possible To support our brand of fearless and investigative journalism, support us HERE. Download: The Inside Northeast app HERE for News, Views, and Reviews from Northeast India. Do keep following us for news on-the-go. We deliver the Northeast.']
+
+
+Two----SUS.NUMBER
+
+elephant----SP.COMMON
+
+tusk----ITEM
+
+arrested----CRIME.CAT
+
+Tusks----ITEM
+
+Two----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+elephant----SP.COMMON
+
+tusk----ITEM
+
+Amguri forest area----LOC.EXACT
+
+Chirang district----LOC.DISTRICT
+
+search operation----DETECTION_METHOD
+
+night----TIME
+
+additional SP----OFF.DESIG
+
+Prakash Medhi----OFF.NAME
+
+Runikatha circle inspector----AUTH.SEIZE
+
+Rustam Raj Brahma----OFF.NAME
+
+Two----QTY
+
+elephant----SP.COMMON
+
+tusks----ITEM
+
+vehicle----TRANSPORT_MODE
+
+Chirang----LOC.DISTRICT
+
+Rahul Basumatary----SUS.NAME
+
+33----SUS.AGE
+
+Kankan Narzary----SUS.NAME
+
+34----SUS.AGE
+
+Amguri----SUS.LOC
+
+vehicle----ITEM

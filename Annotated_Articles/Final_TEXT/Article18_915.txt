@@ -1,0 +1,43 @@
+
+['Hundreds of cockroaches released in New York courtroom during hearing\nHundreds of cockroaches released in Albany City Court Photo : iStock KEY HIGHLIGHTS Hundreds of cockroaches were released in Albany City Court on Tuesday The court was closed for the rest of the day for fumigation while the bug release is being investigated A 34-year-old woman in the audience was arrested Albany , New York : Hundreds of cockroaches were released in a New York courtroom during an altercation that broke out at an arraignment on Tuesday, according to court officials. The bizarre incident happened in Albany City Court after a defendant who started to film the courtroom proceedings was told to stop. In an altercation that followed, hundreds of cockroaches that were brought into the courthouse in plastic containers were released. The court was closed for the rest of the day for fumigation while the bug release is being investigated. Related News US man mad at girlfriend breaks into Dallas Museum of Art, leaves trail of destruction worth Rs 40 crore A 34-year-old woman in the audience was arrested for charges related to the altercation, including disorderly conduct, obstructing governmental administration and tampering with physical evidence, AP reported. She was later released. "What transpired is not advocacy or activism, it is criminal behaviour with the intent to disrupt a proceeding and cause damage," the Office of Court Administration said in a statement.']
+
+
+Hundreds----QTY
+
+cockroaches----SP.COMMON
+
+Hundreds----QTY
+
+cockroaches----SP.COMMON
+
+Albany City Court----LOC.EXACT
+
+cockroaches----SP.COMMON
+
+Albany City Court----LOC.EXACT
+
+Tuesday----DATE
+
+34-year-old----SUS.AGE
+
+woman----SUS.GENDER
+
+Albany----LOC.CITY
+
+Hundreds----QTY
+
+cockroaches----SP.COMMON
+
+Tuesday----DATE
+
+Albany City Court----LOC.EXACT
+
+cockroaches----SP.COMMON
+
+man----SUS.GENDER
+
+Rs 40 crore----VALUE
+
+34-year-old----SUS.AGE
+
+woman----SUS.GENDER

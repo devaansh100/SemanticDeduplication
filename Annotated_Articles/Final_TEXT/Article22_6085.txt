@@ -1,0 +1,7 @@
+
+['The Snow Leopard by artist Sonali Sengupta – Image, Painting\nThis is a beautiful fine art acrylic painting of a Snow Leopard. Painted in black and white with a black background, the blue eyes make a striking addition.']
+
+
+Snow Leopard----SP.COMMON
+
+Sonali Sengupta----OFF.NAME

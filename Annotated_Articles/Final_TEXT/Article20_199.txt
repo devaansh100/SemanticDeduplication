@@ -1,0 +1,41 @@
+
+['Two poachers held for hunting monitor lizards\nMysuru: Forest officials in Cauvery Wildlife Sanctuary arrested two persons for poaching and seized the carcass of two monitor lizards which they allegedly hunted inside the forests on Sunday evening.The accused have been identified as Kumar (36) and Selvan (51), residents of Marikottayam village in Hanuru taluk in Chamarajanagar district.The duo had entered the forests at Gopinatham range under Cauvery Wildlife Sanctuary on the pretext of grazing sheep, the foresters said. Leaving their sheep to graze near the forests, they illegally entered deep inside the forest along with their dogs and managed to catch two monitor lizards, they said.The forest staff, who were patrolling the Alambadi beat area, noticed the two walking near Hunase Marada Thopu with the lizards and arrested them. They were produced before the court and sent to judicial custody.']
+
+
+Two----SUS.NUMBER
+
+hunting----CRIME.CAT
+
+monitor lizards----SP.COMMON
+
+Forest officials in Cauvery Wildlife Sanctuary----AUTH.SEIZE
+
+arrested----CRIME.CAT
+
+two----SUS.NUMBER
+
+poaching----CRIME.CAT
+
+seized----CRIME.CAT
+
+carcass----ITEM
+
+two----QTY
+
+monitor lizards----SP.COMMON
+
+hunted----CRIME.CAT
+
+Sunday----DATE
+
+evening.The----TIME
+
+Kumar----SUS.NAME
+
+36----SUS.AGE
+
+Selvan----SUS.NAME
+
+51----SUS.AGE
+
+Marikottayam village in Hanuru taluk in Chamarajanagar district.The----SUS.LOC

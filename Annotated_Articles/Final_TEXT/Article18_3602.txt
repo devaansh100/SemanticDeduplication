@@ -1,0 +1,25 @@
+
+['2 peacocks found dead in UP, probe indicates pesticide poisoning\nTwo peacocks and a few other birds have been found dead near a mango orchard in Deoria Asguna village in Uttar Pradesh’s Badaun, possibly due to pesticide poisoning. Preliminary investigations indicate that insecticides sprayed on the crop could be the cause of their deaths. Peacocks falls under Schedule 1 status of the Wildlife Protection Act, 1972 (which covers endangered species that need rigorous protection), and an FIR has been registered against unidentified persons. The carcasses of the birds have been sent to Indian Veterinary Research Institute (IVRI) for autopsy. Divisional Forest Officer (DFO) Ashok Kumar Singh said, “The peacocks may have fed on dead insects or consumed contaminated water which led to their death.”']
+
+
+2----QTY
+
+peacocks----SP.COMMON
+
+UP----LOC.STATE
+
+poisoning----CRIME.CAT
+
+Two----QTY
+
+peacocks----SP.COMMON
+
+mango orchard in Deoria Asguna village----LOC.EXACT
+
+Uttar Pradesh’s----LOC.STATE
+
+Badaun----LOC.DISTRICT
+
+pesticide poisoning----CRIME.CAT
+
+carcasses of the birds have been sent to Indian Veterinary Research Institute (IVRI)----OUTCOME

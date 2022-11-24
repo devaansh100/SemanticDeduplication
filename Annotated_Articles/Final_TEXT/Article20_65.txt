@@ -1,0 +1,49 @@
+
+["Coronavirus outbreak: Customs officials take extra precautions while seizing exotic pets\nSeizure and quarantine of exotic pets that are meant to be smuggled into India are quite common occurrences for customs officials at the Chennai International Airport, but officials now are being extra-cautious in dealing with smuggled animals, amidst the growing concerns over the spread of coronavirus. The virus that has claimed over 200 lives has been declared a global health emergency by the World Health Organisation. Scientists suspect that the virus originated from bats and spread further at China's Hunan seafood market that deals with various types of exotic animal meat, after which it spread to humans. Amidst intense screening of passengers arriving at India’s major International airports, customs officials had stepped up vigil based on information that exotic species are likely to be smuggled into the country by a passenger arriving from Bangkok. On Friday morning, Customs officials had intercepted Ibrahim Shah, a Chennai resident who had arrived by Thai Airways flight TG337, after he was found to be moving in a suspicious manner while collecting his checked-in black stroller bag. Examination of his bag revealed two plastic containers and tiffin boxes that were concealed among chocolates and wafers. The containers carried species of exotic mammals, rodents and reptiles. Wildlife Crime Control Bureau (WCCB) officials identified the species as Meerkat, Fat tail gerbil, Sphynx rat, Albinopacman frog, Tarantula spider, chameleon and green iguanas. “We are exercising extra caution at Chennai airport amid the Coronavirus outbreak that’s become a global issue now. Since the virus is believed to have originated from certain types of animals, we have ensured that our staff handle the seized animals while wearing adequate protective equipment. They have been issued gloves, masks and after temporarily quarantining the animals in the airport, they will be deported to the country of origin within a day” Commissioner of Customs, Rajan Chaudhary told WION. Ibrahim Shah told Customs officials that unknown persons had handed over the bag to him outside the Bangkok airport, along with instructions to hand it over to a person outside the Chennai airport. Despite Ibrahim being taken outside the airport for handing over the bag, no-one seemed to have turned up. Thirteen animals that fall under seven species were seized under the provisions of Customs Act 1962 with FT (D&R) Act. A team of Veterinary doctors from the Arignar Anna Zoological Park inspected the animals and certified that they are in a healthy condition. Animal Quarantine officials recommended to deport the wildlife species as the passenger did a no-objection certificate or the necessary license for import. "]
+
+
+Coronavirus----SP.COMMON
+
+Customs officials----AUTH.SEIZE
+
+customs officials----AUTH.SEIZE
+
+information----DETECTION_METHOD
+
+Friday----DATE
+
+morning----TIME
+
+Customs officials----AUTH.SEIZE
+
+Ibrahim Shah----SUS.NAME
+
+Chennai----SUS.LOC
+
+Thai----ROUTE.TRANSIT
+
+plastic containers----CONCEALMENT_METHOD
+
+tiffin boxes----CONCEALMENT_METHOD
+
+rodents----SP.COMMON
+
+reptiles----SP.COMMON
+
+Wildlife Crime Control Bureau (WCCB)----AUTH.MISC
+
+Meerkat----SP.SPECIFIC
+
+Fat tail gerbil----SP.SPECIFIC
+
+Sphynx rat----SP.SPECIFIC
+
+Albinopacman frog----SP.SPECIFIC
+
+Tarantula spider----SP.SPECIFIC
+
+chameleon----SP.SPECIFIC
+
+green iguanas----SP.SPECIFIC
+
+seized----CRIME.CAT

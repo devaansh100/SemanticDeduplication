@@ -1,0 +1,29 @@
+
+['Two Clouded Leopards rescued in Nagaland\nDimapur, June 1 (MExN): The Nagaland Zoological Park Animal Rescue Team rescued two Clouded Leopard cubs from Longpa village under Mokokchung district on May 30. According to Dr C Zupeni Tsanglai, IFS, Director, Nagaland Zoological Park, Rangapahar, the Clouded Leopard is a threatened (vulnerable) species under IUCN (3.1) and a Schedule I species protected under the Wildlife (Protection) Act, 1972. The Director in a press release said that at present there are only six zoos in India that has this species thereby making the Nagaland Zoological Park the 7th zoo in India to house this species provided these two cubs could survive, however, the cubs are still in infant stage and require constant care and monitoring and for which the zoo staff with the help of a Zoo Veterinarian are looking after them constantly since their arrival to the zoo. “The cubs were found abandoned by their mother and trying to climb up a ledge in the jungle. It was due to the timely intervention by Temjenmoa that the cubs were safely rescued and given to the Animal Rescue Team of NZP for rehabilitation in the zoo,” Dr Zupeni acknowledged in the release. She also added that these are wild cat species inhabiting dense forest from the foothills of the Himalayas through Southeast Asia into South China.']
+
+
+Two----QTY
+
+Clouded Leopards----SP.SPECIFIC
+
+rescued----CRIME.CAT
+
+Nagaland----LOC.STATE
+
+Dimapur----LOC.CITY
+
+June 1----DATE
+
+Nagaland Zoological Park Animal Rescue Team----AUTH.SEIZE
+
+rescued----CRIME.CAT
+
+two----QTY
+
+Clouded Leopard----SP.SPECIFIC
+
+Longpa village----LOC.EXACT
+
+Mokokchung district----LOC.DISTRICT
+
+May 30----DATE

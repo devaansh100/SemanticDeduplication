@@ -1,0 +1,29 @@
+
+['Baby elephant carcass found in Odisha’s Deogarh\nDeogarh: Adding to the unending episode of elephant death in the State carcass of an elephant calf has been found lying near Baradanali village under Reamal Forest Range in Deogarh district today morning. The elephant death came to light after a local identified as one Fakir Gadanayak spotted the carcass early in the morning and called up forest officials from Palasama and Reamal. Forest officials accompanied by Veterinarians reached they spot immediately and examined the dead calf which seems to be around 3-year-old. While the carcass has been seized for an autopsy the exact cause of the death of the calf is yet to be ascertained.']
+
+
+elephant----SP.COMMON
+
+carcass----ITEM
+
+Odisha’s----LOC.STATE
+
+Deogarh----LOC.CITY
+
+carcass----ITEM
+
+elephant----SP.COMMON
+
+Baradanali village under Reamal Forest Range----LOC.EXACT
+
+Deogarh----LOC.DISTRICT
+
+today----DATE
+
+morning----TIME
+
+morning----TIME
+
+forest officials----AUTH.SEIZE
+
+carcass has been seized for an autopsy----OUTCOME

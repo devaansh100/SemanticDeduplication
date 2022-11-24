@@ -1,0 +1,29 @@
+
+['Mumbai: RAWW rescues four-feet-long spectacled cobra at midnight\nA distress call was reported in the middle of the night from Andheri on Thursday about a venomous cobra spotted behind a water tank in a house inhabited by nearly 10 labourers. Sahil Vichare from the Resqink Association of Wildlife Welfare (RAWW) and his team rescued the four-foot-long spectacled cobra and released it into the wild, in coordination with the forest department. The reptile is extremely venomous. RAWW’s founder Pawan Sharma said that human settlements are cooler during summers and warmer in winters. “Snakes being cold-blooded have to regulate their body temperature so as to survive and thus end up in such places. Reptiles are very common in the city and are also attracted towards human settlements due to a huge prey base because of unmanaged edible waste,” he said. Vichare said the house was part of a slum area, which made it easy for cobra to enter.']
+
+
+Mumbai----LOC.CITY
+
+RAWW----AUTH.SEIZE
+
+rescues----OUTCOME
+
+spectacled cobra----SP.SPECIFIC
+
+midnight----TIME
+
+distress call----DETECTION_METHOD
+
+night----TIME
+
+Andheri----LOC.EXACT
+
+Thursday----DATE
+
+Sahil Vichare----OFF.NAME
+
+Resqink Association of Wildlife Welfare (RAWW)----AUTH.SEIZE
+
+spectacled cobra----SP.SPECIFIC
+
+forest department----AUTH.SEIZE

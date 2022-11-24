@@ -1,0 +1,53 @@
+
+['Uttarakhand forest dept catches wildlife smuggler with 33 turtles, booked\nThe Uttarakhand forest department has arrested a man on charges of smuggling turtles in Udham Singh Nagar district, forest officials said. The officials have recovered 33 turtles from his possession. Abhilasha Singh, divisional forest officer (DFO) Terai Central forest division said on Monday night around 11pm, a forest patrolling team was checking at Pulbhatta Barrier on Bareilly Road. “A person who was coming on a bike was asked to stop. But he didn’t stop and just ran away. The forest team chased him and caught him,” said Singh Singh said when forest officials checked him and his belongings, they recovered 33 turtles from his bag. “The wildlife smuggler has been identified as Sameer Mandal, son of Subodh Mandal, a resident of Kheda, Rudrapur. We have booked him under Section 9 (prohibition on hunting, no person shall hunt any wildlife listed in schedule 1,2,3,4) of Wildlife (Protection) Act 1972,” she said. Singh said the accused is being questioned whether he is part of any wildlife smuggling network and where he was taking these turtles and from where he had got them. This is not the first time when turtles and tortoises have been recovered in the state. In March, the Uttarakhand police rescued 16 turtles in Kichha area of US Nagar and arrested the two women from whom they were recovered Turtles are killed for their meat and are in good demand in some areas of US Nagar like Dineshpur, Transit camp and Shaktifarm. In June last year, the state forest department arrested a 36-year-old man on charges of smuggling Indian flapshell turtle in US Nagar district. In December last year, police recovered 40 turtles from a man in Dineshpur area of US Nagar. The accused had kept the turtles hidden in a polybag in his kitchen. Earlier in March last year, 25 turtles were recovered from the same village hidden in the bathroom of a house. In May 2019, forest officials arrested one 40 year old Abdul Rauf in Jhirna range of Corbett tiger reserve and recovered a dead turtle from his possession. In August 2019 three people were arrested in Rudrapur and 14 tortoises were recovered from their possession.']
+
+
+Uttarakhand forest dept----AUTH.SEIZE
+
+33----QTY
+
+turtles----SP.COMMON
+
+Uttarakhand forest department----AUTH.SEIZE
+
+arrested----CRIME.CAT
+
+a----SUS.NUMBER
+
+man----SUS.GENDER
+
+turtles----SP.COMMON
+
+Udham Singh Nagar district----LOC.DISTRICT
+
+33----QTY
+
+turtles----SP.COMMON
+
+Abhilasha Singh----OFF.NAME
+
+divisional forest officer (DFO) Terai Central forest division----OFF.DESIG
+
+Monday----DATE
+
+night----TIME
+
+11pm----TIME
+
+forest patrolling team----AUTH.SEIZE
+
+bike----TRANSPORT_MODE
+
+33----QTY
+
+Sameer Mandal----SUS.NAME
+
+son----SUS.GENDER
+
+Kheda, Rudrapur----SUS.LOC
+
+40----QTY
+
+turtles----SP.COMMON
+
+Dineshpur area----LOC.EXACT

@@ -1,0 +1,41 @@
+
+['J&K wildlife dept orders killing of leopard termed a ‘man-eater’\nSrinagar: The wildlife department of Jammu and Kashmir on Tuesday ordered killing of a man-eater leopard that killed three children in north Kashmir’s Baramulla district in the last one week, officials said. The decision came after the half-eaten body of a 12-year-old girl, identified as Rutba Manzoor of Bernate village, was recovered from a nearby forest on Tuesday. Local residents said the girl was taken away by the animal in the morning. “We heard screams and then rushed towards the forest. We couldn’t see the leopard but found her body lying in the forest,” Riyaz Ahmad, a villager, said. The incident, third such in the past one week, triggered protests along the Srinagar -Uri highway as relatives of the deceased held her body and protested against the wildlife department for allegedly failing to prevent such instances. In its order issued on Tuesday, J&K chief wildlife warden Suresh Gupta said: “In exercise of powers, vested in me under subsection 1(a) of the section 11 of Wildlife (protection) Act, 1972 hereby accords the permission in favour of Wildlife warden North Division Kashmir to hunt or cause the said animal to be hunted forthwith after completing the required formalities.” “That it shall be ensured that all efforts to capture the animal through trapping cages or tranquilizing have been exhausted before eliminating the animal…,” the order said. Besides setting up cages, hunters have been deployed in the area to kill the animal, a senior wildlife officer said. The leopard, which is suspected of roaming the villages of Uri, claimed two more lives at Boniyar and Cholan area. On Sunday night, the body of 13-year-old Shahid Ahmad was recovered from forests of Trikanjan in Boniyar. Ahmad had gone to the forest with his cattle earlier in the day when he fell prey to the animal, officials said. A day earlier, 15-year-old Muneer Ahmad of Kalsan in the same area was also killed by the animal, the officials added. Rizwan Ahmad, a resident of Trikanjan, said the incidents have left villagers in a state of panic. “The incidents took place in separate areas and forests. The people are in a state of panic,” he said, adding that he suspected the presence of more man-eater leopards in the area. Villagers claimed some children recently escaped the animal. Announcements made through loudspeakers in mosques cautioned villagers in Boniyar to not venture out in the evening or early morning.']
+
+
+J&K wildlife dept----AUTH.SEIZE
+
+killing----CRIME.CAT
+
+leopard----SP.COMMON
+
+wildlife department of Jammu and Kashmir----AUTH.SEIZE
+
+Tuesday----DATE
+
+killing----CRIME.CAT
+
+Baramulla----LOC.DISTRICT
+
+Rutba Manzoor----SUS.NAME
+
+Bernate village----SUS.LOC
+
+Tuesday----DATE
+
+morning----TIME
+
+Sunday----DATE
+
+night----TIME
+
+body----ITEM
+
+13-year-old----SUS.AGE
+
+Shahid Ahmad----SUS.NAME
+
+forests of Trikanjan in Boniyar----ROUTE.SRC
+
+15-year-old----SUS.AGE
+
+Muneer Ahmad----SUS.NAME

@@ -1,0 +1,47 @@
+
+['Jalpaiguri: Carcass of rhino recovered\nDarjeling: The carcass of a rhinoceros was recovered from the Jalpaiguri district on Tuesday.  Foresters had spotted the carcass of a sub adult rhinoceros on Monday evening. The carcass was spotted near the Medla watch tower in the Gorumara South Range in the Mainaguri block of the Jalpaiguri district. The carcass was recovered by the foresters and sent for post mortem. Only after the post mortem report is received can the cause of death be ascertained, stated the forest officials. Tourists were prohibited from visiting the Medla watch tower area on Tuesday. In another incident, a 45-year-old woman was attacked by a leopard in the Phansidewa block of the Darjeeling district on Tuesday. The incident occurred at Haatborojot area of Rangapani in Phansidewa on Tuesday morning. 45 year old Shanti Oraon was working near a bought leaf tea factory when she was attacked by a leopard. She received grievous injuries on her neck and shoulders. However locals rescued her and admitted her at the North Bengal Medical College and Hospital where she is undergoing treatment. Foresters from the Bagdogra Range under Sumiran Raj, Ranger arrived at the spot. They burst firecrackers to drive away the leopard. Local residents staged a protest and demanded that a cage trap be set up in the location by the forest department as leopard sightings in this area are common.']
+
+
+Carcass----ITEM
+
+rhino----SP.COMMON
+
+carcass----ITEM
+
+rhinoceros----SP.COMMON
+
+Jalpaiguri----LOC.DISTRICT
+
+Tuesday----DATE
+
+Foresters----AUTH.SEIZE
+
+Monday----DATE
+
+evening----TIME
+
+Jalpaiguri----LOC.DISTRICT
+
+carcass was recovered by the----OUTCOME
+
+sent for post mortem----OUTCOME
+
+45-year-old----SUS.AGE
+
+woman----SUS.GENDER
+
+Tuesday----DATE
+
+Haatborojot area of Rangapani in Phansidewa----LOC.EXACT
+
+Tuesday----DATE
+
+morning----TIME
+
+45 year old----SUS.AGE
+
+Shanti Oraon----SUS.NAME
+
+leopard----SP.COMMON
+
+Ranger----OFF.DESIG

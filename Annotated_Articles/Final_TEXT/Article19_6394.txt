@@ -1,0 +1,31 @@
+
+['Assam: Leopard captured at Dikom tea estate\nYet another full grown leopard was caged at Dikom tea estate in Upper Assam Dibrugarh district on Friday. This was the second leopard caged at Dikom tea estate less than a week. According to locals, the leopard has been straying in our locality for past several days. “We are happy that the forest department has successfully caged the leopard. The tea workers were afraid to go for tea plucking in fear of leopard because the leopard ventured in the tea garden,” said Mintu Tanti, a resident of Dikom tea estate. The leopard on last night walked into the trap that had been laid by the first department official. Nareswar Das, Dibrugarh forest ranger said the residents of Dikom tea estate complained them about straying of leopard in the tea garden for last several days. “We have put up a caged at the tea garden and on last night the leopard walked into the trap. This was the second leopard trapped within a week from Dikom tea estate,” Das said. He said after examination the leopard was released in Dehing Patkai reserve forest. However, man- animal conflict has been rising tremendously in the tea garden area of Assam because the animal often strayed into human habitation in search of food. Assam government on Thursday launched anti-depredation squad across 15 major human-wildlife conflict affected districts to mitigate the menace. “We are organising awareness programme in the tea garden areas. Community participation is necessary to mitigate the man-animal conflict,” the ranger said. Recently, a big cat sneaked into the residence of one Mahtab Ahmed in the busy neighbourhood of Paltan Bazar in Dibrugarh. The leopard which was taken shelter in the kitchen of the house attacked one Ammamuddin Ahmed. Later the leopard was tranquilised and released at Dehing Patkai reserve forest.']
+
+
+Assam----LOC.STATE
+
+Leopard----SP.COMMON
+
+captured----CRIME.CAT
+
+Dikom tea estate----LOC.EXACT
+
+Dikom tea estate----LOC.EXACT
+
+Dibrugarh----LOC.DISTRICT
+
+Friday----DATE
+
+leopard----SP.COMMON
+
+forest department----AUTH.SEIZE
+
+leopard----SP.COMMON
+
+leopard----SP.COMMON
+
+Mahtab Ahmed----SUS.NAME
+
+leopard----SP.COMMON
+
+Ammamuddin Ahmed----SUS.NAME

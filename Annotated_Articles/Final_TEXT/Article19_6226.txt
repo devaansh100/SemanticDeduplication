@@ -1,0 +1,17 @@
+
+['Fact Check: Did Worldâ€™s Largest Snake Kill 257 People?\nNew Delhi: An image of a snake, claiming to be the "World’s biggest snake Anaconda found in Africa\'s Amazon river" is doing rounds on the internet. The post also says that the giant snake has killed 257 human beings and 2325 animals. The posts say, "Africa’s Royal British commandos took 37 days to get it killed." The image is fake and the claim is untrue. World\'s biggest snake Anaconda found in Africa\'s Amazon river. It has killed 257 humans & 2325 animals. It\'s 134 feet long & 2067 Kgs. Africa\'s Royal British Commandos took 37 days to get it killed. 5 Ð¶Ð¸Ð»Ð¸Ð¹Ð½ ÐµÐ¼Ð½ÐµÑ… Ð¿Ð¾ÑÂÂÂÂ\x81Ñ‚ ÑÂÂÂÂ\x8fÐ²Ð¶ÑÂÂÂÂ\x8dÑÂÂÂÂ\x8dÐ½! pic.twitter.com/OvOYJs3Cpy — Dawaa Radnaa (@DawaaRadnaa) April 26, 2019 According to the post the snake is 134 feet long and 2067 kgs. The image is not recent and has been circulating for at least since 2015. The caption of the image is also misleading. The caption claims that the snake is found in Africa’s Amazon River. This is false as Amazon River is located in South America not Africa. FACT CHECK: When our team started the investigation, we found that the image is edited and the surface where the snake’s body meets the ground appears distorted. The reverse search image revealed that the image of the snake is that of a normal-sized anaconda on which the surrounding and the men were added. The posts also claim that the reptile is “134 feet long and 2067 kgs.” According to National Geographic, the green anaconda is the world’s largest snake and it can weigh up to 550 kgs – which is far less than what the posts claim. So, the image and the claim about world’s largest snake are untrue. For all the Latest Fact Check News, Download News Nation Android and iOS Mobile Apps.']
+
+
+Snake----SP.COMMON
+
+snake----SP.COMMON
+
+Royal British commandos----SP.SPECIFIC
+
+134 feet long----QTY
+
+2067 Kgs----QTY
+
+134 feet long----QTY
+
+2067 kgs----QTY

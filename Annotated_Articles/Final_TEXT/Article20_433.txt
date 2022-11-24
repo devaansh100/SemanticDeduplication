@@ -1,0 +1,27 @@
+
+['Odisha: Elephant dies after being shot by poacher in Cuttack\nA female elephant died today after poachers allegedly shot the animal four days ago at Odisha’s forest near Banjhiama village under Mangarajpur panchayat. The ailing elephant had sustained bullet injuries on the right leg. The elephant died at Dalijoda Reserve Forest under Choudwar police limits in Odisha’s Cuttack district today, according to the reports. On being informed about the poachers attack, Forest Department officials had visited the spot. Arrangements were made for the treatment of the animal by some staffers of the Nandankanan Zoological Park, Bhubaneswar. However, the pachyderm succumbed to injuries while undergoing treatment today. Animal cruelty is growing at a fast pace. Last month the world celebrated Elephants Day. As many as 1,025 jumbos and 4,642 people have died in human-elephant conflict in the ten years till September 2019, figures released by the Forest Ministry show. These figures were released by the ministry on the World Elephants Day in August. The overwhelming cause of the elephant deaths 62%, or 640 elephants is electrocution. This is followed by train mishaps (170 deaths), poaching (153), and poisoning (62). During the ten-year-period, the highest number of human causalities have occurred in West Bengal (18% of total deaths or 821 people). Odisha has recorded 778 deaths, followed by Assam with 702, Jharkhand (692), Tamil Nadu (473), Chhattisgarh (461), Karnataka (337), Kerala (179), Uttarakhand (76), Meghalaya (59), and Andhra Pradesh (25), according to a report in The Indian Express. In last two-and-half months of lockdown, at least 14 elephants died in Odisha. The deaths are attributed to poaching, electrocution and other unknown reasons. The last four deaths, though, are clearly instances of poaching.']
+
+
+Odisha----LOC.STATE
+
+Elephant----SP.COMMON
+
+shot----CRIME.CAT
+
+Cuttack----LOC.DISTRICT
+
+A----QTY
+
+elephant----SP.COMMON
+
+forest near Banjhiama village under Mangarajpur panchayat----LOC.EXACT
+
+elephant----SP.COMMON
+
+elephant----SP.COMMON
+
+Dalijoda Reserve Forest----LOC.EXACT
+
+Cuttack----LOC.DISTRICT
+
+Forest Department officials----AUTH.SEIZE

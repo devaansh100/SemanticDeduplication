@@ -1,0 +1,49 @@
+
+['4 arrested with elephant tusks in Sikar\nJaipur: Sikar police on Sunday arrested four accused for smuggling elephant tusks weighing approximately 3.5kg. The accused were trying to sell it when they were caught red-handed.Police are trying to ascertain the means by which the accused got the tusks. The accused are Shivchand, Pratap Jat, Sandeep Jat and Omprakash Jat. While the latter three are in their 30s, Shivchand is in his 50s.Uma Shankar, SHO, Ramgarh police station, said, “We received information that the accused had on them elephant tusks which they were trying to sell in the area. We formed teams and nabbed them with the animal parts. The consignment comprised elephant tusks and jaw. Each of them was carrying the tusks in certain quantity.”The tusks were between 5-7 inches long and 1 to 1.75 inches thick. The cops are still trying to find from where the accused procured the banned item. The jaw was approximately 5 to 7 inches in thickness and 1.45 inches in length.“The investigation is currently under way and we are questioning the accused to find the source from where they got the tusks. There is a nexus which is supplying these tusks, which means there is demand for it in Rajasthan as well. We are interrogating the accused to find out their other gang members as well,” said the official. The accused were booked under Wildlife Protection Act 1972. Cops are also checking the past criminal records of the four arrested to find if they have dealt in some other animal parts.Elephant is protected under Schedule 1 of the Wildlife Protection Act, 1972. It lists it as ‘most endangered animal’. Poaching it or having any ivory item calls for a minimum three years in jail and Rs 50,000 fine.']
+
+
+4----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+elephant----SP.COMMON
+
+tusks----ITEM
+
+Sikar----LOC.CITY
+
+police----AUTH.SEIZE
+
+Sunday----DATE
+
+arrested----CRIME.CAT
+
+four----SUS.NUMBER
+
+elephant----SP.COMMON
+
+tusks----ITEM
+
+3.5kg----QTY
+
+Shivchand----SUS.NAME
+
+Pratap Jat----SUS.NAME
+
+Sandeep Jat----SUS.NAME
+
+Omprakash Jat----SUS.NAME
+
+elephant----SP.COMMON
+
+tusks----ITEM
+
+nabbed----CRIME.CAT
+
+elephant----SP.COMMON
+
+tusks----ITEM
+
+jaw----ITEM
+
+The accused were booked under Wildlife Protection Act 1972----OUTCOME

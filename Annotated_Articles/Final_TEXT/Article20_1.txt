@@ -1,0 +1,41 @@
+
+['Rescued baby parakeets being fed on formula, love\nBengaluru birds Wildlife Rescue and Rehabilitation Centre Fourteen rose-ringed parakeets were rescued recently while they were being smuggled from Tamil Nadu to. The three-month-oldare now under medical care in Bannerghatta. Experts say parakeets are often smuggled during their breeding season (August to January) to Karnataka as they are used by “astrologers” on the streets. Some also see about 150 to 200 cases of rescue during these months.PS Anand Nair, rehabilitator and manager,(WRRC) and Bannerghatta Rehabilitation Centre (BRC), said rose ringed parakeets are Schedule IV animal and smuggling of wildlife is illegal. “They are protected under the Wildlife Protection Act, 1972 and cannot be smuggled. These birds are sold for astrology use, to pick cards on the streets. Many also buy them to keep as pets at their homes and farm houses. This is common during the breeding season. Many such birds are rescued, rehabilitated and then released into the wild,” he said.An FIR has been registered against three people — 27-year-old Vipin Thomas, a resident of Jigani, Anekal; 30-year-old Benson Sunny, a resident of NGR Layout; and 30-year-old Vijay Kumar, a resident of Kodigehalli - who are accused of smuggling these 14 birds. The Koramangala Police received a tip-off and were able to arrest them when they were trying to sell the birds at Dr BR Ambedkar Park recently.The rescued birds will be released into the wild in two months, said Anand. “They are baby birds. We are vaccinating them and are feeding them with bird formula three times a day,” he said. The bird food costs Rs 3,800 for a 2-kg pack and owing to the number of little ones, the centre is spending for a kg a week.“They learn faster to adapt and fly when they learn from their parents. Now, they are being handfed. Later, they will be provided with banana and papaya to bite and peanuts and sunflower seeds to eat,” he added. He said awareness among people in Tamil Nadu is low. “Many are not aware that these are protected species under the Wildlife Protection Act. Sometimes, about a bunch of 150 to 250 are smuggled to Karnataka, escpecially from Tamil Nadu. We get other wildlife species at our rehab centre that were smuggled from Tamil Nadu. In Maharashtra too, these birds are kept in cages at homes as pets,” he said.Earlier this year, 10 spiny-tailed lizards were also rescued by the Koramangala Police that were being smuggled from Rajasthan to be sold as aphrodisiac.']
+
+
+parakeets----SP.COMMON
+
+Fourteen----QTY
+
+rose-ringed parakeets----SP.SPECIFIC
+
+rescued----OUTCOME
+
+Tamil Nadu----ROUTE.SRC
+
+three----SUS.NUMBER
+
+27-year-old----SUS.AGE
+
+Vipin Thomas----SUS.NAME
+
+Jigani----SUS.LOC
+
+30----SUS.AGE
+
+Benson Sunny----SUS.NAME
+
+NGR Layout----SUS.LOC
+
+30-year-old----SUS.AGE
+
+Vijay Kumar----SUS.NAME
+
+Kodigehalli----SUS.LOC
+
+smuggling----CRIME.CAT
+
+14----QTY
+
+Police----AUTH.SEIZE
+
+tip-off----DETECTION_METHOD

@@ -1,0 +1,17 @@
+
+['Siliguri: Latest News, Videos and Photos of Siliguri\n18k kg drugs to be set ablaze from today Jun 08, 2022, 08:09 (IST) kolkata more than 18000kg of narcotics stored over the past 18 years will be destroyed in siliguri on wednesday when the department of revenue intelligence undertakes one of the largest incinerations of drugs in the past few yearsthe process sources said would continue for nearly a week at a biomedical waste incineration premises following strict guidelines including those for pollution control according to dri sources a committee.']
+
+
+18k kg----QTY
+
+drugs----ITEM
+
+18000kg----QTY
+
+narcotics----ITEM
+
+siliguri----LOC.EXACT
+
+wednesday----DATE
+
+department of revenue intelligence----AUTH.SEIZE

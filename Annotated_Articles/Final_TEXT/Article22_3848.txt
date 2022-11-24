@@ -1,0 +1,45 @@
+
+['Bengaluru man caught on cam driving Audi over sleeping stray dogs, arrested\nBengaluru man caught on cam driving Audi over sleeping stray dogs, arrested A video of the incident has sparked outrage among citizens and activists, who alleged that the accused deliberately sped up in the direction of the dogs. news Animal cruelty In a shocking incident of animal cruelty, a stray dog that was sleeping on the side of the road in Bengaluru’s Jayanagar was run over by a luxury car, drawing outrage from animal rights activists. The incident occured on January 26, and after a complaint by a former corporator, the Bengaluru police have arrested the driver of the car, 23-year-old Adhi, whose family reportedly has political connections. The incident was caught on camera, and visuals have been widely shared on social media. They show a pack of stray dogs sleeping on a mud road in Jayanagar 1st block, when a white Audi is seen in the background. It is seen stopping in the distance for some time, and then slowly approaching the spot where the dogs were sleeping. The car then backs up again slowly and suddenly drives towards the dogs with speed, causing one of them to come under the wheels. The video has sparked outrage among citizens and activists, who alleged that the accused deliberately sped up in the direction of the dogs, thus endangering them. Based on a complaint by one Badri Prasad, who is also an activist, the police have arrested Adhi. Badri Prasad is reportedly part of Jayanagar Canine Squad, one of the many citizens’ groups that make sure the stray dogs are neutered and vaccinated on time. Shocking Animal Cruelty Caught on Cam Audi car driver runs over stray dog. In a shocking incident of cruelty, an Audi car driver allegedly ran over a stray dog at Jayanagar 1st block in Bengaluru. @Sowmyareddyr @nolanentreeo @peta #AnimalCruelty pic.twitter.com/yMGZbuoSTb January 31, 2022 According to the Times of India, the accused was absconding since the complaint was filed against him, and the police traced him to his family’s farmhouse in Kaggalipura. He was arrested on Monday, January 30, and was booked under the Prevention of Cruelty to Animals Act and other relevant sections of the Indian Penal Code and Code of Criminal Procedure. Read: Bengaluru traffic cop caught on cam assaulting disabled woman in public, suspended']
+
+
+Bengaluru----LOC.CITY
+
+man----SUS.GENDER
+
+Audi----TRANSPORT_MODE
+
+stray dogs----SP.COMMON
+
+arrested----CRIME.CAT
+
+Bengaluru----LOC.CITY
+
+man----SUS.GENDER
+
+Audi----TRANSPORT_MODE
+
+stray dogs----SP.COMMON
+
+arrested----CRIME.CAT
+
+stray dog----SP.COMMON
+
+January 26----DATE
+
+23-year-old----SUS.AGE
+
+Adhi----SUS.NAME
+
+Jayanagar 1st block----LOC.EXACT
+
+Audi----TRANSPORT_MODE
+
+Audi car driver----TRANSPORT_MODE
+
+Audi car driver----TRANSPORT_MODE
+
+stray dog----SP.COMMON
+
+Jayanagar 1st block----LOC.EXACT
+
+Bengaluru----LOC.CITY

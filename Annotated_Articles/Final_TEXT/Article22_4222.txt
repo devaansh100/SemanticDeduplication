@@ -1,0 +1,21 @@
+
+['Air Asia Malaysia: Shocking video of a snake found in the cabin\nAir Asia Malaysia: Shocking video of a snake found in the cabin Imagine snakes in the luggage section of the plane moving up to the passenger part during the flight. If you have ever seen the movie Snakes on a Plane, this type of situation must bring chills to your spine. Though not as dramatic, a video has surfaced on twitter where the commercial pilot named Hana Mohsin Khan, video tapes a snake on board the plane. In this short 10 seconds clip, you can see the outline of a snake stuck in some illuminated section slithering with its head moving around in a very eerie way. The plane was an AirAsia flight Airbus A320-200 was on its way to Tawau, Malaysia from Kuala Lumpur,Malaysia. It was suggested that the reptile either escaped from a passenger’s luggage or climbed onboard from the ground. The plane had to be diverted because of the situation. The airline’s chief security officer Liong Tien Ling confirmed the incident in a statement to CNN Türk. “AirAsia is aware of the incident that occurred on the flight from Kuala Lumpur to Tawau on Thursday. As soon as the captain was notified, the plane was diverted to Kuching to be disinfected,” he said. He went on to state that neither passengers nor guests were in danger, according to the outlet. The video has spread across social media with more than 2 million views in just one day. It has spread to Twitter and TikTok too. Twitter users expressed how scared they would have been. One said, ‘‘Id have lost it and run off the flight. Good lord thr site of it freaked me out.’’. Another said, ‘I would freak out’. Others had a fun time making jokes out of this situation like, ‘Didn’t the passengers go hissssterical though?’ and ‘I hope Hissss flight was comfortable.’']
+
+
+snake----SP.COMMON
+
+snake----SP.COMMON
+
+Hana Mohsin Khan----SUS.NAME
+
+plane----TRANSPORT_MODE
+
+AirAsia flight----TRANSPORT_MODE
+
+Airbus A320-200----TRANSPORT_MODE
+
+Tawau----ROUTE.DEST
+
+Malaysia----ROUTE.DEST
+
+Kuala Lumpur,Malaysia----ROUTE.SRC

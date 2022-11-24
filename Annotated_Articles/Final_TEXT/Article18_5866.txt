@@ -1,0 +1,27 @@
+
+['Tripura: Leopard scare in Sepahijala after workers find footprints\nAGARTALA: Tension prevailed at Tripura’s Gokul Nagar tea estate under Sepahijala district after some of the workers claimed that they saw footprints of a leopard in the tea estate area on Saturday morning. Soon the forest department personnel reached the spot and launched a search operation. However, no traces of the big cat could be found in the area, said officials. Local sources said one of the workers in the tea estate is an ex-employee of the Sepahijala Wildlife Sanctuary—which is also the National Park for Leopard conservation. When he arrived at the tea estate located a few kilometres away from the sanctuary to start his day spotted some footmarks that resembled the footprints of leopards. Also Read: Assam: Suspected robber injured during police firing in Dibrugarh He said, “I used to serve food to the leopards inside their enclosures. I can easily identify the footmarks of the leopards and tigers. A leopard has certainly passed through this path”. As soon as workers raised the alarm, the manager of the tea estate rushed to the spot and informed police and forest officials. “All our workers are frightened. We can’t compromise with their safety. The Forest department officials are conducting search operations in the adjoining areas to find out whether the estate is immune to wild animal attacks or not”, said the manager. Also Read: Assam: ABSU seeks probe into eviction at Guwahati To a question, he said, he did not know about any sighting of the big cats in the area. A team from Charilam Forest Unit led by Senior Forest Guard Tapan Kumar Nandi combed the whole area as well as the suspected places where such animals tend to hide. “There are very rare chances of leopard movement in this area. I feel the tea estate workers must have mistaken the footprints for leopards. According to our observation, it could be a wild cat or civet. Civets are found in large numbers here and often they prey on village livestock”, said Nandi. However, the search is still going on and work is suspended for the day in the tea estate.']
+
+
+Leopard----SP.COMMON
+
+Sepahijala----LOC.DISTRICT
+
+Gokul Nagar tea estate----LOC.EXACT
+
+leopard----SP.COMMON
+
+Saturday----DATE
+
+morning----TIME
+
+forest department----AUTH.SEIZE
+
+search operation----DETECTION_METHOD
+
+search operations----DETECTION_METHOD
+
+Charilam Forest Unit----AUTH.SEIZE
+
+Senior Forest Guard----OFF.DESIG
+
+Tapan Kumar Nandi----OFF.NAME

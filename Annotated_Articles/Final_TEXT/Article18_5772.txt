@@ -1,0 +1,79 @@
+
+['Assam : 6 Held For Illegally Smuggling Rhino Horns\nNET Web Desk The Assam Police have successfully apprehended six people from the Biswanath district of Assam in a major operation against illegal smuggling of rhino horns. According to ANI report, a team from Biswanath Police Station launched an operation based on specific inputs and apprehended the six people for their alleged involvement in attempting to sell a piece of rhino horn. Assam | 6 people arrested for smuggling rhino horns in Vishwanath district 6 people were arrested and a suspected rhino horn of 528 grams was recovered with them. Their plan was to sell this horn for Rs 70 lakh: Vishwanath SP Leena Dole (03.02) pic.twitter.com/qTD5yuOhrV — ANI (@ANI) February 3, 2022 All three apprehended individuals, identified as Aslam Sheikh, Hamid Sheikh, and Ghanashyam Gupta, are residents of Ambari village in Biswanath Chariali. The other three accused have been identified as follows: Zamir Dhali, a resident of Chariali’s Bangaon village; Mantu Chamuwa, a resident of Nagaon’s Lehugaon village; and Kiran Das, a resident of Gohpur’s Borachuk village. In addition, an investigation into the matter is underway.']
+
+
+Assam----LOC.STATE
+
+6----SUS.NUMBER
+
+Rhino----SP.COMMON
+
+Horns----ITEM
+
+Assam Police----AUTH.SEIZE
+
+six----SUS.NUMBER
+
+Biswanath district----LOC.DISTRICT
+
+Assam----LOC.STATE
+
+rhino----SP.COMMON
+
+horns----ITEM
+
+Biswanath Police Station----AUTH.SEIZE
+
+specific inputs----DETECTION_METHOD
+
+six----SUS.NUMBER
+
+rhino----SP.COMMON
+
+horn----ITEM
+
+Assam----LOC.STATE
+
+6----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+smuggling----CRIME.CAT
+
+rhino----SP.COMMON
+
+horns----ITEM
+
+Vishwanath district----LOC.DISTRICT
+
+6----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+rhino----SP.COMMON
+
+horn----ITEM
+
+528 grams----QTY
+
+Rs 70 lakh----VALUE
+
+Aslam Sheikh----SUS.NAME
+
+Hamid Sheikh----SUS.NAME
+
+Ghanashyam Gupta----SUS.NAME
+
+Ambari village in Biswanath Chariali----SUS.LOC
+
+Zamir Dhali----SUS.NAME
+
+Chariali’s Bangaon village----SUS.LOC
+
+Mantu Chamuwa----SUS.NAME
+
+Nagaon’s Lehugaon village----SUS.LOC
+
+Kiran Das----SUS.NAME
+
+Gohpur’s Borachuk village. In----SUS.LOC

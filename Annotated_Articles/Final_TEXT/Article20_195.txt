@@ -1,0 +1,35 @@
+
+["Shocking! Two blackbucks shot dead by Bihar police official\nEver since the human activities came into a halt with the nation-wide lockdown, the animals were having a good time on the roads and lanes with no human interference. Yet in the recent animal poaching reported in Bihar, the animals, particularly the endangered species, continue to remain threatened in the human world. Two blackbucks were spotted dead in Bihar's Rohtas district on Wednesday, April 29. If earlier, a famous Bollywood star was booked on the charges of killing the endangered species, this time, its a police officer himself! The deer's corpse, according to the police, had bite marks on the neck and at the back, which probably must have been made after shooting it down. An extremely vulnerable antelope The blackbuck, also known as the Indian antelope is commonly found in India and its neighbouring countries. According to PETA, these antelope species are categorised as 'extremely vulnerable' and 'endangered' in the country. Although afforded the highest protection under the Wildlife Protection Act 1972, the blackbucks are persistently threatened hunting and poaching in addition to the natural threats including habitat loss climate change and conflict with the villagers. Bollywood actor Salman Khan was earlier found guilty on the case charged against poaching of blackbucks. The blackbucks' death in Bihar was noticed on Wednesday evening in a suspicious condition near Padariya village. A case was registered under the Wildlife Protection Act in Baghaila police station in Sasaram. According to a report in Dainik Jagran, the accused police official has been caught. Neeraj Dubey, the accused, was the driver to the police vehicle at Baghaila police station. There has been a stir in the administrative office since the news came out. The villagers had grabbed the driver and thrashed him on anger. In addition to this, his ID card was seized and made viral in the social media for the crime as an incumbent officer. The video of a dead blackbuck has also been circulating across the internet. According to the station head, Kunjan Kumar, the proper cause of death of the animals can only be confirmed after its post-mortem reports. The investigation is underway, he added."]
+
+
+Two----QTY
+
+blackbucks----SP.SPECIFIC
+
+shot dead----CRIME.CAT
+
+Bihar police----AUTH.SEIZE
+
+Two----QTY
+
+blackbucks----SP.SPECIFIC
+
+Bihar's----LOC.STATE
+
+Rohtas district----LOC.DISTRICT
+
+Wednesday----DATE
+
+April 29----DATE
+
+deer----SP.COMMON
+
+antelope----SP.COMMON
+
+blackbuck----SP.SPECIFIC
+
+Wednesday----DATE
+
+evening----TIME
+
+Neeraj Dubey----SUS.NAME

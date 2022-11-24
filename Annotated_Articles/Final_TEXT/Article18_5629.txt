@@ -1,0 +1,33 @@
+
+['Maharashtra: Five held for smuggling endangered birds, animals from Nashik\nNashik (Maharashtra) [India], February 26 (ANI): Forest Department has arrested five people and seized over 60 birds and animals of rare species from Nashik on Friday. Conservator of Forests Nashik West, Ganeshrao Jhole said, “Parrots and radius slider turtles are currently being smuggled in large quantities in the Nashik district of Maharashtra. The forest department has become alert and we got to know of a pet shop where rare species of animals and birds were being smuggled.” “We found over 60 birds and animals, majorly newborn, in the pet shop. Some of these are Schedule-I animals, which are considered endangered species that need rigorous protection. The species are granted protection from poaching, killing, trading etc,” he added. An NGO is taking care of the newborn animals and they are being fed through injections, Jhole told ANI. He further added, “The Schedule-I animals will be released in their natural habitat once they grow up a bit. And the radius slider turtles will be released as per the order of the court.” (ANI) This report is auto-generated from ANI news service. ThePrint holds no responsibility for its content.']
+
+
+Five----SUS.NUMBER
+
+smuggling----CRIME.CAT
+
+Nashik----LOC.CITY
+
+Forest Department----AUTH.SEIZE
+
+arrested----CRIME.CAT
+
+five----SUS.NUMBER
+
+seized----CRIME.CAT
+
+60----QTY
+
+birds----SP.COMMON
+
+animals----SP.COMMON
+
+Nashik----LOC.CITY
+
+Friday----DATE
+
+Parrots----SP.COMMON
+
+radius slider turtles----SP.SPECIFIC
+
+60----QTY

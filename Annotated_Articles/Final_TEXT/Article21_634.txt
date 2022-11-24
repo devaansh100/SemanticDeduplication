@@ -1,0 +1,135 @@
+
+['Pangolin, tiger poachers nabbed from Deolapar & Paoni\nNagpur: In a major crackdown against two gangs of wildlife criminals, the Maharashtra and Madhya Pradesh forest departments, along with Wildlife Crime Control Bureau (WCCB), nabbed pangolin, tiger and herbivore poachers from Paoni and Deolapar.According to sources, the body parts that were seized may belong to 2-3 tigers and at least 5 pangolins. The other material that has been seized include two bore guns, horns, peacock feathers etc.“Acting on intelligence by our staff, Paoni range forest officials nabbed three persons from separate locations in the Paoni range and seized over 22kg pangolin scales from them. The poachers seem to be habitual offenders and details from where these mammals were killed is still being investigated,” said Bharat Singh Hada, deputy conservator, Nagpur.Paoni RFO Ritesh Bhongade said the accused have been identified as Prashant Chachere and Dilip Admane, both from Kanora, and Ratanlal Madaye, Tangla. The accused have been remanded in two-day forest custody (FCR) by JMFC, Ramtek.“The forest team seized 6.5kg pangolin scales from Chachere while 14.5kg scales were confiscated from the house of Milatram Bhalavi of Ramzanghoti. Bhalavi is absconding and the hunt for him is on,” he said.The Indian pangolin (Manis crassicaudata) is protected under Schedule I of the Wildlife (Protection) Act, 1972, and have equal protection like tigers. Pangolins are the most trafficked mammals in the world and are on the verge of extinction.Pangolin poaching is rampant in Maharashtra and MP. The Maharashtra government has even set up a study group to suggest measures to conserve pangolins.In the second incident, teams from WCCB, Central Region, Jabalpur, Maharashtra, and MP forest department laid a trap near Khawasa border on August 24 evening and nabbed one Balchand Warkade of Sitapur in Ramtek. The teams seized a gunny bag from the accused in which tiger bones and horns of herbivores were found.During investigations, Warkade revealed names of his accomplices, based on which the officials nabbed Roshan Uikey and Narpat Kodwate, both residents of Pindkapar in Deolapar. On Wednesday, the teams seized deer horns, two bore guns used for hunting animals, wild boar bones, gunpowder, bullets, knives, and other material from their house and farm. “More arrests are likely,” said forest officials.']
+
+
+Pangolin----SP.COMMON
+
+tiger----SP.COMMON
+
+nabbed----CRIME.CAT
+
+Deolapar----LOC.EXACT
+
+Paoni----LOC.EXACT
+
+gangs of wildlife criminals----SUS.AFFIL
+
+Maharashtra and Madhya Pradesh forest departments----AUTH.SEIZE
+
+Wildlife Crime Control Bureau----AUTH.SEIZE
+
+WCCB----AUTH.SEIZE
+
+nabbed----CRIME.CAT
+
+pangolin----SP.COMMON
+
+tiger----SP.COMMON
+
+Paoni----LOC.EXACT
+
+Deolapar----LOC.EXACT
+
+body parts----ITEM
+
+tigers----SP.COMMON
+
+pangolins----SP.COMMON
+
+two----QTY
+
+bore guns----ITEM
+
+horns----ITEM
+
+peacock----SP.COMMON
+
+feathers----ITEM
+
+intelligence----DETECTION_METHOD
+
+Paoni range forest officials----AUTH.SEIZE
+
+three----SUS.NUMBER
+
+22kg----QTY
+
+pangolin----SP.COMMON
+
+scales----ITEM
+
+Prashant Chachere----SUS.NAME
+
+Dilip Admane----SUS.NAME
+
+Kanora----SUS.LOC
+
+Ratanlal Madaye----SUS.NAME
+
+Tangla----SUS.LOC
+
+accused have been remanded in two-day forest custody (FCR)----OUTCOME
+
+6.5kg----QTY
+
+pangolin----SP.COMMON
+
+scales----ITEM
+
+Chachere----LOC.EXACT
+
+14.5kg----QTY
+
+scales----ITEM
+
+Milatram Bhalavi----SUS.NAME
+
+Ramzanghoti----SUS.LOC
+
+WCCB, Central Region----AUTH.SEIZE
+
+Jabalpur, Maharashtra----AUTH.SEIZE
+
+MP forest department----AUTH.SEIZE
+
+August 24----DATE
+
+evening----TIME
+
+Balchand Warkade----SUS.NAME
+
+Sitapur----SUS.LOC
+
+gunny bag----CONCEALMENT_METHOD
+
+tiger----SP.COMMON
+
+bones----ITEM
+
+horns----ITEM
+
+Roshan Uikey----SUS.NAME
+
+Narpat Kodwate----SUS.NAME
+
+Pindkapar in Deolapar----SUS.LOC
+
+Wednesday----DATE
+
+deer----SP.COMMON
+
+horns----ITEM
+
+two----QTY
+
+bore guns----ITEM
+
+wild boar----SP.COMMON
+
+bones----ITEM
+
+gunpowder----ITEM
+
+bullets----ITEM
+
+knives----ITEM

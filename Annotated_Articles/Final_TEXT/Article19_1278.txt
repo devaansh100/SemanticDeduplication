@@ -1,0 +1,15 @@
+
+["Wild Elephant Walks Down Guwahati Road, Stalls Traffic For Hours\nA wild elephant walking down Guwahati's GS road on Tuesday led to life being thrown out of gear during peak hours. The wild elephant, which went astray from Amchang Wildlife Sanctuary, walked into Guwahati creating panic among residents. The animal stalled traffic on GS road, which is lined with shopping malls and big stores. The elephant walked over 25 km up from Amchang to the Congress headquarters Rajiv Bhavan at ABC Point where forest personnel, zoo officials and the police tried to guide it towards the nearby zoo on the parallel RGB Road or back to the sanctuary, reports PTI. The animal was also spotted in the Ganeshguri and Hengrabari areas of the city. Traffic was also stalled for several hours as local police and forest guards tried to lead the elephant in a different direction, by putting up small barricades to move the elephant in their desired direction. Several people who were stopped on the road used the moment to try and capture the rare site on their phones. The animal seemed unaffected by the cars and phones around him. A bystander who recorded a video of the elephant shows the event unfold. Eventually, forest officials tranquilized the elephant to get it off the streets. Assam forest minister Parimal Suklabaidya said that it took some time to tranquilize the elephant. “The officials and vets concerned need to calculate the amount of medicine they would use as per the size and other measurements of the elephants. Apart from that due to the chaos created by the crowd, it ran from place to place. So, it got delayed. But I must thank the forest officials to have administered it successfully. Thankfully the elephant is not injured,” Suklabaidya told Outlook. The elephant will be returned to the wild after necessary treatment."]
+
+
+Wild Elephant----SP.SPECIFIC
+
+Guwahati Road----LOC.EXACT
+
+wild elephant----SP.SPECIFIC
+
+GS road----LOC.EXACT
+
+Tuesday----DATE
+
+wild elephant----SP.SPECIFIC

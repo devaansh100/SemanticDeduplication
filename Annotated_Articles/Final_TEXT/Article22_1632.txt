@@ -1,0 +1,7 @@
+
+['Leopard found dead in dry well in Barmer\n5 must buy decor items for your new house Lifestyle']
+
+
+Leopard----SP.COMMON
+
+Barmer----LOC.EXACT

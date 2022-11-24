@@ -1,0 +1,81 @@
+
+['Air Customs foils bid to smuggle live spiders from Poland- The New Indian Express\nBy Express News Service CHENNAI: The Chennai Air Customs foiled bids to smuggle 10 live exotic spiders and narcotic drugs and psychotropic substances (NDPS) in postal parcels at foreign post office. Working on a tip off, the officials intercepted a parcel which arrived from Poland. It was addressed to a person based at Gajuwaka, Visakhapatnam. On opening it, a thermocol box was found in which 10 small plastic vials wrapped in silver foil and cotton were found. On examination, live spiders were found inside each vial. The Animal Quarantine officials inspected and recommended returning the parcel to the country of origin as the said import is illegal and there was no Director General of Foreign Trade (DGFT) license and health-related documents of import into India. The parcel was handed over to postal authorities to return it to Poland. Further, Chennai Air Customs Postal Appraising Department seized three parcels containing 274 gm of ganja and five parcels of MDMA tablets, methamphetamine, amphetamine, charas totalling 92 gm. The parcels which arrived from the Netherlands and the United States were seized under provisions of NDPS Act, 1985 read with the Customs Act, 1962. CHENNAI: The Chennai Air Customs foiled bids to smuggle 10 live exotic spiders and narcotic drugs and psychotropic substances (NDPS) in postal parcels at foreign post office. Working on a tip off, the officials intercepted a parcel which arrived from Poland. It was addressed to a person based at Gajuwaka, Visakhapatnam. On opening it, a thermocol box was found in which 10 small plastic vials wrapped in silver foil and cotton were found. On examination, live spiders were found inside each vial. The Animal Quarantine officials inspected and recommended returning the parcel to the country of origin as the said import is illegal and there was no Director General of Foreign Trade (DGFT) license and health-related documents of import into India. The parcel was handed over to postal authorities to return it to Poland. Further, Chennai Air Customs Postal Appraising Department seized three parcels containing 274 gm of ganja and five parcels of MDMA tablets, methamphetamine, amphetamine, charas totalling 92 gm. The parcels which arrived from the Netherlands and the United States were seized under provisions of NDPS Act, 1985 read with the Customs Act, 1962.']
+
+
+Air Customs----AUTH.SEIZE
+
+smuggle----CRIME.CAT
+
+spiders----SP.COMMON
+
+Chennai Air Customs----AUTH.SEIZE
+
+10----QTY
+
+exotic spiders----SP.COMMON
+
+narcotic drugs and psychotropic substances (NDPS)----ITEM
+
+postal parcels----CONCEALMENT_METHOD
+
+tip off----DETECTION_METHOD
+
+parcel----CONCEALMENT_METHOD
+
+Poland----ROUTE.SRC
+
+Gajuwaka----SUS.LOC
+
+Chennai Air Customs Postal Appraising Department----AUTH.SEIZE
+
+274 gm----QTY
+
+ganja----ITEM
+
+MDMA----ITEM
+
+tablets----ITEM
+
+methamphetamine----ITEM
+
+amphetamine----ITEM
+
+charas----ITEM
+
+92 gm----QTY
+
+CHENNAI----LOC.DISTRICT
+
+Chennai Air Customs----AUTH.SEIZE
+
+10----QTY
+
+exotic spiders----SP.COMMON
+
+narcotic drugs and psychotropic substances (NDPS)----ITEM
+
+postal parcels----CONCEALMENT_METHOD
+
+tip off----DETECTION_METHOD
+
+Poland----ROUTE.SRC
+
+Gajuwaka, Visakhapatnam----SUS.LOC
+
+Chennai Air Customs Postal Appraising Department----AUTH.SEIZE
+
+274 gm----QTY
+
+ganja----ITEM
+
+MDMA----SP.COMMON
+
+tablets----ITEM
+
+methamphetamine----ITEM
+
+amphetamine----ITEM
+
+charas----ITEM
+
+92 gm----QTY

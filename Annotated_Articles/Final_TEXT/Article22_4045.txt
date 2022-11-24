@@ -1,0 +1,55 @@
+
+['Sri Lankan Navy arrests 12 Indian fishermen for alleged poaching\nFollow us on Image Source : PTI/REPRESENTATIVE IMAGE The arrests were made in seas north of Talaimannar. "They were indulging in bottom trawling", said the Sri Lankan Navy. Highlights Sri Lankan Navy arrested 12 Tamil Nadu fishermen allegedly poaching On February 8, the Navy arrested 11 Indian fishermen and seized three fishing trawlers This was the third arrest of the Indian fishermen in the Sri Lankan waters during this month The Sri Lankan Navy has arrested 12 Indian fishermen and seized two fishing trawlers for allegedly poaching in the country\'s territorial waters, an official statement said on Sunday, the third such incident involving Indians in the island nation this month. The arrests were made in seas north of Talaimannar. They were indulging in bottom trawling, the Navy said. “In an operation conducted in seas north of Talaimannar in the dark hours of February 12, Sri Lanka Navy managed to seize 2 Indian trawlers with 12 Indian fishermen while poaching in Sri Lankan waters,” it said. This was the third arrest of the Indian fishermen in the Sri Lankan waters during this month. On February 8, the Navy arrested 11 Indian fishermen and seized three fishing trawlers and on February 1, twenty-one Indian fishermen were arrested. The fishermen issue is a contentious one in ties between the two countries. The issue also figured in the talks between External Affairs Minister S Jaishankar and his Sri Lankan counterpart G L Peiris last week during the latter\'s three-day official visit to India. The arrests of Indian fishermen come as the local immigration officials are making arrangements to repatriate 56 Indian fishermen who were arrested in December. The arrests of Indians and the local fishermen’s agitations seeking government action to stop Indian fishing boats have expanded over the last fortnight. Also Read | Air India issues fresh advisory for cabin crew; mandates minimal jewellery | Top Points Also Read | \'Women get raped when they don\'t wear Hijab\': Congress leader\'s shocker | Watch Latest India News']
+
+
+Sri Lankan Navy----AUTH.SEIZE
+
+arrests----CRIME.CAT
+
+12----SUS.NUMBER
+
+Indian fishermen----SUS.AFFIL
+
+poaching----CRIME.CAT
+
+Sri Lankan Navy----AUTH.SEIZE
+
+arrested----CRIME.CAT
+
+12----SUS.NUMBER
+
+Tamil Nadu fishermen----SUS.AFFIL
+
+poaching----CRIME.CAT
+
+February 8----DATE
+
+11----SUS.NUMBER
+
+Indian fishermen----SUS.AFFIL
+
+three----QTY
+
+Sri Lankan Navy----AUTH.SEIZE
+
+arrested----CRIME.CAT
+
+12----SUS.NUMBER
+
+Indian fishermen----SUS.AFFIL
+
+two----QTY
+
+fishing trawlers----SP.COMMON
+
+February 12----DATE
+
+Sri Lanka Navy----AUTH.SEIZE
+
+2----QTY
+
+Indian trawlers----SP.COMMON
+
+12----SUS.NUMBER
+
+February 8----DATE

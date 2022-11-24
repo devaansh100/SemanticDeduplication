@@ -1,0 +1,79 @@
+
+["Delhi woman held with swamp deer horns worth over Rs 1 crore\nOn Thursday from north Delhi's Timarpur area, a 23-year-old woman was arrested for possessing swamp deer horns allegedly with the purpose of selling them. The accused has been identified as Chhoti alias Fatima. (Image: Tanseem Haider) By Tanseem Haider: A 23-year-old woman was arrested on Thursday from north Delhi's Timarpur area for possessing swamp deer horns allegedly with the purpose of selling them, police said. Police recovered three-kilogram horns of swamp deer from her possession worth around Rs 1.5 crore in, the international market, they said. The accused has been identified as Chhoti alias Fatima, a resident of Aruna Nagar, Majnu ka Tilla, police said. On Thursday, police got information that a woman was supplying swamp deer horns near BD Estate Timarpur, Deputy Commissioner of Police (north) Sagar Singh Kalsi said. Police, along with an official of the Department of Forest and Wildlife, conducted a raid near the gate of BD Estate Timarpur and detained the woman. Swamp deer, more famously known as ‘barasingha' for its multi-pronged horns, is found across the Indian subcontinent. The accused revealed that she had bought the horns from one Gopal Thakur of Bahraich in UP to sell them in Delhi, police said. A case under various sections of Wildlife Protection Act is being registered at Timarpur Police Station, DCP Singh said. Further investigation is going on, he added. advertisement --- ENDS ---"]
+
+
+Delhi----SUS.LOC
+
+woman----SUS.GENDER
+
+swamp----SP.SPECIFIC
+
+deer----SP.COMMON
+
+horns----ITEM
+
+Rs 1 crore----VALUE
+
+Thursday----DATE
+
+north Delhi's Timarpur area----LOC.EXACT
+
+23----SUS.AGE
+
+woman----SUS.GENDER
+
+arrested----CRIME.CAT
+
+swamp----SP.SPECIFIC
+
+deer----SP.COMMON
+
+horns----ITEM
+
+selling----CRIME.CAT
+
+Chhoti----SUS.NAME
+
+23----SUS.AGE
+
+woman----SUS.GENDER
+
+Thursday----DATE
+
+north Delhi's Timarpur area----LOC.EXACT
+
+possessing----CRIME.CAT
+
+swamp----SP.SPECIFIC
+
+deer----SP.COMMON
+
+horns----ITEM
+
+three-kilogram----QTY
+
+horns----ITEM
+
+swamp----SP.SPECIFIC
+
+deer----SP.COMMON
+
+Rs 1.5 crore----VALUE
+
+Chhoti----SUS.NAME
+
+Aruna Nagar, Majnu ka Tilla----SUS.LOC
+
+information----DETECTION_METHOD
+
+horns----ITEM
+
+Department of Forest and Wildlife----AUTH.SEIZE
+
+woman----SUS.GENDER
+
+Gopal Thakur----SUS.NAME
+
+Bahraich----SUS.LOC
+
+case under various sections of Wildlife Protection Act is being registered at Timarpur Police Station----OUTCOME

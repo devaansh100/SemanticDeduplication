@@ -1,0 +1,13 @@
+
+['Telangana: Now, special gun to scare monkeys\nSECUNDERABAD: The Professor Jayashankar Telangana State Agriculture University has come up with a solution to help residents of Secunderabad and other parts of the city that have been affected by monkey menace. The vertebrate pest management division of the university has developed an agri cannon, a gun that generates a sound when fired to scare monkeys away. Farmers are currently using it to protect the crops from monkeys.V Vasudeva Rao, head of National Vertebrate Pest Management Division located at PJTSAU said," The university has developed the device and signed a Memorandum of Understanding with a tech company which is now producing them on a large scale. Monkeys have been a big issue, specially when it comes to crops. Around 20 days before harvest, monkeys destroyed crops leading to an estimated 60 to 70 per cent damage. With agri cannon we can drive these monkeys away. The gun has to be used every half an hour to scare them away."He asserted that the device does not harm the animals. “This device will not harm the monkeys but only scare them away. Even civic bodies can use them on experimental basis," he said."The device is available at the university for Rs 3500. The technology has been transferred to Gamyam Technologies for commercialisation. Damage to crops has come down to 20 per cent with the help of the gun,” he added.Several parts of Secunderabad, including Marredpally and Trimulgherry, have been affected by monkey menace. GHMC veterinary wing officials had said they would look into suggestions of experts to tackle the issue.The vertebrate pest management division is also working on several acoustic techniques to control pests."We have developed an acoustic technique to drive away feral pigs and Nilgai, which also destroys crips largely," said Vasudeva Rao.']
+
+
+Telangana----LOC.STATE
+
+monkeys----SP.COMMON
+
+Jayashankar----SUS.NAME
+
+Secunderabad----LOC.CITY
+
+vertebrate pest management division of the university----AUTH.SEIZE

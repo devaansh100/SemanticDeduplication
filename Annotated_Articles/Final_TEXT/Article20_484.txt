@@ -1,0 +1,71 @@
+
+['Assam: Three poachers arrested in Biswanath; leopard skin, body parts seized\nThe accused were identified as Yudhisthir Tanti, Bullet Munda and Subhash Mirdha. (Photo: Hemanta Kumar Nath / India Today) Police and forest officials have arrested three poachers and seized leopard skin and other body parts of a full grown tiger from their possession in Assam’s Biswanath district. Based on intelligence input, a joint team of police personnel and forest officials launched an operation at Gingia area under Biswanath Wildlife Division on Wednesday, and arrested the poachers. The arrested poachers have been identified as Yudhisthir Tanti, Bullet Munda and Subhash Mirdha. Forest officials suspect that they killed the leopard along Assam-Arunachal border. A forest officer of Biswanath Wildlife Division said the poachers were arrested while they were trying to carry the body parts of the leopard for sale. “We have recovered skin, bones, teeth and other body parts of a full grown leopard from their possession. During interrogation, they revealed that other persons have also been involved in this illegal trading. Our investigation is on, and we have launched operations to nab the other accused,” a forest officer said. Meanwhile, police and forest department have registered two separate cases.']
+
+
+Assam----LOC.STATE
+
+Three----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+Biswanath----LOC.DISTRICT
+
+leopard----SP.COMMON
+
+skin----ITEM
+
+body parts----ITEM
+
+seized----CRIME.CAT
+
+Yudhisthir Tanti----SUS.NAME
+
+Bullet Munda----SUS.NAME
+
+Subhash Mirdha----SUS.NAME
+
+Police----AUTH.SEIZE
+
+forest officials----AUTH.SEIZE
+
+arrested----CRIME.CAT
+
+three----SUS.NUMBER
+
+poachers----SUS.AFFIL
+
+seized----CRIME.CAT
+
+leopard----SP.COMMON
+
+skin----ITEM
+
+body parts----ITEM
+
+Biswanath----LOC.DISTRICT
+
+intelligence input----DETECTION_METHOD
+
+police personnel----AUTH.SEIZE
+
+forest officials----AUTH.SEIZE
+
+Gingia area----LOC.EXACT
+
+Wednesday----DATE
+
+Yudhisthir Tanti----SUS.NAME
+
+Bullet Munda----SUS.NAME
+
+Subhash Mirdha----SUS.NAME
+
+skin----ITEM
+
+bones----ITEM
+
+teeth----ITEM
+
+body parts----ITEM
+
+registered two separate cases----OUTCOME

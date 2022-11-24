@@ -1,0 +1,17 @@
+
+['WATCH: Australian Pub Owner Fends Off Crocodile Using a Frying Pan\nThe crocodile that Kai Hansen confronted had previously eaten his pet dog. Australia is famous for the huge variety of animals that can easily kill a human. Of those, crocodiles are probably some of the most deadly creatures that one would think of when thinking of Australia. These reptiles can grow over 20 ft in length and weigh over 1,000 kgs. None of that prevented a pub owner in Australia’s Northern Territory from fending off a large crocodile with nothing but a frying pan. Kai Hansen managed to keep at bay a crocodile that had made its way to the Goat Island Lodge. Hansen choose to take matters into his own hands, quite literally, as the big animal had eaten his pet dog, Dumb Blonde. Making his way down the stairs of the lodge calmly, Hansen confronted the crocodile who then rushed to attack Hansen. Hansen’s response? Simply bonking a cast-iron frying pan hard on the crocodile’s snout twice. The crocodile did decide that the best course of action in this situation was to head back to the river. A video of the incident was posted by Airborne Solutions Helicopter Tours on their Facebook page and managed to gather over a million views in just a day. “Goat Island isn’t your average pub and King Kai isn’t your average publican! You just never know what he’ll serve up next,” read the caption to the video. Another video from a patron at the lodge at the time of the incident showed the confrontation from a different angle and was submitted as one of the top comments on the original video. “I wouldn’t say it’s an everyday event, but I’ve got to stay safe and do what I can. No one got hurt and the croc got a good lesson,” ” Hansen told the Daily Mail. The video has now gone viral across social media channels and all but ensures that Hansen turns into a local legend. Though at this point it should be noted that while it worked for Hansen, people should avoid confronting huge apex predators armed with just kitchenware. Read all the Latest News , Breaking News , watch Top Videos and Live TV here.']
+
+
+Crocodile----SP.COMMON
+
+crocodile----SP.COMMON
+
+crocodile----SP.COMMON
+
+Kai Hansen----SUS.NAME
+
+crocodile----SP.COMMON
+
+Goat Island Lodge----LOC.EXACT
+
+Dumb Blonde----SP.SPECIFIC

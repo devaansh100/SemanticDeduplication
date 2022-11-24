@@ -1,0 +1,53 @@
+
+['How Tea Garden Workers in West Bengal Helped a Leopard Reunite with her Cubs\nA man from West Bengal helped a leopard mother to rescue her baby in Buxa Tiger Reserve. On Saturday, tea garden workers from Chuapara spotted two leopard cubs in one drain. The animals were hardly seven days old. Chuabari tea garden is located adjacent to Buxa jungle. Villagers, along with tea garden officers, decided to stop their work and called forest department officials. The officials came and told the villagers to isolate that area completely. Following this, the tea garden workers stopped working for two days. Forest department placed a camera there to monitor those cubs. On Sunday night, the trap camera showed an interesting picture . The mother leopard came and fed both the cubs. After they were fed, she slowly took her kids to jungle . Forest department officers and villagers were happy as the mother got back her kids naturally. Speaking to News18, ADFO of this region, Pallav Mukherjee, said, “These cubs could not have survived without mother’s milk. It’s great that she fed them and took back them to jungle. I am thankful to the tea garden owners and workers who stopped their work. This gave the mother the confidence to take her children back with her." This is a beautiful example of compassion where the workers helped the leopard cubs go back to the jungle without harming them. In another instant of love for an animal, a man in Tamil Nadu built a temple in memory of his dog. A retired government staffer in Sivaganga district has built a temple for his late best friend - a dog named Tom at his farm. Muthu (82) hails from Manamadurai area of \u200b\u200bSivaganga district. He lived with Tom, a labrador, for almost 11 years until the dog’s death due to health issues in January 2021. Following this, the elderly man decided to set up a small temple for his late friend on the farmland in Bramanakurichi near Manamadurai. He spent Rs 80,000 from his savings to build a marble statue of his friend who passed on to the other world. Read all the Latest News , Breaking News and IPL 2022 Live Updates here.']
+
+
+Tea Garden Workers----AUTH.SEIZE
+
+West Bengal----LOC.STATE
+
+Leopard----SP.COMMON
+
+man----SUS.GENDER
+
+leopard----SP.COMMON
+
+Buxa Tiger Reserve----LOC.EXACT
+
+Saturday----DATE
+
+tea garden workers----AUTH.SEIZE
+
+Chuapara----SUS.LOC
+
+two----QTY
+
+leopard----SP.COMMON
+
+cubs----ITEM
+
+Chuabari tea garden----LOC.EXACT
+
+tea garden officers----AUTH.SEIZE
+
+Sunday----DATE
+
+night----TIME
+
+mother leopard----SP.SPECIFIC
+
+Tamil Nadu----LOC.STATE
+
+Tom----SUS.NAME
+
+Muthu----SUS.NAME
+
+82----SUS.AGE
+
+Manamadurai area of ​​Sivaganga district----SUS.LOC
+
+Tom----SUS.NAME
+
+labrador----SP.COMMON
+
+Bramanakurichi near Manamadurai----LOC.EXACT

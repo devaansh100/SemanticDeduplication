@@ -1,0 +1,43 @@
+
+['BSF\'s \'Creek Crocodiles\' team nabs 6 Pakistani fishermen in Kutch\nThe Border Security Force on Friday apprehended six Pakistani fishermen from the Harami Nalla creek area in the Kutch district of Gujarat, officials said. IMAGE: Some of the Pakistani fishermen nabbed by the BSF in Kutch, Gujarat. Photograph: ANI on Twitter. On Thursday, the BSF had launched a major operation against intrusion by Pakistani fishing boats in the creek areas along the international border. It had nabbed 11 Pakistani boats which were in the Indian waters, but their occupants had managed to flee and hide in the marshy terrain. "In an ongoing operation against intrusion of Pakistani Fishing boats & Fishermen in Harami Nalla, BSF Gujarat has apprehended 6 Pakistani Fishermen. Inclement weather, marshy area, mangroves & tidal waters are making task of the troops challenging. The operation is in progress," the BSF said in a tweet on Friday. A day before, it had said that "03 Commando teams of @BSF_India have been Air dropped from 03 different directions in @IAF_MCC helicopters" and "They are closing in where d Pakistanis are hiding". "We will always find you, no matter where you are hidden" #CreekCrocodiles of @BSF_India will not let the enemies of the nation succeed!" BSF said in a new tweet after the arrest of six Pakistanis on Friday. G S Malik, Inspector General of the BSF\'s Gujarat Frontier, has arrived in Kutch from Gandhinagar to supervise the search operation.']
+
+
+Creek Crocodiles' team----AUTH.SEIZE
+
+6----SUS.NUMBER
+
+Pakistani fishermen----SUS.AFFIL
+
+Kutch----LOC.CITY
+
+Border Security Force----AUTH.SEIZE
+
+Friday----DATE
+
+six----SUS.NUMBER
+
+Pakistani fishermen----SUS.AFFIL
+
+Harami Nalla creek area----LOC.EXACT
+
+Kutch----LOC.DISTRICT
+
+Gujarat----LOC.STATE
+
+Pakistani fishermen----SUS.AFFIL
+
+BSF----AUTH.SEIZE
+
+Kutch----LOC.DISTRICT
+
+Gujarat----LOC.STATE
+
+BSF----AUTH.SEIZE
+
+BSF Gujarat----AUTH.SEIZE
+
+6----SUS.NUMBER
+
+G S Malik----OFF.NAME
+
+Inspector General of the BSF's Gujarat Frontier----OFF.DESIG

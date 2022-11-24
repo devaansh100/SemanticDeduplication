@@ -1,0 +1,79 @@
+
+['Red sanders logs seized in Chennai, two arrested\nCHENNAI: The Organised Crime Investigation Unit ( OCIU ) of the Tamil Nadu police on Tuesday seized one tonne of red sanders logs hidden under watermelons being brought to Chennai from Andhra Pradesh in a van. The police arrested two men for smuggling the red sanders logs.Based on a tip off, the OCIU police, led by inspectors Sahul Hameed and Vasanthi, conducted a vehicle check at Arambakkam on the Chennai-Kolkata National Highway.The police stopped a van, which tried to speed away. They checked the vehicle and found red sanders logs under watermelons.The police arrested van driver Satish, 28, of Madhavaram and David, 30, of Madharpakkam. The OCIU team handed over the duo, the van and the red sanders logs to the forest department.']
+
+
+Red sanders----SP.COMMON
+
+logs----ITEM
+
+seized----CRIME.CAT
+
+Chennai----LOC.CITY
+
+two----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+Organised Crime Investigation Unit----AUTH.SEIZE
+
+OCIU----AUTH.SEIZE
+
+Tuesday----DATE
+
+seized----CRIME.CAT
+
+one tonne----QTY
+
+red sanders----SP.COMMON
+
+logs----ITEM
+
+watermelons----CONCEALMENT_METHOD
+
+Chennai----ROUTE.DEST
+
+Andhra Pradesh----ROUTE.SRC
+
+van----TRANSPORT_MODE
+
+arrested----CRIME.CAT
+
+two----SUS.NUMBER
+
+red sanders----SP.COMMON
+
+tip off----DETECTION_METHOD
+
+OCIU----AUTH.SEIZE
+
+inspectors----OFF.DESIG
+
+Sahul Hameed----OFF.NAME
+
+Vasanthi----OFF.NAME
+
+red sanders----SP.COMMON
+
+logs----ITEM
+
+watermelons.The----CONCEALMENT_METHOD
+
+Satish----SUS.NAME
+
+28----SUS.AGE
+
+Madhavaram----SUS.LOC
+
+David----SUS.NAME
+
+30----SUS.AGE
+
+Madharpakkam----SUS.LOC
+
+OCIU----AUTH.SEIZE
+
+van----ITEM
+
+red sanders----SP.COMMON
+
+logs----ITEM

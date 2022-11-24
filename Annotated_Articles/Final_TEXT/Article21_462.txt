@@ -1,0 +1,33 @@
+
+['Dudhwa officials recover canines of tiger poached in 2007, 2 arrested\nBAREILLY: Fourteen years after a tiger was killed in Dudhwa forest by a gang of poachers, two of its members were arrested on Sunday and two canines of the slain big cat were seized from them.Both were charged under the provisions of the Wildlife Protection Act and sent to jail .The tiger was poached by the ‘Lambu’ gang in 2007 in Dudhwa forests and its skin and body parts were smuggled to Nepal.It was while probing a tiger poaching that took place two months ago that the forest department authorities learnt about Shivkumar and Satish.They were arrested on Sunday and the tiger canines were seized from them. They confessed that these belonged to a tiger they had killed in 2007, forest officials said.Giving details, divisional forest officer Anil Patel said, “We had arrested a poacher, Ramkumar alias Lalla, along with tiger canines on July 7. He told us that they belonged to a tiger he had killed near Sharda river in neighbouring Pilibhit district’s Hazara area with the help of other gang members. During questioning, Ramkumar revealed the names of two other poachers, Shivkumar and Satish, who were a part of the team that killed the tiger using a trap. After collecting sufficient evidence, Shivkumar was taken into custody and a pair of tiger canines were recovered from his house. Satish, who sold animal parts to Nepalese smugglers, was subsequently arrested. We expect to arrest some more people who have a direct link with this poacher gang.”']
+
+
+Dudhwa officials----AUTH.SEIZE
+
+canines----ITEM
+
+tiger----SP.COMMON
+
+2007----DATE
+
+2----SUS.NUMBER
+
+Fourteen years after----DATE
+
+gang of poachers,----SUS.AFFIL
+
+Sunday----DATE
+
+two----QTY
+
+canines----ITEM
+
+seized----CRIME.CAT
+
+charged under the provisions of the Wildlife Protection Act----OUTCOME
+
+tiger----SP.COMMON
+
+Lambu’ gang in 2007 in Dudhwa forests and its skin and body parts were smuggled to Nepal.It was while probing a tiger poaching that took place two months ago that the forest department authorities learnt about Shivkumar and Satish.They----SUS.AFFIL
+
+Ramkumar----SUS.NAME

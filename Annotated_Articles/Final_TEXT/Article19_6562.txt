@@ -1,0 +1,17 @@
+
+["Tiger Chases Tourist Safari Jeep At Ranthambore National Park\nPeople at the Ranthambore National Park in Sawai Madhopur in Rajasthan definitely had their hearts in their mouths when a big cat decided to chase their vehicle. A video tweeted by ANI, shows a tiger ferociously chasing a safari jeep as the driver tries to outrun it. The tiger kept on running behind the jeep until the vehicle moved in another direction and sped away. The tiger slowed down eventually. #WATCH Rajasthan: Tiger chases a tourist vehicle in Ranthambore National Park in Sawai Madhopur. (1 December 2019) pic.twitter.com/CqsyyPfYn2 — ANI (@ANI) December 2, 2019 The frightening video was viewed over 3,5000 times and was flooded with comments. Some wondered whether the animal was egged on by the tourists. Others tweeted the tigers do not tolerate anyone entering their region. Seems that they entered it's region. Tigers do not tolerate that. — ନ୍ୟାୟପତି ବଂଶୀ କୃଷ୍ଣ (Nyayapati Vamshi Krishna) (@nvkcivil20) December 2, 2019 READ: NBA: Top 5 tweets which show the 'Gonna Tell My Kids' meme going viral in the NBA READ: Adorable video of 'dancing' bear goes viral online Karnataka farmer paints dog to look like tiger A hilarious incident took place in Karnataka where farmers have been struggling to keep their crops safe from monkey infestations. Dogs painted as tigers have come to their rescue. One hapless farmer painted a street dog in tiger stripes in order to scare away the monkey menace in Malnad region in Shivamogga. Monkeys were indiscriminately destroying crops in farms around the areas has led to a huge problem for the farmers. A street dog painted like tiger can not be a tiger. Reminds me of Kanhaiyya. #JNUIssue #traitors pic.twitter.com/YgVoAC5EFm — Naresh shenoy (@mangalpady) March 10, 2016 Reportedly, one of the farmers, Srikant Gowda came up with an idea of using 'fake tigers' in order to scare away the monkeys nearly four years ago when he visited Uttara Kannada. READ: Black bear sneaks up behind woman in zoo, strokes her hair in viral video READ: Nick Jonas shares emotional version of the viral meme trend 'Gonna Tell My Kids'"]
+
+
+Tiger----SP.COMMON
+
+Ranthambore National Park----LOC.EXACT
+
+Ranthambore National Park----LOC.EXACT
+
+Sawai Madhopur----LOC.EXACT
+
+tiger----SP.COMMON
+
+safari jeep----TRANSPORT_MODE
+
+Karnataka----LOC.STATE

@@ -1,0 +1,49 @@
+
+['Tamil Nadu: 3 estate workers fined Rs 20,000 each for poaching porcupine\nCOIMBATORE: The forest department has detained three men and imposed a fine of Rs 20,000 each for poaching a porcupine and trying to consume its meat at the Manampalli forest range near Valparai The men were identified as R Siva, 36, V Mariappan, 56, and K Kannan, 53, who were tea estate workers at Kejamudi estate near Valparai.The department, in a press note released on Monday, said it received a tip on Thursday that three men were cooking porcupine meat at Thaimudi estate in the Manampalli forest range. When Kallar Pirivu forester Sheik Umar and his team reached the spot, they caught the men in the act. The trio confessed to their crime, a forest officer said.A case was registered against them and field director of the Anaimalai Tiger Reserve (ATR) A Arockiaraj Xavier imposed a fine of Rs 20,000 each.Subsequently, the forest department warned off stringent action against poachers and instructed tea estate managements to advise their employees not to indulge in such acts.']
+
+
+Tamil Nadu----LOC.STATE
+
+3----SUS.NUMBER
+
+poaching----CRIME.CAT
+
+porcupine----SP.COMMON
+
+forest department----AUTH.SEIZE
+
+detained----CRIME.CAT
+
+three----SUS.NUMBER
+
+porcupine----SP.COMMON
+
+meat----ITEM
+
+R Siva----SUS.NAME
+
+36----SUS.AGE
+
+V Mariappan----SUS.NAME
+
+56----SUS.AGE
+
+K Kannan----SUS.NAME
+
+53----SUS.AGE
+
+tip----DETECTION_METHOD
+
+Thursday----DATE
+
+three----SUS.NUMBER
+
+porcupine----SP.COMMON
+
+meat----ITEM
+
+Thaimudi estate----LOC.EXACT
+
+forester----OFF.DESIG
+
+Sheik Umar----OFF.NAME

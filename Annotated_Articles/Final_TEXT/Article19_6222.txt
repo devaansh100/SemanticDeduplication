@@ -1,0 +1,45 @@
+
+['Women perform Garba with snakes in Gujarat\'s Junagarh, five held\nFive persons including a minor girl have been arrested after women were seen performing \'Garba\' with snakes including a cobra at a function in Shil village. (Photo: ANI) Junagarh: Five persons including a minor girl have been arrested after women were seen performing \'Garba\' with snakes including a cobra at a function in Shil village. A video of three women performing \'Garba\' with snakes had gone viral after which the Forest Department swung to action. Speaking to media persons on Saturday, Deputy Conservator of Forest, Sunil Berwal said: "After probing the viral video, we have registered a case against five persons including three women, the organiser of the event and the person who had supplied the snakes." The accused have been booked under the Wildlife Protection Act, 1972. "All have been produced before a court including a 12-year-old girl who was produced in the Juvenile Court," he added. The official also revealed that one cobra snake had been defanged. Further investigations are underway. Catch the latest news, live coverage and in-depth analyses from India and World. Follow us on Facebook and Twitter.']
+
+
+Women----SUS.GENDER
+
+Garba----SP.SPECIFIC
+
+snakes----SP.COMMON
+
+Gujarat's----LOC.STATE
+
+Junagarh----LOC.DISTRICT
+
+five----SUS.NUMBER
+
+Five----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+snakes----SP.COMMON
+
+cobra----SP.COMMON
+
+Shil village----LOC.EXACT
+
+Five----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+cobra----SP.COMMON
+
+three----SUS.NUMBER
+
+Forest Department----AUTH.SEIZE
+
+registered a case against----OUTCOME
+
+five----SUS.NUMBER
+
+three----SUS.NUMBER
+
+women----SUS.GENDER
+
+The accused have been booked under the Wildlife Protection Act, 1972----OUTCOME

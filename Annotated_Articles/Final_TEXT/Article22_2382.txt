@@ -1,0 +1,41 @@
+
+['Snake rescuer’s viral video of him free handling snake lands him in trouble\nA snake rescuer, Ayan Khan, is booked for handling an Indian spectacled cobra with his bare hands in a viral video A still from the viral video in which rescuer Ayan Khan aka KD is seen committing the offence The Thane forest department on Wednesday booked a snake rescuer from the Goregaon Film City area for indulging in free handling (handling a potentially dangerous creature without protection) of the reptile. A snake rescuer, Ayan Khan aka KD, who claims to be a director, camera operator and animal lover was seen free handling an Indian spectacled cobra in a viral video. Rakesh Bhoir, Range Forest Officer (RFO), Thane Forest Department (Territorial), said, “We had received a complaint against a snake rescuer Ayan Khan aka KD indulging in free-handling of an Indian Spectacled Cobra in Goregaon East. We had called Khan for questioning and he confessed to the crime. An offence has been registered against him under the Wildlife Protection Act, 1972.” The people associated with the work of rescuing snakes in Mumbai and adjoining areas did not like the daredevilry. A Thane-based NGO then complained about the same to the forest department. “There have been various instances in the past wherein people have died while performing stunts during rescue operations and we don’t want such things to happen again. We would like to request snake rescuers to avoid free handling of snakes. Action as per law will be taken against those found guilty,” a forest department official said.']
+
+
+snake----SP.COMMON
+
+Ayan Khan----SUS.NAME
+
+Indian spectacled cobra----SP.SPECIFIC
+
+rescuer----SUS.AFFIL
+
+Ayan Khan----SUS.NAME
+
+KD----SUS.NAME
+
+Thane forest department----AUTH.SEIZE
+
+Wednesday----DATE
+
+booked----CRIME.CAT
+
+a----SUS.NUMBER
+
+Goregaon Film City area----LOC.EXACT
+
+rescuer----SUS.AFFIL
+
+Ayan Khan----SUS.NAME
+
+Indian spectacled cobra----SP.SPECIFIC
+
+Rakesh Bhoir----OFF.NAME
+
+Range Forest Officer----OFF.DESIG
+
+Ayan Khan----SUS.NAME
+
+KD----SUS.NAME
+
+Indian Spectacled Cobra----SP.SPECIFIC

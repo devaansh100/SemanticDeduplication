@@ -1,0 +1,47 @@
+
+['Leopard cub found in baggage at Chennai airport\nChennai: The air intelligence unit and customs officials at the Chennai international airport rescued a leopard cub that a passenger from Bangkok was attempting to smuggle into the city on Saturday. Quarantine rules and restrictions on being livestock apart, the man claimed that it was a crossbreed of a cat and a dog. Customs officials had received specific intelligence regarding the attempt and were watching passengers who arrived from the Thailand capital at 1 am on Saturday. A passenger, identified as city resident Khaja Moideen, 45, walking with a pink-coloured basket attracted their attention. When they approached him, the AIU and Customs officials noticed that the basket was covered with a towel and animal sounds were coming from it. Asked what was in the basket, Moideen began giving contradictory responses. Authorites then opened his baggage for further examination and found the leopard cub. “The animal was in a state of shock and was making trill sounds and appeared to be weak,” a statement said. The custom officials fed the cub milk from a feeding bottle. Since they could not exactly identify the species, the Wildlife Crime Control Bureau (WCCB) was alerted. Moideen began claiming that it was a cross-breed of a cat and a dog and he was bringing it back to Chennai to rear it. Wildlife Crime Control Bureau (WCCB) who arrived at the spot identified it as a leopard cub (Panthera pardus). A veterinary doctor was called from the Arignar Anna Zoological Park, who informed the Customs authorities that the cub was a one-month-old female. It weighed 1.1 kg and measured 54 cm from nose to tail. Wildlife Crime Control Bureau stated that the leopard was a species protected under Wildlife Schedule 1 and smuggling or rearing them as pets was illegal. Moideen told the officials that he had bought the cub in Thailand for `5,000 to raise it and sell it to a circus for a large sum. No permission was sought, customs officials said. Customs officials decided not to send the cub back to Thailand and instead sent it to Vandalur zoo where its health could be ensured. A decision to keep it for public viewing will be taken after 30 days, officials said. Moideen was arrested and will be remanded under the Wild Life Protection Act, 1972. Further investigations are on to find out why the cub was smuggled, and if it was to be sold to a customer in Chennai']
+
+
+Leopard cub----SP.COMMON
+
+air intelligence unit----AUTH.SEIZE
+
+customs officials----AUTH.SEIZE
+
+Chennai international airport----LOC.EXACT
+
+a----QTY
+
+leopard cub----SP.COMMON
+
+Saturday----DATE
+
+dog----SP.COMMON
+
+specific intelligence----DETECTION_METHOD
+
+1 am----TIME
+
+Saturday----DATE
+
+Khaja Moideen----SUS.NAME
+
+45----SUS.AGE
+
+AIU----AUTH.SEIZE
+
+Customs officials----AUTH.SEIZE
+
+leopard cub----SP.COMMON
+
+Wildlife Crime Control Bureau (WCCB)----AUTH.MISC
+
+Wildlife Crime Control Bureau----AUTH.MISC
+
+(WCCB)----AUTH.MISC
+
+leopard----SP.SPECIFIC
+
+Panthera pardus----SP.SPECIFIC
+
+1.1 kg----QTY

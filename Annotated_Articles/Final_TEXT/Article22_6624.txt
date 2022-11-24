@@ -1,0 +1,73 @@
+
+['Jumbo deaths: Forester in Odisha jumps boundary wall, flees\nBy Express News Service BHUBANESWAR: Amid allegations of forest officials’ involvement in suppression of jumbo deaths in Athagarh, a forester from the division who was summoned to the DFO office for questioning allegedly escaped by scaling the boundary wall on Saturday. Athagarh DFO Sudarsan Gopinath Jadav said the forester Manoj Das had been summoned to his office for interrogation in connection with the recovery of the two elephant carcasses in Baramba range. However, fearing arrest, Das fled the spot. “The forester is facing the charge of suppressing information regarding the burial of the elephant carcasses exhumed by the Special Task Force. Though security personnel were present at the main gate, he escaped from the office backyard,” Jadav said. Apart from Das, another forester Pradip Parida from the division who was booked under Wildlife Protection Act following the recovery of the two carcasses, is also absconding. All the six persons including a forester and three watchers arrested in connection with the cases have been produced in court. “Efforts are on to nab the absconding personnel. We are suspecting involvement of four to five more locals from Baramba range and will nab them soon,” the DFO added. Meanwhile, in another development, RCCF Angul M Jogajayanand has formed a team to probe the pellet injury caused to a sub-adult male tusker in Narasinghpur East range of Athagarh Forest Division. Sources said the team comprising Athagarh DFO and an ACF each from Satkosia, Dhenkanal and Athagarh will probe illegal possession of pellet guns in the area, persons involved in the gunfire as well as delay in tracking the injured elephant that sustained the pellet wounds a fortnight back. A team from the Centre for Wildlife Health at OUAT lead by Prof Dr Niranjan Sahu also rushed to the spot on Saturday to examine the health of the pachyderm.  BHUBANESWAR: Amid allegations of forest officials’ involvement in suppression of jumbo deaths in Athagarh, a forester from the division who was summoned to the DFO office for questioning allegedly escaped by scaling the boundary wall on Saturday. Athagarh DFO Sudarsan Gopinath Jadav said the forester Manoj Das had been summoned to his office for interrogation in connection with the recovery of the two elephant carcasses in Baramba range. However, fearing arrest, Das fled the spot. “The forester is facing the charge of suppressing information regarding the burial of the elephant carcasses exhumed by the Special Task Force. Though security personnel were present at the main gate, he escaped from the office backyard,” Jadav said. Apart from Das, another forester Pradip Parida from the division who was booked under Wildlife Protection Act following the recovery of the two carcasses, is also absconding. All the six persons including a forester and three watchers arrested in connection with the cases have been produced in court. “Efforts are on to nab the absconding personnel. We are suspecting involvement of four to five more locals from Baramba range and will nab them soon,” the DFO added. Meanwhile, in another development, RCCF Angul M Jogajayanand has formed a team to probe the pellet injury caused to a sub-adult male tusker in Narasinghpur East range of Athagarh Forest Division. Sources said the team comprising Athagarh DFO and an ACF each from Satkosia, Dhenkanal and Athagarh will probe illegal possession of pellet guns in the area, persons involved in the gunfire as well as delay in tracking the injured elephant that sustained the pellet wounds a fortnight back. A team from the Centre for Wildlife Health at OUAT lead by Prof Dr Niranjan Sahu also rushed to the spot on Saturday to examine the health of the pachyderm.']
+
+
+Jumbo----SP.COMMON
+
+Forester----SUS.AFFIL
+
+Odisha----LOC.STATE
+
+forest officials----AUTH.SEIZE
+
+Athagarh----LOC.EXACT
+
+forester----SUS.AFFIL
+
+Saturday----DATE
+
+forester----SUS.AFFIL
+
+Manoj Das----SUS.NAME
+
+forester----SUS.AFFIL
+
+Pradip Parida----SUS.NAME
+
+All the----OUTCOME
+
+six----SUS.NUMBER
+
+forester----SUS.AFFIL
+
+three----SUS.NUMBER
+
+RCCF----OFF.DESIG
+
+Angul M Jogajayanand----OFF.NAME
+
+DFO----OFF.DESIG
+
+ACF----OFF.DESIG
+
+Satkosia----SUS.LOC
+
+Dhenkanal----SUS.LOC
+
+forest officials----AUTH.SEIZE
+
+Athagarh----LOC.EXACT
+
+forester----SUS.AFFIL
+
+forester----SUS.AFFIL
+
+Manoj Das----SUS.NAME
+
+forester----SUS.AFFIL
+
+Pradip Parida----SUS.NAME
+
+booked under Wildlife Protection Act----OUTCOME
+
+six----SUS.NUMBER
+
+RCCF----OFF.DESIG
+
+Angul M Jogajayanand----OFF.NAME
+
+Narasinghpur East range of Athagarh Forest Division----LOC.EXACT
+
+DFO----OFF.DESIG
+
+ACF----OFF.DESIG

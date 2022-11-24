@@ -1,0 +1,21 @@
+
+['Woman trampled to death in wild elephants attack\nVizianagaram: A herd of wild elephants which entered into Parvathipuram agency from Odisha forests and create panic in this area have killed a woman farmer. The herd has been roaming between Komarada, Kurupam, G.L.Puram mandalam and destroying banana orchards and eating sugar cane. The farmers are fearing to reach their farms as the beasts are wild and even they are in attacking mode. On Saturday they have killed K.Chinnammi aged 50 years of Basangi village in Jiyammavalasa mandal. She unexpectedly went close to the elephants. The herd noticed her and beaten up him with trunk and trampled. With this, she lost her life on the spot. With this terrific incident, the locals dare not to come out of their houses.']
+
+
+Woman----SUS.GENDER
+
+wild elephants----SP.COMMON
+
+attack----CRIME.CAT
+
+wild elephants----SP.SPECIFIC
+
+woman farmer----SUS.GENDER
+
+Saturday----DATE
+
+K.Chinnammi----SUS.NAME
+
+50----SUS.AGE
+
+Basangi village----SUS.LOC

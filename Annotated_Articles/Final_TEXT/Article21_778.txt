@@ -1,0 +1,71 @@
+
+['7 from Amravati & Yavatmal held trying to sell tiger body parts\nNagpur: In yet another action by Nagpur division forest officials, seven poachers from Yavatmal and Amravati districts were arrested and tiger body parts were recovered on Sunday night.This is the second raid on tiger poachers in the last five days. On October 7, a sarpanch and a scooter mechanic were arrested for trading tiger cub ’s body parts.Acting on a tip-off, the trap was laid by a team led by ACF Narendra Chandewar near Haladgaon toll booth on Nagpur-Wardha Road. The tiger is said to be killed in Umarda in Yavatmal division in March 2018.The accused have been identified as Prakash Koli (Kamatdev), Prakash Raut (Warud), Sandeep Rangari (Wardha), Ankush Naikwade (Icholi) in Yavatmal district and Vinod Moon (Sawla), Vivek Misal (Anjangaon), and Yogesh Milmile (Warud) from Amravati district.All have been remanded in forest custody till October 14.“We had information that the accused were coming to Nagpur to strike a deal for tiger body parts in an SUV MH-44B-5152. As the vehicle reached the toll booth, we stopped it and during a check tiger canines and whiskers were seized,” said deputy conservator Bharat Singh Hada.“We are also finding out if the accused were involved in poaching the tiger or were just dealing in tiger body parts. During interrogation, these accused said they removed the body parts of the dead tiger. We are not ready to believe it and our team is on a hunt of other accused,” said investigating officials. Wildlife conservationists said Butibori has suddenly emerged on the wildlife trade map in a big way. The recent spate of cases, all involving tiger parts, has a common pattern.“All the tigers were killed far away from Butibori and all seizures were done while in transit where the contraband was being taken to the buyers. Who are these so-called buyers? If it is a big racket then the government should hand over all these cases to CBI to find out who is behind them,” they said.']
+
+
+7----SUS.NUMBER
+
+Amravati----SUS.LOC
+
+tiger----SP.COMMON
+
+body parts----ITEM
+
+Nagpur division forest officials----AUTH.SEIZE
+
+seven----SUS.NUMBER
+
+Yavatmal----SUS.LOC
+
+Amravati----SUS.LOC
+
+arrested----CRIME.CAT
+
+tiger body parts----ITEM
+
+Sunday----DATE
+
+night.This----TIME
+
+tip-off----DETECTION_METHOD
+
+ACF----OFF.DESIG
+
+Narendra Chandewar----OFF.NAME
+
+Prakash Koli----SUS.NAME
+
+Kamatdev----SUS.LOC
+
+Prakash Raut----SUS.NAME
+
+Warud----SUS.LOC
+
+Sandeep Rangari----SUS.NAME
+
+Wardha----SUS.LOC
+
+Ankush Naikwade----SUS.NAME
+
+Icholi----SUS.LOC
+
+Vinod Moon----SUS.NAME
+
+Sawla----SUS.LOC
+
+Vivek Misal----SUS.NAME
+
+Anjangaon----SUS.LOC
+
+Yogesh Milmile----SUS.NAME
+
+Warud----SUS.LOC
+
+Amravati district.All----SUS.LOC
+
+tiger body parts----ITEM
+
+canines----ITEM
+
+whiskers----ITEM
+
+poaching----CRIME.CAT

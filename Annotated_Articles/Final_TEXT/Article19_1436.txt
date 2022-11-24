@@ -1,0 +1,25 @@
+
+['\'Mum, the police\', parrot alerts drug dealers in Brazil; taken into custody\nThe bird kept its beak shut after it was taken into custody. (Representative image) | Photo Credit: Getty Images Piauí: Brazil police took a parrot into custody who alerted drug dealers about a police raid. The parrot had been taught to alert the criminals of police operations in Vila Irmã Dulce in Piauí. The parrot who shouted, "Mum, the police!" was taken into custody in northern Brazil on Monday afternoon when police officials were raiding the area to nab local drug dealers. An officer involved in the investigation said, "He must have been trained for this." The officer added that as soon as the police came closer, the two winged-bird began to shout, reported The Guardian. A Brazilian journalist who got a chance to meet the "arrested" parrot on Tuesday said that it was a "super obedient" creature. The bird kept its beak shut after it was taken into custody. The journalist said, "So far it hasn’t made a sound … completely silent." A local veterinary doctor, Alexandre Clark confirmed that the bird was not cooperating with the police. The vet said that many police officers had come by but the parrot said nothing. According to Brazilian broadcaster Globo, the "drug trafficking parrot" had been handed over to a local zoo. The parrot would learn to fly for three months after which it would be released. A number of animals have been involved in the drug trade in Brazil. However, most of these animals have been reptiles. Police had seized two alligators while conducting a raid on a favela in western Rio de Janeiro in 2008. The officials had claimed that local gangsters had fed their enemies to the alligators.']
+
+
+parrot----SP.COMMON
+
+alerts----DETECTION_METHOD
+
+Brazil----LOC.STATE
+
+taken into custody----CRIME.CAT
+
+Brazil police----AUTH.SEIZE
+
+parrot----SP.COMMON
+
+alerted----DETECTION_METHOD
+
+raid----CRIME.CAT
+
+parrot----SP.COMMON
+
+Monday----DATE
+
+afternoon----TIME

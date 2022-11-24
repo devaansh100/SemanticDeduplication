@@ -1,0 +1,17 @@
+
+['dog takes on tiger\nThere is nothing a dog won’t do for his owner. Recently, a brave pet dog saved his owner from a vicious tiger attack in Seoni district of Madhya Pradesh. It was the morning time when the dog owner named Pancham Gajba, along with his brother and pet dog were returning ...']
+
+
+dog----SP.COMMON
+
+tiger----SP.COMMON
+
+tiger----SP.COMMON
+
+Seoni district----LOC.DISTRICT
+
+Madhya Pradesh----LOC.STATE
+
+morning----TIME
+
+Pancham Gajba----SUS.NAME

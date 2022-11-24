@@ -1,0 +1,55 @@
+
+['Nashik: Man held with internal organs of monitor lizard\nNASHIK: The forest department has arrested a man for allegedly possessing the internal organs of Indian Monitor Lizard and trying to sell them in the market as Hatha-Jodi.Deputy conservator of forest (DCF), Nashik West, Pankaj Garg said the person was arrested after a joint action was carried out by the forest department, police and the Wild-Life Crime Control Bureau ( WCCB ).“Based on the information by the WCCB, a team carried out the action and arrested the accused identified as Dharma Pawar, a resident of Trimbakeshwar . He has been remanded in the custody of the forest department,” said Garg.The operation was held at 10 am on Friday when the forest officials received the tip-off about a person who was looking to sell the organs of the monitor lizard, considered to be very important by the people who are engaged in superstition.']
+
+
+Nashik----LOC.DISTRICT
+
+internal organs----ITEM
+
+monitor lizard----SP.COMMON
+
+NASHIK----LOC.DISTRICT
+
+forest department----AUTH.SEIZE
+
+arrested----CRIME.CAT
+
+a----SUS.NUMBER
+
+man----SUS.GENDER
+
+possessing----CRIME.CAT
+
+internal organs----ITEM
+
+Indian Monitor Lizard----SP.COMMON
+
+arrested----CRIME.CAT
+
+joint action----DETECTION_METHOD
+
+forest department----AUTH.SEIZE
+
+police----AUTH.SEIZE
+
+Wild-Life Crime Control Bureau----AUTH.SEIZE
+
+WCCB----AUTH.SEIZE
+
+WCCB----AUTH.SEIZE
+
+Dharma Pawar----SUS.NAME
+
+Trimbakeshwar----SUS.LOC
+
+remanded in the custody of the forest department,----OUTCOME
+
+10 am----TIME
+
+Friday----DATE
+
+tip-off----DETECTION_METHOD
+
+organs----ITEM
+
+monitor lizard----SP.COMMON

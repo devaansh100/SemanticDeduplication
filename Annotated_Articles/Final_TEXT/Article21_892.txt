@@ -1,0 +1,33 @@
+
+['Tusker electrocuted\nA wild tusker aged about 35 years was electrocuted at Malligenahalli near Lingadahalli in Tarikere taluk on Monday night. The animal came in contact with an electric fence put by a farmer to protect his maize farm from wild animals. The place is close to Tyagadabagi Reserve Forest area. The incident came to light late in the evening on Monday. The local people informed the Forest Department officials. A team of senior officers and veterinarians visited the spot on Tuesday and conducted the post-mortem. Following the incident, the Forest Department officials have booked a case against Raghu, a farmer, and his mother, who cultivate the land. The accused are absconding. Deputy Conservator of Forests K.P. Gamanagatti, Assistant Conservator of Forests S.O.Dinesh and other officers visited the spot. Honorary wildlife warden G.Veeresh was also present. This is the second such incident in two months. Last month an elephant died of electrocution at Nandi Battalu village. As many as nine elephants died in the area spread over Tarikere and Lakkavalli ranges since 2007.']
+
+
+Tusker----ITEM
+
+wild tusker----SP.COMMON
+
+Malligenahalli----LOC.EXACT
+
+Monday----DATE
+
+night----TIME
+
+evening----TIME
+
+Monday----DATE
+
+post-mortem----OUTCOME
+
+Raghu----SUS.NAME
+
+accused are absconding.----OUTCOME
+
+K.P. Gamanagatti----OFF.NAME
+
+Assistant Conservator of Forests----OFF.DESIG
+
+S.O.Dinesh and----OFF.NAME
+
+Honorary wildlife warden----OFF.DESIG
+
+G.Veeresh was----OFF.NAME

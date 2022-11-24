@@ -1,0 +1,85 @@
+
+['Chatham police seize elephant tusks, one held\nPORT BLAIR, DEC 15: On 15/12/2019 at 1150 hrs, acting on reliable information regarding selling of Elephant tusk near Delanipur area by a person namely K.G. Yohannan, a Police team comprising of SI Gaurav Banerjee, SHO PS Chatham, SI Manoj Lall, SI M.A.Rasheed I/c DST, ASI Surya Narayan, HC/2444 Muthu Kumar, PC/2636 M.Santosh Kumar and PC/2885 Bipul Halder nabbed one person namely K.G. Yohannan S/o Late. K.G. George (59) yrs, Pvt. worker R/o Delanipur near Airtel office and seized 02 nos. Elephant tusk total weighing of 15.520 Kgs in a plastic bag (01 no. elephant tusk of length 80 cm, weighing about 7.810 Kgs and another 01 no. elephant tusk of length 73 cm, weighing about 7.710 Kgs) from his possession. The said person was detained U/s 50/51 Wildlife Protection Act 1972 on the spot and he was brought to Police Station Chatham. The seized Elephant tusk alongwith the detained person has been handed over to Forest official for further course of legal action. The entire operation has been carried out under the supervision of Ajay Rai DySP(SA) and overall supervision of Manoj C., IPS, Superintendent of Police, South Andaman District.']
+
+
+Chatham police----AUTH.SEIZE
+
+seize----CRIME.CAT
+
+elephant----SP.COMMON
+
+tusks----ITEM
+
+one----SUS.NUMBER
+
+1150 hrs----TIME
+
+reliable information----DETECTION_METHOD
+
+Elephant----SP.COMMON
+
+tusk----ITEM
+
+K.G. Yohannan----OFF.NAME
+
+SI----OFF.DESIG
+
+Gaurav Banerjee----OFF.NAME
+
+SHO----OFF.DESIG
+
+PS Chatham----OFF.NAME
+
+SI----OFF.DESIG
+
+Manoj Lall----OFF.NAME
+
+SI----OFF.DESIG
+
+M.A.Rasheed I/c DST,----OFF.NAME
+
+ASI----OFF.DESIG
+
+Surya Narayan----OFF.NAME
+
+Muthu Kumar----OFF.NAME
+
+M.Santosh Kumar----OFF.NAME
+
+one----SUS.NUMBER
+
+K.G. Yohannan----SUS.NAME
+
+59----SUS.AGE
+
+02 nos----QTY
+
+Elephant----SP.COMMON
+
+tusk----ITEM
+
+15.520 Kgs----QTY
+
+plastic bag----CONCEALMENT_METHOD
+
+tusk----ITEM
+
+7.810 Kgs----QTY
+
+01----QTY
+
+elephant----SP.COMMON
+
+tusk----ITEM
+
+7.710 Kgs----QTY
+
+seized----OUTCOME
+
+Ajay Rai----OFF.NAME
+
+DySP(SA----OFF.DESIG
+
+Manoj C.----OFF.NAME
+
+IPS----OFF.DESIG

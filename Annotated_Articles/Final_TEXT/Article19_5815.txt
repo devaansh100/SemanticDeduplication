@@ -1,0 +1,41 @@
+
+['9-foot Python swallows cat in Vadodara\nMake in India: Not Spain, Gujarat facility to build C-295 for Indian Air Force now 9-foot Python swallows cat in Vadodara India oi-PTI Vadodara, Oct 03: A nine-feet-long python strayed into the backyard of a house in Gujarat\'s Vadodara district, where it swallowed a cat and later coughed it out. The reptile was captured by a forest guard with the help a local NGO. The python ventured into the backyard of a house located in Vejalpur village on Tuesday. It chanced upon a cat there and tried to swallow it, forest guard Vijay Parmar said. Some locals spotted the huge snake and alerted the forest department, following which Parmar and a volunteer from local NGO Wildlife Rescue Trust rushed to the spot. UP woman mistakenly sits on snakes \'mating\' on her bed while on call, gets bitten, dies "The python, which was hiding behind a heap of wood, tried to swallow the cat, but then found it too big and spat it out," Parmar said. After hectic efforts for about an hour, the reptile was rescued and later released into a forest, he added.']
+
+
+Python----SP.COMMON
+
+swallows----CRIME.CAT
+
+cat----SP.COMMON
+
+Vadodara----LOC.CITY
+
+9-foot----QTY
+
+Python----SP.COMMON
+
+cat----SP.COMMON
+
+Vadodara----LOC.CITY
+
+python----SP.COMMON
+
+Gujarat's----LOC.STATE
+
+Vadodara----LOC.DISTRICT
+
+cat----SP.COMMON
+
+forest guard----AUTH.SEIZE
+
+python----SP.COMMON
+
+Vejalpur village----LOC.EXACT
+
+Tuesday----DATE
+
+cat----SP.COMMON
+
+alerted----DETECTION_METHOD
+
+forest department----AUTH.SEIZE

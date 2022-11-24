@@ -1,0 +1,75 @@
+
+['Sea fans, penises of monitor lizards, jackal testicles...\ngorgonia monitor lizard Honda Irappa Bandeppa Jeerali Jamakhandi indra jaal dead sea illegal trade . hatha hodis Depletion of these invertebrates causes cascading effects on marine biodiversity and ecological –Sharath Babu R, wildlife advisor These animal parts are in demand for rituals in North Karnataka; Four arrestedOn Wednesday, the Forest Mobile Squad (FMS) in Belagavi conducted raids at two shops owned by a father-son duo in Bagalkot and Bilagi respectively. They seized around 507 sea fans (coelenterate), 83 pairs of hatha jodi (penis of), 17 testicles of jackals and a snare.Based on information received by Additional Principal Chief Conservator of Forests, (Vigilance) Seema Garg and the FMS swung into action and arrested four people, including a priest. They seized avehicle and a bike that was used for the crime.The arrested have been identified as, a resident of Bagalkot, his son Pawan Irappa Jeerali, a resident of Bilagi, Bassu alias Basappa a supplier and resident ofand Shastri, who is a priest, and is also from Jamakhandi. The accused use to sell these items at their shops, which majorly sell puja items in villages of rural Karnataka.Forest officials said this is one among the major seizures of sea fans from a rural area in the State. Locally called as ‘’, theseanimals are each sold for Rs 333 per 10 gm. Wildlife sources said according to Hindu tradition, wearing/possessing one is supposed bring good luck and wealth. Meanwhile, hatha jodi is used for black magic and witchcraft.Forest officials say thisis carried out in an organised setup with local astrologers and swamijis prescribing sea fans and hatha jodis to devotees who come for solutions to their problems to them. The rates of sea fans and hatha jodi is based on the astrologers’ reputations and is sold anywhere between Rs 2,000 to Rs 10,000, forest officials said.Shankar Kallolikar, Belagavi Deputy Conservator of Forests, said the accused were aware that trading with sea fans andis a crime.Sea fans are protected under The Wildlife Protection Act. “Depletion of these invertebrates cause cascading effects on marine biodiversity and ecological,” Sharath Babu R, wildlife advisor, told Bangalore Mirror.Meanwhile, on Tuesday, FMS in Ballari, which takes care of the wildlife, flora and fauna in the districts of Davangere, Chitradurga, Koppal and Ballari, stumbled upon an illegal trade of sea fans and apprehended a 48-year-old man identified as Rajashekara Shetty. Shetty runs a shop selling puja materials in Hospet and the FMS recovered 35 sea fans from him. Manjunath R Gowda, Deputy Conservator of Forests, Ballari, said Shetty who was a retailer procured the sea fans from a wholesaler named Rajendra (50) in Kumbarpet, Bengaluru. “The wholesalers are aware that trade of sea fans is illegal, but they wouldn’t pass on that information to their retailers,” said Manjunath.Forest officials used to track the sea fan sellers through their ads on social media, but now it is not so widely publicised on social media and the information is spread by word of mouth, especially by astrologers and swamijis. “We have made brochures of these sea animals with colourful pictures of them and in the process of creating awareness as it is a protected species under Schedule 1 and anyone dealing in it is punishable under law,” Manjunath added.']
+
+
+Sea fans----SP.COMMON
+
+penises----ITEM
+
+monitor lizards----SP.COMMON
+
+jackal----SP.COMMON
+
+testicles----ITEM
+
+Four----SUS.NUMBER
+
+Wednesday----DATE
+
+Forest Mobile Squad (FMS)----AUTH.SEIZE
+
+raids----CRIME.CAT
+
+Bagalkot----LOC.CITY
+
+Bilagi----LOC.CITY
+
+507----QTY
+
+sea fans----SP.COMMON
+
+83 pairs----QTY
+
+hatha jodi----ITEM
+
+penis----ITEM
+
+17----QTY
+
+testicles----ITEM
+
+jackals----SP.COMMON
+
+a----QTY
+
+snare.Based----ITEM
+
+information----DETECTION_METHOD
+
+Additional Principal Chief Conservator----OFF.DESIG
+
+Seema Garg----OFF.NAME
+
+four----SUS.NUMBER
+
+avehicle----ITEM
+
+a----QTY
+
+bike----ITEM
+
+Bagalkot----SUS.LOC
+
+Pawan Irappa Jeerali----SUS.NAME
+
+Bilagi----SUS.LOC
+
+Bassu alias Basappa----SUS.NAME
+
+Jamakhandi----SUS.LOC
+
+48-year-old----SUS.AGE
+
+man----SUS.GENDER
+
+Rajashekara Shetty----SUS.NAME

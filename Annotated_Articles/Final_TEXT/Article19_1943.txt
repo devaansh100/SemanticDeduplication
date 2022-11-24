@@ -1,0 +1,15 @@
+
+['Video of YS Sharmila went viral\nVijayawada: In a video, which has since gone viral, an alleged thief attempts to steal a ring right from YSR Congress leader Y.S. Sharmila’s hand. However, both the YSRC and the police have denied that there was an attempt to steal the ring. Ms Sharmila, who is touring various areas to conduct an election campaign in support of YSRC, came to Tadepalli and greeted the public at Undavalli centre. Ms Sharmila, who is seen shaking hands with the public in the video, started to forcibly pull back her had after several persons caught her hand at the same time. Among them, a person had caught her wrist with one hand and further caught middle and ring finer with another hand. Despite Ms Sharmila’s attempt to take her hand back, the other people did not seem to leave her hand. There was no attempt to steal the ring, police said.']
+
+
+YS Sharmila----SUS.NAME
+
+thief----SUS.AFFIL
+
+YSR Congress leader----SUS.AFFIL
+
+Y.S. Sharmila----SUS.NAME
+
+YSRC----AUTH.SEIZE
+
+Tadepalli----LOC.EXACT

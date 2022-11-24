@@ -1,0 +1,117 @@
+
+['Tigress mauls woman to death in Kheri; 4th killing in 8 days\nLUCKNOW\\LAKHIMPUR KHERI On a killing spree, a man-eater tigress mauled a woman to death in Khairatiya village of Lakhimpur Kheri in broad daylight on Monday. In the last eight days, this was the fourth casualty due to man-animal conflict in the area , said officials. The deceased was identified as Mindo Kaur, wife of one Banta Singh. The incident was reported around 3pm when Kaur was working in the field. “The villagers heard a shriek, after which they found the carcass of Mindo Kaur, with her windpipe ruptured,” said Pargat Singh, head of Khairatiya village. On Sunday night, the big cat had killed one Narendra Singh, 30, when he went to collect grass in the cane field in Narendra Nagar Beli village, close to the forest area under the Dudhwa buffer zone. On June 18, a local priest, Mohan Das, was killed by the tigress and on June 23, a 13-year-old boy, Suraj Singh, was mauled to death by the tigress. However, the forest department was yet to trap the tigress. “Narendra Singh and his wife went to the village under Tikunia Kotwali limits to collect grass for their cattle. Done with grass cutting, the couple returned to their house, but went again to collect some more grass. It was when the tigress attacked the husband from the rear. Sensing something untoward, the wife called her husband but didn’t get any answer. She ran to the village to gather some crowd and went back again to the field where they spotted blood stains,” said Uttan Kumar, who hails from Dhakarwa Nankar, a neighbouring village. Kumar said the villagers then launched a search operation at night and found the half-eaten carcass of Narendra Singh that was lying in the cane field – 500 metres away from Singh’s cane field where the big cat had attacked him. Villagers also said they spotted the tigress feeding on Singh’s carcass but the animal fled after they raised an alarm. Narendra Nagar Beli village is 15km from Kharatiya village where the tigress had attacked a 13-year-old boy, Suraj Singh, on June 23. Foresters and experts were of the view that different big cats were involved in both the incidents. Angry villagers slammed foresters for their failure to cage the tigress. “This is not the first time when our villagers have been attacked by the tigress. This was the 21st such incident, and in many cases, people have gone missing,” said Pargat Singh, head of Khairatiya village. Singh blamed foresters for their failure in caging the stray man-eater tigress. “We have approached many times, demanding the caging of the stray animals in the area but to no avail. The foresters did nothing as if they were waiting for the disaster to happen. Despite so many deaths, they did nothing to cage these stray animals,” said Singh. A social activist who is active in the area too raised a question mark on the working style of the foresters and said, “The Narendra Beili village is almost 15km from the Kharatiya village—the place where foresters have installed the cage and are camping. It is important for us to track the tigress as early as possible as the animal is getting ferocious day by day. The man-animal conflict will only result in losses, whether it’s a loss of human life or animal life,” said S Mohammed Haider, a social activist. Besides, he also said that there is a need to verify the numbers of deaths that took place in the areas as the claims of villagers are far more than the numbers being claimed by the foresters. Other than Narendra Nagar Beili, the villages like Khairatiya, Majhra Purab, Dalrajpur, Murtiya, Naurangabad and Jasnagar are some other villages situated on the borders of Dudhwa Forest that have witnessed deaths due to stray tiger attack in past seven months. Deputy director, Dudhwa buffer zone, Sundaresh confirmed the killing of the man by the big cat on Sunday night. He, however, said the pugmarks were being collected to ascertain if this big cat was the same one that caused human and cattle casualties in Khairatiya area. Sundaresh added that forest teams had been deployed in Beli village to keep the tigress away while villagers were issued fresh advisory not to visit their cane crops or agricultural fields, particularly during evening and night hours till the big cat terror was checked. He also advised villagers to visit their fields in groups so as to keep the carnivore at bay. Assuming the tigress to be a threat to human lives, senior forest authorities including chief wildlife warden KP Dubey; PCCF (wildlife) Kamlesh Kumar; chief conservator of forests and field director, Dudhwa, Sanjay Kumar Pathak and deputy director, Dudhwa buffer zone, Sundaresh camped in Khairatiya area to neutralize the big cat’s terror. UP chief wildlife warden, KP Dubey, permitted Dudhwa authorities to trace and tranquilize the big cat. Four patrolling teams, drone teams, cameras and elephant combing teams were deployed while cages with baits were set up to catch the big cats. Sanjay Kumar Pathak, field director, Dudhwa Tiger Reserve, told HT that through the analysis of tiger images captured by cameras, it came to fore that two big cats were on the prowl in the area. He added: “By their head size and hind part, they came out to be tigresses, probably mother and daughter, as they were sharing each other’s territory.” Tranquilizing experts, biologists For the operation, forest authorities had roped in tranquilizing experts from the Wildlife Trust of India (WTI), Lucknow Zoo Authority, Pilibhit Tiger Reserve (PTR) and Dudhwa Tiger Reserve. Sanjay Kumar Pathak said that Dr Brijendra from Lucknow zoo, Dr Kalin Changmai from WTI, Dr Daksha Gangwar from PTR and Dr Daya from Dudhwa had been engaged to tranquilize the big cat. Two biologists, Apoorva from Dudhwa and Aman from WTI, were assisting in tracing and tracking the big cats through cameras. Drone teams were also scanning the dense cane-fields and grasslands to locate the big cats. RECENT KILLINGS IN TIGER ATTACKS JUNE 27 Nagendra Singh, 30, in Beli village. June 23 Suraj Singh, 13, in Nayapind- Khairatiya. JUNE 18 Mohan Das, 52, in Khairatiya village. MAY 24 Kamlesh, 30, in Saypur Padhuva. MAY 21 Mahesh, 30, in Dumeda.']
+
+
+Tigress----SP.COMMON
+
+mauls----CRIME.CAT
+
+woman----SUS.GENDER
+
+Kheri----LOC.DISTRICT
+
+woman----SUS.GENDER
+
+Khairatiya village----LOC.EXACT
+
+Monday----DATE
+
+Mindo Kaur----SUS.NAME
+
+Banta Singh----SUS.NAME
+
+3pm----TIME
+
+Narendra Singh----SUS.NAME
+
+Dhakarwa Nankar----SUS.LOC
+
+search operation----DETECTION_METHOD
+
+carcass----ITEM
+
+Narendra Singh----SUS.NAME
+
+night----TIME
+
+KP Dubey----OFF.NAME
+
+PCCF (wildlife)----AUTH.SEIZE
+
+Kamlesh Kumar----OFF.NAME
+
+chief conservator of forests and field director----OFF.DESIG
+
+Sanjay Kumar Pathak----OFF.NAME
+
+deputy director, Dudhwa buffer zone, Sundaresh----OFF.DESIG
+
+chief wildlife warden----OFF.DESIG
+
+KP Dubey----OFF.NAME
+
+Lucknow Zoo Authority----AUTH.SEIZE
+
+Pilibhit Tiger Reserve (PTR)----AUTH.SEIZE
+
+Dudhwa Tiger Reserve.----AUTH.SEIZE
+
+Brijendra----OFF.NAME
+
+Lucknow zoo----AUTH.SEIZE
+
+Kalin Changmai----OFF.NAME
+
+Daksha Gangwar----OFF.NAME
+
+PTR----AUTH.SEIZE
+
+Daya----OFF.NAME
+
+Dudhwa----OFF.NAME
+
+Apoorva----SUS.NAME
+
+Aman----SUS.NAME
+
+KILLINGS----CRIME.CAT
+
+JUNE 27----DATE
+
+Nagendra Singh----SUS.NAME
+
+30----SUS.AGE
+
+Beli village----SUS.LOC
+
+June 23----DATE
+
+Suraj Singh----SUS.NAME
+
+13----SUS.AGE
+
+Nayapind- Khairatiya----SUS.LOC
+
+JUNE 18----DATE
+
+Mohan Das----SUS.NAME
+
+52----SUS.AGE
+
+Khairatiya village----SUS.LOC
+
+MAY 24----DATE
+
+Kamlesh----SUS.NAME
+
+30----SUS.AGE
+
+Saypur Padhuva----SUS.LOC
+
+MAY 21----DATE
+
+Mahesh----SUS.NAME
+
+30----SUS.AGE
+
+Dumeda----SUS.LOC

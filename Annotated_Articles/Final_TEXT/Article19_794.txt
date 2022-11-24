@@ -1,0 +1,37 @@
+
+['Poaching scare in Chhota Udepur forest\nVADODARA: Forest officials in Chhota Udepur district nabbed three poachers with .12 bore rifle and five live cartridges in Dungarwant forest area of Pavi Jetpur taluka on Monday midnight.Poachers Bhovan Dhanak, Velji Rathwa and Nagora Rathwa were caught in deep forest area during night patrolling. The trio, all residents of Chhota Udepur, admitted that they were loitering in the forest for hunting. However, they were nabbed before they could shoot down an animal.Forest officials said that they are not divulging much about their plan. “Our investigation is going on, but they said that they wanted to kill an animal for medicine,” said Nilesh Pandya, deputy conservator of forest, Chhota Udepur. Sources said that the poachers were looking for a porcupine, claiming that tribals make medicines using its parts. The accused also admitted that it was for the first time that they were out for poaching.Pandya added that the gun recovered belongs to Velji and he even has a license for it. The license will be cancelled and his gun will also be sent to forensic laboratory. The gun will be checked to verify if any shots had been fired from it lately.A formal complaint was registered against them under the Wildlife Act at Pavi Jetpur court. They will be produced before the court on Wednesday and their custody will be sought for investigation purposes. Forest officials said that poachers have been nabbed red-handed after a long time in forest areas of Chhota Udepur district. No poaching activity has also been reported in the area in past years.']
+
+
+Chhota Udepur forest----LOC.DISTRICT
+
+Chhota Udepur district----LOC.DISTRICT
+
+nabbed----CRIME.CAT
+
+three----SUS.NUMBER
+
+poachers----SUS.AFFIL
+
+.12 bore rifle----ITEM
+
+five----QTY
+
+live cartridges----ITEM
+
+Dungarwant forest area----LOC.EXACT
+
+Monday----DATE
+
+midnight.Poachers----TIME
+
+Bhovan Dhanak----SUS.NAME
+
+Velji Rathwa----SUS.NAME
+
+Nagora Rathwa----SUS.NAME
+
+porcupine----SP.COMMON
+
+gun----ITEM
+
+Velji----SUS.NAME

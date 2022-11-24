@@ -1,0 +1,39 @@
+
+["Maha Five arrested with tiger nails teeth in Nagpur\nNagpur, Nov 24 (PTI) Five persons have been arrested for allegedly possessing and attempting to sell tiger nails and teeth in Maharashtra's Nagpur district, a forest official said on Wednesday.<br> Acting on a tip-off, a team from the Nagpur forest division laid a trap at Umred bus stop on Tuesday and nabbed three of the accused who had come there to sell the animal parts, deputy conservator of forest Nagpur Bharat Singh Hada said.<br> Based on the information provided by the trio, two more accused were subsequently nabbed, the official said in a release.<br> The forest department has registered offences against the accused under relevant provisions of the Wildlife Protection Act, 1972, he added. PTI CLS<br> <br> <br>ARU ARU"]
+
+
+Five----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+tiger----SP.COMMON
+
+nails----ITEM
+
+teeth----ITEM
+
+Nagpur----LOC.CITY
+
+Nagpur----LOC.CITY
+
+Five----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+tiger----SP.COMMON
+
+nails----ITEM
+
+teeth----ITEM
+
+Maharashtra's----LOC.STATE
+
+Nagpur----LOC.DISTRICT
+
+tip-off----DETECTION_METHOD
+
+Nagpur forest division----AUTH.SEIZE
+
+Tuesday----DATE
+
+registered offences against the accused----OUTCOME

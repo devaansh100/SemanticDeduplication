@@ -1,0 +1,91 @@
+
+['Live pangolin rescued by STF in Balangir, 2 arrested\nBalangir: The Special Task Force (STF) of Odisha police on Friday rescued a live pangolin and arrested two wildlife smugglers in the Balangir. The accused arrested smugglers have been identified as Hemasagar Mahananda of Khaliapalli village and Jagabandhu Paraja of Ainapalli village in Balangir district. On the basis of reliable information regarding dealing/possession of wildlife products by wildlife criminals, a team of STF conducted a raid with the help of Bolangir Forest Officials last night on the public road of Ainapalli under Tusura police limits. During the search, one live Pangolin weighing 11 kg and other incriminating materials were recovered from their possession. The accused persons could not produce any authority in support of the possession of such Pangolin Scales, for which they have been detained and handed over to Balangir Forest Officials for necessary legal action on their end. The live Pangolin was also handed over to DFO, Balangir for safe custody. The Indian Pangolin (Bajrakapata in odia) is a solitary, shy, slow moving, nocturnal mammal. It is a Schedule-I protected animal under Wild Life Protection Act, 1972, which provides absolute protection-offences under these are prescribed for the highest penalties. Special drive against the wildlife criminals/poachers is continuing. Till date STF has seized as many as 26 Nos. of leopard skin, 15 Nos. of elephant task, 7 Nos. of deer skins, 12 Nos. of live pangolin, 23.5kg of pangolin scales, 2 Nos. of leopard teeth, 29 Nos. of leopard claws, 46 Nos. of live wild parrot with arrest of 63 Nos. of wildlife criminals.']
+
+
+pangolin----SP.COMMON
+
+rescued----CRIME.CAT
+
+STF----AUTH.SEIZE
+
+Balangir----LOC.CITY
+
+2----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+Special Task Force (STF)----AUTH.SEIZE
+
+Friday----DATE
+
+a----QTY
+
+pangolin----SP.COMMON
+
+arrested----CRIME.CAT
+
+two----SUS.NUMBER
+
+Hemasagar Mahananda----SUS.NAME
+
+Khaliapalli village----SUS.LOC
+
+Jagabandhu Paraja----SUS.NAME
+
+Ainapalli village----SUS.LOC
+
+Balangir----SUS.LOC
+
+reliable information----DETECTION_METHOD
+
+dealing/possession of wildlife products----CRIME.CAT
+
+STF----AUTH.SEIZE
+
+raid----DETECTION_METHOD
+
+Bolangir Forest Officials----AUTH.SEIZE
+
+last night----DATE
+
+one----QTY
+
+Pangolin----SP.COMMON
+
+11 kg----QTY
+
+STF----AUTH.SEIZE
+
+26 Nos----QTY
+
+leopard----SP.COMMON
+
+skin----ITEM
+
+15 Nos----QTY
+
+7 Nos----QTY
+
+deer----SP.COMMON
+
+skins----ITEM
+
+12 Nos----QTY
+
+pangolin----SP.COMMON
+
+23.5kg----QTY
+
+scales----ITEM
+
+2 Nos----QTY
+
+teeth----ITEM
+
+29 Nos----QTY
+
+claws----ITEM
+
+46 Nos----QTY
+
+63 Nos----QTY

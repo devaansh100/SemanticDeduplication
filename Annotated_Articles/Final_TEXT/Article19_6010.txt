@@ -1,0 +1,47 @@
+
+['Uzbek national tries to smuggle 12 parrots, arrested at Delhi’s IGI airport\nWhile scanning baggage at the IGI Airport Tuesday, security personnel got suspicious when they spotted images of 12 birds in shoe boxes kept inside a passenger’s bag. While the passenger, a 24-year-old Uzbekistan national, claimed they were soft toys, officials checked the boxes to find 12 unconscious parrots. The man, Anvarjon Rakhmatjonov, was apprehended for allegedly trying to smuggle out the birds and handed over to the customs department. Officials said he has been arrested for violating customs law and the Wildlife Protection Act and will be produced in court Wednesday. A senior CISF official said the accused was going to board a flight to Tashkent via Uzbekistan Airways. “During questioning, he revealed that it is rare breed of parrot — a rose-ringed parakeet — whose demand is high in Tashkent. He was taking them to sell it to customers in his country… he fed them something to make them unconscious. We are trying to ascertain the chain,” said a senior official in the customs department, adding that this is the first time that someone has tried to smuggle live birds at the IGI Airport. Meanwhile, one of the parrots tried to open the cage they were shifted to and tried to fly away but was caught by a customs official.']
+
+
+Uzbek----SUS.NAT
+
+smuggle----CRIME.CAT
+
+12----QTY
+
+parrots----SP.COMMON
+
+arrested----CRIME.CAT
+
+Delhi’s IGI airport----LOC.EXACT
+
+Tuesday----DATE
+
+12----QTY
+
+birds----SP.COMMON
+
+shoe boxes----CONCEALMENT_METHOD
+
+inside a passenger’s bag----CONCEALMENT_METHOD
+
+24-year-old----SUS.AGE
+
+Uzbekistan----SUS.NAT
+
+12----QTY
+
+parrots----SP.COMMON
+
+man,----OUTCOME
+
+Anvarjon Rakhmatjonov----SUS.NAME
+
+customs department----AUTH.MISC
+
+CISF----AUTH.SEIZE
+
+flight----TRANSPORT_MODE
+
+Tashkent----ROUTE.DEST
+
+parrots----SP.COMMON

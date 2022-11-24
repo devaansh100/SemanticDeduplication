@@ -1,0 +1,59 @@
+
+['STF apprehend a wildlife criminal from Kandhamal\nA team of the Special Task Force (STF) along with Darinigibadi Forest officials have apprehended a wildlife criminal from Kandhamal district and seized a leopard skin from his possession. STF sources here on Sunday said acting on a tip-off a team of STF conducted raid with the help of Daringbadi Forest Officials on Saturday night on the public road of Daberi village under Daringibadi Police station in Kandhamal district and apprehended the wildlife criminal. STF officials identified the accused as Bipin Nayak of Pangali village under Dagingibadi Police station of Khandhmal district. During the search, one Leopard Skin and other incriminating materials were recovered from his possession. He was handed over to Daringbadi Forest Officials for necessary legal action on their end. Enquiry is going on. To date STF has seized as many as 27 leopard skin, 15 elephant tusk, 7 deer skins, 12 live pangolin, 23.5kg of pangolin scales, 2 leopard teeth, 29 leopard claws, 46 live wild parrot and arrested of 64wildlife criminals. Continue Reading']
+
+
+STF----AUTH.SEIZE
+
+apprehend----CRIME.CAT
+
+wildlife criminal----SUS.AFFIL
+
+Kandhamal----LOC.DISTRICT
+
+Special Task Force (STF)----AUTH.SEIZE
+
+Darinigibadi Forest officials----AUTH.SEIZE
+
+wildlife criminal----SUS.AFFIL
+
+Kandhamal----LOC.DISTRICT
+
+seized----CRIME.CAT
+
+a----QTY
+
+leopard----SP.COMMON
+
+skin----ITEM
+
+tip-off----DETECTION_METHOD
+
+STF----AUTH.SEIZE
+
+raid----DETECTION_METHOD
+
+Daringbadi Forest Officials----AUTH.SEIZE
+
+Saturday----DATE
+
+night----TIME
+
+public road of Daberi village----LOC.EXACT
+
+Kandhamal----LOC.DISTRICT
+
+Bipin Nayak----SUS.NAME
+
+Pangali village----SUS.LOC
+
+Khandhmal----SUS.LOC
+
+one----QTY
+
+Leopard----SP.COMMON
+
+Skin----ITEM
+
+teeth----ITEM
+
+claws----ITEM

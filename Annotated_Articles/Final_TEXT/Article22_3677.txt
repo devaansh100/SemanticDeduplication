@@ -1,0 +1,13 @@
+
+['AirAsia flight diverted after snake spotted inside plane. Watch video\nPassengers of an AirAsia flight from Malaysia’s Kuala Lumpur to Tawau had an unusual visitor who slithered inside the illuminated area of the aircraft. After the snake was spotted inside the aircraft earlier this week, the flight was diverted to Kuching. Captain Liong Tien Ling, AirAsia’s chief safety officer, was cited as saying by The Star that it was something that happened from time to time. “AirAsia is aware of the incident that occurred on the flight from Kuala Lumpur to Tawau on Thursday. As soon as the captain was notified, the plane was diverted to Kuching to be disinfected,” he was quoted as saying by NPR. The captain also told The Star that it was unclear how the snake got inside the aircraft and there is no information if it belonged to any passengers. He also said that the passengers and guests were safe. A video of the snake crawling inside the aircraft has surfaced online. The video shared by Hana Mohsin Khan, a commercial pilot showed the reptile slithering inside the illuminated area of the plane. “Yikes!Snake on a plane! Either an escaped pet from passenger carry on/luggage or possibly climbed its way into the aircraft from the ground. Air Asia Airbus A320-200, Kuala Lumpur to Tawau. This dude happily stayed inside the illuminated area till the plane was diverted,” reads the caption of the tweet. Yikes! Snake on a plane! Either an escaped pet from passenger carry on/luggage or possibly climbed its way into the aircraft from the ground. Air Asia Airbus A320-200,Kuala Lumpur to Tawau. This dude happily stayed inside the illuminated area till plane was diverted😂 pic.twitter.com/jqopi3Ofvp — Hana Mohsin Khan | هناء (@girlpilot_) February 12, 2022 The video left netizens shocked yet again. Some users drew parallels to the Hollywood movie Snakes on a Plane. I would freak out!! — Sadho (@sadhosays) February 12, 2022 In 2019, a Scottish woman found a small spotted python coiled up in a shoe in her Glasgow home after returning from a vacation in Queensland, Australia. The snake had travelled </strong>from Queensland to Glasgow.']
+
+
+snake----SP.COMMON
+
+Tawau----ROUTE.DEST
+
+Thursday----DATE
+
+Air Asia Airbus A320-200----AUTH.SEIZE
+
+Kuala----LOC.CITY

@@ -1,0 +1,31 @@
+
+['Rabupura: Latest News, Videos and Photos of Rabupura\nGreater Noida: Three held for stealing fuel from trucks on highways TNN / Apr 20, 2022, 03:03 (IST) Three men, allegedly part of a gang that stole diesel from vehicles, especially trucks parked along highways, and sold them in the black market, were arrested from the Yamuna Expressway on Tuesday. The police have also impounded a canter truck with a 1,000-litre storage tank, which the gang used to store the stolen fuel.']
+
+
+Three----SUS.NUMBER
+
+stealing----CRIME.CAT
+
+fuel----ITEM
+
+trucks----TRANSPORT_MODE
+
+Three----SUS.NUMBER
+
+men----SUS.GENDER
+
+gang----SUS.AFFIL
+
+trucks----TRANSPORT_MODE
+
+arrested----CRIME.CAT
+
+Yamuna Expressway----LOC.EXACT
+
+Tuesday----DATE
+
+a----QTY
+
+canter truck----TRANSPORT_MODE
+
+1,000-litre storage----QTY

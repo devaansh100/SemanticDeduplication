@@ -1,0 +1,25 @@
+
+['Mandla: Female tiger cub found dead in Kanha Tiger Reserve, infighting suspected\nMandla (Madhya Pradesh): A female tiger cub was found dead in Kahna range of Kanha Tiger Reserve on Tuesday, an official said. The carcass of the 9-month-old cub was found during a routine patrolling by a team of tiger reserve officials, he added. According to information, head of the cub was separated from the rest portion of the body The tiger reserve officials are in opinion that the cub has been killed by a mature wild animal. “The body has started decomposing. The post mortem has been conducted in the presence of experts and a report is awaited. A team has been constituted to conduct a probe into the matter,” said a senior officer of Kahna Tiger Reserve.']
+
+
+Mandla----LOC.DISTRICT
+
+tiger cub----SP.COMMON
+
+found dead----CRIME.CAT
+
+Kanha Tiger Reserve----LOC.EXACT
+
+tiger----SP.COMMON
+
+found dead----CRIME.CAT
+
+Kahna range of Kanha Tiger Reserve----LOC.EXACT
+
+Tuesday----DATE
+
+carcass----ITEM
+
+routine patrolling----DETECTION_METHOD
+
+tiger reserve officials----AUTH.SEIZE

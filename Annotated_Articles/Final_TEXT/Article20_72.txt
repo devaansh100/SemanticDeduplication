@@ -1,0 +1,47 @@
+
+['14 snakes exhibited at school fest seized\nForest Department officials on Monday seized 14 snakes illegally exhibited in Koduvally in Kozhikode district. According to sources, they were brought as part of the anniversary celebration of a private school at Karoonji near Koduvally. Among them, there were 10 cobras, and a viper, python, rat snake, and Keelback snake. Cases have been registered against Shafeeq from Malappuram and Mohammed of Koduvally under relevant provisions of the Wildlife Act. The organisers of the exhibition fled on seeing the Forest officials.']
+
+
+14----QTY
+
+snakes----SP.COMMON
+
+seized----CRIME.CAT
+
+Forest Department officials----AUTH.SEIZE
+
+Monday----DATE
+
+seized----CRIME.CAT
+
+14----QTY
+
+snakes----SP.COMMON
+
+Koduvally----LOC.EXACT
+
+Kozhikode----LOC.DISTRICT
+
+10----QTY
+
+cobras----SP.COMMON
+
+a----QTY
+
+viper----SP.COMMON
+
+python----SP.COMMON
+
+rat snake----SP.SPECIFIC
+
+Keelback snake----SP.SPECIFIC
+
+Cases have been registered----OUTCOME
+
+Shafeeq----SUS.NAME
+
+Malappuram----SUS.LOC
+
+Mohammed----SUS.NAME
+
+Koduvally----SUS.LOC

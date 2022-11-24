@@ -1,0 +1,13 @@
+
+["Clever Jackal saves himself from being devoured by the lions in Indore zoo\nApr 15, 2022, 01:05PM IST Source: TNN A video of a smart Jackal is coming forth from the Indore Zoo. A jackal entered the lion's enclosure in Indore Zoo and can be seen running to save himself from being devoured by the lions. In the video, the lions can be seen chasing him for a long time, but when the people saw the jackal in the lion's enclosure, they informed the zoo management."]
+
+
+Jackal----SP.COMMON
+
+devoured----CRIME.CAT
+
+Indore zoo----LOC.EXACT
+
+Apr 15, 2022----DATE
+
+jackal----SP.COMMON

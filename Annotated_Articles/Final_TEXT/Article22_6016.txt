@@ -1,0 +1,25 @@
+
+['Chhattisgarh: Forest dept officials perform last rites of tiger found dead in Guru Ghasidas National Park\nKorea (Chhattisgarh) [India], June 8 (ANI): A tiger was found dead at the Guru Ghasidas National Park in Chhattisgarh’s Korea district. Forest officials suspect that the animal was poisoned to death. The carcass of the male tiger, aged 7-8 years, was found in a dense forest near Salgava village under the Ramgarh forest range, the national park’s director, Ranganadha Ramakrishna Y. According to officials, they got information about the animal’s death on Sunday night following which a team was rushed to the spot. They further informed that the tiger died after consuming a poisoned buffalo carcass. Four people have been arrested in connection with the tiger’s death. “It seems that the tiger died after consuming a poisoned buffalo carcass. Four people have been arrested in connection with it. They were also presented before the court,” YR Ramakrishna, Divisional Forest Officer (DFO) told ANI. A forensic team has been called to the spot to probe the matter. The footprints of the tiger are also being investigated. The forest department officials further performed the last rites of the tiger. (ANI) This report is auto-generated from ANI news service. ThePrint holds no responsibility for its content.  Source: The Print']
+
+
+Forest dept----AUTH.SEIZE
+
+tiger----SP.COMMON
+
+Guru Ghasidas National Park----LOC.EXACT
+
+tiger----SP.COMMON
+
+Guru Ghasidas National Park----LOC.EXACT
+
+poisoned to death----CRIME.CAT
+
+carcass----ITEM
+
+tiger----SP.COMMON
+
+near Salgava village----LOC.EXACT
+
+Ranganadha Ramakrishna Y.----OFF.NAME
+
+Four----SUS.NUMBER

@@ -1,0 +1,71 @@
+
+['Kingpin of red sanders racket arrested\nCar crash trail leads police to Basha Bhai Car crash trail leads police to Basha Bhai Shaik Abdul Hakim (41) alias Basha Bhai, an alleged kingpin involved in international red sanders smuggling racket, was arrested by the Kadapa police on Monday. Eight of his accomplices and associates were also nabbed following investigation. The police got the vital breakthrough from the ghastly mishap near the Kadapa airport in the early hours of Nov. 2 in which two vehicles rammed a tipper and went up in flames, killing five persons. The police kept tabs on the occupants of the car who had fled to Tamil Nadu. In view of the inter-State ramifications, Director-General of Police Gautam Sawang directed the Superintendent of Police (Kadapa) K.K.N. Anburajan to crack the case immediately, following which the latter formed five teams and deputed them to Bengaluru, Coimbatore, Tirupathur, Vellore and the last one to sieve the nook and corner of Kadapa. Two teams gathered vital inputs on the involvement of Abdul Hakim, a resident of Coimbatore, and nabbed him at Rajampeta on Sunday evening along with 10 red sanders logs, apart from arresting his accomplices. Based on the CCTV footage and documents seized from the car, the personnel nabbed three more at Rayachoti. Gang war Though nine members entered the Seshachalam forest at Kanumalopalli of Bhakarapet beat and came out with dressed logs to be sold in Bengaluru, the local gang decided to hijack the wood. “This led to the hot chase, in which the cars collided with the tipper on the Kadapa-Kamalapuram highway,” Mr. Anburajan told the media on Monday, while producing the logs and the arrested persons. Accused in 25 cases Basha Bhai is the most wanted accused in 14 cases in Kadapa district and 11 in Anantapur district. After serving jail sentence for nine months in Kadapa and Chittoor prisons and in view of heightened vigilance locally, he moved base to Bengaluru, where he got in touch with notorious smugglers Afroz and Fayaz having global connections. He continued to rule the business with a change in modus operandi. With the police focus shifting to Katigenahalli in Bengaluru rural, he finally moved to Coimbatore to illegally transport logs in the guise of cotton, only to draw the attention of the Directorate of Revenue Intelligence (DRI). “We are actively considering to invoke P.D. Act against him,” Mr. Anburajan added. The other arrested were B. Jayaram Naik (Chakrayapet), K. Viswanatha Reddy (Pendlimarri), K.V. Maheswara Raju, P. Chiranjeevi (both Kadapa), K. Beeda Merin Prem Kumar, D. Naveen Kumar, C. Ravikanth and K. Girish (all from Kamalapuram).']
+
+
+Kingpin----SUS.AFFIL
+
+red sanders----SP.COMMON
+
+arrested----CRIME.CAT
+
+Basha Bhai----SUS.NAME
+
+Basha Bhai----SUS.NAME
+
+Shaik Abdul Hakim----SUS.NAME
+
+41----SUS.AGE
+
+Basha Bhai----SUS.NAME
+
+kingpin----SUS.AFFIL
+
+Kadapa police----AUTH.SEIZE
+
+Monday----DATE
+
+Eight----SUS.NUMBER
+
+Nov. 2----DATE
+
+five----SUS.NUMBER
+
+K.K.N. Anburajan----OFF.NAME
+
+Abdul Hakim----SUS.NAME
+
+Coimbatore----SUS.LOC
+
+nabbed----CRIME.CAT
+
+Rajampeta----LOC.EXACT
+
+Sunday----DATE
+
+evening----TIME
+
+10----QTY
+
+B. Jayaram Naik----SUS.NAME
+
+Chakrayapet----SUS.LOC
+
+K. Viswanatha Reddy----SUS.NAME
+
+Pendlimarri----SUS.LOC
+
+K.V. Maheswara Raju----SUS.NAME
+
+P. Chiranjeevi----SUS.NAME
+
+Kadapa----SUS.LOC
+
+K. Beeda Merin Prem Kumar----SUS.NAME
+
+D. Naveen Kumar----SUS.NAME
+
+C. Ravikanth----SUS.NAME
+
+K. Girish----SUS.NAME
+
+Kamalapuram----SUS.LOC

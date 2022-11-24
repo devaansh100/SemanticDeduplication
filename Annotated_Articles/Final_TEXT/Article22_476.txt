@@ -1,0 +1,57 @@
+
+["Elephant electrocuted in agriculture field\nSadum (Chittoor district): An elephant was electrocution at Cherukuvaripalli in Sadum mandal in the early hours of Saturday. West divisional forest officer (DFO) Sunkara Ravisankar said a 21-year-old female elephant entered the finger millet field of a farmer Subramanyam while grazing on Saturday morning. While eating the crop, the elephant also bit the live wire which was supplying power to the borewell motor resulting in the spot death. The villagers after finding the carcass in the fields informed the forest and police department who rushed to the spot. Forest department officials conducted a post mortem on the animal's body and buried. Panchayat raj minister Peddireddi Ramachandra Reddy along with Piler MLA Chintala Ramachandra Reddy and West DFO Ravi Sankar visited the spot. The minister directed the forest officials to take measures to prevent elephants and other wild animals entering fields from forest area. Ramachandra Reddy also wanted the officials to alert villagers from time to time about the movement of the elephants using trackers when they are reaching the habitations and fields. Later, the minister visited family of Yellapa who was trampled to death by elephants at Gollapalli in Sadum mandal on Thursday, and assured them of Rs 5 lakh ex gratia from the forest department and also another Rs 5 lakh from the government. Piler MLA Chintala Ramachandra Reddy, Thamballapalli MLA Dwarakanadha Reddy, forest ranger Balakrishna Reddy, section officers Babu Prasad, Reddy Prasad, S V Veterinary College doctors were present."]
+
+
+Elephant----SP.COMMON
+
+electrocuted----CRIME.CAT
+
+Sadum----LOC.DISTRICT
+
+Chittoor----LOC.DISTRICT
+
+elephant----SP.COMMON
+
+electrocution----CRIME.CAT
+
+Cherukuvaripalli----LOC.EXACT
+
+Saturday----DATE
+
+Saturday----DATE
+
+morning----TIME
+
+a post mortem on the animal's body and buried----OUTCOME
+
+minister----OFF.DESIG
+
+Peddireddi Ramachandra Reddy----OFF.NAME
+
+MLA----OFF.DESIG
+
+Chintala Ramachandra Reddy----OFF.NAME
+
+West DFO----OFF.DESIG
+
+Ravi Sankar----OFF.NAME
+
+MLA----OFF.DESIG
+
+Chintala Ramachandra Reddy----OFF.NAME
+
+MLA----OFF.DESIG
+
+Dwarakanadha Reddy----OFF.NAME
+
+forest ranger----OFF.DESIG
+
+Balakrishna Reddy----OFF.NAME
+
+section officers----OFF.DESIG
+
+Babu Prasad----OFF.NAME
+
+Reddy Prasad----OFF.NAME
+
+S V Veterinary College----AUTH.SEIZE

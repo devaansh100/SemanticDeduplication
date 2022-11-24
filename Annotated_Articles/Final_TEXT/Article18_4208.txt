@@ -1,0 +1,23 @@
+
+['Tiger cub found dead in Pench Tiger Reserve\nNagpur: A tiger cub, approx 8- 9 months old, was found dead at Pench Tiger Reserve on Friday evening. A press note issued by Deputy Director of Pench Reserve stated that during regular patrolling the Forest Team found dead cub at CN 592 of Chorbahuli beat, Chorbahuli range of Core area of Pench Tiger Reserve. Advertisement This cub may be abandoned by T-66 tigress as her mother has been found roaming in the area with her another cub, the press note reads. Advertisement It further mentioned that, all body parts have been found intact. As it was late evening, it was decided to carry out postmortem on Saturday with all due protocols given by NTCA. Advertisement Advertisement Advertisement Advertisement Advertisement Advertisement Advertisement Advertisementss Advertisement Advertisement Advertisement']
+
+
+Tiger cub----SP.COMMON
+
+found dead----CRIME.CAT
+
+Pench Tiger Reserve----LOC.EXACT
+
+tiger----SP.COMMON
+
+found dead----CRIME.CAT
+
+Pench Tiger Reserve----LOC.EXACT
+
+Friday----DATE
+
+evening----TIME
+
+regular patrolling----DETECTION_METHOD
+
+cub----SP.COMMON

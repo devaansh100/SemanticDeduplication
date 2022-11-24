@@ -1,0 +1,33 @@
+
+['Uttarakhand: Leopard caged by poachers rescued in Udham Singh Nagar\nRUDRAPUR: A forest department team rescued a five-year-old female leopard from a farm in the Barwala village in Kelakhera town of district Udham Singh Nagar on Monday.The leopard was already trapped in a cage and the forest department suspects that it was trapped by poachers. The two-hour-long operation saw the team using a tranquiliser gun and ferrying the feline to a rescue centre in Ranibagh of Nainital district for treatment before releasing it back into the wild.Forest Rangers Bhupal Singh Kaida of Rudrapur and Roop Narayan Gautam of Barhaini forest range reached the spot with a medical team after being informed by villagers. As the news about the caged leopard spread in the area, a big crowd gathered on the site. The presence of a big crowd made the rescue operation complicated. Gautam said, “The cat was stuck in the cage. Poachers might have installed the cage to catch some wild animals for their meat. We are still trying to find out the actual reason behind this. A probe has begun and a case will be registered against the farm owner if found guilty.”Meanwhile, veterinarian Ayush Uniyal said that the big cat has suffered injuries in its hind legs and will be treated at the centre. “The forest department will be fixing a radio collar on the leopard before releasing it in the wild,” he said.']
+
+
+Leopard----SP.COMMON
+
+rescued----CRIME.CAT
+
+Udham Singh Nagar----LOC.DISTRICT
+
+forest department----AUTH.SEIZE
+
+Barwala village in Kelakhera town of district----LOC.EXACT
+
+Udham Singh Nagar----LOC.DISTRICT
+
+Monday.The----DATE
+
+leopard----SP.COMMON
+
+poachers----SUS.AFFIL
+
+Rangers----OFF.DESIG
+
+Bhupal Singh Kaida----OFF.NAME
+
+Rudrapur----SUS.LOC
+
+Roop Narayan Gautam----OFF.NAME
+
+Barhaini forest range----AUTH.SEIZE
+
+case will be registered against the farm owner if found guilty----OUTCOME

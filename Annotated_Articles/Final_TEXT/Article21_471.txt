@@ -1,0 +1,25 @@
+
+['Rare yellow turtle spotted in Odisha, rescued and released into river\nBhubaneswar: A rare yellow coloured turtle was spotted and rescued in Odisha\'s Bhadrak district, forest officials said on Tuesday. According to sources, a local school teacher in Chandbali block of Bhadrak district rescued the unique yellow colour turtle weighing about 2 kg on Monday. He informed the local forest officials and handed over the turtle to them. People gathered in large numbers at his house to see the rare turtle. Later, the forest officials released the turtle in Baitarani River. "An albino Indian flapshell turtle (Lissemy\'s punctata) was rescued from Baitarani River on July 12 from Chandbali Wildlife Range. It was released after consulting a veterinarian," Odisha, principal chief conservator of forests (PCCF), wildlife, Shashi Paul told IANS. In the same month last year, a yellow turtle was rescued by a group of locals from the Sujanpur village in Soro block of Balasore district. At that time, the images and video of the reptile went viral on social media.']
+
+
+yellow turtle----SP.COMMON
+
+Odisha----LOC.STATE
+
+Bhadrak----LOC.DISTRICT
+
+local school teacher----AUTH.MISC
+
+2 kg----QTY
+
+Monday----DATE
+
+local forest officials----AUTH.SEIZE
+
+turtle----SP.COMMON
+
+Lissemy's punctata----SP.SPECIFIC
+
+Baitarani River----LOC.EXACT
+
+July 12----DATE

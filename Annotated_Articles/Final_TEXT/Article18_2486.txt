@@ -1,0 +1,25 @@
+
+['12-year-old Girl Killed By Predator in Boniyar Baramulla\n632 total views, 2 views today Zaffer Iqbal Srinagar, Jun 14 (GNS): After two incidents in last few days involving killing of two children, a 12-year-old girl has now fallen prey to a predator at Batangi Boniyar in Baramulla district. Reports reaching GNS said that a girl identified as Rutba Manzoor daughter of Manzoor Ahmad Bhat was pounced upon by a wild animal and taken away to nearby forests this morning. Alerted by the cries, the family and locals tried to chase the animal, possibly a leopard, however the beast disappeared in the dense forests with the child. After strenuous efforts, the child was found dead by the locals. Notably, two minor boys fell prey to wild animal(s) in two incidents in last few days at Cholan Kalsi Ghati and Trikanjan Boniyar areas respectively. (GNS)']
+
+
+12-year-old----SUS.AGE
+
+Girl----SUS.GENDER
+
+Killed----CRIME.CAT
+
+Boniyar----LOC.EXACT
+
+Baramulla----LOC.DISTRICT
+
+12-year-old----SUS.AGE
+
+girl----SUS.GENDER
+
+Batangi Boniyar----LOC.EXACT
+
+Baramulla----LOC.DISTRICT
+
+Rutba Manzoor----SUS.NAME
+
+morning----DATE

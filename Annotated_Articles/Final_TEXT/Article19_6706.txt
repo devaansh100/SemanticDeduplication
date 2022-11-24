@@ -1,0 +1,27 @@
+
+['Indian injured in elephant attack in Sri Lanka\nIndian injured in elephant attack in Sri Lanka Puttalam (Sri Lanka): An Indian worker was injured after being attacked by a wild elephant in Sri Lanka’s Puttalam district. The 32-year old man, who hails from Andhra Pradesh, was attacked and carried into a jungle by the elephant on Thursday when he stepped out of a welding workshop, where he was employed, The Sunday Times reported. Following the attack, the man was rushed to the Puttalam Base Hospital. Later, wildlife officers arrived at the spot to chase the tusker into a forest reserve in the area.']
+
+
+elephant----SP.COMMON
+
+Sri Lanka----LOC.STATE
+
+Indian----SP.COMMON
+
+Sri Lanka----LOC.STATE
+
+Sri Lanka’s----LOC.STATE
+
+Puttalam----LOC.DISTRICT
+
+32-year old----SUS.AGE
+
+man----SUS.GENDER
+
+Andhra Pradesh----SUS.LOC
+
+elephant----SP.COMMON
+
+Thursday----DATE
+
+wildlife officers----AUTH.MISC

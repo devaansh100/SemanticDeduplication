@@ -1,0 +1,49 @@
+
+['Nine held with 294 birds\nSix people were arrested in the first raid around 7.15am and three in the next raid around 12.30pm At least 292 parakeets, a hill myna and an Asian koel were seized from their possession during a joint raid by the wildlife wing of the Bengal’s forest directorate and the wildlife crime control bureau. Nine people were arrested with birds protected under the wildlife protection act on Galiff Street on Sunday. “All the birds are protected under the wildlife protection act. Trading or keeping them is a punishable offence,” a bureau official said. The raiding team visited the Galiff Street market twice on Sunday. “We seized the birds and arrested some people. But as soon as we left, the bird sale resumed. The sellers felt since we had raided once, we will not return,” the official said. “But we raided the place twice to catch those who were selling birds after the first raid. Besides, this will instil a sense of fear among such sellers,” the official said. Six people were arrested in the first raid around 7.15am and three in the next raid around 12.30pm. The arrested will be produced in court on Monday.']
+
+
+Nine----SUS.NUMBER
+
+294----QTY
+
+birds----ITEM
+
+Six----SUS.NUMBER
+
+7.15am----TIME
+
+three----SUS.NUMBER
+
+12.30pm----TIME
+
+292----QTY
+
+parakeets----SP.SPECIFIC
+
+a----QTY
+
+hill myna----SP.SPECIFIC
+
+an----QTY
+
+Asian koel----SP.SPECIFIC
+
+seized----CRIME.CAT
+
+raid----CRIME.CAT
+
+wildlife wing of the Bengal’s forest directorate----AUTH.SEIZE
+
+wildlife crime control bureau----AUTH.SEIZE
+
+Nine----SUS.NUMBER
+
+Galiff Street----LOC.EXACT
+
+Sunday----DATE
+
+Six----SUS.NUMBER
+
+7.15am----TIME
+
+12.30pm----TIME

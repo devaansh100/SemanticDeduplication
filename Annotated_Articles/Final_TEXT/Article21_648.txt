@@ -1,0 +1,97 @@
+
+['Elephant found dead in Anaimalai Tiger Reserve, poaching suspected\nS Senthil Kumar By Express News Service COIMBATORE: A tusker was found dead inside the reserve forest at Sadayanparai, which falls under the Udumalai forest range in Anaimalai Tiger Reserve (ATR) on Sunday evening, in what is suspected to be a case of poaching. Forest officials said the left tusk of the elephant was missing, adding that the cause of death could be established only after investigation. Coimbatore forest veterinary officer A Sukumar and assistant veterinary surgeon B Aravind, who conducted post motem examination, said the animal, believed to be 35-years-old, had died five days ago. Udumalai forest range officer C Dhanabalan said, the animal, which had one tusk, was spotted in the area recently. It had lost the right tusk in a fight with another tusker several years ago. “We have formed a special team and are questioning tribal people in Kaattupatti, which is close by, to get a clue regarding the missing tusk. As per the instruction of Chief Wildlife Warden Shekhar Kumar Niraj, we have inquired people who possess unlicensed guns and ammunition.” Asked if there was any injury marks that suggested poaching, Sukumar said there were no external injuries to establish that the animal was shot dead. “However, we recovered four pellets from its head which could have been the result of a poaching attempt made several years ago,” he further said, adding that the 37 centimetres of the right tusk was in tact. The carcass was in a state of putrification, he added. Chief wildlife warden Shekhar Kumar Niraj said, “The cause of death is mysterious since post mortem examination has not indicated gunshot wound or poisoning. A metal detector revealed the pellets that were lodged in the head.Samples of vital organs have been collected for histopathological and serological analysis. Ballistic forensic examination would also be conducted, and if needed, we will involve the CBI.” 2 forest staff injured in elephant attack Coimbatore: Two field level forest staff were injured in a wild elephant attack on Sunday evening. According to District Forest Officer (Coimbatore division) TK Ashokumar, the two — staff forest guard J Mohanraj and anti-poaching watcher Senthil Kumar — were part of a team that was trying to chase away a tusker spotted near Tholampalayam, into the Bothanpadugai forest. They did not notice the animal which ventured out from bushes and pushed them down. Both are undergoing treatment in a private hospital in Seeliyur. COIMBATORE: A tusker was found dead inside the reserve forest at Sadayanparai, which falls under the Udumalai forest range in Anaimalai Tiger Reserve (ATR) on Sunday evening, in what is suspected to be a case of poaching. Forest officials said the left tusk of the elephant was missing, adding that the cause of death could be established only after investigation. Coimbatore forest veterinary officer A Sukumar and assistant veterinary surgeon B Aravind, who conducted post motem examination, said the animal, believed to be 35-years-old, had died five days ago. Udumalai forest range officer C Dhanabalan said, the animal, which had one tusk, was spotted in the area recently. It had lost the right tusk in a fight with another tusker several years ago. “We have formed a special team and are questioning tribal people in Kaattupatti, which is close by, to get a clue regarding the missing tusk. As per the instruction of Chief Wildlife Warden Shekhar Kumar Niraj, we have inquired people who possess unlicensed guns and ammunition.” Asked if there was any injury marks that suggested poaching, Sukumar said there were no external injuries to establish that the animal was shot dead. “However, we recovered four pellets from its head which could have been the result of a poaching attempt made several years ago,” he further said, adding that the 37 centimetres of the right tusk was in tact. The carcass was in a state of putrification, he added. Chief wildlife warden Shekhar Kumar Niraj said, “The cause of death is mysterious since post mortem examination has not indicated gunshot wound or poisoning. A metal detector revealed the pellets that were lodged in the head.Samples of vital organs have been collected for histopathological and serological analysis. Ballistic forensic examination would also be conducted, and if needed, we will involve the CBI.” 2 forest staff injured in elephant attack Coimbatore: Two field level forest staff were injured in a wild elephant attack on Sunday evening. According to District Forest Officer (Coimbatore division) TK Ashokumar, the two — staff forest guard J Mohanraj and anti-poaching watcher Senthil Kumar — were part of a team that was trying to chase away a tusker spotted near Tholampalayam, into the Bothanpadugai forest. They did not notice the animal which ventured out from bushes and pushed them down. Both are undergoing treatment in a private hospital in Seeliyur.']
+
+
+Elephant----SP.COMMON
+
+found dead----CRIME.CAT
+
+Anaimalai Tiger Reserve----LOC.EXACT
+
+poaching----CRIME.CAT
+
+tusker----SUS.AFFIL
+
+found dead----CRIME.CAT
+
+Sunday----DATE
+
+evening----TIME
+
+poaching----CRIME.CAT
+
+elephant----SP.COMMON
+
+A Sukumar----OFF.NAME
+
+assistant veterinary surgeon----OFF.DESIG
+
+2----SUS.NUMBER
+
+elephant----SP.COMMON
+
+wild elephant----SP.COMMON
+
+Sunday----DATE
+
+evening----TIME
+
+District Forest Officer (Coimbatore division)----OFF.DESIG
+
+TK Ashokumar----OFF.NAME
+
+forest guard----OFF.DESIG
+
+J Mohanraj----OFF.NAME
+
+anti-poaching watcher----OFF.DESIG
+
+Senthil Kumar----OFF.NAME
+
+tusker----SP.COMMON
+
+found dead----CRIME.CAT
+
+Sadayanparai, which falls under the Udumalai forest range in Anaimalai Tiger Reserve (ATR)----LOC.EXACT
+
+Sunday----DATE
+
+evening----TIME
+
+poaching----CRIME.CAT
+
+Coimbatore forest veterinary officer----OFF.DESIG
+
+A Sukumar----OFF.NAME
+
+assistant veterinary surgeon----OFF.DESIG
+
+B Aravind----OFF.NAME
+
+Chief Wildlife Warden----AUTH.SEIZE
+
+Shekhar Kumar Niraj----OFF.NAME
+
+four----QTY
+
+pellets----ITEM
+
+2----SUS.NUMBER
+
+elephant----SP.COMMON
+
+Sunday----DATE
+
+evening----TIME
+
+District Forest Officer (Coimbatore division)----OFF.DESIG
+
+TK Ashokumar----OFF.NAME
+
+staff forest guard----OFF.DESIG
+
+J Mohanraj----OFF.NAME
+
+anti-poaching watcher----OFF.DESIG
+
+Senthil Kumar----OFF.NAME

@@ -1,0 +1,65 @@
+
+['Nine arrested for consuming deer meat\nForest department officials on Monday arrested nine persons and fined them ₹ 1.8 lakh for consuming Sambar deer meat. Officials said that the nine men, residents of Anaikatty, Siriyur and Masinagudi, had taken the meat from a dead Sambar deer and had distributed it among themselves, cooked and consumed it. Following a tip-off, the forest department arrested the men and imposed a fine of ₹ 20,000 each, resulting in a cumulative fine of ₹ 1.8 lakh. The men, who noticed a pack of wild dogs killing the deer, took the meat from the carcass, officials said. The incident took place in the Sigur Range in buffer zone of the Mudumalai Tiger Reserve (MTR), officials added. Two fined for smuggling sandalwood During interrogation, the nine men revealed that another individual, identified as S. Ravi from Siriyur, used to smuggle sandalwood from the forests. When Ravi was questioned, he revealed that he was a shepherd who used to collect small bits of bark and root from dead sandalwood trees while taking his livestock into the forest and would then hand it over to a Bokkapuram resident A. Mohammad Ali. Both Ravi and Mohammad Ali were arrested and let off with a fine of ₹ 20,000 each.']
+
+
+Nine----SUS.NUMBER
+
+deer----SP.COMMON
+
+meat----ITEM
+
+Forest department----AUTH.SEIZE
+
+Monday----DATE
+
+arrested----CRIME.CAT
+
+nine----SUS.NUMBER
+
+fined them----OUTCOME
+
+Sambar----SP.SPECIFIC
+
+deer----SP.COMMON
+
+meat----ITEM
+
+Anaikatty----SUS.LOC
+
+Siriyur----SUS.LOC
+
+Masinagudi----SUS.LOC
+
+Sambar deer----SP.SPECIFIC
+
+tip-off----DETECTION_METHOD
+
+forest department----AUTH.SEIZE
+
+pack of wild dogs----SUS.AFFIL
+
+Sigur Range in buffer zone of the Mudumalai Tiger Reserve (MTR----LOC.EXACT
+
+Two----SUS.NUMBER
+
+smuggling----CRIME.CAT
+
+sandalwood----SP.COMMON
+
+S. Ravi----SUS.NAME
+
+Siriyur----SUS.LOC
+
+sandalwood----SP.SPECIFIC
+
+Bokkapuram----SUS.LOC
+
+A. Mohammad Ali----SUS.NAME
+
+Ravi----SUS.NAME
+
+Mohammad Ali----SUS.NAME
+
+arrested----CRIME.CAT
+
+let off----OUTCOME

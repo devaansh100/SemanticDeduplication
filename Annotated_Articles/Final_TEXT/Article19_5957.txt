@@ -1,0 +1,25 @@
+
+['Tension in UP district after monkey shot dead\nShamli, Oct 6, 2019- Tension has been prevailing in Shamli district in Uttar Pradesh, after a monkey was shot dead by a youth and his two brothers, police said on Sunday. The monkey is revered by Hindus as a representative of Lord Hanuman and hurting it is considered sacrilege. Circle Officer Kairana, Pradeep Kumar said, “An FIR has been filed against three brothers Asif, Hafiz and Anees who allegedly surrounded the monkey and shot at it with one of the four licenced weapons belonging to the family on Saturday.” According to the police, the monkey received the bullet injury on the back and succumbed to it soon. Forest officials reached the spot and took away the simian for a post mortem after which it was buried. Though the Forest Department has filed an FIR under relevant sections of Wildlife Protection Act 1972 that attracts six months of imprisonment and a fine, no arrests have been made so far. Local Bajrang Dal activists staged protests following the incident and were joined by the villagers as the news spread. District President of Bajrang Dal youth wing, Sunny Saroha, said, “Three youths from the minority community have shot the monkey fatally wounding it. They also made some derogatory remarks. We demand their immediate arrest and revocation of their arms licenses.” Additional forces have been deployed in the area in view of the prevailing tension. (Agency)']
+
+
+monkey----SP.COMMON
+
+shot dead----CRIME.CAT
+
+Shamli district----LOC.DISTRICT
+
+Uttar Pradesh----LOC.STATE
+
+monkey----SP.COMMON
+
+three----SUS.NUMBER
+
+brothers----SUS.AFFIL
+
+Asif----SUS.NAME
+
+Hafiz----SUS.NAME
+
+Anees----SUS.NAME
+
+Saturday----DATE

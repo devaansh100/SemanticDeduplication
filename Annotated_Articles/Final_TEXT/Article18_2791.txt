@@ -1,0 +1,15 @@
+
+['Fearless cat faces off against big black bear; chases it away from owner\'s driveway\nCat vs Bear KEY HIGHLIGHTS The brave cat in the clip is named Tigger. It is owned by Brothers Gavin and Cameron Sturrock. Tigger is known to be mischievous and fearless. The Sturrocks say he is often found chasing dogs away from their homes. Tigger went straight for the bear and stood just two feet away from it. Then came the moment when the feline arched its back and walked towards the bear, causing it the flee. A fearless domestic feline faced off against a big black bear and managed to chase it away from a driveway. The fascinating encounter was caught on camera and shared online. Filmed by a man from British Columbia, the clip shows the cat facing the big carnivore head-on without any fear. Related News British ship captain jumps overboard wearing boxers to rescue meerkat named Boris The brave cat in the clip is named Tigger. It is owned by Brothers Gavin and Cameron Sturrock. Tigger is known to be mischievous and fearless. The Sturrocks say he is often found chasing dogs away from their homes. Well, the bravery of the cat was pretty evident when a large black bear appeared in the driveway of the Sturrock house. The big animal appeared when the brothers were loading their car outside their home for a camping trip in the Canyon Heights neighborhood of North Vancouver. Tigger went straight for the bear and stood just two feet away from it. Then came the moment when the feline arched its back and walked towards the bear, causing it the flee. "I didn\'t notice right away, but my little cat was just like -- he was right here. He was two feet away from this bear," Gavin told Global News. Realising that Tigger was trying to scare away the near, Gavin started filming the moment.']
+
+
+cat----SP.COMMON
+
+black bear----SP.SPECIFIC
+
+Tigger----SUS.NAME
+
+Cameron Sturrock----SUS.NAME
+
+Tigger----SUS.NAME
+
+black bear----SP.SPECIFIC

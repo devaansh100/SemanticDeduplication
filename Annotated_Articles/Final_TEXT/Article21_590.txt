@@ -1,0 +1,39 @@
+
+['Ivory Smuggling Racket Busted In Deogarh, Two Held\nDeogarh: Deogarh Forest range officials on Saturday busted an ivory smuggling racket at Sado village under the Tileibani block of the district with the arrest of two persons. The accused have been identified as Pabitra Majhi (41) and Manaphula Majhi (32) of Bhutel village. Acting on an intelligence input, the forest range sleuths raided Sado village and arrested two persons for allegedly trying to sell the tusks. They had planned to sell each tusk 79 cm of 4.7 kg. However, the forest range officials are yet to lay their hands on the buyers. “We are trying to find out the source from where they received the tusks. They appeared to be the middlemen. During the investigation, we will try to identify the other members of the syndicate, including the poachers,” a forest range official said. The forest department has registered a case under various sections of the Indian Penal Code and Section 51 of the Wildlife (Protection) Act 1972.']
+
+
+Ivory----ITEM
+
+Deogarh----LOC.CITY
+
+Two----SUS.NUMBER
+
+Forest range----AUTH.SEIZE
+
+Saturday----DATE
+
+ivory----ITEM
+
+Sado village----LOC.EXACT
+
+two----SUS.NUMBER
+
+Pabitra Majhi----SUS.NAME
+
+41----SUS.AGE
+
+Manaphula Majhi----SUS.NAME
+
+32----SUS.AGE
+
+Bhutel village----SUS.LOC
+
+intelligence input----DETECTION_METHOD
+
+forest range sleuths----AUTH.SEIZE
+
+raided----DETECTION_METHOD
+
+two----SUS.NUMBER
+
+tusks----ITEM

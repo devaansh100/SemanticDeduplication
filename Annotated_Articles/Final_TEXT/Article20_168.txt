@@ -1,0 +1,17 @@
+
+["Goa: Video shows fishermen cutting off fins of stranded whale shark\nApr 28, 2020, 01:05PM IST Source: TNN A week after the carcass of a whale shark was found on Goa's Baga beach with its fins cut off, new video evidence suggests that some fishermen may have cut off the fins of the whale shark to eat or sell as meat. Officials suspect the whale shark was still alive when it beached at Baga. Postmortem examination suggested that the juvenile 4.9 metre long whale shark died due to a blunt force on the left side of the thoracic region. The new video evidence is likely to speed up the probe into the matter. Whale shark is an endangered species, and its killing is a crime under Indian laws."]
+
+
+fishermen----SUS.AFFIL
+
+fins----ITEM
+
+whale shark----SP.SPECIFIC
+
+Apr 28, 2020----DATE
+
+fishermen----SUS.AFFIL
+
+fins----ITEM
+
+whale shark----SP.SPECIFIC

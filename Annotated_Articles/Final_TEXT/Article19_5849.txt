@@ -1,0 +1,21 @@
+
+['Crocodile found in a pond near STR\nERODE: Villagers in the district urged the forest department officials to capture a 5ft long crocodile which was found in a pond near Thalaimalai in Sathyamangalam Tiger Reserve (STR) in Erode district The crocodile was found at Ramansettykuttai village near Thalaimalai in STR region. “We have found that crocodile at least once a week,” A Faruk Shariff, one of the villagers told TOI. However, the crocodile did not harm any of the animals or villagers when they were taking bath, he added.The villagers claimed that, the crocodile was in the lake for more than six months. “Initially, we thought that, it would be a garden lizard or some other creature,” the villagers said. They added that, the crocodile must be six-month-old baby and the concerned officials should capture that before it started attacking people or animals.When contacted by TOI, forest ranger of Thalaimalai forest division S Palanisamy said that, he will look into the issue at the earliest. “I too have received calls from the villagers about the crocodile. But, we could not find it when we went for inspection,” he said. He added that, he has requested the villagers to alert forest officials when they spot the crocodile.']
+
+
+Crocodile----SP.COMMON
+
+STR----LOC.CITY
+
+forest department----AUTH.SEIZE
+
+5ft long----QTY
+
+crocodile----SP.COMMON
+
+Thalaimalai----LOC.EXACT
+
+Erode----LOC.DISTRICT
+
+crocodile----SP.COMMON
+
+Ramansettykuttai village near Thalaimalai in STR region----LOC.EXACT

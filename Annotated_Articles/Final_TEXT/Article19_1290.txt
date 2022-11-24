@@ -1,0 +1,31 @@
+
+['Kerala: Elephant tramples man to death\nA man was trampled to death by a wild elephant at Kallar. Thiruvananthapuram: A man was trampled to death by a wild elephant at Kallar, about 45 km from here, Wednesday, police said. Also Read: Boy killed in leopard attack in Balrampur The deceased, identified as Mallan Kani, was an inhabitant of the Mottamoodu tribal settlement. Kani, who had gone into the forest to collect firewood and other items, was missing for the last three days, they said, adding his body was found in Elappara forest this morning. Also Read: Leopard kills a girl in up He is survived by wife and two sons.(PTI)']
+
+
+Kerala----LOC.STATE
+
+Elephant----SP.COMMON
+
+tramples----CRIME.CAT
+
+man----SUS.GENDER
+
+man----SUS.GENDER
+
+wild elephant----SP.COMMON
+
+Kallar----LOC.EXACT
+
+man----SUS.GENDER
+
+trampled to death----CRIME.CAT
+
+wild elephant----SP.SPECIFIC
+
+Kallar----LOC.EXACT
+
+Wednesday----DATE
+
+Mallan Kani----SUS.NAME
+
+Mottamoodu tribal settlement----SUS.LOC

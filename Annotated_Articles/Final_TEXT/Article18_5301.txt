@@ -1,0 +1,15 @@
+
+['Two Kangaroos Shot With Bow And Arrow\nAt this point, human cruelty towards animals is no longer shocking, because of the sheer number of cases that come to light every day. Even in parts of the world where penalties for crimes against killing wildlife are high, such acts continue, undeterred. Authorities in Australia are on a hunt for the culprit(s) responsible for shooting two kangaroos with a bow and arrow in Western Australia. 7News This comes just a few days after two kangaroos were found to have been killed using the same weapon. According to 7Newsthe Department of Biodiversity, Conservation and Attractions has launched an investigation into the most recent attacks that happened in Braham, Perth. The two roos were found with arrows protruding from their bodies, but that didn’t kill them. According to the authorities, even after being shot, the animals were trying to hop but were badly injured. They had to be eventually put down to get them out of their misery. The attack on the kangaroos has reportedly left behind an orphaned joey, who has been named Rafiki. The orphan is just five months old and if it hadn’t been found by the rescuers, it would not have survived. Also Read: Baby Elephant With Chained Legs ‘Forced To Beg For Money From Tourists’  7News talking to 7News Perth, wildlife care WA volunteer Lyn Manuel said, they were shocked and saddened to see that there was someone going around the area with bow and arrow to kill the iconic animals. “I didn’t think for a minute that 10 days ago, we’d be sitting here with another two kangaroos that have been attacked by somebody with bows and arrows. The ones that we found 10 days ago were killed with hunting arrows. The ones that were found Sunday had target arrows in them and they were still alive and trying to hop around the paddock,” she said. Also Read: In Another Case Of Animal Cruelty, Man Arrested For Roasting A Monitor Lizard Alive In Telangana  7News “It makes me very, very angry. I’m disappointed to think there are people out there that have no conscience, no remorse and would go out and inflict pain in such a cowardly way on such an innocent creature,” she added. According to authorities, there are about 500 kangaroos in and around Braham area, that are being moved out due to residential planning. In Australia the penalty for interfering with wildlife is $50,000. No link has been established between the killings that happened 10 days ago and the recent one. Also Read: Amid Rising Concerns Over Animal Cruelty, Nagaland Decide To Ban Sale, Consumption Of Dog Meat']
+
+
+Two----QTY
+
+Kangaroos----SP.COMMON
+
+Shot----CRIME.CAT
+
+two----QTY
+
+kangaroos----SP.COMMON
+
+Western Australia----LOC.STATE

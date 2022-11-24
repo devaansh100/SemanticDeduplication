@@ -1,0 +1,25 @@
+
+['2 Elephants Might Have Died Of Pesticide Poisoning: Vet\nCOIMBATORE: A team of veterinary surgeons said the reason for the death of two of the nine elephants in Pethikuttai reserve forest since 2020 might be prolonged exposure to a compound found in pesticides. The team had conducted a study in the reserve forest, a hotspot for elephant deaths, recently.They said the elephants might have been exposed to organophosphorus compound ( OPC ) after eating crops from agricultural fields. The elephants in the forest often venture out to raid cultivated crops.The team, consisting of forest veterinary assistant surgeons S Sathasivam , A Prakash, K Rajesh Kumar and S Manoharan , was led by district forest veterinary officer A Sugumar . The team was formed based on the orders of the principal chief conservator of forests and chief wildlife warden in Chennai on March 31.The team was tasked to suggest remedies for the better management of animals in the area and find causes for the elephant deaths. A source said in total, nine elephants, including seven female elephants, had died in the forest since 2020.The reports from the regional forensic science laboratory (RFL), Coimbatore, suggested the possibility of OPC poisoning.OPC poisoning was stated as the cause of death of two elephants in Anaikatti and Mettupalayam forest areas as well.The source said of the four OPC poisoning deaths, two elephants died of liver disorder. They were from Pethikuttai. Their stomachs were empty when they died, which ruled out the possibility of direct poisoning.“The presence of OPC in elephants could be the type of chronic OPC non-lethal poisoning condition from raiding agriculture fields. This poisoning causes liver disorders,” the source added.Three of the four elephants died becuase of intestinal obstruction and old age. The cause of death of the last one could have been due to injuries inflicted during a fight with another elephant.']
+
+
+Elephants----SP.COMMON
+
+Pesticide Poisoning----CRIME.CAT
+
+elephants----SP.COMMON
+
+Pethikuttai reserve forest----LOC.EXACT
+
+forest veterinary assistant surgeons----OFF.DESIG
+
+S Sathasivam----OFF.NAME
+
+A Prakash----OFF.NAME
+
+K Rajesh Kumar----OFF.NAME
+
+S Manoharan----OFF.NAME
+
+district forest veterinary officer----OFF.DESIG
+
+A Sugumar----OFF.NAME

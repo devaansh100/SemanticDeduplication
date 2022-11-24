@@ -1,0 +1,17 @@
+
+['WATCH: Turtle annoys lion and totally gets away with it, too\nHumanity at its worst: 3 men hang dog to death in Ghaziabad Man posts an \'insightful\' video of British Indian passport from 1927; Internet says \'precious\' Grandma can\'t contain delight after getting make-up on | Video WATCH: Turtle annoys lion and totally gets away with it, too India oi-Deepika S New Delhi, Apr 15: A hilarious video of a turtle taunting a lion has gone viral on social media. In the video, the lions seemed a tad annoyed by the determined turtle, but largely let it be. The video is shared on an Instagram page \'Finest of world\' which has more than 50,000 followers. Finest of World, an Instagram user, with more than 50,000 followers shared the video with the caption "Get off my pond". In the viral video, a lion is seen drinking water from a river bank peacefully. Moments later, a small turtle pops out of the river and appears near the big cat. The lion, visibly annoyed, moves a little bit away from that spot. The big cat, known as king of the jugle, keeps gulping water from the river but the brave tortoise reappears and taunts the lion again. In the video, it even appears like the turtle trying to bite the big cat\'s whiskers. "Never thought I\'d see a turtle bullying a lion," a user said. "Stop Eating My Home," another user reacted. "C\'mon Try me sir, Try me sir," added another.']
+
+
+Turtle----SP.COMMON
+
+lion----SP.COMMON
+
+3----SUS.NUMBER
+
+Ghaziabad----LOC.CITY
+
+Turtle----SP.COMMON
+
+lion----SP.COMMON
+
+turtle----SP.COMMON

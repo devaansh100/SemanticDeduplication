@@ -1,0 +1,17 @@
+
+['Mandleshwar: Latest News, Videos and Photos of Mandleshwar\nSecond incident in three days: Bus falls in gorge in Bherughat, 3 injured TNN / Jun 26, 2022, 08:28 (IST) At least three passengers sustained injuries on Saturday morning, when a bus of a private travellers travelling from mandleshwar to Indore fell into a gorge near Bherughat. This was the second such incident near Bherughat on Indore- Khandwa highway in the last three days.']
+
+
+Bus----TRANSPORT_MODE
+
+Bherughat----LOC.EXACT
+
+3----SUS.NUMBER
+
+Saturday----DATE
+
+morning----TIME
+
+bus----TRANSPORT_MODE
+
+Bherughat----LOC.EXACT

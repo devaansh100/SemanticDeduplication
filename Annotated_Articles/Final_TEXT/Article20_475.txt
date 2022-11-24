@@ -1,0 +1,69 @@
+
+['75 exotic birds seized along Bangladesh border\nThey were transported to Alipore Zoological Gardens in Kolkata Lorikeets and cuckatoos that were seized by the BSF along the India-Bangladesh border. They were transported to Alipore Zoological Gardens in Kolkata As many as 75 exotic birds were seized along the international border while being smuggled to Bangladesh over the past two days. While the BSF on Tuesday seized 54 birds near its outpost at Tentulberia in the North 24 Parganas district, it seized 21 cuckatoos from Jhowdanga in the same district on Wednesday night. Officials of the Wildlife Crime Control Bureau said the birds were alive, and had been transported to the Alipore Zoological Gardens in Kolkata. The birds seized on Tuesday were from six rare varieties of lorikeets found in Australia and South East Asia. They were 11 chattering lorikeets, 13 red and blue lorikeets, eight black-capped lorikeets, eight black lorikeets, six brown lorikeets, and eight violet-necked lorikeets. The BSF said the birds were crammed in two iron cages. Lorikeets are medium-sized brightly coloured parrots that live in large flocks. According to experts, the birds are smuggled for being kept as pets. While illegal wildlife trade has emerged as a form of organised trans-national crime, there have also been seizures of highly threatened species like a lion cub and three white-headed langurs near Kolkata. Smugglers try to exploit the location of West Bengal which shares a porous 2,216-km border with Bangladesh. The borders of the North 24 Parganas where there is a high density of population on the either side is most vulnerable to cross-border smuggling.']
+
+
+75----QTY
+
+exotic birds----SP.COMMON
+
+seized----CRIME.CAT
+
+Alipore Zoological Gardens in Kolkata----ROUTE.DEST
+
+Lorikeets----ITEM
+
+cuckatoos----SP.SPECIFIC
+
+BSF----AUTH.SEIZE
+
+Alipore Zoological Gardens in Kolkata----ROUTE.DEST
+
+75----QTY
+
+exotic birds----SP.COMMON
+
+seized----CRIME.CAT
+
+BSF----AUTH.SEIZE
+
+Tuesday----DATE
+
+seized----CRIME.CAT
+
+54----QTY
+
+21----QTY
+
+cuckatoos----SP.COMMON
+
+Jhowdanga----LOC.EXACT
+
+Wednesday----DATE
+
+night----TIME
+
+Wildlife Crime Control Bureau----AUTH.SEIZE
+
+Tuesday----DATE
+
+11----QTY
+
+chattering lorikeets----SP.SPECIFIC
+
+13----QTY
+
+eight----QTY
+
+black-capped lorikeets----SP.SPECIFIC
+
+eight----QTY
+
+black lorikeets----SP.SPECIFIC
+
+six----QTY
+
+brown lorikeets----SP.SPECIFIC
+
+eight----QTY
+
+violet-necked lorikeets----SP.SPECIFIC

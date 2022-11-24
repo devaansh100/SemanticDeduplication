@@ -1,0 +1,19 @@
+
+['2 elephants electrocuted in Odisha in 2 days while searching for food\nA day after an elephant was found electrocuted in a mango orchard in Odisha’s Dhenkanal district, another tusker died after coming in contact with high tension wire in Ganjam district on Monday. District forest officials said the tusker, aged between 20--25 years, was likely to have come in contact with a 11 KV electric wire in a cashew orchard near Dhaupalli village under North Ghumsur forest division in Ganjam district. The carcass of the elephant was spotted by local residents on Monday. “There is a sagging 11 KV power transmission line that passes through the orchard. The elephant, part of an eight-member herd, may have touched the electric line while searching for food,” said Sudarshan Badi, assistant conservator of forest of North Ghumsur forest division. On Sunday, a tusker was similarly electrocuted in a mango orchard at Gobindaprasad village under Sadar forest range of Dhenkanal district. Though people claimed the elephant died after coming in contact with the solar fencing around the orchard, forest officials said the farmer must have charged the fence with high voltage since the fence doesn’t normally carry enough voltage to kill a huge animal like an elephant. The orchard owner was later arrested. “We are waiting for the post-mortem report. Action will be taken based on the post-mortem report,” assistant conservator of forest Rashmiranjan Swain said. Since April 1, at least 13 elephants have died in Odisha due to electrocution and poaching. Wildlife conservationists claim Odisha has turned deadly for elephants. “Many are getting killed as they cross human habitations to find food. The vast forests have been reduced to tiny forest patches with very little left for elephants,” alleged wildlife conservationist Biswajit Mohanty.']
+
+
+2----QTY
+
+elephants----SP.COMMON
+
+Odisha----LOC.STATE
+
+Ganjam district----LOC.DISTRICT
+
+Monday----DATE
+
+Ganjam district----LOC.DISTRICT
+
+carcass----ITEM
+
+elephant----SP.COMMON

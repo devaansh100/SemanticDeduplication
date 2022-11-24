@@ -1,0 +1,31 @@
+
+['A Florida woman died after being hit by a truck while she was saving a turtle on the road. The driver fled the scene but was caught hours later.\nA Florida woman died after being struck by a truck after helping a turtle cross the road. woman died after being struck by a truck after helping a cross the road. The woman was identified as Virginia Celli-Olivo, according to local news . Advertisement A Florida woman died from suspected a hit-and-run while she was trying to rescue a turtle on the road earlier this month. Florida Highway Patrol identified the woman as Virginia Celli-Olivo, WKMG-TV reported. Authorities said the 57-year-old was helping the animal cross Curry Ford Road in Orlando on Tuesday when she was struck by a box truck. According to the report, the driver of the Enterprise rental truck — who troopers identified as 30-year-old Miguel Valero Gonzalez — fled the scene but was later arrested by authorities hours later, a few miles away. Gonzalez is facing charges, including leaving the scene of a crash in which a death was involved, the outlet reported. "He did admit to being involved in the collision, and he did admit to fleeing the scene, and he admitted to smoking marijuana earlier in the day," Florida Highway Patrol Lt. Tara Crescenzi told WKMG-TV. Advertisement Celli-Olivo\'s husband, Rick Parrish, told Fox 35 that she has rescued turtles "numerous times before." He said that his wife was a former sociology professor in Venezuela, where she is originally from. "Coming to the realization that I\'ll never get to talk to her, never hold her hand — none of that — that\'s the hardest part," Parrish told the outlet.']
+
+
+Florida----LOC.STATE
+
+woman----SUS.GENDER
+
+truck----TRANSPORT_MODE
+
+turtle----SP.COMMON
+
+woman----SUS.GENDER
+
+Virginia Celli-Olivo----SUS.NAME
+
+hit-and-----CRIME.CAT
+
+Virginia Celli-Olivo----SUS.NAME
+
+57-year-old----SUS.AGE
+
+Tuesday----DATE
+
+box truck----TRANSPORT_MODE
+
+Enterprise rental truck----TRANSPORT_MODE
+
+30-year-old----SUS.AGE
+
+Miguel Valero Gonzalez----SUS.NAME

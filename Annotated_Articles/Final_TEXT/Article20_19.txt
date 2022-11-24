@@ -1,0 +1,53 @@
+
+['Khed resident held with Indian Pangolin\nMammal weighing 7 kg found inside blue plastic drum Mammal weighing 7 kg found inside blue plastic drum In a joint operation, the Khandeshwar police and forest officers from the Panvel range have arrested a 28-year-old man under sections of the Wildlife Protection Act, 1972, for trying to sell an Indian Pangolin. The police found the mammal, weighing 7 kg and 360 gm, in a blue plastic drum in an SUV driven by the accused, Kalpesh Jadhav, outside Asudgaon bus depot in Panvel on Tuesday. Constable Anil Patil had received a tip-off that a resident of Khed was looking for a buyer. Posing as customers, the police got in touch with Mr. Jadhav. When he reached Asudgaon bus depot to hand over the mammal, the police arrested him. “In the interrogation, he said he procured the mammal from an Adivasi in Ratnagiri The accused is now in police custody,” senior police inspector Shyam Shinde said. In the international market, the animal fetches between ₹20 lakh and ₹1 crore depending on its size. Mr. Shinde said, “The mammals are among the world’s most trafficked animals as their thick scales are said to have medicinal properties. In India, the animal is believed to bring wealth and prosperity.” The Indian Pangolin is an endangered species and is listed under Schedule I of the Wildlife Protection Act.']
+
+
+Khed----SUS.LOC
+
+Indian Pangolin----SP.SPECIFIC
+
+Mammal----SP.COMMON
+
+7 kg----QTY
+
+blue plastic drum----CONCEALMENT_METHOD
+
+Mammal----SP.COMMON
+
+7 kg----QTY
+
+blue plastic drum----CONCEALMENT_METHOD
+
+Khandeshwar police----AUTH.SEIZE
+
+forest officers----AUTH.SEIZE
+
+Panvel range----AUTH.SEIZE
+
+arrested----CRIME.CAT
+
+28-year-old----SUS.AGE
+
+man----SUS.GENDER
+
+sell----DETECTION_METHOD
+
+Indian Pangolin----SP.SPECIFIC
+
+mammal----SP.COMMON
+
+7 kg and 360 gm----QTY
+
+SUV----TRANSPORT_MODE
+
+Kalpesh Jadhav----OFF.NAME
+
+Tuesday----DATE
+
+Constable----OFF.DESIG
+
+Anil Patil----OFF.NAME
+
+tip-off----DETECTION_METHOD
+
+Khed----SUS.LOC

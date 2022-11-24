@@ -1,0 +1,13 @@
+
+['US: Mountain lion cub found in a classroom; rescued\nStudents of Pescadero High School in Northern California in the United States were surprised to find a mountain lion cub sitting inside one of their classrooms on Tuesday. Nobody was harmed. According to a report from NDTV, local authorities said that it was a common sight for mountain lions to roam around the school but this was the first time when the animal entered the school premises. A teacher found the cub visibly scared of the surroundings. She closed the door and informed Oakland Zoo authorities who later on came and took the cub. According to the Oakland Zoo, the mountain lion cub is a 6-7 months old, male. Taking to its Twitter handle, the Oakland Zoo said that the cub suffered from a fractured tooth which had to be extracted. We just received another rescued mountain lion. This 6-8 month old male was discovered at Pescadero High School. (Students and staff were safe and had been dismissed from school at the time).  (thread) pic.twitter.com/fo5ZSXO0HT — Oakland Zoo (@oakzoo) June 2, 2022 The Oakland Zoo has been receiving many such orphaned mountain lion cubs recently. In April this year, they rescued an extremely malnourish five-month-old female cub that is currently healing under their care.']
+
+
+Mountain lion----SP.COMMON
+
+Pescadero High School----LOC.EXACT
+
+mountain lion----SP.SPECIFIC
+
+Tuesday----DATE
+
+Pescadero High School----LOC.EXACT

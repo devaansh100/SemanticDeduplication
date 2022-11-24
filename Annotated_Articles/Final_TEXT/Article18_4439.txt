@@ -1,0 +1,43 @@
+
+['Leopard attack near KWS: 10 villagers hurt in attack, 10 foresters injured by angry crowd\nTen forest employees and 10 villagers were injured in an attack by a leopard in Kathautiya village, adjacent to the Katarniyaghat Wildlife Sanctuary (KWS), under the Murtiha police station area, on Wednesday. Angry villagers killed the leopard, attacked forest employees, took a mahout hostage and damaged three vehicles of the forest department. Akash Deep Badhawan, divisional forest officer (DFO), KWS, said that the gram pradhan of Kathautiya village informed the forest department that a leopard had entered the village and attacked and injured seven people. The DFO said that forest employees, including range officers of nearby ranges, were sent to the spot. Besides, staff and two elephants were pressed into service to push back the angry leopard towards the forest. The DFO said that the team succeeded in luring the leopard away from the village. However, several people working in the fields tried to surround the big cat. Surrounded by crowds, the leopardess injured three more people in an attempt to escape. In the meantime, a large number of villagers gathered at the spot and killed the leopardess with sticks and rods. As it is, the immediate family members of the injured and the villagers were angry at the forest department’s inability to protect them. When forest officials tried to save the leopardess from their wrath, the incensed villagers turned their ire on the forest officials. The villagers, including women, pelted stones on the vehicles of the forest department. They also took one Moharram Ali, a mahout, hostage and pelted stones at range officer Nishangara Tara Shankar Yadav, who sustained minor head injuries. Besides, the villagers threw sticks at another mahout, Irshad. Forester Pawan Shukla and Special Tiger Protection Force (STPF) men were also attacked with sticks and axes. On being informed, the police reached the spot and rescued some forest employees who had been taken hostage by the villagers. Besides, the body of the leopard was also sent for a post-mortem examination. The DFO said that the leopardess was about three years old. Its backbone and femur was completely smashed, while the lungs and other viscera showed haemorrhaging, the post-mortem examination revealed. The DFO said that a case would be registered in connection with the matter. He said violent villagers who attacked forest employees were being identified through video footage and photographs. Heavy police was deployed in the area to deal with any untoward situation. SHARIQ RAIS SIDDIQUI']
+
+
+Leopard----SP.COMMON
+
+10----SUS.NUMBER
+
+10----SUS.NUMBER
+
+Ten----SUS.NUMBER
+
+10----SUS.NUMBER
+
+attack----CRIME.CAT
+
+leopard----SP.COMMON
+
+Kathautiya village----LOC.EXACT
+
+Wednesday----DATE
+
+killed----CRIME.CAT
+
+leopard----SP.COMMON
+
+Akash Deep Badhawan----OFF.NAME
+
+divisional forest officer (DFO), KWS----OFF.DESIG
+
+range officers----OFF.DESIG
+
+Moharram Ali----SUS.NAME
+
+Forester----OFF.DESIG
+
+Pawan Shukla----OFF.NAME
+
+Special Tiger Protection Force (STPF)----AUTH.SEIZE
+
+body of the leopard----OUTCOME
+
+sent for a post-mortem examination----OUTCOME

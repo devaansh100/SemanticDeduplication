@@ -1,0 +1,95 @@
+
+['Leopard enters residential area in Mundhwa , injures 7\nAS many as seven persons were injured after being attacked by a leopard which had entered the premises of an under-construction building in a residential area in Mundhwa on Monday morning. Officials from the forest department, police and staff from local zoo, with the help of Fire Brigade personnel, captured the leopard after a two-hour-long operation. Among the injured are five persons who were initially attacked by the leopard, and a forest guard and policeman who were attacked during the operation to trap the animal. As per the information given by local police, a leopard was spotted in Keshavnagar area in Mundhwa around 6 am. Around 7 am, the police control room was alerted by the local residents after the animal attacked some people. Those attacked by the animal have been identified as Samindrabai Taru (75), Vikas Bhokare (40), Sukhram Yadav (40), Aditya Bhandari (25) and Avinash Abhange (28). All of them, except Taru, sustained minor injuries. Taru, who suffered injuries on his head and limbs, has been released from hospital after treatment. Personnel from police, Fire Brigade and Forest Department. (Express: Arul Horizon) Personnel from police, Fire Brigade and Forest Department. (Express: Arul Horizon) “Teams from the Forest Department, Fire Brigade and those from the local zoo were called to trap the animal which, after injuring some persons, hid inside a building. Traps were laid catch the animal and police teams were deployed for crowd control. The leopard was caught after a two hour-hour-long operation using nets,” said Senior Inspector Anil Patrudkar of Mundhwa police station. While the leopard was being captured, a forest guard, identified as BS Waykar, and police constable S Vibhute sustained minor injuries when the leopard attacked them. “The captured leopard is a female and is four to five years old. After the capture, the leopard has been kept at the animal rescue centre in Katraj. It will be released in the wild after a while. Though this particular area has not witnessed leopard sighting before, leopards have been seen in Manjari area, three km away. There is recorded leopard population in adjacent areas like Daund and Shirur, in both forest areas and sugarcane fields. It is possible that this individual has come from one of these places,” said Range Forest officer for Pune, V J Gaikwad. Personnel from police Personnel from police In the first week of January, the National Defence Academy, located in Khadakwasla area in Pune, had issued a cautionary note to its staff, their families and cadets after a leopard was sighted at various locations in and around the campus of the institute in the recent past. The forest department officials had called it a worrying development considering the proximity of the institute to the city limits. The area, where the incident on Monday morning took place, is located within the municipal limits of Pune city. In another recent incident of animal-leopard conflict, a five-month-old baby from a nomadic herder family was killed by a leopard in the early hours of Wednesday in Junnar forest region, when a group of families was camping on a farm in Yedgaon village, around 110 km from Pune city. Advertisement Leopard charged at me, I pushed it with a bucket, recounts 75-year-old woman A woman was injured in the leopard attack A woman was injured in the leopard attack Describing her encounter with the leopard, Samindrabai Taru (75) said, “I had gotten up to fetch water from a tap on the premises of nearby Renukamata Temple. When I was coming back, the leopard suddenly attacked me, as we crossed paths. Because of the push, I fell down and water from the bucket spilled out. As the leopard charged at me again, I shoved the bucket towards him and pushed him away. Then I loudly raised an alarm and ran towards the house.”']
+
+
+Leopard----SP.COMMON
+
+Mundhwa----LOC.EXACT
+
+injures----CRIME.CAT
+
+7----SUS.NUMBER
+
+seven----SUS.NUMBER
+
+leopard----SP.COMMON
+
+Mundhwa----LOC.EXACT
+
+Monday----DATE
+
+morning----TIME
+
+forest department----AUTH.SEIZE
+
+police----AUTH.SEIZE
+
+staff from----AUTH.SEIZE
+
+local zoo----AUTH.SEIZE
+
+Fire Brigade personnel----AUTH.SEIZE
+
+leopard----SP.COMMON
+
+five----SUS.NUMBER
+
+forest guard----AUTH.SEIZE
+
+leopard----SP.COMMON
+
+Keshavnagar area----LOC.EXACT
+
+Mundhwa----LOC.EXACT
+
+6 am----TIME
+
+7 am----TIME
+
+Samindrabai Taru----SUS.NAME
+
+75----SUS.AGE
+
+Vikas Bhokare----SUS.NAME
+
+40----SUS.AGE
+
+Sukhram Yadav----SUS.NAME
+
+40----SUS.AGE
+
+Aditya Bhandari----SUS.NAME
+
+25----SUS.AGE
+
+Avinash Abhange----SUS.NAME
+
+28----SUS.AGE
+
+Fire Brigade----AUTH.SEIZE
+
+Forest Department----AUTH.SEIZE
+
+Fire Brigade----AUTH.SEIZE
+
+Forest Department----AUTH.SEIZE
+
+Forest Department----AUTH.SEIZE
+
+Fire Brigade----AUTH.SEIZE
+
+Monday----DATE
+
+morning----TIME
+
+Wednesday----DATE
+
+Yedgaon village----LOC.EXACT
+
+75-year-old----SUS.AGE
+
+leopard----SP.COMMON
+
+Samindrabai Taru----SUS.NAME
+
+75----SUS.AGE

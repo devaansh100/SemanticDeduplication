@@ -1,0 +1,33 @@
+
+['Man Trampled To Death By Elephant In Mayurbhanj\nMan Trampled To Death By Elephant In Mayurbhanj Mayurbhanj: A man was trampled to death by an elephant at Deopada village under Manada range of Rairangpur Forest Division in Mayurbhanj district late Thursday night. The deceased has been identified as Ratan Soren. According to reports, the incident took place last night when a jumbo barged into Soren’s backyard in search of food when Soren came face to face with the pachyderm and was attacked. Soren was immediately rushed to Rairangpur Sub-Divisional Hospital in a critical condition where he breathed his last during treatment. Meanwhile, police have initiated a probe into the matter.']
+
+
+Man----SUS.GENDER
+
+Trampled To Death----CRIME.CAT
+
+Elephant----SP.COMMON
+
+Mayurbhanj----LOC.EXACT
+
+Mayurbhanj----LOC.DISTRICT
+
+trampled to death----CRIME.CAT
+
+elephant----SP.COMMON
+
+Deopada village under Manada range of Rairangpur Forest Division----LOC.EXACT
+
+Mayurbhanj----LOC.DISTRICT
+
+Thursday----DATE
+
+night----TIME
+
+Ratan Soren----SUS.NAME
+
+last night----TIME
+
+jumbo----SP.SPECIFIC
+
+pachyderm----SP.SPECIFIC

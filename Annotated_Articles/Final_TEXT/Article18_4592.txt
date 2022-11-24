@@ -1,0 +1,29 @@
+
+['Forest Dept Plans Jumbo Corridor\nIDUKKI: To tackle the increasing man-elephant conflict, the forest department has decided to set up a jumbo corridor from Mathikettan to Anayirankal. According to forest officials, wild elephants ventured out from Mathikettan forest and travelled through Thondimala-Sankarapandi Mettu-Poopara and reached Anayirankal. En route, the elephants caused large-scale damage to crops and attacked people. Nearly 24 wild elephants were isolated in Anayirankal after 301 Colony changed into a human settlement.Munnar DFO Raju Francis told TOI that the forest department will take initiatives to prevent the issue. “To ensure wild elephant paths, the forest department plans to set up an elephant corridor from Mathikettan to Anayirankal through solar fencing. In addition, a people vigilant group will be formed to tackle wild elephant attacks,” the DFO said.The forest department found that after elephant paths were blocked, wild elephants crossed roads in around 36 places under Devikulam range. The forest department will construct four underpasses on the Munnar-Bodimettu route to ensure the smooth passage of elephants from Mathikettan to Anayirankal.Meanwhile, the increasing man-elephant conflict has raised panic among residents of Singukandam, Chinnakanal, and Anayirankal near Munnar in Idukki. The latest casualty was 60-year-old Kripa Bhavan Babu , who was trampled to death by a wild elephant on Wednesday at Chinnakanal when he stepped out of his house to warn his neighbour about the presence of a herd of wild elephants in the area. After the incident, natives carried Babu’s body to Chinnakkanal forest office and staged a protest against department officials, demanding immediate action to solve the issue.According to natives, wild elephants were camping near their homes and posing a threat to human life. Talking to TOI, Chinnakanal panchayat president Sini Baby said that the people and panchayat demanded to remove two elephants that posed a threat to the people in the area. “Wild elephants named —Murivalan Komban and Chakka Kompan— are posing a threat to the people, and our demand is to remove both elephants from Chinnakkanal,” said Baby.Meanwhile, Devikulam range officer Arun Maharaja said that the forest department provided Rs 50,000 on Thursday as primary compensation for the deceased. “Nearly 23 wild elephants are camping in Chinnakanal and 301 Colony area, and we can’t evict them. Earlier, areas including 301 Colony were natural habitat of wild elephants. It was distributed for human habitation in 2001. Then onwards, the elephant path was blocked and resulted in the human-animal conflict,” said the official.Since 2010, over 41 people have lost their lives in wild elephant attacks in the Munnar wildlife division. Two years ago, the forest department had sent a detailed proposal to the government to set up a wild elephant sanctuary in the Chinnakanal-Anayirankal area near Munnar. But due to protests, the government has not yet moved with the project.']
+
+
+Forest Dept----AUTH.SEIZE
+
+Jumbo----SP.COMMON
+
+forest department----AUTH.SEIZE
+
+Mathikettan----ROUTE.SRC
+
+Anayirankal----ROUTE.DEST
+
+60-year-old----SUS.AGE
+
+Kripa Bhavan Babu----SUS.NAME
+
+trampled to death----CRIME.CAT
+
+wild elephant----SP.COMMON
+
+Wednesday----DATE
+
+Chinnakanal----LOC.EXACT
+
+Murivalan Komban----SUS.NAME
+
+Chakka Kompan----SUS.NAME

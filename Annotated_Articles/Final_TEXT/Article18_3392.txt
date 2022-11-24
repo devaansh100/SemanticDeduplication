@@ -1,0 +1,21 @@
+
+['Chennai airport turning into hub for star tortoise smuggling\nCHENNAI: Chennai international airport seems to be turning into south India\'s hub for the smuggling of star tortoises, and two back-to-back seizures from there of the animals have sent the Wildlife Crime Control Bureau (WCCB) on high alert. Air intelligence at Chennai airport had, in the past couple of months, seized several star tortoises that were bound for South Eastern countries and Gulf countries. Air intelligence sources told IANS that in a seizure that was executed in the first week of April following a tip-off, 3,600 live star tortoises were recovered. Talking to IANS, WCCB Southern Region Deputy Director, Kirupa Sankar, said: "Due to the Covid-19 pandemic, there was a major fall in the smuggling of star tortoises to foreign countries from Chennai airport. With the resuming of international flights, the smuggling has also resurfaced and we are on a high alert to prevent the start tortoises from being smuggled out of the country. We are trying to block the smuggling by conducting raids at places we know from where these tortoises are coming." The star tortoises are collected from Madhanapalli and Chittoor in Andhra Pradesh and the WCCB is monitoring the area randomly so that the smugglers and those who rear the star tortoises for smuggling purposes are apprehended. The authorities had recently apprehended a pet trader from Kolathur in Chennai. He, according to the WCCB officials, was involved in the smuggling of flap shell turtles from Uttar Pradesh and was sentenced to seven years imprisonment. Star tortoises are endangered species and covered under the Convention on International Trade on Wild Flora and Fauna (CITES) and this has led to a high alert on the part of customs officials and wildlife activists.']
+
+
+Chennai airport----LOC.EXACT
+
+star tortoise----SP.SPECIFIC
+
+Chennai international airport----LOC.EXACT
+
+star tortoises----SP.SPECIFIC
+
+Wildlife Crime Control Bureau----AUTH.SEIZE
+
+WCCB----AUTH.SEIZE
+
+Kolathur----SUS.LOC
+
+Uttar Pradesh----ROUTE.SRC
+
+seven years imprisonment----OUTCOME

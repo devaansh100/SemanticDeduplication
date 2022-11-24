@@ -1,0 +1,49 @@
+
+["Toddy worker trampled to death by elephant at Aralam farm\nIRITTY: A toddy worker in Kannur Aralam farm, 35 year-old P P Rijesh, a resident of Kolappa, Mattanur was trampled to death by a wild elephant. Workers Anoop, Sunilkumar and Jayan who were with him ran away and escaped. The incident took place near Palapuzha gate in the first block of the farm at around 7 am on Monday. The four were going to collect toddy. While walking along a road, the presence of a herd of elephants was noticed. The elephants moved farther away from the farm when the workers made noise. Assuming that all the elephants were gone, the other three started talking and Anoop followed them on his bike. Suddenly, an elephant , who was behind the coco plant, rushed towards them. Anoop left his bike and ran. The others ran away but Rijesh got stuck. The elephant chased him for about 100 meters. He was stabbed in the chest and abdomen and died on the spot. The elephant chased the others when they came looking for Regesh. They then rushed to the spot with the locals. Rijesh is a former CPM Panalad branch secretary and a CITU activist. He is the son of K. Balakrishnan and Nalini and is unmarried. Siblings: Ratheesh, Regina and Regisha. Locals did not allow the body to be removed from the scene for hours, accusing the authorities of failing to potect from elephant attack. At 11 a.m., at the request of Rajesh's relatives, he was shifted to Pariyaram Medical College Hospital for postmortem. Locals detained DFO Karthik and Aralam Wildlife Warden, who reached the spot. At 12 noon, MLAs Sunny Joseph and K.K. Shailaja and others reached the spot and held discussions with the officials, who assured them that arrangements would be made to clear all elephants who are inside the farm by tomorrow."]
+
+
+trampled to death----CRIME.CAT
+
+elephant----SP.COMMON
+
+Aralam farm----LOC.EXACT
+
+Kannur Aralam farm----LOC.EXACT
+
+35----SUS.AGE
+
+P P Rijesh----SUS.NAME
+
+Kolappa----SUS.LOC
+
+trampled to death----CRIME.CAT
+
+wild elephant----SP.COMMON
+
+Anoop----SUS.NAME
+
+Sunilkumar----OFF.NAME
+
+Jayan----OFF.NAME
+
+near Palapuzha gate----LOC.EXACT
+
+7 am----TIME
+
+Monday----DATE
+
+Ratheesh----SUS.NAME
+
+Regina----SUS.NAME
+
+Regisha----SUS.NAME
+
+DFO----OFF.DESIG
+
+Karthik----OFF.NAME
+
+MLAs----OFF.DESIG
+
+Sunny Joseph----OFF.NAME
+
+K.K. Shailaja----OFF.NAME

@@ -1,0 +1,75 @@
+
+['Two detained for ‘poaching’ chinkara from Gir forest\nTWO MEN were detained by the state forest department after they were reportedly caught red-handed while cooking meat of a chinkara (Indian gazelle) on an agricultural farm in Hirava village, in Dhari taluka of Gir (East) Wildlife Division, on the intervening night of Saturday and Sunday. Acting on a tip off, a team of forest department officials had gone to an agricultural farm and detained two men who were cooking bushmeat, suspected to be of an Indian gazelle, said Dushyant Vasavada, chief conservator of forests (CCF) of Junagadh Wildlife Circle. Vasavada further said that a fresh skull and some other body parts, believed to be of a gazelle, were also recovered from the spot. The two men have been identified as Raju Makwana (45) and his younger brother, Hasmukh. They were detained from the agricultural land in Hirava village which falls in Dalkhaniya range of Gir (East) Wildlife Division, which, in turn is part of Junagadh Wildlife Circle. “After getting an alert from our network of informers, we dispatched a team and caught the two men cooking meat of chinkara. Besides the skull and some bones of the animal, we also recovered the hide of the ungulate from a well on the farm,” Anshuman Sharma, deputy conservator of forests (DCF) of Gir (East) Wildlife Division told The Indian Express on Sunday. The DCF said that they have registered a case of hunting of Indian gazelle and are questioning the two men. “Prima facie, the animal was poached from Tulshishyam range and was brought to Dalkhaniya range. We are investigating if more people were involved in the incident,” Sharma said, adding an axe and knife have also been recovered from the crime scene. The DCF said that the agricultural farm from where the chinkara meat was being cooked is located on the periphery of Hirava Vidi, a forest patch which is part of Dalkhaniya ragne. “We have sent a sample of the meat for forensic analysis to ascertain if it was of a gazelle,” added Sharma.']
+
+
+Two----SUS.NUMBER
+
+chinkara----SP.SPECIFIC
+
+TWO----SUS.NUMBER
+
+MEN----SUS.GENDER
+
+state forest department----AUTH.SEIZE
+
+chinkara----SP.COMMON
+
+Indian gazelle----SP.COMMON
+
+Hirava village, in Dhari taluka of Gir (East) Wildlife Division----LOC.EXACT
+
+night----TIME
+
+Saturday----DATE
+
+Sunday----DATE
+
+tip off----DETECTION_METHOD
+
+forest department officials----AUTH.SEIZE
+
+two----SUS.NUMBER
+
+men----SUS.GENDER
+
+Indian gazelle----SP.COMMON
+
+skull----ITEM
+
+body parts----ITEM
+
+gazelle----SP.COMMON
+
+two----SUS.NUMBER
+
+men----SUS.GENDER
+
+Raju Makwana----SUS.NAME
+
+45----SUS.AGE
+
+Hasmukh----SUS.NAME
+
+Hirava village----LOC.EXACT
+
+alert----DETECTION_METHOD
+
+skull----ITEM
+
+bones----ITEM
+
+hide----ITEM
+
+ungulate----SP.COMMON
+
+well on the farm----CONCEALMENT_METHOD
+
+deputy conservator of forests (DCF) of Gir (East) Wildlife Division----OFF.DESIG
+
+hunting of Indian gazelle----CRIME.CAT
+
+Tulshishyam range----ROUTE.SRC
+
+Dalkhaniya range----ROUTE.TRANSIT
+
+sent a sample of the meat for forensic analysis to ascertain if it was of a gazelle----OUTCOME

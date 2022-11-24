@@ -1,0 +1,43 @@
+
+['Three held with 50kg Trillium Govanianum: Police\nSrinagar.CNS,27-June; Police on Monday said that they arrested three persons along with an endangered Trillium Govanianum medicinal herb in Qalamabad area of north Kashmir’s Kupwara district the preceding day. In a statement issued, the police spokesperson said that a police party of Police Station Qalamabad while on naka checking duty at Lach, Qalamabad, stopped one vehicle bearing Registration No. JK09/2155. The persons in the vehicle were identified as, Shafiq Ahmad Khan son of Ali Mohd, Reyaz Ahmad Khan son of Aziz Rehman Khan both residents of Mankal and Jameel Ahmad Mir son of Gh Mohd resident of Check Sanzipora. On search, endangered medicinal herb Trillium Govanianum (local name Tri Patri) weighing around 50 kg was recovered from their possession, police said. It further read that a case FIR No. 39/2022 U/s 26 Forest Act, 379-IPC stands registered in PS Qalamabad and investigation has been initiated. Trillium govanianum Wall. ex D. Don (Family Trilliaceae) is a threatened medicinal plant of the Himalayan region that has much therapeutic value. It is also known as Himalayan trillium or Nagchhatri with important phytoconstituents named as steroid saponins which are extensively used in the pharmaceutical industry. The root extract of plants has analgesic, anti-inflammatory, anticancer, antifungal and wound healing properties.(CNS)']
+
+
+Three----SUS.NUMBER
+
+50kg----QTY
+
+Trillium Govanianum----ITEM
+
+Police----AUTH.SEIZE
+
+Monday----DATE
+
+three----SUS.NUMBER
+
+Trillium Govanianum----ITEM
+
+Qalamabad area----LOC.EXACT
+
+Police Station Qalamabad----AUTH.SEIZE
+
+checking----DETECTION_METHOD
+
+Lach, Qalamabad----LOC.EXACT
+
+vehicle----TRANSPORT_MODE
+
+Shafiq Ahmad Khan----SUS.NAME
+
+Ali Mohd----SUS.NAME
+
+Reyaz Ahmad Khan----SUS.NAME
+
+Mankal----SUS.LOC
+
+Jameel Ahmad Mir----SUS.NAME
+
+Check Sanzipora----SUS.LOC
+
+Trillium Govanianum (local name Tri Patri----ITEM
+
+50 kg----QTY

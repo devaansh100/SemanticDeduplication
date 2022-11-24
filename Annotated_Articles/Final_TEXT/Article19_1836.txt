@@ -1,0 +1,27 @@
+
+['A Florida man was killed by a large, flightless cassowary that\'s built a reputation as the \'world\'s most dangerous bird,\' but a study suggests humans to blame for aggression\nAdvertisement Cassowaries, large, flightless birds native to Austrialia and New Guinea, have built a reputation as being the \'world\'s most dangerous bird.\' On Friday, a Florida man was killed by a cassowary, which he had as a pet, according to BBC News. The birds can grow to be over 5.6 feet tall, weigh up to 167 pounds, and have dagger-like claws on their feet. However, a 1999 study of Cassowary attacks found that only birds accustomed to being fed by humans were likely to turn violent. Visit BusinessInsider.com for more stories. A Florida man was killed on Friday by his exotic pet, a large, flightless breed of bird that has a reputation for being extremely dangerous. Marvin Hajos was attacked by a cassowary he owned after falling near the bird, according to BBC News. Police were called to the man\'s property in northern Florida, where he houses other exotic pets, to find the man badly wounded. Hajos was taken to the hospital, where he died from the injuries he sustained from the bird. Cassowaries are natives of Australia and New Guinea and are the second heaviest bird in the world, according to the San Diego Zoo, behind only its cousin the ostrich. The birds can grow to be up to 5.6 feet tall, with females weighing up 167 pounds. The species\' size isn\'t its only impressive feature. Cassowaries have a dagger-like claw on each foot that can grow to be four inches long, allowing them to slice predators or threats by kicking them. They can also run 31 miles per hour, jump 7 feet straight up into the air and are decent swimmers, according to the zoo. Advertisement Holding the claws of a male southern cassowary... Just in case any of your friends still need convinced that = ! #gradschool #PhDlife #Paleontology #dinosaurs #birdsaredinosaurs pic.twitter.com/L6vYwyXmyx - Sarah Davis (@PaleoFeathers) January 15, 2019 As a result, many, including the San Diego Zoo, have labeled cassowaries \'the most dangerous bird in the world.\' That reputation was slightly fortified in July 2017 when National Geographic reported a dinosaur discovered in China was strikingly similar to the bird. However, a 1999 study of Cassowary attacks by Christopher Kofron published in the Journal of Zoology indicated cassowaries typically only attack humans they associate with having food. The study, which analyzed 150 cassowary attacks against humans that had occurred in Queensland, Australia, found 75% were cassowaries that had previously been fed by people. "The feeding of cassowaries appears to change their natural behaviour, making them bold and aggressive," the study\'s abstract states. "The cassowaries appeared to be expecting or soliciting food from humans (73% of the incidents), defending food (5%), and defending themselves (15%) or their chicks or eggs (7%)." The report states that while cassowaries shouldn\'t be considered dangerous, they can cause serious harm. Seven attacks involved serious injuries, including one death. However, the report notes, the victim was trying to kill the cassowary.']
+
+
+Florida----LOC.STATE
+
+man----SUS.GENDER
+
+killed----CRIME.CAT
+
+cassowary----null
+
+Friday----DATE
+
+killed----CRIME.CAT
+
+cassowary----SP.COMMON
+
+killed----CRIME.CAT
+
+Friday----DATE
+
+exotic pet----SP.COMMON
+
+Marvin Hajos----SUS.NAME
+
+cassowary----SP.SPECIFIC

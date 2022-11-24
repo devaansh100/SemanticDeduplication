@@ -1,0 +1,13 @@
+
+["New species of crocodile who preyed on a young dinosaur found in Australia say scientists\nRecently, a new discovery has come to the fore in front of the world. In this new discovery, a species of crocodile has been found in Queensland, Australia. It seems to be a crocodile of the Cretaceous period. The special thing is that this 2.5 meter long crocodile had a young dinosaur for the last meal.As our partner website WION reports, scientists have also identified the remains of a young ornithopod dinosaur inside the abdomen of a crocodile. The findings of the research were published in the scientific journal 'Gondwana Research' on 11 February.The Australian Age of Dinosaur Museum, which made the discovery, said in a statement that this is the first evidence of a crocodile hunting a dinosaur in Australia. The crocodile specimen, initially preserved in a siltstone mass, was partially crushed, but many small bones were still found from the skeleton of a small Cretaceous creature, despite such damage.Scientists used X-ray and CT scanning techniques to locate the bones inside the crocodile specimen. It also took about 10 months of computer processing to create the 3D image based on the bones.In 2010, the fossilized bones of a Confrachosuchus saurocotonos were unearthed. It came out in the excavation of geological rock about 90 million years old."]
+
+
+crocodile----SP.COMMON
+
+Australia----LOC.STATE
+
+crocodile----SP.COMMON
+
+Queensland, Australia----LOC.STATE
+
+ornithopod dinosaur----SP.COMMON

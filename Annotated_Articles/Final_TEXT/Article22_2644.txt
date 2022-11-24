@@ -1,0 +1,21 @@
+
+['Female Elephant Electrocuted In Kalahandi\nBhawanipatna: A female elephant died after coming in contact with a live wire at Jampadar under Narla forest range in Kalahandi district on late Wednesday night. Reportedly, the elephant was part of a herd that had entered the village from the nearby forest. It somehow came in contact with the electric wire and lost its life. On getting information, forest department officials reached the spot and initiated a probe.']
+
+
+Elephant----SP.COMMON
+
+Electrocuted----CRIME.CAT
+
+Kalahandi----LOC.DISTRICT
+
+elephant----SP.COMMON
+
+Kalahandi----LOC.DISTRICT
+
+Wednesday----DATE
+
+night----TIME
+
+herd----SUS.AFFIL
+
+forest department officials----AUTH.SEIZE

@@ -1,0 +1,31 @@
+
+['Tiger found dead in a canal in Tumsar\nA sub-adult tiger found dead in a canal at Bawanthadi river near Bapera village in Tumsar Forest Range, Bhandara district, on Thursday. The exact cause of the death is not established so far. The forest officials are examining the possibilities of territorial fight as one canine is fallen and body sustaining injuries/puncture mark, some villagers killing and throwing carcass in the canal or tiger entangled at a portion of the canal. However, nothing could be said as of now as the investigation is in progress. Talking to The Live Nagpur, Rahul Gavai, Deputy Conservator of Forest, Bhandara, said that he along with field staff members inspected the spot and also deployed a dog squad belonging to Police Department after contacting Vasant Jadhav, Superintendent of Police, Bhandara. The body was taken out of the canal on Friday and taken to a nearby depot where veterinarians performed post-mortem and collected viscera sample for forensic analysis. The post mortem is awaited and then the report can thrown light on the cause of death, Gavai added. The possibility of poaching the tiger is ruled out as the body parts like whiskers, canines, scrubbed nails etc are intact. Saket Shende, Range Forest Officer, Tumsar, is making further investigation into the case.']
+
+
+Tiger----SP.COMMON
+
+found dead----CRIME.CAT
+
+Tumsar----LOC.DISTRICT
+
+sub-adult----SP.COMMON
+
+tiger----SP.COMMON
+
+Bawanthadi river near Bapera village in Tumsar Forest Range----LOC.EXACT
+
+Bhandara----LOC.DISTRICT
+
+Thursday----DATE
+
+Rahul Gavai----OFF.NAME
+
+Deputy Conservator of Forest----OFF.DESIG
+
+Vasant Jadhav----OFF.NAME
+
+Superintendent of Police, Bhandara. The body was----AUTH.SEIZE
+
+viscera sample for forensic analysis----OUTCOME
+
+post mortem is awaited and then the report can thrown light on the cause of death----OUTCOME

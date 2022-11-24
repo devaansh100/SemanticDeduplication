@@ -1,0 +1,29 @@
+
+['Ganasar In Mourning As Pig Destroys Sarus Crane Eggs\nAHMEDABAD: The villagers of Ganasar, who had been taking care of two sarus crane eggs for the past 55 days, are heartbroken. All the hard work they did was rendered futile after a wild pig sneaked into the makeshift ‘artificial wetland’ on Monday night and destroyed the eggs.They had been guarding the eggs since May 2. The villagers had turned the one-acre agricultural plot into the wetland by filling it with water and were keeping an almost 24X7 vigil to ensure wild animals or dogs did not attack the eggs.But on Monday night, following rain, they briefly went back home when a pig walked into the farm and destroyed the eggs.Avian researcher Desal Pagi said, “On Tuesday morning, when the villagers reached the location, they saw that the sarus crane couple had not been visiting the spot where the eggs were hatched. Bhojaji Thakore , the sarpanch, found that the eggs had gone missing from the nest. He saw animal footprints and understood that a pig may have attacked them.”Thakore said, “I followed the trail of footprints and covered two farms but could not find the eggs anywhere. When I returned to the nest, I found some remains of an egg inside.”Pagi said, “The entire village is in shock, especially the children who had been guarding the area. As the news about the eggs reached them, they broke down.”Kailash Thakore , a resident, said, “We were waiting for the eggs to hatch, but sadly, that will never happen now.”This was the only plot where harvesting of paddy was not done using a machine but by hand to avoid disturbing or causing any damage to the eggs laid.To ensure the land was filled with one to one-and-a-half feet water to maintain a conducive environment for the birds, the villagers first brought water using pots and buckets and later created channels to divert the water overflowing from the Fatehwadi canal.Sarus cranes are a critically endangered species. In the last census by the state forest department in 2010, there were 1,900 of them in Gujarat . The number is feared to have declined to around 600 though a formal count has not taken place in the past decade.']
+
+
+Ganasar----LOC.EXACT
+
+Pig----SP.COMMON
+
+Destroys----CRIME.CAT
+
+Sarus Crane----SP.SPECIFIC
+
+Eggs----ITEM
+
+Ganasar----LOC.EXACT
+
+sarus crane----SP.SPECIFIC
+
+wild pig----SP.COMMON
+
+Monday----DATE
+
+night----TIME
+
+Monday----DATE
+
+night----TIME
+
+sarpanch----OFF.DESIG

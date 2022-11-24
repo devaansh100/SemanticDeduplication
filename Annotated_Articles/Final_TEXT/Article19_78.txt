@@ -1,0 +1,29 @@
+
+["Stealthy Shopper: Leopard Sneaks into Mall near Mumbai\nFile photo of leopards in Sanjay Gandhi National Park (BCCL / TOI MUMBAI) Residents of Thane city, near Mumbai, were in for a huge surprise after an adult leopard paid a visit to a popular local mall on Wednesday morning. The leopard, which is believed to have wandered off from the Sanjay Gandhi National Park, took to the streets of Thane and was captured by CCTV cameras loitering in the basement of Korum mall at 5:30 am Wednesday. Fortunately, since the mall was closed at the time, there were no shoppers present. Mall security personnel spotted the leopard in the parking lot and alerted the fire brigade, police, and the forest department. Search operations picked up pace as the leopard started moving towards residential areas and was eventually traced near the Cadbury Junction. The 5-hour long rescue operation ended as the animal was traced to a nearby hotel, after which it was promptly tranquilised and rescued by forest department personnel. Advertisement As the video of a leopard, captured on the mall’s CCTV camera, went viral, people across the country expressed concerns over the increasing wildlife-human conflict in and around India's cities. The CCTV footage shows the leopard roaming around in the lobby of the mall. Thane is located close to Mumbai’s Sanjay Gandhi national park (SGNP), one of the largest urban protected forests in the world. The park and the surrounding forest are home to a confirmed 41 leopards. Due to larger predators like tigers, leopards are known to have been pushed into less-favourable territories including human settlements. The incredible adaptation abilities of this wild cat include changing its coat to survive in a new environment and an ability to alter its diet from wild deer to a domestic cattle with ease. Leopards enter urban areas to hunt dogs and livestock in these regions. Increased human encroachment in forest fringe areas is also a major driver of this conflict."]
+
+
+Leopard----SP.COMMON
+
+Thane----LOC.CITY
+
+leopard----SP.COMMON
+
+Wednesday----DATE
+
+morning----TIME
+
+leopard----SP.COMMON
+
+5:30 am----TIME
+
+Wednesday----DATE
+
+leopard----SP.COMMON
+
+fire brigade----AUTH.SEIZE
+
+police----AUTH.SEIZE
+
+forest department----AUTH.SEIZE
+
+leopard----SP.COMMON

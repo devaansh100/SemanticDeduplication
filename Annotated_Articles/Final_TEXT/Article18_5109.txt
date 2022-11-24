@@ -1,0 +1,33 @@
+
+["Vava Suresh, Renowned Snake Catcher From Kerala Critical After Suffering Cobra Bite\nPopular snake expert, handler and rescuer from Kerala, Vava Suresh was bitten by a cobra in the state's Kottayam district on Monday. This tragic incident happened during one of his snake rescue operations. According to local media reports, approximately at 4.30 p.m. on Monday, the event took place while he was attempting to put the cobra safely inside a gunny bag after capturing it. Suresh was trying to catch the snake from a residence in Kurichy village, near Changanacherry, as per local media reports. The 48-year-old was bitten on the right leg and transported to a Kottayam private hospital. 10 minutes before he arrived at the hospital, he fell unconscious. Local media reported that his pulse rate dropped to the 20s. He was eventually sent to the Kottayam Medical College Hospital. The health condition of Vava Suresh is still critical According to reports, the health condition of Vava Suresh is still critical. Furthermore, the Health Minister of Kerala, Veena George informed that the medical bills of Suresh would be covered by the state. Apart from this Minister V.N. Vasavan has also visited the snake rescuer at the hospital. Suresh became well-known in Kerala for responding quickly to queries from individuals who had seen snakes in their houses or backyards. After that, he captures the reptiles and releases them into the forest. Kerala police conducted an experiment to crack a murder case using a cobra In addition to this, earlier in the month of August 2021, at Kollam, Kerala police conducted an unusual dummy experiment to establish the infamous Uthra Murder Case using a cobra snake. As per media reports, a native of Anchal, Kollam, Uthra was murdered by her husband, Sooraj who allegedly killed his wife with the use of a snake. The event occurred on May 7, 2020. The cobra snake dummy experiment was used to determine the depth and variations in the wounds detected on the victim's body. Her body had two bite marks in the same location. The purpose of the dummy experiment was to duplicate the event in order to see if the snake would bite the same spot repeatedly. (Image: saanjus/ Twitter)"]
+
+
+Vava Suresh----OFF.NAME
+
+Cobra----SP.COMMON
+
+Vava Suresh----OFF.NAME
+
+cobra----SP.COMMON
+
+Kottayam----LOC.DISTRICT
+
+Monday----DATE
+
+4.30 p.m.----TIME
+
+Monday----DATE
+
+cobra----SP.COMMON
+
+gunny bag----CONCEALMENT_METHOD
+
+snake----SP.COMMON
+
+Kurichy village, near Changanacherry----LOC.EXACT
+
+48-year-old----SUS.AGE
+
+Anchal----SUS.LOC
+
+May 7, 2020----DATE

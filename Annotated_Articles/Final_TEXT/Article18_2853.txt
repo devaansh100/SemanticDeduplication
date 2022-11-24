@@ -1,0 +1,13 @@
+
+["Rangers find mother bear, cub alive after spectacular fall from cliff\nSpanish park rangers have found an injured bear and her cub alive deep in their burrow after the female suffered a spectacular fall from a cliff in which the male bear that attacked her was killed. Video footage showed the female bear involved in the fight with a bigger male on the edge of a mountain cliff on Monday, when the two collapsed from a great height onto the rocks below. The male's body rolled a long way downhill and remained motionless after that, while the disoriented female limped away from the site where she landed, the video showed. After looking for her for two days in the mountains of Northern Castile and Leon, near Palencia, the park rangers found the female bear's 15-meter-deep burrow, the environment service said on Wednesday on its website. Using specialist camera probes and telescopic hooks, they then left fruit and water for them in the burrow, it said. It is not uncommon for male bears to attack females with cubs during the mating season. There are about 400 bears in the Spanish mountains, most of them in the north, and some 70 of them live in the Pyrenean mountain range on the border with France, according to Fundacion Oso Pardo, a bear protection group. (This story has not been edited by Devdiscourse staff and is auto-generated from a syndicated feed.)"]
+
+
+Rangers----AUTH.MISC
+
+mother bear----SP.COMMON
+
+cub----SP.COMMON
+
+bear----SP.COMMON
+
+Monday----DATE

@@ -1,0 +1,51 @@
+
+['Killer tiger captured; tribals want it to be shot dead\nMYSURU: An injured tiger was captured at Hosuru on Friday and shifted to Mysuru Zoo. Tribals wanted the male tiger, around nine years old, to be shot dead as it had killed three men in just over a month in the border areas of Nagarahole Tiger Reserve in Dodda Byrana Kuppe, HD Kote taluk,Tribals were enraged at foresters after the tiger killed Jenu Kuruba tribal Mara aka Kencha, 55, from Macchur-Hosuru Haadi on Thursday evening when he entered the forest to graze goats and to dig up sweet potatoes. The tiger had recently killed another tribal youth sleeping outside his house in Macchuruhaadi.Forest staff traced the tiger to Hosuru, a few kilometres from Machhuru Haadi. Forest veterinarian Dr Mujeeb and staff Akram Pasha successfully tranquillised the wild cat and put in a cage. Dr Mujeeb found the tiger had sustained injuries on its front right leg and hind left leg, believed to have been caused in territorial fights with another male.Angry tribals had blocked the road HD Kote – Bavali Road, which passes inside the tiger reserve -- till Thursday midnight.Foresters had taken up combing operation in the region with five camp elephants to trace the tiger after the death of tribal Madhu, 28, from Manimoolehaadi in DB Kuppe range in December last week. They assured protesting tribals they had received orders either to capture or kill the tiger as it was turning into a maneater.Foresters confirmed the injured tiger had come from Metikuppe Range into DB Kuppe as was evident in videos captured in camera traps, on Friday, and took up the operation using camp elephants Arjuna, Abhimanyu, Krishna, Sarala, Gopalaswamy and Bhima. The operation was led by PCCF (Wildlife) Jairam and APCCF B P Ravikumar.Tribals protestTribals blocked the HD Kote – Kerala road on Friday by burning vehicle tyres and demanded foresters kill the captured tiger. They shouted slogans against foresters and police and demanded that the tiger be shot dead. Foresters convinced the tribals to withdraw their protest as the tiger had been captured.']
+
+
+tiger----SP.COMMON
+
+shot dead----CRIME.CAT
+
+tiger----SP.COMMON
+
+Hosuru----LOC.EXACT
+
+Friday----DATE
+
+tiger----SP.COMMON
+
+shot dead----CRIME.CAT
+
+Jenu Kuruba tribal Mara----SUS.NAME
+
+55----SUS.AGE
+
+Macchur-Hosuru Haadi----SUS.LOC
+
+Thursday----DATE
+
+evening----TIME
+
+Dr Mujeeb----OFF.NAME
+
+Akram Pasha----OFF.NAME
+
+Manimoolehaadi in DB Kuppe range----SUS.LOC
+
+Arjuna----OFF.NAME
+
+Abhimanyu----OFF.NAME
+
+Krishna----OFF.NAME
+
+Sarala----OFF.NAME
+
+Gopalaswamy----OFF.NAME
+
+Bhima----OFF.NAME
+
+PCCF (Wildlife) Jairam----AUTH.SEIZE
+
+APCCF----OFF.DESIG
+
+B P Ravikumar.Tribals----OFF.NAME

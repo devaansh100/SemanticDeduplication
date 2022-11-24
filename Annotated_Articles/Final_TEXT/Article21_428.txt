@@ -1,0 +1,67 @@
+
+['Mumbai: 2 held with 4.1 kg of ambergris\nThe Mumbai Police Crime Branch has arrested two persons with 4.1 kg of ambergris or whale vomit – used to make high-end perfumes and medicines. This is the third such incident in the last two weeks. Under the Wildlife Protection Act, it is illegal to buy or sell ambergris. Acting on a tip-off, a police team arrested the two persons at Ghodbunder Road Thursday. The team, led by senior Inspector Vikas Ghodke, found 4.1 kg of a reddish-brown substance on the accused. A marine biologist accompanying the team confirmed that the substance was ambergris. Following this, a case was registered under the Wildlife Protection Act of 1972. Nearly 9 kg of ambergris has been seized by the Mumbai Police over the last 15 days. While 2.2 kg was seized from three men in Mulund, two persons were arrested from Lower Parel on Wednesday with the police recovering 7.7 kg of ambergris from them.']
+
+
+Mumbai----LOC.CITY
+
+2----SUS.NUMBER
+
+4.1 kg----QTY
+
+ambergris----ITEM
+
+Mumbai Police Crime Branch----AUTH.SEIZE
+
+arrested----CRIME.CAT
+
+two----SUS.NUMBER
+
+4.1 kg----QTY
+
+ambergris----ITEM
+
+whale----SP.COMMON
+
+vomit----ITEM
+
+tip-off----DETECTION_METHOD
+
+police----AUTH.SEIZE
+
+arrested----CRIME.CAT
+
+two----SUS.NUMBER
+
+Ghodbunder Road----LOC.EXACT
+
+Thursday----DATE
+
+senior Inspector----OFF.DESIG
+
+Vikas Ghodke----OFF.NAME
+
+4.1 kg----QTY
+
+9 kg----QTY
+
+ambergris----ITEM
+
+2.2 kg----QTY
+
+seized----CRIME.CAT
+
+three----SUS.NUMBER
+
+men----SUS.GENDER
+
+Mulund----LOC.EXACT
+
+two----SUS.NUMBER
+
+Lower Parel----LOC.EXACT
+
+Wednesday----DATE
+
+7.7 kg----QTY
+
+ambergris----ITEM

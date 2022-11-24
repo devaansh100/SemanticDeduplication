@@ -1,0 +1,17 @@
+
+['Leopard cub rescued at airport to be returned to Bangkok\nCHENNAI: The 50-day-old leopard cub that was smuggled from Bangkok to the city and is being kept at Vandalur zoo will go back to its place of origin. The date of the cub’s return journey will be fixed once its place of origin is ascertained and it’s declared fit for travel.Deputy director of Wildlife Crime Control Bureau southern region and Convention on International Trade on Endangered Species (CITES) officer T Uma told TOI that CITES officials in Thailand had agreed to take the cub back. Date of its return journey will be fixed once the origin of the cub is traced, Uma said.As a signatory to CITES, it’s India duty to send back the leopard to its place of origin. Mammals, reptiles or birds that come under CITES will not be allowed to be kept in a foreign land. Zoo officials said the cub is slowly getting accustomed to the new place. She has started playing and is very active in the zoo’s enclosure.Advanced Institute of Wildlife Conservation director Shekhar Kumar Niraj said leopards are categorized under both CITES Appendix I and under Schedule I of the Wildlife Protection Act. “It’s a healthy cub,” he said. A DNA test can help in identifying the geographic location and the subspecies of the animal. Once the subspecies is identified, it will help in finding its country of origin so that the cub can be reunited with the mother, he added.Another officer said the cub should be kept for at least eight to 12 weeks for it to get stabilized in the new environment. He added that smuggling of animals have gone up in the last five years.']
+
+
+Leopard----SP.COMMON
+
+rescued----CRIME.CAT
+
+airport----LOC.EXACT
+
+leopard----SP.COMMON
+
+Bangkok----ROUTE.SRC
+
+Vandalur zoo----LOC.EXACT
+
+DNA test----OUTCOME

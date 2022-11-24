@@ -1,0 +1,59 @@
+
+['Two Wildlife Smugglers Held In Nabarangpur, 52 Turtles Seized\nNabarangpur: Police have arrested two wildlife smugglers from Sarguli village under Raighar block in Nabarangpur district and rescued as many as 52 turtles from their possession. The wildlife smugglers have been identified as Rohidas Banik (55) and Parmanand Bauli (42) of Kumuli village under the Raighar block. Acting on a reliable input, the forest department officials conducted a raid at Sarguli village and seized 52 turtles from wildlife smugglers’ possession. The cops have also seized one motorcycle, a weighing machine, and two mobile phones from their possession. Further investigation is underway in this regard.']
+
+
+Two----SUS.NUMBER
+
+Nabarangpur----LOC.DISTRICT
+
+52----QTY
+
+Turtles----SP.COMMON
+
+Seized----CRIME.CAT
+
+Police----AUTH.SEIZE
+
+arrested----CRIME.CAT
+
+two----SUS.NUMBER
+
+Sarguli village----SUS.LOC
+
+Nabarangpur----LOC.DISTRICT
+
+52----QTY
+
+turtles----SP.COMMON
+
+Rohidas Banik----SUS.NAME
+
+55----SUS.AGE
+
+Parmanand Bauli----SUS.NAME
+
+42----SUS.AGE
+
+Kumuli village----SUS.LOC
+
+forest department officials----AUTH.SEIZE
+
+raid----DETECTION_METHOD
+
+Sarguli village----ROUTE.SRC
+
+52----QTY
+
+turtles----SP.COMMON
+
+one----QTY
+
+motorcycle----ITEM
+
+a----QTY
+
+weighing machine----ITEM
+
+two----QTY
+
+mobile phones----ITEM

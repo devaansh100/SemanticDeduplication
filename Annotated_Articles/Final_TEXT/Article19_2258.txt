@@ -1,0 +1,19 @@
+
+['Brazil: Parrot arrested for alerting drug dealing owners by yelling “Mama police”\nA parrot was landed in police custody when it tried to save its drug dealing owners by alerting them of a police raid. As per reports, police raided the home of two alleged crack cocaine dealers, where they ran into parrot who is said to be trafficking parrot or papagaio do trafico. As the police were searching for the suspects, the parrot alerted them by repeatedly yelling “Mamae, policia!” or “Mama, police!” An officer involved in the operation said that the parrot might be trained to do so. Also as per reports, when the police headed closer to the parrot, he started shouting. But the bird’s effort to save their owners went all in vain as the footage of the raid aftermath showed police making a list of the small bags if cracks while parrot is sitting on a countertop obediently. The owners that included a man and teenage girl where arrested by the police as per the reports. Also, the parrot was seen being carried by a cop out of the house in his hand and then later he was caged. The parrot was taken to the Teresina Police Department, where it remained in total silence even after constant efforts of the police to make him speak. The suspect couple’s defense attorney, Salma Barros, was questioned how the yelling parrot could remain totally quiet in the police station. An environmentalist named Jaqueline Lustosa told that she had gone to the police department to free the bird. As per the reports, the parrot had been taken to a local zoo, where zookeepers would train it how to fly. Kai Po Che? Manjha leaves parrot hanging by string; 50 birds admitted on Makar Sankranti']
+
+
+Parrot----SP.COMMON
+
+arrested----CRIME.CAT
+
+parrot----SP.COMMON
+
+crack cocaine dealers----SUS.AFFIL
+
+parrot----SP.COMMON
+
+parrot----SP.COMMON
+
+man----SUS.GENDER
+
+parrot----SP.COMMON

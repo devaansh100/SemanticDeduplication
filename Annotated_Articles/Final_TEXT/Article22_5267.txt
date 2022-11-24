@@ -1,0 +1,37 @@
+
+["Bird flu scare in Maharashtra's Thane, 25,000 chickens to be culled at poultry farm\nAbout 25,000 birds falling in a kilometre radius of an affected poultry farm in Thane will be culled in the next few days in the wake of a bird flu scare. The move came days after about 100 chickens died suddenly at the farm in Vehloli village of Shahapur tehsil in Thane district, officials said. According to an ANI input, Thane district magistrate and collector Rajesh J Narvekar said the district animal husbandry department has been ordered to take measures to control the infection, adding samples of the dead birds have been sent to Pune-based laboratory for testing. Around 25,000 birds falling in a kilometre radius of the affected poultry farm will be killed within the next few days. The district animal husbandry department has been ordered to take measures to control the infection: Thane DM & Collector Rajesh J. Narvekar — ANI (@ANI) February 18, 2022 The chief executive officer (CEO) of the Thane Zilla Parishad, Dr Bhausaheb Dangde, results of the tests confirmed that the birds died due to H5N1 avian influenza. The Union ministry of fisheries and animal husbandry has been informed about the detection of bird flu cases here, Dangde added. (With inputs from agencies)"]
+
+
+Bird flu scare----SUS.AFFIL
+
+Maharashtra's----LOC.STATE
+
+Thane----LOC.CITY
+
+25,000----QTY
+
+chickens----SP.COMMON
+
+culled----CRIME.CAT
+
+25,000----QTY
+
+birds----SP.COMMON
+
+Thane----LOC.CITY
+
+culled----CRIME.CAT
+
+district animal husbandry department----AUTH.MISC
+
+samples of the dead birds have been sent to Pune-based laboratory for testing----OUTCOME
+
+25,000----QTY
+
+district animal husbandry department----AUTH.SEIZE
+
+Thane DM----OFF.DESIG
+
+Collector----OFF.DESIG
+
+Rajesh J. Narvekar----OFF.NAME

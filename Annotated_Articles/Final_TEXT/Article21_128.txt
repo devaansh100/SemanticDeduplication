@@ -1,0 +1,25 @@
+
+['Human-elephant conflict: Jumbo suspected to be poisoned to death in Karnataka\nHuman-elephant conflict: Jumbo suspected to be poisoned to death in Karnataka Though the tusks were found to be missing from the carcass, the necropsy results seem to point to the tusker having been poisoned. news Human-animal conflict While the disturbing news of the killing of a female elephant that was shot dead in the Yeslur range of Sakleshpur in Karnataka’s Hassan in January is still fresh in the minds of forest officials and animal lovers, reports of a tusker killed in the same range a couple of days back has added to concerns about the growing human-elephant conflict in the region. The carcass of the tusker, found in an abandoned cardamom plantation, was in a highly decomposed state which made it difficult to ascertain the exact cause of death. The tusks were found to be missing from the carcass, which led officials to suspect poaching. However, the necropsy results seem to point to the tusker having been poisoned. Speaking to TNM, Basavaraj, Deputy Conservator of Forests (DCF), Hassan, said the necropsy ruled out that the tusker was shot like the female elephant in January. Samples of the carcass have been sent for Forensic Science Laboratory (FSL) analysis to determine the cause of death. To rule out gunshots, veterinarians used metal detectors to find any bullets stuck in the decomposed carcass. DCF Basavaraj added, “It looks like the tusks came off easily from the socket of the decomposed carcass, there were no signs of any force applied to extract them.” A case has been filed by Hassan forest officials with regard to the missing tusks from the elephant carcass and the Assistant Conservator of Forests (ACF) has begun investigation. The female elephant killed in January was shot dead by unknown persons. Necropsy had confirmed that the elephant died owing to bullet injuries. On the status of the investigation into the death, Basavaraj said that the department has listed some 30 persons suspected to have killed the elephant before fleeing the spot. There have been several instances of human-elephant conflict as well as poaching in the region. In 2015, a tusker succumbed to gunshot injuries near Magodu village of Hassan’s Arkalgud. It is suspected that unidentified persons had shot the tusker dead as it used to raid crops at regular intervals. In another case the same year, an elephant was shot dead by a farmer in a reserve forest in Chikkamagaluru. The reason was the same – the tusker was raiding his crops. Some years back, unknown persons electrocuted and killed a jumbo that used to frequently visit fields in Hassan’s Alur range. In a case of poaching, a tusker was gunned down by unknown persons in the Kotnoor range of the Cauvery Wildlife Sanctuary in February 2019. The poachers fled with the tusks extracted from the carcass. Yet to be solved, the case is still under investigation by the ACF, sources said. Farmers in Hassan said that they do not receive adequate and timely crop compensation from the forest department. These are the reasons that they are intolerant towards wild animals, especially elephants. A wildlife conservationist said that there are close to 60 elephants in Hassan and that not all farmers are intolerant except for a few incidents of brutal killings. The main demand of farmers in Hassan is to shift problematic elephants from the region. In a move to mitigate human-animal conflict situations, Hassan forest officials have in the past translocated several problematic jumbos from the forests while many problematic elephants have been caught and shifted to elephant camps. DCF Basavaraj said that even this year, three elephants have been radio-collared to keep tabs on their movements while another has been translocated from Hassan. Girisha is a freelancer who writes on wildlife and forests.']
+
+
+Human-elephant----SP.COMMON
+
+Jumbo----SP.SPECIFIC
+
+poisoned to death----CRIME.CAT
+
+Karnataka----LOC.STATE
+
+Human-elephant----SP.COMMON
+
+Jumbo----SP.SPECIFIC
+
+poisoned to death----CRIME.CAT
+
+Karnataka----LOC.STATE
+
+poaching----CRIME.CAT
+
+Samples of the carcass have been sent for Forensic Science Laboratory (FSL) analysis----OUTCOME
+
+case has been filed by Hassan forest officials----OUTCOME

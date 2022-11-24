@@ -1,0 +1,27 @@
+
+['Videos of kangaroos wandering in West Bengal stun netizens\nWhenever people think of kangaroos, they associate them with countries like Australia and New Guinea. However, this weekend several videos began circulating online that showed kangaroos roaming on the roads of West Bengal’s Jalpaiguri district. The fact that these animals were thousands of miles away from their natural habitats stunned not just regular people but forest department officials as well. ALSO READ | US man charged with smuggling more than 1,700 reptiles On Saturday, forest officials told reporters that three kangaroos were rescued from different parts of the Siliguri town. The officials also said that they also found a dead baby kangaroo in what appears to be a case of animal smuggling. WB | Forest officials rescued two Kangaroos near Gajoldoba in Jalpaiguri. The kangaroos had some serious injuries on their bodies & have been sent to Bengal Safari Park for further treatment. A team has been formed to probe the matter: S Dutta, RO, Belakoba Forest Range (01.04) pic.twitter.com/kT40YmyDmq — ANI (@ANI) April 1, 2022 West Bengal | One more Kangaroo was rescued by forest officials from Farabari-Nepali busty in Dabgram forest range of Jalpaiguri last night from where two Kangaroos were rescued earlier on April 1st pic.twitter.com/mR4FmNZWnn — ANI (@ANI) April 2, 2022 A senior forest official said, “After being rescued, all three kangaroos were sent for treatment. We are surprised as to who brought these kangaroos here and how. We suspect these kangaroos were being smuggled to Nepal. But we are looking into the motive behind smuggling as well.” These animals were spotted by many local residents who were passing through the area. In one such video, the kangaroos are seen inspecting the surroundings and trying to eat the grass growing at the roadside, as curious people try to record their videos. While sharing the video, many people wondered if the kangaroos fled from a zoo. Here’s a video. Just look at the poor, distraught animals who are clearly in a state of shock.pic.twitter.com/eVEceWGAHP — Soumyadipta (@Soumyadipta) April 2, 2022 Got this on WhatsApp. It looks like fled away from Zoo…anyone know the reality@IndiAves @ParveenKaswan pic.twitter.com/4WWWYwPVVQ — Sudhakar Kumar (@MyPicsSpeaks) April 2, 2022 They are not present in any zoo in this area. They are part of smuggling. Later seized. In zoo now for safe custody. Last month also two were arrested with a kangaroo. https://t.co/vUKY5VFx4x — Parveen Kaswan, IFS (@ParveenKaswan) April 2, 2022 So we have kangaroo in India ? I guess no. But this is serious issue. They must be handed over to the Forest dept and they would see where to keep them or May be breeding is possible but I don’t think they would be suitable for Indian jungle . — Mohammad Tarique 🇮🇳 (@emperor_mohd) April 2, 2022 Smuggled all the way from Australia? The kangaroo must be petrified 😔 — Debali Basu (@debalib) April 2, 2022 Responding to one such video, Indian Forest Service officer Parveen Kaswan clarified that these kangaroos were not part of any zoo and are rescued by the authorities.']
+
+
+kangaroos----SP.COMMON
+
+smuggling----CRIME.CAT
+
+two----QTY
+
+Kangaroos----SP.COMMON
+
+Jalpaiguri----LOC.DISTRICT
+
+Kangaroo----SP.COMMON
+
+forest officials----AUTH.SEIZE
+
+Farabari-Nepali busty----LOC.EXACT
+
+night----TIME
+
+two----QTY
+
+Kangaroos----SP.COMMON
+
+Australia----ROUTE.SRC

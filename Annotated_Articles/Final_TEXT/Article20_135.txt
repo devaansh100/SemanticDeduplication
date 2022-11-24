@@ -1,0 +1,111 @@
+
+['Why ex-Army personnel ‘target’ feral horses of Dibru-Saikhowa National Park?\nIt is surprising — why some ex-Indian Army personnel are now eyeing the war horses left behind by the Allied Forces after the World War II in Upper Assam. Tourists visiting the Dibru-Saikhowa National Park in Upper Assam are always amazed with the beautiful feral horses galloping around the wild habitat. These feral horses are the offspring of the war horses left behind by the Allied Forces after the World War II in the eastern theatre. Though there has been no proper census done on the feral horse population at the Dibru-Saikhowa National Park, wildlife workers claim there are few hundred horses in the wild habitat. The feral horses are of exotic bloodline, and there has been no cross breeding. The feral horse population in Dibru-Saikhowa National Park is unique. There are few places in the world — Spain, Portugal and Australia have feral horses. Taking into accounts the rich exotic bloodline of the feral horses of Dibru-Saikhowa National Park, a section of ex-Indian Army personnel have started trapping and smuggling the animals to sell them at a premium. Involvement of ex-Army personnel in smuggling and illegal trade of feral horses from Dibru-Saikhowa National Park was exposed recently. Assam forest department team on March 2 rescued six feral horses while being transported in a truck at the Makum bypass in Upper Assam’s Tinsukia district. The feral horses were being transported in the truck AS01 JC 0457 with the placard — On Army Duty. Four people, including two retired army personnel — Khagen Baishya and Arun Pal Singh were arrested. Both Baishya and Singh confessed that the feral horses were “procured” from the Dibru-Saikhowa National Park. Both the ex-army personnel had initially claimed that they were taking the horses for research at the College of Veterinary Science in Khanapara in Guwahati. But, they could not produce any document, and officials of the College of Veterinary Science have also denied the report. Both Baishya and Singh have confessed that they were transporting the feral horses to Guwahati as per the instructions of Lieutenant Colonel (retd) Ashutosh Tripathi. According to reports, Lt Col (retd) Tripathi worked with the EME branch of the Indian Army, and is one of the promoters of the Horse Riding and Polo Club in Guwahati. Rajendra Singh Bharti, the divisional forest officer of Tinsukia Wildlife Division also said the horses were being taken to the Guwahati Riding and Polo Club. Based on confession of Baishya and Singh, investigating officers are now trying to locate Lt. Col (retd) Tripathi for interrogation. Investigating agencies have come to know that Lt. Col (retd) Tripathi is into hospitality business, and runs resorts in Western India. The Guwahati Riding and Polo Club was inaugurated on June 30 last year by Assam Finance Minister Himanta Biswa Sarma. The Guwahati Riding and Polo Club is located close to the Sarusajai Stadium. The club is also planning to organise the National Junior Equestrian Tournament in 2020. However, Lt Col (retd) Ashutosh Tripathi could not be contacted for comments. The official phone number (76700-11111) of Guwahati Riding and Polo Club was found to be out of service. Interestingly, Baishya and Singh have reportedly said that the “buyers” of the feral horses were planning to set up a horse breeding centre in Guwahati.']
+
+
+ex-Army personnel----SUS.AFFIL
+
+feral horses----SP.COMMON
+
+Dibru-Saikhowa National Park----LOC.EXACT
+
+ex-Indian Army personnel----SUS.AFFIL
+
+Upper Assam----LOC.STATE
+
+Dibru-Saikhowa National Park----LOC.EXACT
+
+Upper Assam----LOC.STATE
+
+feral horses----SP.COMMON
+
+feral horses----SP.COMMON
+
+feral horse----SP.COMMON
+
+Dibru-Saikhowa National Park----LOC.EXACT
+
+Dibru-Saikhowa National Park----LOC.EXACT
+
+section of ex-Indian Army personnel----SUS.AFFIL
+
+trapping----CRIME.CAT
+
+smuggling----CRIME.CAT
+
+sell----CRIME.CAT
+
+ex-Army personnel----SUS.AFFIL
+
+smuggling----CRIME.CAT
+
+illegal trade of feral horses----CRIME.CAT
+
+Dibru-Saikhowa National Park----LOC.EXACT
+
+Assam forest department----AUTH.SEIZE
+
+March 2----DATE
+
+six----QTY
+
+feral horses----SP.COMMON
+
+truck----TRANSPORT_MODE
+
+Makum bypass----LOC.EXACT
+
+Tinsukia district----LOC.DISTRICT
+
+feral horses----SP.COMMON
+
+truck AS01 JC 0457----TRANSPORT_MODE
+
+Four----SUS.NUMBER
+
+retired army personnel----SUS.AFFIL
+
+Khagen Baishya----SUS.NAME
+
+Arun Pal Singh----SUS.NAME
+
+Baishya----SUS.NAME
+
+Singh----SUS.NAME
+
+feral horses----SP.COMMON
+
+Dibru-Saikhowa National Park.----ROUTE.SRC
+
+ex-army personnel----SUS.AFFIL
+
+College of Veterinary Science in Khanapara in Guwahati----ROUTE.DEST
+
+Baishya----SUS.NAME
+
+Singh----SUS.NAME
+
+feral horses----SP.COMMON
+
+Guwahati----ROUTE.DEST
+
+Lieutenant Colonel (retd)----SUS.AFFIL
+
+Ashutosh Tripathi. According to reports, Lt Col (retd) Tripathi----SUS.NAME
+
+EME branch of the Indian Army----SUS.AFFIL
+
+Rajendra Singh Bharti----OFF.NAME
+
+divisional forest officer----OFF.DESIG
+
+Guwahati Riding and Polo Club----ROUTE.DEST
+
+Baishya----SUS.NAME
+
+investigating officers are now trying to locate Lt. Col (retd) Tripathi for interrogation.----OUTCOME
+
+Baishya----SUS.NAME
+
+Singh----SUS.NAME
+
+feral horses----SP.COMMON

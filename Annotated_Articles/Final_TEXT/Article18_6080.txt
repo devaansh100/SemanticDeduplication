@@ -1,0 +1,23 @@
+
+["15 out of 23 monkeys part of Elon Musk’s Neuralink trial die after 'extreme suffering'\n15 out of 23 monkeys part of Elon Musk’s Neuralink trial die after 'extreme suffering' In an attempt to link the human brain to a computer a San-Franscisco based firm killed 15 out of 23 monkeys. The company- Neuralink has been working to conceive implants to link human thought process and machinery. The company is planning to implant wireless brain-computer chips to help cure neurological conditions like Alzheimer's, dementia and spinal cord injuries. In order to successfully fuse human brain with artificial intelligence, Neuralink records and decodes electrical signals from the brain using more than 2,000 electrodes. These electrodes are implanted in regions of the monkey’s motor cortex that link hand and arm movements. Elon Musk is well-known for promoting use of diverse technologies and helping experts to bring out effective solutions to varied issues. His companies, including Tesla Inc, SpaceX and Boring Co. also follow this strategy. Nevertheless, he has outrightly reflected upon the negative impact of artificial intelligence on human race. The technique of connecting human brain to artificial intelligence is being used in many sectors all over the world. Medical professionals use electrodes in brain to treat several conditions, including Parkinson’s disease, epilepsy and chronic pain. Taking this coordination of technology and humankind further, Musk aims Neuralink to work on existing medical treatments and find how surgeries could improve cognitive functioning."]
+
+
+15----QTY
+
+23----QTY
+
+monkeys----SP.COMMON
+
+15----QTY
+
+monkeys----SP.COMMON
+
+San-Franscisco based firm----AUTH.SEIZE
+
+killed----CRIME.CAT
+
+15----QTY
+
+23----QTY
+
+monkeys----SP.COMMON

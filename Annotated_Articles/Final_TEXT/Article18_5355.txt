@@ -1,0 +1,33 @@
+
+['Caught on camera: Huge great white shark eats swimmer at Sydney beach in Australia\nFollowing the incident, a huge splash could be seen as the water turned red with birds circling above. | Photo Credit: Twitter Key Highlights The fatal shark attack was captured on camera. The incident took place in Little Bay area. In a horrific incident, a huge white shark swallowed a man who was swimming at Sydney beach in Australia on Wednesday. The fatal shark attack was captured on camera. The incident took place in Little Bay area. The rescuers managed to locate human remains half an hour after the incident was first reported. A fisherman reported the matter saying a man was attacked by a shark and was dragged under. The horrific video captured the moment when the giant shark attacked the man, according to a report in the Australian website news.com. In the purported video, the man could be heard saying, “someone just got eaten by a shark. it was a “big great white”. Disturbing video: Viewer discretion advised Following the incident, a huge splash could be seen as the water turned red with birds circling above. The man who recorded the video from rock ledge yelled, "That’s insane,” Another woman shouted in disbelief, "oh my god … what the f***? Rescuers rushed to the area after the shark attack was reported around 4.30pm on Wednesday. New South Wales (NSW) Police later located human remains and closed off the Little Bay Beach. "Unfortunately this person had suffered catastrophic injuries and there wasn’t a lot paramedics could do when we arrived,” the report quoted an NSW Ambulance spokeswoman as saying. A man who witnessed the horrific incident on the beach said the victim was in front of his eyes when the shark attacked him and dragged him under the water. On Wednesday, Malabar, Maroubra, Coogee, Clovelly and La Perouse beaches were closed for 24 hours as lifeguards patrolled the beach for any further sightings of sharks, Randwick Council said in a statement. The report said this was the first fatal shark attack in Sydney since 1963. In another incident, a 20-year-old woman identified as Jacquelin Morley was bitten by a great white shark at Kelp Beds Beach in Esperance, Western Australia over a week ago. She luckily survived the attack.']
+
+
+great white shark----SP.SPECIFIC
+
+eats----CRIME.CAT
+
+Sydney beach----LOC.EXACT
+
+Australia----LOC.STATE
+
+shark attack----CRIME.CAT
+
+Little Bay area----LOC.EXACT
+
+huge white shark----SP.SPECIFIC
+
+man----SUS.GENDER
+
+Sydney beach----LOC.EXACT
+
+Wednesday----DATE
+
+Little Bay area----LOC.EXACT
+
+4.30pm----TIME
+
+Wednesday----DATE
+
+New South Wales (NSW) Police----AUTH.SEIZE
+
+Little Bay Beach----LOC.EXACT

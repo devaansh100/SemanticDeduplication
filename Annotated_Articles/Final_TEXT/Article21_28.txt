@@ -1,0 +1,39 @@
+
+['Red sanders smuggler arrested\nThe Red Sanders Anti-Smuggling Task Force (RSASTF) sleuths arrested a smuggler in the forests abutting the Tirupati-Madanapalle highway and seized ten red sander logs worth ₹10 lakh from his possession. On being tipped off about the likely movement of outsiders in the Seshachalam forest abutting the highway, Deputy Superintendent of Police Venkataiah alerted RSI Vasu and Deputy Range Officer Narasimha Rao, who took up combing in the forest from Monday night. The combing went on till Tuesday between Srivari Mettu and Kalyani dam, north of the highway. They found a huge dump along with a smuggler nearby, apparently to keep an eye on the loot, before its transportation out of the forest. The sleuths swung into action and arrested the man, identified as C. Vasu, belonging to Tiruvannamalai district of Tamil Nadu, and also confiscated the felled logs.']
+
+
+Red sanders smuggler----SP.SPECIFIC
+
+arrested----CRIME.CAT
+
+Red Sanders Anti-Smuggling Task Force (RSASTF)----AUTH.SEIZE
+
+Tirupati-Madanapalle highway----LOC.EXACT
+
+ten----QTY
+
+red sander----SP.COMMON
+
+logs----ITEM
+
+tipped off----DETECTION_METHOD
+
+Deputy Superintendent of Police----OFF.DESIG
+
+Venkataiah----OFF.NAME
+
+RSI----OFF.DESIG
+
+Vasu----OFF.NAME
+
+Deputy Range Officer----OFF.DESIG
+
+Narasimha Rao----OFF.NAME
+
+Monday----DATE
+
+night----TIME
+
+man----SUS.GENDER
+
+C. Vasu----SUS.NAME

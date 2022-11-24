@@ -1,0 +1,183 @@
+
+['Minor among three arrested for poaching wild animals in Odisha\nBy Express News Service BHUBANESWAR: The forest officials on Sunday arrested three persons including a minor on the charges of poaching wild animals in Nuapada range of Khariar forest division and seized a leopard skull, hide, body parts of pangolin and bushmeat from their possession. Acting on a tip-off about the illegal possession of wild animal skin and meat, a team of Khariar forest division led by Nuapada ranger Binita Bhoi conducted a raid in Chipaghar village in Nuapada closer to Odisha-Chhattisgarh border and arrested three persons from the village in this connection. They are Shobha Sabar (22), Ramkela Bai Sabar (45) and a 16-year-old boy. The minor will be produced before juvenile court, forest officials said. DFO Vivek Kumar said during the raid the team recovered the leopard skull, hide, body parts of a pangolin and bushmeat suspected to be of wild boar. Besides, traditional poaching tools including porcupine quills were also recovered. Around 15 kg bushmeat has been recovered. The DFO said samples of the meat will be sent to the Zoological Survey of India lab in Kolkata for confirmation. He said, during the raid the team also seized a few mobile phones which is expected to help in investigation of the matter further. "We have also come to know about the involvement of some other suspects. Though it appears to be an organised poaching racket, we will have to find out if there is an inter-state link to this poaching and smuggling racket," he said. Forest officials said from the leopard skull and hide it appears that the poaching has not taken place too long. Meanwhile, poaching of wild animals, especially leopards, has turned into a matter of grave concern for the state wildlife wing as at least five leopard skins have been recovered in different raids in the last two weeks. The Forest officials of Nabarangpur division had seized three leopard hides and arrested four poachers from near Tentulikhunti jungle in this connection on September 11. The poachers were smuggling the hides on their motorcycles when local villagers, sensing foul play, informed the forest officials. Two days later, the forest officials seized another leopard hide from the Balipada area of Berhampur range and arrested one person in this connection. The wildlife wing has already recommended handing over of both the cases to the State Crime Branch for further investigation and trace link of others involved in the smuggling rackets. An official from the wildlife wing also admitted that around 10 to 12 leopard skins have already been recovered between April and September so far which renews the need for stepping of patrolling measures further, especially in inaccessible pockets of various forest and wildlife divisions. Besides, he said the department is now looking towards improving its strategies to deal with the menace effectively. BHUBANESWAR: The forest officials on Sunday arrested three persons including a minor on the charges of poaching wild animals in Nuapada range of Khariar forest division and seized a leopard skull, hide, body parts of pangolin and bushmeat from their possession. Acting on a tip-off about the illegal possession of wild animal skin and meat, a team of Khariar forest division led by Nuapada ranger Binita Bhoi conducted a raid in Chipaghar village in Nuapada closer to Odisha-Chhattisgarh border and arrested three persons from the village in this connection. They are Shobha Sabar (22), Ramkela Bai Sabar (45) and a 16-year-old boy. The minor will be produced before juvenile court, forest officials said. DFO Vivek Kumar said during the raid the team recovered the leopard skull, hide, body parts of a pangolin and bushmeat suspected to be of wild boar. Besides, traditional poaching tools including porcupine quills were also recovered. Around 15 kg bushmeat has been recovered. The DFO said samples of the meat will be sent to the Zoological Survey of India lab in Kolkata for confirmation. He said, during the raid the team also seized a few mobile phones which is expected to help in investigation of the matter further. "We have also come to know about the involvement of some other suspects. Though it appears to be an organised poaching racket, we will have to find out if there is an inter-state link to this poaching and smuggling racket," he said. Forest officials said from the leopard skull and hide it appears that the poaching has not taken place too long. Meanwhile, poaching of wild animals, especially leopards, has turned into a matter of grave concern for the state wildlife wing as at least five leopard skins have been recovered in different raids in the last two weeks. The Forest officials of Nabarangpur division had seized three leopard hides and arrested four poachers from near Tentulikhunti jungle in this connection on September 11. The poachers were smuggling the hides on their motorcycles when local villagers, sensing foul play, informed the forest officials. Two days later, the forest officials seized another leopard hide from the Balipada area of Berhampur range and arrested one person in this connection. The wildlife wing has already recommended handing over of both the cases to the State Crime Branch for further investigation and trace link of others involved in the smuggling rackets. An official from the wildlife wing also admitted that around 10 to 12 leopard skins have already been recovered between April and September so far which renews the need for stepping of patrolling measures further, especially in inaccessible pockets of various forest and wildlife divisions. Besides, he said the department is now looking towards improving its strategies to deal with the menace effectively.']
+
+
+three----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+poaching----CRIME.CAT
+
+Odisha----LOC.STATE
+
+forest officials----AUTH.SEIZE
+
+Sunday----DATE
+
+arrested----CRIME.CAT
+
+three----SUS.NUMBER
+
+Nuapada range of Khariar forest division----ROUTE.SRC
+
+seized----CRIME.CAT
+
+a----QTY
+
+leopard----SP.COMMON
+
+skull----ITEM
+
+hide----ITEM
+
+body parts----ITEM
+
+pangolin----SP.COMMON
+
+bushmeat----ITEM
+
+tip-off----DETECTION_METHOD
+
+wild animal----SP.COMMON
+
+skin----ITEM
+
+meat----ITEM
+
+Nuapada ranger----OFF.DESIG
+
+Binita Bhoi----OFF.NAME
+
+raid----DETECTION_METHOD
+
+Chipaghar village----LOC.EXACT
+
+three----SUS.NUMBER
+
+Shobha Sabar----SUS.NAME
+
+22----SUS.AGE
+
+Ramkela Bai Sabar----SUS.NAME
+
+45----SUS.AGE
+
+16-year-old----SUS.AGE
+
+produced before juvenile court----OUTCOME
+
+leopard----SP.COMMON
+
+skull----ITEM
+
+hide----ITEM
+
+body parts----ITEM
+
+pangolin----SP.COMMON
+
+bushmeat----ITEM
+
+wild boar----SP.COMMON
+
+porcupine----SP.COMMON
+
+quills----ITEM
+
+15 kg----QTY
+
+bushmeat----ITEM
+
+samples of the meat will be sent to the Zoological Survey of India lab in Kolkata----OUTCOME
+
+few----QTY
+
+mobile phones----ITEM
+
+Forest officials of Nabarangpur division----AUTH.SEIZE
+
+September 11----DATE
+
+forest officials----AUTH.SEIZE
+
+Sunday----DATE
+
+arrested----CRIME.CAT
+
+three----SUS.NUMBER
+
+poaching----CRIME.CAT
+
+Nuapada range of Khariar forest division----ROUTE.SRC
+
+seized----CRIME.CAT
+
+a----QTY
+
+leopard----SP.COMMON
+
+skull----ITEM
+
+hide----ITEM
+
+body parts----ITEM
+
+pangolin----SP.COMMON
+
+bushmeat----ITEM
+
+tip-off----DETECTION_METHOD
+
+skin----ITEM
+
+meat----ITEM
+
+ranger----OFF.DESIG
+
+Binita Bhoi----OFF.NAME
+
+raid----CRIME.CAT
+
+Chipaghar village----LOC.EXACT
+
+arrested----CRIME.CAT
+
+three----SUS.NUMBER
+
+Shobha Sabar----SUS.NAME
+
+22----SUS.AGE
+
+Ramkela Bai Sabar----SUS.NAME
+
+45----SUS.AGE
+
+16-year-old----SUS.AGE
+
+minor will be produced before juvenile court----OUTCOME
+
+leopard----SP.COMMON
+
+skull----ITEM
+
+hide----ITEM
+
+body parts----ITEM
+
+pangolin----SP.COMMON
+
+bushmeat----ITEM
+
+wild boar----SP.COMMON
+
+porcupine----SP.COMMON
+
+quills----ITEM
+
+15 kg----QTY
+
+bushmeat----ITEM
+
+samples of the meat will be sent to the Zoological Survey of India lab in Kolkata----OUTCOME
+
+mobile phones----ITEM

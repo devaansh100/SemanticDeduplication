@@ -1,0 +1,9 @@
+
+['Salekasa: Latest News, Videos and Photos of Salekasa\nDogs kill deer on the outskirts of village TNN / Feb 03, 2012, 03:36 (IST) The deer which had gone astray from the forest on the outskirts of Piparia village of salekasa tehsil was killed by some dogs on Wednesday morning.']
+
+
+deer----SP.COMMON
+
+Wednesday----DATE
+
+morning----TIME

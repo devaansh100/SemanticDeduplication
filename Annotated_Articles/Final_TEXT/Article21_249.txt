@@ -1,0 +1,39 @@
+
+['Birds rescued from train, handed over to forest department\nBHAGALPUR: (ER) officials and Railway Protection Force personnel recovered 165 birds from a coach of Kalka-Howrah Netaji Express Special train (02312) at Asansol railway station on Friday. The ER officials later handed over the recovered birds to the forest officials for their proper documentation and rehabilitation. Of the 165 recovered birds, 110 are Rose-Ringed Parakeet and 55 are Estrildid Finches’ species small Munia birds which were kept in cages underneath the seat number 55-56 of the general class coach of the train as unclaimed. Sources said the value of recovered birds could exceed more than Rs 1 lakh. Barring some exceptions, ‘caging’ any Indian bird is illegal as they are categorized under wild animals and are thus protected under Schedule IV of the wildlife Protection Act (1972). Ekalabya Chakraborty, chief public relations officer of ER, said the wildlife birds were handed over to the forest department officials on Saturday.']
+
+
+handed over----OUTCOME
+
+forest department----AUTH.SEIZE
+
+BHAGALPUR----LOC.CITY
+
+ER)----AUTH.SEIZE
+
+Railway Protection Force----AUTH.SEIZE
+
+165----QTY
+
+birds----ITEM
+
+Kalka-Howrah Netaji Express Special train (02312)----TRANSPORT_MODE
+
+Asansol railway station----LOC.EXACT
+
+Friday----DATE
+
+ER officials----AUTH.SEIZE
+
+165----QTY
+
+birds----ITEM
+
+110----QTY
+
+Rose-Ringed Parakeet----SP.SPECIFIC
+
+55----QTY
+
+Estrildid Finches----SP.SPECIFIC
+
+forest department officials----AUTH.SEIZE

@@ -1,0 +1,107 @@
+
+['Elephant tusks seized, six held\nBy Express News Service COIMBATORE: Anamalai Tiger Reserve (ATR) officials, along with Wildlife Crime Control Bureau (WCCB), seized a pair of elephant tusks on Tuesday. Six persons, including an anti-poaching watcher, were arrested. According to sources, the accused have been identified as P Manikandan (38), owner of a pet shop, K Samiyappan, an anti-poaching watcher at Pollachi forest range in ATR, A Kathavarayan, a sanitary worker, M Sikkanthar Basha, footwear shopkeeper, K Sharathi a grove labourer, and A Nandhakumar, who works as a lab assistant at a private college. Following a tip-off about the tusks being sold through a pet shop near Shanmugapuram, a team of WCCB and forest staff, disguised as buyers, confirmed that the accused were selling the tusks. After grilling the shopkeeper, Manikandan, he confessed that Samiyappan and Kathavarayan had collected the tusks from the forest in Pollachi during their routine patrolling and kept it in a grove with the help of Sharathi and Sikkanthar. Subsequently, Manikandan decided to sell through his friend Nandhakumar to potential buyers, sources said. Sources added that Samiyappan and Kathavarayan had found an elephant carcass inside Pollachi forest range and took its tusks on December 14. "Age of the animal is suspected to be between 10 to 15 years, and it could have died a few months ago. After noticing the carcass at Vedikaranpallam in Pollachi forest range, the duo must have gone inside the forest without taking GPS on December 14 to collect the tusks," said Xavier Deputy Director of ATR S Arokiyaraj. "The gang was waiting to get Rs 3 lakh by selling the tusks. They were carrying out the negotiation through WhatsApp. However they were caught within ten days. They were produced before the Pollachi Judicial Magistrate II and were remanded in Coimbatore Central Prison," he added. COIMBATORE: Anamalai Tiger Reserve (ATR) officials, along with Wildlife Crime Control Bureau (WCCB), seized a pair of elephant tusks on Tuesday. Six persons, including an anti-poaching watcher, were arrested. According to sources, the accused have been identified as P Manikandan (38), owner of a pet shop, K Samiyappan, an anti-poaching watcher at Pollachi forest range in ATR, A Kathavarayan, a sanitary worker, M Sikkanthar Basha, footwear shopkeeper, K Sharathi a grove labourer, and A Nandhakumar, who works as a lab assistant at a private college. Following a tip-off about the tusks being sold through a pet shop near Shanmugapuram, a team of WCCB and forest staff, disguised as buyers, confirmed that the accused were selling the tusks. After grilling the shopkeeper, Manikandan, he confessed that Samiyappan and Kathavarayan had collected the tusks from the forest in Pollachi during their routine patrolling and kept it in a grove with the help of Sharathi and Sikkanthar. Subsequently, Manikandan decided to sell through his friend Nandhakumar to potential buyers, sources said. Sources added that Samiyappan and Kathavarayan had found an elephant carcass inside Pollachi forest range and took its tusks on December 14. "Age of the animal is suspected to be between 10 to 15 years, and it could have died a few months ago. After noticing the carcass at Vedikaranpallam in Pollachi forest range, the duo must have gone inside the forest without taking GPS on December 14 to collect the tusks," said Xavier Deputy Director of ATR S Arokiyaraj. "The gang was waiting to get Rs 3 lakh by selling the tusks. They were carrying out the negotiation through WhatsApp. However they were caught within ten days. They were produced before the Pollachi Judicial Magistrate II and were remanded in Coimbatore Central Prison," he added.']
+
+
+Elephant----SP.COMMON
+
+tusks----ITEM
+
+seized----CRIME.CAT
+
+six----SUS.NUMBER
+
+Anamalai Tiger Reserve (ATR)----AUTH.SEIZE
+
+Wildlife Crime Control Bureau----AUTH.SEIZE
+
+WCCB----AUTH.SEIZE
+
+seized----CRIME.CAT
+
+pair----QTY
+
+elephant----SP.COMMON
+
+tusks----ITEM
+
+Tuesday----DATE
+
+Six----SUS.NUMBER
+
+anti-poaching watcher----SUS.AFFIL
+
+P Manikandan----SUS.NAME
+
+38----SUS.AGE
+
+K Samiyappan----SUS.NAME
+
+A Kathavarayan----SUS.NAME
+
+M Sikkanthar Basha----SUS.NAME
+
+K Sharathi----SUS.NAME
+
+A Nandhakumar----SUS.NAME
+
+tip-off----DETECTION_METHOD
+
+pet shop----DETECTION_METHOD
+
+WCCB----AUTH.SEIZE
+
+forest staff----AUTH.SEIZE
+
+elephant----SP.COMMON
+
+carcass----ITEM
+
+Anamalai Tiger Reserve (ATR)----AUTH.SEIZE
+
+Wildlife Crime Control Bureau----AUTH.SEIZE
+
+WCCB----AUTH.SEIZE
+
+seized----CRIME.CAT
+
+pair----QTY
+
+elephant----SP.COMMON
+
+tusks----ITEM
+
+Tuesday----DATE
+
+Six----SUS.NUMBER
+
+P Manikandan----SUS.NAME
+
+38----SUS.AGE
+
+K Samiyappan----SUS.NAME
+
+anti-poaching watcher at Pollachi forest range in ATR----SUS.AFFIL
+
+A Kathavarayan----SUS.NAME
+
+M Sikkanthar Basha----SUS.NAME
+
+K Sharathi----SUS.NAME
+
+A Nandhakumar----SUS.NAME
+
+tip-off----DETECTION_METHOD
+
+tusks----ITEM
+
+WCCB----AUTH.SEIZE
+
+forest staff----AUTH.SEIZE
+
+elephant----SP.COMMON
+
+carcass----ITEM
+
+December 14----DATE
+
+Rs 3 lakh----VALUE

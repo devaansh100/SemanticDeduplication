@@ -1,0 +1,23 @@
+
+['Tiger cub falls sick in Nandankanan Zoo\nBhubaneswar: A 10-month-old tiger cub has fallen critically ill in Nandankanan Zoo in Bhubaneswar on Thursday. Reportedly, the tiger cub, identified as Rocky, is being treated by a Nandankanan veterinarian under the guidance of OUAT expert Dr. Niranjan Sahu. He has been suffering from diarrhea and fever due to which she is being treated with saline and antibiotics, added reports. According to a blood test report, Rocky’s body was infected with the Canine parvovirus. Currently, he has been removed from enclosure No. 32 and shifted to a veterinary center for further treatment.']
+
+
+Tiger cub----SP.COMMON
+
+Nandankanan Zoo----LOC.EXACT
+
+Nandankanan Zoo----LOC.EXACT
+
+Bhubaneswar----LOC.CITY
+
+Thursday----DATE
+
+tiger cub----SP.COMMON
+
+Rocky----SUS.NAME
+
+Nandankanan veterinarian----AUTH.SEIZE
+
+OUAT expert----AUTH.SEIZE
+
+Dr. Niranjan Sahu----OFF.NAME

@@ -1,0 +1,13 @@
+
+['Video of a baby elephant cuddling with its keeper goes viral\nMan booked for rape of 12-year-old after video of injured girl surfaces on internet When this mom got a surprise gift, her reaction was \'gold\' | Watch Old image of a man with Pinocchio like long nose goes viral Video of a baby elephant cuddling with its keeper goes viral India oi-Deepika S New Delhi, Jun 27: If you are a regular social media user, you will definitely agree that elephant videos are a hit on the internet. But this video of baby elephant cuddling will take things to the next level. In the viral clip, a baby elephant can be seen cuddling with its keeper. The duo can be seen having a fun time together. The smile on the man\'s face and the baby elephant\'s gestures will surely make your day. The video posted by Buitengebieden Twitter handle on June 27 has over 1 million views and thousands of likes. "The truth is: we are not worthy. They are too cute and pure," wrote a Twitter user. "God, couldn\'t we all use an elephant hug today!," wrote another. "I absolutely love elephants more than I can say , great to see that this is going on or we\'d lose this magnificent animals for good ,these ppl do it for love , had I been younger this would have been my perfect job," Twitter user posted. So cute omggg 🥺 — яс🇩🇿 (@Yasowdz) June 26, 2022 For Breaking News and Instant Updates Allow Notifications Story first published: Monday, June 27, 2022, 15:51 [IST]']
+
+
+elephant----SP.COMMON
+
+Man----SUS.GENDER
+
+rape----CRIME.CAT
+
+12-year-old----SUS.AGE
+
+man----SUS.GENDER

@@ -1,0 +1,21 @@
+
+['Nagin dance with cobra: Marriage party members dance with deadly snake in Odisha #Watch\nIn a bizarre incident, a snake charmer along with others were found dancing with a deadly cobra during a marriage procession party at Karanjia area in Mayurbhanj district on Wednesday. As per reports, the snake charmer kept the deadly serpent in a bamboo made pot, hold it on his hand and started doing ‘Nagin dance’. Other members of the ‘Barat’ also joined the frenzy and danced to the tune of the popular Bollywood music. The ‘Baratis’ didn’t care for their and others lives and danced along with the snake charmer in an inebriated condition. Upon being informed, forest department officials of the nearest range rushed to the spot and rescued the snake. Five persons including the snake charmer have been detained and they are being questioned by the officials. Further investigation into the incident is underway. “It was a very dangerous act to dance with the highly poisonous snake in the public. Had the deadly snake slipped from the bamboo pot, lives of many people present in the procession would have been jeopardised,” said a forest official. “We request one and all not to irritate any wild animal like this and risk their lives,” he said. Notably, snakes are protected as wild animals in India under various schedules of the Wildlife Protection Act, 1972. Illegal hunting and possession of such protected snakes, their body parts and venom are punishable offenses under the Act. The severity of punishment depends on the location (inside a protected area / outside the protected area) of the offense and the species of snake involved.  (Edited by Rashmi Ranjan Mohanty)']
+
+
+Nagin----SP.SPECIFIC
+
+cobra----SP.COMMON
+
+snake----SP.COMMON
+
+Odisha----LOC.STATE
+
+Karanjia area----LOC.EXACT
+
+Mayurbhanj----LOC.DISTRICT
+
+Wednesday----DATE
+
+forest department officials----AUTH.SEIZE
+
+Five----null

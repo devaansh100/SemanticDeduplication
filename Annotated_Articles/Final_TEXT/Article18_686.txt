@@ -1,0 +1,11 @@
+
+['Watch: Man Held Bengal Tiger Like A Dog When Found On The Streets Of Mexico\nAnimals have always been close to humans. However, the prevalence of wild animals in human areas may shock us, however, it is quite natural for some others. Just like this tiger being spotted in the streets of Mexico. However, it was later understood that a person had kept the tiger as a pet. When an adult male Bengal Tiger was spotted wild on the streets of a residential area in Mexico, it inspired both alarm and interest. The tiger was seen roaming down a city sidewalk in a residential neighborhood in Tecuala, Nayarit, in a video that went popular on social media. From afar, the shocked locals can be seen watching. A toddler can be heard shouting “mommy” in the video before she orders him: “Keep your mouth shut! It isn’t going to harm you; it is on the other side.” Meanwhile, a person who is not seen warns the mother and child that the tiger is still a threat. At the conclusion of the video, a man, most likely the owner of the wild cat, appears with a length of rope and wraps it around the huge cat’s neck before leading it away. After watching the footage, many people were taken aback. Several people commented on this post. Some were astonished. However, others were really angry about the tiger being bound like that in ropes. One of the comments read, ‘Get this man arrested. It’s starving, so skinny! Looking for help. Help him! Tigers are not domestic animals. Not toys! Do something, someone, please !’ Another one commented, ‘Did that guy just walk up to and wrangle a tiger like a Pomeranian??’ Also Read: These Fan-Taken Photos Of NCT Haechan Prove Beauty Standards: See Pics']
+
+
+Man----SUS.GENDER
+
+Bengal----SP.SPECIFIC
+
+Tiger----SP.COMMON
+
+man----SUS.GENDER

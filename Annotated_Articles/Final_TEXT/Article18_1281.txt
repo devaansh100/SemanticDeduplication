@@ -1,0 +1,55 @@
+
+['Poachers plant explosives stuffed in dough, kill cow\nPraveen Kumar By Express News Service BENGALURU: Police have launched a hunt for wild boar poachers who planted crude bombs stuffed in dough, that led to the death of a cow when it tried to eat it. The poachers had scattered crude bombs to hunt down wild boars that are found in plenty on the outskirts of the city, off the Bengaluru-Kanakapura main road. The incident happened at Uyyamballi, off Kankapura Road, last Wednesday. The cow, which was grievously injured, was undergoing treatment at a veterinary hospital where it succumbed to the injuries on Sunday night. Sixty-year-old Shivanna, a resident of Uyyamballi, filed a complaint with Sathanur police against the unidentified wild boar poachers. This was the third such incident in the past year, however, no complaints were registered after the first two explosions. Shivanna told TNIE that the cow’s face was disfigured when the crude bomb exploded. “The accused had concealed the dough in grass and thrown it in the open fields. I had taken my cows to the field, and when the bomb exploded, the other cows ran helter-skelter. The cow was worth around Rs 70,000. It managed to survive for almost four days, but finally succumbed,” he said. This was the third such incident in the same area. “A cow belonging to a local mutt and a farmer’s cow died in similar crude bomb explosions. None of them filed a police complaint. After I filed a complaint, local police came to the spot and completed formalities. They also collected a sample of the crude bombs,” Shivanna added. It appears that the accused had planted a crude bomb made of gunpowder, in an attempt to catch wild boar for its meat and skin. “Most wild boar poachers come from neighbouring Tamil Nadu. The handiwork of locals cannot be ruled out either. Wild boars are in abundance as there are forests in the proximity of 2-3km,” said an officer who is part of investigations. BENGALURU: Police have launched a hunt for wild boar poachers who planted crude bombs stuffed in dough, that led to the death of a cow when it tried to eat it. The poachers had scattered crude bombs to hunt down wild boars that are found in plenty on the outskirts of the city, off the Bengaluru-Kanakapura main road. The incident happened at Uyyamballi, off Kankapura Road, last Wednesday. The cow, which was grievously injured, was undergoing treatment at a veterinary hospital where it succumbed to the injuries on Sunday night. Sixty-year-old Shivanna, a resident of Uyyamballi, filed a complaint with Sathanur police against the unidentified wild boar poachers. This was the third such incident in the past year, however, no complaints were registered after the first two explosions. Shivanna told TNIE that the cow’s face was disfigured when the crude bomb exploded. “The accused had concealed the dough in grass and thrown it in the open fields. I had taken my cows to the field, and when the bomb exploded, the other cows ran helter-skelter. The cow was worth around Rs 70,000. It managed to survive for almost four days, but finally succumbed,” he said. This was the third such incident in the same area. “A cow belonging to a local mutt and a farmer’s cow died in similar crude bomb explosions. None of them filed a police complaint. After I filed a complaint, local police came to the spot and completed formalities. They also collected a sample of the crude bombs,” Shivanna added. It appears that the accused had planted a crude bomb made of gunpowder, in an attempt to catch wild boar for its meat and skin. “Most wild boar poachers come from neighbouring Tamil Nadu. The handiwork of locals cannot be ruled out either. Wild boars are in abundance as there are forests in the proximity of 2-3km,” said an officer who is part of investigations.']
+
+
+Poachers----SUS.AFFIL
+
+kill----CRIME.CAT
+
+cow----SP.COMMON
+
+Police----AUTH.SEIZE
+
+wild boar poachers----SUS.AFFIL
+
+cow----SP.COMMON
+
+wild boars----SP.COMMON
+
+Uyyamballi----LOC.EXACT
+
+last Wednesday----DATE
+
+Sixty-year-old----SUS.AGE
+
+Shivanna----SUS.NAME
+
+Uyyamballi----SUS.LOC
+
+wild boar poachers----SUS.AFFIL
+
+Police----AUTH.SEIZE
+
+wild boar poachers----SUS.AFFIL
+
+cow----SP.COMMON
+
+wild boars----SP.COMMON
+
+Uyyamballi----LOC.EXACT
+
+last Wednesday----DATE
+
+-year-old----SUS.AGE
+
+Shivanna----SUS.NAME
+
+Uyyamballi----SUS.LOC
+
+filed a complaint with Sathanur police----OUTCOME
+
+wild boar poachers----SUS.AFFIL
+
+Rs 70,000----VALUE
+
+local police----AUTH.MISC

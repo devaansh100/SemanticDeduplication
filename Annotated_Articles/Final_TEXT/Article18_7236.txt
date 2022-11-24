@@ -1,0 +1,27 @@
+
+['Bhopal: It’s tiger not leopard sighted in Bhoj university campus\nBHOPAL (Madhya Pradesh): A CCTV footage of Bhoj Open University suggests that the wild animal spotted in the university campus on Saturday night was a tiger, not leopard. However, when a team of forest department officials visited the campus, it found pugmarks of tiger and leopard both. Earlier, words did the rounds in social media that it’s leopard that was spotted roaming in the campus. The team of forest officials has, now, started installation of trap cameras in and around university campus.Vice-chancellor of the university Prof Jayant Sonwalkar has alerted all the university employees about movement of the tiger and instructed them not to move out of their residences when it’s dark outside. “It’s the second time when leopard or tiger has been spotted outside my official residence”, said the VC Prof Sonwalkar.In-charge of crack team from forest department Pramod Malviya said he has inspected the pug marks very minutely. “The pug marks seems to come from WALMI institute side. The marks are not clear. At some places pug marks of leopard could be seen while at others tiger’s footprints are also present. It seems both the animals are present in the area,” said Malviya.Both these animals are capable enough to jump the six feet boundary wall and enter the campus, he added. DFO Bhopal, Alok Pathak said that installation of trap cameras have started on the campus. “We have advised the team to lit fire at strategic places in the area. Moreover, people have been advised to move in groups and not to venture out at late hours,” said Pathak. The Bhopal DFO said that the area was tiger territory. It seems that it was a new cub-probably female- that has moved away from the mother and trying to mark a new territory.']
+
+
+tiger----SP.COMMON
+
+leopard----SP.COMMON
+
+Bhoj university campus----LOC.EXACT
+
+Bhoj Open University----LOC.EXACT
+
+Saturday----DATE
+
+night----TIME
+
+tiger----SP.COMMON
+
+leopard----SP.COMMON
+
+forest department officials----AUTH.SEIZE
+
+tiger----SP.COMMON
+
+leopard----SP.COMMON
+
+leopard----SP.COMMON

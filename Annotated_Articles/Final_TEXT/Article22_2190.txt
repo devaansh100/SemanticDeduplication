@@ -1,0 +1,21 @@
+
+['Angry Dolphin Attacks Trainer Miami Seaquarium During Show Viral Video Clip\n  A video has been going viral on the internet that has taken everyone by surprise. The footage shows a horrifying incident in which a dolphin turned on its trainer and went on to thrash her in front of a gasping crowd at the Miami Seaquarium. The incident that stunned the people present at the scene got captured on the camera. As per reports, one of the dolphins, named Sundance, got rogues and got violent with the trainer. Check the complete details of the matter in the article below. Reports claim that a dolphin named Sundance suddenly went rogue and got violent with a trainer. When the incident happened, photographer Shannon Carpenter was present there with his family. Without wasting any second, the photographer recorded the horrifying incident on his camera. Shannon, then, shared the video clip on TikTok that has gone viral. It is rapidly being shared on social media and has been gaining a lot of attention from the netizens. In the video, the dolphin is seen lunging at the trainer swimming in the water while the latter was seen frantically swimming for the edge of the pool and hosting herself out. The video also shows two other performers. One performer on the surfboard was seen coming out of the pool with their surfboard. As the dolphin kept venting out his anger at the trainer, the people looked worried as they watched the incident taking place in front of them. Everyone took a breath of relief when the trainer finally swim to the dock. The trainer looked visibly shaken but alive. After the trainer reached the dock, she was taken away by the ambulance to an area hospital where she received treatment. Despite the incident being horrifying, the trainer has not gotten any injuries and she is reportedly doing well. The two performers also checked on the trainer and soon after that, she was transported to the hospital for a proper checkup. Park officials, in a statement, have said that the dolphin named Sundance became spooked after running into the trainer. The statement added that it was an uncomfortable interaction for both of them and the dolphin reacted by breaking away from the routine and striking the trainer. After the video surfaced online, debates about the dolphins’ captivity and then performing for the audience at facilities started. Keep following our site for more such trending news and updates around the world.']
+
+
+Angry Dolphin----SP.COMMON
+
+Attacks----CRIME.CAT
+
+Miami Seaquarium----LOC.EXACT
+
+dolphin----SP.COMMON
+
+Miami Seaquarium.----LOC.EXACT
+
+Sundance----SUS.NAME
+
+photographer----OFF.DESIG
+
+Shannon Carpenter----SUS.NAME
+
+TikTok that has gone viral. It is rapidly being shared on social media and has been gaining a lot of attention from the netizens. In the video, the dolphin is seen lunging at the trainer swimming in the water while the latter was seen frantically swimming for the edge of the pool and hosting herself out. The video also shows two other performers. One performer on the surfboard was seen coming out of the pool with their surfboard. As the dolphin kept venting out his anger at the trainer, the people looked worried as they watched the incident taking place in front of them. Everyone took a breath of relief when the trainer finally swim to the dock. The trainer looked visibly shaken but alive. After the trainer reached the dock, she was taken away by the ambulance to an area hospital where she received treatment. Despite the incident being horrifying, the trainer has not gotten any injuries and she is reportedly doing well. The two performers also checked on the trainer and soon after that, she was transported to the hospital for a proper checkup. Park officials, in a statement, have said that the dolphin named Sundance became spooked after running into the trainer. The statement added that it was an uncomfortable interaction for both of them and the dolphin reacted by breaking away from the routine and striking the trainer. After the video surfaced online, debates about the dolphins’ captivity and then performing for the audience at facilities started. Keep following our site for more such trending news and updates around the world.----DETECTION_METHOD

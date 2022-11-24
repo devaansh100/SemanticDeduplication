@@ -1,0 +1,29 @@
+
+["15-feet long python rescued in Guwahati’s Dharapur\nA 15-feet-long python, weighing 35 kg was rescued by the local residents in Dharapur in Assam's Guwahati. By Pallav Bora: A huge python, which strayed into human habitation in Dharapur, on the outskirts of Assam's capital Guwahati, was rescued by the local residents. PYTHON RESCUED The residents did not harm the wildlife but immediately informed the forest department, after spotting the 15-feet-long python, weighing 35 kg. However, they themselves captured the reptile before the arrival of the forest officials. While a crowd gathered to witness the huge snake, the residents later handed over the reptile to the forest officials on their arrival. Notably, pythons are regularly seen in and around the city, as they stray into human habitats in search of food due to the wide destruction of forests. READ MORE| Python rescued after swallowing large prey in UP"]
+
+
+15-feet long----QTY
+
+python----SP.COMMON
+
+rescued----CRIME.CAT
+
+15-feet-long----QTY
+
+python----SP.COMMON
+
+35 kg----QTY
+
+rescued----CRIME.CAT
+
+Dharapur----LOC.DISTRICT
+
+python----SP.COMMON
+
+Dharapur----LOC.CITY
+
+15-feet-long----QTY
+
+python----SP.COMMON
+
+35 kg----QTY

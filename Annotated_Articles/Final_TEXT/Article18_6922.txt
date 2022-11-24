@@ -1,0 +1,27 @@
+
+['Andhra officials mull underpass for vehicles after leopard killed on highway\nAndhra officials mull underpass for vehicles after leopard killed on highway The cub, which was aged around one to two years, seemed to have been crossing the road to drink water when it was hit by a vehicle, forest officials said. news Wildlife A leopard cub was killed in what appeared to be a hit-and-run accident on the Kadapa-Chittoor highway near Rayachoti in Andhra Pradesh. The incident happened around 3.30 am in the early hours of February 9, Tuesday, when the cub, which was aged around one to two years, was trying to cross the highway. Forest Department officials said that the cub was likely to have been crossing the road to drink water, as there is a pond on the opposite side of the road, near Guvvalacheruvu village. According to Rayachoti Forest Range Officer (FRO) Prasad, the cub appeared to have been unable to cross the metal divider on the highway as it was too high. “The divider was too tall so it was unable to cross it. Meanwhile, an unidentified vehicle came and hit the cub, killing it. Based on the marks on its body, it looks like it was a small vehicle. We are investigating the case and trying to identify the vehicle,” FRO Prasad said. The Forest Department will soon send a proposal to highway authorities to build an underpass as an alternative route for vehicles and to allow free movement of wildlife, as there is a danger of such accidents recurring in the future, Prasad said. He added that in the interim, some of the metal dividers could be removed to allow the animals to cross the highway easily. “A post mortem is also being done to find out if it was poisoned or poached for specific body parts. We found that all body parts are intact. We also examined if there were any attempts of hunting or poaching nearby but we found no indications of traps or anything like that,” Prasad said. According to Prasad, the leopard population has increased in the region in recent years due to minimal human interference. There is frequent animal movement on the Chittoor-Kadapa highway as animals often cross the road to drink water, he said, adding that tigers and leopards usually move actively at nighttime on the highway, which has forest areas on either side. Since the area where the accident happened comes just before a ghat road, the vehicles usually don’t travel at a high speed in the area, he said.']
+
+
+Andhra officials----SP.COMMON
+
+leopard----SP.COMMON
+
+leopard----SP.COMMON
+
+leopard----SP.COMMON
+
+killed----CRIME.CAT
+
+Kadapa-Chittoor highway near Rayachoti----LOC.EXACT
+
+Andhra Pradesh----LOC.STATE
+
+3.30 am----TIME
+
+February 9----DATE
+
+Tuesday----DATE
+
+cub----SP.COMMON
+
+investigating the case and trying to identify the vehicle----OUTCOME

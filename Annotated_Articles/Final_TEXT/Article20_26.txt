@@ -1,0 +1,49 @@
+
+['900 kg of sea cucumber seized\nTHOOTHUKUDI A total of 900 kg of sea cucumber worth ₹ 20 lakh was seized by a special police team at Thalamuthu Nagar here following a tip off, here on Saturday night. After receiving information about 500 kg of sea cucumber was stashed at a private godown in Thalamuthu Nagar, the special team, led by SI Raja Prabu, raided the area and found that a variety of sea cucumbers were stored and intended to be smuggled out of the country illegally. The police rounded up three members — S. Kannan, 43, from Thoothukudi and K. Sailandhar, 26, and a 15-year-old boy from Uttar Pradesh. An FIR has been registered by the forest department of the Gulf of Mannar Marine National Park.']
+
+
+900 kg----QTY
+
+sea cucumber----SP.COMMON
+
+seized----CRIME.CAT
+
+900 kg----QTY
+
+sea cucumber----SP.COMMON
+
+seized----CRIME.CAT
+
+Thalamuthu Nagar----LOC.EXACT
+
+tip off----DETECTION_METHOD
+
+Saturday----DATE
+
+night----TIME
+
+information----DETECTION_METHOD
+
+500 kg----QTY
+
+sea cucumber----SP.COMMON
+
+stashed at a private godown in Thalamuthu Nagar----CONCEALMENT_METHOD
+
+SI----OFF.DESIG
+
+Raja Prabu----OFF.NAME
+
+sea cucumbers----SP.COMMON
+
+S. Kannan----SUS.NAME
+
+43----SUS.AGE
+
+Thoothukudi----SUS.LOC
+
+K. Sailandhar----SUS.NAME
+
+26----SUS.AGE
+
+15-year-old----SUS.AGE

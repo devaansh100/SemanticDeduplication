@@ -1,0 +1,45 @@
+
+['UP: Bamboos shoved in mouth, leopard tortured to death in Bijnor\nUP: Bamboos shoved in mouth, leopard tortured to death in Bijnor BIJNOR: A leopard succumbed to brutal injuries inflicted by locals in Bijnor\'s Gangoda Jat village on Thursday.Bamboos were shoved inside the big cat\'s mouth, causing it to bleed profusely and the animal\'s legs were tied to keep it immobile while it was being thrashed for hours. Videos of the assault that went viral on social media have shocked people.The leopard was caught in a net surrounding the farm that it was beaten up in. When news reached forest officials, they rushed to the spot to rescue the animal but the big cat died within minutes.Multiple videos of the incident soon surfaced on social media and went viral a day after the incident. The forest department has initiated an inquiry to identify those visible in the video. A case was registered against farm owner Vipin Kumar for the death. Some "unidentified" men were also mentioned."The leopard\'s carcass was sent to Bareilly IVRI centre for a post-mortem on Thursday and the procedure was carried out on Friday. The report revealed internal injuries in the mouth and the head. The animal might have been attacked with a blunt object," said Bijnor\'s divisional forest officer Anil Kumar Patel.After the case was registered, hundreds of farmers gathered in front of the collectorate on Saturday and alleged that the farm owner had been "trapped" in a false case. Agitators protested and handed a memorandum to district magistrate Umesh Mishra.Meanwhile, in a fresh incident, another carcass of a three-year-old male leopard was found lying in a sugarcane field in Madaripur Kakrala village of Chandpur area on Saturday. "We have found another carcass in a separate village and are sending it to Bareilly IVRI centre for an autopsy to know the cause of death," said divisional forest officer Anil Patel.Man-animal conflict is common in Bijnor district. According to an estimate, 100 leopards live in the area. In the past five years, close to 30 cubs have been rescued during the time of sugarcane harvest, when the cats breed in farms and are directly in contact with humans.']
+
+
+UP----LOC.STATE
+
+Bamboos----SP.SPECIFIC
+
+leopard----SP.COMMON
+
+tortured to death----CRIME.CAT
+
+Bijnor----LOC.DISTRICT
+
+Bamboos----SP.SPECIFIC
+
+leopard----SP.COMMON
+
+Bijnor----LOC.DISTRICT
+
+leopard----SP.COMMON
+
+Bijnor's Gangoda Jat village----LOC.EXACT
+
+Thursday.Bamboos----DATE
+
+case was registered against farm owner----OUTCOME
+
+Vipin Kumar----SUS.NAME
+
+leopard----SP.COMMON
+
+carcass----ITEM
+
+sent to Bareilly IVRI centre----OUTCOME
+
+carcass----ITEM
+
+Saturday----DATE
+
+carcass----ITEM
+
+sending it to Bareilly IVRI centre----OUTCOME
+
+for an autopsy----OUTCOME

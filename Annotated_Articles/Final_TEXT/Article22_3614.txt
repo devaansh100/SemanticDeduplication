@@ -1,0 +1,27 @@
+
+["Kerala: Snake catcher Vava Suresh injured after cobra bite\nKerala famous snake catcher Vava Suresh in hospital after the cobra he went to rescue bit him KOTTAYAM: Snake catcher Vava Suresh sustained serious injuries after being bitten by a cobra in Kerala 's Kottayam on Monday.He was rushed to a private hospital where he was put on ventilator and was given anti-venom and was later shifted to the medical college hospital (MCH) for specialised treatment.According to doctors at the private hospital, the condition of Suresh, who is unconscious, was highly critical while leaving the hospital for MCH.Suresh had come to a house in Kurichy grama panchayat near Kottayam to catch the cobra. The residents of the house spotted a cobra among stones piled up near the cattle shed. He arrived here by 4:45pm. Many people turned up to witness Suresh catching the snake. He was bitten by the cobra on the thigh after he caught it and was trying to transfer it into the sack. The snake escaped from him and slithered back under the stones.Suresh followed the snake and caught it again and asked the local residents to take him to a hospital. Suresh became unconscious on his way to the hospital.Panchayat ward member Ponnamma Sathyan said that she had contacted forest officials after the cobra was sighted in the house premises.Cooperation minister VN Vasavan, who accompanied Suresh from the private hospital to MCH, said that the government will extend all support for Suresh’s treatment. Speaking to TOI from the hospital, Vasavan said that Suresh has been admitted in the critical care ICU and is being attended by a team of senior doctors. He said that Suresh’s heart functioning returned to normal but the blood flow to the brain has yet to become normal.This is not the first time Suresh is bitten by a snake. He has encountered similar incidents on numerous occasions earlier. He has been on the ventilator and in the ICU many times. In all, he has survived more than 300 venomous snake bites."]
+
+
+Kerala----LOC.STATE
+
+Snake catcher----SUS.AFFIL
+
+Vava Suresh----SUS.NAME
+
+cobra bite----CRIME.CAT
+
+Vava Suresh----SUS.NAME
+
+Snake catcher----SUS.AFFIL
+
+Vava Suresh----SUS.NAME
+
+cobra----SP.COMMON
+
+Kottayam----LOC.CITY
+
+Monday.He----DATE
+
+Kurichy grama panchayat near Kottayam----LOC.EXACT
+
+4:45pm.----TIME

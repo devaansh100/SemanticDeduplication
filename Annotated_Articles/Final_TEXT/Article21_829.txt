@@ -1,0 +1,51 @@
+
+['STF Rescues One Live Pangolin In Bargarh, One Wildlife Criminal Held\nBhubaneswar: The Special Task Force (STF) of the Odisha Crime Branch rescued a live pangolin with the arrest of one wildlife criminal during a raid in Bargarh on Wednesday. On the basis of reliable information about a deal of sale of live Pangolin by wildlife criminals, STF team with the help of Ghess Forest Range officials under Bargarh Forest Division conducted a raid near Jamapalli village under Sohela police limits yesterday. As a result, one accused person namely Makun alias Badal Baria of Jamapalli was apprehended. During the search, one live Pangolin and other incriminating materials were seized from his possession. Baria could not produce any valid authority in support of the possession of live Pangolin, for which he was detained and handed over to Bargarh forest officials for necessary legal action at their end. During the last one year, a special drive against wildlife criminals/poachers have been launched, STF has seized as many as 19 leopard skins, 10 elephant tusks, two deer skins, six live pangolins, and 15 kg pangolin scales and arrested 40 wildlife criminals.']
+
+
+STF----AUTH.SEIZE
+
+One----QTY
+
+Pangolin----SP.COMMON
+
+Bargarh----LOC.CITY
+
+One----SUS.NUMBER
+
+Special Task Force (STF)----AUTH.SEIZE
+
+a----QTY
+
+pangolin----SP.COMMON
+
+one----SUS.NUMBER
+
+raid----CRIME.CAT
+
+Bargarh----LOC.CITY
+
+Wednesday----DATE
+
+reliable information----DETECTION_METHOD
+
+Pangolin----SP.COMMON
+
+STF----AUTH.SEIZE
+
+Ghess Forest Range officials----AUTH.SEIZE
+
+near Jamapalli village----LOC.EXACT
+
+yesterday----DATE
+
+one----SUS.NUMBER
+
+Makun----SUS.NAME
+
+Badal Baria----SUS.NAME
+
+Jamapalli----SUS.LOC
+
+one----QTY
+
+Pangolin----SP.COMMON

@@ -1,0 +1,27 @@
+
+['Lion enters Gujarat village, two injured in attack\nThere are no immediate plans to rescue and take the wild animal back to the forest area, says of Junagadh wildlife circle.(Source: Mohendra Choudhary Zoological Park) Two people were injured in a lion attack after it entered the coastal Madhavpur village of Porbandar district Tuesday morning. Videos circulated on social media showed villagers running helter-skelter after the wild animal charged in their direction. The big cat was a sub-adult male aged around three-and-a-half years. Indicating that the crowd was out of control, Chief Conservator of Forests(CCF) of Junagadh wildlife circle Dushyant Vasavada said, “The villagers were excited by the presence of animals but since forest staff were unavailable on the spot, the crowd was out of control, leading to the injuries.” The injured were identified as Arjan Mavadiya (75) and Shyam Solanki (23), both resident of Madhavpur village. Madhavpur is around 50 km west of Babra Vidi, the nearest permanent habitat of lions in Junagadh district. “Madhavpur is not an established habitat of Asiatic lions but a couple of lions have been seen roaming in that area for the last few days. We believe, the lion seen near Osho Ashram on Tuesday morning is one of them. Our local staff is keeping a watch over the area and a rescue team from Sasan has also reached the spot. Presently, we are observing the animal. There are no immediate plans to rescue and take the wild animal back to forest area,” the CCF further said. Deputy conservator of forests (DCF) of Porbandar said that after straying into the village early in the morning, the lion had sought refuge in a thicket of gando baval (prosopis juliflora) lining limestone mines in the area. “A pair of male and female lions were seen near Madhavpur around a month ago as well. Just four days ago, our staff had spotted pug marks of lions on the sea coast. But this lion seems to be another one,” Rabari observed. Advertisement Asiatic lions are an endangered species. Its only wild population in the world is surviving in Gir forest and other protected areas spread across Junagadh, Gir Somnath, Amreli and Bhavnagar districts of Saurasthra region of Gujarat. Being territorial animals, a few lions have migrated out of protected forest areas as population of the top predators increased and have settled in revenue areas of these districts as well as thickets along the sea coast. The lion census conducted in 2015 had estimated the population of Asiatic lions to be 523. But forest officers claim that the number has already crossed 600 now and that more and more lions are moving out into the revenue area and newer territories.']
+
+
+Lion----SP.COMMON
+
+Gujarat village----LOC.EXACT
+
+two----SUS.NUMBER
+
+Two----SUS.NUMBER
+
+Tuesday----DATE
+
+morning----TIME
+
+Arjan Mavadiya----SUS.NAME
+
+75----SUS.AGE
+
+Shyam Solanki----SUS.NAME
+
+23----SUS.AGE
+
+Madhavpur village----SUS.LOC
+
+Tuesday----DATE

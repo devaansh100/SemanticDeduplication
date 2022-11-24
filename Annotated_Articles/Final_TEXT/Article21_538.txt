@@ -1,0 +1,39 @@
+
+["Police find pangolin on Noida street, hands it over to forest department\nPoaching of pangolin for illegal international trade has led it to be on the verge of extinction. (Photo: India Today/Sunil Bhat) Noida Police on Saturday handed over a pangolin to the forest department. The animal, which was found roaming on the street, was rescued by police of the Noida Phase 3 police station. The Indian pangolin is a solitary, shy and slow-moving mammal. It is protected under Schedule I of Wildlife (Protection) Act, 1972. The animal, which is also listed under the Appendix I of the International Convention of Trade in Endangered Species (CITES), is rarely seen nowadays. The pangolin that was found in Noida. (Photo: India Today/Sunil Bhat) Supposedly, pangolin scales and meats have high demand in countries like China and Vietnam. Thus, poaching of the animal for illegal international trade has led it to be on the verge of extinction. An average-sized pangolin is sold for anything between Rs 2-3 crore. The Noida Phase 3 police on Saturday saved the animal from getting into the wrong hands and gave its responsibility to the forest department. Meanwhile, pangolin scales weighing 14.2 kg were confiscated in Odisha's Dhenkanal district earlier this week by a joint team of the forest and Wildlife Crime Control Bureau (WCCB). Reportedly, it was Odisha's largest ever pangolin scales seizure. ALSO READ: Chhattisgarh: Two held for trying to sell pangolin in Mahasamund ALSO READ: World Pangolin Day: 10 facts about the endangered anteater"]
+
+
+Police----AUTH.SEIZE
+
+pangolin----SP.COMMON
+
+Noida street----LOC.EXACT
+
+forest department----AUTH.SEIZE
+
+Noida Police----AUTH.SEIZE
+
+Saturday----DATE
+
+a----QTY
+
+pangolin----SP.COMMON
+
+Rs 2-3 crore----VALUE
+
+pangolin----SP.COMMON
+
+scales----ITEM
+
+14.2 kg----QTY
+
+Dhenkanal----LOC.DISTRICT
+
+forest and----AUTH.SEIZE
+
+Wildlife Crime Control Bureau----AUTH.SEIZE
+
+WCCB----AUTH.SEIZE
+
+Two----SUS.NUMBER
+
+pangolin----SP.COMMON

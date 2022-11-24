@@ -1,0 +1,27 @@
+
+["Jabalpur: Leopard found dead, electrocution suspected\nJabalpur (Madhya Pradesh): A leopard was allegedly killed by electrocution in Jabalpur, a forest official said on Tuesday. The feline’s carcass was found in Sihara Indrana forest range of the district, the official added. Kaluram Patel, a forest official, said that some villagers had spotted the carcass and alerted forest officials. “A team was sent to the spot and the body was taken to Veterinary University in Jabalpur for autopsy,” he added. Patel, however, said that the exact cause of the feline's death would be established only after a post mortem report. Another forest official said that preliminary investigation suggests that the animal died because of electrocution."]
+
+
+Leopard----SP.COMMON
+
+found dead----CRIME.CAT
+
+electrocution----CRIME.CAT
+
+Jabalpur----LOC.DISTRICT
+
+Madhya Pradesh----LOC.STATE
+
+leopard----SP.COMMON
+
+electrocution----CRIME.CAT
+
+Jabalpur----LOC.DISTRICT
+
+carcass----ITEM
+
+Sihara Indrana forest range----LOC.EXACT
+
+Veterinary University in Jabalpur----AUTH.MISC
+
+electrocution----CRIME.CAT

@@ -1,0 +1,55 @@
+
+['Three arrested for poaching wild boar using country bombs near Coimbatore\nForest Department officials on Thursday arrested three persons on charges of poaching a wild boar using a country bomb in Periyanaickenpalayam forest range near Coimbatore. Based on a tip-off, K. Marimuthu, 62, M. Arumugam, 49 and A. Balamurugan, 42 were secured by the forest officials on Wednesday in Kattanjikaradu, an area belonging to the Revenue Department within the Periyanaickenpalayam forest range. Wild boar meat weighing seven kg and six country bombs also known as avittukais were seized from the accused, officials said. The accused were produced before the VIIIth Judicial Magistrate in Mettupalayam and were remanded to judicial custody on Thursday, according to the forest officials. Periyanaickenpalayam Forest Range Officer S. Suresh said that Forest Department personnel across Coimbatore Forest Division are being vigilant to prevent wildlife offences as per the instructions of District Forest Officer D. Venkatesh. “We will continue to maintain a strict vigil,” Mr. Suresh said.']
+
+
+Three----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+poaching----CRIME.CAT
+
+wild boar----SP.COMMON
+
+country bombs----ITEM
+
+Forest Department----AUTH.SEIZE
+
+Thursday----DATE
+
+arrested----CRIME.CAT
+
+three----SUS.NUMBER
+
+wild boar----SP.COMMON
+
+tip-off----DETECTION_METHOD
+
+K. Marimuthu----SUS.NAME
+
+62----SUS.AGE
+
+M. Arumugam----SUS.NAME
+
+49----SUS.AGE
+
+A. Balamurugan----SUS.NAME
+
+42----SUS.AGE
+
+forest officials----AUTH.SEIZE
+
+Wednesday----DATE
+
+Wild boar----SP.COMMON
+
+meat----ITEM
+
+seven kg----QTY
+
+six----QTY
+
+country bombs----ITEM
+
+avittukais----ITEM
+
+District Forest Officer----AUTH.SEIZE

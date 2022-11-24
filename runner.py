@@ -4,10 +4,10 @@ import torch.optim as optim
 import os
 
 class Runner:
-	def __init__(self, train_dl, test_dl, loss_fn):
+	def __init__(self, train_dl, test_dl, files = None):
 		self.train_dl = train_dl
 		self.test_dl = test_dl
-		self.loss_fn = loss_fn
+		self.files = None
 
 	def save_model(self, model, name, epoch):
 		checkpoint = {
@@ -31,8 +31,7 @@ class Runner:
 		train_loss = 0.0
 		pbar = tqdm(self.train_dl, desc = f'Train Epoch: {epoch}')
 		for i, batch in enumerate(pbar):
-			for key in batch:
-				batch[key] = batch[key].cuda()
+			batch = self.send_to_cuda(batch)
 			self.optimizer.zero_grad()
 			output = model(**batch)
 			loss = output[0]
@@ -46,30 +45,29 @@ class Runner:
 			self.best_train_loss = loss
 			self.save_model(model, f'{params.model_name}/model_best_loss.pth', epoch)
 
+	def send_to_cuda(self, batch):
+		for key in batch:
+			batch[key] = batch[key].cuda()
+		return batch
 
-	def test_similarity(self, model, params, epoch):
+	def test(self, model, params, epoch):
 		model.eval()
-		for i, batch in enumerate(tqdm(self.test_dl, desc = f'Similarity Epoch {epoch}')):
-			for key in batch:
-				batch[key] = batch[key].cuda()
-			output = model.forward_similarity(**batch)
-			for article_1, article_2, score in zip(batch['article_1_ids'], batch['article_2_ids'], output):
-				print(f'\nArticle 1: {model.tokenizer.decode(article_1, skip_special_tokens=True, clean_up_tokenization_spaces=True)}')
-				print(f'Article 2: {model.tokenizer.decode(article_2, skip_special_tokens=True, clean_up_tokenization_spaces=True)}')
-				print(f'Similarity: {score}\n')
-
-	def test_generation(self, model, params, epoch):
-		model.eval()
-		for i, batch in enumerate(tqdm(self.train_dl, desc = f'Generation Epoch {epoch}', total = 1)):
-			for key in batch:
-				batch[key] = batch[key].cuda()
+		self.articles_gen = []
+		self.train_dl.shuffle = False
+		for i, batch in enumerate(tqdm(self.train_dl, desc = f'Generation Epoch {epoch}', total = 1)): # Generates the positive articels from the entities
+			batch = self.send_to_cuda(batch)
 			output = model(**batch, mode = 'generate')
 			preds = model.tokenizer.batch_decode(output, skip_special_tokens=True, clean_up_tokenization_spaces=True)
 			target = model.tokenizer.batch_decode(batch['target_ids'], skip_special_tokens=True, clean_up_tokenization_spaces=True)
-			for pred, target in zip(preds, target):
-				print(f'\nGenerated Article: {pred}')
-				print(f'Target Article: {target}\n')
-			break
+			self.articles_gen.extend(preds)
+			# for pred, target in zip(preds, target):
+			# 	print(f'\nGenerated Article: {pred}')
+			# 	print(f'Target Article: {target}\n')
+
+		os.makedirs(f'{params.data_dir}/Final_POS', exist_ok = True)
+		for i, article in enumerate(articles_gen):
+			with open(f'{params.data_dir}/Final_POS/{self.files[i]}') as f:
+				f.write(article)
 
 	def train(self, model, params):
 		os.environ["TOKENIZERS_PARALLELISM"] = "false"
@@ -83,21 +81,57 @@ class Runner:
 		if params.load_model:
 			last_epoch = self.load_model(model, params, load_opt = not params.test)
 			last_batch = (last_epoch - 1) * steps_per_epoch
-
-		if params.test:
-			self.test_similarity(model, params, last_epoch)
-			return
 		
 		self.cycle_scheduler = optim.lr_scheduler.OneCycleLR(optimizer = self.optimizer, max_lr = params.lr, 
 			epochs = params.epochs, steps_per_epoch = steps_per_epoch, div_factor = 10, final_div_factor = 1e4, 
 			last_epoch = last_batch, pct_start  =  0.2, anneal_strategy = 'linear')
+
+		if params.test:
+			self.test(model, params, last_epoch)
+			return 0
 		
-		print('Zero-Shot testing of article similarity with pretrained T5 weights')
-		self.test_similarity(model, params, 0)
-		print('Zero-Shot testing of article generation with pretrained T5 weights')
-		self.test_generation(model, params, 0)
+		# print('Zero-Shot testing of article similarity with pretrained T5 weights')
+		# self.test_similarity(model, params, 0)
+		# print('Zero-Shot testing of article generation with pretrained T5 weights')
+		# self.test_generation(model, params, 0)
+		# for epoch in range(params.epochs):
+		# 	self.fit_one_epoch(model, params, epoch + 1)
+		# 	self.test_similarity(model, params, epoch + 1)
+		# 	self.test_generation(model, params, epoch + 1)
+
+class RunnerContrastive(Runner):
+	def __init__(self, train_dl, test_dl):
+		super().__init__(train_dl, test_dl)
+
+	def send_to_cuda(self, batch):
+		for loss_set in batch:
+			for key in loss_set:
+				batch[loss_set][key] = batch[loss_set][key].cuda()
+		return batch
+
+	def test(self, model, params, epoch):
+		model.eval()
+		for i, batch in enumerate(tqdm(self.test_dl, desc = f'Epoch {epoch}')):
+			batch = self.send_to_cuda(batch)
+			output = model.forward(**batch)
+			for article_1, article_2, score in zip(batch['anchor_encoded']['input_ids'], batch['positives_encoded']['input_ids'], output):
+				print(f'\nArticle 1: {model.tokenizer.decode(article_1, skip_special_tokens=True, clean_up_tokenization_spaces=True)}')
+				print(f'Article 2: {model.tokenizer.decode(article_2, skip_special_tokens=True, clean_up_tokenization_spaces=True)}')
+				print(f'Similarity: {score}\n')
+
+	def train(self, model, params):
+		ret_val = super().train(model, params)
+		if ret_val == 0:
+			return
+
+		self.test(model, params, 0)
 		for epoch in range(params.epochs):
 			self.fit_one_epoch(model, params, epoch + 1)
-			self.test_similarity(model, params, epoch + 1)
-			self.test_generation(model, params, epoch + 1)
+			self.test(model, params, epoch + 1)
+
+
+
+
+
+
 

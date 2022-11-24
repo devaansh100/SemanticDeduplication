@@ -1,0 +1,69 @@
+
+['Bad News: There Are Kangaroos in West Bengal Forests – The Wire Science\nA kangaroo somewhere in Tasmania. Photo: Fidel Fernando/Unsplash Forest officials rescued three kangaroos from forests in Jalpaiguri, West Bengal, on April 1 and 2. Locals also found the carcass of another one nearby. The rescued kangaroos were injured, and a probe is on to find out more details, a forest official said. Exotic species might harbour diseases against which local animals and birds may not have evolved defences. Kochi: On April 1, forest officials in West Bengal’s Jalpaiguri district were in for a shock. They ran into two kangaroos while patrolling forests near Gajoldoba, a popular tourist destination in the district. In a bizarre turn of events, officials rescued a third kangaroo from Farabari, around 40 km away, on the same day. Locals also came across a dead kangaroo on April 2. India is a species-rich country but not in terms of kangaroos. These large mammals are found only in Australia and New Guinea. And while hopping is particularly energy-efficient and helps kangaroos cover great distances to find food, they can’t really hop across continents. According to media reports, traffickers are likely to have smuggled the animals into India and abandoned them in the forest. A state government probe is on to find out more, according to a local forest official. There are increasing incidents of exotic animals being smuggled into India, wildlife trafficking experts added. Kangaroos of Bengal The news of kangaroos in Jalpaiguri district forests came to light when local residents spotted them, according to The Indian Express. Videos of kangaroos hopping on roads besides cars soon began circulating on social media. Got this on WhatsApp. It looks like fled away from Zoo…anyone know the reality@IndiAves @ParveenKaswan pic.twitter.com/4WWWYwPVVQ — Sudhakar Kumar (@MyPicsSpeaks) April 2, 2022 The three kangaroos forest officials rescued from near Gajoldoba and Farabari, in Dabgram forest range, in Jalpaiguri were sub-adults, West Bengal chief wildlife warden Debal Roy told Hindustan Times. They are in “very poor health” and have been sent to the state-run North Bengal Wild Animal Park for treatment. Range officer S. Dutta of the Belakoba Forest Range in Jalpaiguri district also told ANI that a team has been formed to probe the matter. This is not the first time forest officials in West Bengal have stumbled across kangaroos in their forests. In March, police officials reportedly rescued one from Alipurduar district in north Bengal, when smugglers were transporting it in a goods vehicle. The police arrested two persons from Hyderabad. Demand for exotic animals The animals are being trafficked because they are in demand in the illegal pet industry, Jose Louies, the joint director of the Wildlife Trust of India’s Wildlife Crime Control Division, said. “India is becoming a global destination of exotic pets,” he told The Wire Science. “The north eastern border is the most preferred route for smuggling.” One year ago, the Union environment ministry offered amnesty to Indians holding undocumented exotic animals. More than 32,000 private individuals in India, from 25 states and five Union territories, said they possessed such animals. Parrots, cockatiels, macaws and lovebirds are some of the more sought-after exotic species – as well as lemurs and rhinoceros iguanas. The most disclosures were made by people in West Bengal (9,764), followed by people from Kerala (8,460), Tamil Nadu (4,213) and Maharashtra (2,623). An exotic species being released into a new country, even by accident, is bad news. These are lifeforms not adapted to living in the new environs, and vice versa. They might harbour diseases against which local animals and birds may not have evolved defences, for example. Louies also said many exotic species – especially reptiles – can start invading ecosystems and destabilise them. For example, the alligator gar is a predatory fish native to North America’s freshwater lakes. Gar are popular aquarium and ornamental fish. Scientists recorded the species in rivers and waterbodies in Kerala after the 2018 floods. The fish was a ‘fugitive’ that possibly escaped from aquaculture facilities during the floods, the scientists wrote, and there was a high chance they could multiply rapidly in Kerala’s freshwater habitats. In fact, a woman in West Bengal snared an alligator gar in the Hooghly river in October 2021. So exotic animals being smuggled into India is alarming, Louies said. However, there aren’t specific policies in India to address this issue, although it is part of several biodiversity laws and regulations, Smrithy Raj, who is studying alien species at the University of Kerala, told Mongabay-India in 2021. The ‘National Biodiversity Strategy and Action Plan’ of 2014 also makes several suggestions to manage invasive alien species. But they haven’t been put into practice and there is no national or institutional mechanism to ensure this, Raj added.']
+
+
+Kangaroos----SP.COMMON
+
+kangaroo----SP.COMMON
+
+three----QTY
+
+kangaroos----SP.COMMON
+
+Jalpaiguri----LOC.DISTRICT
+
+West Bengal----LOC.STATE
+
+April 1----DATE
+
+carcass----ITEM
+
+April 1----DATE
+
+forest officials----AUTH.SEIZE
+
+West Bengal’s----LOC.STATE
+
+Jalpaiguri----LOC.DISTRICT
+
+kangaroos----SP.COMMON
+
+kangaroo----SP.COMMON
+
+Farabari----LOC.EXACT
+
+kangaroo----SP.COMMON
+
+April 2----DATE
+
+Kangaroos----SP.COMMON
+
+Bengal----LOC.STATE
+
+kangaroos----SP.COMMON
+
+Jalpaiguri district forests----LOC.EXACT
+
+three----QTY
+
+kangaroos----SP.COMMON
+
+rescued----CRIME.CAT
+
+Gajoldoba and Farabari----LOC.EXACT
+
+Jalpaiguri----LOC.DISTRICT
+
+sub-adults----SUS.GENDER
+
+Range officer----OFF.DESIG
+
+S. Dutta----OFF.NAME
+
+Belakoba Forest Range----AUTH.SEIZE
+
+arrested----CRIME.CAT
+
+two----SUS.NUMBER
+
+Hyderabad----LOC.CITY

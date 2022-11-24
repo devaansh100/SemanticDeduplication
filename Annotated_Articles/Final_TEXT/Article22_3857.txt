@@ -1,0 +1,39 @@
+
+['Navi Mumbai: 30 dogs, pups fatally poisoned in Revdanda, Kashid tourist spots\nNAVI MUMBAI: As many as 30 dogs and puppies have been poisoned to death at tourist hotspots Revdanda in Alibag and from Nandgaon to Kashid villages having beach fronts under Murud taluka, Raigad district.An FIR has been lodged with the Murud police station on Saturday which involves death of five local puppies at one of the sites. It is suspected that a powerful pesticide was used to kill them. The sample has been sent to the forensic lab in Kalina, Mumbai.“After hearing the horn of my Hero Honda motorcycle, the dogs and puppies used to gather at feeding spots in Kashid. However, on Saturday none of the six puppies and their mother turned up at a sea facing dargah. I found the pups lying died in a bush while a weaker sibling is alive nearby. Their mother is missing. I lodged a police complaint with Murud police,” said Swapnil Sangle (32), a resident of Sarve, Kashid.“Several dog deaths were also reported from Revdanda to Kashid areas recently. Now the issue has been taken up seriously through lodging police complaint,” said Shashikanth Purohit, an Ahimsa Fellow and also volunteer for PETA.“All the five dead puppies have black (burn) signs in their lungs during post-mortem. Samples of kidney, lung, intestinal cord, heart and pancreas have been taken for testing at forensic lab, Mumbai,” said Dr Vinayak Pawar, livestock supervisor.“The burning signs are indication of brutal killing using phorate chemical. As many as 30 dogs have been poisoned to death in the last two months between Revdanda and Kashid,” alleged an animal activist of Kashid.“A local animal activist not only feeds stray dogs but has also sterilized over 300 dogs in the absence of a government program for animal birth control (ABC) measures,” said Santosh Rane, a Kashid grampanchayat member.“An FIR has been lodged against unknown person for killing animals by mischief (IPC section 428). Reasons of death is unknown but locals will be questioned,” said Nitin Gaware, police inspector at Murud.']
+
+
+30----QTY
+
+dogs----SP.COMMON
+
+pups----SP.COMMON
+
+fatally poisoned----CRIME.CAT
+
+Revdanda----LOC.EXACT
+
+Kashid tourist spots----LOC.EXACT
+
+30----QTY
+
+dogs----SP.COMMON
+
+puppies----SP.COMMON
+
+poisoned to death----CRIME.CAT
+
+Revdanda----LOC.EXACT
+
+Nandgaon----LOC.EXACT
+
+Kashid villages----LOC.EXACT
+
+Raigad----LOC.DISTRICT
+
+32----SUS.AGE
+
+Sarve----SUS.LOC
+
+Samples of kidney, lung, intestinal cord, heart and pancreas have been taken for testing at forensic lab, Mumbai----OUTCOME
+
+FIR has been lodged----OUTCOME

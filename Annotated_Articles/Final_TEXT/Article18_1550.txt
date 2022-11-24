@@ -1,0 +1,55 @@
+
+['Madhya Pradesh: Bear mauls couple to death, eats their body parts for four hours\nRepresentational Image Photo : iStock Bhopal: A bear mauled a couple to death and then kept eating their body parts for more than four hours in the Panna district of : A bear mauled a couple to death and then kept eating their body parts for more than four hours in the Panna district of Madhya Pradesh on Sunday morning. The couple identified as Mukesh Rai (43) and Gudiya (39) from the Raniganj area, died trying to save each other from the bear, said reports. It may be noted that bear attacks on humans, where the animal feeds on the victim are very rare. As per reports, the couple—Mukesh and Gudiya were returning from Khermai temple, situated some one-and-half kilometres from the district headquarters at around 6.30 am on Sunday when their paths crossed with a bear, less than 1 km from their house. Though the couple confronted the bear together to save each other, they were ripped to pieces by the animal. Eyewitnesses told police that the bear tore apart their body parts, and dragged them to a nullah where it fed on them for four hours. Though the locals tried to chase away the animal while it was eating the body parts, it went in vain. The bear was caught after five hours only after the officials of the forest department reached the spot after receiving information and managed to tranquilize the sloth bear , the official said. Related News Madhya Pradesh: Six deer found dead under mysterious circumstances Forest officers said that the rescued sloth would be shifted to a zoo. Meanwhile, the officials have assured financial assistance of Rs 4 lakh to the dependents of the couple. Following the incident, locals also staged a protest demanding jobs for the members of the family.']
+
+
+Madhya Pradesh----LOC.STATE
+
+Bear----SP.COMMON
+
+mauls----CRIME.CAT
+
+couple----SUS.NUMBER
+
+bear----SP.COMMON
+
+couple----SUS.NUMBER
+
+Panna district----LOC.DISTRICT
+
+bear----SP.COMMON
+
+couple----SUS.NUMBER
+
+Panna district----LOC.DISTRICT
+
+Madhya Pradesh----LOC.STATE
+
+Sunday----DATE
+
+morning----TIME
+
+Mukesh Rai----SUS.NAME
+
+43----SUS.AGE
+
+Gudiya----SUS.NAME
+
+39----SUS.AGE
+
+Raniganj area----SUS.LOC
+
+Mukesh----SUS.NAME
+
+Gudiya----SUS.NAME
+
+6.30 am----TIME
+
+Sunday----DATE
+
+bear----SP.COMMON
+
+forest department----AUTH.SEIZE
+
+Six----QTY
+
+deer----SP.COMMON

@@ -1,0 +1,43 @@
+
+["Maharashtra: Inspired by Pushpa movie, man tries to smuggle red sandalwood in filmy style, arrested\nThe accused Yaseen tried the same trick by loading the truck with red sandalwood and placed fruits and vegetable boxes on top of that. (Photo Credit: People) Key Highlights The accused was allegedly smuggling sandalwood when he was on his way to Maharashtra from Karnataka-Andhra border The accused also pasted a sticker of COVID-19 essential products on his truck. Maharashtra: Inspired by Telgu movie 'Pushpa', a man allegedly tried to smuggle red sandalwood in the filmy style. However, his luck ran out and he was arrested by police in Maharashtra. The accused, who is a driver, was so much inspired by the movie that he tried to replicate the trick and smuggled red sandalwood in his truck. The accused has been identified as Yaseen Inayatullah. The accused was allegedly smuggling sandalwood when he was on his way to Maharashtra from Karnataka-Andhra border, according to a report in Republic World online. The accused was nabbed when he crossed the border and entered Gandhi Chowk area at Meeraj Nagar in Sangli district of Maharashtra. Police have seized red sandalwood worth Rs 2.45 cr from the truck of the accused. The accused did not face any trouble in Andhra Pradesh and easily crossed the Maharashtra border where he was arrested by police. In Pushpa movie, actor Allu Arjun played the role of a sandalwood smuggler by loading the truck with sandalwood and later milk. The accused Yaseen tried the same trick by loading the truck with red sandalwood and placed fruits and vegetable boxes on top of that. He also pasted a sticker of COVID-19 essential products on his truck. The songs and dialogues of Allu Arjun starrer movie have become a rage across the country with people posting videos and memes based on the movie."]
+
+
+smuggle----CRIME.CAT
+
+red sandalwood----SP.COMMON
+
+arrested----CRIME.CAT
+
+Yaseen----SUS.NAME
+
+sandalwood----SP.COMMON
+
+fruits and vegetable boxes----CONCEALMENT_METHOD
+
+sandalwood----SP.SPECIFIC
+
+Karnataka-Andhra border----ROUTE.SRC
+
+red sandalwood----SP.COMMON
+
+red sandalwood----SP.COMMON
+
+truck----TRANSPORT_MODE
+
+Yaseen Inayatullah.----SUS.NAME
+
+sandalwood----SP.SPECIFIC
+
+Karnataka-Andhra border----ROUTE.SRC
+
+seized----CRIME.CAT
+
+red sandalwood----SP.COMMON
+
+Rs 2.45 cr----VALUE
+
+truck----TRANSPORT_MODE
+
+sandalwood----SP.SPECIFIC
+
+Yaseen----SUS.NAME

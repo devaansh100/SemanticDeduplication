@@ -1,0 +1,41 @@
+
+["Indian Coast Guard seizes 500 kg sea cucumber\nRameswaram (Tamil Nadu) [India], October 24 (ANI): The Indian Coast Guard (ICG) on Sunday seized 500 kg of sea cucumber in Tamil Nadu's Mandapam.  According to the ICG, working in a tip-off about illegal transhipment of sea cucumber, a banned marine species, in the wee hours of Sunday, the ICG team swung into action and tracked the suspected boat involved in the alleged smuggling. The seized boat is unregistered. The Wildlife case has been registered and the judicial remand process is under process. Sea cucumber in India is treated as an endangered species listed under schedule I of the Wildlife Protection Act of 1972. It is primarily smuggled from Tamil Nadu to Sri Lanka in fishing vessels from Ramanathapuram and Tuticorin districts. (ANI) "]
+
+
+Indian Coast Guard----AUTH.SEIZE
+
+seizes----CRIME.CAT
+
+500 kg----QTY
+
+sea cucumber----SP.COMMON
+
+Tamil Nadu----LOC.STATE
+
+Indian Coast Guard----AUTH.SEIZE
+
+ICG----AUTH.SEIZE
+
+Sunday----DATE
+
+seized----CRIME.CAT
+
+500 kg----QTY
+
+sea cucumber----SP.COMMON
+
+Tamil Nadu's----LOC.STATE
+
+Mandapam----LOC.DISTRICT
+
+tip-off----DETECTION_METHOD
+
+illegal transhipment----CRIME.CAT
+
+sea cucumber----SP.COMMON
+
+wee hours----TIME
+
+Sunday----DATE
+
+ICG----AUTH.SEIZE

@@ -1,0 +1,114 @@
+{"_context" : {
+    "_types" : {
+      "DocumentMetaData" : {
+        "_feature_types" : {"sofa" : "_ref" } }, 
+      "FeatureDefinition" : {
+        "_feature_types" : {"layer" : "_ref" } }, 
+      "LayerDefinition" : { }, 
+      "NamedEntity" : {
+        "_feature_types" : {"sofa" : "_ref" } }, 
+      "Relation" : {
+        "_feature_types" : {"sofa" : "_ref",  "Dependent" : "_ref",  "Governor" : "_ref" } }, 
+      "Sentence" : {
+        "_feature_types" : {"sofa" : "_ref" } }, 
+      "Sofa" : {
+        "_feature_types" : {"sofaArray" : "_ref" } }, 
+      "TagsetDescription" : {
+        "_feature_types" : {"sofa" : "_ref",  "tags" : "_ref" } }, 
+      "Token" : {
+        "_feature_types" : {"sofa" : "_ref",  "parent" : "_ref",  "lemma" : "_ref",  "stem" : "_ref",  "pos" : "_ref",  "morph" : "_ref",  "form" : "_ref" } }, 
+      "DocumentAnnotation" : {
+        "_feature_types" : {"sofa" : "_ref" }, 
+        "_subtypes" : ["DocumentMetaData" ] }, 
+      "Annotation" : {
+        "_feature_types" : {"sofa" : "_ref" }, 
+        "_subtypes" : ["DocumentAnnotation",  "NamedEntity",  "Relation",  "Sentence",  "TagsetDescription",  "Token" ] }, 
+      "AnnotationBase" : {
+        "_feature_types" : {"sofa" : "_ref" }, 
+        "_subtypes" : ["Annotation" ] }, 
+      "TOP" : {
+        "_subtypes" : ["AnnotationBase",  "FeatureDefinition",  "LayerDefinition",  "Sofa" ] } } }, 
+  "_views" : {
+    "_InitialView" : {
+      "FeatureDefinition" : [
+        {"layer" : 1141,  "name" : "referenceRelation",  "uiName" : "referenceRelation" }, 
+        {"layer" : 1141,  "name" : "referenceType",  "uiName" : "referenceType" }, 
+        {"layer" : 1152,  "name" : "value",  "uiName" : "Features" }, 
+        {"layer" : 1159,  "name" : "PosValue",  "uiName" : "XPOS" }, 
+        {"layer" : 1159,  "name" : "coarseValue",  "uiName" : "UPOS" }, 
+        {"layer" : 1170,  "name" : "identifier",  "uiName" : "identifier" }, 
+        {"layer" : 1170,  "name" : "value",  "uiName" : "value" }, 
+        {"layer" : 1181,  "name" : "value",  "uiName" : "Lemma" }, 
+        {"layer" : 1188,  "name" : "value",  "uiName" : "Form" }, 
+        {"layer" : 1195,  "name" : "arguments",  "uiName" : "arguments" }, 
+        {"layer" : 1195,  "name" : "category",  "uiName" : "category" }, 
+        {"layer" : 1206,  "name" : "chunkValue",  "uiName" : "Tag" }, 
+        {"layer" : 1213,  "name" : "DependencyType",  "uiName" : "Relation" }, 
+        {"layer" : 1213,  "name" : "flavor",  "uiName" : "Flavor" }, 
+        {"layer" : 1224,  "name" : "operation",  "uiName" : "Operation" }, 
+        {"layer" : 1224,  "name" : "value",  "uiName" : "Correction" }, 
+        {"layer" : 1235,  "name" : "RelationType",  "uiName" : "RelationType" } ], 
+      "LayerDefinition" : [1141,  1152,  1159,  1170,  1181,  1188,  1195,  1206,  1213,  1224,  1235 ], 
+      "DocumentMetaData" : [
+        {"sofa" : 1,  "end" : 169,  "language" : "x-unspecified",  "documentTitle" : "Article_1098.txt",  "documentId" : "admin",  "documentUri" : "file:/C:/Users/Vandana/.inception/repository/project/12/document/818/source/admin",  "collectionId" : "file:/C:/Users/Vandana/.inception/repository/project/12/document/818/source/",  "documentBaseUri" : "file:/C:/Users/Vandana/.inception/repository/project/12/document/818/source/",  "isLastSegment" : false } ], 
+      "TagsetDescription" : [
+        {"sofa" : 1,  "layer" : "de.tudarmstadt.ukp.dkpro.core.api.syntax.type.dependency.Dependency",  "name" : "UD Universal Dependencies (v2)",  "input" : false }, 
+        {"sofa" : 1,  "layer" : "de.tudarmstadt.ukp.dkpro.core.api.transform.type.SofaChangeAnnotation",  "name" : "Operation",  "input" : false }, 
+        {"sofa" : 1,  "layer" : "de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.pos.POS",  "name" : "UD Universal POS tags (v2)",  "input" : false }, 
+        {"sofa" : 1,  "layer" : "webanno.custom.Relation",  "name" : "Relation Labels",  "input" : false } ], 
+      "NamedEntity" : [
+        {"sofa" : 1,  "end" : 8,  "value" : "SUS.LOCATION" },  437,  515, 
+        {"sofa" : 1,  "begin" : 35,  "end" : 43,  "value" : "LOC.CITY" },  671,  749, 
+        {"sofa" : 1,  "begin" : 117,  "end" : 125,  "value" : "LOC.CITY" } ], 
+      "Sentence" : [
+        {"sofa" : 1,  "end" : 169 } ], 
+      "Token" : [
+        {"sofa" : 1,  "end" : 8 }, 
+        {"sofa" : 1,  "begin" : 9,  "end" : 13 }, 
+        {"sofa" : 1,  "begin" : 14,  "end" : 18 }, 
+        {"sofa" : 1,  "begin" : 19,  "end" : 26 }, 
+        {"sofa" : 1,  "begin" : 27,  "end" : 31 }, 
+        {"sofa" : 1,  "begin" : 32,  "end" : 34 }, 
+        {"sofa" : 1,  "begin" : 35,  "end" : 43 }, 
+        {"sofa" : 1,  "begin" : 45,  "end" : 49 }, 
+        {"sofa" : 1,  "begin" : 50,  "end" : 55 }, 
+        {"sofa" : 1,  "begin" : 56,  "end" : 58 }, 
+        {"sofa" : 1,  "begin" : 59,  "end" : 63 }, 
+        {"sofa" : 1,  "begin" : 64,  "end" : 72 }, 
+        {"sofa" : 1,  "begin" : 73,  "end" : 75 }, 
+        {"sofa" : 1,  "begin" : 75,  "end" : 76 }, 
+        {"sofa" : 1,  "begin" : 77,  "end" : 81 }, 
+        {"sofa" : 1,  "begin" : 82,  "end" : 90 }, 
+        {"sofa" : 1,  "begin" : 91,  "end" : 95 }, 
+        {"sofa" : 1,  "begin" : 96,  "end" : 100 }, 
+        {"sofa" : 1,  "begin" : 101,  "end" : 108 }, 
+        {"sofa" : 1,  "begin" : 109,  "end" : 113 }, 
+        {"sofa" : 1,  "begin" : 114,  "end" : 116 }, 
+        {"sofa" : 1,  "begin" : 117,  "end" : 125 }, 
+        {"sofa" : 1,  "begin" : 126,  "end" : 134 }, 
+        {"sofa" : 1,  "begin" : 135,  "end" : 139 }, 
+        {"sofa" : 1,  "begin" : 140,  "end" : 144 }, 
+        {"sofa" : 1,  "begin" : 145,  "end" : 152 }, 
+        {"sofa" : 1,  "begin" : 153,  "end" : 157 }, 
+        {"sofa" : 1,  "begin" : 158,  "end" : 160 }, 
+        {"sofa" : 1,  "begin" : 161,  "end" : 169 } ], 
+      "Relation" : [
+        {"sofa" : 1,  "begin" : 27,  "end" : 31,  "Dependent" : 515,  "Governor" : 437,  "RelationType" : "Item" }, 
+        {"sofa" : 1,  "begin" : 109,  "end" : 113,  "Dependent" : 749,  "Governor" : 671,  "RelationType" : "Item" } ] } }, 
+  "_referenced_fss" : {
+    "1" : {"_type" : "Sofa",  "sofaNum" : 1,  "sofaID" : "_InitialView",  "mimeType" : "text",  "sofaString" : "Nepalese held with leopard hide in Tanakpur\r\nThis story is from November 26, 2020 Nepalese held with leopard hide in Tanakpur Nepalese held with leopard hide in Tanakpur" }, 
+    "515" : {"_type" : "NamedEntity",  "sofa" : 1,  "begin" : 27,  "end" : 31,  "value" : "ITEM" }, 
+    "437" : {"_type" : "NamedEntity",  "sofa" : 1,  "begin" : 19,  "end" : 26,  "value" : "SP.COMMON" }, 
+    "749" : {"_type" : "NamedEntity",  "sofa" : 1,  "begin" : 109,  "end" : 113,  "value" : "ITEM" }, 
+    "671" : {"_type" : "NamedEntity",  "sofa" : 1,  "begin" : 101,  "end" : 108,  "value" : "SP.COMMON" }, 
+    "1181" : {"_type" : "LayerDefinition",  "name" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Lemma",  "uiName" : "Lemma" }, 
+    "1206" : {"_type" : "LayerDefinition",  "name" : "de.tudarmstadt.ukp.dkpro.core.api.syntax.type.chunk.Chunk",  "uiName" : "Chunk" }, 
+    "1170" : {"_type" : "LayerDefinition",  "name" : "de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity",  "uiName" : "Named entity" }, 
+    "1159" : {"_type" : "LayerDefinition",  "name" : "de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.pos.POS",  "uiName" : "Part of speech" }, 
+    "1152" : {"_type" : "LayerDefinition",  "name" : "de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.morph.MorphologicalFeatures",  "uiName" : "Morphological features" }, 
+    "1188" : {"_type" : "LayerDefinition",  "name" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.SurfaceForm",  "uiName" : "Surface form" }, 
+    "1224" : {"_type" : "LayerDefinition",  "name" : "de.tudarmstadt.ukp.dkpro.core.api.transform.type.SofaChangeAnnotation",  "uiName" : "Orthography Correction" }, 
+    "1141" : {"_type" : "LayerDefinition",  "name" : "de.tudarmstadt.ukp.dkpro.core.api.coref.type.Coreference",  "uiName" : "Coreference" }, 
+    "1195" : {"_type" : "LayerDefinition",  "name" : "de.tudarmstadt.ukp.dkpro.core.api.semantics.type.SemPred",  "uiName" : "SemPred" }, 
+    "1213" : {"_type" : "LayerDefinition",  "name" : "de.tudarmstadt.ukp.dkpro.core.api.syntax.type.dependency.Dependency",  "uiName" : "Dependency" }, 
+    "1235" : {"_type" : "LayerDefinition",  "name" : "webanno.custom.Relation",  "uiName" : "Relation" } } }

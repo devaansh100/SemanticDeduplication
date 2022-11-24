@@ -1,0 +1,49 @@
+
+['Three held for poaching tusker\nBy Express News Service ANGUL: Officials of the Forest department on Monday arrested three persons and detained another five for killing an eight-year-old tusker four days back in Malyagiri forest. The accused are from Taptajharan village within Pallahara forest range. The tusks of the elephant were not recovered from them. Sources said the carcass of the tusker was found in Malyagiri forest near Taptajharan. The elephant’s tusks were taken away by the poachers. A probe into the matter was conducted into the matter by officials led by Deogarh DFO Khyama Sarangi and a massive manhunt launched to nab the culprits. Sarangi said the poachers had laid live electric wire in Malyagiri forest to poach wild animals. The tusker came in contact with the wire and was killed. The accused have not yet revealed what they did with the tusks. “We are interrogating the accused and attempts are on to recover the tusks,” the DFO said. ANGUL: Officials of the Forest department on Monday arrested three persons and detained another five for killing an eight-year-old tusker four days back in Malyagiri forest. The accused are from Taptajharan village within Pallahara forest range. The tusks of the elephant were not recovered from them. Sources said the carcass of the tusker was found in Malyagiri forest near Taptajharan. The elephant’s tusks were taken away by the poachers. A probe into the matter was conducted into the matter by officials led by Deogarh DFO Khyama Sarangi and a massive manhunt launched to nab the culprits. Sarangi said the poachers had laid live electric wire in Malyagiri forest to poach wild animals. The tusker came in contact with the wire and was killed. The accused have not yet revealed what they did with the tusks. “We are interrogating the accused and attempts are on to recover the tusks,” the DFO said.']
+
+
+Three----SUS.NUMBER
+
+poaching----CRIME.CAT
+
+tusker----SP.COMMON
+
+Forest department----AUTH.SEIZE
+
+Monday----DATE
+
+arrested----CRIME.CAT
+
+three----SUS.NUMBER
+
+Taptajharan village----SUS.LOC
+
+carcass----ITEM
+
+tusker----SP.COMMON
+
+Taptajharan----LOC.EXACT
+
+poachers----SUS.AFFIL
+
+DFO----OFF.DESIG
+
+Forest department----AUTH.SEIZE
+
+Monday----DATE
+
+arrested----CRIME.CAT
+
+three----SUS.NUMBER
+
+Taptajharan village----SUS.LOC
+
+carcass----ITEM
+
+Malyagiri forest----ROUTE.SRC
+
+poachers----SUS.AFFIL
+
+DFO----OFF.DESIG
+
+Khyama Sarangi----OFF.NAME

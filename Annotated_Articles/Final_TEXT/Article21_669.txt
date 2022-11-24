@@ -1,0 +1,131 @@
+
+['Chittoor police seize Rs 2 crore worth red sanders logs, 13 interstate smugglers arrested\nTIRUPATI: In a big catch, Chittoor police arrested 13 red sanders smugglers and seized Rs.2 crore worth red sanders logs and vehicles on Sunday.Briefing reporters about the arrests, Chittoor SP S Senthil Kumar special teams were formed to keep a strong vigil on the movements of red sanders smugglers in the district under the supervision of special enforcement bureau V Vidyasagar Naidu Acting on specific inputs, the special teams along with Piler urban police conducted vehicular checks near the Ponthala Cheruvu crossroads in the early hours on Sunday. During the checks, the special team stumbled upon three vehicles including a truck laden with a large consignment of red sanders logs.Police seized 115 red sanders logs weighing 3.5 tons and worth Rs. 1.5 crore in the international markets along with a truck and two cars.Thirteen interstate smugglers were identified as K Surendra Reddy (27), V Ashok Kumar Reddy (40), A Murali (29), Y Ramanjaneyulu (41), T Vilkesh (26), S Sanjeev (24), G Vijayakumar , S Sakthivel, R Vijaya Kumar , D Yelumalai, M Vel Swamy, C Sriramulu Venkatesh and R Hari Murthy While five among those arrested belong to Kadapa and Chittoor districts, 8 others arrested by the police belong to different parts of Tamil Nadu.Chittoor SP appreciated the efforts put in by Piler CI A Sadik Ali and his team and the SEB sleuths for ensuring such a large seizure of red sanders consignment besides arresting such interstate smugglers involved in the smuggling act.']
+
+
+Chittoor police----AUTH.SEIZE
+
+seize----CRIME.CAT
+
+Rs 2 crore----VALUE
+
+red sanders----SP.COMMON
+
+logs----ITEM
+
+13----SUS.NUMBER
+
+interstate smugglers----SUS.AFFIL
+
+arrested----CRIME.CAT
+
+Chittoor police----AUTH.SEIZE
+
+arrested----CRIME.CAT
+
+13----SUS.NUMBER
+
+red sanders----SP.COMMON
+
+seized----CRIME.CAT
+
+Rs.2 crore----VALUE
+
+red sanders----SP.COMMON
+
+logs----ITEM
+
+vehicles----ITEM
+
+Sunday.Briefing----DATE
+
+arrests----CRIME.CAT
+
+Chittoor SP----OFF.DESIG
+
+S Senthil Kumar----OFF.NAME
+
+V Vidyasagar Naidu----OFF.NAME
+
+specific inputs----DETECTION_METHOD
+
+Piler urban police----AUTH.SEIZE
+
+vehicular checks----DETECTION_METHOD
+
+Ponthala Cheruvu crossroads----LOC.EXACT
+
+early hours----TIME
+
+Sunday----DATE
+
+three----QTY
+
+vehicles----TRANSPORT_MODE
+
+truck----TRANSPORT_MODE
+
+red sanders----SP.COMMON
+
+115----QTY
+
+red sanders----SP.COMMON
+
+logs----ITEM
+
+3.5 tons----QTY
+
+Rs. 1.5 crore----VALUE
+
+a----QTY
+
+truck----ITEM
+
+two----QTY
+
+cars.Thirteen----ITEM
+
+K Surendra Reddy----SUS.NAME
+
+27----SUS.AGE
+
+V Ashok Kumar Reddy----SUS.NAME
+
+40----SUS.AGE
+
+A Murali----SUS.NAME
+
+29----SUS.AGE
+
+Y Ramanjaneyulu----SUS.NAME
+
+41----SUS.AGE
+
+T Vilkesh----SUS.NAME
+
+26----SUS.AGE
+
+S Sanjeev----SUS.NAME
+
+24----SUS.AGE
+
+G Vijayakumar----SUS.NAME
+
+S Sakthivel----SUS.NAME
+
+R Vijaya Kumar----SUS.NAME
+
+D Yelumalai----SUS.NAME
+
+M Vel Swamy----SUS.NAME
+
+C Sriramulu Venkatesh----SUS.NAME
+
+R Hari Murthy----SUS.NAME
+
+Piler CI----OFF.DESIG
+
+A Sadik Ali----OFF.NAME
+
+SEB----AUTH.SEIZE
+
+interstate smugglers----SUS.AFFIL

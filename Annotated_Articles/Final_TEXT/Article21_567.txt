@@ -1,0 +1,45 @@
+
+['3 arrested with elephant ivory in Ctg\nMembers of the Rapid Action Battalion today arrested three people with elephant ivory at Chandgaon area of Chattogram city. Rab-7 conducted the drive based on a tip-off and arrested the three, said a press release today. The arrestees are Suiching Marma (33), Md Hafizur Khan (43) and Md Khursed Alam (35). The trio hailed from Chattogram Hill Tracts. "Rab arrested them while they tried to flee. They confessed to being involved in wildlife trade for a long time. Further action will be taken against them," the release added. Rab has handed over the elephant ivory to Chattgoram Wildlife and Nature Conservation, reports our staff correspondent quoting Rafikul Islam Chowdhury, Chattogram divisional forest officer.']
+
+
+3----SUS.NUMBER
+
+elephant----SP.COMMON
+
+ivory----ITEM
+
+Rapid Action Battalion----AUTH.SEIZE
+
+today----DATE
+
+three----SUS.NUMBER
+
+elephant----SP.COMMON
+
+ivory----ITEM
+
+Chandgaon area----LOC.EXACT
+
+Chattogram----LOC.CITY
+
+Rab-7 conducted the drive----AUTH.SEIZE
+
+three----SUS.NUMBER
+
+Suiching Marma----SUS.NAME
+
+33----SUS.AGE
+
+Md Hafizur Khan----SUS.NAME
+
+43----SUS.AGE
+
+Md Khursed Alam----SUS.NAME
+
+35----SUS.AGE
+
+Chattogram Hill Tracts----SUS.LOC
+
+elephant----SP.COMMON
+
+ivory----ITEM

@@ -1,0 +1,47 @@
+
+['Live pangolin rescued by STF in Odisha, 2 Wildlife Poacher Arrested\nSonepur: The Special Task Force (STF) of Odisha police has arrested two wildlife criminals for smuggling one live pangolin in Sonepur district, police said on Sunday. On the basis of reliable information, a team of STF conducted raid with the help of Binika Forest Officials near Dunguripalli Chhak under Dungurpalli police limits in Sonepur regarding dealing/possession of wildlife products by wildlife criminals. As a result of which two wildlife criminals, identified as Ashok Bisi. During the search, one Live Pangolin and other incriminating materials were recovered from their possession. The accused persons could not produce any authority in support of possession of possession of such live Pangolin, for which they have been detained and handed over to Binika Forest Officials Sonepur Forest Division for necessary legal action at their end. The Live Pangolin has also been handed over to DFO Sonepur for safe custody. The Indian pangolin (Maniscrassicaudata), also called thick-tailed pangolin, scaly anteater and bajrakapta ‘ବଜ୍ରକାପ୍ତା’ in Odia is a solitary, shy, slow-moving, nocturnal mammal. It is a schedule-I protected animal under Wild Life Protection act, 1972. Schedule I provides absolute protection – offences under these are prescribed for the highest penalties. Special drive against the wildlife criminals/poachers is continuing. Since 2020, STF has seized as many as 16 Nos. of live pangolins.']
+
+
+pangolin----SP.COMMON
+
+rescued----CRIME.CAT
+
+STF----AUTH.SEIZE
+
+Odisha----LOC.STATE
+
+2----SUS.NUMBER
+
+Arrested----CRIME.CAT
+
+Special Task Force (STF)----AUTH.SEIZE
+
+arrested----CRIME.CAT
+
+two----SUS.NUMBER
+
+smuggling----CRIME.CAT
+
+one----QTY
+
+pangolin----SP.COMMON
+
+Sonepur district----LOC.DISTRICT
+
+reliable information----DETECTION_METHOD
+
+STF----AUTH.SEIZE
+
+raid----DETECTION_METHOD
+
+Binika Forest Officials----AUTH.SEIZE
+
+dealing/possession----CRIME.CAT
+
+two----SUS.NUMBER
+
+Ashok Bisi----SUS.NAME
+
+one----QTY
+
+Pangolin----SP.COMMON

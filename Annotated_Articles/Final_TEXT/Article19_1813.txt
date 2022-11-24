@@ -1,0 +1,29 @@
+
+['Wild tusker tramples 5 people to death in Odisha’s Talcher\nAngul: In yet another case of man-animal conflict in the state, a wild tusker trampled five people, including two girls and a woman, to death in two separate incidents in Talcher on Friday. While four persons including three of a family were trampled to death while sleeping on their verandah at Sandha village. Another elderly also lost his life when the elephant stamped him to death in Santapada village. Forest department officials have arrived at the spot and trying to drive the tusker away. The elephant may have crossed Brahmani River to reach here from Dhenkanal, forest officials revealed. Also Read: BJP worker thrashed to death in poll violence in Ganjam']
+
+
+Wild tusker----SP.COMMON
+
+tramples----CRIME.CAT
+
+5----SUS.NUMBER
+
+Odisha’s----LOC.STATE
+
+Talcher----LOC.DISTRICT
+
+wild tusker----SP.COMMON
+
+five----QTY
+
+woman----SUS.GENDER
+
+Talcher----LOC.DISTRICT
+
+Friday----DATE
+
+Sandha village----LOC.EXACT
+
+Santapada village----LOC.EXACT
+
+Forest department----AUTH.MISC

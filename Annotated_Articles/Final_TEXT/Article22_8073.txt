@@ -1,0 +1,19 @@
+
+['Assam: In Kaziranga National Park, leopard knocks down cyclist before retreating; Watch viral video\nRiding a bicycle on roads requires the cyclist to be aware of a number of obstacles to avoid in order to navigate freely; they may range from other vehicles to potholes, pedestrians and domestic or feral animals. What one can never expect would cause a minor accident is a leopard jumping out of the blue. As unlikely as it is scary, this is exactly what happened to a cyclist in Assam\'s Kaziranga National Park. The incident, which took place in January, this year, was captured on a CCTV camera. Leopard knocks down cyclist in Assam In the video, shared by Indian Forest Officer Parveen Kaswan, a cyclist can be seen riding on the side of a road when a leopard leaps from inside the woods, hits him in a way that his two-wheeler disbalances and he falls, before running back in. Fortune favoured the cyclist as he escaped with no major injuries. The cyclist was seen in a state shock of shock as he immediately rushed to the other side of the road while checking on his hip. Sharing the video of the cyclist, IFS Parveen Kaswan said that even the cyclist was not able to believe in his luck. "The incident was captured in January in a camera installed by authorities at Kaziranga. Leopard was trying to cross the highway. Both were lucky. Leopards are very adaptable species. They live in farmlands, sugarcane crops, tea gardens and even in cities. On hills and in forests. Sometimes the interactions are safe but many times conflicts also arise. Imagine the chances of a cyclist being hit by a leopard on road (sic)," IFS Kaswan tweeted. That cyclist not able to believe on his luck !! @Independent pic.twitter.com/WVbDCMEpX6 — Parveen Kaswan, IFS (@ParveenKaswan) June 15, 2022 Notably, Kaziranga National Park is home to several animals including Rhinoceros, Asian Elephants, wild Asian Water Buffalos, Bengal Tigers and Leopards.']
+
+
+Kaziranga National Park----LOC.EXACT
+
+leopard----SP.COMMON
+
+knocks down----CRIME.CAT
+
+Kaziranga National Park----LOC.EXACT
+
+Leopard----SP.COMMON
+
+knocks down----CRIME.CAT
+
+Assam----LOC.STATE
+
+leopard----SP.SPECIFIC

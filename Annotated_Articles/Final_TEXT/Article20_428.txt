@@ -1,0 +1,81 @@
+
+['Elephant tusk, pangolin scales seized in Hojai September 25, 2020 9:16 am\nTwo persons, along with an elephant tusk weighing 0.848 kilograms, were arrested in a joint operation launched by Nagaon South Division Forest Department, Hojai along with Murajhar police. The persons were apprehended from near Jaynagar Madrassa area in Hojai on Thursday. They have been identified as Abdullah Ahmed (35) and Saifuddin Ahmed (50). Speaking to Northeast Now, DFO Pulak Choudhury said, “The duo was nabbed after we were informed that they were going to sell an elephant tusk.” “Selling and buying of an elephant tusk is a crime,” he added. The police are further investigating the case. Pangolin scales In another incident, forest officials also seized 5.725 kilograms of pangolin scales from Rajbari and Donkigaon and arrested five persons. The arrested persons have been identified as Bir Singh (73), Mohan Kumar Engti (55), Nizamuddin (19), Brajakumar Singha (36), and Rahmatulla (55). (Source: The North East News)']
+
+
+Elephant----SP.COMMON
+
+tusk----ITEM
+
+pangolin----SP.COMMON
+
+scales----ITEM
+
+seized----CRIME.CAT
+
+Hojai----LOC.EXACT
+
+September 25, 2020----DATE
+
+Two----SUS.NUMBER
+
+an----QTY
+
+elephant----SP.COMMON
+
+tusk----ITEM
+
+0.848 kilograms----QTY
+
+arrested----CRIME.CAT
+
+Nagaon South Division Forest Department----AUTH.SEIZE
+
+Murajhar police----AUTH.SEIZE
+
+Jaynagar Madrassa area in Hojai----LOC.EXACT
+
+Thursday----DATE
+
+Abdullah Ahmed----SUS.NAME
+
+35----SUS.AGE
+
+Saifuddin Ahmed----SUS.NAME
+
+50----SUS.AGE
+
+duo----SUS.NUMBER
+
+Pangolin----SP.COMMON
+
+scales----ITEM
+
+5.725 kilograms----QTY
+
+pangolin----SP.COMMON
+
+scales----ITEM
+
+Rajbari and Donkigaon----LOC.EXACT
+
+five----SUS.NUMBER
+
+Bir Singh----SUS.NAME
+
+73----SUS.AGE
+
+Mohan Kumar Engti----SUS.NAME
+
+55----SUS.AGE
+
+Nizamuddin----SUS.NAME
+
+19----SUS.AGE
+
+Brajakumar Singha----SUS.NAME
+
+36----SUS.AGE
+
+Rahmatulla----SUS.NAME
+
+55----SUS.AGE

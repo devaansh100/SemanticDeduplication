@@ -1,0 +1,27 @@
+
+['Marine National Park: Latest News, Videos and Photos of Marine National Park\nKendrapada forest officer sells fish seized in raid, gets suspended TNN / Dec 04, 2020, 10:41 (IST) A forest officer of Gahirmatha Marine Sanctuary within the Bhitarkanika National Park in Kendrapada district was suspended on Thursday after it came to light that he had kept some and sold the rest of the 12 quintals of fish, which he had seized from three fishing trawlers on November 29. Sources in the forest department said the fish would have fetched him at least Rs 1.5 lakh, if not more.']
+
+
+fish----SP.COMMON
+
+seized----CRIME.CAT
+
+raid----CRIME.CAT
+
+forest officer----AUTH.SEIZE
+
+Gahirmatha Marine Sanctuary----LOC.EXACT
+
+Bhitarkanika National Park----LOC.EXACT
+
+Thursday----DATE
+
+12 quintals----QTY
+
+fish----SP.COMMON
+
+seized----CRIME.CAT
+
+November 29----DATE
+
+Rs 1.5 lakh----VALUE

@@ -1,0 +1,33 @@
+
+['3 Arrested With Rare Turtle, Owl, Golden Langur Species In Assam\nThe health of the Tricarinate hill turtle will be monitored before they are released Three people were arrested on Wednesday with rare species of Tricarinate hill turtle in Assam\'s Chirang district, officials said. Two more rare species, owl and golden langur were also recovered by the police from different areas in the district. "These rare species had moved out of the forest due to the changing weather," District Forest Officer Brahmananda Patiri said. "A team from Guwahati will check their health after which we will release them into forests," he added.']
+
+
+3----SUS.NUMBER
+
+Arrested----CRIME.CAT
+
+Turtle----SP.COMMON
+
+Owl----SP.COMMON
+
+Golden Langur----SP.COMMON
+
+Assam----LOC.STATE
+
+Tricarinate hill turtle----SP.SPECIFIC
+
+Three----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+Wednesday----DATE
+
+Tricarinate hill turtle----SP.SPECIFIC
+
+Assam's----LOC.STATE
+
+Chirang district----LOC.DISTRICT
+
+owl----SP.COMMON
+
+golden langur----SP.SPECIFIC

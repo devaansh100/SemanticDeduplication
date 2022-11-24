@@ -1,0 +1,11 @@
+
+["Vava Suresh responds, recovering from snake bite\nKOTTAYAM: Vava Suresh undergoing treatment at the Kottayam Medical College Hospital after a snake bite is recovering. He responded clearly to the questions of hospital superintendent Dr T K Jayakumar. He replied to Dr T K Jayakumar who asked his name, 'I am Suresh, Vava Suresh'. His clear response to questions is an indication that blood flow to the brain is normal. The question was asked to find if his memory had been restored and to examine the functioning of his brain. The doctor did not ask anything about the snake bite. Dr Jayakumar said such questions were omitted following the cardiac arrest he suffered.  Suresh was taken off from the ventilator yesterday as his health improved. He walked a little with the help of the doctor and had liquid food. Suresh will be shifted to the ward after being monitored in the ICU today. He was bitten by the cobra at Kurichy in Kottayam on Monday. Following that, he was admitted to the Kottayam Medical College Hospital."]
+
+
+Vava Suresh----SUS.NAME
+
+Vava Suresh----SUS.NAME
+
+Suresh----SUS.NAME
+
+Vava Suresh----SUS.NAME

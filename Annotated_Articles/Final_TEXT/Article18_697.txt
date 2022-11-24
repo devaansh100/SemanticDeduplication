@@ -1,0 +1,25 @@
+
+["Maha: Tiger found dead near railway track in Gondia\nGondia: A tiger was found dead with injuries marks near a railway track in Maharashtra's Gondia district on Saturday, an official from the forest department said. A railway trackman spotted the carcass near the tracks between Vadegaon and Wadsa in the morning and the forest department was alerted, he said. The area where the big cat was found falls in Korambhi beat of Arjuni Morgaon forest range, assistant conservator of forest (ACF) Dada Raut said. While there were injury marks on face, legs and tail of the tiger, all body parts were intact, he said, adding that it is suspected that the big cat may have been hit by a train. Honourary wildlife warden Mukund Dhurwe said the accident is likely to have taken place on the intervening night of Friday and Saturday. The carcass was disposed of as per the standard operating procedure of the National Tiger Conservation Authority (NTCA), it was stated.—PTI"]
+
+
+Tiger----SP.COMMON
+
+found dead----CRIME.CAT
+
+Gondia----LOC.DISTRICT
+
+tiger----SP.COMMON
+
+found dead----CRIME.CAT
+
+Gondia----LOC.DISTRICT
+
+Saturday----DATE
+
+carcass----ITEM
+
+morning----TIME
+
+Korambhi beat of Arjuni Morgaon forest range----LOC.EXACT
+
+night----TIME

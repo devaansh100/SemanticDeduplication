@@ -1,0 +1,39 @@
+
+['Leopard mauls woman to death in Junagadh district\nRAJKOT: An elderly woman was mauled to death by a leopard in Hasnapar village of Visavadar taluka in Junagadh district on Saturday night.The deceased was identified as Prabha Jadav (65). “The attack took place while Jadav was sleeping on a cot in her veranda. The leopard seized her by her throat. When the neighbours woke up on hearing the noise of the leopard’s growling and the victim’s cries, they rushed to the spot and drove the leopard away,” said an official from Visavadar police station.Jadav was first rushed to Visavadar government hospital and from there shifted to Junagadh Civil Hospital where she succumbed to injuries on Sunday.Earlier, on Friday night, in Ambala village of Visavadar taluka, a 12-year-old girl, identified as Hiral Devipujak, was attacked by a leopard while she was asleep with her family members in a farm. “The big cat ran away after Hiral’s family members raised a cry. The girl has been admitted to Junagadh Civil Hospital, where her condition is serious,” added the official.Meanwhile, the forest department has set up cages to trap the leopard in Hasnapar and Ambala villages. The foresters suspect that the same leopard had carried out attacks in both the villages.']
+
+
+Leopard----SP.COMMON
+
+mauls----CRIME.CAT
+
+woman----SUS.GENDER
+
+Junagadh----LOC.DISTRICT
+
+leopard----SP.COMMON
+
+Hasnapar village----LOC.EXACT
+
+Junagadh----LOC.DISTRICT
+
+Saturday----DATE
+
+night----TIME
+
+Prabha Jadav----SUS.NAME
+
+65----SUS.AGE
+
+leopard seized----AUTH.SEIZE
+
+Friday----DATE
+
+night----TIME
+
+Ambala village of Visavadar taluka----LOC.EXACT
+
+Hiral Devipujak----SUS.NAME
+
+leopard----SP.COMMON
+
+girl has been admitted to Junagadh Civil Hospital----OUTCOME

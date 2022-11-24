@@ -1,0 +1,47 @@
+
+['Driver fined, 2 reticulated pythons euthanised after illegal smuggling\nSINGAPORE: A driver was fined S$5,000 on Wednesday (Jun 1) for smuggling two reticulated pythons into Singapore through Tuas Checkpoint. The two pythons were euthanised after they were found to have severe, chronic and irreversible health conditions. Pulenthiran Palaniappan, 51, was sentenced after pleading guilty to one count of importing a protected species without a permit. Two more charges of failing to take reasonable steps to ensure the pythons were not transported in a safe manner were considered for sentencing. The reptiles were seized on Apr 7 by Immigration and Checkpoints Authority officers who inspected a Malaysia-registered container truck driven by Palaniappan. They were found hidden in cloth bundles in a Styrofoam box concealed in an overhead compartment above the driver’s seat. Investigations revealed that Palaniappan agreed to help a man in Malaysia deliver the animals to an unknown recipient in Singapore. He was to be paid RM300 for the job. He collected the box containing the reptiles in Johor Bahru on Apr 7, as he intended to deliver cement to a company in Singapore that day. After the seizure at night, the pythons were brought to the Mandai Wildlife Group for health examinations the next day. A doctor with the conservation, research and veterinary department verified that both pythons had injuries associated with poor handling and environmental conditions. This led to spinal deviation, mouth inflammation and swelling of the eye in both animals. “These were severe health conditions which were chronic and irreversible; and thus the two pythons were humanely euthanised due to welfare considerations,” stated court documents. A National Parks Board (NParks) veterinarian also assessed that the pythons suffered from chronic diseases that could cause pain and discomfort, and that the transport conditions caused them unnecessary suffering. NParks prosecutor Ron Goh asked for the fine that was imposed, arguing that there was public interest in deterring such smuggling cases. He highlighted the substantial risk to public health from smuggling wildlife, which might contain unknown diseases, if they are not subject to quarantine or checks. Defence lawyer Dhillon Surinder Singh asked for a lower fine of S$3,500, arguing that his client, a Malaysian, was a first-time offender of poor means who had no employment during the investigations. The lawyer also argued that it was unclear whether the pythons’ medical conditions were pre-existing or whether they were the result of the transport conditions, as Palaniappan did not open the box after collecting it. The judge agreed with the prosecution that a deterrent sentence was necessary. The penalty for importing a scheduled species without a permit is jail for up to two years, a fine of up to S$50,000 for each scheduled species, up to a total of S$500,000, or both.']
+
+
+Driver----SUS.AFFIL
+
+2----QTY
+
+reticulated pythons----SP.SPECIFIC
+
+fined S$5,000 on----OUTCOME
+
+Wednesday----DATE
+
+Jun 1----DATE
+
+smuggling----CRIME.CAT
+
+two----QTY
+
+reticulated pythons----SP.SPECIFIC
+
+Singapore----ROUTE.DEST
+
+pythons----SP.COMMON
+
+Pulenthiran Palaniappan----SUS.NAME
+
+51----SUS.AGE
+
+sentenced after pleading guilty to one count of----OUTCOME
+
+importing a protected species without a permit----CRIME.CAT
+
+Apr 7----DATE
+
+Immigration and Checkpoints Authority officers----AUTH.SEIZE
+
+container truck----TRANSPORT_MODE
+
+hidden in cloth bundles----CONCEALMENT_METHOD
+
+an overhead compartment above the driver’s seat----CONCEALMENT_METHOD
+
+Johor Bahru----ROUTE.SRC
+
+Apr 7----DATE

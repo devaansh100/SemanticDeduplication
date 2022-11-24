@@ -1,0 +1,69 @@
+
+['Odisha STF Seizes Five Deer Skins, Two Held\nBhubaneswar: The Special Task Force (STF) of Odisha Crime Branch seized five deer skins with the arrest of two wildlife criminals near Pipli flyover on Thursday. On the basis of reliable information regarding illegal possession of deer skins by wildlife criminals, the STF team had conducted a raid with the help of Balipatna Forest Range officials under Khordha Forest Division yesterday. As a result of which, the accused persons namely Krushna Chandra Swain of Ketaki Patana under Balanga Police Station, and Sunil Kumar Palei of Netigada village under Gop Police Station, both in Puri district were apprehended. During the search, five deer skins, one motorcycle, and other incriminating materials were seized from their possession. The accused persons could not produce any valid authority in support of the possession of such deer skins, for which they were detained and handed over to Khordha forest officials for necessary legal action at their end. Since 2020, the STF has launched a special drive against wildlife criminals/poachers and has seized as many as 21 leopard skins, 12 elephant tusks, seven deer skins, eight live pangolins, and 15 kg pangolin scales and arrested 50 wildlife criminals']
+
+
+Odisha----LOC.STATE
+
+STF----AUTH.SEIZE
+
+Seizes----CRIME.CAT
+
+Five----QTY
+
+Deer----SP.COMMON
+
+Skins----ITEM
+
+Two----SUS.NUMBER
+
+Special Task Force (STF) of Odisha Crime Branch----AUTH.SEIZE
+
+seized----CRIME.CAT
+
+five----QTY
+
+deer----SP.COMMON
+
+skins----ITEM
+
+two----SUS.NUMBER
+
+Pipli flyover----LOC.EXACT
+
+Thursday----DATE
+
+reliable information----DETECTION_METHOD
+
+illegal possession----CRIME.CAT
+
+deer----SP.COMMON
+
+skins----ITEM
+
+STF----AUTH.SEIZE
+
+raid----DETECTION_METHOD
+
+Balipatna Forest Range officials----AUTH.SEIZE
+
+yesterday----DATE
+
+Krushna Chandra Swain----SUS.NAME
+
+Ketaki Patana----SUS.LOC
+
+Sunil Kumar Palei----SUS.NAME
+
+Netigada village----SUS.LOC
+
+Puri district----SUS.LOC
+
+five----QTY
+
+deer----SP.COMMON
+
+skins----ITEM
+
+one----QTY
+
+motorcycle----ITEM

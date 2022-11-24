@@ -1,0 +1,31 @@
+
+['Five held for playing garba holding snakes in Gujarat\nRAJKOT: Of all the types of garbas, this one played in Shil village of Mangrol taluka of Junagadh district would easily get 11 on a scale of 10! Reason? The khelaiyas in this garba are more like contestants at \'Khatron ke Khiladi\', prancing around with live snakes to foot-tapping dhol beats.While for the snake catcher community, this may be part of Navratri rituals, but the irked forest officials hissed at the atrocity on the reptiles. They arrested five persons on Thursday including two minors, the organizer and another person who is a snake catcher, for playing garba with endangered snakes. All of them were released on bail on Friday after being produced in the court.During investigation, foresters identified the woman in the video as Geeta Daki, 28, while two minor girls are aged 16 and 12 years, respectively. The officials also arrested Nilesh Joshi (38) who organized this garba and Juma Sati (65), a snake catcher, who caught the snakes.While one snake was a cobra, a protected species under Schedule I of the Wildlife Protection Act, the other two were local non-poisonous species. The accused had also removed the cobra\'s fangs to make it non-poisonous.Talking to TOI, Sunil Berwal, deputy conservator of forest, Junagadh said, "As per local tradition, people of this community play garba with snakes, which has been prohibited under the law. The recovered snakes have been sent to rescue centres from where they will be released into the wild in due course."']
+
+
+Five----SUS.NUMBER
+
+snakes----SP.COMMON
+
+Gujarat----LOC.STATE
+
+Shil village----LOC.EXACT
+
+Junagadh----LOC.DISTRICT
+
+five----SUS.NUMBER
+
+Thursday----DATE
+
+Geeta Daki----SUS.NAME
+
+28----SUS.AGE
+
+Nilesh Joshi----SUS.NAME
+
+38----SUS.AGE
+
+Juma Sati----SUS.NAME
+
+65----SUS.AGE
+
+fangs----ITEM

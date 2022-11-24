@@ -1,0 +1,33 @@
+
+["Leopard rescued from well in Odisha's Sambalpur using unique technique\nA leopard was rescued from a well in Odisha's Sambalpur district on Wednesday by a team of forest officials. By Mohammad Suffian: A joint team of forest officials and fire personnel rescued a leopard from a well in Odisha's Sambalpur district. The team trussed both sides of a wooden block to a rope before sending it inside the well for the leopard to climb and settle on it. After that, he was pulled out of the well. In the video, it can be seen the wild leopard first climbed the flat wooden block which was hanging by the rope inside the well and after settling, it jumped towards the ladder at once, which was hanging on the side of the wooden block. advertisement To keep the villagers safe, who were watching the rescue operations from close quarters, the fire personnel had netted all the sides and only left one way for the leopard to enter the forest.  In another similar incident, two elephants were rescued on Wednesday, after they were stuck in the Mahanadi River while crossing the water body near Bhagipur in the Banki area of Odisha’s Cuttack district. Both the animals were reportedly crossing the river to reach Chandaka sanctuary from Sukasen forest when they got stuck in the waterbody on Tuesday night, said forest officials. On being informed by locals, a team of forest officials reached the spot and rescued the wild Tusker. ALSO READ | One dead in Mumbai building collapse --- ENDS ---"]
+
+
+Leopard----SP.COMMON
+
+rescued----CRIME.CAT
+
+Odisha's----LOC.STATE
+
+Sambalpur----LOC.CITY
+
+leopard----SP.COMMON
+
+Sambalpur----LOC.DISTRICT
+
+Wednesday----DATE
+
+forest officials----AUTH.SEIZE
+
+forest officials----AUTH.SEIZE
+
+fire personnel----AUTH.SEIZE
+
+leopard----SP.COMMON
+
+Odisha's----LOC.STATE
+
+Sambalpur----LOC.DISTRICT
+
+Tuesday----DATE
+
+night----TIME

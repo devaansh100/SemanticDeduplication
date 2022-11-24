@@ -1,0 +1,27 @@
+
+['Pregnant tigress in Maharashtra choked to death, paws chopped\nNAGPUR: Probably in one of the most shocking incidents, a four-year-old pregnant tigress with four fetuses in her womb was brutally killed by unidentified poachers in the Mukutban forest range on Sunday. The matter was kept under wraps by the forest department for more than 24 hours for reasons best known to them.This is the 17th tiger death in Maharashtra in a little over three months. At least 11 of these deaths are due to poaching or under mysterious circumstances not proved yet. This is the second tigress poached in Pandharkawda division in one month. A tigress died in a wire snare on March 23 in Ghonsa in Maregaon range but forest officials are still clueless.The number of tiger deaths in three months in Maharashtra is quite high compared to the overall deaths in a year in 2018 (20), 2019 (22) and 2020 (20). With 8 months to go for the year to end, more such deaths cannot be ruled out.Yavatmal CCF SV Ramarao said, “The incident came to light at 10.30am on Sunday in compartment number 30 in the Mangurla reserve forest . The tigress was found dead in a small cave near a nullah. The tigress had wounds of wire snares in her neck and other injuries on her body which were inflicted by some sharp-edged weapons. Two front paws of the animal were also chopped. We have sought police help to crack the case.”Sources said, “There was a slight gap to enter the cave. The fetuses that were recovered during the post-mortem were nearly 60 days and considering the 3-3.5 months gestation period of tigers, it would have delivered the cubs next month. It is for this reason the animal had cleverly chosen the isolated 10-15-feet-long cave near the bamboo thickets apparently to deliver the cubs.”Veterinarians said, “The tigress carcass was 3-4 days old and highly putrefied. It had seven injury marks. The face and part of the skin had blisters due to the fire. There were puncture wounds on the body of the animal and the ribs were also broken. It is suspected that the tigress must have been choked to death first by the igniting fire as pictures show burned bamboo pieces at the cave entrance.”“It is possible that the tigress must have attempted to come out but the entry was blocked. She was attacked with sharp-edged weapons. Later, the poachers must have entered the cave and removed the paws with an axe. Other body parts were intact indicating the culprits were not organized poachers. Looking at the spot, it seems it may be the handiwork of some locals engaged in making bamboo mats. Wire snares were also found near the spot,” said Subhash Puranik, Pandharkawda DFO (wildlife).However, even after 40 hours of the incident, the forest officials were clueless. Yavatmal SP Dilip Patil Bhujbal said, “CCF has sought police help and on Monday, the SDPO and the staff visited the spot to investigate to get any clues so that the dog squad can be deployed. Our staff is doing intelligence gathering and we will provide all help to the forest department to nab the culprits.”The lackluster monitoring of tigers in territorial areas in the state has come in for sharp criticism, especially when the forest ministry is with CM Uddhav Thackeray himself. The Pandharkawda division and Tipeshwar have a history of laying wire snares by locals but there is no regular foot patrolling. As per the statistics by the Wildlife Protection Society of India (WPSI), 7 tigers and 15 leopards have died due to wire snares in Maharashtra in the last decade.“Due to the increase in tiger numbers in protected areas, animals are dispersing in territorial areas where protection seems to have collapsed leading to a spurt in poaching,” said Yadav Tarte and Bandu Dhotre, both state wildlife board members.Wildlife expert Kishor Rithe said, “Despite a long history of laying wire snares to kill wild animals in the entire Pandharkawda division, no lessons have been learned.”Wildlife photographer Sarosh Lodhi said, “Even after so many tiger deaths, no accountability is fixed. Clearly, the Telangana-Maharashtra border at Adilabad having a population of tigers is becoming the snare capital of India.”']
+
+
+tigress----SP.COMMON
+
+Maharashtra----LOC.STATE
+
+choked----CRIME.CAT
+
+paws----ITEM
+
+poachers----SUS.AFFIL
+
+Mukutban forest range----LOC.EXACT
+
+Sunday----DATE
+
+forest department----AUTH.SEIZE
+
+10.30am on----TIME
+
+Sunday----DATE
+
+compartment number 30 in the Mangurla reserve forest----LOC.EXACT
+
+tigress----SP.COMMON

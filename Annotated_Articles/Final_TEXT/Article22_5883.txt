@@ -1,0 +1,43 @@
+
+['3 arrests for killing Hornbill bird in Nagaland\nKohima, June 14 (UNI) Following the circulation of a video on social media of a Great Indian Hornbill bird being tortured before being killed in Wokha district of Nagaland, police has arrested three persons in connection to killing of protected wildlife.  According to official sources the accused, whose identities were not revealed, were arrested on Monday, for the alleged killing of a Great Hornbill. Sources said that the three accused persons were further forwarded to Wokha Headquarters, where the Wildlife Department will place a Preliminary Offence Report (POR) in the District Court on Tuesday before a final offence report is submitted. It said that the wildlife protection proceedings will be initiated and will remain in police custody for 24 hours. Sources further said that the Great Hornbill, a bird species listed as “Vulnerable” in the International Union for Conservation of Nature’s (IUCN) “Red List of Threatened Species.”  The exact date of killing was still not ascertained and as per preliminary inquiry, it happened in Bhandari village under Wokha district. The Wokha Division of Wildlife came to know on June 6 following the viral of the video and a complaint was filed. The video showing villagers killing the bird and taking its tail feathers began circulating on social media about 1 to 2 days back. The three accused persons were arrested from Bhandari village, based on a complaint filed by the Department of Forests & Wildlife. Of the three arrested persons, one was reportedly the hunter of the bird; the second person was reportedly to be the one seen in the video clipping association the endangered bird. The third one was reportedly to be not involved as the bird allegedly fell on the roof of his house. Sources said that the case will now be handled by the Wokha Wildlife Division.  Meanwhile, a press release from the Green Succession of Nagaland State (Green SONS) has appreciated the Wildlife and the Police Departments for speedy action taken upon the perpetrators. “It is indeed too cruel and insane to have acted in such a manner and the culprits should be booked with severity under the appropriate section of the Wildlife protection Act,” the Green SONS said in the release. It further informed that at this time of nesting season, the cock hornbill might have ventured out from the deep forest to gather food for the nesting hen and the chicks “which may have caused them death due to hunger.” It therefore appealed to the authorities to take exemplary action against the culprits. UNI AS BM']
+
+
+3----SUS.NUMBER
+
+arrests----CRIME.CAT
+
+killing----CRIME.CAT
+
+Hornbill bird----SP.COMMON
+
+Nagaland----LOC.STATE
+
+June 14----DATE
+
+Great Indian Hornbill----SP.SPECIFIC
+
+Wokha district----LOC.CITY
+
+Nagaland----LOC.STATE
+
+police----AUTH.SEIZE
+
+three----SUS.NUMBER
+
+Monday----DATE
+
+killing----CRIME.CAT
+
+Great Hornbill----SP.SPECIFIC
+
+three accused persons were further forwarded to Wokha Headquarters----OUTCOME
+
+Bhandari village----LOC.EXACT
+
+Bhandari village----LOC.EXACT
+
+hunter----SUS.AFFIL
+
+case will now be handled by the----OUTCOME
+
+booked with severity----OUTCOME

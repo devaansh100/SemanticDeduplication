@@ -1,0 +1,67 @@
+
+['Mangaluru: Four held while trying to sell ambergris worth Rs 2.2 crore\nMangaluru: Four held while trying to sell ambergris worth Rs 2.2 crore  Vartha Bharati | 15-02-2022 | 21:19:00 IST  Mangaluru, Feb 15: Mangaluru city police have arrested four inter-state peddlers for attempting to sell ambergris (sperm whale vomit) worth Rs 2.2 crore at Jeppinamogaru under the limits of Kankanady town police station limits. The arrested have been identified as M A Jabir (35) and L K Shabad (27) from Kodagu and V P Asir (36) and N Sharief (32) from Hosdurg in Kasaragod district of Kerala, deputy commissioner of police (law and order) Hariram Shanker said.  They were arrested from a vacant land at Jeppinamogaru while attempting to sell ambergris to customers.  Police have also seized five mobile phones, a car and Rs 1,070 in cash from the accused. The total value of seized items including ambergris is estimated at Rs 2,25,92,070.  Ambergris, also known as grey amber, is a substance produced in the digestive system of sperm whales, which is mostly used in the perfume industry.  The accused have been booked under various sections of the Wild Life Protection Act, 1972. Let the Truth be known. If you read VB and like VB, please be a VB Supporter and Help us deliver the Truth to one and all.']
+
+
+Four----SUS.NUMBER
+
+sell----CRIME.CAT
+
+ambergris----ITEM
+
+Rs 2.2 crore----VALUE
+
+Four----SUS.NUMBER
+
+ambergris----ITEM
+
+Rs 2.2 crore----VALUE
+
+Mangaluru city police----AUTH.SEIZE
+
+four----SUS.NUMBER
+
+ambergris----ITEM
+
+sperm whale----SP.COMMON
+
+vomit----ITEM
+
+Rs 2.2 crore----VALUE
+
+Jeppinamogaru----LOC.EXACT
+
+M A Jabir----SUS.NAME
+
+35----SUS.AGE
+
+L K Shabad----SUS.NAME
+
+27----SUS.AGE
+
+Kodagu----SUS.LOC
+
+V P Asir----SUS.NAME
+
+36----SUS.AGE
+
+N Sharief----SUS.NAME
+
+32----SUS.AGE
+
+Hosdurg in Kasaragod district----SUS.LOC
+
+ambergris----ITEM
+
+five----QTY
+
+mobile phones----ITEM
+
+a----QTY
+
+car----ITEM
+
+Rs 1,070----VALUE
+
+cash----ITEM
+
+Rs 2,25,92,070.----VALUE

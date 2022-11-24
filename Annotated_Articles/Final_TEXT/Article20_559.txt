@@ -1,0 +1,51 @@
+
+['Indore: Leopard hide seized from two domestic helps in Barwaha\nrepresentational pic only | Indore: Indore’s Special Task Force (Forest) on Wednesday seized a leopard hide from two domestic helps of an influential family in Barwaha and arrested them. The duo had done a deal to sell the hide for Rs 50 lakh to some smugglers. A politician’s name has also surfaced in the case. However, the STF is currently investigating the matter. STF received a tip-off that someone in Barwaha was to sell the leopard hide to some smugglers. On receiving the tip-off, the team left for Barwaha on Wednesday. The STF team came to know that a person named Darbar struck a deal for the consignment. He was to send his men to Santosh Tanwar and Shriram Tanwar, both servants of an influential family in Badwah, to take hide from them. The informer had told STF that Darbar’s men would hand over a bag filled with currency notes to Tanwar duo and take hide from them. Darbar men were to arrive on Wednesday afternoon to pick up the hide, but the time was changed at the eleventh hour. Tanwars arrived at 5 pm a motorcycle on a decided place on bypass where STF team was already present. The STF team caught hold of both the smugglers. After checking both of them, the team searched their vehicle and found the hide in it. The team arrested both the smugglers and brought them to STF office in Indore. According to officials, both the accused were being questioned. The role of a larger gang may be revealed. Questioning begins in hunting case STF has started investigation into leopard poaching case took place in Nayapura forest area. On Wednesday, three villagers, including Bablu, who was a watchman in the forest department, were called for questioning. Statements of the trio were recorded. According to sources, the statements of the trio people did not match. While two are claiming that there was a fight between to leopards, the third won stated that he had heard sound of bullet being shot.']
+
+
+Leopard----SP.COMMON
+
+hide----ITEM
+
+seized----CRIME.CAT
+
+two----SUS.NUMBER
+
+Barwaha----LOC.CITY
+
+Indore’s Special Task Force (Forest)----AUTH.SEIZE
+
+Wednesday----DATE
+
+seized----CRIME.CAT
+
+a----QTY
+
+leopard----SP.COMMON
+
+hide----ITEM
+
+Barwaha----LOC.CITY
+
+arrested----CRIME.CAT
+
+a tip-off----DETECTION_METHOD
+
+tip-off----DETECTION_METHOD
+
+Wednesday----DATE
+
+Santosh Tanwar----SUS.NAME
+
+Shriram Tanwar----SUS.NAME
+
+Wednesday----DATE
+
+afternoon----TIME
+
+5 pm----TIME
+
+motorcycle----TRANSPORT_MODE
+
+STF----AUTH.SEIZE
+
+Nayapura forest area----LOC.EXACT

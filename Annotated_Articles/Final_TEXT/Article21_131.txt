@@ -1,0 +1,59 @@
+
+['Four men arrested for poaching spotted deer in tiger reserve\nErode: Forest department officials arrested four people for poaching a spotted deer at the Sathyamangalam Tiger Reserve on Wednesday.Special Task Force (STF) personnel from the Sathyamangalam battalion, who were conducting combing operation for Maoists at the Pikkiripalayam forest beat, had chanced upon the four men. The men were carrying two country-made guns, snare wires and deer meat.After inquiry revealed that they had poached a spotted deer on Tuesday night, the STF personnel handed them over to forest officials.Range officer A Fernandez said the men, identified as P Periyasamy, 47, S Marimuthu, 30, K Mari, 46 and M Thippan, 48, of Pikkiripalayam village, confessed to the crime.The officials are inquiring whether they were involved in other poaching activities. The accused were lodged in the Sathyamangalam sub-jail in judicial custody for 15 days.']
+
+
+Four----SUS.NUMBER
+
+men----SUS.GENDER
+
+arrested----CRIME.CAT
+
+poaching----CRIME.CAT
+
+spotted deer----SP.SPECIFIC
+
+Forest department----AUTH.SEIZE
+
+four----SUS.NUMBER
+
+spotted deer----SP.SPECIFIC
+
+Sathyamangalam Tiger Reserve----LOC.EXACT
+
+Wednesday.Special----DATE
+
+STF----AUTH.SEIZE
+
+four----SUS.NUMBER
+
+two----QTY
+
+country-made guns----ITEM
+
+snare wires----ITEM
+
+meat.After----ITEM
+
+spotted deer----SP.SPECIFIC
+
+Tuesday----DATE
+
+night----TIME
+
+P Periyasamy----SUS.NAME
+
+47----SUS.AGE
+
+S Marimuthu----SUS.NAME
+
+30----SUS.AGE
+
+K Mari----SUS.NAME
+
+46----SUS.AGE
+
+M Thippan----SUS.NAME
+
+48----SUS.AGE
+
+Pikkiripalayam village----SUS.LOC

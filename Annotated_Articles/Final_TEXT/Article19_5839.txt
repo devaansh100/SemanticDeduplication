@@ -1,0 +1,19 @@
+
+['[PHOTO] \'Jailbird\': Police put bird in prison after owner arrested for shoplifting\nDutch police put a "sneaky witness" behind the bars after its owner was arrested for shoplifting. | Image Courtesy: Instagram/politieutrechtcentrum Key Highlights The Dutch police took a bird into custody while arresting its owner for shoplifting The incident went viral on Twitter after local media put a little black bar on the bird to protect its identity Utrecht, Netherlands: In a bizarre incident, the Dutch police allegedly arrested a bird suspected for helping its owner in shoplifting. The police in Utrecht, in the Netherlands, found the "sneaky witness" when they were arresting a man for shoplifting. The bird was sitting on the shoulder of the thief. The police took to Instagram to share a photo of the bird placed in a cell. "During the arrest, we found a sneaky witness with feathers and beak on the suspect\'s shoulder. As we don\'t have a birdcage, this bird had no other place to stay than in the cell," the cops wrote. The photo shows that the feathery partner-in-crime was provided with some bread and water by the cops. The little bird was "well cared for". Thinking about how the Dutch police arrested a bird for taking part in a robbery, put it in a jail cell with bread and water & when the media reported on it they put a little black bar over the face to protect its identity pic.twitter.com/2ly0zsoAw6 — Emma (@CampbellxEmma) September 29, 2019 The story went viral on Twitter after local media reported the incident by putting "a little black bar over the face to protect its identity". That\'s some real police work right there — M (@MaxWasTaken) September 29, 2019 A user said, "That\'s some real police work right there." Did the bird got a lawyer ? — Manisha Sarkar (@Nidhipa) September 30, 2019 While another enquired, "Did the bird got a lawyer?" We dutch don\'t discriminate. No matter what species you are, you commit crime, you will do the time! — DEBAAS (@debaas) September 29, 2019 A third user noted, "We dutch don\'t discriminate. No matter what species you are, you commit crime, you will do the time!" Wow he scratched “right to remain silent” into the bed. This bird ain’t no snitch — jackie (@jackiepogona) September 29, 2019 Yet another wrote, "Wow he scratched “right to remain silent” into the bed. This bird ain’t no snitch." The cops later updated, "When the owner was released shortly after, the bird accompanied him." "The bird has not been questioned and is as far as we know not guilty of any charges," the police added with humour. RELATED NEWS [VIDEO] Illinois lawmaker gets pooped on by pigeon while discussing pigeon poop problem at a local station In another incident, an Illinois lawmaker was pooped on by a pigeon in September while he was discussing the ongoing pigeon pooping problem at a local station in Chicago.']
+
+
+Dutch police----AUTH.SEIZE
+
+Dutch police----AUTH.SEIZE
+
+bird----SP.COMMON
+
+shoplifting----CRIME.CAT
+
+Dutch police----AUTH.SEIZE
+
+bird----SP.COMMON
+
+Utrecht----LOC.DISTRICT
+
+man----SUS.GENDER

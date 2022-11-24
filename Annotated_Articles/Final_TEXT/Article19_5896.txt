@@ -1,0 +1,17 @@
+
+['French man steals black panther from zoo, police detains him\nThe man suspected of owning a black panther, which was rescued from rooftops near the northern French city of Lille two weeks ago and later stolen from a zoo, was questioned by police on Tuesday, legal sources said. The young animal, thought to be around six months old and weighing 25-30 kilogram, had roamed free on September 19 after escaping through the window of a private apartment. The ink-black feline was tranquilised with a dart and taken away in a cage. The man is suspected of having illegally acquired the big cat, a protected species, and to have cut off its claws, according to the prosecutor’s office in the city of Lille. He is also suspected of illegally running a business exploiting a “non-domestic” animal or parts of it, the office said. It said it was too early to consider the possibility of animal trafficking charges. Last month, images of the black panther were plastered across newspaper front pages after it was rescued from rooftops only to be stolen from a zoo in Maubeuge near the Belgian border. Mauberge mayor Arnaud Decagny told AFP at the time that “considerable efforts” had been made to force locks and avoid security systems. Police had been looking for the suspect but he handed himself in on the advice of his lawyer, one of the sources said. Zoo personnel were worried about the young panther’s health, “which is rather delicate because he lacks strength,” the mayor added. The panther will be transferred to a centre specialised in rehabilitating wild animals that have been domesticated.']
+
+
+French----SUS.NAT
+
+man----SUS.GENDER
+
+steals----CRIME.CAT
+
+black panther----SP.SPECIFIC
+
+man----SUS.GENDER
+
+black panther----SP.SPECIFIC
+
+September 19----DATE

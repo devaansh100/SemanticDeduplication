@@ -1,0 +1,79 @@
+
+['Operation Wildnet-3 yields more success, smuggler held\nOperation Wildnet-3 yields more success, smuggler held   Staff Reporter : Under the direction of Abhijit Roy Choudhary, Deputy Director, Wildlife Crime Control Bureau, Central Region Jabalpur and In-charge Officer of State Level Tiger Strike Force, Bhopal a special campaign, Wildnet-3 has been started to put-up vigilant check on a racket of illegal online wildlife trade Continuing Operation Wildnet-3, Wildlife Crime Control Bureau, Central Region, Jabalpur, in association with TSF Bhopal and Indore, nabbed an accused and seized three ornaments made of elephant tusk and two Hattha Jodi (reproductive organs) of monitor lizard. The arrested accused has been identified as Rohit Bishlavat, son of Jeevan Bishlavat, native of Ujjain. Three elephant tusk ornaments, including two gem-studded bracelets and a gem-studded broad bangle and two sets of reproductive organs of monitor lizard, were seized. It may be noted that under the direction of Abhijit Roy Choudhary, Deputy Director, Wildlife Crime Control Bureau, Central Region Jabalpur and In-charge Officer of State Level Tiger Strike Force, Bhopal a special campaign, Wildnet-3 has been started to put-up vigilant check on a racket of illegal online wildlife trade through social media. WCCB, Central Region, Inspector Devendra Singh informed that during the campaign, they received information about a suspected man involved in illegal trade of wildlife. In a thorough investigation, the information was confirmed and a combined team of WCCB Jabalpur, TSF Bhopal and TSF Indore started a search for the suspect. Continuing the search, team trapped Rohit Vishlawat at Ujjain by-pass road.']
+
+
+Abhijit Roy Choudhary----OFF.NAME
+
+Deputy Director----OFF.DESIG
+
+Wildlife Crime Control Bureau----AUTH.SEIZE
+
+Central Region Jabalpur----AUTH.SEIZE
+
+In-charge Officer of State Level Tiger Strike Force----OFF.DESIG
+
+Wildlife Crime Control Bureau, Central Region, Jabalpur----AUTH.SEIZE
+
+TSF Bhopal and Indore----AUTH.SEIZE
+
+nabbed----CRIME.CAT
+
+three----QTY
+
+ornaments----ITEM
+
+elephant----SP.COMMON
+
+tusk----ITEM
+
+two----QTY
+
+Hattha Jodi----ITEM
+
+reproductive organs----ITEM
+
+monitor lizard----SP.COMMON
+
+Rohit Bishlavat----SUS.NAME
+
+son----SUS.GENDER
+
+Ujjain----SUS.LOC
+
+Three----QTY
+
+elephant tusk ornaments----ITEM
+
+two----QTY
+
+broad bangle----ITEM
+
+two sets----QTY
+
+reproductive organs----ITEM
+
+monitor lizard----SP.COMMON
+
+Abhijit Roy Choudhary----OFF.NAME
+
+Deputy Director----OFF.DESIG
+
+Wildlife Crime Control Bureau, Central Region Jabalpur----AUTH.SEIZE
+
+WCCB, Central Region,----OFF.DESIG
+
+Inspector----OFF.DESIG
+
+Devendra Singh----OFF.NAME
+
+information----DETECTION_METHOD
+
+illegal trade of wildlife----CRIME.CAT
+
+WCCB Jabalpur----AUTH.SEIZE
+
+TSF Bhopal----AUTH.SEIZE
+
+TSF Indore----AUTH.SEIZE
+
+a search----DETECTION_METHOD

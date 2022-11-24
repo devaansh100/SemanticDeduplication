@@ -1,0 +1,63 @@
+
+['Pangolin rescued from SUV, 5 smugglers held with arms\nVaranasi: A joint team of UP STF and forest officials rescued a pangolin and arrested five wildlife smugglers, along with two licensed weapons and an SUV , from Chitaipur area of Lanka police station on Friday night.STF’s Varanasi field unit in-charge Vinod Singh said they were tipped off by Wildlife Crime Control Bureau, Delhi. “The joint team cordoned off Chitaipur and intercepted the SUV (registration number UP65 BY 7007). The pangolin was found in a gunny bag inside the vehicle,” Singh said.The arrested quintet have been identified as Arun Kumar Singh and Prabhat Singh of Varanasi, Bhuvanendra Vishwakarma and Deepak Chawdhary of Mirzapur and Vimalesh of Chandauli. A licensed rifle and a pistol, and live cartridges were found on them.“The five were taken into custody by forest officials, who produced them in court today (Saturday) and also applied for their remand for further interrogation in the case,” the STF officer said.This was the second major wildlife haul by STF since April 2018, when its local unit had nabbed 10 smugglers with a rare pangolin from a hotel in Sigra. The interstate gang was busy finalising a deal when it was busted. Those arrested hailed from Sonbhadra, Varanasi and Bihar. They had caught the animal from the forests of Pannuganj in Sonbhadra district.Found in 14 states of India, the vulnerable nocturnal mammal is increasingly becoming a victim of wildlife crime for its meat that is considered a delicacy in countries like China and Vietnam, and scales that are used in traditional Chinese medicines.There are eight species of pangolins found across the two continents of Asia and Africa. All are protected under national and international laws, and two are named as critically endangered on the IUCN red list.']
+
+
+Pangolin----SP.COMMON
+
+rescued----CRIME.CAT
+
+5----SUS.NUMBER
+
+UP STF----AUTH.SEIZE
+
+forest officials----AUTH.SEIZE
+
+a----QTY
+
+pangolin----SP.COMMON
+
+five----SUS.NUMBER
+
+two----QTY
+
+licensed weapons----ITEM
+
+an SUV----ITEM
+
+Chitaipur area----LOC.EXACT
+
+Friday----DATE
+
+tipped off----DETECTION_METHOD
+
+gunny bag----CONCEALMENT_METHOD
+
+Arun Kumar Singh----SUS.NAME
+
+Prabhat Singh----SUS.NAME
+
+Varanasi----SUS.LOC
+
+Bhuvanendra Vishwakarma----SUS.NAME
+
+Deepak Chawdhary----SUS.NAME
+
+Mirzapur----SUS.LOC
+
+Vimalesh----SUS.NAME
+
+Chandauli----SUS.LOC
+
+rifle----ITEM
+
+pistol----ITEM
+
+live cartridges----ITEM
+
+interstate gang----SUS.AFFIL
+
+Sonbhadra----SUS.LOC
+
+Varanasi----SUS.LOC
+
+Bihar----SUS.LOC

@@ -1,0 +1,81 @@
+
+['Hit by Vehicles, Killed for Meat: Hog Deer Are Escaping Kaziranga Floods Only to Meet a Worse Fate\nAs heavy rains submerged almost 80 per cent of Kaziranga National Park, making it easier to locate animals fleeing the flooded habitats, a section of locals in few fringe areas are resorting to deer hunting for meat and body parts. Three persons have been recently arrested by the Crime Investigation Range (CIR) and Central Range sleuths under Biswanath wildlife division — in five separate incidents of deer hunting in Assam in the month of June.  “During monsoon, the animals, mostly hog deer, come out of the park Addition for shelter in fringe areas, and people take advantage of such a situation to hunt distressed animals for meat. Every season we arrest a good number of people from the front locality on charges of hunting. The hog deer falls under Schedule I species of Wildlife (Protection) Act, 1972 that forbids hunting through strict regulations,” said Pranjal Baruah, Forest Range Officer, CIR and Central Range of Biswanath Ghat.  In a joint police operation by Behali police and foresters on Tuesday, two persons were arrested with half a kilo of cooked venison. Three hog deer skins were also recovered from their possession. The duo, identified as Biswajit Baruah and Akaman Borah of Behali town, have been charged with hunting and illegal possession of cooked and fresh meat of Indian Hog deer. They have been booked under Sections 9, 39(3), 40 and 51 of Wildlife Protection (Assam Amendment) Act 2009, under which an offence is punishable for a term of 7 to 10 years.  “So far, five hunting cases have been reported in Biswanath district, of which four are from Behali area. We have recovered four hog deer carcasses. Though a carcass was recovered by the Range Officer, Eastern Range, no arrest could be made as the accused in the first three cases managed to escape. In the fourth case, the Range Officer, Central Range recovered one female live Hog deer from the possession of accused Abdul Ali at Biswanath Ghat. We are on the lookout for others,” said Baruah, adding that almost 30 people are involved in these incidents. In previous years, deer meat or venison was found to be sold at Rs 300 to Rs 500 a kilo.  The hog deer population in Kaziranga is estimated to be around 35 to 42 thousand (2017-2018), and believed to be steady and increasing. During the annual occurrence of floods, the deer population from North and South bank of Brahmaputra migrates to the hills and often stays along the edge of flooded sections in fringe villages, thus becoming “easy targets for people with vested interests”. Many are also indulging in wildlife crime as the Coronavirus lockdown has affected a change in their normal work routine, said P Sivakumar, the Director of Kaziranga National Park.  “You can now spot hog deer in every tea garden around Kohora, Bagori, Burapahar, and in the Karbi Anglong hills. Hunting in these hills has been a common issue — people from other areas, other districts, even from Guwahati would come here in search of deer meat. Because of lockdown, even as people would attempt to hunt wildlife, things are under control — there is limited movement of people and intense monitoring and patrolling. It’s not so easy now,” said Sivakumar.  Apart from being killed for meat, eight from the species have died after being hit by speeding vehicles along the national highway, despite advisory speed limits. Authorities have imposed fine on seven vehicles, so far, for over-speeding. It has also been observed that the deer respond differently from other animals when crossing the road — deer hooves do not provide a stable grip on paved ground, and it often becomes dangerous when they get impatient to cross the road. The barking deer are more usually spotted alone or in a pair while the solitary hog deer could also be part of small herds.  “Deer do not have much patience, so people need to be more careful. If you are travelling between Jakhalabandha and Bokakhat, you will see a lot of hog deer on the highway itself. They would just run — they think that before the vehicle passes through, they can cross the road. That is a major issue. Even if you are driving at a speed less than 40kmph, sometimes they try to pass through in between the vehicles. If it’s a trailer, they would move under the vehicle. Their hooves do not provide a grip on bitumen road unlike other animals that can move without losing grip on the support surface,” said Sivakumar.  Almost 80 per cent of the animals including elephants and deer species have migrated to the higher reaches of Karbi Anglong hills surrounding the park, while the one-horned rhinos are taking shelter in the highlands inside, in co-existence with buffaloes.  “Last year, we had high floods during the second week of July and this year, the peak season is yet to start. But compared to flood levels last year, the water is five feet down this year,” P Sivakumar mentioned.  Over 290 animals died in floods last year. This year, as per the daily flood report generated by park authorities on July 2, 25 animals have died so far — a rhino reportedly died of natural causes on June 26 in western range of the park, four animals including wild boar and deer died due to drowning, 21 Hog deer have been killed — either by speeding vehicles along the highway or under treatment at the Centre for Wildlife Rehabilitation and Conservation (CWRC) near Kaziranga. The CWRC team does a phenomenal job during floods every year, treating orphaned and injured animals, and releasing some of them back into the wild.  “People may notice several hog deer resting in their backyard fleeing floods, but they should not try to chase or capture them to attempt a rescue,” said Dr Samsul Ali, a field wildlife veterinarian with Wildlife Trust of India (WTI) at CWRC.  “They might encounter humans in their migratory path during floods. Their route gets blocked by human habitat, crop fields, roads and tea gardens. As Cervid (Cervidae, the deer family), they are prone to capture myopathy. So, one must not try to hold them. They may rest for a while, and if not disturbed, will resume their journey. People should give the Hog deer an undisturbed escape route to move to their destination. They will return to re-occupy their habitat as waters recede. If any animal is found trapped or injured, one must inform the forest department,” Ali explained.']
+
+
+Vehicles----TRANSPORT_MODE
+
+Killed----CRIME.CAT
+
+Hog Deer----SP.COMMON
+
+deer----SP.COMMON
+
+hunting----CRIME.CAT
+
+Three----SUS.NUMBER
+
+Crime Investigation Range----AUTH.SEIZE
+
+CIR----AUTH.SEIZE
+
+Central Range sleuths----AUTH.SEIZE
+
+deer hunting----CRIME.CAT
+
+Assam----LOC.STATE
+
+Pranjal Baruah----OFF.NAME
+
+Forest Range Officer, CIR and----OFF.DESIG
+
+Behali police----AUTH.SEIZE
+
+foresters----AUTH.SEIZE
+
+Tuesday----DATE
+
+two----SUS.NUMBER
+
+half a kilo----QTY
+
+cooked venison----ITEM
+
+Three----QTY
+
+hog----SP.COMMON
+
+deer----SP.COMMON
+
+skins----ITEM
+
+duo----SUS.NUMBER
+
+Biswajit Baruah----SUS.NAME
+
+Akaman Borah----SUS.NAME
+
+Behali town----SUS.LOC
+
+hunting----CRIME.CAT
+
+illegal possession----CRIME.CAT
+
+meat----ITEM
+
+Indian Hog deer----SP.SPECIFIC
+
+four----QTY
+
+hog deer----SP.COMMON
+
+carcasses----ITEM
+
+one----QTY
+
+deer----SP.COMMON
+
+Abdul Ali----SUS.NAME
+
+Biswanath Ghat----LOC.EXACT
+
+CWRC----AUTH.SEIZE

@@ -1,0 +1,23 @@
+
+['Hunt on for killer tiger in Karnataka forest\nBengaluru: A massive hunt is underway in Bandipur reserve forest in Karnataka’s Chamarajanagar district to trap a tiger which killed two persons, including an octogenarian on Tuesday, a wildlife official said on Wednesday. “We are on the hunt to locate and trap the killer tiger which mauled 80-year-old farmer Shivappa to death,” state’s Conservator of Forests T. Balachandra told IANS. The Bandipur Tiger Reserve is an 872 square km forest, situated about 220km southwest of Bengaluru on the Karnataka-Tamil Nadu border. Shooting the tiger, however, will be a last resort if the search party is unable to tranquilize and immobilize it on sighting. “Our priority is to tranquilise the tiger as there is no order to shoot. We are not in a hurry to shoot it but to capture it alive,” said Balachandra. The forest guards have installed an additional 100 camera traps by evening when the hunt was suspended for the day. The hunt party plans to install 50-60 more camera traps on Thursday in the wild reserve where the feline is on the prowl. “We have reinforced the hunt with three more elephants and two veterinary doctors joining the search team,” the official said. Shivappa is the second victim of the 4-6 year-old big cat, which turned a man-eater 2 months ago when it claimed its first victim, identified as Shivamadaiah, in the same area in mid-September when he was returning to his village with two bullocks from another village. “Shortage of tranquilizers and veterinary doctors is hampering our efforts to sight and neutralize the tiger at the earliest and before it attacks a human than other wildlife animals,” Balachandra said. The affected people dwelling in the forest are not insisting on killing the tiger but capturing and relocating it in the wild. Camera traps have shown the tiger was healthy and prowling around well. “Forest guards have been seeing pub marks daily of the elusive big cat, which is reported to have killed at least 14 cattle over the last 2 months,” Balachandra added.']
+
+
+killer tiger----SP.COMMON
+
+Karnataka----LOC.STATE
+
+Bandipur reserve forest----LOC.EXACT
+
+Karnataka’s----LOC.STATE
+
+Chamarajanagar----LOC.DISTRICT
+
+tiger----SP.COMMON
+
+two----SUS.NUMBER
+
+Tuesday----DATE
+
+Shivappa----SUS.NAME
+
+forest guards----AUTH.SEIZE

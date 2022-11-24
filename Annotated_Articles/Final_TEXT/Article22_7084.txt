@@ -1,0 +1,37 @@
+
+["Forest Officials In Tamil Nadu Have Arrested An Illegal Wildlife Trader\nForest officers in Tamil Nadu have detained a guy they describe as a seasoned illegal trader and smuggler of endangered wild animals and birds.Suresh Balaii, a dealer from Chennai, was accused of selling jungle cats, Civet cats, pea fowls, Tawny eagles, parakeets, and Indian spotted eagles to a Madurai resident last year. Despite the fact that four people were arrested, Suresh, the fourth accused in the case, was able to obtain anticipatory bail. Authorities, on the other hand, arrested him for violating his release conditions. Manikandan, the Forest Range Officer said that it became possible after receiving the proper tip for it. Activists stated that Suresh engages with the sale of pets and wildlife through a network of conduits, making it impossible to track him down. They claim that he is known for dealing in mouse deer, star tortoise, and grizzly gigantic squirrel, among other animals. Officials arrested Suresh when he was counting on the anticipatory bail. Manikandan stated in response to a particular query on Suresh's noncompliance that he had breached surety norms. Activists also blame it on what they describe the state forest department's poor fining system, which allows many accused to get away with minor fines."]
+
+
+Forest Officials----AUTH.SEIZE
+
+Tamil Nadu----LOC.STATE
+
+Arrested----CRIME.CAT
+
+detained----CRIME.CAT
+
+Suresh Balaii----SUS.NAME
+
+Chennai----SUS.LOC
+
+jungle----SP.SPECIFIC
+
+cats----SP.COMMON
+
+Civet cats----SP.SPECIFIC
+
+pea----SP.SPECIFIC
+
+fowls----SP.COMMON
+
+Tawny eagles----SP.SPECIFIC
+
+parakeets----SP.COMMON
+
+Indian spotted eagles----SP.SPECIFIC
+
+Madurai----SUS.LOC
+
+four----SUS.NUMBER
+
+Suresh----SUS.NAME

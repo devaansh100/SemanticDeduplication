@@ -1,0 +1,41 @@
+
+['Exotic animals seized from check-in baggage at Chennai airport as smuggling attempt thwarted\nExotic animals seized from check-in baggage at Chennai airport as smuggling attempt thwarted Officials of the Customs Air Intelligence Unit at the Chennai airport have seized exotic wildlife species that were being smuggled into India by a passenger who had flown in from Bangkok. A senior customs official said that they had been keeping a strict vigil for over a month, based on information that animals were likely to be smuggled in from Bangkok. On Sunday morning, officials noticed a passenger moving in a suspicious manner in the arrival area and kept a close watch on him. After collecting his checked-in luggage, he was found to be walking hurriedly, after which he was intercepted. The passenger was identified as Mohammed Mohideen, a 28-year old Chennai resident who had arrived via Thai Airways flight TG337. On receiving evasive replies from him, officials frisked his baggage, which revealed 8 plastic containers and a cardboard box that were concealed in chocolates, gift items and clothing. On unpacking, it was leant that the plastics containers and cardboard boxes contained species of rodents and reptiles.']
+
+
+animals----SP.COMMON
+
+seized----CRIME.CAT
+
+check-in baggage----CONCEALMENT_METHOD
+
+Chennai airport----LOC.EXACT
+
+animals----SP.COMMON
+
+seized----CRIME.CAT
+
+Chennai airport----LOC.EXACT
+
+Customs Air Intelligence Unit----AUTH.SEIZE
+
+Bangkok----ROUTE.SRC
+
+information----DETECTION_METHOD
+
+Bangkok----ROUTE.SRC
+
+Sunday----DATE
+
+morning----TIME
+
+Mohammed Mohideen----SUS.NAME
+
+28----SUS.AGE
+
+Chennai----SUS.LOC
+
+plastic containers----CONCEALMENT_METHOD
+
+cardboard box----CONCEALMENT_METHOD
+
+gift items----CONCEALMENT_METHOD

@@ -1,0 +1,11 @@
+
+['SSB recovers 6 antlers of spotted deer\nWhat your favourite alcoholic drink says about your personality Food']
+
+
+SSB----AUTH.SEIZE
+
+6----QTY
+
+antlers----ITEM
+
+spotted deer----SP.SPECIFIC

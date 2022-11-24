@@ -1,0 +1,29 @@
+
+['Mandsaur: 30 baby crocodiles spotted on a farm, released in Chambal\nMandsaur (Madhya Pradesh): In a surprise find, as many as 30 baby crocodiles were spotted near a farm located at Sadalpur village of Bhanpura tehsil of Mandsaur district on Monday. Fear gripped the villagers following this discovery. Farmer Shubham Chetram Patidar was both shocked and thrilled at spotting the babies. He then alerted the district collector Gautam Singh and the forest department. Upon getting information, a team of forest department rushed to the village and rescued the reptiles. They were later released into the Chambal river (natural habitat). The noble gesture made by farmers towards wildlife conservation has been receiving widespread appreciation. Finance minister Jagdish Deora and Mandsaur MLA Yashpal Singh Sisodia also praised the farmers.']
+
+
+30----QTY
+
+crocodiles----SP.COMMON
+
+Madhya Pradesh----LOC.STATE
+
+30----QTY
+
+Sadalpur village of Bhanpura tehsil of----LOC.EXACT
+
+Mandsaur----LOC.DISTRICT
+
+Monday----DATE
+
+Farmer----OFF.DESIG
+
+Shubham Chetram Patidar----OFF.NAME
+
+district collector----OFF.DESIG
+
+Gautam Singh----OFF.NAME
+
+forest department----AUTH.SEIZE
+
+forest department----AUTH.SEIZE

@@ -1,0 +1,19 @@
+
+['Another spotted deer killed by feral dogs at UoH; 6th in 2 months\nHyderabad: A spotted deer was killed by feral dogs at the University of Hyderabad campus behind the NRS hostel on Wednesday. This is the sixth such incident in the last month. For the last two years, students have been discovering injured or deceased animals hunted by feral dogs. "During summer, animals like boars and deer come out of the jungles in search of water and food. This is when they are attacked by the dogs," explained Rohit Bondugula, a PhD scholar at UoH and a wildlife activist. He pointed out that there is an urgent need to look into the issue and relocate the feral dogs to another place. "We have talked about the issue with the university administration. They have informed us that they are in talks with the Greater Hyderabad Municipal Corporation," Rohit said. While no attacks on students or staff have been reported, Rohit said the feral dogs often attack deer and boars. "They prey on wild animals," he said. According to Rohit, as many as 30-40 animals have been attacked by feral dogs. He said that almost all the wild animals that are attacked succumb to their injuries. He also pointed out that the population of dogs has been steadily rising. The dogs travel in packs in different parts of the university. There are as many as 50 feral dogs on campus, he said. To avoid these incidents, UoH students are planning to install water taps and bowls deep in the jungles so that wild animals do not have to come out of their spaces.']
+
+
+spotted deer----SP.SPECIFIC
+
+killed----CRIME.CAT
+
+feral dogs----SP.COMMON
+
+UoH----LOC.EXACT
+
+spotted deer----SP.SPECIFIC
+
+killed----CRIME.CAT
+
+feral dogs----SP.COMMON
+
+Wednesday----DATE

@@ -1,0 +1,41 @@
+
+['Gujarat: Forest department still clueless about what killed tiger\nMangla Bavo A day after a tiger was found dead in the forest of Kantar Village in Mahisagar, the forest department is still clueless about what killed the wild cat. The tiger, nicknamed Mangla Bavo for its propensity to not settle anywhere, had become the first to be spotted in Gujarat in almost three decades. Its presence was first reported by a local school teacher and later camera traps confirmed the same mid of February.  The forest department, in a release, said that during the examination no physical injury was noticed on the animals.  "Also, all the 18 claws, 4 canine teeth, genital organ and skin were found to be intact, hence this is definitely not a case of poaching," said the release.  Another official in the know said in all probability, the animal died due to something it ate. It should be noted that since the news of its death, it has been suspected that the animal could have been poisoned.  "The jungles where he was found has cobras and Russell Vipers. It is also possible that the animal was bitten by a poisonous snake. But so far, it seems it could be something that he ate," said the official. However, he added that no major kills were reported in the area a day or two before the tiger\'s body was found. "We did not find any carcasses nor did locals report a missing animal," said the official.  The release from the department also said that the pattern of the tiger\'s stripes led the post-mortem panel, formed to probe its death, to conclude that it was the same animal that was captured on the camera trap around two weeks back.  An expert, who had also been following the tiger\'s presence in Gujarat, rubbished the \'bitten by snake\' theory. "You only need to take a look at the tiger deaths across India and the cause to know how improbable this angle is," said the expert.  Chief Conservator of Forest Vadodara, SK Srivastava said, "We have collected three sets of samples for investigation, which will be sent to Gujarat Forensic Sciences Laboratory in Gandhinagar, Anand Veterinary Hospital and LaCONES in Hyderabad for examination."  The post mortem panel comprises senior forest department officials, a representative of the National Tiger Conservation Authority (NCTA), veterinary doctors, and district representative of the Animal Welfare Board of India, Srivastava said.  "The carcass was burnt as per the protocol of the National Tiger Conservation Authority (NTCA) in the presence of a panel, villagers and mediapersons," he added. - With inputs from PTI Lioness found dead Dead body of a lioness, aged around 10 to 11 years, was found in Tulsishyam range of Gir East division on Wednesday, the state\'s forest department said. The dead body was found inside the protected area. They said that nails of the lioness were found to be intact, and nothing suspicious was noticed. The postmortem would be conducted as per the due procedure, they added. The lioness\' body was found two days after a male lion was found dead in Jasadhar range of Gir East. The state government said in the assembly last week that 204 lions and cubs had died, majority of them due to natural causes, in 2017 and 2018.']
+
+
+Forest department----AUTH.SEIZE
+
+tiger----SP.COMMON
+
+forest department----AUTH.SEIZE
+
+18----QTY
+
+claws----ITEM
+
+4----QTY
+
+canine teeth----ITEM
+
+genital organ----ITEM
+
+skin----ITEM
+
+three sets of samples for investigation----OUTCOME
+
+Anand Veterinary Hospital----AUTH.MISC
+
+LaCONES----AUTH.MISC
+
+National Tiger Conservation Authority (NCTA----AUTH.MISC
+
+Lioness----SP.COMMON
+
+body----ITEM
+
+lioness----SP.COMMON
+
+Tulsishyam range of Gir East division----LOC.EXACT
+
+Wednesday----DATE
+
+state's forest department----AUTH.SEIZE

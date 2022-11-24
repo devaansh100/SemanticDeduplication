@@ -1,0 +1,29 @@
+
+['Bird flu: No cause for concern in other parts of Thane, says collector\nIn light to the cases detected in Shahapur, District Collector Rajesh Narvekar on Friday assured that there was no cause for concern in other parts of the district in . cases have been detected in Shahapur, following the death of around 100 birds at a poultry farm in Vehloli village in the tehsil recently. Samples collected from the dead birds were sent to a Pune-based laboratory for testing and the results confirmed that they had died due to H5N1 avian influenza, Chief Executive Officer (CEO) of the Zilla Parishad, Dr Bhausaheb Dangde had earlier said. Speaking to reporters, Narvekar said the district administration has issued a notification for culling of birds in the farms within one-km radius of the affected farm. Apart from cases reported from Shahapur, no cases have been detected in any other part of the district, he said, assuring people there was no cause for panic. Meanwhile, at least 15,600 broiler birds had been culled in Shahapur in compliance with the standard operating procedure till Friday morning, the PRO of the Zilla Parishad Pankaj Chavan said. Apart from this, 7,962 layer birds, 20 ducks, 980 eggs, litter feed etc have also been culled, he said, adding that the process of culling is underway. The district administration is monitoring the situation closely to prevent the spread to other locations, the official said. (Only the headline and picture of this report may have been reworked by the Business Standard staff; the rest of the content is auto-generated from a syndicated feed.)']
+
+
+District Collector----OFF.DESIG
+
+Rajesh Narvekar----OFF.NAME
+
+Samples collected from the dead birds were sent to a Pune-based laboratory for testing----OUTCOME
+
+15,600----QTY
+
+broiler birds----SP.COMMON
+
+Shahapur----LOC.DISTRICT
+
+7,962----QTY
+
+layer birds----SP.COMMON
+
+20----QTY
+
+ducks----SP.COMMON
+
+980----QTY
+
+eggs----ITEM
+
+litter feed----ITEM

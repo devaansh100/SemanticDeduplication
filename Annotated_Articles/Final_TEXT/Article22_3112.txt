@@ -1,0 +1,33 @@
+
+['Leopard cub gets caught in iron trap set by poachers\nThe rescued cub has suffered injuries on one of its legs Iron traps that caught the cub are said to be mainly used by Bahelia poachers from MP The forest officers have rescued a one-year-old leopard that got caught in an iron trap set up by poachers in Karad, near Sangli. However, the cub has suffered deep injuries on his leg. According to forest department officials, "On Tuesday morning, villagers came across a one-year-old leopard cub which was caught in a trap set by a hunter, at Karad in Khodashi taluka." Forest ranger Tushar Navale, Honorary Wildlife Warden Rohan Bhate and other staff including forest ranger Baburao Kadam, ranger Ramesh Jadhav reached the spot immediately. "The cub has suffered a serious injury in its leg. Dr Chandan Savane, a veterinarian of the forest department is treating the injured cub," said a forest department official. It is said that the iron trap, in which the leopard was trapped, is mainly used by Bahelia poachers, from Katni in Madhya Pradesh.']
+
+
+Leopard----SP.COMMON
+
+cub----SP.COMMON
+
+Bahelia poachers from MP The forest officers----SUS.AFFIL
+
+leopard----SP.COMMON
+
+Tuesday----DATE
+
+morning----TIME
+
+leopard----SP.COMMON
+
+Forest ranger----OFF.DESIG
+
+Tushar Navale----OFF.NAME
+
+Honorary Wildlife Warden----OFF.DESIG
+
+Rohan Bhate----OFF.NAME
+
+forest ranger----OFF.DESIG
+
+Baburao Kadam----OFF.NAME
+
+ranger----OFF.DESIG
+
+Ramesh Jadhav----OFF.NAME

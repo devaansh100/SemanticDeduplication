@@ -1,0 +1,27 @@
+
+['Florida man lets 9-foot alligator eat family dog after realising saving him \'was not a good idea\'\nThe 9-feet-long alligator leapt out of a waterway and carried the dog back into the water to eat it | Representative image Photo : iStock KEY HIGHLIGHTS A Florida man caught in a struggle with a gator attacking his dog had to let go of the reptile. The pair were attacked by a 9-foot alligator at a popular park in Tallahassee. "It took him down like it was nothing," the owner recalled. A walk at a local park took a turn for the worse after a Florida man and his family dog were attacked by a 9-foot alligator that killed the canine on June 9, wildlife authorities said. The pair were at the J.R. Alford Greenway Trail, a popular park in the state capital, doing their usual outdoor activities when the large reptile leaped out of a waterway nearby, grabbed the dog by its head and dragged it into the water. "Boom, the water just sort of exploded," he recounted the incident with the Florida Fish and Wildlife Conservation Commission . "He never barked. He never saw it. It took him down like it was nothing,” the Florida man added. However, in a last-ditch effort to rescue the pup, Wells tried to grab the alligator so it’d set his dog free but almost instantaneously reconsidered his decision seeing how he was no match for the gator’s size. "He said he soon realised that was not a good idea and let the alligator go," the agency report said. The alligator that measured 9 feet, 2 inches in length, as per the FWC , was later captured by trappers and euthanised. Later, Toby’s remains were discovered and returned to his owner. The dog was reportedly not leashed at the time of the attack, a practice strongly recommended by local authorities.']
+
+
+Florida----LOC.STATE
+
+alligator----SP.COMMON
+
+alligator----SP.COMMON
+
+Florida----LOC.STATE
+
+gator----SP.COMMON
+
+9-foot----QTY
+
+alligator----SP.COMMON
+
+Tallahassee----LOC.DISTRICT
+
+June 9----DATE
+
+J.R. Alford Greenway Trail----LOC.EXACT
+
+alligator----SP.COMMON
+
+alligator----SP.COMMON

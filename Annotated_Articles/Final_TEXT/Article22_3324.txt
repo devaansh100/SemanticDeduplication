@@ -1,0 +1,29 @@
+
+['Assam: 235 rare turtle species seized in Kamakhya Railway Station\nGuwahati: An unclaimed consignment of 235 rare turtle species were seized at the Kamakhya Railway Station in Guwahati. The seizure was made by the Railway Protection Force on Saturday night. Among the seized turtles, most were Indian flap shell turtles which are considered as vulnerable as per the IUCN. Also Read: Assam: One more shot by police while attempting to “flee” in Cachar They were hidden inside 10 bags with no attendants. It has been suspected that the turtles were being smuggled by wildlife traffickers but to confirm it, an investigation has been initiated. The consignment was found from the 19305 up Indore-Kamakhya train. Also Read: Assam: Probe into water supply projects in Guwahati announced The turtles were handed over to the forest department and have been taken to the Assam State Zoo cum Botanical Garden. They will be treated by the veterinary doctors at the zoo and then the procedure for rehabilitating them will be initiated.']
+
+
+Assam----LOC.STATE
+
+235----QTY
+
+turtle----SP.COMMON
+
+Kamakhya Railway Station----LOC.EXACT
+
+235----QTY
+
+Guwahati----LOC.CITY
+
+seizure----CRIME.CAT
+
+Railway Protection Force----AUTH.SEIZE
+
+Saturday----DATE
+
+night----TIME
+
+turtles----SP.COMMON
+
+Indian flap shell turtles----SP.SPECIFIC
+
+hidden inside 10 bags----CONCEALMENT_METHOD

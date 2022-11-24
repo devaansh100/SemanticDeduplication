@@ -1,0 +1,19 @@
+
+["Chilling Footage Shows Hundreds Of Birds Mysteriously Dropping Dead From The Sky In Mexico\nA chilling video has emerged on the internet where hundreds of birds can be seen crashing to their deaths mid-flight in the Mexican state of Chihuahua. The birds — later identified as yellow-headed blackbirds — were discovered lifeless on sidewalks by residents of Cuauhtémoc City, the Spanish-language El Heraldo de Chihuahua reported. What happened The footage from a security camera shows the flock of migratory birds descending on to houses like a cloud of black smoke. Most birds manage to fly off but subsequent footage shows carcasses of the distinctive black and yellow birds scattered on streets of the city.  NY Post The incident happened on the morning on 7 February, according to local reports. The birds tend to breed farther north, in the US and Canada, and migrate south for winter in Mexico. The cause of death remains unclear but experts said it was most likely that the flock was “flushed” from above by a predatory bird swooping down to make a catch. Here's a footage posted by Reuters on Twitter: WARNING: GRAPHIC CONTENT  Security footage shows a flock of yellow-headed blackbirds drop dead in the northern Mexican state of Chihuahua pic.twitter.com/mR4Zhh979K — Reuters (@Reuters) February 14, 2022   Possible reasons of death According to the local paper El Heraldo de Chihuahua, a veterinarian suggested blame for the incident could lie with high levels of pollution, driven by the use of wood-burning heaters, agrochemicals, and cold weather in the area. Another suggestion was that the birds were electrocuted while resting on power lines. There was speculation on social media that it could have been caused by 5G technology.  What experts said But Dr Richard Broughton, an ecologist with the UK Centre for Ecology & Hydrology, said that although he could not see a raptor in the footage, he was 99% sure it was caused by a predatory bird. A predator could have made the birds swirl tightly and driven them towards the ground, with higher birds forcing lower ones to crash into the buildings or the ground. “This looks like a raptor like a peregrine or hawk has been chasing a flock, like they do with murmurating starlings, and they have crashed as the flock was forced low,” he said. “You can see that they act like a wave at the beginning, as if they are being flushed from above.”  Dr Alexander Lees, a senior lecturer in conservation biology at Manchester Metropolitan University, agreed. “For my part and from one video and no toxicology, I’d still say the most probable cause is the flock murmurating to avoid a predatory raptor and hitting the ground,” he said. yellow-headed-blackbird “There always seems to be a kneejerk response to blame environmental pollutants, but collisions with infrastructure are very common. In a tightly packed flock, the birds are following the movements of the bird in front rather than actually interpreting their wider surroundings, so it isn’t unexpected that such events happen occasionally.”  In January 2021, hundreds of dead birds were found lying around the Termini train station on Via Cavour in Rome on New Year's night. The exact cause of death was unclear, but it was linked to firework displays that took place in the city to mark the beginning of the new year. For more on news and current affairs from around the world, please visit Indiatimes News. "]
+
+
+Hundreds----QTY
+
+Birds----SP.COMMON
+
+Mexico----LOC.STATE
+
+birds----SP.COMMON
+
+Chihuahua----LOC.DISTRICT
+
+birds----SP.COMMON
+
+morning----TIME
+
+7 February----DATE

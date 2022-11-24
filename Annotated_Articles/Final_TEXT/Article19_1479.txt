@@ -1,0 +1,31 @@
+
+['Guntur-Nandyal stretch turns deadly for wild animals\nThe latest was a tigress, 3, who was found dead on the railway tracks at Chelama forest range of Nallamala forest near Nandyal town late night on Tuesday. Kurnool: The 25 kilometre train track between Diguvamettaa- Chelima railway station on the Guntur-Nandyal stretch has become deadly for wild animals as nearly four of them have lost their lives after being run over in the past one year, said chief conservator of forests Gopinath. The latest was a tigress, 3, who was found dead on the railway tracks at Chelama forest range of Nallamala forest near Nandyal town late night on Tuesday. The postmortem report says it was an accidental death, forest officials said. “The geography being challenging and the steep and narrow lane that cuts through the reserve forest being beyond the defence mechanism of wild animals to negotiate has led to their deaths,” he said. In the last one year, two panthers, one tigress, one bear lost their lives in the fatal zone. Mr Gopinath said that the tiger population was increasing in the Gundla Bramheswaram wildlife sanctuary falling under Nandyal forest division. A tiger corridor was made between Gundla Bramheswaram and Vonitimitta in Kadapa district and the camera traps revealed frequent movement of the tigers. He said extensive studies have been made by environmentalists on the need to reduce the speed of trains moving along the reserve forest. Mr Gopinath said that he had noticed at least seven goods trains moving in a span of five hours between 2 pm to 7 pm on Wednesday on the Nandyal–Guntur line. There are in all about 25 trains moving along the tracks through the reserve forest in Nandyal division. He said a letter has been written to the divisional manager at Guntur to consider reducing the speed of all trains to as low as 20 kms per hour on the stretch of 25 kilometers between Diguvametta-Chelima railway stations.']
+
+
+Guntur-Nandyal stretch----LOC.EXACT
+
+tigress----SP.COMMON
+
+3----SUS.AGE
+
+found dead----CRIME.CAT
+
+night----TIME
+
+Tuesday----DATE
+
+tigress----SP.COMMON
+
+3----SUS.AGE
+
+found dead----CRIME.CAT
+
+night----TIME
+
+Tuesday----DATE
+
+pm----TIME
+
+Wednesday----DATE
+
+Nandyal–Guntur line----LOC.EXACT

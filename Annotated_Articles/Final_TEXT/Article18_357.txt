@@ -1,0 +1,13 @@
+
+['Science News Roundup: Tortoise and its egg found in latest Pompeii discovery\nFollowing is a summary of current science news briefs. Tortoise and its egg found in latest Pompeii discovery The remains of a tortoise and its egg have been unearthed by archaeologists in Pompeii, the Roman city buried in a volcanic eruption in 79 AD. The animal was found hidden under the clay floor of a storehouse and probably died before Vesuvius erupted. (With inputs from agencies.)']
+
+
+Tortoise----SP.COMMON
+
+Tortoise----SP.COMMON
+
+egg----ITEM
+
+tortoise----SP.COMMON
+
+Pompeii----LOC.CITY

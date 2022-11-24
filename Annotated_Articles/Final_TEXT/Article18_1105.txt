@@ -1,0 +1,27 @@
+
+["Tribal youth killed in wild elephant attack at Kuttampuzha\nKOTHAMANGALAM: A tribal youth was killed in an attack by a wild elephant at Pinavoorkudi in Kuttampuzha. 38-year old Santhosh was attacked while he went for a bath in Valiyathottil on Saturday evening. The locals conducted a search as Santosh did not return and the body was found trampled by the elephant on Sunday morning. The locals had lodged several complaints with the forest department against wild elephant attacks. There was a scuffle between the police and the locals. Adv. Dean Kuriakose MP and Anthony John MLA reached the spot and after the discussion with Forest Minister A K Shasheendran, they informed that compensation would be paid to Santhosh's family and his only son could be given a job as a temporary watchman in the forest department. The locals agreed to take the body only after this assurance. The body was shifted to Kothamangalam Taluk Hospital for post-mortem. The DFO said that night patrolling in the area would be strengthened and fences would be erected wherever needed."]
+
+
+Tribal youth----SUS.AFFIL
+
+killed----CRIME.CAT
+
+wild elephant----SP.COMMON
+
+Kuttampuzha----LOC.EXACT
+
+tribal youth----SUS.AFFIL
+
+Pinavoorkudi----LOC.EXACT
+
+38-year old----SUS.AGE
+
+Santhosh----SUS.NAME
+
+Saturday----DATE
+
+evening----TIME
+
+Sunday----DATE
+
+morning----TIME

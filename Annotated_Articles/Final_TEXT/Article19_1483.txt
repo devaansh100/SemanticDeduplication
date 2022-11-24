@@ -1,0 +1,61 @@
+
+['Man held for selling fake tiger skin\nBy Express News Service HYDERABAD: A youngster from Hyderabad, who was trying to sell the skin of an unknown animal by claiming it was tiger skin, was arrested by Rachakonda police at Chaitanyapuri on Tuesday. The accused, Mohd Akheem, approached a businessman and offered to sell the skin for Rs 5 lakh. Police nabbed him and seized the skin from him. On inquiry, police found that, Akheem, a resident of Asifnagar, had travelled to Araku in Andhra Pradesh. In the forest area, he found an abandoned hut and on entering the hut, he found the skin of an animal. From its appearance, he thought it belonged to a tiger and brought it along with him home. Police have sent the skin for analysis to ascertain which animal it belongs to. HYDERABAD: A youngster from Hyderabad, who was trying to sell the skin of an unknown animal by claiming it was tiger skin, was arrested by Rachakonda police at Chaitanyapuri on Tuesday. The accused, Mohd Akheem, approached a businessman and offered to sell the skin for Rs 5 lakh. Police nabbed him and seized the skin from him. On inquiry, police found that, Akheem, a resident of Asifnagar, had travelled to Araku in Andhra Pradesh. In the forest area, he found an abandoned hut and on entering the hut, he found the skin of an animal. From its appearance, he thought it belonged to a tiger and brought it along with him home. Police have sent the skin for analysis to ascertain which animal it belongs to.']
+
+
+selling----CRIME.CAT
+
+tiger----SP.COMMON
+
+skin----ITEM
+
+Hyderabad----SUS.LOC
+
+skin----ITEM
+
+tiger----SP.COMMON
+
+skin----ITEM
+
+Rachakonda police----AUTH.SEIZE
+
+Chaitanyapuri----LOC.EXACT
+
+Tuesday----DATE
+
+Mohd Akheem----SUS.NAME
+
+skin----ITEM
+
+5 lakh----VALUE
+
+Asifnagar----SUS.LOC
+
+skin----ITEM
+
+sent the skin for analysis to ascertain which animal it belongs to----OUTCOME
+
+Hyderabad----SUS.LOC
+
+skin----ITEM
+
+tiger----SP.COMMON
+
+skin----ITEM
+
+Rachakonda police----AUTH.SEIZE
+
+Chaitanyapuri----LOC.EXACT
+
+Tuesday----DATE
+
+Mohd Akheem----SUS.NAME
+
+Rs 5 lakh----VALUE
+
+seized----CRIME.CAT
+
+skin----ITEM
+
+Asifnagar----SUS.LOC
+
+sent the skin for analysis to ascertain which animal it belongs to.----OUTCOME

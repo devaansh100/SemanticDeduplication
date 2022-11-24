@@ -1,0 +1,15 @@
+
+['Assam: Locals capture, manhandle leopard in Mariani\nGuwahati: Man-animal conflict is a common issue in Assam and often leads to the death of either one of them. On Thursday, it was reported that a stray leopard was manhandled and dragged by its tail at a tea garden in Mariani. The incident took place at the Heelikha Tea Estate in Mariani. Also Read: President Ram Nath Kovind arrives in Assam on three-day tour The leopard was injured during the process of capturing it by the locals who claimed that the big cat had been attacking their livestock and people as well over the past few days. Several environmentalists have shown concern about the process that was used to capture the big cat. The locals claimed that they decided to capture the leopard all by themselves because the forest officials did not show appropriate measures in containing the animal. They claimed that they had informed that forest department several hours before acting on their own to capture the leopard. Also Read: Assam: Man injured in leopard attack in Numaligarh Some locals also claimed that the animal was manhandled in presence of police and forest personnel. However, the animal was later handed over to the forest department.']
+
+
+Assam----LOC.STATE
+
+Locals----AUTH.SEIZE
+
+leopard----SP.COMMON
+
+Mariani----LOC.EXACT
+
+Heelikha Tea Estate----LOC.EXACT
+
+Mariani----LOC.EXACT

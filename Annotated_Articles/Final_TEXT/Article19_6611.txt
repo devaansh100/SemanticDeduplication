@@ -1,0 +1,17 @@
+
+['Picture Of Two Mice Fighting At London Underground Shortlisted For Wildlife Photo Of The Year\nIt seems humans are not the only ones fighting it out in public spaces. A photograph has captured two mice embroiled in a fight at an underground station in London. This fantastic shot named ‘Station Squabble’ has been captured by Sam Rowley. It is one of the 25 photos shortlisted for the National History Museum’s Wildlife Photographer of the Year LUMIX People’s Choice Award. Speaking about the photograph, Rowley mentioned that he had got down really low on the platform, to get the perfect shot of the duo fighting that “lasted for a split second.” He had observed them wrestling a few times over food pieces lying around. The scuffle came to an end as one of the rodents snatched a crumb and ran away, proving once again the theory of survival of the fittest. Apart from this intriguing picture, there are some other awesome photographs contending the prestigious award. The other photographs comprise a polar bear playing with her cubs in Canada, a leopard lounging in Kenya, and a group of reindeers hardly visible in the snow in Norway. These photographs are up for voting till 4 February, Tuesday, 2pm. Yongqing Bao had won this much coveted Wildlife Photographer of the Year award in October for his capture named ‘The Moment’, which showed a Tibetan fox and Himalayan marmot, engaged in a dramatic yet amusing deadlock situation.']
+
+
+Two----SUS.NUMBER
+
+Mice----SP.COMMON
+
+London Underground----LOC.EXACT
+
+mice----SP.COMMON
+
+London----LOC.CITY
+
+Station Squabble----LOC.EXACT
+
+Sam Rowley----SUS.NAME

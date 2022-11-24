@@ -1,0 +1,21 @@
+
+['Dudhwa tiger terror: Forest department traps wrong big cat\nLAKHIMPUR KHERI: Budhram, a 27-year-old daily wage labourer from Khairatiya village, Majra Purab near the Dudhwa Tiger Reserve, has been out of work for nearly 10 days. A father of two, he locked himself and his family at home in fear of the man-eater tigress believed to have killed 21 humans in the area since 2020. On Tuesday afternoon, he breathed a sigh of relief and went out to seek work after hearing that the big cat had been captured. His exhilaration, however, was short-lived, as officials ended up trapping the wrong animal."After the news, I rushed to a farmhouse to look for work. There I was told that the wrong tiger was caught by the forest department. I nearly had a heart attack on my way back home, I was so terrified. Every noise in the cane field sounded like the sound of the killer tigress," he told TOI.Officials later clarified that they had caught a male tiger instead at the site where the tigress is believed to have mauled to death a 55-year-old priest. The two, however, reportedly roamed around together. The big cat has been shifted to the Katarniaghat Wildlife Sanctuary in Bahraich district, where veterinarians will carry out an examination before it is possibly moved to the Lucknow zoo.Field director of Dudhwa, Sanjay Pathak, told TOI, "The six-year-old tiger caught in the cage was found fit, with all four canines and nails intact. The tigress was seen near the cage after the male tiger was trapped. She stayed close by for quite a while and then moved away. She is our main conflict animal and our operation will continue until she is captured." Pathak added: "We will not be surprised if more tigers are caught in the camera trap. As of now, we are still requesting everyone to stay indoors and move out only when it is important." However, this request was not taken well by disappointed villagers who have remained home afraid.Budharam said, "Authorities have not arranged food for people trapped inside. They don\'t have savings either. How are we supposed to live like this?" Shatrudhan Yadav, a resident of Majhra Purab, said, "We are living under immense fear. No one is moving out of the house. We can\'t sow paddy or harvest our standing vegetables. The condition of our cattle is even worse. Authorities must act fast. But they trapped the wrong tiger."']
+
+
+Dudhwa tiger----LOC.EXACT
+
+Forest department----AUTH.SEIZE
+
+traps----CRIME.CAT
+
+Budhram----SUS.NAME
+
+27-year-old----SUS.AGE
+
+Khairatiya village, Majra Purab near the Dudhwa Tiger Reserve----SUS.LOC
+
+Tuesday----DATE
+
+forest department----AUTH.SEIZE
+
+shifted to the Katarniaghat Wildlife Sanctuary in Bahraich district----OUTCOME

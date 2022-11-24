@@ -1,0 +1,9 @@
+
+['Dwindling ‘Turtle Dove’ numbers worries JK Wildlife Dept\nJammu Tawi, Mar 31: Alarmed over the dwindling population of Turtle Dove, the Jammu and Kashmir department of Wildlife Protection on Thursday issued a public notice, asking people to share information about those hunting the bird. “The number of Turtle Dove (Streptopelia Orientalis) is dwindling at an alarming rate as some unscrupulous elements hunt this bird”, a senior officer of DWP told agencies. He said hunting of this bird, locally known as “Kalmuha”, is punishable with imprisonment up to three years or a fine of Rs 25,000 or both under the Wildlife Protection Act. We have issued a public notice seeking information about such incidents of hunting, the official said. Turtle Dove is a small migratory bird and is listed under schedule-IV of the Wildlife Protection Act, the public notice said, adding that during this season, it migrates from the plains to the higher reaches for breeding. The DWP, in the public notice, has asked people to provide them information about any hunting incident of this bird and also listed phone numbers.']
+
+
+Turtle Dove----SP.SPECIFIC
+
+JK Wildlife Dept----AUTH.SEIZE
+
+Jammu and Kashmir department of Wildlife Protection----AUTH.SEIZE

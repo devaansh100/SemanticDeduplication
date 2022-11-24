@@ -1,0 +1,15 @@
+
+['Chhattisgarh: Herd of elephants on Mahua trail sets off panic in Surguja\nA herd of more than a dozen elephants on Saturday set off panic among villagers by destroying a number of houses in Lotadhodi of Lakhanpur development block in Surguja. "As a measure of safety, villagers have been leaving their homes every evening and returning back in the morning," said a villager. Another villager complained that the local officials are not addressing their concerns, adding that the administration isn\'t listening to the issue of the herd of elephants destroying their houses. While talking to ANI, Sarguja Forest Divisional Officer, Pankaj Kamal said, "The elephants are attracted to the Mahua stored in the houses for which they have destroyed them." "For the safety of the villagers, we have advised the people to avoid Mahua storage in their houses and also avoid going to the elephant-prone forest areas," he added. Kamal assured that the rescue measures for the people stuck in the forest areas will be taken by the administration while compensation and support will be provided to the affected villagers. The forest officials have been camping in the fields to evacuate the villagers from the forest area which is being attacked by the herd of elephants. This story has been published from a wire agency feed without modifications to the text. Only the headline has been changed.']
+
+
+elephants----SP.COMMON
+
+Mahua trail----LOC.EXACT
+
+Surguja----LOC.DISTRICT
+
+dozen----QTY
+
+elephants----SP.COMMON
+
+Saturday----DATE

@@ -1,0 +1,25 @@
+
+['4 held in Indore for smuggling endangered Sand Boa snakes\nINDORE: Special Task Force (STF) on Friday arrested four people accused of smuggling five endangered Sand Boa snakes in Indore , informed Manish Khatri, superintendant of police (SP) STF.Addressing the media, Khatri said, "The four accused were allegedly trying to sell these snakes as they are used in cosmetics and pharmaceutical industries.""Currently, further investigation in the case is under way," he added.']
+
+
+4----SUS.NUMBER
+
+Indore----LOC.CITY
+
+smuggling----CRIME.CAT
+
+Sand Boa snakes----SP.COMMON
+
+Special Task Force (STF)----AUTH.SEIZE
+
+Friday----DATE
+
+four----SUS.NUMBER
+
+five----QTY
+
+Sand Boa snakes----SP.COMMON
+
+Indore----LOC.CITY
+
+further investigation in the case is under way----OUTCOME

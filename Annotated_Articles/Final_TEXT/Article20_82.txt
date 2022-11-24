@@ -1,0 +1,31 @@
+
+["Assam: Elephant Found Dead at Bondapara Reserve Forest, Tusks & Trunk Chopped Off\nKamrup, February 6, 2020: A wild elephant’s body has been recovered from Bondapara Reserve Forest in Kamrup, Assam on Thursday morning. According to reports, the body was found at the backyard of a primary school in Boko’s Pukhuripara area, which falls under the Bondapara Reserve Forest. The elephant had sustained leg injuries, following which, it succumbed to death. However, it is being suspected that the jumbo was a victim of poaching, as the elephant’s tusks were missing and a portion of the trunk had been hacked off by miscreants. ALSO READ: Naga People's Front to Hit Streets in Protest against CAA on Feb 11 A local said that the residents of the village had informed of the deteriorating state of the elephant. According to them, the elephant had been roaming with the injured leg since the past four-five days. “The forest department was informed of the condition. His leg was injured. He could not walk for a very long distance. We asked them for treatment but they did not arrive on time. The locals had given food but it could not even eat,” said Dhananjay Hazowary, a local. ALSO READ: Turkish Plane Skids Off Runway and Breaks into Pieces, 3 Dead and at least 170 Injured It may be mentioned here that poaching of wild elephants has become a major concern of the Forest department lately, besides rhino poaching. Elephants are often subjected to cruelty for the benefit of poachers who deal with the business of elephant tusks. Since the demands of wildlife parts have increased to a great extent in the Southeast Asian countries, poaching has also increased at a rapid rate. However, in the Bondapara case, the forest department is yet to investigate the matter. Support Inside Northeast (InsideNE), an independent media platform that focuses on Citizen-centric stories from Northeast India that are surprising, inspiring, cinematic and emotionally relevant."]
+
+
+Elephant----SP.COMMON
+
+Found Dead----CRIME.CAT
+
+Bondapara Reserve Forest----LOC.EXACT
+
+Tusks----ITEM
+
+Trunk----ITEM
+
+wild elephant----SP.COMMON
+
+body----ITEM
+
+Bondapara Reserve Forest----LOC.EXACT
+
+Kamrup----LOC.DISTRICT
+
+Assam----LOC.STATE
+
+Thursday----DATE
+
+morning----TIME
+
+elephant----SP.COMMON
+
+poaching----CRIME.CAT

@@ -1,0 +1,39 @@
+
+['Chennai airport: Leopard cub seized from passenger at Chennai airport\nCustom officials seize leopard cub at Chennai airport CHENNAI: Customs officials on Saturday morning seized a leopard cub from a passenger who arrived from Thailand at Chennai airport . Kaha Moideen,45, had brought it in his checked in luggage from Bangkok.The animal was found after customs officials stopped a passenger for a random check. While frisking, they heard muffled cries coming from his checked in baggage. The leopard cub was kept inside a pink plastic basket, said an official release.The cub was in a state of shock and was making shrill noises. It was given milk using a feeding bottle by customs officers.Forest department officials who rushed to the spot confirmed that it was a female leopard cub of the species Panthera Pardus. It weighed 1.1kg and 54 cm in length.The cub and the man have been handed over to Tamil Nadu forest department . Action will be taken against the accused under Wildlife Protection Act 1972.']
+
+
+Leopard----SP.COMMON
+
+cub----SP.COMMON
+
+seized----CRIME.CAT
+
+seize----CRIME.CAT
+
+Chennai airport----LOC.EXACT
+
+Customs officials----AUTH.SEIZE
+
+Saturday----DATE
+
+morning----DATE
+
+seized----CRIME.CAT
+
+a----QTY
+
+leopard----SP.COMMON
+
+Thailand----ROUTE.SRC
+
+Kaha Moideen,45----SUS.NAME
+
+checked in luggage----CONCEALMENT_METHOD
+
+Bangkok.The----ROUTE.SRC
+
+Panthera Pardus----SP.SPECIFIC
+
+1.1kg and 54 cm in length.The----QTY
+
+handed over to----OUTCOME

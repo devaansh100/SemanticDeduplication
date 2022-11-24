@@ -1,0 +1,55 @@
+
+['Two men arrested for dumping dead turtles into East Midnapore canal\nTwo men have been arrested in connection with trafficking the turtles that were found dead in an East Midnapore canal in the wee hours of Wednesday. Swapan Nayek and Durgashankar Manna were arrested after more dead turtles were allegedly found in their houses during a raid conducted by a joint team combining police and forest department members on Friday night. Initially believed to have been killed by the toxic effluents released by a local rice mill, the turtles were dumped by a group of traffickers into a canal after they died on the way to local markets, said the sources. "The offenders have admitted that the turtles were being trafficked from Odisha in the wee hours of June 12. The plan was to sell them in local markets. However, the turtles suddenly died due to some reason. Then the traffickers dumped some of the turtles in the canal and buried the rest on the premises of their houses," said Marishda police station officer-in-charge Rajib Kundu. “We got about 95 dead turtles from the canal and 57 more from the traffickers\' houses. It seems the traffickers are part of an interstate trafficking network,” said a forest department official. Biswajit Roy Chowdhury, a member of the State Wildlife Board, identified one of the dead turtles as a narrow-headed soft-shelled turtle, which is on the IUCN Red List of threatened species. Most of the dead turles, however, have been identified as the Indian flapshell turtles, another endangered species categorised by the National Wildlife Protection Act.']
+
+
+Two----SUS.NUMBER
+
+men----SUS.GENDER
+
+arrested----CRIME.CAT
+
+dumping dead----CRIME.CAT
+
+turtles----SP.COMMON
+
+East Midnapore canal----LOC.EXACT
+
+Two----SUS.NUMBER
+
+men----SUS.GENDER
+
+arrested----CRIME.CAT
+
+trafficking----CRIME.CAT
+
+turtles----SP.COMMON
+
+East Midnapore canal----LOC.EXACT
+
+wee hours----TIME
+
+Wednesday----DATE
+
+Swapan Nayek----SUS.NAME
+
+Durgashankar Manna----SUS.NAME
+
+arrested----CRIME.CAT
+
+turtles----SP.COMMON
+
+raid----CRIME.CAT
+
+police----AUTH.SEIZE
+
+forest department----AUTH.SEIZE
+
+Friday----DATE
+
+night----TIME
+
+June 12----DATE
+
+interstate trafficking network----SUS.AFFIL
+
+State Wildlife Board----AUTH.MISC

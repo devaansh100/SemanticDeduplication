@@ -1,0 +1,55 @@
+
+['Odisha STF seizes two more leopard skins\nA resident of Jamuganda has been arrested A resident of Jamuganda has been arrested The Special Task Force (STF) of the Odisha Crime Branch has widened its investigation into a wildlife crime, arresting one person and seizing two leopard skins and animal bones in Nayagarh district. Laxmidhar Nayak, a resident of Jamuganda and an elected representative in the three-tier panchayati raj institution, was arrested on Friday. He tried to sell off the skins at ₹2 lakh-₹3 lakh each. He did not have any valid document for possession of animal skins and bones. He was booked under Section 51 of the Wildlife (Protection) Act, 1972, and produced in a local court at Ranapur, the STF said. The seized skins and bones will be sent to the Wildlife Institute of India, Dehradun, for a chemical examination. On June 7, the STF seized two leopard skins and two deer skins in a forest area under the Daspalla police station in Nayagarh district. Two persons, including a private college teacher, were arrested. “As of now, there is nothing to suggest that an outside network is involved in the killing and smuggling of animals. Locals kill wild animals by setting up traps,” STF Deputy Inspector-General Jai Narayan Pankaj said. Last month, officials of the Athagarh forest division rescued a pangolin and arrested two persons for trying to smuggle it. Last year, the STF seized four leopard skins and arrested seven persons at Kuchinda in Sambalpur district.']
+
+
+Odisha----LOC.STATE
+
+STF----AUTH.SEIZE
+
+seizes----CRIME.CAT
+
+two----QTY
+
+leopard----SP.COMMON
+
+skins----ITEM
+
+A----SUS.NUMBER
+
+Jamuganda----SUS.LOC
+
+arrested----CRIME.CAT
+
+Jamuganda----SUS.LOC
+
+arrested----CRIME.CAT
+
+Special Task Force (STF) of the Odisha Crime Branch----AUTH.SEIZE
+
+one----SUS.NUMBER
+
+two----QTY
+
+leopard----SP.COMMON
+
+skins----ITEM
+
+animal bones----ITEM
+
+Nayagarh district----LOC.DISTRICT
+
+Laxmidhar Nayak----SUS.NAME
+
+Jamuganda----SUS.LOC
+
+Friday----DATE
+
+booked under Section 51 of the Wildlife (Protection) Act, 1972, and----OUTCOME
+
+produced in a local court at Ranapur----OUTCOME
+
+Wildlife Institute of India, Dehradun----AUTH.MISC
+
+chemical examination----OUTCOME
+
+June 7----DATE

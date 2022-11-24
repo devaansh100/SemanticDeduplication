@@ -1,0 +1,11 @@
+
+['No, the Kid Wasn\'t Attacked for Trying To Feed \'Meat\' to This Elephant\nA video that shows a child accompanied by an elder being attacked by an elephant, as he goes to feed it, is being shared with a claim that the child is Muslim and tried feeding "meat" to the animal. The claim further goes on to say that the state is even trying to "convert animals to Islam." However, we found that the videos is being shared with a false claim. This incident happened in April in Kerala\'s Malappuram district where the boy was attacked while he was trying to feed coconut to the tusker. As per reports, the elephant got irritated and attacked the boy, who was then rescued by his father.']
+
+
+Meat----ITEM
+
+Elephant----SP.COMMON
+
+elephant----SP.COMMON
+
+meat----ITEM

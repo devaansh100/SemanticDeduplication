@@ -1,0 +1,15 @@
+
+['Conservationists Cry Foul Over Rampant Illegal Bird Trade\nBENGALURU: Varthur police on February 5 intercepted a package transporting 26 Alexandrine parakeet hatchlings from the forest areas of Tamil Nadu to Bengaluru. The hatchlings have been rehabilitated at Bannerghatta Rescue Centre (BRC), but activists warn that this is just a drop in the ocean and the illegal trade industry continues to sell wild beings to people while disrupting the ecological balance in forest areas.With November to May being the mating season for many indigenous birds in South India, including the Alexandrine parakeet, snatching and separating the young ones from their parents’ nests is pervasive.A wildlife activist told TOI the illicit trade works like clockwork. “They (traffickers) hire a few tribals from forest areas to catch these hatchlings during the mating season in November-December. Then they are ready for the market by January first week,” he said. Rahul J , wildlife rehabilitator at PFA Wildlife and Conservation Centre , said the onus lies on the consumer in the end. “The life and health of these birds is played with for beautifying a human’s house. This not only affects their families but is also detrimental to our shared environment as birds are pollinators and seed dispersers,” he said.Anand Nair , rehabilitation manager at BRC who overlooked the rescue of the hatchlings at Varthur, said the traders operate seemingly innocent websites for selling pets where only animals and birds allowed to be domesticated are listed. But they trade in threatened species too.“This is one of the most common ways in which they establish contact. They pay tribals Rs 50-75 for catching between 50 and 100 hatchlings and then sell these for Rs 3,000-5,000 to consumers,” he added. The activists underlined that the birds mostly serve the purpose of being a showpiece in households, business centres, resorts, or elsewhere. The process of transporting them is also a matter of concern as the little ones cannot withstand long days of travel without care. “A dozen or two of them are stuffed in one box and force-fed through syringes. Half of the caught ones don’t make it to the selling point,” an activist explained.Nair said birds should never be caged, no matter which species they are — a view echoed by several other rescuers and conservationists.']
+
+
+Illegal Bird Trade----SUS.AFFIL
+
+Varthur police----AUTH.SEIZE
+
+February 5----DATE
+
+26----QTY
+
+Alexandrine parakeet----SP.SPECIFIC
+
+Bengaluru----ROUTE.DEST

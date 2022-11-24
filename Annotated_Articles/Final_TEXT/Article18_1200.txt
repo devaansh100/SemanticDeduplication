@@ -1,0 +1,55 @@
+
+["Odisha Police's STF exhume remains of another elephant from Athagarh division\nBy Express News Service BHUBANESWAR: In the second week of February, a dead elephant charred and buried in Athagarh forest division was dug up by the Special Task Force (STF) of Odisha Police. Three and half months later, the division is in news again for same reasons as remains of an elephant carcass, suspected to have been electrocuted to death for its tusks, were found from Baramba range on Thursday. An STF team led by Addl SP Bilasini Nayak exhumed the jumbo remains in a decomposed with the help of an excavator from a place on the foothills of Chandragiri hills in Gopinathpur section of the range. On a tip off, the team reached the spot close to Kharada village and started searching the area. It found a straw pile at a place far away from the paddy field and suspected it to be the burial spot. When dug up, skeletal remains of an elephant surfaced. The team recovered several decomposed bones and remains of a tusk. Two representatives of Baramba tehsildar and local veterinary officers along with a few wildlife conservationists were present at the spot as independent witnesses. Ironically, the local forest staff were prima facie found complicit in suppression of the case. Honorary Wildlife Warden of Khurda Subhendu Mallik who accompanied the STF team said the range forest staff stood as mute spectators as STF team dug up the place and recovered the skeletal remains. The elephant carcass has been buried at the place without bringing it to the knowledge of the higher ups in the Forest department, said Mallik who termed the incident unfortunate and a serious wildlife crime. He informed that there is report of another such burial in the Baramba range. On the other hand, Baramba range officials feigned ignorance. DFO of Athagarh forest division Sudarsan Gopinath Jadav said investigation is under progress in earlier cases. He also said strong action will be taken against those found guilty in the Baramba case. Mallik, meanwhile, demanded action against senior forest officials of the division in the case. PCCF Wildlife Shashi Paul couldn’t be reached for his comment. BHUBANESWAR: In the second week of February, a dead elephant charred and buried in Athagarh forest division was dug up by the Special Task Force (STF) of Odisha Police. Three and half months later, the division is in news again for same reasons as remains of an elephant carcass, suspected to have been electrocuted to death for its tusks, were found from Baramba range on Thursday. An STF team led by Addl SP Bilasini Nayak exhumed the jumbo remains in a decomposed with the help of an excavator from a place on the foothills of Chandragiri hills in Gopinathpur section of the range. On a tip off, the team reached the spot close to Kharada village and started searching the area. It found a straw pile at a place far away from the paddy field and suspected it to be the burial spot. When dug up, skeletal remains of an elephant surfaced. The team recovered several decomposed bones and remains of a tusk. Two representatives of Baramba tehsildar and local veterinary officers along with a few wildlife conservationists were present at the spot as independent witnesses. Ironically, the local forest staff were prima facie found complicit in suppression of the case. Honorary Wildlife Warden of Khurda Subhendu Mallik who accompanied the STF team said the range forest staff stood as mute spectators as STF team dug up the place and recovered the skeletal remains. The elephant carcass has been buried at the place without bringing it to the knowledge of the higher ups in the Forest department, said Mallik who termed the incident unfortunate and a serious wildlife crime. He informed that there is report of another such burial in the Baramba range. On the other hand, Baramba range officials feigned ignorance. DFO of Athagarh forest division Sudarsan Gopinath Jadav said investigation is under progress in earlier cases. He also said strong action will be taken against those found guilty in the Baramba case. Mallik, meanwhile, demanded action against senior forest officials of the division in the case. PCCF Wildlife Shashi Paul couldn’t be reached for his comment."]
+
+
+Odisha Police's STF----AUTH.SEIZE
+
+remains----ITEM
+
+elephant----SP.COMMON
+
+Athagarh division----LOC.EXACT
+
+elephant----SP.COMMON
+
+Special Task Force (STF) of Odisha Police----AUTH.SEIZE
+
+elephant----SP.COMMON
+
+carcass----ITEM
+
+Baramba range----LOC.EXACT
+
+Thursday----DATE
+
+SP----OFF.DESIG
+
+Bilasini Nayak----OFF.NAME
+
+tip off----DETECTION_METHOD
+
+Subhendu Mallik----OFF.NAME
+
+STF----AUTH.SEIZE
+
+elephant----SP.COMMON
+
+Special Task Force (STF) of Odisha Police----AUTH.SEIZE
+
+elephant----SP.COMMON
+
+carcass----ITEM
+
+Baramba range----LOC.EXACT
+
+Thursday----DATE
+
+STF----AUTH.SEIZE
+
+SP----OFF.DESIG
+
+Bilasini Nayak----OFF.NAME
+
+tip off----DETECTION_METHOD
+
+Honorary Wildlife Warden of Khurda Subhendu Mallik----OFF.DESIG

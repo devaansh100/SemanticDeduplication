@@ -1,0 +1,45 @@
+
+['Three off roster at Alipore zoo for toucan theft\nThe men were in \'close proximity (within 40m)\' of the enclosure, the iron mesh of which was cut open before the birds were \'stolen\' A toco toucan. Two of the missing birds were toco toucans and one was a keel-billed toucan The three men were in “close proximity (within 40m)” of the enclosure, the iron mesh of which was cut open before the birds were “stolen” late on Thursday, said an official of the zoo. Two guards and one supervisor at the Alipore zoo have been taken off the roster for “negligence of duty" following the alleged theft of three exotic birds from an enclosure, officials said on Friday. “Our internal probe has prima facie found that the three men were negligent in their duty,” zoo director Asis Samanta said. Two of the missing birds were toco toucans and one was a keel-billed toucan. The men, deployed by an agency hired by the zoo, are being questioned by the police. The detective department has taken over the case. “The persons involved in the theft are well versed in handling wildlife. A toucan is not a very small bird. Even after stealing, the birds have to be fed and treated properly. They cannot afford a sick or dead bird,” said a forest department official. The missing birds were rescued near the Bangladesh border in August and December 2020, while they were allegedly being smuggled in. Both hauls were made by the BSF but no arrests were made. On both occasions, the men carrying the birds fled. “The men carrying the birds are usually couriers. But they can be grilled for information such as who placed orders for the birds. In the absence of arrests, our job to trace the real culprits becomes doubly difficult,” said another official of the forest department. Trade in exotic birds is legal but people try to smuggle them in to evade taxes.']
+
+
+Three----SUS.NUMBER
+
+Alipore zoo----LOC.EXACT
+
+toucan----SP.COMMON
+
+theft----CRIME.CAT
+
+men----SUS.GENDER
+
+A----QTY
+
+toco toucan----SP.SPECIFIC
+
+Two----QTY
+
+birds----SP.COMMON
+
+toco toucans----SP.SPECIFIC
+
+one----QTY
+
+keel-billed toucan----SP.SPECIFIC
+
+three----SUS.NUMBER
+
+men----SUS.GENDER
+
+Thursday----DATE
+
+Alipore zoo----SUS.AFFIL
+
+Two----QTY
+
+toco toucans----SP.SPECIFIC
+
+one----QTY
+
+keel-billed toucan----SP.SPECIFIC
+
+The men, deployed by an agency hired by the zoo, are being questioned by the police----OUTCOME

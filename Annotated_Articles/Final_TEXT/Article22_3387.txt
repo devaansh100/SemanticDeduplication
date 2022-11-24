@@ -1,0 +1,105 @@
+
+['500 tortoises seized from Kakinada-bound vehicle in Krishna district\nBy Express News Service VIJAYAWADA: Police and Forest department officials on Sunday arrested three persons for smuggling 500 tortoises stuffed in gunny bags at Kaikaluru. Based on information about the smuggling racket, the police officials laid a trap along with the Forest department and arrested three persons during a vehicle check. According to Forest department officials, the three accused were identified as Panchagani Nagabhushanam, Garikamukku Sandeep and Devadasu Yesupadam of Kaikalur town. The officials said the accused were illegally transporting the tortoises stuffed in 25 gunny bags in a mini-van to Kakinada and then to West Bengal. Later, the tortoises will be exported to other countries as they are in high demand there. "Based on the information that the accused were transporting a rare variety of tortoises, we conducted a vehicle check and caught them, while they were on their way to Kakinada. A case has been registered against them under relevant sections of the Forest Act and the accused will be produced in the court on Monday," said Forest department officer Jayaprakash. The police further said there are some active gangs exporting tortoises and making money out of it. "Special teams have been formed to curb the smuggling of tortoises and other creatures from the district," the police said. VIJAYAWADA: Police and Forest department officials on Sunday arrested three persons for smuggling 500 tortoises stuffed in gunny bags at Kaikaluru. Based on information about the smuggling racket, the police officials laid a trap along with the Forest department and arrested three persons during a vehicle check. According to Forest department officials, the three accused were identified as Panchagani Nagabhushanam, Garikamukku Sandeep and Devadasu Yesupadam of Kaikalur town. The officials said the accused were illegally transporting the tortoises stuffed in 25 gunny bags in a mini-van to Kakinada and then to West Bengal. Later, the tortoises will be exported to other countries as they are in high demand there. "Based on the information that the accused were transporting a rare variety of tortoises, we conducted a vehicle check and caught them, while they were on their way to Kakinada. A case has been registered against them under relevant sections of the Forest Act and the accused will be produced in the court on Monday," said Forest department officer Jayaprakash. The police further said there are some active gangs exporting tortoises and making money out of it. "Special teams have been formed to curb the smuggling of tortoises and other creatures from the district," the police said.']
+
+
+500----QTY
+
+tortoises----SP.COMMON
+
+seized----CRIME.CAT
+
+vehicle----TRANSPORT_MODE
+
+Krishna district----LOC.DISTRICT
+
+Police----AUTH.SEIZE
+
+Forest department----AUTH.SEIZE
+
+Sunday----DATE
+
+three----SUS.NUMBER
+
+500----QTY
+
+tortoises----SP.COMMON
+
+gunny bags----CONCEALMENT_METHOD
+
+Kaikaluru----LOC.EXACT
+
+on information----DETECTION_METHOD
+
+police officials----AUTH.SEIZE
+
+Forest department----AUTH.SEIZE
+
+vehicle check----DETECTION_METHOD
+
+three----SUS.NUMBER
+
+Panchagani Nagabhushanam----SUS.NAME
+
+Garikamukku Sandeep----SUS.NAME
+
+Devadasu Yesupadam----SUS.NAME
+
+Kaikalur town----SUS.LOC
+
+tortoises----SP.COMMON
+
+mini-van----TRANSPORT_MODE
+
+West Bengal----ROUTE.DEST
+
+vehicle check----DETECTION_METHOD
+
+case has been registered----OUTCOME
+
+Police----AUTH.SEIZE
+
+Forest department officials----AUTH.SEIZE
+
+Sunday----DATE
+
+arrested----CRIME.CAT
+
+three----SUS.NUMBER
+
+500----QTY
+
+tortoises----SP.COMMON
+
+gunny bags----CONCEALMENT_METHOD
+
+Kaikaluru----LOC.EXACT
+
+on information----DETECTION_METHOD
+
+police officials----AUTH.SEIZE
+
+Forest department----AUTH.SEIZE
+
+three----SUS.NUMBER
+
+three----SUS.NUMBER
+
+Panchagani Nagabhushanam----SUS.NAME
+
+Garikamukku Sandeep----SUS.NAME
+
+Devadasu Yesupadam----SUS.NAME
+
+Kaikalur town----SUS.LOC
+
+tortoises----SP.COMMON
+
+25 gunny bags----CONCEALMENT_METHOD
+
+mini-van----TRANSPORT_MODE
+
+Kakinada----ROUTE.SRC
+
+West Bengal----ROUTE.DEST
+
+case has been registered----OUTCOME

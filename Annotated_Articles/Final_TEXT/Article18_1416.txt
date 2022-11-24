@@ -1,0 +1,37 @@
+
+['Three youths club a monkey to death in Amethi, post video; arrested\nIn a bizarre incident, three youths in an inebriated state clubbed a monkey to death and filmed the video of the entire incident in Amethi district. The police said the incident came to light on Tuesday when the video surfaced on social media, after which the three youths were arrested after ascertaining their identity. The incident happened near a beer shop at Durgapur market on Durgapur-Lambhua road under Piparpur police station limits of Amethi district. The inspector in charge of Piparpur police station Dhirendra Singh Yadav informed that the three youths identified as Sangam, Radhe and Suraj were arrested in this connection. He said the trio was booked under Indian Penal Code sections 147 for causing a nuisance, 223 for trying to escape from police custody and 429 for causing mischief by killing or maiming an animal. He said the FIR was lodged on the complaint of one Devendra Singh, who tried to rescue the monkey but was chased away by the youths. Sharing further details another police official said the monkey was sitting injured on the roadside near the beer shop when three youths came out of the shop in an inebriated state. He said one of the youths allegedly first threw a stone at the monkey to chase it away and then started attacking it repeatedly when the monkey did not move from there. “The other two youths started attacking the monkey with stones and kicking it until the animal became motionless. One of the three youths kept filming the entire incident on his mobile phone and shared it with others through social media,” he said. He said the police informed the forest department, and they disposed of the carcass. He said the forest department officers were also likely to register an FIR under relevant sections of the Wildlife Protection Act, 1972.']
+
+
+Three----SUS.NUMBER
+
+club a monkey----CRIME.CAT
+
+Amethi----LOC.DISTRICT
+
+arrested----CRIME.CAT
+
+three----SUS.NUMBER
+
+monkey----SP.COMMON
+
+Amethi district----LOC.DISTRICT
+
+Tuesday----DATE
+
+social media----DETECTION_METHOD
+
+Durgapur market----LOC.EXACT
+
+Durgapur-Lambhua road----LOC.EXACT
+
+Amethi----LOC.DISTRICT
+
+Sangam----SUS.NAME
+
+Radhe----SUS.NAME
+
+Suraj----SUS.NAME
+
+booked under Indian Penal Code sections 147 for causing a nuisance, 223 for trying to escape from police custody----OUTCOME
+
+Devendra Singh----SUS.NAME

@@ -1,0 +1,143 @@
+
+['Man held for hunting wild cat inside Sorakolathur reserve forest\nBy Express News Service THIRUVANNAMALAI: The forest department on Tuesday arrested a man for allegedly hunting a wild cat and slapped a fine of `15,000 each against two others who helped him. The accused was identified as A Santhosh (30) from Kondam village. Based on a tip-off about suspicious activity inside the Sorakolathur reserve forest, a team led by Tiruvannamalai forest range officer P Srinivasan conducted a search in the area around 2.00 am on Tuesday. Near Reddiarpalayam lake, an area inside the forest that is frequented by wild animals, the team spotted a gang that illegally entered the trespassed area. They zeroed in on the gang and nabbed Santhosh. But R Chinnasamy (34), who hunted with Santhosh, managed to flee. The team seized the carcass of the wild cat, an unlicensed country-made gun, and a two-wheeler from the spot. After hunting the wild cat, the gang was preparing to hunt a deer, a forest official said. Two others from Kazhikkulam village — Jaishankar and Ravi — were fined for accommodating the hunters at their place. A case was registered under the Wildlife Protection Act, 1972, and Santhosh was arrested and remanded in judicial custody in Tiruvannamalai Sub-jail for 15 days. Further probe is on. Forest range officer Srinivasan told TNIE, “The action was taken as per the instructions of District Forest Officer PG Arunlal and Conservator of Forest D Sujatha.” THIRUVANNAMALAI: The forest department on Tuesday arrested a man for allegedly hunting a wild cat and slapped a fine of `15,000 each against two others who helped him. The accused was identified as A Santhosh (30) from Kondam village. Based on a tip-off about suspicious activity inside the Sorakolathur reserve forest, a team led by Tiruvannamalai forest range officer P Srinivasan conducted a search in the area around 2.00 am on Tuesday. Near Reddiarpalayam lake, an area inside the forest that is frequented by wild animals, the team spotted a gang that illegally entered the trespassed area. They zeroed in on the gang and nabbed Santhosh. But R Chinnasamy (34), who hunted with Santhosh, managed to flee. The team seized the carcass of the wild cat, an unlicensed country-made gun, and a two-wheeler from the spot. After hunting the wild cat, the gang was preparing to hunt a deer, a forest official said. Two others from Kazhikkulam village — Jaishankar and Ravi — were fined for accommodating the hunters at their place. A case was registered under the Wildlife Protection Act, 1972, and Santhosh was arrested and remanded in judicial custody in Tiruvannamalai Sub-jail for 15 days. Further probe is on. Forest range officer Srinivasan told TNIE, “The action was taken as per the instructions of District Forest Officer PG Arunlal and Conservator of Forest D Sujatha.”']
+
+
+Man----SUS.GENDER
+
+hunting----CRIME.CAT
+
+wild cat----SP.COMMON
+
+Sorakolathur reserve forest----LOC.EXACT
+
+forest department----AUTH.SEIZE
+
+Tuesday----DATE
+
+arrested----CRIME.CAT
+
+a----SUS.NUMBER
+
+man----SUS.GENDER
+
+hunting----CRIME.CAT
+
+wild cat----SP.COMMON
+
+slapped a fine of `15,000 each----OUTCOME
+
+A Santhosh----SUS.NAME
+
+30----SUS.AGE
+
+Kondam village----SUS.LOC
+
+tip-off----DETECTION_METHOD
+
+Sorakolathur reserve forest----LOC.EXACT
+
+forest range officer----OFF.DESIG
+
+P Srinivasan----OFF.NAME
+
+2.00 am----TIME
+
+Tuesday----DATE
+
+Near Reddiarpalayam lake----LOC.EXACT
+
+gang----SUS.AFFIL
+
+gang----SUS.AFFIL
+
+Santhosh----SUS.NAME
+
+R Chinnasamy----SUS.NAME
+
+34----SUS.AGE
+
+carcass----ITEM
+
+wild cat----SP.COMMON
+
+an----QTY
+
+unlicensed country-made gun----ITEM
+
+a----QTY
+
+two-wheeler----ITEM
+
+Kazhikkulam village----SUS.LOC
+
+Jaishankar----SUS.NAME
+
+Ravi----SUS.NAME
+
+District Forest Officer----AUTH.SEIZE
+
+Conservator of Forest----AUTH.SEIZE
+
+D Sujatha----OFF.NAME
+
+forest department----AUTH.SEIZE
+
+Tuesday----DATE
+
+arrested----CRIME.CAT
+
+man----SUS.GENDER
+
+hunting----CRIME.CAT
+
+wild cat----SP.COMMON
+
+A Santhosh----SUS.NAME
+
+30----SUS.AGE
+
+Kondam village----SUS.LOC
+
+tip-off----DETECTION_METHOD
+
+Sorakolathur reserve forest----LOC.EXACT
+
+Tiruvannamalai forest range officer----AUTH.SEIZE
+
+P Srinivasan----OFF.NAME
+
+2.00 am----TIME
+
+Tuesday----DATE
+
+Near Reddiarpalayam lake----LOC.EXACT
+
+gang----SUS.AFFIL
+
+Santhosh----SUS.NAME
+
+R Chinnasamy----SUS.NAME
+
+34----SUS.AGE
+
+carcass----ITEM
+
+wild cat----SP.COMMON
+
+an----QTY
+
+unlicensed country-made gun----ITEM
+
+deer----SP.COMMON
+
+Jaishankar----SUS.NAME
+
+Ravi----SUS.NAME
+
+District Forest Officer----OFF.DESIG
+
+PG Arunlal----OFF.NAME
+
+Conservator of Forest----AUTH.SEIZE
+
+D Sujatha----OFF.NAME

@@ -1,0 +1,29 @@
+
+["Chhattisgarh: Wildlife on poachers' target again, man poisons leopard to sell skin in market\nThe cost of the skin is said to be in lakhs in the international market. | Photo Credit: iStock Images Key Highlights The accused Ramnath Netam first poisoned the water to kill the leopard and then peeled off its skin with an axe. To avoid any suspicion, Netam burned the big cat's teeth, nails and hair and hid the skin under a rock till he was able to find a buyer. Raipur: The wildlife in Chhattisgarh is on the target of poachers once again. In a shocking incident, a 55-year-old man had poisoned a leopard to death to make money by selling its skin in the market. Gariyaband police have arrested the accused while he was allegedly trying to sell the skin. According to a report in Times of India, the accused has been identified as Ramnath Netam. He first poisoned the water to kill the leopard and then peeled off its skin with an axe. Later, he sprinkled the salt on the skin to let it dry on a tree. To avoid any suspicion, Netam burned the big cat's teeth, nails and hair and hid the skin under a rock till he was able to find a buyer. The police swung into action after reports that Netam was looking for a buyer in Barula village to sell the skin. Police as decoy customer A policeman was sent as a decoy customer and he finalised the deal for Rs 1 lakh. Netam then asked the police constable to wait until he brings the leopard skin. However, the accused returned empty-handed after half an hour later. He demanded Rs 50,000 as advanced payment before giving the skin. After this, other cops who were present on the spot in civil dress arrested the accused. During the course of interrogation, the accused confessed to killing the leopard. The value of the seized skin is yet to be ascertained by the forest department officials. But the cost of the skin is said to be in lakhs in the international market. According to police, the length of the leopard skin is 46 inch and the width is 13 inches. The accused has been booked under sections 2(16), 9, 39 (3), 49 (B) of Wildlife Protection Act 1972. Netam has been sent to judicial remand."]
+
+
+man----SUS.GENDER
+
+leopard----SP.COMMON
+
+skin----ITEM
+
+Ramnath Netam----SUS.NAME
+
+leopard----SP.COMMON
+
+55-year-old----SUS.AGE
+
+man----SUS.GENDER
+
+leopard----SP.COMMON
+
+Gariyaband police----AUTH.SEIZE
+
+arrested----CRIME.CAT
+
+Ramnath Netam----SUS.NAME
+
+Rs 50,000 as advanced payment before giving the skin----OUTCOME
+
+leopard----SP.COMMON

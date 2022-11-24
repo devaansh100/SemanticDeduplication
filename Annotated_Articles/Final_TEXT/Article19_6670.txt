@@ -1,0 +1,7 @@
+
+['Corbett Aroma Havens Best Hotel in Jim Corbett National Park\nNote: Rooms are available on subject to availability in the hotel and Resort otherwise we provide you another similar property Corbett Aroma Havens located at the foot hills of Kumaun Himalayas, “Corbett Aroma Havens” is an Eco - Friendly Fusion of invitation green and impressive luxury. The Resort has warm and welcoming reception area with an open site-out place as well as souvenir shop & library. Corbett Aroma Havens is beautifully landscaped, spread over extensive greens intimate majestic Corbett National Park is a top holiday destination for people fascinated with wild life and lush green. The park offers breath-taking flora and fauna, beside tiger, leopard, elephant, deer, wild boar , jackal porcupine and other wild lives.']
+
+
+Corbett Aroma Havens----LOC.EXACT
+
+Jim Corbett National Park----LOC.EXACT

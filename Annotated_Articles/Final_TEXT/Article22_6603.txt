@@ -1,0 +1,37 @@
+
+["Amethi: Three drunk youths kill monkey by throwing stones; arrested\nRepresentational image Photo : iStock Amethi: In yet another shocking incident, three people were arrested in Uttar Pradesh's Amethi district after a video of them allegedly assaulting a : In yet another shocking incident, three people were arrested in Uttar Pradesh's Amethi district after a video of them allegedly assaulting a monkey went viral on social media. Dhirendra Singh Yadav, Inspector in Charge of Piparpur Police Station, stated that three youngsters identified as Sangam, Radhe, and Suraj had been apprehended. Inspector Yadav also said that the three youths were charged under Indian Penal Code Section 147, Section 223 and under Section 429. The FIR was filed on the allegation of one Devendra Singh, who went to rescue the monkey but was frightened away by the three youths. According to police, the incident occurred outside a beer shop in Durgapur market, which is part of the Piparpur police circle in the Amethi district, news agency IANS reported. The monkey was reportedly hurt when he was sitting on the roadside near the beer shop and three drunken youths stepped out of the store. They began hurling stones at the injured monkey, who was unable to move. They continued to attack the animal until it stopped moving. The police notified the Forest Service, who disposed of the carcass. Officers from the Forest Department were also likely to file an FIR under relevant parts of the Wildlife Protection Act of 1972."]
+
+
+Three----SUS.NUMBER
+
+monkey----SP.COMMON
+
+arrested----CRIME.CAT
+
+three----SUS.NUMBER
+
+Uttar Pradesh's----LOC.STATE
+
+Amethi----LOC.DISTRICT
+
+three----SUS.NUMBER
+
+Uttar Pradesh's----LOC.STATE
+
+Amethi----LOC.DISTRICT
+
+Dhirendra Singh Yadav----OFF.NAME
+
+Inspector in Charge of Piparpur Police Station----OFF.DESIG
+
+three----SUS.NUMBER
+
+Sangam----SUS.NAME
+
+three----SUS.NUMBER
+
+Devendra Singh----SUS.NAME
+
+Durgapur market----LOC.EXACT
+
+Forest Service----AUTH.MISC

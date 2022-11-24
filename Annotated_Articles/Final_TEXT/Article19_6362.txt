@@ -1,0 +1,78 @@
+
+["Bhayandar Cops Nab Duo with Leopard Skin Worth Rs.10L\nSleuths of Navghar police have arrested two suspected poachers, who were found to be in possession of leopard skin worth more than Rs 10 lakh in Bhayandar on Tuesday afternoon. According to the police, the duo identified as- Ankit Jayesh Thorat (24) and Ravindra Vasant Patel (25)- both residents of a village in Silvasa (capital of union territory of Dadra and Nagar Haveli) have been booked under sections 9, 39, 48(A), 49 and 51 of the Wild Life (Protection) Act of 1972. Acting on a specific information, a team led by Police Inspector Sampatrao Patil, under the instructions of SP Dr Shivaji Rathod and SDPO Shashikant Bhosale, laid a trap and apprehended both the suspects near the Golden Nest circle in Bhayandar (east) at around 3pm on Tuesday. According to the police, the duo were found carrying leopard skin worth Rs10 lakh in their bag. The hide was seized and both the accused were taken into custody. Apart from investigating the source of the leopard skin and its potential buyer, the police is also checking whether the arrested persons are part of wildlife animal poaching syndicate. While leopards are an endangered species under schedule I of the Wildlife Act, illegal possession and trading of its skin can attract imprisonment up to seven years and also hefty monetary fines. (To receive our E-paper on whatsapp daily, please click here. To receive it on Telegram, please click here. We permit sharing of the paper's PDF on WhatsApp and other social media platforms.)"]
+
+
+Bhayandar Cops----AUTH.SEIZE
+
+Duo----SUS.NUMBER
+
+Leopard----SP.COMMON
+
+Skin----ITEM
+
+Rs.10L
+----VALUE
+
+police----AUTH.SEIZE
+
+arrested----OUTCOME
+
+two----SUS.NUMBER
+
+leopard----SP.COMMON
+
+skin----ITEM
+
+Rs 10 lakh----VALUE
+
+Bhayandar----LOC.EXACT
+
+Tuesday----DATE
+
+afternoon----TIME
+
+Ankit Jayesh Thorat----SUS.NAME
+
+24----SUS.AGE
+
+Ravindra Vasant Patel----SUS.NAME
+
+Silvasa----SUS.LOC
+
+booked under sections 9, 39, 48(A), 49 and 51 of the Wild Life (Protection) Act of 1972----OUTCOME
+
+specific information----DETECTION_METHOD
+
+Police Inspector----OFF.DESIG
+
+Sampatrao Patil----OFF.NAME
+
+SP----OFF.DESIG
+
+Dr Shivaji Rathod----OFF.NAME
+
+SDPO----OFF.DESIG
+
+Shashikant Bhosale----OFF.NAME
+
+both----SUS.NUMBER
+
+Golden Nest circle in Bhayandar (east)----LOC.EXACT
+
+3pm----TIME
+
+Tuesday----DATE
+
+leopard----SP.COMMON
+
+skin----ITEM
+
+Rs10 lakh----VALUE
+
+bag----CONCEALMENT_METHOD
+
+hide----ITEM
+
+seized----CRIME.CAT
+
+both the accused were taken into custody----OUTCOME

@@ -1,0 +1,29 @@
+
+['Big cat captured in UP’s Dudhwa buffer zone turns out to be tiger\nLakhimpur Kheri (UP), Jun 28 (PTI) The big cat, captured late on Monday night in Manjhra Purab area of Dudhwa buffer zone, turned out be a male tiger, officials said on Tuesday. Earlier, the big cat was stated to be a tigress, roaming along with another tigress in the area, triggering panic in Khairatia, Dalrajpur, Dumeda and other villages. “The captured big cat was brought to Katarniaghat Wildlife Sanctuary by rapid response team of Dudhwa. A team of veterinary experts examined the big cat and found it to be a tiger,” Field Director of Dudhwa Tiger Reserve (DTR) Sanjay Kumar Pathak told PTI. Pathak said that confusion arose as the two big cats, against their normal nature, were detected on camera roaming together and sharing their territory. He said the captured tiger would be kept under watch for a few more hours and an appropriate decision would be taken thereafter. “Operation to trace and tranquilize the tigress on the move would continue with four teams comprising tranquilizing experts, biologists, special tiger protection force deployed to carry on the operation,” Pathak said. He urged the villagers to restrict their movements in their fields and forest areas till the tigress was captured or tranquilized. In a span of 10 days since June 18, four deaths were caused in the Khairatia area close to Manjhra Purab forests. A 52-year-old local priest, Suraj Singh, 14, Nagendra Singh, 33, and Mindo Kaur, 43, were killed by the tigress. The forest officials, as well as the local people, are shocked by the sudden spurt in fatalities. The man-animal conflict in the area, spread over half dozen villages close to Dudhwa and Katarniaghat, has triggered a deep resentment among the locals against the officials. PTI CORR NAV KVK KVK This report is auto-generated from PTI news service. ThePrint holds no responsibility for its content.']
+
+
+Big cat----SP.COMMON
+
+UP’s----LOC.STATE
+
+Dudhwa buffer zone----LOC.EXACT
+
+tiger----SP.COMMON
+
+Monday----DATE
+
+night----TIME
+
+Manjhra Purab area of Dudhwa buffer zone----LOC.EXACT
+
+tiger----SP.COMMON
+
+tigress----SP.COMMON
+
+Nagendra Singh----SUS.NAME
+
+33----SUS.AGE
+
+Mindo Kaur----SUS.NAME
+
+43----SUS.AGE

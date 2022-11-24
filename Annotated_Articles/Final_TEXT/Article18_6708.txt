@@ -1,0 +1,49 @@
+
+['Tamil Nadu: Farmer attacks stray dog in Coimbatore causing it to lose vision; accused arrested\nAn FIR was filed against Balu and his mother Selvi (65) by the police following a complaint by animal activist. KEY HIGHLIGHTS The accused farmer has been identified as 40-year-old V Balu from Veerakeralam.  Police have booked the accused under Prevention of Cruelty to Animals  Coimbatore: In a brutal incident reported from Coimbatore district of Tamil Nadu, a farmer attacked a stray dog causing it to lose its vision in the right eye on Thursday. The accused has now been arrested by rural police. The accused farmer has been identified as 40-year-old V Balu from Veerakeralam. Police have booked the accused under section 11(a) ( animal cruelty ) (I) (mutilates any animal or kills any animal including stray dogs) of the Prevention of Cruelty to Animals Act 1960. The incident was caught on CCTV camera from a house, according to a report in Times of India. In the video, the accused could be seen dragging the stray dog on the road, while a woman held a log in her hand. The video went viral on social media on Friday evening. A complaint was filed with Vadavalli police by animal activist Mini Vasudevan after the activist saw the video of the injured dog. An FIR was filed against Balu and his mother Selvi (65) by the police following a complaint by Mini. Prima facie probe revealed that Balu\'s parents told him about stray dog menace in the area. He then thrashed the dog with a log causing it severe head injuries. According to the animal activist Mini, the stray dog had a swollen head as it suffered severe head injuries. "The canine has lost vision in the right eye. The left eye of the dog is partially damaged. The dog has been kept in our shelter," the report quoted Mini as saying.']
+
+
+Tamil Nadu----LOC.STATE
+
+Farmer----SUS.AFFIL
+
+stray dog----SP.COMMON
+
+Coimbatore----LOC.DISTRICT
+
+Balu----SUS.NAME
+
+Selvi----SUS.NAME
+
+65----SUS.AGE
+
+40-year-old----SUS.AGE
+
+V Balu----SUS.NAME
+
+Veerakeralam----SUS.LOC
+
+Coimbatore----LOC.DISTRICT
+
+Tamil Nadu----LOC.STATE
+
+stray dog----SP.COMMON
+
+Thursday----DATE
+
+40-year-old----SUS.AGE
+
+V Balu----SUS.NAME
+
+Veerakeralam----SUS.LOC
+
+CCTV camera----DETECTION_METHOD
+
+complaint was filed with Vadavalli police----OUTCOME
+
+FIR was filed----OUTCOME
+
+Balu----SUS.NAME
+
+Selvi----SUS.NAME
+
+65----SUS.AGE

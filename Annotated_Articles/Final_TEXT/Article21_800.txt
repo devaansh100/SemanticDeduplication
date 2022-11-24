@@ -1,0 +1,51 @@
+
+['Kerala forest dept seizes suspected whale bones from self-styled antique collector’s house\nThe Kerala Forest Department on Sunday seized whale bones from one of the hideouts of arrested self-styled antique collector Monson Mavunkal in Kochi, officials said. The police have also slapped a case on his former make-up man for allegedly raping a minor. {{^userSubscribed}} {{/userSubscribed}} The forest team raided his hideout after a tip-off and recovered suspected whale bones and sent them for examination. Officials found that bones were shifted from his house in Kochi soon after his arrest. Earlier, two ivory tusks obtained from the house were found fake after an examination, therefore, the officials are tight-lipped this time. They found ivory tusks were made of grated powder of cattle horns obtained from meat shops. “We have seized two big suspected whale bones and sent them for examination. If they are real bones we will book him under the Wildlife Protection Act. We will start our investigation once the result is out,” said forest flying squad inspector KG Anwar. Whales are protected species under the Wildlife Protection Act and possession and trade of any of their by-products is punishable in the country. {{^userSubscribed}} {{/userSubscribed}} Meanwhile, a case under the Protection of Children from Offences of Sexual Act (POCSO) was registered against Mavunkal’s former make-up man P Joshy. In her complaint, a 19-year-old girl said besides Mavunkal she was also sexually exploited by his make-up artist several times. She was 17 when the assault took place and the special investigation team (SIT) registered a case under POCSO. Arrested Joshi was sent to judicial custody later. The SIT earlier slapped a POCSO case on Mavunkal after the girl, daughter of one of his employees, complained that she was sexually assaulted at his house. In the complaint filed at the Ernakulam North police station, the mother of the girl said her daughter was sexually assaulted while she was 17 and they were scared to approach the police. During the investigation, she also took the name of the make-up man. {{^userSubscribed}} {{/userSubscribed}} Mavunkal was arrested on September 26 after five businessmen approached chief minister Pinarayi Vijayan’s office complaining that they were cheated by him of ₹10 crore on the promise of shares in the upcoming international antique museums in Kochi and Thiruvananthapuram. Later, several other businessmen filed similar complaints against him and the government constituted a special investigation team.']
+
+
+Kerala forest dept----AUTH.SEIZE
+
+seizes----CRIME.CAT
+
+whale----SP.COMMON
+
+bones----ITEM
+
+Kerala Forest Department----AUTH.SEIZE
+
+Sunday----DATE
+
+seized----CRIME.CAT
+
+whale----SP.COMMON
+
+bones----ITEM
+
+Monson Mavunkal----SUS.NAME
+
+Kochi----LOC.CITY
+
+slapped a case on his former make-up man----OUTCOME
+
+raping----CRIME.CAT
+
+raided----CRIME.CAT
+
+tip-off----DETECTION_METHOD
+
+whale----SP.COMMON
+
+bones----ITEM
+
+sent them for examination.----OUTCOME
+
+seized----CRIME.CAT
+
+two----QTY
+
+whale----SP.COMMON
+
+bones----ITEM
+
+sent them for examination.----OUTCOME
+
+P Joshy----SUS.NAME

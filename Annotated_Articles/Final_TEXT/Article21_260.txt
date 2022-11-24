@@ -1,0 +1,29 @@
+
+['Six held, red sanderslogs seized\nThe task force police on Thursday took six persons into custody on charges of smuggling red sanders and seized eleven logs that were kept ready for transportation. The police also seized two motorcycles and a cash of ₹1.5 lakh from the possession of the accused. Meanwhile, unconfirmed sources said that one among the detained was reportedly associated with the SVBC and the police are trying to ascertain the facts.']
+
+
+Six----SUS.NUMBER
+
+red sanderslogs----SP.COMMON
+
+seized----CRIME.CAT
+
+task force police----AUTH.SEIZE
+
+Thursday----DATE
+
+six persons----SUS.NUMBER
+
+custody----CRIME.CAT
+
+red sanders----SP.COMMON
+
+eleven----QTY
+
+logs----ITEM
+
+two----QTY
+
+motorcycles----ITEM
+
+cash----ITEM

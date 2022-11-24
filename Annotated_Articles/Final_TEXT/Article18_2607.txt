@@ -1,0 +1,25 @@
+
+['Man chops snake, swallows it after it bit him in Banda\nKanpur:A man from the Kamasin police area of Banda district chopped a poisonous snake and swallowed it shortly after it had bitten him in a field, on Sunday. The man has been admitted to the district hospital where the doctors stated his condition to be out of danger.The strange incident took place in the Syohat village of the district under the limits of Kamasin police station. Sources said that one Matabadal Singh, 49, was on way back from the field at his village when a venomous snake bit him on Sunday evening. Instead of raising an alarm or rushing for medical aid, the victim picked it up, chopped it into pieces and swallowed it. Sources said as soon as the man reached his home, his family members were terrified after seeing blood stains on his clothes. When they enquired, he narrated the entire incident to his family members, following which they admitted him to the community health centre from where he was later referred to the district hospital. After treating for a night, the doctors stated his condition to be out of danger as of now.Emergency medical officer, Banda district hospital, Dr Vineet Sachan said, “The patient is absolutely healthy and doesn’t have any problem. We will discharge him after examining him for another day. There is need not to worry.”According to the victim, he got angry and in retaliation he ate the venomous snake.']
+
+
+chops----CRIME.CAT
+
+snake----SP.COMMON
+
+Banda----LOC.DISTRICT
+
+Kamasin police area----AUTH.SEIZE
+
+snake----SP.COMMON
+
+Sunday----DATE
+
+Syohat village----LOC.EXACT
+
+Matabadal Singh----SUS.NAME
+
+49----SUS.AGE
+
+Sunday----DATE
+
+evening----TIME

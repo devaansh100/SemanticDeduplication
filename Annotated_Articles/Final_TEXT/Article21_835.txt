@@ -1,0 +1,49 @@
+
+['Gang using tribal people to hunt wildlife busted\nAjay Kanth By Express News Service KOCHI: They are an organised wildlife poaching gang operating in Munnar and Malayattoor forest divisions and their modus operandi is to use tribal people to hunt for wildlife after giving them money and liquor. Forest officials could unearth the modus operandi of the gang after a tribal man was picked up for allegedly hunting and killing a barking deer in a forest under Pooyamkutty forest station limits in Kuttampuzha range. A detailed probe is on into the activities of the mafia after the forest department arrested two of the main accused in the gang identified as Rejimon, 31, of Elambasserikudy, Mamangalam, Ernakulam, and Chandran, 64, of Mamangalam, Kuttampuzha, Ernakulam. It was on October 9 that the two accused instigated an illiterate tribal by giving him money and liquor to trespass into Malayattoor Reserve Forest to kill a barking deer and consume its meat. “We have booked the tribal also. The probe revealed that the two other accused used the tribal for hunting the endangered animal inside the forest. The two have many similar wildlife offences pending against them,” said a senior forest officer. As per a submission of the forest department based on which a local court here rejected the bail applications of the accused, both Rejimon and Chandran were habitual offenders and involved in many wildlife offences that included two elephant poaching cases registered in Anakkulam forest station. The department also submitted that the accused were part of a big mafia which was into hunting and illicit trade of wild animal meat and articles in and around the reserve forest areas of Malayattoor and Munnar forest divisions. “The tribal youths are lured by these gangs by offering them liquor and money. They are used as a cover by the mafia to do all illegal activities inside the forest,” said an officer. The probe revealed that the gang was extensively into supplying meat of some endangered wild animals to private people for exorbitant prices. “We have strengthened our surveillance in tribal hamlets. More people are expected to be nabbed soon,” officials said. KOCHI: They are an organised wildlife poaching gang operating in Munnar and Malayattoor forest divisions and their modus operandi is to use tribal people to hunt for wildlife after giving them money and liquor. Forest officials could unearth the modus operandi of the gang after a tribal man was picked up for allegedly hunting and killing a barking deer in a forest under Pooyamkutty forest station limits in Kuttampuzha range. A detailed probe is on into the activities of the mafia after the forest department arrested two of the main accused in the gang identified as Rejimon, 31, of Elambasserikudy, Mamangalam, Ernakulam, and Chandran, 64, of Mamangalam, Kuttampuzha, Ernakulam. It was on October 9 that the two accused instigated an illiterate tribal by giving him money and liquor to trespass into Malayattoor Reserve Forest to kill a barking deer and consume its meat. “We have booked the tribal also. The probe revealed that the two other accused used the tribal for hunting the endangered animal inside the forest. The two have many similar wildlife offences pending against them,” said a senior forest officer. As per a submission of the forest department based on which a local court here rejected the bail applications of the accused, both Rejimon and Chandran were habitual offenders and involved in many wildlife offences that included two elephant poaching cases registered in Anakkulam forest station. The department also submitted that the accused were part of a big mafia which was into hunting and illicit trade of wild animal meat and articles in and around the reserve forest areas of Malayattoor and Munnar forest divisions. “The tribal youths are lured by these gangs by offering them liquor and money. They are used as a cover by the mafia to do all illegal activities inside the forest,” said an officer. The probe revealed that the gang was extensively into supplying meat of some endangered wild animals to private people for exorbitant prices. “We have strengthened our surveillance in tribal hamlets. More people are expected to be nabbed soon,” officials said.']
+
+
+Gang----SUS.AFFIL
+
+tribal people----SP.COMMON
+
+organised wildlife poaching gang operating in Munnar and Malayattoor forest divisions and their modus operandi is to use tribal people to hunt for wildlife after giving them money and liquor. Forest officials could unearth the modus operandi of the gang after a tribal man was picked up for allegedly hunting and killing a barking deer----SUS.AFFIL
+
+Rejimon----SUS.NAME
+
+31----SUS.AGE
+
+Elambasserikudy, Mamangalam, Ernakulam----SUS.LOC
+
+Chandran----SUS.NAME
+
+64----SUS.AGE
+
+Mamangalam, Kuttampuzha, Ernakulam----SUS.LOC
+
+October 9----DATE
+
+barking----SP.SPECIFIC
+
+deer----SP.COMMON
+
+Rejimon----SUS.NAME
+
+31----SUS.AGE
+
+Elambasserikudy, Mamangalam, Ernakulam----SUS.LOC
+
+Chandran----SUS.NAME
+
+64----SUS.AGE
+
+Mamangalam, Kuttampuzha, Ernakulam----SUS.LOC
+
+October 9----DATE
+
+barking----SP.SPECIFIC
+
+deer----SP.COMMON
+
+Rejimon----SUS.NAME
+
+Chandran----SUS.NAME

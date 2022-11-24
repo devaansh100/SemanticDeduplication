@@ -1,0 +1,59 @@
+
+['Assam: Two more elephant tusks seized in Chirang, 1 arrested\nIn a joint operation carried out at Daimuguri-Laimuti under Runikhata police station in Chirang district, the forest and SSB personnel seized two elephant tusks on Monday. The seized tusks weighed 7 kg. One person, identified as 55-year-old Jorebangal Basumatary, has also been arrested in connection with the case. Talking to Northeast Now, Brahmananda Patiri, divisional forest officer (DFO) of Chirang, on Monday said, “As per specific information, we conducted a joint operation with the SSB at Daimuguri-Laimuti village under Runikhata police station in Chirang district.” Also read: Assam: Elephant tusk smuggler arrested in Chirang, two tusks recovered “During the operation, we were able to seize two numbers of elephant tusks weighing 7 kg from the house of one Jorebangal Basumatary,” the DFO said. The operation was carried out at 3 pm on Monday. According to official sources, Jorebangal Basumatary is the father-in-law of the main accused, who is absconding. The top forest officer also informed that so far, two persons have been arrested from Dadgiri and Daimuguri-Laimuti in Chirang district on charges of illegally possessing elephant tusks. He said, “A total of 17 kg of elephants tusks have been recovered from the possession of the two arrested persons.” The DFO informed that the market value of all the tusks, recovered from different locations in Chirang district, will be around Rs 10 lakh. The forest officials with the help of Chirang police on Sunday nabbed one elephant tusk smuggler, identified as Alen Basumatary and recovered two tusks from his possession. DFO Patiri said the elephant tusk smugglers sell the tusks in China and Myanmar through Nepal. Sources said, the tusks were collected by the smugglers after killing the animals in Manas and Ultapani forests. “Due to lockdown, the smugglers failed to sell the tusks in the illegal market,” sources added. The forest official sources said it is expected that more elephant tusk smugglers will land in the forest department’s net soon.']
+
+
+Assam----LOC.STATE\
+
+Two----QTY
+
+elephant----SP.COMMON
+
+tusks----ITEM
+
+seized----CRIME.CAT
+
+Chirang----LOC.DISTRICT
+
+1----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+Daimuguri-Laimuti under Runikhata police station----AUTH.SEIZE
+
+Chirang----LOC.DISTRICT
+
+seized----CRIME.CAT
+
+two----QTY
+
+elephant----SP.COMMON
+
+tusks----ITEM
+
+Monday----DATE
+
+tusks----ITEM
+
+7 kg----QTY
+
+One----SUS.NUMBER
+
+55-year-old----SUS.AGE
+
+Jorebangal Basumatary----SUS.NAME
+
+Brahmananda Patiri----OFF.NAME
+
+divisional forest officer (DFO)----OFF.DESIG
+
+Jorebangal Basumatary----SUS.NAME
+
+3 pm----TIME
+
+Monday----DATE
+
+17 kg----QTY
+
+elephants tusks----ITEM
+
+Rs 10 lakh----VALUE

@@ -1,0 +1,29 @@
+
+['Elephant Kills Woman, Injures Husband In Angul\nAngul: A woman died while her husband was critically injured after being attacked by a wild elephant at Santhapada village under Talcher police limits of Angul district late Monday night. Reportedly, the deceased Kanchan Munda was fast asleep with her husband Mukunda Munda when a tusker broke into their house in search of food and subsequently attacked them. As a result, Kanchan died on the spot while Mukunda was rescued by locals and rushed to the nearest hospital. On getting information, forest officials rushed to the spot but the elephant and its herd had left the village.']
+
+
+Elephant----SP.COMMON
+
+Kills----CRIME.CAT
+
+Woman----SUS.GENDER
+
+Angul----LOC.DISTRICT
+
+Angul----LOC.DISTRICT
+
+A----SUS.NUMBER
+
+woman----SUS.GENDER
+
+Santhapada village----LOC.EXACT
+
+Monday----DATE
+
+night----TIME
+
+Kanchan Munda----SUS.NAME
+
+Mukunda Munda----SUS.NAME
+
+Kanchan----SUS.NAME

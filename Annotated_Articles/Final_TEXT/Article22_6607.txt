@@ -1,0 +1,5 @@
+
+['The forest officers will be capturing the man eating tiger tomorrow.\nThe forest officers will be capturing the man eating tiger tomorrow. The forest officers will have captured the man eating tiger tomorrow. The forest officers will capture the man eating tiger tomorrow. The man eating tiger will capture the forest officers tomorrow. Solution : (c) The forest officers will capture the man eating tiger tomorrow(Correct) (a)The forest officers will be capturing the man eating tiger tomorrow. (Tense has changed) (b)The forest officers will have captured the man eating tiger tomorrow. (Tense has changed) (d) The man eating tiger will capture the forest officers tomorrow . (Incorrect Subject and Meaning)']
+
+
+tiger----SP.COMMON

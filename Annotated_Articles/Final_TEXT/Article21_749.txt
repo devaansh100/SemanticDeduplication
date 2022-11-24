@@ -1,0 +1,45 @@
+
+['Telangana: Ensnared big cat dies in Eturunagaram forest, two held\nTelangana: Ensnared big cat dies in Eturunagaram forest, two held By P. Laxma Reddy Published: Updated On - 09:57 AM, Sun - 3 October 21 Skeletal remains of a big cat, believed to be a tiger or a leopard, were found in Mulugu forest area in Telangana Warangal: A big cat, suspected to be a tiger, was caught in a snare set up by some hunters in forest area of SS Tadwail mandal in Mulugu district. The big cat appears to have died while in the snare and authorities have taken into custody two persons believed to have set up the snares, sources say. Forest officials are yet to confirm whether it was a tiger or a leopard. The death of the big cat came to light only when a special police team on anti-extremist patrol duty was combing the forest area last week. The police team, it was said, stumbled on the skeletal remains and alerted their higher ups. Subsequently, the law and order police were stated to have picked up two persons suspected to have laid the snare to hunt wild animals. The news about finding of the skeletal remains, surfaced only on Sunday morning, sending wildlife lovers and environmentalists into distress. Just in the recent past they were overjoyed after officials declared that a tiger made Eturunagaram and Pakhal wildlife sanctuary as its habitat more than a year ago. Meanwhile, sources confirmed that the police had taken two suspected poachers into custody and recovered a tiger hide and nails. The matter was also informed to the forest department officials. When contacted, Mulugu SP Sangram Singh Ganpat Rao Patil said the details of the incident would be made public shortly. The special police team, which was combing the forest area, had also found a dump of explosives hidden by the CPI Maoist cadres near Kalvapally village in the same forest area, it was disclosed on Saturday. Now you can get handpicked stories from Telangana Today on Telegram everyday. Click the link to subscribe. Click to follow Telangana Today Facebook page and Twitter .']
+
+
+big cat----SP.COMMON
+
+Eturunagaram forest----LOC.EXACT
+
+two----SUS.NUMBER
+
+big cat----SP.COMMON
+
+Eturunagaram forest----LOC.EXACT
+
+two----SUS.NUMBER
+
+P. Laxma Reddy----OFF.NAME
+
+big cat----SP.COMMON
+
+tiger----SP.COMMON
+
+leopard----SP.COMMON
+
+Mulugu forest area----LOC.EXACT
+
+Telangana----LOC.STATE
+
+big cat----SP.COMMON
+
+tiger----SP.COMMON
+
+Mulugu----LOC.DISTRICT
+
+big cat----SP.COMMON
+
+two----SUS.NUMBER
+
+law and order police----AUTH.SEIZE
+
+two----SUS.NUMBER
+
+two----SUS.NUMBER
+
+CPI Maoist cadres----SUS.AFFIL

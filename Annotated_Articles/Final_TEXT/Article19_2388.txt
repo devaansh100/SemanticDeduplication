@@ -1,0 +1,45 @@
+
+['2 racehorses killed as float turns turtle\nrace horses Mumbai Pune Expressway Mumbai race course trainer Hosidar Daji Shivneri bus Float was hit by a speeding Shivneri; its jammed doors had to be cut open.Twodied and two others were injured in a road accident onon Saturday at around 4 pm near Kamshet. The horses were travelling in a float that left fromat around 1.30 pm. With the racing season over in city, theirhad decided to move them to Pune.According to eyewitnesses, the float was driving in the middle lane of the highway when all of a sudden ajoined that lane. In a bid to avoid a crash, the driver of the float moved to the last lane but lost control and the vehicle turned turtle.All the six horses were trapped inside the float after it overturned. It took over an hour for a crane to arrive and put the float upright. It took another hour for the highway rescue team to break open the jammed doors with cutters to free the horses. In the meantime, a team of veterinarians from Pune race course reached the accident spot.By the time the doors could be opened, two of the horses had died, while two were injured. The rescue operation lasted till 9 pm. One horse, identified as Most Welcome and owned by one Dr Suresh Chintamaneni, was critically injured and was moved out but could not get up on its own. The rescue team finally had to sedate it and place it in an ambulance with the help of a crane. The remaining two horses escaped unhurt.“I was driving at 50 kmph in the middle lane. The bus crashed into the rear end of my float. My vehicle started swerving and I couldn’t control it anymore,” said Rizwan Khan, driver of the float, as his brother Irfan Khan, who was accompanying him, nodded in agreement.Other eye witnesses told the cops that the bus was being driven at high speed in the first lane when a car right ahead attempted a u-turn. “Without any indication, the car slowed down and tried to negotiate a u-turn. The bus driver therefore changed lanes without any indicator. This led to the crash,” one eyewitness told the highway police.When Mirror contacted Hosidar Daji, he said that the horses were being taken to Pune after the Mumbai racing season got over. The deceased horses were identified as Marianella, owned by Pervez Andhyarujina and Zaheer Lalkaka, and Holland owned by Dr Suresh Chintamaneni.Dattatray Kharat of the Highway Safety Police told Mirrror that they acted immediately after they got a call about the accident at 4.10 pm. “The vehicle carrying the horses lost control of the vehicle and overturned. With the help of the rescue team we were able to ensure that traffic movement was not affected. The local police will soon register a case in the matter.”']
+
+
+2----QTY
+
+racehorses----SP.COMMON
+
+killed----CRIME.CAT
+
+Mumbai----LOC.CITY
+
+Saturday----DATE
+
+4 pm----TIME
+
+Kamshet.----LOC.EXACT
+
+float----TRANSPORT_MODE
+
+crane----DETECTION_METHOD
+
+Rizwan Khan----SUS.NAME
+
+driver----SUS.AFFIL
+
+Irfan Khan----SUS.NAME
+
+bus----TRANSPORT_MODE
+
+Pune----ROUTE.DEST
+
+Marianella----SUS.NAME
+
+Pervez Andhyarujina----SUS.NAME
+
+Zaheer Lalkaka----SUS.NAME
+
+Holland----SUS.NAME
+
+Dr Suresh Chintamaneni.Dattatray Kharat----SUS.NAME
+
+call----DETECTION_METHOD
+
+4.10 pm----TIME

@@ -1,0 +1,29 @@
+
+["Hunting of herons in Hudkeshwar area\nLokmat News Network Nagpur, Aug 5 Herons have made Hudkeshwar area as their nesting ground and so as poachers. Unchecked hunting of white-coloured heron birds is going on in Hudkeshwar area for several months. For the past few years, the area of Hudkeshwar is considered to be a favorite area of heron birds. According to the local people, hunters injure the birds sitting on the trees by hitting them with catapults and other objects. After this, when the bird is sitting in the injured position on the tree, they catch it and keep it in the bags. They have been doing this from several days. Wildlife lover Prateek Dhavad got to know about it. He gave information about the hunting case to his friends Nitish Bhandakkar, Vikrant Kavle, Ankit Khlode, Sahit Sharnagat and Dheeraj Miskin. The wildlife lovers started keeping an eye on the poachers. On Thursday around 11 o'clock in the morning, the members of the poaching community started targeting the birds sitting on the trees by pelting stones, with catapults and other items. Meanwhile, the accused injured almost dozen birds with catapults. Two of the accused stood under the tree while one of the accused climbed the tree and started taking down the injured birds hanging on the twigs. As soon as the news of this incident came to light, Prateek and Nitish's team of friends reached the spot along with Hudkeshwar police. They caught three accused and seized 6 live birds and about 12 dead birds from their bags. The police team took the accused to Hudkeshwar police station. But as the matter is related to birds, the forest department officials were informed. Will register a case of poaching Seminary Hills Forest Circle Officer Vijay Gangawane, on receiving the information, sent the team of forest personnel to Hudkeshwar police station. From there the accused Mahesh Solanki, Nanduram Solanki and Rakesh Malia were taken into custody. According to RFO Gangawane, heron birds come in Schedule-4. In view of this, a case of poaching will be registered against the accused and they will be presented in the court on Friday. Poachers engage in hitting birds every week According to the local people, a group of poachers comes to the area every week. They injure the birds sitting on the trees and then carry them in the bag. Meanwhile, mother of one of the accused also reached on the spot. The woman claimed to her son have hunted the bird for the first time as a its is used for medicinal purpose for arthritis. But so many birds under their possession, was telling a different story."]
+
+
+Hunting----CRIME.CAT
+
+herons----SP.COMMON
+
+Hudkeshwar area----LOC.EXACT
+
+Herons----SP.COMMON
+
+Thursday----DATE
+
+11 o'clock in----TIME
+
+morning----TIME
+
+6----QTY
+
+Vijay Gangawane----OFF.NAME
+
+Mahesh Solanki----SUS.NAME
+
+Nanduram Solanki----SUS.NAME
+
+Rakesh Malia----SUS.NAME
+
+case of poaching will be registered against the accused and they will be presented in the court on Friday----OUTCOME

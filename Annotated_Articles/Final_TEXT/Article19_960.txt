@@ -1,0 +1,81 @@
+
+['Customs officials foil bid to smuggle leopard cub at Chennai Airport\nBy Express News Service CHENNAI: It was a faint trill sound emanating from a checked-in baggage that resulted in Air Intelligence Unit (AIU) officials from Customs department rescuing a leopard cub which was being smuggled from Thailand at Chennai International airport. The officials, who were tipped off that prohibited wild animals are likely to be smuggled from Thailand, kept a close watch on passengers and found a male passenger walking hurriedly in a suspicious manner with a trill sound emanating from his luggage. The passenger identified as Kaja Moideen (45), who had arrived from Bangkok by Thai Airways flight TG337, was intercepted after he crossed the green channel and brought to AIU room in the airport for further questioning. The leopard cub which was rescued at Chennai airport (Photo: EPS) Moideen was evasive in his replies so his baggage was opened for further examination. On examination of his stroller bag, a pink plastic basket was found in which a small animal resembling a leopard cub was found. IN PICS | Why so cute! Newborn cheetah cubs charm visitors at Australian zoo The animal was in a state of shock and was making trill sounds and appeared to be weak. The custom officers fed the cub milk in a feeding bottle and reenergized the cub. Officials of Wildlife Crime Control Bureau (WCCB) were called and they identified the animal as leopard cub of “Pantherapardus” species. WATCH: Attempt to smuggle leopard cub at Chennai Airport foiled To ascertain the health status of the cub, a Veterinary doctor was called from Aringar Anna Zoological Park. They inspected the cub and informed that it is a one month old female weighing 1.1 kg and measuring 54 cm nose to tail and in good condition. The leopard cub was seized under the provisions of Customs Act 1962 read with Wild Life Protection Act, 1972 and CITES. The cub along with the passenger was handed over to the Tamil Nadu Forest Department for further action. The Cub will be rehabilitated in the Aringar Anna Zoological Park, Chennai and the forest department will take appropriate action under Wild Life Protection Act 1972 against the passenger. Further investigations are under progress. CHENNAI: It was a faint trill sound emanating from a checked-in baggage that resulted in Air Intelligence Unit (AIU) officials from Customs department rescuing a leopard cub which was being smuggled from Thailand at Chennai International airport. The officials, who were tipped off that prohibited wild animals are likely to be smuggled from Thailand, kept a close watch on passengers and found a male passenger walking hurriedly in a suspicious manner with a trill sound emanating from his luggage. The passenger identified as Kaja Moideen (45), who had arrived from Bangkok by Thai Airways flight TG337, was intercepted after he crossed the green channel and brought to AIU room in the airport for further questioning. The leopard cub which was rescued at Chennai airport (Photo: EPS) Moideen was evasive in his replies so his baggage was opened for further examination. On examination of his stroller bag, a pink plastic basket was found in which a small animal resembling a leopard cub was found. IN PICS | Why so cute! Newborn cheetah cubs charm visitors at Australian zoo The animal was in a state of shock and was making trill sounds and appeared to be weak. The custom officers fed the cub milk in a feeding bottle and reenergized the cub. Officials of Wildlife Crime Control Bureau (WCCB) were called and they identified the animal as leopard cub of “Pantherapardus” species. WATCH: Attempt to smuggle leopard cub at Chennai Airport foiled To ascertain the health status of the cub, a Veterinary doctor was called from Aringar Anna Zoological Park. They inspected the cub and informed that it is a one month old female weighing 1.1 kg and measuring 54 cm nose to tail and in good condition. The leopard cub was seized under the provisions of Customs Act 1962 read with Wild Life Protection Act, 1972 and CITES. The cub along with the passenger was handed over to the Tamil Nadu Forest Department for further action. The Cub will be rehabilitated in the Aringar Anna Zoological Park, Chennai and the forest department will take appropriate action under Wild Life Protection Act 1972 against the passenger. Further investigations are under progress.']
+
+
+Customs officials----AUTH.SEIZE
+
+smuggle----CRIME.CAT
+
+leopard cub----SP.COMMON
+
+Chennai Airport----LOC.EXACT
+
+checked-in baggage----CONCEALMENT_METHOD
+
+Air Intelligence Unit (AIU)----AUTH.SEIZE
+
+Customs department----AUTH.SEIZE
+
+rescuing----CRIME.CAT
+
+leopard----SP.COMMON
+
+Thailand----ROUTE.SRC
+
+Chennai International airport----LOC.EXACT
+
+tipped off----DETECTION_METHOD
+
+Thailand----ROUTE.SRC
+
+Kaja Moideen----SUS.NAME
+
+45----SUS.AGE
+
+feeding bottle----CONCEALMENT_METHOD
+
+Wildlife Crime Control Bureau (WCCB)----AUTH.MISC
+
+leopard----SP.COMMON
+
+Tamil Nadu Forest Department----AUTH.MISC
+
+checked-in baggage----CONCEALMENT_METHOD
+
+Air Intelligence Unit----AUTH.SEIZE
+
+AIU----AUTH.SEIZE
+
+Customs department----AUTH.SEIZE
+
+rescuing----CRIME.CAT
+
+a----QTY
+
+leopard cub----SP.COMMON
+
+Thailand----ROUTE.SRC
+
+Chennai International airport----LOC.EXACT
+
+tipped off----DETECTION_METHOD
+
+Thailand----ROUTE.SRC
+
+Kaja Moideen----SUS.NAME
+
+45----SUS.AGE
+
+leopard cub----SP.COMMON
+
+Wildlife Crime Control Bureau (WCCB)----AUTH.MISC
+
+leopard----SP.COMMON
+
+leopard----SP.COMMON
+
+1.1 kg----QTY
+
+seized----CRIME.CAT
+
+passenger was handed over to the Tamil Nadu Forest Department for further action----OUTCOME

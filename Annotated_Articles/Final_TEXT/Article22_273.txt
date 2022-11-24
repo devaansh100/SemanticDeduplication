@@ -1,0 +1,39 @@
+
+["Perverts!! Four held for gang-raping monitor lizard\nHumanity at its worst: 3 men hang dog to death in Ghaziabad Man posts an 'insightful' video of British Indian passport from 1927; Internet says 'precious' Grandma can't contain delight after getting make-up on | Video Perverts!! Four held for gang-raping monitor lizard India oi-Vicky Nanjappa New Delhi, Apr 14: Four persons have been arrested in Maharashtra for allegedly raping a monitor lizard. The accused who are hunters allegedly entered the Sahyadri Tiger Reserve in the Sabha area at Gothane and committed the horrific crime. The accused have been identified as Sandeep Tukram, Pawar Mangesh, Janardhan Kamtekar and Akshay Sunil. The forest department checked the mobile phone of the accused and found out about the incident. The officials found the recording of the act which showed the accused trying to rape the monitor lizard. The accused were traced with the help of CCTV footage in which they can be seen roaming in the forest. These persons had come from Konkan to Kolhapur's Chandoli village for hunting. The police are obviously perplexed with the incident. They will charge them under relevant sections of the Indian Penal Code. They will be produced before court and action will be taken against them. If found guilty the accused could be sentenced to seven years imprisonment. The Bengal monitor lizard is a preserved species under the Wildlife Protection Act 1972. For Breaking News and Instant Updates Allow Notifications Story first published: Thursday, April 14, 2022, 11:52 [IST]"]
+
+
+Four----SUS.NUMBER
+
+gang-raping----CRIME.CAT
+
+monitor lizard----SP.COMMON
+
+3----SUS.NUMBER
+
+Ghaziabad----LOC.CITY
+
+Four----SUS.NUMBER
+
+gang-raping----CRIME.CAT
+
+monitor lizard----SP.COMMON
+
+Four----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+Maharashtra----LOC.STATE
+
+raping----CRIME.CAT
+
+monitor lizard----SP.COMMON
+
+Sandeep Tukram----SUS.NAME
+
+Pawar Mangesh----SUS.NAME
+
+Janardhan Kamtekar----SUS.NAME
+
+Akshay Sunil----SUS.NAME
+
+monitor lizard----SP.COMMON

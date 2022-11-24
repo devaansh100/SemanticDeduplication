@@ -1,0 +1,23 @@
+
+["Four injured in Leopard attack in East Godavari\nRajamahendravaram By Express News Service A Leopard strayed into the outskirts of Ankampalem village in Ryally mandal of East Godavari district creating panic as it injured four farmers and finally taking shelter atop a coconut tree. The wild cat is still perched atop the tree and forest officials are making efforts to tranquillise the animal and bring it down. Nets have been arranged under the tree to ensure that the Leopard does not suffer injuries in the event of a fall from the top of the tree. According to villagers and forest officials, the Leopard was spotted in the agriculture fields of Ankampalem and before the locals could ran to safety, it had attacked four villagers. As villagers started to gather, the wild cat climbed atop a coconut tree and hit itself in the fronds. The injured villagers were shifted to hospital for treatment. Hundreds of locals and people from nearby villages reached the village to have a glimpse of the Even as the Leopard Kakinada DFO Dr Nandan Salaria told TNIE that they have arranged lights to make the Leopard visible and to take up rescue operation. On a team of officials from Visakhapatnam with tranquilisers reached Kakinada from Visakhapatnam while another from Rajahmundry too joined the officials to trap the Leopard. Huge nets were arranged underneath the tree to catch the Leopard from a fatal fall on the ground once it is tranquilised, the DFO said. However, with thousands of people gathering near the tree, forest officials said they could take the rescue operation only after they disperse. Police are having a tough time to disperse the crowds, reports last reaching here said. Meanwhile, locals said though deers used to wander in the nearby forests, they never came across a wild animal stray into the villagers nearby Ravulapalem mandal, which is 70 km away from Rajahmundry. ``We are trying to ascertain how the Leopard entered in to the village and from where it has come,'' the DFO said. A Leopard strayed into the outskirts of Ankampalem village in Ryally mandal of East Godavari district creating panic as it injured four farmers and finally taking shelter atop a coconut tree. The wild cat is still perched atop the tree and forest officials are making efforts to tranquillise the animal and bring it down. Nets have been arranged under the tree to ensure that the Leopard does not suffer injuries in the event of a fall from the top of the tree. According to villagers and forest officials, the Leopard was spotted in the agriculture fields of Ankampalem and before the locals could ran to safety, it had attacked four villagers. As villagers started to gather, the wild cat climbed atop a coconut tree and hit itself in the fronds. The injured villagers were shifted to hospital for treatment. Hundreds of locals and people from nearby villages reached the village to have a glimpse of the Even as the Leopard Kakinada DFO Dr Nandan Salaria told TNIE that they have arranged lights to make the Leopard visible and to take up rescue operation. On a team of officials from Visakhapatnam with tranquilisers reached Kakinada from Visakhapatnam while another from Rajahmundry too joined the officials to trap the Leopard. Huge nets were arranged underneath the tree to catch the Leopard from a fatal fall on the ground once it is tranquilised, the DFO said. However, with thousands of people gathering near the tree, forest officials said they could take the rescue operation only after they disperse. Police are having a tough time to disperse the crowds, reports last reaching here said. Meanwhile, locals said though deers used to wander in the nearby forests, they never came across a wild animal stray into the villagers nearby Ravulapalem mandal, which is 70 km away from Rajahmundry. ``We are trying to ascertain how the Leopard entered in to the village and from where it has come,'' the DFO said."]
+
+
+Four----SUS.NUMBER
+
+Leopard----SP.COMMON
+
+attack----CRIME.CAT
+
+East Godavari----LOC.DISTRICT
+
+Leopard----SP.COMMON
+
+Ankampalem village in Ryally mandal----LOC.EXACT
+
+four----SUS.NUMBER
+
+wild cat----SP.COMMON
+
+wild cat----SP.COMMON
+
+Visakhapatnam----ROUTE.SRC

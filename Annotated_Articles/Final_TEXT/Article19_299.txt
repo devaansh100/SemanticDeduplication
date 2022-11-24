@@ -1,0 +1,31 @@
+
+["Wolf caught in Bengal's Jhargram\nThe animal was taken to Jhargram Zoo Hospital to ascertain whether any injury has made it aggressive The animal was taken to Jhargram Zoo Hospital to ascertain whether any injury has made it aggressive. Residents of villages near Jhargram caught an Indian Wolf on Thursday morning after the animal had attacked four men and as many women. The injured have been admitted to Jhargram District Hospital. They are from Shimuldanga, Ghritakham, Jarulia and Kundaldihi villages, all of which are located in dense forests. A 30-year-old man from Jamboni, Lalmohan Soren, died two months ago after a wolf mauled his neck. It could not be verified whether the animal that was caught on Thursday was the one that had killed Lalmohan. “Indian Wolves are at times spotted in Jhargram forests. It appears the adult male that was caught today entered the villages in search of food. Local people caught the animal after it attacked a goat at Kendashole village,” an official in the forest department said. “The wolf was not part of the pack that was roaming the area.” Villagers have told forest department officials that almost every morning over the past two months they had been waking up to discover that chickens and goats were missing from the courtyards of their houses. Dhiren Mahato, one of the injured, said: “In the first few moments after spotting the animal I failed to realise what it was. I had never before seen a wolf in and around our village. When I went closer, the animal attacked me and bit me on my face,” he recounted. Budhuram Mahali spotted the wolf when it attacked his goat. He alerted other villagers, who caught the animal and tied its legs and jaws. The villagers reported the capture to the forest department, from where a team came and identified the animal as Indian Wolf (Canis lupus pallipes). Indian wolves are spread across the red-soil regions of Purulia, Birbhum, Bankura and Jhargram and parts of West Midnapore. “The animal often becomes aggressive when injured,” an official said. Around 30km from the spot where the wolf was caught, hidden cameras captured a tiger in a Lalgarh forest on March 2, 2018. A group of villagers killed the big cat on April 14."]
+
+
+Wolf----SP.COMMON
+
+caught----CRIME.CAT
+
+Bengal's----SP.SPECIFIC
+
+Jhargram----LOC.EXACT
+
+Indian Wolf----SP.SPECIFIC
+
+Thursday----DATE
+
+morning----TIME
+
+Shimuldanga----SUS.LOC
+
+Ghritakham----SUS.LOC
+
+Jarulia----SUS.LOC
+
+Kundaldihi----SUS.LOC
+
+wolf----SP.COMMON
+
+Indian Wolf----SP.SPECIFIC
+
+Canis lupus pallipes)----SP.SPECIFIC

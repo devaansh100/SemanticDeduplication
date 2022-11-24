@@ -1,0 +1,17 @@
+
+['Suratkal: Video of ‘tiger’ near Shibaroor Bridge goes viral; local authorities clarify\nSuratkal: Video of ‘tiger’ near Shibaroor Bridge goes viral; local authorities clarify A A A Team Udayavani, Apr 2, 2022, 10:22 AM IST Suratkal: A video of a tiger casually strolling near a bridge is going viral on social media. In the video, the Tiger can be seen taking a stroll down the empty road before disappearing into the woods. The video is being circulated with a caption claiming that the tiger was spotted near Shibaroor bridge on Kinnigoli road. It created a sense of panic among the locals. However, the local authorities have denied the claims and said that the video is fake.']
+
+
+tiger----SP.COMMON
+
+Shibaroor Bridge----LOC.EXACT
+
+local authorities----AUTH.SEIZE
+
+tiger----SP.COMMON
+
+Shibaroor Bridge----LOC.EXACT
+
+tiger----SP.COMMON
+
+Tiger----SP.COMMON

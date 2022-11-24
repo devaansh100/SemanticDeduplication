@@ -1,0 +1,117 @@
+
+['Endangered sea animal remains worth Rs 7 cr seized by customs in Chennai\nEndangered sea animal remains worth Rs 7 cr seized by customs in Chennai Two persons have detained by the Customs department and will be handed over to the Tamil Nadu Forest Department for appropriate action. news Crime In a big seizure by Customs officials in Chennai, close to 660 kg of sea animal remains was seized by the Department of Revenue on Monday night. In a press release on Wednesday, the Revenue Department said that the officers acted on a tip-off that species like seahorses and Pangolin scales were being kept in a godown in Mannady, Chennai, to be flown to Mumbai to be smuggled abroad. The officers conducted a surprise check at the godown, where they found the animals in plastic crates and high-density polyethylene (HDPE) bags. After the godown’s caretakers were questioned by the officials, the confessed that the goods were Pangolin scales, seahorses, pipe fishes and shark fins. “They further informed that they had procured marine wildlife species from Rameswaram coastal area also locally from Kasimedu fishing area in Chennai,” read the press statement. The Customs department also stated that these items were to be smuggled to China and other south Asian countries. On further examination of the items by the officers of the Wildlife Crime Control Bureau, it was found that almost all items which were confiscated fall under various provisions of Wildlife (Protection) Act, 1972. The export of shark fins, which were also confiscated, is prohibited by law. The total seizure amounted to 111 kg of Pangolin scales, 160 kg of seahorse dried, 180 kg of pipe fishes dried, 5 kg of sea cucumber, 125 kg of Manta and Mobila Ray gills and 79 kg of shark fins. The total value of items seized has been pegged at Rs 7 crore. The customs officers also stated that two persons have been detained by the officers and will be handed over to the Tamil Nadu Forest Department for appropriate action. “The Pangolin is an endangered species and most poached species. Its scales are used in traditional Chinese medicine. The seahorse and pipe fish and Manta and Mobula ray gills are also used in traditional Chinese medicine. Shark fins are used for a costly soup delicacy in China,” the press release said.']
+
+
+sea animal----SP.COMMON
+
+remains----ITEM
+
+Rs 7 cr----VALUE
+
+seized----CRIME.CAT
+
+customs----AUTH.SEIZE
+
+Chennai----LOC.CITY
+
+sea animal----SP.COMMON
+
+remains----ITEM
+
+Rs 7 cr----VALUE
+
+seized----CRIME.CAT
+
+customs----AUTH.SEIZE
+
+Chennai----LOC.CITY
+
+Two----SUS.NUMBER
+
+detained----CRIME.CAT
+
+Customs department----AUTH.SEIZE
+
+Tamil Nadu Forest Department----AUTH.MISC
+
+seizure----CRIME.CAT
+
+Customs officials----AUTH.SEIZE
+
+Chennai----LOC.CITY
+
+660 kg----QTY
+
+sea animal----SP.COMMON
+
+remains----ITEM
+
+seized----CRIME.CAT
+
+Department of Revenue----AUTH.SEIZE
+
+Monday----DATE
+
+night----TIME
+
+tip-off----DETECTION_METHOD
+
+seahorses----SP.COMMON
+
+Pangolin----SP.COMMON
+
+scales----ITEM
+
+godown in Mannady, Chennai----CONCEALMENT_METHOD
+
+Mumbai----ROUTE.DEST
+
+plastic crates----CONCEALMENT_METHOD
+
+Pangolin----SP.COMMON
+
+scales----ITEM
+
+seahorses----SP.COMMON
+
+shark----SP.COMMON
+
+fins----ITEM
+
+111 kg----QTY
+
+Pangolin----SP.COMMON
+
+scales----ITEM
+
+160 kg----QTY
+
+seahorse----SP.COMMON
+
+180 kg----QTY
+
+pipe fishes----SP.COMMON
+
+5 kg----QTY
+
+sea cucumber----SP.COMMON
+
+125 kg----QTY
+
+Manta----SP.COMMON
+
+Mobila Ray----SP.COMMON
+
+gills----ITEM
+
+79 kg----QTY
+
+shark----SP.COMMON
+
+fins----ITEM
+
+Rs 7 crore----VALUE
+
+two----SUS.NUMBER
+
+persons have been detained by the officers and will be handed over to the Tamil Nadu Forest Department----OUTCOME

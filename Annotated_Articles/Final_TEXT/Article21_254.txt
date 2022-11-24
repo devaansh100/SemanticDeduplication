@@ -1,0 +1,43 @@
+
+['Poaching cuffs on Chuniajhora tea estate duo\nBinod Oraon and Punai Oraon have been accused of killing a sambar — a deer species — in the Buxa Tiger Reserve area The duo Binod Oraon and Punai Oraon have been accused of killing a sambar — a deer species — in the BTR area on Saturday night. Two suspected poachers who are residents of Chuniajhora tea estate, located on the fringes of Buxa Tiger Reserve, were arrested on Monday after firearms were seized from them during a raid conducted by the Sashastra Seema Bal (SSB) and the state forest department. Forest sources said a group of five residents of the Chuniajhora tea estate had shot dead the sambar. “They had used improvised firearms to kill the animal. After the sambar died, they chopped its meat and shared it among themselves,” said a forest source. “We have recovered two countrymade guns from them, along with some meat and skin of the dead sambar. During the interrogation, they admitted their crime and also told names of three other gang members. Searches are on to nab them,” said a forest officer. “The duo were produced at a court in Alipurduar on Monday and remanded in judicial custody for 14 days,” he added. “We are taking the help of police to trace the other three who are involved in the crime. A probe is on,” said Budhraj Sewa, the field director of the BTR.']
+
+
+Chuniajhora tea estate----SUS.LOC
+
+Binod Oraon----SUS.NAME
+
+Punai Oraon----SUS.NAME
+
+sambar----SP.SPECIFIC
+
+deer species----SP.COMMON
+
+Buxa Tiger Reserve area----LOC.EXACT
+
+Binod Oraon----SUS.NAME
+
+Punai Oraon----SUS.NAME
+
+sambar----SP.SPECIFIC
+
+deer species----SP.COMMON
+
+BTR area----LOC.EXACT
+
+Saturday----DATE
+
+night----TIME
+
+Two----SUS.NUMBER
+
+poachers----SUS.AFFIL
+
+Chuniajhora tea estate----SUS.LOC
+
+fringes of Buxa Tiger Reserve----LOC.EXACT
+
+Monday----DATE
+
+Sashastra Seema Bal (SSB)----AUTH.SEIZE
+
+state forest department----AUTH.SEIZE

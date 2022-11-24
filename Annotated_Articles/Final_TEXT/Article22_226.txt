@@ -1,0 +1,35 @@
+
+['Woman injured in leopard attack in Guwahati, locals panic\nA woman sustained injuries after she was attacked by a leopard in the Maligaon area of Guwahati on Tuesday morning. The leopard strayed into the area from the nearby hills. (Representational image) By Pallav Bora: A woman was injured in a leopard attack in the Maligaon area of Guwahati on Tuesday morning. The leopard strayed into the area from the nearby hills and attacked the woman. On receiving the information, the forest department officials reached the area and started a search for the wild cat. However, it is yet to be tranquilized. The news of the attack left the residents of the locality terror-struck. advertisement READ MORE: Srinagar: CRPF trooper dead, 12 injured in road accident in Hyderpora READ MORE: 15-feet long python rescued in Guwahati’s Dharapur --- ENDS ---']
+
+
+Woman----SUS.GENDER
+
+leopard----SP.COMMON
+
+attack----CRIME.CAT
+
+Guwahati----LOC.CITY
+
+leopard----SP.COMMON
+
+Maligaon area----LOC.EXACT
+
+Guwahati----LOC.CITY
+
+Tuesday----DATE
+
+morning----TIME
+
+leopard----SP.COMMON
+
+leopard----SP.COMMON
+
+Maligaon area----LOC.EXACT
+
+Tuesday----DATE
+
+morning----TIME
+
+leopard----SP.COMMON
+
+forest department officials----AUTH.SEIZE

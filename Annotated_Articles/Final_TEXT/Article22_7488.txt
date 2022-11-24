@@ -1,0 +1,23 @@
+
+["Germany: Poisonous Bite Leads Police To Farm With 110 Snakes\nPolice in Germany said Sunday they discovered more than 110 dangerous snakes on a farm after a woman who lived there sought medical treatment for a poisonous bite. The 35-year-old woman drove to a hospital in Salzgitter, near Hannover, early Sunday and told doctors there that one of her rattlesnakes bit her finger. While the woman's condition deteriorated and authorities hastily ordered an antidote from a specialist institute in Hamburg, police visited the farm in central Germany and found dozens of snakes. In a statement, police said specialists determined the snake collection included both constrictors and poisonous varieties, which weren't housed in appropriate terrariums. The reptiles were all impounded. Image: AP/Representative (Disclaimer: This story is auto-generated from a syndicated feed; only the image & headline may have been reworked by www.republicworld.com)"]
+
+
+Germany----LOC.STATE
+
+Police----AUTH.SEIZE
+
+110----QTY
+
+Snakes----SP.COMMON
+
+Germany----LOC.STATE
+
+110----QTY
+
+snakes----SP.COMMON
+
+woman----SUS.GENDER
+
+35-year-old----SUS.AGE
+
+Sunday----DATE

@@ -1,0 +1,105 @@
+
+["Four arrested for trying to sell 'whale vomit' worth Rs 22 crore near Chennai\nForest Department officials and police arrested four people after receiving a tip-off about a gang from Kerala attempting to sell Ambergris, or whale vomit, in the Mangadu near Chennai, Tamil Nadu. Forest Department officials and police arrested four people after receiving a tip-off about a gang from Kerala attempting to sell Ambergris, or whale vomit, in Mangadu near Chennai, Tamil Nadu. Ambergris is a waxy substance which is flammable. It is produced inside the digestive system of sperm whales and debate is on whether the substance is partially digested hard parts of giant squids. After being accumulated for years inside the sperm whale's stomach, the substance is then either vomited or excreted and floats in the ocean for years, undergoing various chemical changes to transform into Ambergris -- a highly valued substance in the perfume industry, where it is used as a fixative. Incidentally, the gang had approached many people online to sell them Ambergris valued at Rs 22 crore. A team of officials contacted them while pretending to be prospective buyers. When the gang arrived at the designated place to sell the Ambergris, police nabbed them. The perpetrators were identified as Vijayabhaskar from Kerala, Murugan from Madurai, Krishnamurthy and Ranjith from Chennai. On August 19, the Directorate of Revenue Intelligence seized Ambergris worth Rs 23 crore while arresting three men for trying to smuggle the contraband near Thoothukudi. The next day, another nine men were apprehended near Thiruporur for smuggling Ambergris valued at Rs 13 crore. ALSO READ | Kolkata: NCB busts drug racket smuggling 'world's strongest marijuana' from US to India ALSO READ | ED searches premises of kingpin, attaches assets worth Rs 5 crore in sea cucumber smuggling case"]
+
+
+Four----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+sell----CRIME.CAT
+
+whale----SP.COMMON
+
+vomit----ITEM
+
+Rs 22 crore----VALUE
+
+Chennai----LOC.CITY
+
+Forest Department officials----AUTH.SEIZE
+
+police----AUTH.SEIZE
+
+arrested----CRIME.CAT
+
+four----SUS.NUMBER
+
+tip-off----DETECTION_METHOD
+
+gang----SUS.AFFIL
+
+Kerala----LOC.STATE
+
+Ambergris----ITEM
+
+whale----SP.COMMON
+
+vomit----ITEM
+
+Mangadu----LOC.EXACT
+
+Chennai----LOC.DISTRICT
+
+Tamil Nadu----LOC.STATE
+
+Forest Department officials----AUTH.SEIZE
+
+police----AUTH.SEIZE
+
+arrested----CRIME.CAT
+
+four----SUS.NUMBER
+
+tip-off----DETECTION_METHOD
+
+gang----SUS.AFFIL
+
+Kerala----LOC.STATE
+
+Ambergris----ITEM
+
+whale----SP.COMMON
+
+vomit----ITEM
+
+Mangadu----LOC.EXACT
+
+Tamil Nadu----LOC.STATE
+
+Ambergris----ITEM
+
+Rs 22 crore----VALUE
+
+Vijayabhaskar----SUS.NAME
+
+Kerala----SUS.LOC
+
+Murugan----SUS.NAME
+
+Madurai----SUS.LOC
+
+Krishnamurthy----SUS.NAME
+
+Ranjith----SUS.NAME
+
+Chennai----SUS.LOC
+
+August 19----DATE
+
+Directorate of Revenue Intelligence----AUTH.SEIZE
+
+seized----CRIME.CAT
+
+Ambergris----ITEM
+
+Rs 23 crore----VALUE
+
+three----SUS.NUMBER
+
+nine----SUS.NUMBER
+
+Thiruporur----LOC.EXACT
+
+Ambergris----ITEM
+
+Rs 13 crore----VALUE

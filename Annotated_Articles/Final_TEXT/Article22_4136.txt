@@ -1,0 +1,9 @@
+
+['Mahendra Chaudhary Zoological Park: Latest News, Videos and Photos of Mahendra Chaudhary Zoological Park\nFlying foxes of Chhatbir Zoo visit Kinnaur to feed on fruits TNN / Apr 15, 2017, 08:32 (IST) On entering the mahendra chaudhary zoological park popularly known as Chhatbir Zoo, weird sounds from the cluster of huge trees situated next to the lake catch the visitors’ attention. The sounds are actually cries of dark and dingy mammals hanging upside down from branches of trees in the cluster.']
+
+
+Flying foxes----SP.SPECIFIC
+
+mahendra chaudhary zoological park----LOC.EXACT
+
+weird sounds----DETECTION_METHOD

@@ -1,0 +1,51 @@
+
+['Assam: Two pangolins rescued in Sonitpur\nGUWAHATI: Officials of the Wildlife Crime Control Bureau (WCCB), Guwahati and Chariduwar Range of Sonitpur West Division have rescued two live Chinese pangolins from Potasali near the Balipara – Bhalukpung Road. As per officials, a joint operation was conducted based on information about a possible wildlife smuggling attempt. Based on the input, the team came across two persons and found two live pangolins from them. One of the pangolins weighed 9.5 KG while the other was 2.9 KG. Also Read: Assam: Suspected ULFA-I linkman nabbed in Dibrugarh The two persons were detained and a case was registered. The arrested accused are identified as Karlin Mangfi and Gyan Bahadur Chetry. Both the accused are residents of the Sonitpur district. Based on the inputs, the teams found that the pangolins were brought in from the Sepa in Arunachal Pradesh. The seized rare animals were allegedly brought for consumption. The case is being handled by the Chariduwar Range office. Also Read: Assam: AIUDF was in ventilation, Congress saved it, says Rana Goswami There are eight species of pangolin species and are protected under national and international laws. Two of these are listed as Critically Endangered on the IUCN Red List of Threatened Species.']
+
+
+Assam----LOC.STATE
+
+Two----QTY
+
+pangolins----SP.COMMON
+
+rescued----CRIME.CAT
+
+Sonitpur----LOC.CITY
+
+GUWAHATI----LOC.CITY
+
+Wildlife Crime Control Bureau (WCCB)----AUTH.SEIZE
+
+Chariduwar Range----AUTH.SEIZE
+
+two----QTY
+
+Chinese pangolins----SP.SPECIFIC
+
+Potasali----LOC.EXACT
+
+information----DETECTION_METHOD
+
+two----SUS.NUMBER
+
+two----QTY
+
+pangolins----SP.COMMON
+
+pangolins----SP.COMMON
+
+9.5 KG----QTY
+
+2.9 KG----QTY
+
+two persons were detained and a case was registered----OUTCOME
+
+Karlin Mangfi----SUS.NAME
+
+Gyan Bahadur Chetry----SUS.NAME
+
+Sonitpur----SUS.LOC
+
+pangolins were----ROUTE.SRC
+
+Sepa in Arunachal Pradesh----ROUTE.SRC

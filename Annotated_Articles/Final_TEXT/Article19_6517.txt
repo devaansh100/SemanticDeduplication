@@ -1,0 +1,21 @@
+
+['Zoo staff leaves cage unlocked, gets clawed by leopard\nA 53-year-old staff was attacked by a leopard in the animal rescue centre of Vandalur Zoo on Thursday. Palani from Nedumkundram, was feeding animals in the rescue centre along with other staff on Thursday evening. A leopard was also housed in the centre. According to protocol, the leopard needs to be moved to a different section of the cage while the feeder can serve its food. When Palani went to feed it, he threw the meat into its cage and it fell into a bowl of water. Palani went to take the meat out of the water without ensuring that the other section of the cage, where the leopard was in, was locked. As a result, the animal attacked Palani as he was taking the meat out of the bowl. It clawed the staffer’s hand. Other staff at the centre rushed to Palani’s rescue and took him to a private hospital nearby. The zoo’s Deputy director Sudha Raman said, “The staff suffered only a minor injury, and it was actually a human error. He did not lock the cage as per the protocol and that is why the animal attacked him and there is nothing wrong with its behaviour.” Palani has been discharged and would be returning to work in a few days, claimed sources.']
+
+
+leopard----SP.COMMON
+
+leopard----SP.COMMON
+
+Thursday----DATE
+
+Palani----OFF.NAME
+
+Nedumkundram----SUS.LOC
+
+Thursday----DATE
+
+evening----TIME
+
+leopard----SP.COMMON
+
+meat----ITEM

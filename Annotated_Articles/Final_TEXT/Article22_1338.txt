@@ -1,0 +1,27 @@
+
+['Guwahati: Sambar Rescued by Forest Officials in Hengrabari\nOn Saturday, forest officers from the Assam State Zoo rescued a 300-kilogram Sambar from Ujjal Nagar near the Public Health colony in Hengrabari, Guwahati. Locals reported seeing the Sambar frequently in the Hengrabari area. Locals noticed a severe head injury and reported it to the state zoo’s forest officer. A crew from the Assam state zoo arrived at the scene, accompanied by two veterinary doctors. The team had to tranquillize the Sambar twice before it could be rescued safely. Locals assisted in the rescue efforts as well.']
+
+
+Sambar----SP.COMMON
+
+Rescued----CRIME.CAT
+
+Forest Officials----AUTH.SEIZE
+
+Hengrabari----LOC.EXACT
+
+Saturday----DATE
+
+forest officers----AUTH.SEIZE
+
+Assam State Zoo----AUTH.SEIZE
+
+300-kilogram----QTY
+
+Sambar----SP.COMMON
+
+Ujjal Nagar----LOC.EXACT
+
+Assam state zoo----AUTH.SEIZE
+
+veterinary doctors----AUTH.SEIZE

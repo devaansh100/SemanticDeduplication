@@ -1,0 +1,29 @@
+
+['Giant python, five-foot-long cobra spotted in Agra, rescued\nWildlife SOS on Monday rescued a five-foot-long cobra from the premises of Lamba Footwear Industry and a 12-foot-long Indian rock python from Akbara Jila village in Agra. Both the snakes were kept in observation and were later released safely back into the wild. “As chaos descended, the snake quickly slithered into the drain under the gate. The manager of the shoe factory called Wildlife SOS’s emergency helpline and a rescuer rushed to carry out the rescue operation. After careful extraction from the narrow drain, the snake was transferred into a snake bag. The whole operation took 30 minutes,” an official said. #RescueAlert! Yesterday, the #WSOS Rapid Response Unit in Agra rescued a gigantic 12 ft Python and a 5 ft long Cobra in separate incidents. They both have been released back into the wild.  If you see any animal in distress in Agra, please contact our helpline: +91-9917109666 pic.twitter.com/UhPtTeo91V — Wildlife SOS (@WildlifeSOS) October 7, 2019 Another call was received from Akbara Jila where a huge Indian rock python was found in a grove. The village borders a heavily forested area, and rescuers presume the python ventured into the village from there.']
+
+
+Giant python----SP.SPECIFIC
+
+five-foot-long----QTY
+
+cobra----SP.COMMON
+
+Agra----LOC.DISTRICT
+
+Monday----DATE
+
+five-foot-long----QTY
+
+cobra----SP.COMMON
+
+Lamba Footwear Industry----LOC.EXACT
+
+12-foot-long----QTY
+
+Indian rock python----SP.SPECIFIC
+
+Akbara Jila village in Agra----LOC.EXACT
+
+Akbara Jila----LOC.EXACT
+
+Indian rock python----SP.SPECIFIC

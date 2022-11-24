@@ -1,0 +1,37 @@
+
+['3 tigers found dead in 3 days in Madhya Pradesh forests\nBhopal/Jabalpur: Three tigers have been found dead in two forests of Madhya Pradesh in the past three days, forest officials said on Monday, attributing the deaths to territorial fights. Tigers are territorial animals and fights between them are not unusual. In most cases, a physically weaker tiger leaves a territory to a stronger tiger. On Saturday, the forest officials found a carcass of a five-month-old female cub at Nayakheda beat of the Pachmarhi range of Satpura Tiger Reserve. “The carcass has grievous injury marks. The spinal cord was found broken like she was attacked by another tiger. The samples have been taken and sent for a forensic test to know the exact reason behind death,” said L Krishnamurthy, field director, Satpura Tiger Reserve (STR). Around 700 meters away from where the cub was found dead, an adult tiger was found injured on Sunday near the Mogra beat of the Pachmarhi range. The tiger was sent to Bhopal for treatment where he succumbed to his injuries, officials said. The tiger had injury marks and his canine tooth was also found broken. The prima facie cause of the injuries was a territorial fight, the field director said. In the Chikhalbadi range of the Balaghat forest area, forest department officials said a tiger was killed in a territorial fight on Sunday, a corridor for tigers between Pench and Kanha tiger reserve. Nitin Pawar, forest range officer of the Lalabarra area, said a fire started in the Silejhari and Sonewani ranges of Balaghat that pushed the tigers in proximity to each other near a water body. “On Sunday, villagers heard the shrieks of animals and in the evening a tiger was found dead. We believe that he died in a fight with another tiger,” he said. Pawar said the tiger was aged about 18 months. According to the 2018 census, MP had 526 tigers. In 2021, 43 tiger deaths were reported from MP. In 2022, MP has lost 15 tigers till April 4, officials said. SHARE THIS ARTICLE ON']
+
+
+3----QTY
+
+tigers----SP.COMMON
+
+dead----ITEM
+
+Madhya Pradesh----LOC.STATE
+
+Three----QTY
+
+tigers----SP.COMMON
+
+Madhya Pradesh----LOC.STATE
+
+territorial fights.----SP.COMMON
+
+Saturday----DATE
+
+carcass----ITEM
+
+Nayakheda beat----LOC.EXACT
+
+samples have been taken and sent for a forensic test----OUTCOME
+
+tiger----SP.COMMON
+
+Sunday----DATE
+
+Mogra beat of the Pachmarhi range----LOC.EXACT
+
+Sunday----DATE
+
+Nitin Pawar----OFF.NAME

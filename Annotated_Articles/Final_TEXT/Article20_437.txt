@@ -1,0 +1,53 @@
+
+['Madhya Pradesh: Freaky motives led to beheading of tiger carcass in Panna, 3 held\nAccused had buried severed tiger head between their farms BHOPAL: Somewhere in the muddy depths of Ken River in Panna Tiger Reserve lies a tiger’s severed head.The Madhya Pradesh state tiger strike force (STSF) on Wednesday said it has solved the mystery behind the beheading of a Panna tiger with the arrest of three persons, including a quack.It was a 60-year-old man, Achchelal, who sliced off the dead tiger’s private pats believing it would revive his libido, say sources. And the head was allegedly severed by a man who intended it to use it as a scarecrow of sorts to scare off feral cattle from his farm.It took almost 26 days for the STSF team – led by DCF Ritesh Sirothia and PTR field director Uttam Sharma — to in on the suspects. Two Belgium Malinois and a German shepherd provided the breakthrough by picking up the tiger carcass trail although it was several days old.The suspects were arrested from Palkoha village, which is an island in River Ken and accessible only by boat. It was used by bandits as a hideout years ago and now 1,000-odd people call it home.Investigations revealed Acchelal found the carcass of tiger P123 floating in the river while grazing his buffalos on August 8. He tried to drag it ashore but it was far too heavy, so he decided to rope in two more guys with offers of alcohol, say STSF. He took Ghanshyam Kushwah, 36, and Natthu Raikwar, 46, to the spot and after a bout of drinking, they dragged the carcass ashore. The trio severed its head and genitals with a long knife, working all through the night, and pushed the mutilated carcass back in the river around 4am, says STSF.On August 9, Acchelal and Raikwar buried the severed tiger head between their farms, believing that it will keep cattle away from their crops. Acchelal wanted to eat the tiger’s genitals as he believed it would make him ‘stronger’, say sources.Four days later, when PTR officials began searching with sniffer dogs, Kushwah got scared and asked both of them to exhume the head and other organs, which they threw into the Ken River.Meanwhile, the sniffer dogs picked up the trail of a slain boar and took forest officials to the house of Bhagwan Singh, a chieftain of sorts of Palkoha. Under interrogation, he gave them clues about the tiger head. “This was how the case was cracked. Achhelal and two others were rounded up. They confessed to mutilating the tiger carcass,” said an officer. Officials stick to their theory that P123 drowned during a fight with tiger P431. There were several injuries on its body indicating the fight, officials say. Investigators are now trying to contact divers to retrieve the skull.“We have arrested the accused and they will be produced in court tomorrow,” said Alok Kumar, chief wildlife warden.A central team, comprising senior officers from NTCA, Wildlife Crime Control Bureau (WCCB) and Wildlife Trust of India (WTI), are also investigating the “circumstances leading to the disturbing developments inside Panna Tiger Reserve”. The daughter-in-law of the erstwhile Panna royal family, Yuvrani Jiteshwari Devi, had also written to Prime Minister Narendra Modi demanding a CBI probe into the death of tigers.']
+
+
+tiger----SP.COMMON
+
+carcass----ITEM
+
+3----SUS.NUMBER
+
+tiger----SP.COMMON
+
+state tiger strike force (STSF)----AUTH.SEIZE
+
+Wednesday----DATE
+
+three----SUS.NUMBER
+
+60-year-old----SUS.AGE
+
+Achchelal----SUS.NAME
+
+STSF team----AUTH.SEIZE
+
+DCF----OFF.DESIG
+
+Ritesh Sirothia----OFF.NAME
+
+PTR field director----OFF.DESIG
+
+Uttam Sharma----OFF.NAME
+
+Palkoha village----LOC.EXACT
+
+Acchelal----SUS.NAME
+
+Ghanshyam Kushwah----SUS.NAME
+
+36----SUS.AGE
+
+Natthu Raikwar----SUS.NAME
+
+46----SUS.AGE
+
+Acchelal----SUS.NAME
+
+Raikwar----SUS.NAME
+
+Bhagwan Singh----SUS.NAME
+
+Achhelal----SUS.NAME
+
+rounded up----OUTCOME

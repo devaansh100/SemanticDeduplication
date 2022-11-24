@@ -1,0 +1,31 @@
+
+['Train runs over 9 Himalayan vultures near Siliguri\nBirds probably did not get time to run some distance before flying out of harm’s way, say forest officials One of the dead vultures on the tracks at Gulma, near Siliguri, on Saturday. The area, part of the Dooars tracks, is located on the fringes of the Mahananda Wildlife Sanctuary, around 10km from Siliguri. Forest officials described this as the first such incident in north Bengal and said they had been asked to file a complaint against the railways’ “negligence”. Nine Himalayan Griffons, a threatened bird species, feeding on a carcass were mowed down by a train at Gulma on the outskirts of Siliguri on Saturday. After the early morning incident, some locals spotted six dead griffons on the tracks. They informed foresters who rushed to the spot from nearby Sukna and found the bodies of three more birds from bushes close to the tracks. “The carcass of a cow was lying near the tracks for the past few days. It seems to have attracted the griffons who were feeding on it when the train came on the tracks and went over the birds. These birds need to run for a length of at least 20 metres before flying. Perhaps, the train came so close that they did get the time to run and fly away and were hit,” said a forester. The Himalayan Griffon, also known as Gyps Himalayensis, is a near threatened bird species as per the Red Data Book of IUCN (International Union for Conservation of Nature). It is found in parts of India, China, Kazakhstan and some other Asian countries. Dharamdeo Rai, the divisional forest officer of Darjeeling wildlife division, said this is the first time that such an incident has happened in the region that a flock of vultures died after hit by a train. “As locals informed out staff, they rushed to the spot and could find nine dead griffons. This avian species is threatened and we are working for the conservation of the species. They play an important role in the food chain and work to clean up the nature. In north Bengal, this is probably the first such incident,” said Rai. Sources said earlier, there had been similar incidents in Rajasthan when vultures had died while devouring animal carcasses near rail tracks. State forest minister Binay Krishna Burman said forest officials have been asked to file a complaint against the railways with the police. “It is complete negligence of the railway authorities as their staff did not bother to remove the carcass from the track and the vultures got killed while feeding it. We have been working for conservation of vultures and a captive breeding centre has been set up at Rajabhatkhawa (in Buxa Tiger Reserve of Alipurduar district). I have asked our officials to take the issue seriously and file a complaint against the railways at the concerned police station,” said Burman.']
+
+
+Train runs----DETECTION_METHOD
+
+9----QTY
+
+Himalayan vultures----SP.SPECIFIC
+
+Siliguri----LOC.CITY
+
+Gulma----LOC.EXACT
+
+Saturday----DATE
+
+Nine----QTY
+
+Himalayan Griffons----SP.SPECIFIC
+
+train----TRANSPORT_MODE
+
+Saturday----DATE
+
+early morning----TIME
+
+griffons----SP.COMMON
+
+Dharamdeo Rai----OFF.NAME
+
+divisional forest officer----OFF.DESIG

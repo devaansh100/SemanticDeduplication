@@ -1,0 +1,39 @@
+
+['Over 50 pigeons die of suspected poisoning in Basavanagudi\nBengaluru: 50 pigeons die of suspected poisoning in Basavanagudi BENGALURU: In a shocking incident, over 50 pigeons were found dead near the Doddaganapathi temple in Basavanagudi of South Bengaluru on Friday morning. Local residents and wildlife volunteers suspect that the birds died due to poisoning though authorities are yet to ascertain the same. Pushpavathi R , a resident of Basavanagudi, told TOI that she, along with her walker friends, noticed the carcass of several pigeons in the open space near the temple and on the footpath of Bull Temple Road. “It was around 7 am. Some pigeons were still struggling badly and succumbed to pain by the time we sought help. Public around gathered the bird carcass and we could count about 50 to 60 of them. We immediately informed the local corporator and wildlife volunteers of BBMP about the same,” she added.BS Sathyanarayana, BBMP corporator from Basavanagudi, confirmed the development and said it could be a case of poisoning. “Some of walkers examined the grains spread around and there was a foul smell emanating from it. We suspect some foul play and the same will be investigated. Every day many people come with grains to feed pigeons here. We ensured the pigeons carcass is buried safely to avoid further problems,” he added.Wildlife volunteer Sharath Babu said those who feed birds should ensure vessels are cleaned regularly and hygiene is maintained. “Otherwise, the same could also end up poisoning the grains leading to the death of birds. We have to check what led to the death of pigeons in this case,” he added.']
+
+
+50----QTY
+
+pigeons----SP.COMMON
+
+poisoning----CRIME.CAT
+
+Basavanagudi----LOC.DISTRICT
+
+50----QTY
+
+pigeons----SP.COMMON
+
+Basavanagudi----LOC.EXACT
+
+50----QTY
+
+pigeons----SP.COMMON
+
+Doddaganapathi temple in----LOC.EXACT
+
+Basavanagudi----LOC.DISTRICT
+
+Friday----DATE
+
+morning----TIME
+
+poisoning----CRIME.CAT
+
+pigeons----SP.COMMON
+
+7 am----TIME
+
+pigeons----SP.COMMON
+
+poisoning----CRIME.CAT

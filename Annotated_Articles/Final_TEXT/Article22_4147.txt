@@ -1,0 +1,137 @@
+
+['Four Arrested with Ambergris Worth Rs 2.2 Crore at Jappinamogeru\nFour Arrested with Ambergris Worth Rs 2.2 Crore at Jappinamogeru Mangaluru: The Kankanady Police have arrested four persons and seized 2.2 kg of ambergris valued around Rs 2.2 crore from Jappinamogeru here on February 12. The arrested have been identified as Zabir M A (35) from Kodagu, Asir V P (36) from Kerala, Shariff N (32) from Kerala and Shabad L K (27) from Kodagu. According to the police, the accused from Kerala and Kodagu were trying to sell ambergris, (endangered Sperm whale’s vomit/faecal matter), a banned substance under the forest and environmental laws, at Jappinamogeru. On getting reliable information, the Kankanady police arrested the accused and seized 2.2 kg of ambergris worth Rs 2.2 crore, 5 mobile phones, a Swift Car and Rs 1070 cash all worth Rs 2,25,92,070/- from their possession. Under the direction of Police Commissioner N Shashi Kumar IPS and the guidance of DCP Law and Order Hariram Shankar IPS, DCP Crime and Traffic Dinesh Kumar and under the leadership of ACP Dinaker Shetty the operation was carried out by the PI of Kankanady, Ashok P, PSI Krishna B, HCs Reji, Dayanand, Nandish Kumar, Mahesh, Manjunath Hegde, Jeevan Kumar and Karthik. A case has been registered in the Kankanady Town Police station under sections 2(32), 2(36), 39(b), (d), 44, 48(a), 49(A), 49(B), 50 and 51 of the Wild Life Protection Act 1972.']
+
+
+Four----SUS.NUMBER
+
+Arrested----CRIME.CAT
+
+Ambergris----ITEM
+
+Rs 2.2 Crore----VALUE
+
+Jappinamogeru----LOC.EXACT
+
+Four----SUS.NUMBER
+
+Arrested----CRIME.CAT
+
+Ambergris----ITEM
+
+Rs 2.2 Crore----VALUE
+
+Jappinamogeru----LOC.EXACT
+
+Kankanady Police----AUTH.SEIZE
+
+arrested----CRIME.CAT
+
+four----SUS.NUMBER
+
+seized----CRIME.CAT
+
+2.2 kg----QTY
+
+ambergris----ITEM
+
+Rs 2.2 crore----VALUE
+
+Jappinamogeru----LOC.EXACT
+
+February 12----DATE
+
+Zabir M A----SUS.NAME
+
+35----SUS.AGE
+
+Kodagu----SUS.LOC
+
+Asir V P----SUS.NAME
+
+36----SUS.AGE
+
+Kerala----SUS.LOC
+
+Shariff N----SUS.NAME
+
+32----SUS.AGE
+
+Shabad L K----SUS.NAME
+
+27----SUS.AGE
+
+Kodagu----SUS.LOC
+
+Kodagu----SUS.LOC
+
+ambergris----ITEM
+
+Sperm whale’s----SP.SPECIFIC
+
+information----DETECTION_METHOD
+
+Kankanady police----AUTH.SEIZE
+
+2.2 kg----QTY
+
+ambergris----ITEM
+
+Rs 2.2 crore----VALUE
+
+5----QTY
+
+mobile phones----ITEM
+
+a----QTY
+
+Swift Car----ITEM
+
+Rs 1070----VALUE
+
+cash----ITEM
+
+Rs 2,25,92,070/-----VALUE
+
+Police Commissioner----OFF.DESIG
+
+N Shashi Kumar----OFF.NAME
+
+IPS----OFF.DESIG
+
+DCP Law and Order----OFF.DESIG
+
+Hariram Shankar IPS----OFF.NAME
+
+DCP----OFF.DESIG
+
+Dinesh Kumar----OFF.NAME
+
+ACP----OFF.DESIG
+
+Dinaker Shetty----OFF.NAME
+
+PI----OFF.DESIG
+
+Ashok P----OFF.NAME
+
+PSI----OFF.DESIG
+
+Krishna B----OFF.NAME
+
+HCs----OFF.DESIG
+
+Reji----OFF.NAME
+
+Dayanand----OFF.NAME
+
+Nandish Kumar----OFF.NAME
+
+Mahesh----OFF.NAME
+
+Manjunath Hegde----OFF.NAME
+
+Jeevan Kumar----OFF.NAME
+
+Karthik----OFF.NAME
+
+case has been registered----OUTCOME

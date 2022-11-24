@@ -1,0 +1,11 @@
+
+['FAWPS-INDIA on Instagram: "The sleuths of Commissioner’s Task Force, South Zone Team, Hyderabad along with Forest officials apprehended one person by name Mirza Fareed Baig, S/o Mirza Waheed Baig, age\n']
+
+
+Commissioner’s Task Force----AUTH.SEIZE
+
+Forest officials----AUTH.SEIZE
+
+Mirza Fareed Baig----SUS.NAME
+
+Mirza Waheed Baig----SUS.NAME

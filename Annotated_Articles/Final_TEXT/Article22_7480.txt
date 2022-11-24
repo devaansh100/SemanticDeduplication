@@ -1,0 +1,13 @@
+
+['Shocking! Man chops and eats snake that bit him\nIf reports are to be believed a man recently chopped a poisonous snake and swallowed it as the reptile bit him. The shocking incident reportedly took place in Kamas police limits in Uttar Pradesh. As per reports, the man, identified as Matabadal Singh, was returning home when a poisonous snake bit him in a field. However, he wanted to avenge and accordingly picked the snake, chopped it into pieces and swallowed it. He did not asked to raise an alarm. Later, as he approached his house, his family members enquired about the blood stain on his hand when he narrated the whole incident. His worried family members immediately took him to the hospital for treatment. Yet, to everybody’s astonishment, the health condition of the man was stable.']
+
+
+snake----SP.COMMON
+
+snake----SP.COMMON
+
+Uttar Pradesh----LOC.STATE
+
+Matabadal Singh----SUS.NAME
+
+snake----SP.COMMON

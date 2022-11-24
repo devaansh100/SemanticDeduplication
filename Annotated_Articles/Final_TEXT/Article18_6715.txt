@@ -1,0 +1,33 @@
+
+['Vizag fisherman killed by marlin in deep sea\nVISAKHAPATNAM: In a tragic incident, a marlin, the giant fish with a spear-like snout, killed a fisherman in the Bay of Bengal, off Visakhapatnam coast, on Wednesday. The victim, 40-year-old Molli Joganna, from Visakhapatnam district, was fishing in the deep sea 60 nautical miles away from the shore under Parawada police station limits on the south of Visakhapatnam, along with four other fishermen when the tragedy took place. The fishermen, who ventured into the deep sea for catching fish on Tuesday at 4 pm, continued fishing till Wednesday morning. At around 7 am, they found a marlin (local fisherfolk call it Kommu Konam), weighing nearly 70 kg in their net. As they were unable to haul the fish into their boat, Joganna jumped to the sea to help others. The huge fish then attacked Joganna with its upper snout on his stomach, killing him on the spot. Joganna was a resident of Jalaripeta, a coastal hamlet in Mutyalammapalem panchayat in Parawada mandal. Confirming this to Deccan Chronicle, Parawada circle inspector P. Eswara Rao said Joganna’s body was shifted to NTR Hospital in Anakapalli for post-mortem. The case was referred to the Marine Police, who registered a case and were investigating, he added. When contacted, Central Marine Fisheries Research Institute (CMFRI) head at Visakhapatnam branch Dr Subhadeep Ghosh said marlin fish are very aggressive and fast swimmers. “Visakhapatnam coast has plenty of marlin fish. They come close to the shore during the winter months from November to February due to changes in wind direction. They generally swim in the deep sea. Due to their sharp upper snouts, there could be chances of tearing them into the body of fishermen,” Ghosh told this newspaper. He said that he came across several people getting injured by the fish in his 15 years of research on the marine species, but it is the first time he heard that this fish could kill a man. “Usually, these kinds of incidents of human death due to fish attacks are reported on the coasts of the US and Australia,” he said. Visakhapatnam Fishermen Youth Welfare Association leader Arjili Das said none of their fishing community people died of fish attacks so far in the known history. “We also tell our people to be cautious after learning a lesson from Wednesday’s incident,” he said. Marlin, the merciless · Belongs to Istiophoridae family · It has a spear-like snout or bill · Long rigid dorsal fin · Marlins are the fastest marine swimmers · A fish can reach 110 kmph in short bursts · Atlantic blue marlin and white marlin are endangered due to overfishing Marlin sold at Rs 40K in Hyd last February! In February 2021, a black marlin fish weighing 78 kg was sold for Rs 40,000 at a non-fish mart at Manikonda in Hyderabad. The fish, which is usually found in the Pacific Ocean, was caught in seawater along Vizag shore.']
+
+
+Vizag----SUS.LOC
+
+marlin----SP.SPECIFIC
+
+marlin----SP.SPECIFIC
+
+giant fish----SP.COMMON
+
+Wednesday----DATE
+
+40-year-old----SUS.AGE
+
+Molli Joganna----SUS.NAME
+
+Visakhapatnam----SUS.LOC
+
+7 am----TIME
+
+marlin----SP.SPECIFIC
+
+70 kg----QTY
+
+Jalaripeta----SUS.LOC
+
+body was shifted to NTR Hospital in Anakapalli----OUTCOME
+
+case was referred to the Marine Police----OUTCOME
+
+registered a case----OUTCOME

@@ -1,0 +1,53 @@
+
+['Assam: Rhino killed in Kaziranga National Park, poachers take away horn\nA rhino has been killed by poachers in Kaziranga National Park in Assam amid nationwide lockdown in view of COVID19. The carcass of a dehorned rhino was recovered on Saturday at a place near Doramari Beel in the forest under Agaratoli range in the national park. The carcass of the rhino was recovered by the forest guards on duty in the evening on Saturday. It has been suspected that the poachers were able to take away the horn of the rhino after killing the animal two-three days back. The forest guards have also recovered 8 rounds of live ammunition of AK47 rifle near the site where the carcass of the rhino was lying on the bank of Doramari Beel. The details of the incident are awaited. A team of high-level forest officials rushed to the spot to investigate into the incident, said sources. According to official sources, this is the first incident of rhino killing in Kaziranga National Park this year. There had been pressure on the forest guards in Kaziranga National who had to keep strong vigil to keep the animals safe, but no incident of rhino killing was reported earlier this year. As per the website of Kaziranga National Park (www.kaziranga-national-park.co), with the highest number of one-horned rhinos, there has been a constant threat of poaching in Kaziranga National Park which is a UNESCO World Heritage Site. “But the good news for the conservationist and rhino lovers is, in the year 2019 only 3 rhino poaching cases have been reported in the park,” said the website.']
+
+
+Assam----LOC.STATE
+
+Rhino----SP.COMMON
+
+killed----CRIME.CAT
+
+Kaziranga National Park----LOC.EXACT
+
+poachers----SUS.AFFIL
+
+rhino----SP.COMMON
+
+killed----CRIME.CAT
+
+poachers----SUS.AFFIL
+
+Kaziranga National Park----LOC.EXACT
+
+Assam----LOC.STATE
+
+carcass----ITEM
+
+dehorned rhino----SP.COMMON
+
+Saturday----DATE
+
+near Doramari Beel in the forest under Agaratoli range in the national park----LOC.EXACT
+
+carcass----ITEM
+
+rhino----SP.COMMON
+
+forest guards----AUTH.SEIZE
+
+evening----TIME
+
+Saturday----DATE
+
+forest guards----AUTH.SEIZE
+
+8----QTY
+
+rounds of live ammunition of AK47 rifle----ITEM
+
+carcass----ITEM
+
+rhino----SP.COMMON
+
+bank of Doramari Beel----LOC.EXACT

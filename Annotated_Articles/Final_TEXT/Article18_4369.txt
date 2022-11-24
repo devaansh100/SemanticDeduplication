@@ -1,0 +1,29 @@
+
+['Man held for poaching birds from Nalsarovar sanctuary get three years’ RI\nA magisterial court in Limbdi convicted a man to three years’ rigorous imprisonment with fine of Rs 10,000 for poaching birds from in Nalsarovar Bird Sanctuary in Surendranagar, said a statement from Deputy Conservator of Forest (Nalsarovar Bird Sanctuary) Thursday. As per the statement, following a tip-off that some people were poaching birds in the region, forest officials had nabbed one of them – Vahanbhai Padhhar – with some live and dead birds on August 7, 2018. Three persons had escaped the forest officials, but were nabbed subsequently. A case in this regard was registered with the court of Judicial Magistrate First Class, Limbdi under the provisions of Wildlife Protection Act. Following a court trial, Padhhar was convicted by the magisterial court on April 13. The three others were acquitted by the court while giving them benefit of doubt. Nalsarovar is one of the three Ramsar sites of Gujarat with international fame which records presence of over 130 species of birds, many of them migratory.']
+
+
+Man----SUS.GENDER
+
+poaching----CRIME.CAT
+
+birds----SP.COMMON
+
+Nalsarovar sanctuary----LOC.EXACT
+
+three years’----OUTCOME
+
+convicted----CRIME.CAT
+
+man----SUS.GENDER
+
+three years’----OUTCOME
+
+Nalsarovar Bird Sanctuary----LOC.EXACT
+
+tip-off----DETECTION_METHOD
+
+poaching----CRIME.CAT
+
+Vahanbhai Padhhar----SUS.NAME
+
+August 7, 2018----DATE

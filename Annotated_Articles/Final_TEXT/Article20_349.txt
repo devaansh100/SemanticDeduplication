@@ -1,0 +1,95 @@
+
+['Wildlife warden on the run as poaching ring busted in Chikkamagaluru\nThe four men accused of poaching sambar and mouse deer in Chikkamagaluru district of Karnataka. Chikkamagaluru: An honorary wildlife warden is on the run after forest rangers in Karnataka busted a poaching ring and found him to be a part of it. Rangers at a check post in Chikkamagaluru chanced upon the ring poaching ring on Tuesday night when they inspected a car and found it to have been stuffed with dismembered sambar and mouse deer kills. Four men in the vehicle have been arrested. The wildlife warden, Satish Gowda, who is alleged to be in on the racket, has been absconding. The four men have been identified as Harish (30), a resident of Mallandur, Annappa Shetty (63), also of Mallandur, Manjappa Shetty (62), a resident of Shivagoor, and Deekshit (18), a resident of Kadabailu. According to the forest officials, the poachers entered the Masakali forest area, on the fringes of the Bhadra Tiger Reserve, on Tuesday night at around 10 pm and hunted sambar and mouse deer using a single-barrel gun. They loaded the kill in a car and were transporting it through the Honnahalla check-post when they were caught by forest personnel. Satish Gowda owns a plantation on the fringe of the forest and was appointed to keep an eye on poaching activities in the forest. The poachers told their interrogators that the they entered the forest area rich in wildlife after a nod from Satish Gowda. The four men have been produced in court. Satish Gowda has been charged under the Wildlife Conservation Act for abetment of poaching.']
+
+
+Wildlife warden----SUS.AFFIL
+
+poaching ring----SUS.AFFIL
+
+Chikkamagaluru----LOC.DISTRICT
+
+four----SUS.NUMBER
+
+sambar----SP.SPECIFIC
+
+mouse deer----SP.COMMON
+
+Chikkamagaluru----LOC.DISTRICT
+
+Karnataka----LOC.STATE
+
+forest rangers----AUTH.SEIZE
+
+Karnataka----LOC.STATE
+
+poaching ring----SUS.AFFIL
+
+Chikkamagaluru----LOC.DISTRICT
+
+Tuesday----DATE
+
+night----TIME
+
+car----TRANSPORT_MODE
+
+sambar----SP.SPECIFIC
+
+deer----SP.COMMON
+
+Four----SUS.NUMBER
+
+wildlife warden----SUS.AFFIL
+
+Satish Gowda----SUS.NAME
+
+four----SUS.NUMBER
+
+men----SUS.GENDER
+
+Harish----SUS.NAME
+
+30----SUS.AGE
+
+Mallandur----SUS.LOC
+
+Annappa Shetty----SUS.NAME
+
+63----SUS.AGE
+
+Mallandur----SUS.LOC
+
+Manjappa Shetty----SUS.NAME
+
+62----SUS.AGE
+
+Shivagoor----SUS.LOC
+
+Deekshit----SUS.NAME
+
+18----SUS.AGE
+
+Kadabailu----SUS.LOC
+
+Masakali forest area----LOC.EXACT
+
+Bhadra Tiger Reserve----LOC.EXACT
+
+Tuesday----DATE
+
+night----TIME
+
+10 pm----TIME
+
+sambar----SP.SPECIFIC
+
+mouse----SP.SPECIFIC
+
+deer----SP.COMMON
+
+car----TRANSPORT_MODE
+
+four----SUS.NUMBER
+
+men have been produced in court----OUTCOME
+
+charged under the Wildlife Conservation Act for abetment of poaching----OUTCOME

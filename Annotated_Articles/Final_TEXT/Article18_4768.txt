@@ -1,0 +1,13 @@
+
+['Odisha: Complaint filed against man for using giant snakes to entertain audience\nApr 30, 2022, 10:40PM IST Source: TOI.in This man with two huge snakes on his soldier is performing to the amusement of viewers including women and children. He was performing as a part of Prahallada Nataka, a traditional play native to Odisha. The play narrates the story of Lord Vishnu’s Narasimha avatar and he saves his devotee Bhakta Prahallada from his father demon king Hiranyakashipu. The performer, identified as Ramesh Nayak, managed to grab the attention of viewers but at the same time, a complaint was filed against him under Violation of Wildlife (Protection) Act, 1972. The complaint also alleged that the snake charmer is also misleading the public by claiming to cure snakebite and other diseases which can be seen from his visiting card. After the complaint, the state wildlife department has instructed the divisional forest officers to take necessary action.']
+
+
+Complaint filed----OUTCOME
+
+snakes----SP.COMMON
+
+Apr 30, 2022----DATE
+
+Bhakta Prahallada----SUS.NAME
+
+Ramesh Nayak----SUS.NAME

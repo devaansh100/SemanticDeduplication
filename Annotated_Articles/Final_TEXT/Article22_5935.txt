@@ -1,0 +1,9 @@
+
+['Tiger escapes from being caught in Kakinada, gives sleepless nights to locals\nThe Tiger, which is moving around the villages in Pratipada of Kakinada district has caused panic among the people. Meanwhile, the forest officials took steps to capture the tiger. However, the tiger shocked the officials in the last minute by escaping from being caught. People have been trembling with tiger wandering for almost two weeks. The latest tiger migration scenes were once again recorded on CC camera.  The forest staff set up three traos at Podurupaka, Sarabhavaram and Ommangi and lured with the the beef. After midnight on June 4, the tiger arrived at the cage set up in Sarabhavaram abd just at the time of being trapped in a cage, the tiger escaped. All this was recorded on CCTV footage. Authorities saif the tiger has been hunting for food and shelter in Podurupaka, Sarabhavaram, Ommangi, Pandavulapalem and Potulur areas. The four-year-old tiger is said to be acting very cleverly and aggressively. Forest officials, who are working hard to capture the tiger, are setting up two more traps. The people of Pratipadu mandal have expressed concern that the tiger is giving them sleepless nights. They are afraid of the tiger and are unable to go to work on the farm and urged forest officials to capture the tiger as soon as possible.']
+
+
+Tiger----SP.COMMON
+
+midnight----TIME
+
+June 4----DATE

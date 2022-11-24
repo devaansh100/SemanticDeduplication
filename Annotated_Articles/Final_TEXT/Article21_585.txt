@@ -1,0 +1,75 @@
+
+['Huge haul of red sanders in Kadapa\nThe Kadapa district police seized a huge quantity of red sanders in two different operations across the district on Thursday. Acting on a tip-off received by Pulivendula Rural Inspector N. Ravindranath Reddy, a police team from Vemula station lay in wait on Veerapunayanipalle main road in the early hours of Thursday and intercepted two cars on suspicion. When the occupants of the cars, identified as Kokku Balagopal, Kokku Raviprasad, M. Veeranarayana and M. Sivabrahmam, tried to attack the police, they were overpowered and taken into custody. Police later found a huge dump of precious logs camouflaged under a load of papaya fruits. Vemula police seized the 33 logs and the vehicles, all valued at ₹20 lakh, registered a case and produced the accused in the Pulivendula magistrate’s court. Another joint raid by the police, forest and Red Sanders Anti-Smuggling Task Force (RSASTF) in Mydukur police sub-division yielded five logs and two mobile phones. Kalasapadu police and Ramapuram forest beat officials intercepted a gang of smugglers and registered a case. Nallagondla Reddaiah, Turaka Venkateswarlu and Dara Samuel were arrested, while around 25 persons fled the spot. The police have launched a manhunt for the absconding persons.']
+
+
+red sanders----SP.COMMON
+
+Kadapa----LOC.DISTRICT
+
+Kadapa district police----AUTH.SEIZE
+
+seized----CRIME.CAT
+
+red sanders----SP.COMMON
+
+Thursday----DATE
+
+tip-off----DETECTION_METHOD
+
+Pulivendula Rural Inspector----OFF.DESIG
+
+N. Ravindranath Reddy----OFF.NAME
+
+Thursday----DATE
+
+Kokku Balagopal----SUS.NAME
+
+Kokku Raviprasad----SUS.NAME
+
+M. Veeranarayana----SUS.NAME
+
+M. Sivabrahmam----SUS.NAME
+
+logs----ITEM
+
+33----QTY
+
+logs----ITEM
+
+vehicles----ITEM
+
+registered a case----OUTCOME
+
+produced the accused in the Pulivendula magistrate’s court----OUTCOME
+
+police----AUTH.SEIZE
+
+forest and----AUTH.SEIZE
+
+Red Sanders Anti-Smuggling Task Force----AUTH.SEIZE
+
+RSASTF----AUTH.SEIZE
+
+five----QTY
+
+logs----ITEM
+
+two----QTY
+
+mobile phones----ITEM
+
+Kalasapadu police----AUTH.SEIZE
+
+Ramapuram forest beat officials----AUTH.SEIZE
+
+gang of smugglers----SUS.AFFIL
+
+registered a case----OUTCOME
+
+Nallagondla Reddaiah----SUS.NAME
+
+Turaka Venkateswarlu----SUS.NAME
+
+Dara Samuel----SUS.NAME
+
+arrested----CRIME.CAT

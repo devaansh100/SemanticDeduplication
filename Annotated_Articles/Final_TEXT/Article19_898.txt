@@ -1,0 +1,23 @@
+
+['These Nashik youngsters are on a wildlife rescue mission\nAt 8 am on a Friday morning in January, city-based professional Abhijeet Mahale received a call about a leopard being spotted at a busy area in the city. He immediately called the forest officer, who dispatched a team of officials to the scene, to carry out the rescue operation, along with Abhijeet and a few other youngsters. The latter surrounded the animal with a net, while the officials shot it with a tranquillizer dart. The leopard was then carried to the forest centre, from where it was released back into the wild.The idea of a bunch of youngsters tackling a beast like that sounds ‘wild’, doesn’t it? Well, it’s all in a day’s work for Abhijeet and his fellow volunteers, who have successfully rescued a hyena, monkey and other mammals, in the past as well.The 20-somethings work in tandem with the forest department to help save both animal and human lives in the city. Ravindra Sonar, round officer, forest department explains, “There are many such youngsters coming forward to help us, who are motivated by their passion for rescuing animals. The extra set of hands help us carry out such operations more smoothly.” Eknath Mandal , a 27-year-old wildlife photographer, attended a workshop by the forest department a couple of years ago, and developed an immediate fascination for the work that they do. “I was already connected with nature thanks to photography. But after that, I became even more involved. Slowly, I started assisting other youngsters rescue snakes, and graduated to other such missions.”Of course, most parents weren’t too happy about their children\'s new hobby.“My parents were furious. They told me, ‘You will become a snake charmer’. But that opposition did not last for long. Slowly, they started appreciating our work,” says Sukhada Gaidhani , a city-based entrepreneur, who is new to the job, and mostly rescues birds. “I have studied Ornithology, which I can apply to such cases.”Besides doing their bit to save wildlife, they also help sensitize others towards the cause. “For example, snakes are often called a farmer’s friend. And when farmers approach us, saying that the pesticides and other poison they use to kill rats is destroying their crops, we leave non-venomous snake in their farms. They eat rats, and help the farmer in the bargain. Same way, we also put owl’s nest near farms as they too eat rats,” says Vaibhav Bhogale, B Sc student, who started rescuing animals at an early age.While rescuing birds may sound a very interesting job to many, it has its own challenges. First one being, keeping them in a man-made rescue centre away from their natural habitat, as the care they require here is round the clock job. “Taking care of these rescued birds is no doubt a difficult job. Right from cleaning their vomit to excreta to feeding them at the right time, we have to manage it all. For example, when we rescue an owl or a bat, we need to feed them in the night as both are nocturnal," says Devika Bhagwat, a city-based lawyer.Similarly, they help throw light on the man-animal conflict that is becoming a huge issue in urban areas. “When people saw the leopard that day, their immediate reaction was to try and kill it, which is quite natural. However, they don’t understand why these animals are coming to city areas. So, we conduct awareness sessions in colleges and work places to educate people on how killing wild animals like snakes can upset the balance in nature,” says Prathmesh Patil, another young volunteer from the city.']
+
+
+Nashik----SUS.LOC
+
+8 am----TIME
+
+Friday----DATE
+
+morning----TIME
+
+Abhijeet Mahale----OFF.NAME
+
+a call----DETECTION_METHOD
+
+leopard----SP.COMMON
+
+forest officer----AUTH.SEIZE
+
+officials----AUTH.SEIZE
+
+Abhijeet----OFF.NAME

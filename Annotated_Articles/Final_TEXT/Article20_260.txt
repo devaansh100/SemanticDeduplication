@@ -1,0 +1,37 @@
+
+['Two men arrested for gunning down elephant near Coimbatore\nCOIMBATORE: Two cow elephants were found dead at Mettupalayam and Sirumugai forest ranges in the Coimbatore forest division on Thursday. One of the elephants died due to a gunshot, and the forest department officials have arrested two men for killing it.The cause of the death of the other elephant would be known only after postmortem, officials said.A female elephant, aged between 18 and 20 years, was found dead in an agricultural field near Thekkampatti, which is a part of the Kandiyur forest beat of Mettupalayam forest range, on Thursday morning.D Venkatesh, district forest officer (DFO) of Coimbatore forest division, said a bullet mark was found near the left ear of the elephant. The postmortem report revealed a corrugated sharp-edged metal piece embedded in the brain. It was concluded that the elephant was shot dead.Two men have been arrested in connection with this. But officials haven’t revealed the names of the arrested men.Another cow elephant was found dead near Lingapuram in Sirumugai forest range. The cause of the death was yet to be ascertained .A team of frontline staff from Sirumugai forest range was on rounds on Thursday when they found the 20-year-old female elephant dead inside the reserve forest.According to forest department sources, as many as 141 wild elephants have died due to various reasons in the Coimbatore forest division since 2011.']
+
+
+Two----SUS.NUMBER
+
+men----SUS.GENDER
+
+arrested----CRIME.CAT
+
+elephant----SP.COMMON
+
+found dead----CRIME.CAT
+
+Mettupalayam and Sirumugai forest ranges----LOC.EXACT
+
+Thursday----DATE
+
+elephants----SP.COMMON
+
+forest department officials----AUTH.SEIZE
+
+arrested----CRIME.CAT
+
+two----SUS.NUMBER
+
+elephant----SP.COMMON
+
+found dead----CRIME.CAT
+
+district forest officer (DFO)----OFF.DESIG
+
+Two----SUS.NUMBER
+
+men----SUS.GENDER
+
+Lingapuram in Sirumugai forest range----LOC.EXACT

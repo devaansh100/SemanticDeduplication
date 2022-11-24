@@ -1,0 +1,31 @@
+
+["C'garh: Nine held for killing bison\nNine persons have been arrested for allegedly killing a bison in a wildlife sanctuary in Chhattisgarh's Kabirdham district, forest officials said on Thursday. The bison was found electrocuted on July 29 near Nandini Tola village under Chilfi forest range of Bhoramdeo wildlife sanctuary, located around 140 km away from capital Raipur, a forest official said. The forest personnel swung into action after finding an iron wire carrying electric charge laid at the spot for poaching, he said. A hunt was launched to trace the poachers with the help of sniffer dogs from Achanakmar tiger reserve and nine people from Nandini and Kuman villages were arrested on August 4, he said. The accused admitted to having laid the live wire trap for killing small wild animals for their meat and the bison accidentally came in contact with it, he said. They were booked under relevant sections of the Wildlife Protection Act and the Indian Forest Act, the officer said adding that further investigation is underway. (This story has not been edited by Devdiscourse staff and is auto-generated from a syndicated feed.)"]
+
+
+Nine----SUS.NUMBER
+
+killing----CRIME.CAT
+
+bison----SP.COMMON
+
+Nine----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+killing----CRIME.CAT
+
+bison----SP.COMMON
+
+Kabirdham----LOC.DISTRICT
+
+bison----SP.COMMON
+
+July 29----DATE
+
+Nandini Tola village----LOC.EXACT
+
+Nandini and Kuman villages----SUS.LOC
+
+August 4----DATE
+
+booked under relevant sections of the Wildlife Protection Act and the Indian Forest Act----OUTCOME

@@ -1,0 +1,23 @@
+
+["Incident of elephant trampling five-year-old to death; locals besiege road, financial aid for family\nCHALAKUDY: The locals are blocking the Chalakudy-Athirappilly road against the incident of a five-year-old girl trampled to death by an elephant at Kannankuzhi near Athiraplly. The protesters demanded a permanent solution for the elephant attack. Apart from elephant, wild boar attacks are also rampant in the area. The locals complained that they have been under the attack for ten years. They also alleged that the authorities are not intervening in the issue. They raise demands including electric fencing. The locals said they are not able to cultivate and also their lives are in danger. Chalakudy MLA Saneesh Joseph is also squatting on the road as part of the protest. A five-year-old girl was brutally killed near the Kannankuzhi Shiva temple around 6 pm on Monday. Nikhil's daughter Agnima was killed when she went with her father to pluck flowers for her grandmother's funeral. Injured Nikhil (36) and his relative Vettilapara Nedumba Jayan (50) have been admitted to Chalakudy St James Hospital. Seeing the elephant coming from the oil palm plantation, Jayan tried to turn his bike but he could not. Nikhil got up after falling from the bike and then took the child and ran. In the meanwhile, the child fell from Nikhil's hand. By then, the elephant came in front of them and hit the two with its trunk. The elephant then trampled the child lying on the ground. The elephant then returned to the plantation. At this time, a team from Aluva who were returning after a pleasure trip took the injured to the hospital. The district collector entrusted the RDO to solve the issue. Forest Minister A K Saseendran said a financial aid would be given to the girl’s family. The minster said that it would be investigated whether any lapse has occurred from the side of the forest department officials. The minister has asked the collector to visit the place."]
+
+
+elephant----SP.COMMON
+
+five-year-old----SUS.AGE
+
+elephant----SP.COMMON
+
+6 pm----TIME
+
+Monday----DATE
+
+Agnima----SUS.NAME
+
+Nikhil----SUS.NAME
+
+36----SUS.AGE
+
+Vettilapara Nedumba Jayan----SUS.NAME
+
+50----SUS.AGE

@@ -1,0 +1,19 @@
+
+['Snare trouble for big cats in Wayanad\nKOZHIKODE: The endangered big cats already imperilled by habitat shrinkage, poaching and dwindling prey base are facing yet another fatal threat in Wayanad, which is a prime habitat for tigers and leopards. Snare traps made by locals using clutch and break cables of motorcycles to trap wild animals like wild boars, spotted deer and sambar deer have killed two leopards and injured another in the South Wayanad forest division during the past two months.In the latest leopard casualty caused by metal wire snares, a carcass of an adult male leopard was found in a coffee plantation at Manjilamkolli near Kalpetta on Wednesday. A two-year-old female leopard was killed after it got trapped in a snare inside a rubber estate at Nellimalam near Meppadi on December 2. Also, forest department had rescued a leopard which had got stuck in a snare at a tea plantation at Arapetta near Meppadi on January 22. It was released back to the wild after a day. All the three incidents had taken place inside private plantations located near forests.In an earlier incident, a five-year-old male tiger had died in the Kurichiad range of Wayanad Wildlife Sanctuary following injuries after its neck got stuck in a snare in September 2013. Forest officials said that most of the private plantations, which often become additional habitat for leopards, are dotted with snares mostly laid by local residents along animal tracks and leopards which walk through the tracks are increasingly getting caught in them.“Tea and coffee plantations have become additional habitats for leopards as they are attracted to the plantations due to the presence of dogs to feed on,” K Baburaj, Meppadi forest range officer said.South Wayanad divisional forest officer P Renjith Kumar said that the department has formed a special anti-snare squad, which would search the private plantations for snares.“Also, we have warned estate owners that they will be held responsible and will have to face action if snares are found from their lands during the combing exercise,” he said.Forest officials said that land owners will have to face legal proceedings even if the snares were not laid by them. Already the department has registered cases under Wildlife Protection Act against the owners of the coffee plantation where the leopard was found ensnared on Wednesday. Also, two persons who had laid the trap were arrested on Thursday.“Snares are turning out to be deadly killers of leopards. They are easily available, easy to set and very difficult to detect. Though the traps are not meant to catch or injure big cats, leopards are increasingly getting caught in them. Forest department should conduct searches for snares and should take stern action against those who have laid them,” Arul Badusha, field officer of Wildlife Conservation Society- India, said.']
+
+
+big cats----SP.COMMON
+
+Wayanad----LOC.CITY
+
+Wayanad----LOC.CITY
+
+carcass----ITEM
+
+Wednesday----DATE
+
+forest department----AUTH.SEIZE
+
+leopard----SP.COMMON
+
+January 22----DATE

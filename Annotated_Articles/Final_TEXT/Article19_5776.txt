@@ -1,0 +1,47 @@
+
+['13 parakeets were produced before a court in Delhi. Here’s why\nThirteen parakeets were produced before Delhi’s Patiala House Court on Wednesday. Later they were released and sent to the Okhla Bird Sanctuary. These parakeets were recovered from a Uzbek national on Tuesday, October 15. The Uzbek national was allegedly trying to smuggle them to Tashkent. He was arrested by the CISF personnel from Delhi airport during the security check. The accused had hidden these parrots in different shoe boxes. The Uzbek national was also produced before the court and was sent to judicial custody till October 30. Advocate P. C. Sharma was representing the Customs in the case. The news made its way onto Twitter too and this is how people reacted: parrots can be very mean when they speak! hopefully they were polite infront of milords ! — köln (@greengoblin9119) October 16, 2019 Nice — Mona singh (@monarajput11) October 16, 2019 Nothing peculiar.😏 — Prosanjitchakraborty (@prosanjitc5) October 16, 2019 Previously, a similar incident piqued people’s interest. Federal authorities at John F. Kennedy Airport, the USA, on June 20 arrested a man who was trying to smuggle 34 live birds. The smuggler hid the birds inside individual plastic hair curlers in his carry-on luggage and tried to board the plane. He was trying to smuggle birds worth $100,000 to sell them for singing competitions. Also Read | Exotic species of snakes and lizards seized at Chennai airport. See pics']
+
+
+13----QTY
+
+parakeets----SP.COMMON
+
+parakeets----SP.COMMON
+
+Uzbek----SUS.NAT
+
+Tuesday----DATE
+
+October 15----DATE
+
+Uzbek----SUS.NAT
+
+Tashkent----ROUTE.DEST
+
+CISF----AUTH.SEIZE
+
+Delhi airport----AUTH.SEIZE
+
+parrots----SP.COMMON
+
+shoe boxes----CONCEALMENT_METHOD
+
+Federal authorities----AUTH.SEIZE
+
+John F. Kennedy Airport, the USA----LOC.EXACT
+
+June 20----DATE
+
+arrested----CRIME.CAT
+
+man----SUS.GENDER
+
+34----QTY
+
+birds----SP.COMMON
+
+carry-on luggage----CONCEALMENT_METHOD
+
+plane----TRANSPORT_MODE
+
+$100,000----VALUE

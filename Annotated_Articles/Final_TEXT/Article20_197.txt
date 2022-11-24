@@ -1,0 +1,103 @@
+
+['7 youth held for poaching animals\nAravind Raj By Express News Service KARUR: A gang seven men were arrested by district forest officials in Karur for illegally hunting animals in the Manmangalam forest region and later consuming them. Santhosh (23) of Samathuvapuram in Aathur of Manmangalam along with his six friends had uploaded photos of them hunting animals and cooking them on his Facebook and WhatsApp profiles. The district Forest department then received a complaint. A special team of forest officials led by Range Officer Vijayakumar was formed to nab the culprits. Officials began an investigation with the help of the Karur district cyber crime department and district SP Pandiarajan. After conducting a probe, the team caught Santhosh and his friends Martin (23), Deenadayalan (21), Siddharth (21), Manikandan (27), Veerakumar (27) and Ajith (23). District Forest Officer (DFO) Anbu told TNIE, "The gang had been illegally hunting rabbits, squirrels and quails in the Manmangalam region with the help of hounds. After hunting, they had cooked those animals, ate the rabbits and quail sand fed the hounds with the squirrels. They had it all posted on their Facebook profiles and WhatsApp. They were hunting animals illegally and would be dealt with strictly. Those who hunt animals will be imprisoned for three to seven years and a fine of Rs. 25,000 slapped on them." All the seven men were arrested under Section 2(1), 9, 39, 40(1), (2) and 51 of the Indian Forest Act 1972 and later produced before Judicial Magistrate 1 at the Karur court complex. Owing to the lockdown, they were released on bail and told to appear before the magistrate again on May 15 for the final verdict. KARUR: A gang seven men were arrested by district forest officials in Karur for illegally hunting animals in the Manmangalam forest region and later consuming them. Santhosh (23) of Samathuvapuram in Aathur of Manmangalam along with his six friends had uploaded photos of them hunting animals and cooking them on his Facebook and WhatsApp profiles. The district Forest department then received a complaint. A special team of forest officials led by Range Officer Vijayakumar was formed to nab the culprits. Officials began an investigation with the help of the Karur district cyber crime department and district SP Pandiarajan. After conducting a probe, the team caught Santhosh and his friends Martin (23), Deenadayalan (21), Siddharth (21), Manikandan (27), Veerakumar (27) and Ajith (23). District Forest Officer (DFO) Anbu told TNIE, "The gang had been illegally hunting rabbits, squirrels and quails in the Manmangalam region with the help of hounds. After hunting, they had cooked those animals, ate the rabbits and quail sand fed the hounds with the squirrels. They had it all posted on their Facebook profiles and WhatsApp. They were hunting animals illegally and would be dealt with strictly. Those who hunt animals will be imprisoned for three to seven years and a fine of Rs. 25,000 slapped on them." All the seven men were arrested under Section 2(1), 9, 39, 40(1), (2) and 51 of the Indian Forest Act 1972 and later produced before Judicial Magistrate 1 at the Karur court complex. Owing to the lockdown, they were released on bail and told to appear before the magistrate again on May 15 for the final verdict.']
+
+
+7----SUS.NUMBER
+
+poaching----CRIME.CAT
+
+gang----SUS.NUMBER
+
+seven----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+district forest officials----AUTH.SEIZE
+
+Santhosh----SUS.NAME
+
+23----SUS.AGE
+
+Samathuvapuram in Aathur of Manmangalam----SUS.LOC
+
+Range Officer----OFF.DESIG
+
+Vijayakumar----OFF.NAME
+
+Santhosh----SUS.NAME
+
+Martin----SUS.NAME
+
+23----SUS.AGE
+
+Deenadayalan----SUS.NAME
+
+21----SUS.AGE
+
+Siddharth----SUS.NAME
+
+21----SUS.AGE
+
+Manikandan----SUS.NAME
+
+27----SUS.AGE
+
+Veerakumar----SUS.NAME
+
+27----SUS.AGE
+
+Ajith----SUS.NAME
+
+23----SUS.AGE
+
+imprisoned for three to seven years----OUTCOME
+
+arrested----OUTCOME
+
+seven men----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+district forest officials----AUTH.SEIZE
+
+Manmangalam forest region----ROUTE.SRC
+
+Santhosh----SUS.NAME
+
+23----SUS.AGE
+
+Samathuvapuram in Aathur of Manmangalam----SUS.LOC
+
+Range Officer----OFF.DESIG
+
+Vijayakumar----OFF.NAME
+
+Santhosh----SUS.NAME
+
+Martin----SUS.NAME
+
+23----SUS.AGE
+
+Deenadayalan----SUS.NAME
+
+21----SUS.AGE
+
+Siddharth----SUS.NAME
+
+21----SUS.AGE
+
+Manikandan----SUS.NAME
+
+27----SUS.AGE
+
+Veerakumar----SUS.NAME
+
+27----SUS.AGE
+
+Ajith----SUS.NAME
+
+23----SUS.AGE
+
+imprisoned for three to seven years----OUTCOME
+
+released on bail and told to appear before the magistrate again on May 15----OUTCOME

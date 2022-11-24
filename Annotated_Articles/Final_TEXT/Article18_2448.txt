@@ -1,0 +1,9 @@
+
+['State raises cash relief for kin of tiger attack victims\nJaipur: The state government on Wednesday raised the financial assistance for human death and permanent incapacitation caused by a tiger or any other wild animal.While the compensation for death has been increased from Rs 4 lakh to Rs 5 lakh, the amount for permanent incapacitation relief has been increased from Rs 2 lakh to Rs 3 lakh. Victims who sustain injuries in an attack by a tiger or other wild animal will be given Rs 50,000.The enhanced compensation follows the announcement in the state wildlife board meeting this year by chief minister. An official said, “Since the human-wildlife conflict is an unforeseen natural event and many families suffered in the past, the government passed an order raising the relief amount.”The compensation for killing of a cattle by a tiger or wild animal was also raised by the department. Now, compensation for loss of milch buffalo is Rs 25,000, cow Rs 12,500, goat and sheep Rs 3,000, camel, 25, 000 or actual value, whichever is less.Earlier, the department was paying Rs 20,000 for buffaloes and Rs 10,000 for cows. Forest officials said, “It was the need of the hour as rates of cattle have increased and repeated hunting of domestic animals by big cats increase the threat of revenge killing.”Sources said Sariska tigers have sustained more on livestock than wild prey. A research on the dietary pattern conducted by the forest department revealed that 77% times, a tiger preys on livestock, sambar (13.6%), chital (3.6%), blue bull (2.4%) and others (3.4%).Based on individual monitoring of all re-introduced big cats in Sariska for two years (from 2016 to 2018), tiger kill data was analysed for demonstrating prey preference. In all, 290 buffaloes and 92 cows were killed by 15 tigers during this period.']
+
+
+Jaipur----LOC.CITY
+
+Wednesday----DATE
+
+tiger----SP.COMMON

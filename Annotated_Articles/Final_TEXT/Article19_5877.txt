@@ -1,0 +1,33 @@
+
+['Man falls and lands in front of "Lion King" at Delhi Zoo\n\'Errant\' tiger that killed five people in less than 40 days shifted to Lucknow zoo Darjeeling Zoo gets recognized as \'the best\' in India Man falls and lands in front of "Lion King" at Delhi Zoo India oi-Mousumi Dash New Delhi, Oct 17: A man entered into the enclosure of a lion at the National Zoological Park or Delhi Zoo after climbing its metal grille on Thursday. In a video, a man was seen landing right in front of a lion in Delhi Zoo. It was a situation of turmoil as the nation has earlier witnessed a man vs wild conflict where a 22-year-old youth Maqsood, who fell into the enclosure in Delhi Zoo and was killed by a male tiger in 2014. Instances like these in the past have often resulted in the loss of life of the human. In today\'s incident, another man fell into the enclosure of a lion in the same zoo. Recommended Video Lion chases tourists on safari inside zoo in karnataka, video goes viral But luckily, the man was rescued by and he was brought out safely. Further probe into how and why he was inside the lion enclosure is underway. The Deputy Commissioner of Police (DCP), Delhi Police (Southeast) said, "He\'s Rehan Khan, a 28-yr-old man from Bihar. He seems to be mentally unstable. He was immediately brought out without any injury." After the man fell into the enclosure of the lion, the visitors in the vicinity shouted for help and some even tried to distract the lion away from the man. The National Zoological Park (originally Delhi Zoo) is a 176-acre (71 ha) zoo near the Old Fort in Delhi, India. The zoo is home to about 1350 animals representing almost 130 species of animals and birds from around the world. #WATCH Delhi: A man entered into enclosure of a lion at Delhi Zoo after climbing its metal grille. He was later brought out safely. DCP(Southeast)says "He\'s Rehan Khan, a 28-yr-old man from Bihar. He seems to be mentally unstable.He was immediately brought out without any injury" pic.twitter.com/t5n6bfPx7p — ANI (@ANI) October 17, 2019 On 23 September 2014, a man named Maqsood fell in white tiger\'s moat accidentally. The people around started throwing stones at the tiger. The man was then carried away and mauled by the enraged tiger after some minutes. The man later succumbed to his injuries. Why the ED decided to attach 3 chimpanzees as part of its money laundering probe The incident, which took place between 12.30 pm and 1 pm, then created a sensation and word soon spread across the nation and worldwide, with pictures and video of the tiger one of the zoo\'s star attractions, dragging the youth going viral. For Breaking News and Instant Updates Allow Notifications Story first published: Thursday, October 17, 2019, 15:26 [IST]']
+
+
+Lion King----SP.COMMON
+
+Delhi Zoo----LOC.EXACT
+
+Lion King----SP.COMMON
+
+lion----SP.COMMON
+
+National Zoological Park or Delhi Zoo----LOC.EXACT
+
+Thursday----DATE
+
+Rehan Khan----SUS.NAME
+
+28-yr-old----SUS.AGE
+
+man----SUS.GENDER
+
+Bihar----SUS.LOC
+
+Rehan Khan----SUS.NAME
+
+28----SUS.AGE
+
+Bihar----SUS.LOC
+
+12.30 pm----TIME
+
+1 pm----TIME

@@ -1,0 +1,47 @@
+
+['2,000 caged birds rescued from Dhyaneshwari Express\nMore than 2,000 birds stuffed in cages were rescued from Dnyaneshwari Express on Monday in a joint operation between Government Railway Police (GRP) and Railways Protection Force (RPF). According to the information, the birds were being transported to Mumbai from Howrah in Dnyaneshwari express stuffed in cages. The incident came into notice of a passenger Shubrat Das traveling in the same train. He noticed love birds, rabbits stuffed in cages being transported in SLR coach of the train. He then shot a video of the activity and sent it to twitter handle of Maharashtra Police who without wasting time passed the information to the Nagpur Police. The GRP and RPF staff reached the platform No 8 before the train reached the station and took the birds into possession. The police seized 10 cages from the train while more than five birds were found dead in each cage. The total cost of all the birds was estimated to 10 lakh, police added. However, the officials of the Parcel Department told the Police that it is completely legal to transport birds on Railways. Meanwhile, an offence will be registered under Prevention of Cruelty to Animals Act. Forest officials and Animal activists will submit a detailed report to GRP and RPF today.']
+
+
+2,000----QTY
+
+birds----SP.COMMON
+
+Dhyaneshwari Express----LOC.EXACT
+
+2,000----QTY
+
+birds----SP.COMMON
+
+rescued----CRIME.CAT
+
+Dnyaneshwari Express----LOC.EXACT
+
+Monday----DATE
+
+Government Railway Police (GRP----AUTH.SEIZE
+
+Railways Protection Force----AUTH.SEIZE
+
+RPF----AUTH.SEIZE
+
+Mumbai----ROUTE.DEST
+
+Howrah in Dnyaneshwari express----ROUTE.SRC
+
+love----SP.SPECIFIC
+
+birds----SP.COMMON
+
+rabbits----SP.COMMON
+
+SLR coach----CONCEALMENT_METHOD
+
+GRP----AUTH.SEIZE
+
+RPF staff----AUTH.SEIZE
+
+10----QTY
+
+cages----ITEM
+
+10 lakh----VALUE

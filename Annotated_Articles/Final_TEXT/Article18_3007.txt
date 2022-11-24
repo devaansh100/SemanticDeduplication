@@ -1,0 +1,41 @@
+
+['In A Deeply Distressing News, 4 Men In Maharashtra Have Been Accused Of Gangraping A Monitor Lizard\nTrigger warning: This article has distressing details about sexual assault. In disturbing news emerging from Gothane village in Maharshtra, a group of men has been accused of gang-raping a monitor lizard at Sahydari Tiger Reserve. As per a report from India Today, the names of these men are – Akshay Sunil, Sandeep Tukram, Pawar Mangesh, and Janardhan Kamtekar. A Monitor Lizard has been gang raped in India. The rapists recorded the act on their mobile phones. Their names are Sandeep, Mangesh, Janardan and Akshay. pic.twitter.com/HxfjA6cZhB — Ali The Magnificent (@OpusOfAli) April 13, 2022 Don’t know what to say. https://t.co/SAQ4JKlTvt — Shiv Aroor (@ShivAroor) April 13, 2022 These men did not only commit the heinous crime but also recorded themselves. The Maharashtra Forest Department got hold of that footage and is currently planning to take the issue to the Indian Panel Court. Three of these men had come to the forest reserve for hunting and were caught first in the CCTV camera as they wandered around. What to say ?? https://t.co/5B0iROyk4v — Parveen Kaswan, IFS (@ParveenKaswan) April 13, 2022 This is beyond scary … Haven’t heard of anything like this … https://t.co/i5KyyISlL5 — Uma Sudhir (@umasudhir) April 13, 2022 Three persons detained by STR officials for trespassing couple of days back have strange things to say…the pics of their mobile handsets show them in compromising position with monitor lizard…along with the provisions of wlpa..Sec 377 of ipc may also get invoked pic.twitter.com/6S3i6xUDdm — Clement Ben IFS (@ben_ifs) April 14, 2022 If proven guilty of the crime, they will be staring at 7 years of imprisonment.']
+
+
+4----SUS.NUMBER
+
+Maharashtra----LOC.STATE
+
+Monitor Lizard----SP.COMMON
+
+Gothane village in Maharshtra----LOC.EXACT
+
+men----SUS.GENDER
+
+gang-raping----CRIME.CAT
+
+monitor lizard----SP.COMMON
+
+Sahydari Tiger Reserve----LOC.EXACT
+
+Akshay Sunil----SUS.NAME
+
+Sandeep Tukram----SUS.NAME
+
+Pawar Mangesh----SUS.NAME
+
+Janardhan Kamtekar----SUS.NAME
+
+Monitor Lizard----SP.COMMON
+
+gang----CRIME.CAT
+
+raped----CRIME.CAT
+
+Sandeep----SUS.NAME
+
+Mangesh----SUS.NAME
+
+Janardan----SUS.NAME
+
+Akshay----SUS.NAME

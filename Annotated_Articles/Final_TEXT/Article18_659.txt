@@ -1,0 +1,15 @@
+
+['Viral video: Man thought he was rescuing one kitten from roadside - then 12 more appeared\nViral video: Man thought he was rescuing one kitten from roadside - then 12 more appeared A man named Robert Brantley, from Louisiana in the US, was driving when he thought he had seen a kitten on the roadside. The professional shooter, who was heading to the shooting range, decided to turn his car around to find out. He found a single white and grey kitten but just when he picked up the fur baby, three more kittens popped up in the grass. Soon, Robert was "ambushed" by 13 kittens. He decided to rescue them all. "I couldn’t keep up with them as I would throw one in and 2 would jump out. So I had to close the door with the window down and funnel \'em in," Robert said. People from around the world have offered to adopt the kittens. | Credit: Instagram/@robertbrantley_']
+
+
+one----QTY
+
+kitten----SP.COMMON
+
+12----SUS.NUMBER
+
+one----QTY
+
+kitten----SP.COMMON
+
+Robert Brantley----SUS.NAME

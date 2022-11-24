@@ -1,0 +1,13 @@
+
+["If Forest Fire Wasn't Enough In Bandipur Tiger Reserve, Animals Are Now Getting Run Over By Speeding Cars\nThe Bandipur Tiger Reserve (BTR) in Karnataka is still recovering from the massive wildfire last month, which reduced thousands of acres of forest land into ashes. The massive fire which raged for five days also killed a number of animals, birds, and reptiles other than burning down hundreds of huge trees. Now the wild animals of BTR are facing another serious threat - speeding vehicles. In less than a week, three wild animals have been run over by vehicles inside the protected area. BCCL The latest incident was reported on Wednesday morning when a spotted deer calf was mowed down by a speeding vehicle. A day before, a wild boar was mowed down near the Melu Kammanahalli Gate of the reserve. Before that, another spotted deer was killed by a speeding vehicle. In all the three cases, no arrests have been made yet, though, in the case of the wild boar, the occupant of the car fled the scene abandoning their vehicle after it hit the animal. FILE IMAGE The spike in animal kills within the protected area due to vehicles come even as environmentalists are demanding a complete ban on vehicular movement through the national park. Earlier the night traffic through the 22 km stretch of the National Highway-212 which passes through the reserve was banned after a series of animal deaths including elephants and wild bison who were run over by speeding vehicles. FILE IMAGE The road is a key link between Northern Kerala and Southern Karnataka and many including commercial vehicles choose the road through the forest as it reduces the travel time. The two states have also been battling it out in the court - with Kerala demanding a relaxation on the ban, and Karnataka in favor of restriction the traffic."]
+
+
+Bandipur Tiger Reserve----LOC.EXACT
+
+Karnataka----LOC.STATE
+
+Wednesday----DATE
+
+morning----TIME
+
+spotted deer----SP.SPECIFIC

@@ -1,0 +1,37 @@
+
+['Leopard skin worth Rs 22 lakh seized, Dadar resident held\nleopard Wildlife Protection Act Dadar Kherwadi police Mumbai: A person who had come to sell a skin ofwas arrested under relevant sections of theon Thursday (May 27).The accused has been identified as Manoj Sridhar Badwe, a 61-year-old resident of, in Mumbai.He was nabbed by theActing on a tip-off, he was held when he had come to deliver a wild animal skin in Bandra.The official said that the skin was purchased long ago and the accused was looking to sell the same.He has been remanded to police custody.However, it is not known from where he got the skin, and further investigation is underway.']
+
+
+Leopard----SP.COMMON
+
+skin----ITEM
+
+Rs 22 lakh----VALUE
+
+Dadar----SUS.LOC
+
+Dadar Kherwadi police----AUTH.SEIZE
+
+Mumbai----LOC.CITY
+
+A----SUS.NUMBER
+
+skin----ITEM
+
+arrested----CRIME.CAT
+
+Thursday----DATE
+
+May 27).The----DATE
+
+Manoj Sridhar Badwe----SUS.NAME
+
+61----SUS.AGE
+
+Mumbai.He----SUS.LOC
+
+skin----ITEM
+
+Bandra.The----LOC.EXACT
+
+skin----ITEM

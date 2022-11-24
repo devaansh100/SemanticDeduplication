@@ -1,0 +1,35 @@
+
+['Thief steals duffel bag from man, doesn’t realise it’s filled with snakes!\nThe handler made an appeal on YouTube to ask for help so that he could be reunited with his snakes and lizard. Call it serpent surprise. Or a snake mistake. A California reptile lover says thieves who made off with his duffel bag probably thought they were taking swag. But it was full of snakes. Brian Gundy, who breeds and sells reptiles through his business, For Goodness Snakes, had given a presentation at Martin Luther King Library in downtown San Jose on Saturday and left his gear in a parking garage to retrieve his car. When he returned, he found a duffel bag containing three pythons and a lizard was gone. Gundy tells KRON-TV two snakes were later found in a dumpster but he’s worried about the safety of the other reptiles. He’s filed a police report and hopes garage surveillance video and help from the public will help catch the thieves. The news started a laughing riot online and people reacted to it with hilarious GIFS and jokes.']
+
+
+Thief----SUS.AFFIL
+
+steals----CRIME.CAT
+
+duffel bag----CONCEALMENT_METHOD
+
+man----SUS.GENDER
+
+snakes----SP.COMMON
+
+snakes----SP.COMMON
+
+thieves----SUS.AFFIL
+
+duffel bag----CONCEALMENT_METHOD
+
+Saturday----DATE
+
+duffel bag----CONCEALMENT_METHOD
+
+three----QTY
+
+pythons----SP.COMMON
+
+a----QTY
+
+lizard----SP.COMMON
+
+dumpster----CONCEALMENT_METHOD
+
+filed a police report----OUTCOME

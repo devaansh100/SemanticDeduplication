@@ -1,0 +1,57 @@
+
+['Red sanders worth Rs 5 lakhs seized in AP\'s Kadapa\nKadapa (Andhra Pradesh) [India], December 18 (ANI): Forest department officials of the Kadapa district have seized 66 logs of red sanders worth Rs 5 lakh at Jallakona area near Rollamadugu beat in Rajampet Mandal, Kadapa district of Andhra Pradesh. Speaking to ANI, Rajampet in-charge of District Forest Officer (DFO) Y V Narasimha Rao said, "a group of people from Tamil Nadu were smuggling red sanders on Wednesday evening at around 6 pm." "The forest department officials conduct a raid and caught 5 of them. The forest officials have seized 66 logs of red sanders weighing 2100 kilograms. Its value is almost Rs 5 lakhs. However, almost 30 smugglers escaped," he said.  The case has been filed against the arrested five smugglers under the provisions of the Andhra Pradesh Forest Act and Bio-Diversity Act 2002. The accused were produced before the court on Thursday, said the DFO. The search operation for the escaped smugglers is underway. (ANI) ']
+
+
+Red sanders----SP.COMMON
+
+Rs 5 lakhs----VALUE
+
+seized----CRIME.CAT
+
+Kadapa----LOC.DISTRICT
+
+Kadapa----LOC.DISTRICT
+
+Andhra Pradesh----LOC.STATE
+
+Forest department----AUTH.SEIZE
+
+66----QTY
+
+logs----ITEM
+
+red sanders----SP.COMMON
+
+Rs 5 lakh----VALUE
+
+Jallakona area near Rollamadugu beat----LOC.EXACT
+
+Rajampet Mandal----LOC.DISTRICT
+
+Kadapa district----LOC.DISTRICT
+
+Andhra Pradesh----LOC.STATE
+
+Wednesday----DATE
+
+evening----TIME
+
+6 pm----TIME
+
+forest department----AUTH.SEIZE
+
+66----QTY
+
+logs----ITEM
+
+red sanders----SP.COMMON
+
+2100 kilograms----QTY
+
+Rs 5 lakhs----VALUE
+
+case has been filed against the----OUTCOME
+
+arrested----OUTCOME
+
+five----SUS.NUMBER

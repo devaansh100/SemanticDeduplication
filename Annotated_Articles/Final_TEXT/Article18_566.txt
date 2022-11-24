@@ -1,0 +1,13 @@
+
+["Rare video shows leopard hunting a monkey at Panna Tiger Reserve\nNature is no doubt beautiful. However, what people often forget is that nature can be brutal too. Every now and then, there are videos shared online that remind people of that. Just like this video shared on Twitter that showcases a leopard hunting a monkey. The video is posted on the official Twitter handle of Panna Tiger Reserve located in Madhya Pradesh. Besides tigers, leopards, and wolves, this place is home to nearly 200 species of birds, including migratory ones. Reptiles, including snakes like pythons, are also found in the reserve. The post showcasing the leopard hunting the monkey was posted with a descriptive caption. “A rare sight @pannatigerreserve. A leopard can be seen hunting a baby monkey by jumping on the tree,” it reads. The video opens to show a leopard perched atop a tree. Within moments, the big cat jumps from one tree to another and falls on the ground. However, it quickly becomes clear that it didn't come down alone. Take a look at the video to see the leopard hunting: 1/n A rare sight @pannatigerreserve. A leopard can be seen hunting a baby monkey by jumping on the tree. pic.twitter.com/utT4h58uuF — Panna Tiger Reserve (@PannaTigerResrv) June 28, 2022 The video has been posted on June 28. Since being shared, it has gathered more than 7,000 views and the numbers are only increasing. The share has also prompted people to post various comments. Many shared how it is a very rare sight. “Superb, only a very lucky one can shoot this,” posted a Twitter user. “Rare indeed,” shared another. “Never seen anything like that before...,” commented a third. SHARE THIS ARTICLE ON"]
+
+
+leopard----SP.COMMON
+
+monkey----SP.COMMON
+
+Panna Tiger Reserve----LOC.EXACT
+
+leopard----SP.COMMON
+
+leopard----SP.COMMON

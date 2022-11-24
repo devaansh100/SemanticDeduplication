@@ -1,0 +1,35 @@
+
+['Assam: Wild elephants kill woman in Laokhowa\nGuwahati: Man-elephant conflict is a major concern in Assam as on Monday a woman was reported to have been killed in an elephant attack in Laokhowa Wildlife Sanctuary in Nagaon. Locals said that the woman was killed by a herd of wild elephants when she went to the forest area to collect firewood. The deceased woman has been identified as Hazera Khatun of the Gorajan area in Rupahihat. Also Read: Assam: Dibrugarh BJP asked to keep the published municipal election candidate list on hold Locals said that the woman sells firewoods for a living and on Sunday evening she went to the forest to collect wood with 10-12 other women. While they were collecting wood, a herd of wild elephants showed up and in panic, they tried to flee. Startled by the action, the elephants reportedly attacked them. Hazera as per other women with her fell in front of the herd and was stomped to death. Also Read: Assam: Two alleged human traffickers arrested in Nagaon The group informed the locals but her dead body could not be recovered on Sunday night as the herd was still around. The body was recovered on Monday after the wild jumbos left the spot.']
+
+
+Assam----LOC.STATE
+
+Wild elephants----SP.COMMON
+
+kill----CRIME.CAT
+
+woman----SUS.GENDER
+
+Laokhowa----LOC.EXACT
+
+Assam----LOC.STATE
+
+Monday----DATE
+
+a----SUS.NUMBER
+
+woman----SUS.GENDER
+
+Laokhowa Wildlife Sanctuary----LOC.EXACT
+
+wild elephants----SP.SPECIFIC
+
+Hazera Khatun----SUS.NAME
+
+Gorajan area----SUS.LOC
+
+Sunday----DATE
+
+wild elephants----SP.SPECIFIC
+
+night----TIME

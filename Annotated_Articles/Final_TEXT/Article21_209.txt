@@ -1,0 +1,55 @@
+
+['Forest dept seizes 18 tiger nails; 2 teeth\nForest Mobile Squad arrested two persons who were trying to sell tiger nails and teeth at Hunsur, in the district, on Thursday. The authorities took Shankar, 40, of K R Pet taluk in Mandya district and Ganesh, 48, of Hunsur, are the accused who were smuggling 18 tiger nails and two teeth, said Deputy Conservator of Forests A T Poovaiah.']
+
+
+Forest dept----AUTH.SEIZE
+
+seizes----CRIME.CAT
+
+18----QTY
+
+tiger----SP.COMMON
+
+nails----ITEM
+
+2----QTY
+
+teeth----ITEM
+
+Forest Mobile Squad----AUTH.SEIZE
+
+arrested----CRIME.CAT
+
+two persons----SUS.NUMBER
+
+tiger----SP.COMMON
+
+nails----ITEM
+
+teeth----ITEM
+
+Hunsur----LOC.CITY
+
+Thursday----DATE
+
+Shankar----SUS.NAME
+
+40----SUS.AGE
+
+K R Pet taluk in Mandya district----SUS.LOC
+
+Ganesh----SUS.NAME
+
+48----SUS.AGE
+
+Hunsur----SUS.LOC
+
+18----QTY
+
+tiger----SP.COMMON
+
+nails----ITEM
+
+two----QTY
+
+teeth----ITEM

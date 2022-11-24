@@ -1,0 +1,19 @@
+
+["Wild elephant attacks group that went into forest to collect firewood; tribal woman dies after falling down and suffering blow on head\nWAYANAD: A wild elephant has attacked a group of people who went to collect firewood in the forest. A tribal woman died after she fell on the ground and suffered a blow on the head while trying to run away. The deceased has been identified as Basavi (45), a native of the Kattunaykka colony. There were five persons in the group. Basavi suffered a serious injury while attempting to escape. Although Basavi was rushed to the Pulppally government hospital, she could not be saved. Her sister Maachi also suffered minor injuries. The forest department said that there were no traces of elephant attack on Basavi's body and that she sustained injuries due to the fall. More details will be available only after the postmortem. Basavi's body has been shifted to Bathery Taluk Hospital."]
+
+
+Wild elephant----SP.COMMON
+
+attacks----CRIME.CAT
+
+wild elephant----SP.COMMON
+
+Basavi----SUS.NAME
+
+45----SUS.AGE
+
+Kattunaykka----SUS.LOC
+
+five----SUS.NUMBER
+
+Maachi----SUS.NAME

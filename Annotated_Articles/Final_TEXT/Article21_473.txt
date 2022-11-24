@@ -1,0 +1,31 @@
+
+['Jaipur Customs seize body parts of wild birds\nJaipur: The Customs authorities at Foreign Post Office Jaipur has intercepted two parcels that contain feathers and head of wild birds. The declaration on the parcel was of hats, although along with hats, the prohibited parts of wild birds were too confiscated from the boxes. The parcel was delivered from United Kingdom, the officials said.  According to officials, the interception was conducted based on suspicion. On examination, it was discovered that the parcels appeared to contain parts of wild birds, which included feathers of Ostrich and stuffed head of Greater bird of paradise.  The import of these items of wildlife is prohibited by law. Further, there was misdeclaration regarding the contents of the packages. "For preliminary examination, forest officers were contacted and the expert opined that these articles were indeed feathers of Ostrich and head of Greater Bird of Paradise", said the officials.  Custom officers followed up and seized incriminating documents during the same. Further investigation is in progress. Read Also Govt names items for customs exemptions review, seeks industry views by Aug 10']
+
+
+Jaipur Customs----AUTH.SEIZE
+
+seize----CRIME.CAT
+
+Foreign Post Office Jaipur----LOC.EXACT
+
+feathers----ITEM
+
+head----ITEM
+
+wild birds----SP.COMMON
+
+United Kingdom----ROUTE.SRC
+
+feathers----ITEM
+
+Ostrich----SP.COMMON
+
+stuffed head----ITEM
+
+Greater bird of paradise----SP.COMMON
+
+feathers----ITEM
+
+head----ITEM
+
+Greater Bird of Paradise----SP.COMMON

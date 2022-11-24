@@ -1,0 +1,16 @@
+
+['They rescued a freezing ‘dog’ from icy river. It turned out to be a wolf\nEstonian construction workers got the shock of their lives when they found out the animal they saved from an icy river was not a dog but a wolf. Rando Kartsepp, Robin Sillamae and Erki Vali told the Postimees newspaper they were working at the Sindi dam on the frozen Parnu River in southwestern Estonia when they saw an animal frantically swimming in a maze of ice. They rescued the ice-coated animal and took it to a shelter. A hunter told them it was about a one-year old male wolf suffering from shock and hypothermia. The young wolf recovered after a day and was released back into the wild with a GPS collar. Estonia has an estimated 200 wolves. The grey wolf was voted Estonia’s national animal by nature organizations in 2018. SHARE THIS ARTICLE ON']
+
+
+dog----SP.COMMON
+
+wolf
+Estonian construction workers----SP.COMMON
+
+wolf----SP.COMMON
+
+Rando Kartsepp----OFF.NAME
+
+Robin Sillamae----OFF.NAME
+
+Erki Vali----OFF.NAME

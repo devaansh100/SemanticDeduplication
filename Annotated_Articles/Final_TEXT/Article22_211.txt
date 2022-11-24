@@ -1,0 +1,47 @@
+
+['Odisha: Pangolin scales seized, one held\nThe Special Task Force (STF) of Crime Branch and State forest department in a joint drive arrested a man in K Nuagaon police station area in Ganjam district and recovered around 6.9 kilograms of pangolin scales from his possession. On a tip-off, the STF personnel flanked by local forest officials conducted a raid and nabbed the accused identified as PrafullaMallik. “During search Pangolin Scale weighing 6.9 kilograms, other incriminating materials were recovered from his possession. The accused person could not produce any authority in support of possession of wildlife trophy, for which he was arrested yesterday night and was handed over to Digapahandi Forest Officials under Berhampur Forest Division for necessary legal action”, the STF said in a statement. The India pangolin figures in the International Union for Conservation of Nature (IUCN) Red List of threatened species. It is trafficked for its scales and meat which is much in demand in China, Vietnam and south-east Asian countries. Since 2020, STF has seized as many as 27 leopard skins, 15 elephant tusks, 7 deer skins, 12 live pangolins, 30 kg 400 gm of pangolin scales, 2 leopard teeth, 29 leopard claws, 46 live wild parrots and arrested 65 wildlife criminals.']
+
+
+Odisha----LOC.STATE
+
+Pangolin----SP.COMMON
+
+scales----ITEM
+
+seized----CRIME.CAT
+
+one----SUS.NUMBER
+
+Special Task Force (STF)----AUTH.SEIZE
+
+State forest department----AUTH.SEIZE
+
+man----SUS.GENDER
+
+K Nuagaon police station area----LOC.EXACT
+
+Ganjam district----LOC.DISTRICT
+
+6.9 kilograms----QTY
+
+pangolin----SP.COMMON
+
+scales----ITEM
+
+tip-off----DETECTION_METHOD
+
+STF----AUTH.SEIZE
+
+local forest officials----AUTH.SEIZE
+
+PrafullaMallik. “During search Pangolin Scale weighing 6.9 kilograms, other incriminating materials were recovered from his possession. The accused person could not produce any authority in support of possession of wildlife trophy, for which he was arrested yesterday night and was handed over to Digapahandi Forest Officials under Berhampur Forest Division for necessary legal action”, the STF said in a statement. The India pangolin figures in the International Union for Conservation of Nature (IUCN) Red List of threatened species. It is trafficked for its scales and meat which is much in demand in China, Vietnam and south-east Asian countries. Since 2020, STF has seized as many as 27 leopard skins, 15 elephant tusks, 7 deer skins, 12 live pangolins, 30 kg 400 gm of pangolin scales, 2 leopard teeth, 29 leopard----SUS.NAME
+
+claws----ITEM
+
+46----QTY
+
+live----ITEM
+
+wild parrots----SP.COMMON
+
+65 wildlife----SUS.NUMBER

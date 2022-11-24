@@ -1,0 +1,53 @@
+
+['Elephant deaths: Panel meets ryots to find solutions- The New Indian Express\nBy Express News Service COIMBATORE: The committee probing into the circumstances of wild elephant deaths on Monday convened a meeting with farmers in the city. The aim was to record the farmers’ suggestion to reduce human-animal conflict and prevent conflict induced crop damage, human deaths and wild elephant deaths due to electrocution and avuttukai. Farmers said radio collar should be fixed on Matriarch (female elephant) as she leads and guides a herd and damages the crops massively. “Once the location of the matriarch is tracked, forest staff can reach the place and divert the animals . We have been suggesting this to officials since 2006,” said P Kandhasamy state general secretary farmers association Farmer arrested for killing wild elephant Coimbatore: After more than 60 days of search, officials of Coimbatore forest division arrested a farmer M Manokaran (57) on charges of electrocution of a wild elephant. He was arrested at Pannimadai bus stand near Thudiyalur on Monday. A tusker aged 12 to 14 years was killed after it came in contact with electric wire in his farm land at Varapalayam on February 12. COIMBATORE: The committee probing into the circumstances of wild elephant deaths on Monday convened a meeting with farmers in the city. The aim was to record the farmers’ suggestion to reduce human-animal conflict and prevent conflict induced crop damage, human deaths and wild elephant deaths due to electrocution and avuttukai. Farmers said radio collar should be fixed on Matriarch (female elephant) as she leads and guides a herd and damages the crops massively. “Once the location of the matriarch is tracked, forest staff can reach the place and divert the animals . We have been suggesting this to officials since 2006,” said P Kandhasamy state general secretary farmers association Farmer arrested for killing wild elephant Coimbatore: After more than 60 days of search, officials of Coimbatore forest division arrested a farmer M Manokaran (57) on charges of electrocution of a wild elephant. He was arrested at Pannimadai bus stand near Thudiyalur on Monday. A tusker aged 12 to 14 years was killed after it came in contact with electric wire in his farm land at Varapalayam on February 12.']
+
+
+Elephant----SP.COMMON
+
+Matriarch----SUS.NAME
+
+killing----CRIME.CAT
+
+wild elephant----SP.COMMON
+
+officials of Coimbatore forest division----AUTH.SEIZE
+
+arrested----CRIME.CAT
+
+farmer----SUS.AFFIL
+
+M Manokaran----SUS.NAME
+
+57----SUS.AGE
+
+electrocution----CRIME.CAT
+
+wild elephant----SP.COMMON
+
+Pannimadai bus stand near Thudiyalur----LOC.EXACT
+
+Monday----DATE
+
+arrested----CRIME.CAT
+
+killing----CRIME.CAT
+
+wild elephant----SP.COMMON
+
+Coimbatore forest division----AUTH.SEIZE
+
+arrested----CRIME.CAT
+
+farmer----SUS.AFFIL
+
+M Manokaran----SUS.NAME
+
+57----SUS.AGE
+
+electrocution----CRIME.CAT
+
+wild elephant----SP.COMMON
+
+Pannimadai bus stand near Thudiyalur----LOC.EXACT
+
+Monday----DATE

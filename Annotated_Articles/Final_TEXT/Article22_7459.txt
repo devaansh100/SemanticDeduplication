@@ -1,0 +1,21 @@
+
+['Wild boar shot dead in Kozhikode; procedures as per instructions in govt order\nKOZHIKODE: A crop-raiding wild boar was shot dead in the Kodanchery panchayat in Kozhikode. This is the first time since the government’s order that the wild boar was shot with the permission of the panchayat. The incident took place last night. A wild boar that raided the farmland of Njaliyath Yohannan was shot dead. He had informed the panchayat about the wild boar menace. Following which, the animal was shot by Raju, who had a gun license, with the permission of the panchayat president.']
+
+
+Wild boar----SP.COMMON
+
+shot dead----CRIME.CAT
+
+Kozhikode----LOC.DISTRICT
+
+wild boar----SP.SPECIFIC
+
+shot dead----CRIME.CAT
+
+Kozhikode----LOC.CITY
+
+last night----DATE
+
+wild boar----SP.COMMON
+
+Raju----SUS.NAME

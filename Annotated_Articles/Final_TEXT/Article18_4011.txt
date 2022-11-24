@@ -1,0 +1,45 @@
+
+['Conflict Leopard Rescued, Released into the Wild by Assam Forest Department and CWRC MVS Team\nCWRC MVS Veterinarian Dr Samshul Ali prepares to tranquilise the conflict leopard Tinsukia, Assam, April 30, 2017: Working in collaboration with forest department personnel, a Mobile Veterinary Service (MVS) unit of CWRC (the Centre for Wildlife Rehabilitation and Conservation, IFAW-WTI and the Assam Forest Department’s wildlife rescue, treatment and rehabilitation facility near Kaziranga National Park) rescued a female leopard that had strayed into a house in Chabua village in the Tinsukia district of Assam on Friday, April 28. The leopard was transported to a location deep within the Joypur Reserve Forest and released back to the wild yesterday. The female leopard was a healthy animal that probably ventured into the village in search of easy prey. The leopard was seen entering the house in Chabua by its inhabitants on the morning of April 28. An alarm was raised and the villagers immediately informed the forest department, which in turn intimated the MVS team. As the leopard had been confined within the house’s grill-encased veranda, MVS veterinarian Dr Samshul Ali advised the frontline forest staff present on the spot to move people away from the area and cover the entrance with a black tarpaulin sheet, so that the leopard would not be further agitated by the presence of curious onlookers. This initial intervention and the exemplary crowd management undertaken by personnel from the Tinsukia and Dibrugarh Forest Divisions (both Wildlife and Territorial) were vital to the operation’s eventual success. The leopard, having been tranquillised, seen in the veranda of the house it had entered The MVS team reached Chabua in the afternoon. A physical observation of the leopard was conducted and in consultation with forest department officials, with the safety of the animal and the people in the area having been considered, it was decided that Dr Ali would tranquilise the leopard, following which it would be safely transported away from human habitation to the nearest forest habitat. “The tranquilisation went off smoothly”, said Dr Ali later. “I conducted a physical examination while the leopard was sedated and found no visible external injury. It was a healthy animal that probably ventured into the village in search of easy prey. The house it entered had a pet dog, which probably caught its attention. Fortunately, it was confined within an enclosed area. It showed no ill effects from the sedation but we kept it under observation overnight with the forest department. It was released into the Joypur Reserve Forest in Tinsukia Wildlife Division yesterday morning.” The leopard in a capture crate prior to being transported away from the village for eventual wild release']
+
+
+Leopard----SP.COMMON
+
+Assam Forest Department----AUTH.SEIZE
+
+CWRC MVS Team----AUTH.SEIZE
+
+MVS Veterinarian----OFF.DESIG
+
+Dr Samshul Ali----OFF.NAME
+
+forest department----AUTH.SEIZE
+
+Centre for Wildlife Rehabilitation and Conservation, IFAW-WTI----AUTH.SEIZE
+
+Assam Forest Department----AUTH.SEIZE
+
+a----QTY
+
+female leopard----SP.COMMON
+
+Chabua village----LOC.EXACT
+
+Assam----LOC.STATE
+
+Friday----DATE
+
+April 28----DATE
+
+leopard----SP.COMMON
+
+morning----TIME
+
+April 28----DATE
+
+alarm----DETECTION_METHOD
+
+Tinsukia and Dibrugarh Forest Divisions----AUTH.SEIZE
+
+physical observation of the leopard was conducted----OUTCOME
+
+forest department officials----AUTH.SEIZE

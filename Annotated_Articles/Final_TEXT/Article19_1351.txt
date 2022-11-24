@@ -1,0 +1,79 @@
+
+['Hyderabad: Poachers kill leopard, try to sell skin in city\nLeopard skin and claws put on display for the media on Monday by the SOT Malkajgiri team, Rachokanda, which was seized from four interstate poachers. (Photo: DC) Hyderabad: Three poachers from Odisha and one from Andhra Pradesh, who tried to sell a leopard hide and claws, were apprehended by the Rachakonda special operations team (Malkajgiri) at LB Nagar on Monday. The leopard was killed by the poachers in the forests near Silpoda in Odisha. A gang of at least 10 persons is involved in poaching. Not just leopards, the poachers hunted tigers and other animals and sold the pelts and claws at various places, police said. The arrested persons have been identified as farmers Basudev Masti, 23 and Jagannath Sisa, 19, Bali Pangi, 26, who is unemployed, from Odisha and Nagothi Banu, 24, a car driver from Visakhapatnam. Briefing mediapersons on the arrest, Rachakonda police commissioner Mahesh Bhagwat said that the gang poached animals by laying wires and traps in the forests of Chhattisgarh, Maharashtra, Odisha, Telangana, and AP. “They are aware of the tracks of wild animals moving frequently from the Sirpur Kagaznagar forests in Telangana, Tadoba in Maharashtra, Chhattisgarh forests and the forests located on the borders of Orissa and AP near Vishakhapatnam,” he said. The gang is proficient in skinning the animals without damaging the pelt and nails, as these have a high demand in the black market. Depending on demand, a leopard’s hide fetches `5 lakh and more, and that of a tiger up to `25 lakh, he said. SOT personnel apprehended the gang when it tried to sell the hide and claws of the leopard. They were handed over to LB Nagar police for action and a case registered against them under IPC section 429 and sections 9, 2 (16), 39, 49-B, 52, 56 and 57 of the Wild Life (Protection) Act, and were remanded to judicial custody. Police said that the gang confessed that they had killed several wild animals and sold their skins and other parts. “Investigation as revealed that the gang killed the leopard three months ago by laying a wire trap. It was a male leopard aged about two years. After skinning it, they contacted their sources in the city, naming a price for the hide,” said the police official.']
+
+
+Poachers----SUS.AFFIL
+
+kill----CRIME.CAT
+
+leopard----SP.COMMON
+
+skin----ITEM
+
+Leopard----SP.COMMON
+
+skin----ITEM
+
+claws----ITEM
+
+Monday----DATE
+
+SOT Malkajgiri team, Rachokanda----AUTH.SEIZE
+
+seized----CRIME.CAT
+
+four----SUS.NUMBER
+
+interstate poachers----SUS.AFFIL
+
+Three----SUS.NUMBER
+
+poachers----SUS.AFFIL
+
+Andhra Pradesh----SUS.LOC
+
+leopard----SP.COMMON
+
+hide----ITEM
+
+claws----ITEM
+
+Rachakonda special operations team (Malkajgiri)----AUTH.SEIZE
+
+LB Nagar----LOC.EXACT
+
+Monday----DATE
+
+leopard----SP.COMMON
+
+gang----SUS.AFFIL
+
+leopards----SP.COMMON
+
+tigers----SP.COMMON
+
+Basudev Masti----SUS.NAME
+
+23----SUS.AGE
+
+Jagannath Sisa----SUS.NAME
+
+19----SUS.AGE
+
+Bali Pangi----SUS.NAME
+
+26----SUS.AGE
+
+Odisha----SUS.LOC
+
+Nagothi Banu----SUS.NAME
+
+24----SUS.AGE
+
+Visakhapatnam----SUS.LOC
+
+`5 lakh----VALUE
+
+SOT----AUTH.SEIZE
+
+case registered----OUTCOME

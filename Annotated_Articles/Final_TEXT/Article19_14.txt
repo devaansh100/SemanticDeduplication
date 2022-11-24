@@ -1,0 +1,35 @@
+
+['Leopard found dead in Bolangir forest\nBolangir: Forest officials Tuesday morning recovered a carcass of a leopard near an explosives manufacturing unit inside a forest in Badamala area of Titlagarh in Bolangir district, informed forester Bhawani Swain. The leopard was found dead on the premises of an ordnance factory, he added. Though the exact reason behind the death of the animal is yet to be ascertained, it is suspected the leopard got caught in a trap laid for boar hunting and died two days ago. The incident came to light when some employees of the Ordnance factory spotted the carcass inside Kalakuta forest near Gate no-1 of the factory in the morning. Following information, the DFO, ACF and the Range Officer rushed to the spot for an investigation. The forest officials undertook a probe into the death of the big cat. The officials took the carcass to a veterinary hospital for post mortem. Talking to the media, forester of Badamal range, Bhabani Swain, said the cause of the death of the leopard will be known after the postmortem. This has spread resentment among animal lovers who demanded a strict probe and action against anyone found guilty of poaching. The matter comes in the wake of the death of Royal Bengal Tiger Mahavir in Satkosia due to poaching. It may be recalled here that, a leopard was seen roaming freely on a road in the locality during night recently, a video of which went viral on social media. Some youths photographed the leopard with their mobile phones and uploaded the pictures on social media. The pictures later went viral. Locals had demanded immediate steps to drive the animal into the wild. However, Divisional Forest Officer Samirkanta Satpathy said there is nothing to worry and that normalcy has been restored Similarly, another leopard was photographed sitting on a concrete structure carrying water pipes a few months back near a water supply project in Dumerbahal from which water is supplied to the ordnance factory. People saw the leopard sitting on the cement structure while going to Bolangir from Titilagarh. After a few minutes it vanished, locals said. Sources said there are around eight leopards in Titlagarh forest range. But there have been no attacks by them so far. It may be recalled here that a Royal Bengal Tigress was found dead in Debrigarh reserve forest in Bargarh last year which was later claimed to be the carcass of a leopard. PNN']
+
+
+Leopard----SP.COMMON
+
+found dead----CRIME.CAT
+
+Bolangir forest----LOC.EXACT
+
+Forest officials----AUTH.SEIZE
+
+Tuesday----DATE
+
+morning----TIME
+
+carcass----ITEM
+
+leopard----SP.COMMON
+
+Bolangir----LOC.DISTRICT
+
+leopard----SP.COMMON
+
+leopard----SP.COMMON
+
+Kalakuta forest near Gate no-1 of the factory----LOC.EXACT
+
+morning----TIME
+
+DFO----OFF.DESIG
+
+ACF----OFF.DESIG
+
+Range Officer----OFF.DESIG

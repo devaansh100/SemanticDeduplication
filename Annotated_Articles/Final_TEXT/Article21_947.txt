@@ -1,0 +1,57 @@
+
+['UP: STF arrests 2 with 80kg turtle calipee\nLUCKNOW: The special task force (STF) and wildlife crime control bureau (WCCB), in a joint operation in Sultanpur on Monday, seized 80 kg calipee (body parts) of fresh water turtles being smuggled allegedly to make aphrodisiacs.DySP, STF, Deepak Kumar Singh said that the calipees were of the Indian roofed turtle.The STF also arrested two people, Vinod and Jain Kumar, who are allegedly members of a gang involved in smuggling of protected animals. The accused have been booked under relevant sections of wildlife protection Act, 1972.The accused told police that the body parts of turtles were being smuggled to West Bengal on higher rates and were used to make aphrodisiac medicine.']
+
+
+UP----LOC.STATE
+
+STF----AUTH.SEIZE
+
+2----SUS.NUMBER
+
+80kg----QTY
+
+turtle----SP.COMMON
+
+calipee----ITEM
+
+LUCKNOW----LOC.CITY
+
+special task force----AUTH.SEIZE
+
+STF----AUTH.SEIZE
+
+wildlife crime control bureau----AUTH.SEIZE
+
+WCCB----AUTH.SEIZE
+
+Sultanpur----LOC.CITY
+
+Monday----DATE
+
+80 kg----QTY
+
+calipee----ITEM
+
+body parts----ITEM
+
+fresh water turtles----SP.COMMON
+
+calipees----ITEM
+
+Indian roofed turtle.The----SP.SPECIFIC
+
+two----SUS.NUMBER
+
+Vinod----SUS.NAME
+
+Jain Kumar----SUS.NAME
+
+gang----SUS.AFFIL
+
+smuggling----CRIME.CAT
+
+accused have been booked under relevant sections of wildlife protection Act, 1972.The accused told police that the----OUTCOME
+
+body parts----ITEM
+
+turtles----SP.COMMON

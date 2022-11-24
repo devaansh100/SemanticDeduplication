@@ -1,0 +1,25 @@
+
+['Dead lizard allegedly found in mid day meal, 25 students fall sick\nDead lizard allegedly found in mid day meal, 25 students fall sick At least 25 students of a government school in the outskirts of Ranchi fell sick after consuming mid day meal, in which a dead lizard was allegedly found, the school authorities said on Friday. The incident took place at Government Middle School in Silli block on Thursday afternoon and the students were admitted to a local community health center (CHC), the authorities said. They were released by Thursday night, a doctor who treated them said. The mid day meal was served to a total 92 students of classes 1 to 8 by the school. School headmaster Dilip Mahto said, “When dal (pulses) was being served some students had claimed that there was a dead lizard in the container. The distribution of dal was immediately stopped. There was no complaint of any health complications by the students when the school got over for the day.” After the students returned home around 25 of them were taken to the CHC by their parents with complaints of health problems by the evening, he said. Silli block education officer Sudama Mishra said three students had gone to the health center in the afternoon with complaints of nausea and vomiting and later few more students reached the hospital. When I reached the hospital in the evening there were 10 students there. They were alL released with precautionary medicines by night, he said. Mishra said he has called a meeting of the school management committee on Friday to investigate the matter. Action will be taken against those responsible if any negligence is established, he said. Police said no complaints were registered by any person in connection with the incident. Vivek Kumar, a general physician at the health center said students had arrived there with symptoms of vomiting, sore throat, stomach ache and nausea. However, there was no severity and they appeared frightened. “After administering some precautionary medicines and counseling, they became normal and were released from the hospital,” he said. Kumar said lizards have some chemicals in them that could disturb the digestive system. Also Read: WB govt tells schools to distribute Mid Day Meal supplies to guardians as summer vacation extended Posted in News']
+
+
+Dead----ITEM
+
+lizard----SP.COMMON
+
+25----SUS.NUMBER
+
+Dead lizard----SP.COMMON
+
+25----SUS.NUMBER
+
+dead----ITEM
+
+lizard----SP.COMMON
+
+Government Middle School in Silli block----LOC.EXACT
+
+Thursday----DATE
+
+afternoon----TIME
+
+92 students----SUS.NUMBER

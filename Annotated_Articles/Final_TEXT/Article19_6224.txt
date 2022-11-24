@@ -1,0 +1,77 @@
+
+['Women held in Gujarat for performing Garba holding three snakes including cobra\nBy PTI JUNAGADH: Two women and a girl were held along with two others after a video showed them performing garba dance with snakes in their hands in Junagadh district of Gujarat, a forest department official said on Saturday. All of them were booked under the Wildlife (Protection) Act and held on Thursday, the official said. "The video that has gone viral on social media shows the two women and the girl holding a cobra and two non- venomous snakes while performing traditional garba dance during the recently-concluded Navratri festival," Deputy Conservator of Forests, Junagadh, Sunil Berwal, said. The event was held on October 6 at Shil village in Junagadh district, he said. "After the video was brought to our notice, we probed the incident. We booked five persons, including two women and a girl. The other two are the organiser of the event and supplier of snakes. All of them were arrested on Thursday," Berwal said. They were produced before a local court, which granted them bail, he added. According to him, the probe revealed that the cobra had been defanged, while the other two snakes were non-venomous. JUNAGADH: Two women and a girl were held along with two others after a video showed them performing garba dance with snakes in their hands in Junagadh district of Gujarat, a forest department official said on Saturday. All of them were booked under the Wildlife (Protection) Act and held on Thursday, the official said. "The video that has gone viral on social media shows the two women and the girl holding a cobra and two non- venomous snakes while performing traditional garba dance during the recently-concluded Navratri festival," Deputy Conservator of Forests, Junagadh, Sunil Berwal, said. The event was held on October 6 at Shil village in Junagadh district, he said. "After the video was brought to our notice, we probed the incident. We booked five persons, including two women and a girl. The other two are the organiser of the event and supplier of snakes. All of them were arrested on Thursday," Berwal said. They were produced before a local court, which granted them bail, he added. According to him, the probe revealed that the cobra had been defanged, while the other two snakes were non-venomous.']
+
+
+Women----SUS.GENDER
+
+Gujarat----LOC.STATE
+
+Garba----SUS.NAME
+
+three----QTY
+
+snakes----SP.COMMON
+
+cobra----SP.COMMON
+
+Two----SUS.NUMBER
+
+women----SUS.GENDER
+
+girl----SUS.GENDER
+
+garba dance----CRIME.CAT
+
+snakes----SP.COMMON
+
+Junagadh----LOC.DISTRICT
+
+Gujarat----LOC.STATE
+
+booked under the Wildlife (Protection) Act----OUTCOME
+
+women----SUS.GENDER
+
+girl----SUS.GENDER
+
+a----QTY
+
+cobra----SP.COMMON
+
+two----QTY
+
+October 6----DATE
+
+Shil village in Junagadh district----LOC.EXACT
+
+five----SUS.NUMBER
+
+women----SUS.GENDER
+
+girl----SUS.GENDER
+
+Two----SUS.NUMBER
+
+women----SUS.GENDER
+
+girl----SUS.GENDER
+
+Junagadh----LOC.DISTRICT
+
+Gujarat----LOC.STATE
+
+booked under the Wildlife (Protection) Act----OUTCOME
+
+women----SUS.GENDER
+
+girl----SUS.GENDER
+
+a----QTY
+
+cobra----SP.COMMON
+
+October 6----DATE
+
+Shil village in Junagadh district----LOC.EXACT
+
+five----SUS.NUMBER

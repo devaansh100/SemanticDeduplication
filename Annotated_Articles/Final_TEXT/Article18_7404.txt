@@ -1,0 +1,13 @@
+
+['Bird flu scare: Don’t panic, containment measures have been taken, say officials\nPUNE After 100 chickens died in the wake of the bird flu scare in Thane, officials have noted that consumers should not panic. After the incident over 25,000 birds falling in a kilometre radius of an affected poultry farm in Thane were culled. According to animal husbandry department, samples have been sent to National Institute of High Security Animal Diseases Laboratory in Bhopal for testing on February 14. “The results of these samples have been received at late night hours of February 16, from the laboratory, stating the samples from Shahapur have been found positive for H5N1 strain,” said officials. Speaking about the fear of bird flu, Vasantkumar Shetty, president of Poultry Farmers and Breeders Association of Maharashtra, said that there is nothing to worry about as the spread of the virus is limited. “As per media reports, the bird flu cases have been detected in the Thane district of Maharashtra following the death of at least 100 birds at a poultry farm in Shahapur. The infection is only limited to a particular area. There is nothing to worry about. About a month back, Kerala also reported a few cases of bird flu. During this time, at different water points, migratory birds come and such incidents are reported. Consumers should be reassured now that 25,000 birds will be destroyed,” said Shetty. SP Singh, commissioner, animal husbandry, said that containment measures have been taken. “The epicentre of the infected zone has been contained. Over 23,000 birds were culled till early morning on Friday. The radius of one to ten kilometres is now the protection zone. The infection is localised. We have been on alert since November end as migratory birds come in this time. We have coordinated and organised an online meeting to make sure that proactive measures are taken,” said Singh. Shetty added that the food prepared should be cooked well. “Our chicken-eating style is different from other countries, in which we cook chicken at above 70 degrees Celsius hence there is no chance of survival of any pathogen in chicken. Indian cooking style is to cook food very well and so consumers are safe. The spread of the virus is also contained. Hence, we suggest to consumers that they need not be worried about infection. They can consume cooked chicken and eggs without any hesitation,” said Shetty.']
+
+
+samples have been sent to----OUTCOME
+
+National Institute of High Security Animal Diseases Laboratory in Bhopal----AUTH.MISC
+
+February 14----DATE
+
+February 16----DATE
+
+Friday----DATE

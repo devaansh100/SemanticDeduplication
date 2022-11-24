@@ -1,0 +1,61 @@
+
+['Wildlife smuggling racket busted in Odisha’s Dhenkanal; 3 poachers held\nDhenkanal: A wildlife smuggling racket was busted in Kapilash forest range with arrest of 3 poachers and seizure of huge quantity of wildlife products, Dhenkanal DFO informed today. Three poachers, who were arrested by the forest officials, have been identified as Lakshmidhar Murmu, Lakshman Soren and Kadu Kisku — all are residents of Kolha village under Gandia police limits in Dhenkanal district. The forest officials seized wildlife products including six deer antlers, a turtle shell as well hunting articles including a country-made gun, bow and arrows and a metal trap used to catch animals from possession of three poachers. According to reports, the trio was caught by the forest officials during raid at compartment-12 of Kapilash Wildlife Sanctuary.']
+
+
+smuggling racket----SUS.AFFIL
+
+Odisha’s----LOC.STATE
+
+Dhenkanal----LOC.DISTRICT
+
+3----SUS.NUMBER
+
+poachers----SUS.AFFIL
+
+smuggling racket----SUS.AFFIL
+
+Kapilash forest----LOC.EXACT
+
+3----SUS.NUMBER
+
+poachers----SUS.AFFIL
+
+DFO----AUTH.SEIZE
+
+today.----DATE
+
+Three----SUS.NUMBER
+
+poachers----SUS.AFFIL
+
+Lakshmidhar Murmu----SUS.NAME
+
+Lakshman Soren----SUS.NAME
+
+Kadu Kisku----SUS.NAME
+
+Kolha village----SUS.LOC
+
+Dhenkanal----SUS.LOC
+
+six----QTY
+
+deer----SP.COMMON
+
+antlers----ITEM
+
+a----QTY
+
+turtle shell----ITEM
+
+country-made gun----ITEM
+
+bow and arrows----ITEM
+
+metal trap----ITEM
+
+three----QTY
+
+poachers----SUS.AFFIL
+
+forest officials----AUTH.SEIZE

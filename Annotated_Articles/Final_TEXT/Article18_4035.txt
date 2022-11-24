@@ -1,0 +1,27 @@
+
+['Activists Fume Over Alleged Poisoning Of Three Stray Dogs\nLUCKNOW: In yet another incident of conflict between locals and stray dogs, three street canines were allegedly poisoned and found dead near Vidhayak Niwas Colony in Hazratganj on Thursday.The matter came to the fore when a video went viral in which Lucknow Municipal Corporation employees were seen inhumanely poking sharp bended iron rods into the mouth of the carcass while flinging it into the van.Reacting to the viral video, activists and animal lovers raised concern over the employees\' inhumane behavior and questioned the LMC for not probing the death of these dogs.Animal activist Kamna Pandey, a former member of Animal Welfare Board of India, said, "It was LMC\'s duty to find out the cause of death, which seemed unnatural. LMC should have also filed an FIR in the matter."She further questioned that since LMC has not followed the due procedure, why should LMC and chief veterinary officer not be held responsible for the destruction of evidence in what appears to be the case of criminal offense.Another activist, Prena Mishra, who lives in Gomtinagar, said that this is not a lone incident, cruelty against stray dogs is on the rise recently. "On Tuesday, a man was caught throwing stones at dogs living in my area. He also broke utensils for feeding dogs and started abusing us when we objected," she told TOI.Meanwhile, cases of stray dog bites are also being reported across the city.On Wednesday, a nine-year-old boy was attacked by a pack of dogs in Maulviganj. Corporator Mukesh Singh said that after his complaint, teams had come and took the stray dogs for sterilization on Thursday. On April 7, a five-year-old boy was mauled to death by dogs in Thakurganj.Chief veterinary officer Dr Arvind Rao said, "We have issued a strict warning to employees who have been seen in the video. Besides, there was no complaint saying that the dogs\' death was unnatural, so bodies were not sent for postmortem."']
+
+
+Poisoning----CRIME.CAT
+
+Three----QTY
+
+LUCKNOW----LOC.CITY
+
+three----QTY
+
+street canines----SP.COMMON
+
+poisoned and found dead----CRIME.CAT
+
+Vidhayak Niwas Colony----LOC.EXACT
+
+Thursday.The----DATE
+
+Lucknow Municipal Corporation employees----AUTH.SEIZE
+
+Wednesday----DATE
+
+nine-year-old----SUS.AGE
+
+boy----SUS.GENDER

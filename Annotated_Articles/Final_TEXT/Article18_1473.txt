@@ -1,0 +1,51 @@
+
+['Gauhati HC Rejects Bail to Notorious Smuggler Rahul Naresh Bafna, Assam Kingpin Abdur Rashid Sheikh Arrested in Connection With Smuggling Exotic Wild Animals\nJune 18, 2022: A Bench of the Gauhati High Court headed by Justice Ajit Borthakur have denied bail to notorious smuggler Rahul Naresh Bafna and Assam kingpin Abdur Rashid Sheikh. Bafna and Rashid were arrested for smuggling exotic animals and were found in possession of one wallaby and five monkey/macaques. Bafna, who hails from Pune, was arrested in April this year when he along with Sheikh was transporting the animals in six cages at the Amdolapar-Dampur Road, Hajo in Assam. Sheikh had then managed to flee but was arrested couple of days back. Both Bafna and Sheikh are part of a larger international wild animal smuggling racket. “Often these notorious smugglers who deal in the smuggling of exotic animals get away citing that the declarations of the Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES), to which India is a signatory, has not been incorporated in the Wild Life (Protection) Act to include the exotic animals and in this case the exotic species of monkeys caught are not specified in the list of protected wild animals in the six schedules of the said Act, therefore, the accused have not violated any law and they go scot free. They easily get away. But the Honourable Supreme Court has said that the CITES is binding in India too,” Additional Advocate General Parangam Goswami, who fought against the bail pleas of the two accused said. Vehemently opposing the bail application, Additional Advocate General Goswami said accused Bafna has categorically admitted in his statement that he has been dealing in the trade of illegal wild animals and has been involved in the smuggling of these animals in association with one Asif Sheikh of Hyderabad, who is said to be the kingpin of the racket. Additional Advocate General Goswami further submitted before the Bench, “as per Section 50(9) of the W.L.P. Act any evidence recorded under Section 50(8) shall be admissible in trial before the Magistrate and therefore, the aforesaid admission of the accused in his statement is an admissible evidence.” The smugglers often use the route from Myanmar to Mizoram and then via Assam they carry on their illegal trade in different parts of India and abroad.']
+
+
+Gauhati HC----AUTH.SEIZE
+
+Rahul Naresh Bafna----SUS.NAME
+
+Assam Kingpin----SUS.AFFIL
+
+Abdur Rashid Sheikh----SUS.NAME
+
+Arrested----CRIME.CAT
+
+Smuggling----CRIME.CAT
+
+June 18, 2022----DATE
+
+Gauhati High Court----AUTH.SEIZE
+
+Justice----OFF.DESIG
+
+Ajit Borthakur----OFF.NAME
+
+notorious smuggler----SUS.AFFIL
+
+Rahul Naresh Bafna----SUS.NAME
+
+Assam kingpin----SUS.AFFIL
+
+Abdur Rashid Sheikh----SUS.NAME
+
+arrested----CRIME.CAT
+
+smuggling exotic animals----CRIME.CAT
+
+possession----CRIME.CAT
+
+one----QTY
+
+wallaby----SP.COMMON
+
+five----QTY
+
+monkey/macaques----SP.SPECIFIC
+
+Pune----SUS.LOC
+
+Bafna----SUS.NAME
+
+Asif Sheikh----SUS.NAME

@@ -1,0 +1,21 @@
+
+['Watch: All this ‘law-abiding’ bear wants is a day in the park\nSighting a bear in the middle of a busy city full of people sounds impossible, but that is exactly what happened in Asheville, a city in the US state of North Carolina. On Friday, the Asheville Police Department shared a Facebook post with a video of a black bear strolling through downtown Asheville. In the short clip, one can see the beast walking by leisurely, unperturbed by the crowd. The bear manages to cross the road and is also seen climbing a tree as onlookers watch in awe. Sharing the video, the police department wrote, “APD officers responded to an unusual call Thursday afternoon of a bear milling around downtown and then eventually climbing a tree in the Pritchard Park area. The black bear, wearing a Wildlife enforcement tracking collar, seemed to want a day in the park, where lots of people were enjoying their day downtown. Officers wanted to help get the bear safely out of the area by helping give the bear space to mosey along.” It added: “At one point the bear even crossed the street by using the crosswalk. Although officers appreciated the law-abiding bear, it was important to get the bear back to a wooded area for safety. This is the third incident APD officers have assisted in getting bears out of the downtown area in the past three weeks. Always be aware of your surroundings. We recommend following the recommendations listed on bearwise.org.” Last year, a black bear was seen wandering around a supermarket in Los Angeles before it was tranquillized by the authorities and taken to the Angeles National Forest. Something similar happened in India in February this year when a bear and two of its cubs invaded a wedding reception in Chhattisgarh’s Kanker district. Advertisement Though incidents related to ‘runaway wild animals’ are often popular on social media, they point to the larger problem of loss of habitat of these animals which forces them to wander into residential areas in search of sustenance.']
+
+
+Asheville----LOC.CITY
+
+North Carolina----LOC.STATE
+
+Friday----DATE
+
+Asheville Police Department----AUTH.SEIZE
+
+Facebook post----DETECTION_METHOD
+
+black bear----SP.SPECIFIC
+
+Thursday afternoon----DATE
+
+bear----SP.COMMON
+
+black bear----SP.SPECIFIC

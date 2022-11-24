@@ -1,0 +1,51 @@
+
+['Two Gangetic dolphins found dead in Assam\nGuwahati, September 3 (PTI): The carcasses of two Gangetic dolphins, suspected to have been killed by poachers, have been recovered from Kamrup Rural district in Assam, a forest official said on Friday. The dead aquatic mammals, 1.09 metres and 1.18 metres in length respectively, were found at Salpara under Kamrup West Division on Thursday. Divisional Forest Officer, Kamrup West Division, Dimpi Bora said it is suspected that the dolphins may have been hunted by miscreants which is an offence under the Wildlife (Protection) Act, 1972. An offence report has been lodged with the Nagarbera Range Office, the DFO said. Dolphins, included in Schedule 1 of the Wildlife (Protection) Act, 1972, are frequently targeted by poachers for their skin and oil. Assistant Conservator of Forests of the Division Uttam Basumatary was appointed as the inquiry officer and the seizure list was prepared as per the procedure. The dead dolphins were brought to the State Veterinary Dispensary at Boko for post-mortem examination which was conducted by Dr. Hiranmayee Hazarika in the presence of Chief Wildlife Warden M K Yadava, Chief Conservator of Forests, Central Assam Circle, Hemakanta Talukdar, and others. Samples of blood and organs of the dolphins have been sent to the State Veterinary College, Forensic Laboratory, Guwahati, and North East Disease Digenetic Research Laboratory for ascertaining the exact cause of death. The samples have also been sent to Wildlife Institute of India, Dehradun, for genetic analysis and toxicological study. The DFO said since the carcasses had started decomposing, the remains were buried in the presence of an authorised officer with proper documentation of the proceedings. In a submission to the Chief Judicial Magistrate, Kamrup, Bora said an investigation is underway and the report will be placed before the court in due course. ']
+
+
+Two----QTY
+
+Gangetic dolphins----SP.SPECIFIC
+
+found dead----CRIME.CAT
+
+Assam----LOC.STATE
+
+carcasses----ITEM
+
+Gangetic dolphins----SP.SPECIFIC
+
+poachers----SUS.AFFIL
+
+Kamrup Rural district----LOC.DISTRICT
+
+Assam----LOC.STATE
+
+aquatic mammals----SP.COMMON
+
+Salpara----LOC.EXACT
+
+Thursday----DATE
+
+hunted----CRIME.CAT
+
+Assistant Conservator of Forests of the Division----OFF.DESIG
+
+Uttam Basumatary----OFF.NAME
+
+Hiranmayee Hazarika----OFF.NAME
+
+Chief Wildlife Warden----OFF.DESIG
+
+M K Yadava----OFF.NAME
+
+Chief Conservator of Forests, Central Assam Circle----OFF.DESIG
+
+Hemakanta Talukdar----OFF.NAME
+
+Samples of blood and organs of the dolphins----OUTCOME
+
+State Veterinary College, Forensic Laboratory, Guwahati----AUTH.MISC
+
+North East Disease Digenetic Research Laboratory----AUTH.MISC
+
+genetic analysis and toxicological study----OUTCOME

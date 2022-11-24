@@ -1,0 +1,53 @@
+
+['Four men arrested for hunting spotted deer\nCoimbatore: Forest department officials arrested four people for hunting a spotted deer at Nellimalai reserve forest in Mettupalayam forest range on Wednesday.The arrested were identified as M Nagalingam, 64, of Selvapura near Jothipuram, P Selvaraj, 52, of Samayapuram village, K Palanisamy 41, of Rajiv Nagar in Thekkampatti village and P Mani, 43, of Gandhi Nagar near Thekkampatti village.They placed a snare inside the reserve forest area and caught a spotted deer on Wednesday. They later killed the deer and cooked the meat.Mettupalayam forest range officer Palaniraja and team raided the houses and seized the snare and cooked meat. The four were booked under sections 9 and 51 of the Wildlife Protection Act, 1972 and sections 21(d), (h) and 21 (2) of the Tamil Nadu Forest Act, 1882. They were produced before the Mettupalayam judicial magistrate court on Thursday morning and lodged at Avinashi sub-jail in Tirupur.']
+
+
+Four----SUS.NUMBER
+
+men----SUS.GENDER
+
+arrested----CRIME.CAT
+
+spotted deer----SP.SPECIFIC
+
+Forest department officials----AUTH.SEIZE
+
+four----SUS.NUMBER
+
+spotted deer----SP.SPECIFIC
+
+Nellimalai reserve forest in Mettupalayam forest range----LOC.EXACT
+
+Wednesday.The----DATE
+
+M Nagalingam----SUS.NAME
+
+64----SUS.AGE
+
+Selvapura near Jothipuram----SUS.LOC
+
+P Selvaraj----SUS.NAME
+
+52----SUS.AGE
+
+Samayapuram village----SUS.LOC
+
+K Palanisamy----SUS.NAME
+
+41----SUS.AGE
+
+Rajiv Nagar in Thekkampatti village----SUS.LOC
+
+P Mani----SUS.NAME
+
+43----SUS.AGE
+
+Gandhi Nagar near Thekkampatti village.They----SUS.LOC
+
+spotted deer----SP.SPECIFIC
+
+Wednesday----DATE
+
+Palaniraja----OFF.NAME
+
+booked under sections 9 and 51 of the Wildlife Protection Act, 1972 and sections 21(d), (h) and 21 (2) of the Tamil Nadu Forest Act, 1882----OUTCOME

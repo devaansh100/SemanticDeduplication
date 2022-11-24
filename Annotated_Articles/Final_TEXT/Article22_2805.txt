@@ -1,0 +1,7 @@
+
+['Viral Video: Leopard attacks python, gets people scared\nFeb 22, 2022, 11:35PM IST Source: TOI.in Leopards are agile and vary smart in hunting. A video is viral on social media. In the video, a leopard attacked a python. The way he hunts the python left the people scared.']
+
+
+Leopard----SP.COMMON
+
+python----SP.COMMON

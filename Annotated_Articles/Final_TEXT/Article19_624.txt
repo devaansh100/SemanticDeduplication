@@ -1,0 +1,29 @@
+
+["Bengal: Elephants enter human locality, crane used to remove them after tranquilisation\nBengal: Elephants enter human locality, crane used to remove them after tranquilisation Two elephants who had got separated from their herd and entered into a human locality near a village in Bengal's Howrah district were tranquilised by the forest department officials after the locals informed the department. The two elephants were later lifted into a lorry with the help of a crane. Elephants are known to create chaos and mayhem if they are left alone from their herd. Especially in places like Midnapur, Jalpaiguri, Malbajar, Siliguri, the locals have become fed up due to the destruction caused by the elephants. Recently, two elephants who were left behind were seen in Howrah's Jagatballavpur region by the officials of the forest department. It was later found that the two elephants who lost their way had entered a village after they crossed the Damodar river and people witnessed them destroying a farming field. After the two elephants were seen in a farming field, the locals had informed the forest department and police officials. It is also being said that the same two elephants were seen in the Jaipur police station region where they were later tranquilised and put into the unconscious state. However, since it had already become dark, it was difficult for them to be lifted into a lorry. Bengal: Elephants enter human locality, crane used to remove them after tranquilisation  Read here- https://t.co/jnsdbmzBye pic.twitter.com/rTudbarKfw — DNA (@dna) February 13, 2019 It was early on Wednesday morning when the two elephants were lifted to a lorry with the help of a crane and were sent towards western Midnapur. The task was performed in the presence of forest department officials and locals who also helped in getting elephants lifted into the lorry. In some parts of the country, people who reside in areas which are close to the forest remain in constant fear of being attacked by elephants or getting their belongings destroyed by them and have to always remain alert in case they witness elephants getting left alone from their herd."]
+
+
+Bengal----LOC.STATE
+
+Elephants----SP.COMMON
+
+crane----TRANSPORT_MODE
+
+Elephants----SP.COMMON
+
+crane----TRANSPORT_MODE
+
+elephants----SP.COMMON
+
+Howrah district----LOC.DISTRICT
+
+tranquilised----CRIME.CAT
+
+forest department officials----AUTH.SEIZE
+
+early----TIME
+
+Wednesday----DATE
+
+morning----TIME
+
+forest department----AUTH.SEIZE

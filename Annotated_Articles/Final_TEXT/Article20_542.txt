@@ -1,0 +1,47 @@
+
+['Wildlife trafficking racket busted: Pangolin rescued, two nabbed\nDhenkanal: Amidst increasing cases of poaching, tiger and deer skin smuggling and wildlife trafficking, Dhenkanal forest department busted a wildlife trafficking racket, rescued a pangolin and arrested two smugglers for their involvement Tuesday. Fast disappearing pangolin, also known as scaly anteater, is coveted for its scales. In order to save this species from extinction, it has been kept in schedule I species under Wildlife Protection Act, 1972. The species is also considered as endangered species under the International Union for Conservation of Nature and Natural Resources (IUCN). Acting on a tip-off that a pangolin captured from Kapilas reserve forest was to be smuggled to Khurda district, the forest officials conducted a raid and arrested the duo from Kapilas reserve forest. However, two others managed to show them clean pairs of shoes. The accused have been identified as Ghanashyama Behera (21), a resident of Gadahaladia village and Jitendra Pradhan (45) of Badatola village under Jatni police limits in Khurda district. Since allegations of pangolin smuggling and poaching have recently increased in Kapilas reserve forest, an 18-member team has been formed under the supervision of the district divisional forest officer (DFO) Prakash Chand Gogineni. The same team had conducted the raid. During interrogation, the accused revealed that they were to sell the animal for Rs 40 lakh. DFO Goineni said their efforts are on to trace out other members in the racket. “Help of Odisha Crime Branch and Khurda DFO will be sought in this regard,” he added. PNN']
+
+
+Pangolin----SP.COMMON
+
+two----SUS.NUMBER
+
+Dhenkanal----LOC.DISTRICT
+
+Dhenkanal forest department----AUTH.SEIZE
+
+rescued----CRIME.CAT
+
+a----QTY
+
+pangolin----SP.COMMON
+
+arrested----CRIME.CAT
+
+two----SUS.NUMBER
+
+Tuesday----DATE
+
+tip-off----DETECTION_METHOD
+
+pangolin----SP.COMMON
+
+Khurda district----ROUTE.DEST
+
+forest officials----AUTH.SEIZE
+
+duo----SUS.NUMBER
+
+Kapilas reserve forest----LOC.EXACT
+
+Ghanashyama Behera----SUS.NAME
+
+21----SUS.AGE
+
+Gadahaladia village----SUS.LOC
+
+Jitendra Pradhan----SUS.NAME
+
+45----SUS.AGE
+
+Badatola village----SUS.LOC

@@ -1,0 +1,27 @@
+
+['Uttarakhand: A tigress with her two cubs was spotted near a railway crossing in Rudrapur.\nTiger sightings are common in Uttarakhand. Tigers in residential areas every day (Tigers spotted) Or the news of seeing a guldar keeps coming. The latest incident is Rudrapur (Udham Singh Nagar district) in Uttarakhand.Rudrapur) Located on Haldwani Road near Rail Crossing. Where a tiger was seen late Monday night around 11:30. The special thing was that the tigress was not alone, she had two cubs (wild animal offspring). After seeing two cubs with the tiger, the forest department has also started searching for them. There is panic in the area after seeing a tigress and her two cubs near Chhatrapur Railgate No. 106 in Rudrapur. In fact, Sukhdev, the gateman of Chhatarpur 107 Gate, was seen walking with his two children around 11:30 pm on Monday. We tell you that tiger sightings are not a new thing in Uttarakhand, tigers are seen here every day, but after seeing two cubs with tigers, the forest department is also trying to find them. While on duty, Getman Sukhdev captured the tiger and his two cubs on his mobile phone camera and made it viral on the railway’s WhatsApp group. There is panic in the area about the tigress and her two cubs. The forest department is working to find the tigress and her two cubs After the pictures and news went viral, the Forest Department team started talking to doorman Sukhdev and started searching for the tiger and her two cubs. Forest officials said the tiger and her two cubs would be found soon. Here recently, an atmosphere of panic and panic has been created among the villagers after two people were killed in a tiger attack on May 13 and 25 in Khatima and Jhaparsa villages on the outskirts of Bagulia in Kumaon, adjacent to Surai forest. It has become difficult for the villagers to leave their homes and go to work. At the same time, the forest department is patrolling the area day and night. The location of the tiger is being investigated with the help of drone cameras and camera traps by setting up cages at the two sites. But even then the forest department could not catch the tiger. Extreme panic has prevailed among the villagers since the death of the two villagers. Many families have fled their homes. At the same time, the children are not going to school in the government primary school located next to the incident. Angered by the tiger’s panic and panic, villagers say the tiger has become a man-eater and there has been panic in the area since the incident.']
+
+
+tigress----SP.COMMON
+
+Rudrapur----LOC.DISTRICT
+
+Rudrapur (Udham Singh Nagar district----LOC.CITY
+
+Haldwani Road near Rail Crossing.----LOC.EXACT
+
+tiger----SP.COMMON
+
+Monday----DATE
+
+night----TIME
+
+11:30----TIME
+
+searching----DETECTION_METHOD
+
+11:30 pm----TIME
+
+Monday----DATE
+
+Getman Sukhdev----OFF.NAME

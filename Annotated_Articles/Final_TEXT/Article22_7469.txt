@@ -1,0 +1,21 @@
+
+['Florida man searching lake for Frisbees killed by alligator\nThe mutilated body of a man killed by an alligator was found at the edge of a Florida lake the victim was known for wading into, despite posted warnings, to collect lost Frisbees to re-sell them, officials said on Wednesday. The man, identified as Sean Thomas McGuinness, 47, and described by police as a transient, became the first human alligator fatality documented in Florida since 2019, said Paul Cozzie, Pinellas County director of parks and conservation resources. The man\'s corpse, with one arm ripped off, was discovered on Tuesday morning by a person walking a dog along the shoreline of 53-acre (21.5-hectare) reservoir in John S. Taylor Park in Largo, Florida, a Tampa Bay-area community about 15 miles (24 km) northwest of St. Petersburg. Although the medical examiner has yet to determine an official cause of death, Cozzie said there was little doubt how McGuinness met his fate, and that wildlife trappers had already removed two alligators deemed to be possible culprits. "At this time, detectives believe the victim was looking for Frisbees in the water, and a gator is believed to be involved in the death," the Largo Police Department said in a statement. It said he was found within a few feet of a disc in the water. Cozzie said the man was known to frequent the park and wade into the lake, in defiance of "no-swimming" signs, in order to retrieve Frisbees lost from an adjacent disc-golf course, then sell them to park visitors "as a way to keep a few dollars in his pocket." McGuinness had been warned by park rangers previously to stay out of the lake, and was threatened with trespassing citations on at least two occasions in April, Cozzie said. Another man doing the same thing was bitten in the face by an alligator a couple of years ago but survived, he said. In the latest instance, McGuinness apparently entered the water around dawn, which Cozzie described as "prime time" for alligator activity. The attack also occurred in the midst of mating season for the reptiles, during which male alligators are more territorial and aggressive than normal, Cozzie said. McGuinness acknowledged that proximity of the disc-golf course to the edge of the lake might be an issue, in that one of the basket "holes" on the course was located within 50 feet (15 meters) of the water. (This story has not been edited by Devdiscourse staff and is auto-generated from a syndicated feed.)']
+
+
+Florida----LOC.STATE
+
+man----SUS.GENDER
+
+Frisbees----SP.COMMON
+
+alligator----SP.SPECIFIC
+
+Frisbees----SP.COMMON
+
+Sean Thomas McGuinness----SUS.NAME
+
+47----SUS.AGE
+
+Tuesday----DATE
+
+morning----TIME

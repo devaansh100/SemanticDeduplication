@@ -1,0 +1,37 @@
+
+['Redsanders logs worth ₹50 lakh seized\nSix persons nabbed, produced in court Six persons nabbed, produced in court The Andhra Pradesh State Redsanders Anti-smuggling Task Force teams on Monday seized redsanders logs worth ₹50 lakh and three cars, and nabbed six persons after a long chase from Chandragiri near Tirupati to Kolar in Karnataka. According to the task force officials, acting on a tip-off that a group of smuggling operatives were getting ready to transport the contraband material from the foothills of Tirumala near Chandragiri towards Karnataka, special teams were sent to scan the vulnerable stretch of A. Rangampeta-Ithepalle road, connecting to the NH towards Kolar in Karnataka. In the early hours, the task force spotted three cars moving on the road. Sighting the combing party, two cars fled the spot, after gaining access to the NH from the rural road, abandoning a car near Ithepalle. The teams chased the vehicles up to Kolar, when one of the vehicles carrying the logs got punctured near Nerlahalli village in Karnataka. The teams could intercept both vehicles, including the one operating as a pilot. Six youth, including four from Karnataka and two from Chandragiri mandal of Chittoor district, were nabbed. The seized logs and vehicles were brought to the task force office in Tirupati. The accused were produced in the local court, and were remanded. Two from T.N. held In another incident, the forest officials of Chittoor west division nabbed two red sanders operatives from Tamil Nadu and seized logs worth about ₹50 lakh, and a mini lorry carrying them. According to Forest Range Officer (Punganur) Balakrishna Reddy, the forest guards spotted the mini lorry carrying about 50 persons and moving towards Karnataka in the early hours. The vehicle was intercepted at Jendaman Cross junction near Piler. While a large number of operatives fled the spot into the roadside thickets, two from Tamil Nadu were nabbed. A case was registered and further investigation is on. Meanwhile, the task force officials nabbed two operatives from Tamil Nadu at Nagapatla beat when they were spotted crossing to the Seshachalam hills near Chandragiri. Seeing the combing party, several operatives fled the scene. The police seized several axes and provisions meant for camping in the forests during their errands.']
+
+
+Redsanders----SP.COMMON
+
+logs----ITEM
+
+seized----CRIME.CAT
+
+Six----SUS.NUMBER
+
+nabbed----CRIME.CAT
+
+Anti-smuggling Task Force----AUTH.SEIZE
+
+Monday----DATE
+
+seized----CRIME.CAT
+
+redsanders----SP.COMMON
+
+logs----ITEM
+
+three cars----ITEM
+
+Chandragiri----LOC.EXACT
+
+a tip-off----DETECTION_METHOD
+
+Six----SUS.NUMBER
+
+Karnataka----SUS.LOC
+
+Chandragiri----SUS.LOC
+
+The accused were produced in the local court, and were remanded----OUTCOME

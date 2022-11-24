@@ -1,0 +1,33 @@
+
+['Leopard killed in Maharashtra’s Palghar by speeding car, driver held\nA five-year-old male leopard was killed after being hit by a speeding car on the Mumbai-Ahmedabad National Highway in Maharashtra’s Palghar district on Tuesday night, forest department officials said on Wednesday. Harikumar Jagjivandas Prajapati, a resident of Sanjan in Gujarat, was going to the Mahalaxmi Temple in Dahanu with his wife and their son in his Maruti Dzire car when it collided with the leopard near Gotipada village in Udhwa of Talasari area, leading to its instant death, range forest officer (RFO) of Udhva Reshma Varkate said. Prajapati has been arrested by the forest department in Dahanu division and wife and his son, who were injured in the accident, were taken to a hospital. “We have arrested Prajapati under Sections 9 and 36 of the Wildlife Protection Act,1972 and will produce him before the Dahanu court on Thursday,” Varkate said. Varkate said locals contacted Dhawal Kansara, an animal rights activist, who reached the accident spot. “Kansara informed us and we reached the spot,” she said. The leopard was hit on the right shoulder and may have died due to a cardiac arrest due to trauma. “We have sent the leopard’s body for a postmortem at the Sanjay Gandhi National Park (SGNP) Borivali and the report is awaited,” she said. She said the spot is an active leopard crossing area and that the department had put up signboards on the highway cautioning motorists to go slow and be alert for the animals crossing the highway in search of prey. “But motorists ignore the warnings and continue to speed up on the highway, resulting in such deaths,” said Varkate. Maharashtra saw the second-most leopard deaths (90) in the country in 2018, according to the year-end data collated by a Delhi-based wildlife group, Wildlife Protection Society of India (WPSI). There are 12,000 to 14,000 leopards across India, according to a 2016 census and the animal is listed as a schedule 1 species. At 460, India saw most leopard deaths in the past five years in 2018. WPSI said the rise in deaths can be attributed to growing conflicts and accidents as a result of linear infrastructure projects. The group collates data from their field representatives and different state forests departments.']
+
+
+Leopard----SP.COMMON
+
+killed----CRIME.CAT
+
+Maharashtra’s----LOC.STATE
+
+Palghar----LOC.DISTRICT
+
+leopard----SP.COMMON
+
+Palghar----LOC.DISTRICT
+
+Tuesday----DATE
+
+night----TIME
+
+Harikumar Jagjivandas Prajapati----SUS.NAME
+
+Sanjan----SUS.LOC
+
+leopard----SP.COMMON
+
+Gotipada village in Udhwa of Talasari area----LOC.EXACT
+
+arrested----OUTCOME
+
+forest department in Dahanu division----AUTH.SEIZE
+
+arrested----OUTCOME

@@ -1,0 +1,13 @@
+
+["Man shares pics of 'dead lizard in cold drink' at Ahmedabad McDonald's, outlet sealed\nA man took to Twitter alleging that he found a dead lizard in his cold drink served by a McDonald's outlet in Ahmedabad. Taking cognisance of his complaint, Amdavad Municipal Corporation Food Safety Officer Devang Patel collected cold drink samples from the outlet and sealed the restaurant with immediate effect. Meanwhile, McDonald's said it was looking into the incident. Apaar Sharma / 05:33 pm on short byon"]
+
+
+lizard----SP.COMMON
+
+McDonald's----LOC.EXACT
+
+lizard----SP.COMMON
+
+Amdavad Municipal Corporation Food Safety Officer----AUTH.SEIZE
+
+Devang Patel----OFF.NAME

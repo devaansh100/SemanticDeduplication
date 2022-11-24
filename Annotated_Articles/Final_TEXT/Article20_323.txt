@@ -1,0 +1,71 @@
+
+['Sambhar poaching in TATR, 10 arrested\nCHANDRAPUR: Rangers of Mul buffer range have arrested 10 people for poaching of a sambhar in the buffer zone of Tadoba Andhari Tiger Reserve on Monday. Officials claimed that eight more accused are absconding.Sources informed that a group of villagers from Fulzari village in the buffer zone had gone into the forest for fishing with their trained dogs on Sunday afternoon. When they saw a herd of sambhars, they sent their dogs after them. Soon, the dogs brought down a sambhar and the accused took its meat to their homes.However, forest officials of Mul range got a tip-off from NGO Wildlife Protection Society of India (WPSI) and they raided the homes of the accused and recovered the meat. The ten accused, identified as Devidas Soyam, Mangesh Sidam, Jaipal Sidam, Roshan Sidam, Shubham Atram , Avinash Madavi, Suraj Dhole, Bandu Bhandari, Samadhan Dhole and Ramchandra Kasture, were arrested during the raid. They have been booked under relevant sections of the Wildlife Protection Act. Eight more accused are on the run.In another case, rangers of Sindewahi forest range arrested 13 for poaching a wildboar. Four accused from Chikti village in Sindewahi range also poached the boar with the help of trained dogs on Sunday. After the boar was killed, they summoned others from the village with chopping tools to the forest. They then took the meat of boar to the village and distributed part of it to some of their friends. On getting information, foresters raided the village and arrested 13 people for poaching and possession of meat.']
+
+
+Sambhar----SP.SPECIFIC
+
+TATR----LOC.EXACT
+
+10----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+Rangers of Mul buffer range----AUTH.SEIZE
+
+arrested----CRIME.CAT
+
+10----SUS.NUMBER
+
+poaching----CRIME.CAT
+
+sambhar----SP.SPECIFIC
+
+Monday----DATE
+
+Fulzari village----SUS.LOC
+
+fishing----DETECTION_METHOD
+
+Sunday----DATE
+
+afternoon----TIME
+
+sambhars----SP.SPECIFIC
+
+tip-off----DETECTION_METHOD
+
+Wildlife Protection Society of India (WPSI)----AUTH.MISC
+
+meat----ITEM
+
+Devidas Soyam----SUS.NAME
+
+Mangesh Sidam----SUS.NAME
+
+Jaipal Sidam----SUS.NAME
+
+Roshan Sidam----SUS.NAME
+
+Shubham Atram----SUS.NAME
+
+Avinash Madavi----SUS.NAME
+
+Suraj Dhole----SUS.NAME
+
+Bandu Bhandari----SUS.NAME
+
+Samadhan Dhole----SUS.NAME
+
+Ramchandra Kasture----SUS.NAME
+
+booked under relevant sections of the Wildlife Protection Act----OUTCOME
+
+rangers of Sindewahi forest range----AUTH.SEIZE
+
+13----SUS.NUMBER
+
+Chikti village in Sindewahi range----SUS.LOC
+
+13----SUS.NUMBER
+
+meat----ITEM

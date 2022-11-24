@@ -1,0 +1,65 @@
+
+['4 Kg Pangolin Scales Seized, Two Held In Khordha\nKhordha: Pangolin scales weighing around 4 kilograms was seized with the arrest of two poachers at Dhalapathar in Khordha district on Tuesday. Acting on reliable input about the sale of a live Pangolin, the Khordha Forest Division had laid a trap to nab the poachers. However, as the Pangolin died, the poachers had brought it scales for the deal. The forest officials had formed three teams to nab the accused. The first team comprised of two persons including Khordha ACF Arvind Mohanty, who posed as customers. The second team led by Khordha ACF Gobind Biswal was covering the first team. And the third team led by Ranger Asit Mishra was at a distance ready to conduct the raid after getting the signal. The accused brought the Pangolin scales in a cement bag at around 7 PM yesterday. After receiving confirmation from ACF Arvind, the other teams conducted the raid. The accused persons tried to flee feom the spot but were overpowered and arrested.']
+
+
+4 Kg----QTY
+
+Pangolin----SP.COMMON
+
+Scales----ITEM
+
+Seized----CRIME.CAT
+
+Two----SUS.NUMBER
+
+Khordha----LOC.DISTRICT
+
+Pangolin----SP.COMMON
+
+scales----ITEM
+
+4 kilograms----QTY
+
+seized----CRIME.CAT
+
+arrest----CRIME.CAT
+
+two----SUS.NUMBER
+
+Dhalapathar----LOC.EXACT
+
+Khordha district----LOC.DISTRICT
+
+Tuesday----DATE
+
+input----DETECTION_METHOD
+
+Pangolin----SP.COMMON
+
+Khordha Forest Division----AUTH.SEIZE
+
+Pangolin----SP.COMMON
+
+two----SUS.NUMBER
+
+Khordha ACF----AUTH.SEIZE
+
+Arvind Mohanty----OFF.NAME
+
+ACF----OFF.DESIG
+
+Gobind Biswal----OFF.NAME
+
+Ranger----OFF.DESIG
+
+Asit Mishra----OFF.NAME
+
+Pangolin----SP.COMMON
+
+scales----ITEM
+
+cement bag----CONCEALMENT_METHOD
+
+7 PM----TIME
+
+yesterday----DATE

@@ -1,0 +1,37 @@
+
+['DM directs action after leopard kills man in Tehri village - Pioneer Edge\nTuesday, 15 February 2022 | PNS | New Tehri A man was killed in a village in Tehri district on Monday morning. Rajendra Singh, aged 54 years was reportedly killed by a leopard in Pasar village of Gaja Tehsil in the district. Angered by the incident, the villagers accused the Forest department of negligence and demanded action to address the situation. The Tehri district magistrate Eva Ashish Srivastava reached Pasar and met the relatives of the man killed by the leopard. She offered condolences and directed the officials to provide all possible help to the family members of the deceased. She also took cognisance of the complaints and demands of the villagers and directed the officer concerned to call three shooters and kill the ‘maneater’ leopard. She also directed officials to deploy vehicles to ferry children to school till the leopard is killed. The district magistrate further said that a team should be formed at the village level to keep watch. According to sources, Singh was in the courtyard of his home at about 6:30 AM when he was attacked and killed by a leopard. Later, when the villagers saw blood outside the house, they started searching for Singh. After the search, the body of Rajendra Singh was found in a ditch about 200 metres away from the house.']
+
+
+DM----AUTH.SEIZE
+
+leopard----SP.COMMON
+
+kills----CRIME.CAT
+
+man----SUS.GENDER
+
+Tehri village----LOC.EXACT
+
+man----SUS.GENDER
+
+Tehri district----LOC.DISTRICT
+
+Monday----DATE
+
+morning----TIME
+
+Rajendra Singh----SUS.NAME
+
+54----SUS.AGE
+
+leopard----SP.COMMON
+
+Forest department----AUTH.SEIZE
+
+Eva Ashish Srivastava----OFF.NAME
+
+6:30 AM----TIME
+
+body----ITEM
+
+Rajendra Singh----SUS.NAME

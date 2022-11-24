@@ -1,0 +1,29 @@
+
+['Coimbatore: Tiger found dead in Sirumugai forest\nCOIMBATORE: A partially decomposed carcass of a tiger , which was aged eight to 10 years, was found in the reserve forest at Koothamandi north beat of the Sirumugai forest range here on Monday evening.Forest veterinary doctor Sukumar, along with two other veterinarians, performed the autopsy on the spot in the presence of district forest officer (DFO) T K Ashok Kumar, other forest officials and representatives of NGOs on Tuesday.Sukumar said the tiger might had died at least five to seven days ago. The internal organs of the animal, he said, were eaten by maggots. “We did not find any fighting or bullet injuries on the carcass. It’s skin, 18 nails and all the teeth were intact. This isn’t a case of poaching. We don’t suspect any foul play behind the animal’s death.”He said they had collected scat from the animal’s rectum and food materials from the colon to see if the tiger was poisoned to death. “We couldn’t collect samples of any vital organs, as they were eaten by maggots. The collected samples will be sent to the forensic science laboratory for testing to ascertain the cause of death.”He said they could confirm the gender of the animal only after DNA analysis.As per the standard operating procedure of the National Tiger Conservation Authority , the carcass was cremated inside the reserve forest after the postmortem on the day.']
+
+
+Tiger----SP.COMMON
+
+found dead----CRIME.CAT
+
+Sirumugai forest----LOC.EXACT
+
+carcass----ITEM
+
+tiger----SP.COMMON
+
+Monday----DATE
+
+evening.Forest----OFF.DESIG
+
+veterinary doctor----OFF.DESIG
+
+Sukumar----OFF.NAME
+
+district forest officer (DFO)----OFF.DESIG
+
+T K Ashok Kumar----OFF.NAME
+
+forest officials----AUTH.SEIZE
+
+collected samples will be sent to the forensic science laboratory for testing to ascertain the cause of death----OUTCOME

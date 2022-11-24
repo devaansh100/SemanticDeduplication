@@ -1,0 +1,41 @@
+
+['Animals, birds hunted & cooked in open at West Midnapore fair\nKOLKATA: Animals and birds, protected under the country’s wildlife protection act, were allegedly hunted and cooked in West Midnapore ’s Gopgarh Eco Park area on Saturday.Members of city-based NGO, Human and Environment Alliance League (HEAL), who documented the act, have demanded strong action. “More than 2,500 people had gathered in the area and got involved in the act. At least 97 animals and birds were killed. They include 27 wild boars, five mongooses, 31 black-naped hares and birds like spotted owlet, Asian koel and rufous treepie. Later, they were openly cooked in a fair ground,” said Meghna Banerjee of HEAL According to her, the number may be higher as they could document it for only three-four hours. “Last year, due to Covid , there were some restrictions. But this year, things were back to the square one. A forest vehicle was there with ranger and beat officer, but action was minimal,” said another member.Chief wildlife warden VK Yadav said: “We had conducted district level meetings where the DFO and cops were present. We had also conducted awareness campaigns. But, some of our staff are now on poll duty. So, they outnumbered our men. We have also sent a recent high court order to the director general of police so that it can be sent to all SPs.”“Apart from the recent order, the HC, in April 2019, had directed concerned authorities to take steps to stop hunting of wild animals in the garb of hunting festival West Midnapore, Jhargram, Purulia, Bankura and Murshidabad . Earlier in May 2018, the HC had asked the authorities to make sure that no hunting festival takes place in Howrah and East Midnapore on the occasion of Falharini Kali Puja,” said Banerjee.The Calcutta High Court in a recent order observed that “all illegal activities in relation to birds and animals in whatever form and in connection with whatever melas and other festivals have to be completely stopped by the State, in exercise of its police power, if needed”.']
+
+
+Animals----SP.COMMON
+
+birds----SP.COMMON
+
+hunted & cooked----CRIME.CAT
+
+West Midnapore fair----LOC.EXACT
+
+hunted----CRIME.CAT
+
+West Midnapore ’s Gopgarh Eco Park area----LOC.EXACT
+
+Saturday.Members----DATE
+
+Human and Environment Alliance League----AUTH.MISC
+
+HEAL----AUTH.MISC
+
+27----QTY
+
+wild boars----SP.SPECIFIC
+
+five----QTY
+
+mongooses----SP.SPECIFIC
+
+31----QTY
+
+black-naped hares----SP.SPECIFIC
+
+spotted owlet----SP.SPECIFIC
+
+Asian koel----SP.SPECIFIC
+
+rufous treepie----SP.SPECIFIC
+
+HEAL----AUTH.MISC

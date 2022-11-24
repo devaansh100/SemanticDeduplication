@@ -1,0 +1,43 @@
+
+["Assam: 2 poachers apprehended near India-Bhutan border with elephant tusk\nTwo suspected poachers were apprehended with a tusk from near the India-Bhutan border in Assam's Baksa district on Wednesday, officials said. Acting on a tip-off, a team of the Sashastra Seema Bal's 24th battalion nabbed the duo from Dimabari village in the Tamulpur police station area, Commandant Hrishikesh Sharma said. Those apprehended were identified as Budhu Ram Murmu (26) and Sunil Murmu (23), he said. They were later handed over to the Forest Range Office at Kumarikata along with the tusk, the officer said. Security in the border areas has been beefed up in view of Independence Day, he added. (This story has not been edited by Devdiscourse staff and is auto-generated from a syndicated feed.)"]
+
+
+Assam----LOC.STATE
+
+2----SUS.NUMBER
+
+apprehended----CRIME.CAT
+
+elephant----SP.COMMON
+
+tusk----ITEM
+
+Two----SUS.NUMBER
+
+apprehended----CRIME.CAT
+
+tusk----ITEM
+
+Assam's----LOC.STATE
+
+Baksa----LOC.DISTRICT
+
+Wednesday----DATE
+
+tip-off----DETECTION_METHOD
+
+Sashastra Seema Bal's 24th battalion----AUTH.SEIZE
+
+duo----SUS.NUMBER
+
+Dimabari village----LOC.EXACT
+
+Budhu Ram Murmu----SUS.NAME
+
+26----SUS.AGE
+
+Sunil Murmu----SUS.NAME
+
+23----SUS.AGE
+
+handed over to the----OUTCOME

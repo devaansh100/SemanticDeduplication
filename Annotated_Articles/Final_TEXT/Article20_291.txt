@@ -1,0 +1,19 @@
+
+['The Cachar Forest Division today... - Cachar Forest Division\nThe Cachar Forest Division today apprehended a person from Das Colony in Silchar selling Parakeets. Upon seeing the Forest Officers the offender fled from the spot. The bird was rescued and brought to the Division Office. The bird was handcuffed and was struggling to get out off it. The handcuffed was cut off and water and some fruits was fed to the bird and then it was freed. It flew high in the sky shrieking loudly (Must be thanking the Forest Dept.) Please note that such an act of keeping or harming the parakeets or any birds is prohibited under Wildlife (Protection) Act, 1972 and if found indulging in such act,You will be charged under Section 9: Prohibition of hunting any wild animal specified in Schedules I,II,III and IV), Section 44: Dealing in trophy and animals articles without licence prohibited . Section 49B : Prohibition of dealing in trophies, animal articles etc, derived from schedules animals Punishable with imprisonment for term which may extend to three years or fine upto Rs 25,000/- or with both. The Cachar Forest Department appeal to all the public to inform, report such crime to us. Rest assured prompt action would be taken against the criminals.']
+
+
+Cachar Forest Division----AUTH.SEIZE
+
+today----DATE
+
+Cachar Forest Division----AUTH.SEIZE
+
+Cachar Forest Division----AUTH.SEIZE
+
+today----DATE
+
+apprehended----CRIME.CAT
+
+Das Colony in Silchar----LOC.EXACT
+
+Parakeets----SP.COMMON

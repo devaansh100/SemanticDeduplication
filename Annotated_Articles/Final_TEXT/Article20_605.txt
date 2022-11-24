@@ -1,0 +1,79 @@
+
+["International Racket Dealing In Snake Venom Busted In West Bengal: Police\nTwo kingpins of an international racket were arrested in the raid, police said. (Representational) An international racket dealing in snake venom was busted in West Bengal's Malda district on Friday, and two persons were arrested in a major operation by the state CID and local police, officials said. The sleuths of the CID along with officers of Bamongola police station seized 600 grams of snake venom, estimated to be worth around Rs 1 crore, from a car in Pakuahat petrol pump area, they said. Two kingpins of an international racket were arrested in the raid, police said. They have been identified as Alam Miyan (32) and Musfik Alam (29), both residents of the Gangarampur area in Dakshin Dinajpur district, a senior officer said. The snake venom was kept in a French-made bullet-proof box, he added. Police got a tip-off that the duo was travelling to Malda to smuggle the venom and stopped the car midway and made the arrests, the officer said. Malda district on the India-Bangladesh border is notorious for smuggling."]
+
+
+International Racket----SUS.AFFIL
+
+Snake----SP.COMMON
+
+Venom----ITEM
+
+West Bengal----LOC.STATE
+
+Two----SUS.NUMBER
+
+raid----CRIME.CAT
+
+snake----SP.COMMON
+
+venom----ITEM
+
+West Bengal's----LOC.STATE
+
+Malda----LOC.DISTRICT
+
+Friday----DATE
+
+two----SUS.NUMBER
+
+state CID----AUTH.SEIZE
+
+local police----AUTH.SEIZE
+
+CID----AUTH.SEIZE
+
+Bamongola police station----AUTH.SEIZE
+
+600 grams----QTY
+
+snake----SP.COMMON
+
+venom----ITEM
+
+Rs 1 crore----VALUE
+
+car----TRANSPORT_MODE
+
+Two----SUS.NUMBER
+
+kingpins----SUS.AFFIL
+
+arrested----CRIME.CAT
+
+raid----CRIME.CAT
+
+Alam Miyan----SUS.NAME
+
+32----SUS.AGE
+
+Musfik Alam----SUS.NAME
+
+29----SUS.AGE
+
+Gangarampur----SUS.LOC
+
+Dinajpur----SUS.LOC
+
+snake----SP.COMMON
+
+venom----ITEM
+
+kept in a French-made bullet-proof box----CONCEALMENT_METHOD
+
+a tip-off----DETECTION_METHOD
+
+duo----SUS.NUMBER
+
+Malda----ROUTE.DEST
+
+smuggle----CRIME.CAT

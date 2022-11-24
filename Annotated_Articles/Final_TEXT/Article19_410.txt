@@ -1,0 +1,27 @@
+
+['Court denies bail to two youths accused of killing blue bull\nBHOPAL: A Madhya Pradesh court refused to entertain bail applications filed by two youths who were arrested for allegedly hitting a blue bull to death while driving through a stretch of road passing through Nauradehi Wildlife Sanctuary in Sagar district Accused Ankit and Nishant were arrested by forest officials under various sections of Wildlife Protection Act 1972 on February 19 and sent to jail. Duo were travelling in a small car and were intercepted near a check post by the forest guards, said sources.Lawyers argued before the sessions court in Sagar on Thursday that Ankit and Nishant were falsely implicated by the forest officials. Death of animal was mere an accident, they said.Both were heading towards Jabalpur from Bhopal to attend a wedding ceremony when a blue bull rammed into their car from the opposite direction.Forest officials however contended that car had exceeded the permissible speed limit while passing through sanctuary despite sign boards on both sides.They said accused left the wild animal to die on the spot and did not inform forest officials who were at the forest check post midway. They were later arrested from another check post.Forest officials say they had enough evidence to prove that blue bull was killed by their car, which includes hairs recovered from window of the vehicle, said officials. After hearing arguments, court observed that they cannot be granted bail for such a serious offence.Nauradehi Wildlife Sanctuary, spread in about 1,197 km area, is the largest wildlife sanctuary of Madhya Pradesh. This wildlife sanctuary is part of 5500 square km of forested landscape. It is in the centre of the state covering parts of Sagar, Damoh, Narsinghpur, and Raisen districts.']
+
+
+two----SUS.NUMBER
+
+killing----CRIME.CAT
+
+blue bull----SP.COMMON
+
+Madhya Pradesh court----AUTH.SEIZE
+
+two youths----SUS.NUMBER
+
+blue bull----SP.COMMON
+
+Ankit----SUS.NAME
+
+Nishant----SUS.NAME
+
+arrested----CRIME.CAT
+
+forest officials----AUTH.SEIZE
+
+February 19----DATE
+
+small car----TRANSPORT_MODE

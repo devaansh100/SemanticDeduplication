@@ -1,0 +1,33 @@
+
+['Kerala: Forest watcher dies in elephant attack, two severely injured\nIndia Kerala: Forest watcher dies in elephant attack, two severely injured Kerala: Forest watcher dies in elephant attack, two severely injured Written by Aakanksha Raghuvanshi (PTI desk) Apr 28, 2019, 01:41 pm 1 min read A 58-year-old forest watcher was killed and two others were injured when an elephant attacked them in the Walayar forests in Kerala\'s Palakkad yesterday, officials said. The incident took place when the deceased and the forest officials were trying to chase away two elephants which had strayed into human habitation. The elephants had been straying in the Paittakad-Velencherry-Kottamutti area for the last three days. Details Elephants killed 9 people in the area in last one-and-a-half-year The deceased was identified as Mohanan, a native of Kanjikode. "Vishwanathan (33), a resident of Chenkal adivasi colony, and Sasi (36), a native of Kannod Valladi, were also injured," the officials said. According to the official reports, in the last one-and-a-half years, a total of nine people were killed and 19 others got injured in elephant attacks in the area.']
+
+
+Kerala----LOC.STATE
+
+Forest watcher----SP.COMMON
+
+two----SUS.NUMBER
+
+Forest watcher----SP.COMMON
+
+killed----CRIME.CAT
+
+elephant----SP.COMMON
+
+Palakkad----LOC.DISTRICT
+
+yesterday----DATE
+
+elephants----SP.COMMON
+
+Mohanan----SUS.NAME
+
+Kanjikode----SUS.LOC
+
+Vishwanathan----SUS.NAME
+
+Chenkal adivasi colony----SUS.LOC
+
+Sasi----SUS.NAME
+
+36----SUS.AGE

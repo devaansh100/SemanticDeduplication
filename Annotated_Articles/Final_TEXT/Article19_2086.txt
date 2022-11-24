@@ -1,0 +1,27 @@
+
+['Heartbreaking! Dog Dies Of Snakebite While Saving His Owner From Venomous Snake\nNothing can compare to the loyalty of the dog! A dog is a man’s best friend and the most loyal too. A pet dog died in Thanjavur, Tamil Nadu, after it was bitten by a snake while trying to protect its owner, a local farmer. The tragic incident took place on Saturday morning when the owner was out on a morning walk to his agricultural fields. The farmer, 50-year-old Natarajan is a resident of Nadu street in Vengarayankudikadu in Thanjavur district. Natarajan with his son and puppy/Times Of India Natarajan told The Times Of India ‘Puppy was with me during my morning walk on Saturday, when I noticed a five feet long cobra in the bunds crawling towards me. I froze at the sight of the snake and my pet dog began barking at the reptile. I took a step back and the snake tried to attack me and the puppy pounced on it in order to protect me, said Natarajan. The farmer also said that he carried puppy all the way back home where the dog’s condition worsened. Times Of India He had been raising the puppy for the last four years. The farmer said that his wife and two sons treated the dog as part of their family and the puppy also accompanied him everywhere.']
+
+
+Dog----SP.COMMON
+
+Snakebite----CRIME.CAT
+
+Snake----SP.COMMON
+
+Thanjavur----LOC.DISTRICT
+
+Tamil Nadu----LOC.STATE
+
+snake----SP.COMMON
+
+Saturday----DATE
+
+morning----TIME
+
+morning walk----DETECTION_METHOD
+
+50----SUS.AGE
+
+Nadu street in Vengarayankudikadu in Thanjavur district----SUS.LOC
+
+Saturday----DATE

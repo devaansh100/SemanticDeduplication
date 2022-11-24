@@ -1,0 +1,33 @@
+
+['Leopard shot dead days after killing boy in Tehri village - Pioneer Edge\nWednesday, 20 April | PNS | New Tehri The leopard which is believed to have killed and partially eaten an eight year old boy in Akhodi village of Bhilangana block in Tehri district on April 16 was killed by hunters deputed by the Forest department on Tuesday. The leopard had killed Naveen, the son of Sohan Singh Rawat, a resident of Akhodi village when he was returning from a wedding function in the village with his grandmother on Saturday evening. The Forest department had declared the big cat a man-eater and deployed hunters to shoot it down. The forest range officer Ashish Nautiyal said, “The leopard had returned to the site of the kill on Monday night at about 9 PM. It was shot and injured by the hunters deployed by the department but was able to escape from the site. On Tuesday morning, the injured big cat was found in the bushes in a nearby ravine when it was shot dead by the hunters. It is a male leopard aged about seven years.” The postmortem examination of the leopard has been conducted and the details are awaited, he added.']
+
+
+Leopard----SP.COMMON
+
+boy----SUS.GENDER
+
+Tehri village----LOC.EXACT
+
+leopard----SP.COMMON
+
+Akhodi village----LOC.EXACT
+
+April 16----DATE
+
+hunters----SUS.AFFIL
+
+Forest department----AUTH.SEIZE
+
+Tuesday----DATE
+
+leopard----SP.COMMON
+
+Naveen----SUS.NAME
+
+Akhodi village----SUS.LOC
+
+Saturday----DATE
+
+evening----TIME
+
+night----TIME

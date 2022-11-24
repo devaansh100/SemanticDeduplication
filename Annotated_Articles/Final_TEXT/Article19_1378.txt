@@ -1,0 +1,15 @@
+
+['Locals in Udupi breathe sigh of relief after forest department captures leopard\nThe big cat was released into the Mookambika Wildlife Sanctuary (Representative Image) | Photo Credit: BCCL Bengaluru: After repeated complaints by locals of Udupi village, the Karnataka state Forest Department on Friday managed to capture a leopard which had been terrorising the region for several weeks. The big cat was trapped by rangers at Heskethur village which falls under the Kundapur taluk in Udupi district and later released into the Mookambika Wildlife Sanctuary. About three days ago, the 6-year-old male leopard entered the cattle shed of a local and had to be chased away. A calf was attacked the next day and a herd of goats on Thursday, reported Deccan Chronicle. These instances prompted villagers to approach forest department officials who took note of the concerns and set up a trap cage with a dog as a bait in a seperate compartment to lure the leopard. However, Kundapur Range Forest Officer Prabhakar told The Hindu that eyewitness accounts by locals indicate there may be more leopards in the area. Rangers had in March of this year captured another leopard after the big cat attacked domesticated animals. Prabhakar added that as many as 10 calves were attacked and eaten by leopards in the villages of Japti, Korgi, Heskethur, Kedur over a period of two months. According to a report by The News Minute, locals residing in Udupi district complained that leopards are often spotted wandering around the area. Leopard sightings have also troubled locals in the Japthi area of Karnataka. In March of this year, a 23-year-old woman was attacked by a leopard at Japti village near Kundapur in Udupi district. A ranger familiar with the matter said that the woman was attacked when she was carrying milk from her home to a nearby dairy. She was admitted to the District Government Hospital in Udupi for treatment.']
+
+
+forest department----AUTH.SEIZE
+
+leopard----SP.COMMON
+
+Karnataka state Forest Department----AUTH.SEIZE
+
+Friday----DATE
+
+leopard----SP.COMMON
+
+rangers----AUTH.SEIZE

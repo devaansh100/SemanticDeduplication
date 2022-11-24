@@ -1,0 +1,7 @@
+
+['There was a panic in the area by seeing tortoise of a rare species!\nSiliguri : There has been a stir in the area by seeing a rare species of tortoise from Sarkar Para area under Phansidewa Police Station. It is learned that the local people saw the tortoise walking in the area, due to which a large crowd gathered on the spot, the local people informed the forest department about this. As soon as the information was received, the forest department personnel reached the spot and rescued the tortoise, although the people of the area are very confused about how the rare species of tortoise came to the area.']
+
+
+tortoise----SP.COMMON
+
+Sarkar Para area----LOC.EXACT

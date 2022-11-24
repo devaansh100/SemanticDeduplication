@@ -1,0 +1,31 @@
+
+['Shiv Sena MP\'s car runs over deer at Mumbai\'s Sanjay Gandhi National Park\nFollow us on Representational Image A car belonging to Shiv Sena MP Rajendra Gavit knocked down and killed a spotted deer at the Sanjay Gandhi National Park (SGNP) here, an official said on Monday. Gavit, the Lok Sabha member from Palghar near Mumbai, was not in the vehicle when the incident took place last Wednesday evening near the main gate of the park, he said. The spotted deer was crossing a road near Trimurti station, a part of the Van Rani narrow gauge train route in the national park, when it was run over by the vehicle, the official said. The animal was then rushed to a veterinary hospital where it was declared dead, he said. "We have registered an offence against the SUV\'s driver under provisions of the Wildlife Act. The car belongs to MP Rajendra Gavit though he was not in the vehicle at the time of the incident," SGNP Director Anwar Ahmed told PTI. The vehicle has been seized, he added. Another forest official said there is a speed limit of 20 kmph for vehicles using the narrow roads within the sprawling park, but motorists often violate it, endangering the lives of wild animals. Spotted deer is listed under Schedule III, as being of \'least concern\', under the Wildlife (Protection) Act. Latest India News']
+
+
+Shiv Sena MP----AUTH.SEIZE
+
+car----TRANSPORT_MODE
+
+deer----SP.COMMON
+
+Sanjay Gandhi National Park----LOC.EXACT
+
+car----TRANSPORT_MODE
+
+MP----OFF.DESIG
+
+Rajendra Gavit----SUS.NAME
+
+spotted deer----SP.SPECIFIC
+
+Sanjay Gandhi National Park (SGNP)----LOC.EXACT
+
+Palghar----SUS.LOC
+
+Wednesday----DATE
+
+evening----TIME
+
+spotted deer----SP.SPECIFIC
+
+registered an offence----OUTCOME

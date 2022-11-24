@@ -1,0 +1,41 @@
+
+['Four arrested for illegal trade of jungle cats and raptors\nSearch operations on to establish link across cities Search operations on to establish link across cities Madurai Madurai Forest Division (MFD) officials on Tuesday arrested four people for illegal possession of live animals and raptors that come under the Scheduled Species of the Wildlife (Protection) Act. Two pet dealers each from Tamil Nadu and Kerala were nabbed by a joint team of the MFD and the Wildlife Crime Control Bureau (WCCB) southern region, upon Intel information. A decoy team of four officers staged a mock deal and seized four live jungle cats, one spotted eagle and an owl from the offenders. According to a release issued by the District Forest Officer, interrogation of the accused has revealed illegal trade of several rare and endangered species of wild animals out of several cities of Tamil Nadu. Enforcement teams are conducting simultaneous search operations at several places across the State to establish the network of pet dealers, middlemen and sellers involved in the illegal wildlife trade. In forest custody now, the accused will be sent to judicial custody after completion of enquiry. The Conservator Forest and Field Director, Srivilliputtur Megamalai Tiger Reserve, Madurai, Deepak S Bigli told The Hindu , the live inhabitants of the wild are often smuggled to be sold as pets domestically or overseas. People buying the endangered animals to keep them as pets for superstition or other reasons must be all well-off and even educated. “Public have to be aware that all wild animals are protected under the WPA 1972 and cannot be reared at home,” he said. The last time a similar crackdown was conducted on an organised nexus of traders from multiple cities was three years ago for illegal smuggling of mongoose hair.']
+
+
+Four----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+illegal trade----CRIME.CAT
+
+jungle cats----SP.COMMON
+
+raptors----SP.COMMON
+
+Madurai Madurai Forest Division----AUTH.SEIZE
+
+MFD)----AUTH.SEIZE
+
+Tuesday----DATE
+
+arrested----CRIME.CAT
+
+four----SUS.NUMBER
+
+illegal possession----CRIME.CAT
+
+Wildlife Crime Control Bureau (WCCB) southern region----AUTH.SEIZE
+
+Intel information----DETECTION_METHOD
+
+four----QTY
+
+jungle cats----SP.SPECIFIC
+
+one----QTY
+
+spotted eagle----SP.SPECIFIC
+
+an----QTY
+
+owl----SP.SPECIFIC

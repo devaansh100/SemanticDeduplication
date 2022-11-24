@@ -1,0 +1,15 @@
+
+["Indore: Second female leopard dies in 15 days, no injury marks found on the body that was found after five days in the forests of Manpur\nMhow FP News Service The carcass of a one to two-year-old female leopard was found on 18 February near a drain in the forest near the four-lane in subrange Kali fare of Manpur range. The death of the leopard is said to have happened five days ago, and it was lying there since then, which points to the fact that the concerned beat guard and deputy ranger were not doing their duty properly. According to the information, on February 18, the villagers informed the forest department officials about the leopard carcass and then the team reached the spot. On February 19, veterinarian Dr CS Davar, Dr CB Nagar inspected the spot and performed a postmortem of the leopard. Mhow SDO Kailash Joshi told the media where the dead body was found. The death of the leopard is likely due to a collision with a vehicle because the four-lane road is barely 80 metres away from the spot where the carcass was found. Poaching is unlikely, as all parts of the leopard's body were intact. The real cause of death will be known after the postmortem report comes. According to the villagers, the carcass of the female leopard was completely decomposed and injury marks were visible on her head. Earlier, the carcass of a two-year-old mother leopard was found on the morning of 6 February in the Undwa forest area of the Manpur range. Claw marks of another animal were found on the body of the leopard pointing to the fact that death was due to territorial dispute."]
+
+
+carcass----ITEM
+
+18 February----DATE
+
+leopard----SP.COMMON
+
+morning----TIME
+
+6 February----DATE
+
+Undwa forest area of the Manpur range----LOC.EXACT

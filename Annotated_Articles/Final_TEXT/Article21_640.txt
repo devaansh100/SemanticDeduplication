@@ -1,0 +1,89 @@
+
+['Maharashtra: 3.5kg more tiger bones seized, fifth poaching accused surrenders\nNAGPUR: Deolapar tiger poaching case has turned murkier after Pench Tiger Reserve (PTR), Maharashtra , officials seized another 3.5kg bones on Sunday. The seizure not only exposes wider links to the poaching racket, but also raises a question mark over tiger protection in territorial forest areas in the region.On August 25, in a joint operation by officials from Wildlife Crime Control Bureau (WCCB), Central Region, Jabalpur, Nagpur forest division, and Seoni circle, MP, had arrested Balchand Warkhade of Sitapur in Ramtek, and seized 8.5kg tiger bones from him near Khawasa border when he was trying to strike a deal.Based on Warkhade’s statement, two more accused Roshan Uikey and Narpat Kodwate of Pindkapar were arrested on August 26 and two rifles used to kill tigers and other wild animals were seized. The teams also seized deer horns and body parts of other animals.On August 27, one more accused Kailash Bhalavi from Banera was arrested.“We were tracking Bhalavi’s nephew Rahul for the past three days. Finally, he surrendered on Sunday. Rahul used to assist Kailash in the crime. The seized bones seem to be from the tiger that must have been killed in Pindkapar area,” said Pench ACF Atul Deokar.With this, the total number of accused in the case has gone up to 5.Talking to TOI, Seoni sub-divisional forest officer SK Johari said, “The seizure seems to be part of a major local poaching gang involved in killing tigers and selling body parts. Every arrested person is a link to other gang members. They have confessed to have killed tigers and wild animals in the forest on Maharashtra side. The gang seems to be big one.”Even as the accused have been handed over to Madhya Pradesh counterparts, Maharashtra forest officials should take custody of the accused to expose the bigger racket and links, say experts.In the last month alone, three cases of tiger poaching have been exposed. On August 28, four persons were arrested by ACF Narendra Chandewar and his team, and seized one tiger nail and canine. The accused have been remanded in forest custody (FCR) till September 3. The poached tiger may be from Tadoba buffer. On July 30, a man from MP was arrested by Nagpur forest officials and recovered tiger skin and four paws from him.In 2013, forest department had exposed major organized gangs of Bahelia poachers involved in killing of at least 25 tigers in the region.Later, in June-July 2017, Pench officials had arrested 17 people and seized 12kg bones and 13 nails from 17 accused. The case died a natural death.Nitin Desai, central India director, Wildlife Protection Society of India ( WPSI ), said, “Presently, organized gangs are not active. These are local poachers looking for prospective customers.”Senior forest officers say, “The gang must be active for long and maybe in possession of more body parts. Due to financial crisis owing to Covid lockdown, the gang must be looking for buyers through middlemen.”']
+
+
+Maharashtra----LOC.STATE
+
+3.5kg----QTY
+
+tiger----SP.COMMON
+
+bones----ITEM
+
+seized----CRIME.CAT
+
+Pench Tiger Reserve (PTR), Maharashtra , officials----LOC.EXACT
+
+3.5kg----QTY
+
+bones----ITEM
+
+Sunday----DATE
+
+August 25----DATE
+
+Wildlife Crime Control Bureau----AUTH.SEIZE
+
+WCCB----AUTH.SEIZE
+
+Central Region, Jabalpur----AUTH.SEIZE
+
+Nagpur forest division----AUTH.SEIZE
+
+MP----OFF.DESIG
+
+arrested----CRIME.CAT
+
+Balchand Warkhade----SUS.NAME
+
+Sitapur----SUS.LOC
+
+8.5kg----QTY
+
+tiger----SP.COMMON
+
+bones----ITEM
+
+Roshan Uikey----SUS.NAME
+
+Narpat Kodwate----SUS.NAME
+
+Pindkapar----SUS.LOC
+
+August 26----DATE
+
+two----QTY
+
+rifles----ITEM
+
+tigers----SP.COMMON
+
+deer----SP.COMMON
+
+horns----ITEM
+
+body parts----ITEM
+
+Kailash Bhalavi----SUS.NAME
+
+Banera----SUS.LOC
+
+Rahul----SUS.NAME
+
+four----SUS.NUMBER
+
+ACF----OFF.DESIG
+
+Narendra Chandewar----OFF.NAME
+
+Tadoba buffer----SUS.LOC
+
+man----SUS.GENDER
+
+MP----SUS.LOC
+
+Nagpur forest officials----AUTH.SEIZE
+
+skin----ITEM
+
+four paws----ITEM

@@ -1,0 +1,25 @@
+
+["Madhya Pradesh: Leopard kills 7-year-old girl sleeping outside her hut\nRepresentative Pic Photo : iStock Indore: Human-animal conflict claimed another innocent life in Human-animal conflict claimed another innocent life in Madhya Pradesh . A leopard mauled a seven-year-old girl in a village near Indore while she was sleeping outside her hut with her mother. The incident took place late at night on Wednesday. The leopard grabbed the girl by her throat and was dragging her when she raised an alarm. On hearing her cries of pain, her family woke up to see the horror. Her father, in a desperate attempt to save her little daughter, charged towards the predator with a wooden stick. He hit the leopard with all his might and the animal tried to run away with the child but dropped her before disappearing into the forest nearby. According to a report in Bhaskar, the locals also tried to save the girl by throwing stones at the leopard when they heard the shrieks of the child. However, the leopard's teeth had sunk in deep into the girl's throat and the wounds were big. The girl could not breathe and within a few minutes, she died. Her family did not even get the time to rush her to a hospital. Her parents work as labourers in the village and forest and that is why they used to live in a small hut near the forest itself."]
+
+
+Madhya Pradesh----LOC.STATE
+
+Leopard----SP.COMMON
+
+kills----CRIME.CAT
+
+7-year-old----SUS.AGE
+
+Madhya Pradesh----LOC.STATE
+
+leopard----SP.COMMON
+
+mauled----CRIME.CAT
+
+seven-year-old----SUS.AGE
+
+Indore----LOC.CITY
+
+night----TIME
+
+Wednesday----DATE

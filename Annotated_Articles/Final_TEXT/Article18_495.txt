@@ -1,0 +1,37 @@
+
+['Poachers Saw Off Horn, but Leave Rhino Alive in a Unique Case in Assam\nEnvironmental News from India: A sub-adult male rhino was dehorned by poachers at Orang National Park, a protected area in Assam, last month. The forest department suspects that the rhino was tranquilized before its horn was cut off. It was the first poaching incident in Orang in five years. As per official data, 190 rhinos have been poached in Assam since the year 2000. Even as the debate on the mode of immobilizing the rhino continues, a section of conservation experts flags concerns about poachers getting innovative and the need for people’s participation in conservation. On May 9, during regular patrolling on elephants at Orang National Park in Assam, forest guards found a rhinoceros bleeding from the nose and its signature horn missing. It was the first poaching incident in five years at Orang, famous for one of the highest densities of one-horned rhinoceros in the country. The bleeding sub-adult male rhino was discovered in the Magurmari-Juroyapukhuri area of the National Park. Park authorities initially assumed that infighting with other rhinos led to the loss of the horn but it was later found that the horn was cut off using a sharp weapon. The forest department suspects that the rhino was tranquilized and then dehorned by the poachers, making it a first-of-its-kind incident in Orang. Earlier, a few failed attempts of this kind were made in Kaziranga National Park (KNP), with 2-3 poachers caught with tranquilizer darts and drugs. Questions have been raised over the method that the poachers adopted to shear off the horn in the latest incident, even as a section of conservation experts flag concerns about poachers getting innovative. To read top environmental news from India, please visit https://earth5r.org Source: Mongabay']
+
+
+Poachers----SUS.AFFIL
+
+Horn----ITEM
+
+Assam----LOC.STATE
+
+sub-adult male rhino----SP.COMMON
+
+poachers----SUS.AFFIL
+
+Orang National Park----LOC.EXACT
+
+Assam----LOC.STATE
+
+last month----DATE
+
+rhino----SP.COMMON
+
+May 9----DATE
+
+regular patrolling----DETECTION_METHOD
+
+Orang National Park----LOC.EXACT
+
+Assam----LOC.STATE
+
+forest guards----AUTH.SEIZE
+
+rhinoceros----SP.COMMON
+
+sub-adult male rhino----SP.SPECIFIC
+
+Magurmari-Juroyapukhuri area----LOC.EXACT

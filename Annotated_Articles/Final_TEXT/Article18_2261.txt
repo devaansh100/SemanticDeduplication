@@ -1,0 +1,49 @@
+
+['In Lakhimpur, UP, the tiger that became synonymous with terror killed 4 people, including a priest, in 10 days.\nDudhwa Tiger Reserve in Lakhimpur-Kheri district of Uttar Pradesh (DTR) One of the two tigers that have become synonymous with panic over the past few days has been caught in the Manjhara East area of \u200b\u200bthe buffer zone. An official said this on Tuesday. Katarniaghat Sub-Divisional Officer (SDO) Amit Kumar said the tiger was captured in a cage made by the forest department late on Monday night. According to Kumar, the arrested tigress (Tiger) Has been taken to Katarniaghat Wildlife Sanctuary and further action will be taken as per the instructions of the authorities. Significantly, between June 18 and 27, tigers killed four people in the Khairatia area near the Manjhara East forest in the Dudhwa buffer zone. On June 18, the tiger killed local priest Mohan Das at the temple premises on the Khairtia-Manjra road, while on June 23, he killed 14-year-old Suraj Singh near the village of Khairtia. On June 26, a tiger killed 33-year-old Nagendra Singh and 43-year-old Minder Kaur in Bailey village in Narendranagar. The deaths of four people in a row have shaken the villagers as well as the forest officials. Dudhwa Field Director Sanjay Kumar Pathak told PTI-Bhasha that a report was sent to the Chief Wildlife Conservator of Uttar Pradesh, who allowed the tiger to be caught in danger of endangering human life. According to the reader, intensive search and surveillance by drones and cameras during the patrol, observed the movement of two tigers in the area, one of which was captured. Arrangements were made at various levels to catch this obstacle. Here, the fear of leopards is bothering people in Kanpur, UP as well. People here are afraid to go to the farm in panic. According to the information, the panic of the leopard here is such that people are trapped in the house as soon as evening falls. However, the team of the forest department is also constantly trying to get their hands on them. Cages have also been set up. (With language input)']
+
+
+Lakhimpur----LOC.CITY
+
+UP----LOC.STATE
+
+tiger----SP.COMMON
+
+4----SUS.NUMBER
+
+Dudhwa Tiger Reserve----LOC.EXACT
+
+Sub-Divisional Officer----OFF.DESIG
+
+SDO----OFF.DESIG
+
+Amit Kumar----OFF.NAME
+
+tiger----SP.COMMON
+
+cage----CONCEALMENT_METHOD
+
+forest department----AUTH.SEIZE
+
+Monday----DATE
+
+night----TIME
+
+tigress----SP.COMMON
+
+Tiger----SP.COMMON
+
+Suraj Singh----SUS.NAME
+
+June 26----DATE
+
+tiger----SP.COMMON
+
+33-year-old----SUS.AGE
+
+Nagendra Singh----SUS.NAME
+
+43-year-old----SUS.AGE
+
+Minder Kaur----SUS.NAME
+
+Bailey village----LOC.EXACT

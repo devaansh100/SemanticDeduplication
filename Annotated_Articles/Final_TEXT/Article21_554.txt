@@ -1,0 +1,73 @@
+
+['Andhra police arrest 4 red sanders smugglers\nThe Andhra Pradesh police in the state\'s Chittoor district on Monday arrested four red sanders smugglers and seized 11 tonnes of the precious wood estimated at Rs 5 crore.The arrested individuals have been identified as M. Manoj Kumar (27), M. Ashok Kumar (26), S. Shankar (27) and L. Dayanand Naidu (37).On Sunday, the police received a tip off, prompting them to heighten surveillance on illegal red sanders transportation at Devarakonda village.As they started searching vehicles, a car arriving from Devarakonda temple side tried to zoom past them. Police followed the vehicle and apprehended the driver, Naidu, to discover eight red sanders logs.Following this, police registered a case at Bakarapeta police station and investigated the suspect.Naidu told the police that four smugglers along with others have actually created a godown for stolen red sanders in Tamil Nadu.The smugglers set up the godown at Kannan farmhouse at tank factory, Avadi in Chennai.On Monday morning, officials from the Chittoor police and the special enforcement bureau (SEB) swooped in on the godown where they found 11 tonnes of red sanders being readied to be smuggled overseas.In the raid, police seized 11 tonnes of the wood amounting to 380 logs, one truck and a car."The value of red sanders along with the seized vehicles is estimated to be Rs 5 crore," said an official.According to police, Manoj Kumar, Ashok Kumar and Shankar are inter-state smugglers from Tamil Nadu while Naidu hails from Itepalli in Chittoor district.']
+
+
+Andhra police----SP.COMMON
+
+4----SUS.NUMBER
+
+red sanders----null
+
+Andhra Pradesh police----AUTH.SEIZE
+
+Chittoor----LOC.DISTRICT
+
+Monday----DATE
+
+four----SUS.NUMBER
+
+red sanders----SP.COMMON
+
+seized----CRIME.CAT
+
+11 tonnes----QTY
+
+wood----ITEM
+
+Rs 5 crore.The----VALUE
+
+M. Manoj Kumar----SUS.NAME
+
+27----SUS.AGE
+
+M. Ashok Kumar----SUS.NAME
+
+26----SUS.AGE
+
+S. Shankar----SUS.NAME
+
+27----SUS.AGE
+
+L. Dayanand Naidu----SUS.NAME
+
+a tip off----DETECTION_METHOD
+
+Devarakonda village.As----LOC.EXACT
+
+registered a case at Bakarapeta police station----OUTCOME
+
+Tamil Nadu.The----LOC.STATE
+
+Kannan farmhouse at tank factory, Avadi in Chennai.On----ROUTE.DEST
+
+Chittoor police----AUTH.SEIZE
+
+special enforcement bureau (SEB----AUTH.SEIZE
+
+11 tonnes----QTY
+
+red sanders----SP.COMMON
+
+380----QTY
+
+logs----ITEM
+
+one----QTY
+
+truck----ITEM
+
+a----QTY
+
+car----ITEM
+
+Rs 5 crore----VALUE

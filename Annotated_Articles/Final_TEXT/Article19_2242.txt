@@ -1,0 +1,15 @@
+
+['‘World’s Deadliest Bird’ Kills Owner After Fall\nLatestly File photo of a cassowary bird. A large, flightless bird killed its owner when it attacked him after he fell, authorities in Florida have said. The Alachua County Fire Rescue Department said a cassowary killed the man on his property near Gainesville, apparently using its long claws. Advertisement The victim, 75-year-old Marvin Hajos, was breeding the birds, which are native to Australia and New Guinea. Deputy chief Jeff Taylor said: “It looks like it was accidental. My understanding is that the gentleman was in the vicinity of the bird and at some point fell. “When he fell, he was attacked.” “Initial information indicates that this was a tragic accident for Mr Hajos,” said Lieutenant Brett Rhodenizer, a sheriff’s office spokesman. “The cassowary involved remains secured on private property at this time.” Cassowaries are similar to emus and reach up to 6ft in height and weigh up to 60kg. They have black body feathers and bright blue heads and necks. The San Diego Zoo website calls cassowaries the world’s most dangerous bird, with a 4in dagger-like claw on each foot. Advertisement “The cassowary can slice open any predator or potential threat with a single swift kick,” the website says. “Powerful legs help the cassowary run up to 31mph through the dense forest underbrush.” Cassowaries are not raised for food in the US but are sought after by collectors.']
+
+
+cassowary bird----SP.SPECIFIC
+
+Alachua County Fire Rescue Department----AUTH.SEIZE
+
+cassowary----SP.SPECIFIC
+
+Gainesville----LOC.CITY
+
+75-year-old----SUS.AGE
+
+Marvin Hajos----SUS.NAME

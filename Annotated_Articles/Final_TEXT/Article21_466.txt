@@ -1,0 +1,49 @@
+
+['Thane: Sperm whale vomit worth Rs 26 crore seized, five arrested\nTHANE: In two separate raids, the Thane forest division arrested five people from Mumbai for dealing in 27 kgs of ambergris worth Rs 26 crore in the market.Gajendra Hire, the deputy conservator of forests , Thane, informed that the Mumbai range staff of the Thane forest division were recently tipped of about two deals of ambergris, a waxy substance discharged by the sperm whale , to be conducted at different locations in the Western suburbs of Mumbai on July 8 and 10.The ambergris is found floating deep-sea surfaces and is used for manufacturing premium perfume and certain aphrodisiacs. The sperm whale is a protected species as per the Wildlife Protection Act 1972 and keeping the ambergris or any other thing related to such endangered class is considered illegal, explained forest officials."The accused were looking for customers to finalise a deal for selling the ambergris stock. We sent decoy customers and trapped the sellers who were caught with the stock in two raids. In the first, four people were arrested and 8kgs of ambergris was recovered from them while in the second raid, yet another man was arrested and 19 kgs stock recovered," informed Hire.The accused were presented before the court that sent them to forest custody. The forest department is investigating the case for further trails in the case.']
+
+
+Sperm whale----SP.COMMON
+
+vomit----ITEM
+
+Rs 26 crore----VALUE
+
+seized----CRIME.CAT
+
+five----SUS.NUMBER
+
+Thane forest division----AUTH.SEIZE
+
+five----SUS.NUMBER
+
+Mumbai----LOC.STATE
+
+27 kgs----QTY
+
+ambergris----ITEM
+
+Rs 26 crore----VALUE
+
+market.Gajendra Hire----OFF.NAME
+
+deputy conservator----OFF.DESIG
+
+sperm whale----SP.COMMON
+
+Western suburbs of Mumbai----LOC.EXACT
+
+July 8----DATE
+
+four----SUS.NUMBER
+
+8kgs----QTY
+
+ambergris----ITEM
+
+another----SUS.NUMBER
+
+man----SUS.AGE
+
+19 kgs----QTY
+
+sent them to forest custody----OUTCOME

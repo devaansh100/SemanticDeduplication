@@ -1,0 +1,25 @@
+
+['Locals catch crocodile that snuck into Bihar village\nRajesh Kumar Thakur By Express News Service PATNA: About 200 residents of Parsauni village in Bihar\'s Bagha district are spending sleepless nights for the last one year. They are facing a grave threat to their lives from nearly a dozen crocodiles who have reportedly snuck into the human habitat from the nearby Gandak river. In the early hours of Wednesday, locals spotted and caught hold of one such crocodile. "We have kept the crocodile tied up to a tree and informed the forest department to take it," a local identified as Munna told this reporter over the phone. Nearly 200 persons who are staying are fearing for their lives. They have restricted the movement of their children even during day time. Villagers said that about 12 crocodiles have sneaked into the human habitation areas. They allege that despite repeated requests made to the forest officials, no one has paid any heed, further claiming that the creature caught on Wednesday belongs to an endangered group of species. "The crocodiles would deviate along with the current of water from the Himalayan side to the point where river Gandak originates. This is more frequent during flash floods," said Shambhu Tewary, a wildlife activist based in Patna. Parsauni is situated along the river Gandak and falls under the forested areas of the Bagha district.  PATNA: About 200 residents of Parsauni village in Bihar\'s Bagha district are spending sleepless nights for the last one year. They are facing a grave threat to their lives from nearly a dozen crocodiles who have reportedly snuck into the human habitat from the nearby Gandak river. In the early hours of Wednesday, locals spotted and caught hold of one such crocodile. "We have kept the crocodile tied up to a tree and informed the forest department to take it," a local identified as Munna told this reporter over the phone. Nearly 200 persons who are staying are fearing for their lives. They have restricted the movement of their children even during day time. Villagers said that about 12 crocodiles have sneaked into the human habitation areas. They allege that despite repeated requests made to the forest officials, no one has paid any heed, further claiming that the creature caught on Wednesday belongs to an endangered group of species. "The crocodiles would deviate along with the current of water from the Himalayan side to the point where river Gandak originates. This is more frequent during flash floods," said Shambhu Tewary, a wildlife activist based in Patna. Parsauni is situated along the river Gandak and falls under the forested areas of the Bagha district.']
+
+
+crocodile----SP.COMMON
+
+Bihar village----LOC.EXACT
+
+Parsauni village----SUS.LOC
+
+crocodiles----SP.COMMON
+
+Gandak river----ROUTE.SRC
+
+Wednesday----DATE
+
+crocodile----SP.COMMON
+
+Wednesday----DATE
+
+Parsauni village----SUS.LOC
+
+Wednesday----DATE
+
+Wednesday----DATE

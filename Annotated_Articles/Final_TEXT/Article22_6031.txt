@@ -1,0 +1,35 @@
+
+['After capture, second big cat identified as tigress on killing spree in Lakhimpur Kheri’s Khairatiya\nThe second big cat captured on Wednesday night was identified as the tigress responsible for recent human killings in Lakhimpur Kheri’s Khairatiya area in Uttar Pradesh, an official said. The tigress was caught in the Manjhra Purab forest area of the Dudhwa buffer zone. Four human kills by the big cat were reported in June alone in the area and there were at least two others in May. Divisional forest officer (DFO), Katarniaghat Wildlife Sanctuary, Akash Deep Badhawan said most probably the tigress would be sent to Gorakhpur zoo as Lucknow zoo is full to its capacity. Field director (Dudhwa Tiger Reserve) Sanjay Pathak confirmed to HT, “During physical examination, the big cat was established to be a tigress of about nine years of age. Her physical condition and age were enough to establish her to have caused the recent human casualties in the Khairatiya region.” “Physical examination of the tigress revealed that her left canines were broken and damaged due to which she may be unable to hunt properly,” he said. “Probably, this deformity made the tigress attack humans,” Pathak added. Tigers turn into man-eaters when they fail to kill wild prey due to any deformity or injury like broken canines, injured paws and old age. Operation Manjhra Purab would continue till the entire area was freed of big cat-terror as movement of some other big cats had been noticed in the area and recorded on cameras also, he said. “The operation will be suspended only after being assured that there is no longer a threat to human population due to tigers,” he said. Before the tigress was caged, the Dudhwa Tiger Reserve (DTR) authorities captured a big cat on Tuesday night and found it to be a tiger in good health. They started their operations afresh in the area as signs noticed around the human killing spots indicated the big cat on the killing spree was a female. Its movements were also recorded in camera traps and during patrolling. The forest authorities on Wednesday evening placed a cage on the Manjhra-Khairatia road near Baba Kuti, where the big cat had killed a priest on June 18. The patrolling teams had noticed regular movement of a tigress there. The big cat attempted to kill the bait inside the cage and was captured on Wednesday night. A special vehicle of rapid response team (RRT) of Dudhwa, equipped with hydraulic lifter to carry the cage, was called in to carry the big cat, later found to be the errant tigress, to Katarniaghat. Meanwhile, DFO Akash Deep Badhawan held a meeting with media persons at interpretation centre at Katarniaghat forest range on Thursday and ruled out media reports of 20 to 21 killings by big cats in the area.']
+
+
+big cat----SP.COMMON
+
+Lakhimpur Kheri’s Khairatiya----LOC.EXACT
+
+Wednesday----DATE
+
+night----TIME
+
+Lakhimpur Kheri’s Khairatiya area----LOC.EXACT
+
+Uttar Pradesh----LOC.STATE
+
+Gorakhpur zoo----LOC.EXACT
+
+Dudhwa Tiger Reserve (DTR) authorities----AUTH.SEIZE
+
+big cat----SP.COMMON
+
+Tuesday----DATE
+
+night----TIME
+
+Wednesday----DATE
+
+night----TIME
+
+rapid response team (RRT)----AUTH.SEIZE
+
+DFO----OFF.DESIG
+
+Akash Deep Badhawan----OFF.NAME

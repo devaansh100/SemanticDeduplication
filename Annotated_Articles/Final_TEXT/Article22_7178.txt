@@ -1,0 +1,35 @@
+
+['Elephant raid: Farmers protest low compensation for damages\nCoimbatore: Around 150 farmers from Devarayapuram and surrounding areas in the district blocked the state highways road at Parameswaranpalayam on Tuesday morning, demanding the forest department to compensate them for the crop, motors and pipelines damaged by wild elephants.P Kandasamy, state general secretary, Vivasayigal Sangam (non-communal, non-religious and non-political), said the incidences of wild elephants raiding agricultural fields at Narasipuram, Devarayapuram and Thondamuthur areas have gone up. “They also damage pipelines and motors connected to the borewells in the process. Ten motors were damaged in the past few days. While the farmers usually face a loss of more than Rs1 lakh in the elephant raid, the forest department would issue just ₹2,000 as compensation.”He demanded the forest department to increase the compensation amount and deploy more field staff to chase away the wild elephants that stray into the plains from the forests.The farmers sat on the road for more than two hours, bringing traffic to a halt. Assistant conservators of forests C Dinesh Kumar (forestry extension division) and M Senthil Kumar (Coimbatore forest division), deputy superintendent of police (Perur sub division) V V Thirumal and revenue department officials visited the spot and held talks with the protesters.According to the forest department officials, a herd of six elephants raided the agricultural fields at Narasipuram, Devarayapuram and Thondamuthur for the past five consecutive days and damaged around 15 coconut trees, in addition to 10 motors and PVC pipelines.“A team of frontline forest staff is deployed in Devarayapuram area. But the herd is taking different routes to come to the plains. So, the team is unable to track the herd and prevent damage to the crop. We are deploying two more teams in the locality,” said Dinesh Kumar.The forest officials assured the farmers that they would compensate them for their losses soon. The farmers subsequently withdrew the protest.']
+
+
+Elephant----SP.COMMON
+
+raid----CRIME.CAT
+
+Devarayapuram----SUS.LOC
+
+Tuesday----DATE
+
+morning----TIME
+
+forest department----AUTH.MISC
+
+motors----ITEM
+
+pipelines----ITEM
+
+Assistant conservators----OFF.DESIG
+
+C Dinesh Kumar----OFF.NAME
+
+forestry extension division----AUTH.SEIZE
+
+M Senthil Kumar----OFF.NAME
+
+Coimbatore forest division----AUTH.SEIZE
+
+deputy superintendent of police----OFF.DESIG
+
+V V Thirumal----OFF.NAME
+
+revenue department officials----AUTH.SEIZE

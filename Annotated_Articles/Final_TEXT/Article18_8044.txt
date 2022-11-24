@@ -1,0 +1,31 @@
+
+['Dhupguri: Foresters catch animal after six-hour operation\nThe animal, which turned unconscious but did not fall from the tree. Finally, two forest staff climbed the tree and used a bamboo pole to bring it down Foresters rushed to the spot and were able to rescue the leopard after six hours. A leopard strayed into a locality in Dhupguri town on Friday morning, drawing the attention of hundreds of curious onlookers who assembled in the area to catch a glimpse of the animal. Sources said in the morning, some locals spotted the leopard sitting on a blueberry tree in ward four of the town. As the news spread, people started reaching in the area, clicking photos and shooting videos of the animal. After some time, a team from Dhupguri police station and also foresters of the wildlife squad posted in Binnaguri reached the spot. They took the task to remove the enthusiastic onlookers to safer places. However, as the crowd swelled, personnel of the Rapid Action Force (RAF) were called and prohibitory orders were clamped in the locality to prevent assemblage of people. The foresters also asked for additional manpower and officers and employees from six different forest ranges from Dooars reached there. Deepak M., the divisional forest officer of Gorumara wildlife division, also went there. After removing the crowd, foresters took three shots from a dart gun but the darts missed the animal. They also engaged a drone to keep a constant watch on the animal. The foresters then used a hosepipe of a fire tender to distract the leopard and also burst sound crackers. The animal, however, did not budge from the spot. This made the foresters take another attempt to tranquilize it and this time, they succeeded. The animal turned unconscious but did not fall from the tree. Finally, two forest staff climbed the tree and used a bamboo pole to bring it down. Altogether, it took around six hours to rescue the animal. A net was cast on it and later, it was put in a cage and taken to the nature interpretation centre in Gorumara National Park. “We will keep it under observation for some time and then release it in the wild,” said a forest officer. Few days back, a similar incident had occurred in Naxalbari block of Darjeeling district as a leopard had climbed a tree in a village. Foresters had to cut down the tree to bring it down. Also, some weeks ago, another leopard had sneaked into Cooch Behar town.']
+
+
+Foresters----AUTH.SEIZE
+
+leopard----SP.COMMON
+
+Dhupguri town----LOC.EXACT
+
+Friday----DATE
+
+morning----TIME
+
+morning----TIME
+
+leopard----SP.COMMON
+
+Dhupguri police station----AUTH.SEIZE
+
+foresters of the wildlife squad----AUTH.SEIZE
+
+RAF----AUTH.MISC
+
+Deepak M.----OFF.NAME
+
+divisional forest officer----OFF.DESIG
+
+dart gun----DETECTION_METHOD
+
+drone----DETECTION_METHOD

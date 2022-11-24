@@ -1,0 +1,17 @@
+
+['Bear Attack: Latest News, Videos and Photos of Bear Attack\nbear attack in June: Two of six injured die in Srikakulam district of Andhra Pradesh TNN / Aug 08, 2022, 17:20 (IST) Sirla Chalapathi (45), who was injured in a bear attack on June 20 near Kidisingi village under Vajrapukotturu Mandal in Srikakulam district of Andhra Pradesh, died while undergoing treatment in a private hospital in Vizag city on Sunday night.']
+
+
+Bear----SP.COMMON
+
+Srikakulam district----LOC.DISTRICT
+
+Sirla Chalapathi----SUS.NAME
+
+45----SUS.AGE
+
+June 20----DATE
+
+Sunday----DATE
+
+night----TIME

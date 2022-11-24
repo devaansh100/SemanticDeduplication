@@ -1,0 +1,93 @@
+
+['Assam: Three apprehended with Royal Bengal tiger skin in Banderdewa\nGuwahati: Tiger skin and multiple tiger body parts were recovered by the Wildlife Crime Control Bureau (WCCB), Guwahati, police and forest officials from a petrol depot near the national highway at Banderdewa in Assam on Tuesday evening. As per officials, the skin belonged to a full grown Royal Bengal tiger. The body parts seized by the teams include four canines, 18 nails, bones and a skull weighing 14.4 kg. Also Read: Assam: Three arrested with 6.3 kg of pangolin scales in Tinsukia The items were seized by based on a input present with the teams from the Harmuti Range under Lakhimpur Division, Assam Police, Arunachal forest and police departments were part of the operation commanded by WCCB SRO (Guwahati) assistant director in-charge. Three persons were detained in connection with the case. They were identified as Tape Yomcha and Naynay Yomcha from Arunachal Pradesh and Probin Doley from Assam. Also Read: Nagaon police firing: Assam govt orders suspension of SI Pradip Bania “During preliminary interrogation, it came to light that the tiger was poached in retaliatory killing as it was hunting down cattle in the villages under West Siang district of Arunachal Pradesh. The case has been handed over to the Harmuti Range for further investigation,” an official statement said.']
+
+
+Assam----LOC.STATE
+
+Three----SUS.NUMBER
+
+apprehended----CRIME.CAT
+
+Royal Bengal----SP.SPECIFIC
+
+skin----ITEM
+
+Banderdewa----LOC.DISTRICT
+
+Tiger----SP.COMMON
+
+skin----ITEM
+
+tiger----SP.COMMON
+
+body parts----ITEM
+
+Wildlife Crime Control Bureau (WCCB)----AUTH.SEIZE
+
+Guwahati----LOC.CITY
+
+police----AUTH.SEIZE
+
+forest officials----AUTH.SEIZE
+
+petrol depot near the national highway at Banderdewa----LOC.EXACT
+
+Assam----LOC.STATE
+
+Tuesday----DATE
+
+evening----TIME
+
+Royal Bengal tiger----SP.SPECIFIC
+
+four----QTY
+
+canines----ITEM
+
+18----QTY
+
+nails----ITEM
+
+bones----ITEM
+
+a----QTY
+
+skull----ITEM
+
+14.4 kg----QTY
+
+Three----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+6.3 kg----QTY
+
+pangolin----SP.COMMON
+
+scales----ITEM
+
+Tinsukia----LOC.DISTRICT
+
+seized----CRIME.CAT
+
+Assam Police----AUTH.SEIZE
+
+Arunachal forest and----AUTH.SEIZE
+
+police departments----AUTH.SEIZE
+
+WCCB SRO (Guwahati)----AUTH.SEIZE
+
+assistant director in-charge----OFF.DESIG
+
+Three----SUS.NUMBER
+
+Tape Yomcha----SUS.NAME
+
+Naynay Yomcha----SUS.NAME
+
+Arunachal Pradesh----SUS.LOC
+
+Probin Doley----SUS.NAME
+
+case has been handed over to the Harmuti Range for further investigation----OUTCOME

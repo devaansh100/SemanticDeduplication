@@ -1,0 +1,19 @@
+
+['Chamarajanagar: Tiger caught in snare trap dies\nChamarajanagar: A tiger died after it was caught in a snare trap in Gandathur under Gundre forest range in Bandipura tiger reserve.  The male tiger, aged about six years, was found dead by beat forest guards beside a trench. The tiger is believed to have died of wounds it suffered as porcupine quills pierced through its body. It was found dead in the bush during an apparent attempt to free itself from the snare. The forest department dog Rana has been pressed into service to help officials investigate the incident. Forest officials conducted an autopsy and cremated the carcass as per the guidelines of National Tiger Conservation Authority.']
+
+
+Tiger----SP.COMMON
+
+tiger----SP.COMMON
+
+Gandathur under Gundre forest range in Bandipura tiger reserve----LOC.EXACT
+
+tiger----SP.COMMON
+
+found dead----CRIME.CAT
+
+tiger----SP.COMMON
+
+forest department dog----AUTH.MISC
+
+cremated the carcass----OUTCOME

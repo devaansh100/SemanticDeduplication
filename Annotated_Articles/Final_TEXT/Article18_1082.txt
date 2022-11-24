@@ -1,0 +1,39 @@
+
+['Wild elephant separated from herd attacks forest watcher in Coimbatore\nA female wild elephant that got separated from its herd during a drive operation by the Tamil Nadu forest department at Theethipalayam village near Coimbatore, attacked an Anti Poaching Forest watcher on Monday. According to forest department officials, Mohan (36), the anti-poaching watcher, is in good health. Forest department authorities and anti-poaching observers used firecrackers to drive the elephant away, but it suddenly turned around and pushed the anti-poaching watcher. Other members of the staff rescued him by chasing the elephant away. S. Balasubramanian, Field Director of the Anamalai Tiger Reserve (ATR), said the APW’s condition was stable and that he was recovering at the Government Medical College in Coimbatore. The elephant is being driven back into the forest by forest officials from the Coimbatore Forest Division, as well as range officers and anti-poaching observers. A senior officer with Coimbatore Forest Division told IANS: “This female elephant was part of a herd of six elephants that strayed into Theethipalayam village on Sunday night. The herd intruded into the agriculture farms and destroyed the crops and also damaged a house on the border of farmland. This female elephant was separated from the other five elephants and roamed through Theethipalayam village, Kalamapalayam village, and Annai Velankanni Nagar. The forest department has issued an advise to the residents of Theethipalayam and the surrounding areas, advising them not to leave their homes because an elephant is roaming the area, adding that the forest department is chasing the elephant into the forest with firecrackers and fire. (with inputs from IANS)']
+
+
+Wild elephant----SP.COMMON
+
+attacks----CRIME.CAT
+
+Coimbatore----LOC.DISTRICT
+
+wild elephant----SP.SPECIFIC
+
+drive operation----DETECTION_METHOD
+
+Tamil Nadu forest department----AUTH.SEIZE
+
+Theethipalayam village near Coimbatore----LOC.EXACT
+
+Anti Poaching Forest watcher----SUS.AFFIL
+
+Monday----DATE
+
+Mohan----SUS.NAME
+
+36----SUS.AGE
+
+anti-poaching watcher----SUS.AFFIL
+
+Forest department authorities----AUTH.SEIZE
+
+forest officials from the Coimbatore Forest Division----AUTH.SEIZE
+
+range officers----AUTH.SEIZE
+
+Sunday----DATE
+
+night----TIME
+
+forest department----AUTH.SEIZE

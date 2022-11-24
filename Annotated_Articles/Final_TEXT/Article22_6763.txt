@@ -1,0 +1,25 @@
+
+['Man brings snake to hospital along with wife after it bit her in Unnao\nKanpur: Doctors and paramedical staff at the district hospital in Unnao were in for a shock when a man reached there with his wife and a snake which he had captured in a bottle.When the man was asked why he had brought the snake, he said that the snake had bitten his wife. Since doctors often ask about variety of snake before starting treatment, he brought it to the hospital.Eyewitnesses said that the man, identified as Ramendra Yadav , from Raukarna village of Makhi, came to the hospital with the snake that had bitten his wife, Reena .The incident was reported on late Thursday evening when Reena was attending household chores.“A snake from somewhere bit her. Hearing her loud shrieks, the family rushed to her rescue. Later, I caught the snake and put it in a bottle. I, then brought the snake along with my wife to the district hospital,” he said.Soon after receiving the first aid and a dose of the antivenom, Reena was admitted for further treatment.Chief medical superintendent Pawan Kumar , however, said, “The woman’s condition is improving as she was brought to the hospital in time. The doctors attending her said that she is doing fine and out of danger.”“We want to tell, one need not bring the snake to the hospital in case of snakebite. Doctors identify the variety of the snake by its bite marks,” he said.The man later got convinced and released the serpent in the suitable habitat.']
+
+
+snake----SP.COMMON
+
+Unnao----LOC.EXACT
+
+Unnao----LOC.EXACT
+
+snake----SP.COMMON
+
+bottle.When----CONCEALMENT_METHOD
+
+Ramendra Yadav----SUS.NAME
+
+Raukarna village of Makhi----SUS.LOC
+
+snake----SP.COMMON
+
+Reena----SUS.NAME
+
+Thursday----DATE
+
+evening----TIME

@@ -1,0 +1,23 @@
+
+['Woman Allegedly Stung \'Multiple Times\' by Scorpion Aboard United Airlines Flight\nMove over snakes on a plane, a woman was allegedly stung "multiple times" by a scorpion aboard a United Airlines flight on Thursday. The passenger, who hasn\'t been named, was flying from San Francisco to Atlanta, claimed she was stung by the arachnid thousands of feet above the ground, reported TMZ. The daily reported that the woman felt a stinging pain which prompted her to use the restroom. There, the scorpion dropped out of her pants and the flight attendants scurried to capture the venomous creature. Once on the ground, the ailing woman was attended by medical personnel and later taken to a local hospital. A representative from United Airlines responded to the woman\'s claim to TMZ. "After learning that one of our customers on flight 1554 from San Francisco to Atlanta was stung during flight, our crew responded immediately and consulted with a MedLink physician on the ground who provided medical guidance," the airline rep was quoted as saying.']
+
+
+Woman----SUS.GENDER
+
+Stung----CRIME.CAT
+
+Scorpion----SP.COMMON
+
+United Airlines Flight----TRANSPORT_MODE
+
+woman----SUS.GENDER
+
+scorpion----SP.COMMON
+
+United Airlines flight----TRANSPORT_MODE
+
+Thursday----DATE
+
+San Francisco----ROUTE.SRC
+
+Atlanta----ROUTE.DEST

@@ -1,0 +1,29 @@
+
+['23 peacocks found dead in Bikaner village\nJAIPUR: As many as 23 peacocks were found poisoned at a farm at Seruna village in Sri Dungargarh forest range, Bikaner Carcasses of the birds were found scattered across a pea field after the birds allegedly ate grains laced with poison. Forest officials said that the farmer, Dinesh Kumar who was allegedly responsible for killing the national birds, was arrested on Monday night.The farmer had laced seeds with poison before sowing them, to ward off rats, squirrels, other birds and animals that ate the grains. Assistant Conservator of Forest (ACF) Iqbal Singh said, “The farmer was arrested and produced in court on Tuesday. We booked him under Section 9 and 51 of the Wildlife (Protection) Act, 1972.”As peacock is listed under Schedule I of the Wildlife (Protection) Act, 1972, the post-mortem was carried out after constituting two medical boards. “The report is awaited and the actual cause of death is yet to be ascertained. Viscera samples have been sent to the laboratory for examination. Prima facie, it is a case of poisoning.”According to sources, the farmer had recently ploughed the field. In this area, it has been a practice to dip the seeds in some kind of poison before sowing them, to prevent rats and squirrels from eating them. When the flock of peacocks consumed the grains, they died. Other birds including partridges were also found on the spot.Wildlife lovers in the state alleged that despite this high figure, the state government has failed to curb the increasing death toll of peacocks in the state. Many alleged that Rajasthan is no more a safe place for the peacocks, as frequent cases of poaching are being reported from different parts of the state. Wildlife lovers also claimed that the birds are also killed for meat. IUCN wildlife health specialist group member Dr Dau Lal Bohra said, “As the new year is approaching, the farmers make a contract with hoteliers and kill the birds for meat.”']
+
+
+23----QTY
+
+peacocks----SP.COMMON
+
+Bikaner village----LOC.EXACT
+
+23----QTY
+
+peacocks----SP.COMMON
+
+Seruna village in Sri Dungargarh forest range----LOC.EXACT
+
+Carcasses----ITEM
+
+farmer----SUS.AFFIL
+
+Dinesh Kumar----SUS.NAME
+
+Monday----DATE
+
+night----TIME
+
+Viscera samples have been sent to the laboratory for examination.----OUTCOME
+
+poisoning----CRIME.CAT

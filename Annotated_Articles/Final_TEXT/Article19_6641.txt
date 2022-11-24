@@ -1,0 +1,9 @@
+
+['From Anushka Sharma to Ratan Tata to Dutee Chand\u2060— these are some famous Indian personalities backing the fight for animal rights\nBollywood actor Anushka Sharma recently called for stricter laws against animal cruelty after a stray dog named “Lucky’ was beaten up for taking shelter in a residential area in Mumbai. Anushka Sharma, who was named the PETA person of the year 2017, is also building an animal shelter for abandoned animals.']
+
+
+Anushka Sharma----SUS.NAME
+
+Ratan Tata----SUS.NAME
+
+Dutee Chand⁠----SUS.NAME

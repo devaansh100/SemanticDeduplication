@@ -1,0 +1,81 @@
+
+['Three poachers held, live pangolin rescued\nThree poachers held, live pangolin rescued   A combined team of Crime Branch, WCCB and Forest Department nabbed three poachers and rescued a live pangolin from them in Manegaon square, on Friday. The arrested have been identified as Rajjan Daheria (44), son of Jwar Singh Daheria, Jagdish Daheria (28), son of Suraj Daheria and Ramswaroop Daheria (36), son of Jwar Singh Daheria, residents of Juggar Khamaria village, Adegaon in Seoni district. According to Crime Branch, taking prompt action on a tip-off, a combine team of Crime Branch, Wildlife Crime Control Bureau (WCCB) and Forest Department started a search and trapped the three suspects when they were standing at Manegaon square. IN their search, team rescued a live pangolin which is endangered specie. In further investigation, the accused disclosed that they had captured the pangolin from forest area in Juggar Khamaria village. The poachers were arrested with active working of team led by SHO of Bargi police station, Ritesh Pandey, Crime Branch’s ASI, Ramakant Mishra, Head Constable, Mukesh Patkar, Rajendra Biloha, Constables, Ajay Lodhi, Virendra Singh, Santosh and Lakhan Nishad.']
+
+
+Three----SUS.NUMBER
+
+pangolin----SP.COMMON
+
+Three----SUS.NUMBER
+
+Crime Branch----AUTH.SEIZE
+
+WCCB----AUTH.SEIZE
+
+Forest Department----AUTH.SEIZE
+
+nabbed----CRIME.CAT
+
+three----SUS.NUMBER
+
+poachers----CRIME.CAT
+
+a----QTY
+
+pangolin----SP.COMMON
+
+Manegaon square----LOC.EXACT
+
+Friday----DATE
+
+Rajjan Daheria----SUS.NAME
+
+44----SUS.AGE
+
+Jagdish Daheria----SUS.NAME
+
+28----SUS.AGE
+
+Ramswaroop Daheria----SUS.NAME
+
+36----SUS.AGE
+
+Juggar Khamaria village, Adegaon in Seoni district----SUS.LOC
+
+Wildlife Crime Control Bureau----AUTH.SEIZE
+
+WCCB----AUTH.SEIZE
+
+Forest Department----AUTH.SEIZE
+
+search----DETECTION_METHOD
+
+Manegaon square----LOC.EXACT
+
+forest area in Juggar Khamaria village----ROUTE.SRC
+
+poachers were arrested----OUTCOME
+
+SHO of Bargi police station----AUTH.SEIZE
+
+Ritesh Pandey----OFF.NAME
+
+Crime Branch’s ASI----AUTH.SEIZE
+
+Ramakant Mishra----OFF.NAME
+
+Head Constable----OFF.DESIG
+
+Mukesh Patkar,----OFF.NAME
+
+Rajendra Biloha----OFF.NAME
+
+Constables----AUTH.SEIZE
+
+Ajay Lodhi----OFF.NAME
+
+Virendra Singh----OFF.NAME
+
+Santosh----OFF.NAME
+
+Lakhan Nishad.----OFF.NAME

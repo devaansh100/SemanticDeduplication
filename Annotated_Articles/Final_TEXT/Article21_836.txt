@@ -1,0 +1,31 @@
+
+['Madhya Pradesh: Slain tiger Heera’s skin found in a pond near Panna Tiger Reserve\nBHOPAL: The skin of the tiger famed as Heera of Panna Tiger Reserve has been found floating in a pond in a village in Satna, not far from where its mutilated carcass was discovered on October 31.The three men in custody, who had allegedly peeled the skin off the tiger after it was electrocuted, have told forest officials that they didn’t intend to kill it. They claim to have illegally electrified their fence to protect their crops.When Heera got electrocuted on the wires, they panicked and tried to dispose of its remains. But forest officials arrived on the scene before they could destroy or hide the entire carcass. They didn’t realise Panna’s radio collar would alert foresters and pinpoint the tiger’s location.After interrogating the suspects — Ramprakash Bagri, Munna Chaudhary and Krishna — the forest department found the skin in a pond.“The fence covered three sides of the farm and the tiger came in contact with it. The farmers panicked and decided to peel off its skin so that they could hide the meat and dispose of everything separately. They dumped the skin in water, hoping that it would decompose soon. They were not aware of the radio collar, which led foresters to the spot,” said an officer.“If they had any commercial intention, they wouldn’t have dumped the skin in water. It was a panic action,” he said. All three have been booked under Wildlife Protection Act.Panna’s death is seen as a blow to ‘ Tiger State ’ Madhya Pradesh. Not only was a young tiger killed, it was one of the famous Heera-Panna siblings and it was also the subject of an exhaustive radio-collar study on dispersal of tigers.Heera and Panna were frequently spotted and photographed in PTR ’s Akola range, and were the sole reason for the dramatic rise in tourist footfall in that region.Heera’s rotting and skinned carcass was found in Singhpur range, around 70km away from Satna district headquarters, last Sunday. The site is close to PTR in the Vindhya landscape, where tigers are known to disperse. Heera was in fact moving out in search of new territory when it was killed.Heera and Panna had moved outside PTR on July24. The last signal received from Heera’s collar was on October 13, said an officer.Questions are being raised as to why forest officials took 15 days to react even when the signals failed. Heera’s radio collar was found a short distance from where its carcass lay. The tiger was around 22-monthsold.Panna is home to more than 70 tigers, 50 of them above the age of one year.']
+
+
+tiger----SP.COMMON
+
+Heera----SUS.NAME
+
+skin----ITEM
+
+Panna Tiger Reserve----LOC.EXACT
+
+skin----ITEM
+
+tiger----SP.COMMON
+
+Satna----LOC.EXACT
+
+October 31.The three----DATE
+
+men----SUS.GENDER
+
+Ramprakash Bagri----SUS.NAME
+
+Munna Chaudhary----SUS.NAME
+
+Krishna----SUS.NAME
+
+All three have been booked under Wildlife Protection Act.Panna’s death is seen as a blow to ‘ Tiger State ’ Madhya Pradesh. Not only was a young tiger killed, it was one of the famous Heera-Panna siblings and it was also the subject of an exhaustive radio-collar study on dispersal of tigers.Heera and Panna were frequently spotted and photographed in PTR ’s Akola range, and were the sole reason for the dramatic rise in tourist footfall in that region.Heera’s rotting and skinned carcass was found in----OUTCOME
+
+Singhpur range----LOC.EXACT

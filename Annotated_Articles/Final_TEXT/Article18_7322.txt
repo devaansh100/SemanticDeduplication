@@ -1,0 +1,35 @@
+
+['Coimbatore: Truck runs over lost deer at Kaniyur toll plaza\nA truck ran over and killed a spotted deer near the Kaniyur toll plaza on Salem-Kochi highway (NH 544) in Coimbatore on Monday. The officials from Forest Department suspects that the deer could have lost its way and reached the highway. The Forest Department suspects that the deer could have lost its way. (Representational Image) By India Today Web Desk: In a tragic incident, a spotted deer was killed by a truck near the Kaniyur toll plaza on Salem-Kochi highway (NH 544) in Coimbatore. On Monday, a truck ran over a deer who supposedly lost its way while straying into human habitations. The Forest Department suspects that the deer reached the highway while wandering, which is located several kilometres from reserve forest areas in the district. advertisement As per the report by the Hindu, a 5-year-old female deer could have strayed from unused land on the banks of River Koushika close to the borders of Tiruppur district. After being autopsied by a veterinarian, the carcass was buried by the Forest Department. READ| Hyderabad: Nirmal municipal vice-chairperson booked for raping 15-year-old girl --- ENDS ---']
+
+
+Truck----TRANSPORT_MODE
+
+deer----SP.COMMON
+
+Kaniyur toll plaza----LOC.EXACT
+
+truck----TRANSPORT_MODE
+
+spotted deer----SP.SPECIFIC
+
+Kaniyur toll plaza on Salem-Kochi highway (NH 544)----LOC.EXACT
+
+Coimbatore----LOC.DISTRICT
+
+Monday----DATE
+
+Forest Department----AUTH.SEIZE
+
+deer----SP.COMMON
+
+spotted deer----SP.SPECIFIC
+
+truck----TRANSPORT_MODE
+
+Coimbatore----LOC.DISTRICT
+
+Monday----DATE
+
+truck----TRANSPORT_MODE
+
+deer----SP.COMMON

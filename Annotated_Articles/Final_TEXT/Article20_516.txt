@@ -1,0 +1,77 @@
+
+['Police arrest three wildlife traffickers\nSHILLONG, Nov 15: Three persons involved in trafficking of Indian Pangolin and Pangolin scales were arrested by the Jaintia Hills Wildlife Division. Acting on inputs from reliable sources that a gang is actively poaching and trafficking wild animals and their body parts in West Jaintia Hills district bordering West Karbi Anglong district of Assam. A specific input was received from one of the informers that on November 11, someone will bring wild animals body parts from West Karbi Anglong to Meghalaya for sale. Accordingly, a team of officials from the Jaintia Hills wildlife division led by the divisional forest officer laid a trap at Khanduli village to intercept the traffickers. A team of police officials was also present to assist the forest officials. The team saw a car coming from Hamren. They stopped the car and found three persons Serus Bhoi, Francis Lamare and Arki Lamare, all from Namdong village were inside the vehicle. A live Indian Pangolin and 1.20 kg pangolin scales were also recovered from the car. All the three persons were arrested and brought to Jowai. The arrested persons revealed that the live Pangolin and scales were purchased from a person in Hamren in West Karbi Anglong.Keeping in view the seriousness of the crime, the chief judicial magistrate, Jowai court remanded the accused to judicial custody. “Further investigation to unravel the entire chain of illegal trafficking and to identify and arrest others who are involved in capture, hunting, transportation and purchase of wild animals and their body parts is presently under progress”, the statement said. The DFO informed that on November 12, the pangolin gave birth to a healthy pup. The rescued pangolin along with the pup will shortly be released at a safe and secure location within the Narpuh Wildlife Sanctuary after obtaining approval from the court.']
+
+
+Police----AUTH.SEIZE
+
+three----SUS.NUMBER
+
+SHILLONG----LOC.CITY
+
+Three----SUS.NUMBER
+
+trafficking----CRIME.CAT
+
+Pangolin----SP.COMMON
+
+Pangolin scales----ITEM
+
+Jaintia Hills Wildlife Division----AUTH.SEIZE
+
+inputs from reliable sources----DETECTION_METHOD
+
+poaching----CRIME.CAT
+
+trafficking----CRIME.CAT
+
+November 11----DATE
+
+Jaintia Hills wildlife division----AUTH.SEIZE
+
+divisional forest officer----OFF.DESIG
+
+Khanduli village----null
+
+traffickers----SUS.AFFIL
+
+police officials----AUTH.SEIZE
+
+car----TRANSPORT_MODE
+
+car----TRANSPORT_MODE
+
+three----SUS.NUMBER
+
+Serus Bhoi----SUS.NAME
+
+Francis Lamare----SUS.NAME
+
+Arki Lamare----SUS.NAME
+
+Pangolin----SP.COMMON
+
+1.20 kg----QTY
+
+pangolin scales----ITEM
+
+car----TRANSPORT_MODE
+
+three----SUS.NUMBER
+
+Pangolin----SP.COMMON
+
+scales----ITEM
+
+judicial custody. “----OUTCOME
+
+illegal trafficking----CRIME.CAT
+
+hunting----CRIME.CAT
+
+transportation----CRIME.CAT
+
+purchase of wild animals----CRIME.CAT
+
+November 12----DATE
+
+pangolin----SP.COMMON

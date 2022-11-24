@@ -1,0 +1,31 @@
+
+['Leopard preys on 5th human victim in UP\nFollow us on Image Source : FILE Leopard preys on 5th human victim in UP district In a fifth such incident in recent weeks, a leopard mauled a 65-year-old labourer to death in Uttar Pradesh\'s in Bijnor district. The incident happened in the Nangla Maheshwari village on Thursday afternoon. Hours after killing the labourer, a farmer was also attacked by a big cat, near the same spot. According to reports, the leopard attacked Shafiq Ahmed while he was working near a tubewell. Hearing his cries, those working in nearby fields rushed to his aid, but by then the leopard had dragged him inside a sugarcane field and killed him. The farmers tried to make noise and drive away the leopard, but it was too late. Hours later, farmer Guddu was attacked in the Ratanpur village in his fields. He was saved by his neighbours. The villagers blame forest authorities for doing nothing to save the farmers from the leopards. Digambar Singh, district president of Bhartiya Kisan Union (BKU) said: "Sugarcane fields have turned into big cat habitat. Farmers have to risk their lives to work in their fields. We have repeatedly demanded that forest authorities control the number of leopards in the region but to no avail." Sub divisional forest officer Imtiaz Siddiqui and ranger Sharad Gupta who rushed to the spot, were taken hostage by enraged farmers who demanded that the big cat be declared a man-eater and caught. Wildlife experts believe that the same leopard is attacking human beings. According to official sources, a big cat has been declared man-eater by principal chief conservator of wildlife on the basis of the reports sent by the Divisional Forest Officer. The leopard is said to be changing its location frequently. However, Bijnor divisional forest officer M. Semmaran said: "It is yet to be ascertained if it is the same big cat which is killing the villagers. We have placed four cages at different locations and cameras have been fixed to trap the animal." District Magistrate Ramakant Pandey said: "Adequate action will be taken after discussion with the orest authorities." It may be recalled that on November 27, a woman was killed by a leopard in Nawada village, a five- year-old boy was killed on December 17 and on December 19, a leopard mauled a 23-year-old youth at Alam Saray village. A 16-year-old boy was killed by the big cat at Asgarpur village on December 26. Also Read: Leopard attacks on the rise in West Uttar Pradesh Also Read: Leopard enters house in Delhi\'s Ashok Vihar, triggers panic Latest India News']
+
+
+Leopard----SP.COMMON
+
+UP----LOC.STATE
+
+Leopard----SP.COMMON
+
+leopard----SP.COMMON
+
+65-year-old----SUS.AGE
+
+Bijnor----LOC.DISTRICT
+
+Nangla Maheshwari village----LOC.EXACT
+
+Thursday----DATE
+
+afternoon----TIME
+
+Shafiq Ahmed----SUS.NAME
+
+Sub divisional forest officer----OFF.DESIG
+
+Imtiaz Siddiqui----OFF.NAME
+
+ranger----OFF.DESIG
+
+Sharad Gupta----OFF.NAME

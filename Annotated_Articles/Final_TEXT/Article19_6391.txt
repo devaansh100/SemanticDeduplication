@@ -1,0 +1,22 @@
+
+['Leopard caught in Seepz, released in Sanjay Gandhi National Park\nMumbai forest department leopard Seepz Andheri Sanjay Gandhi National Park Borivali Untitled Carousel Mumbai: Leopard walks over to Seepz, attacks two dogs A leopard strayed into Andheri (East) and attacked two dogs near Seepz early on Monday. : Theon Thursday caught athat had entered a residential area inThe animal was soon released inside the(SGNP) in, said an official.The leopard was caught with the help of a trapping cage around 6 am and was released inside the forest around two hours later, said Jitendra Ramgaonkar, deputy conservator of forests.The forest department had placed camera traps and CCTV cameras in the locality to capture the animal, which had been on the prowl in the area for over two weeks, the official said. On December 9, the leopard attacked a dog opposite and then another dog in the area that same night.A security guard also spotted the leopard sitting on a boundary wall in the Mahakali caves area, the official said.']
+
+
+Leopard----SP.COMMON
+
+Seepz----LOC.EXACT
+
+released in Sanjay Gandhi National Park
+----OUTCOME
+
+leopard----SP.COMMON
+
+leopard----SP.COMMON
+
+Seepz----LOC.EXACT
+
+Monday----DATE
+
+Thursday----DATE
+
+6 am----TIME

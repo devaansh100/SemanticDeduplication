@@ -1,0 +1,23 @@
+
+['Tourist shoots endangered Kashmir Markhor in Chitral\nA tourist shot an endangered female Kashmir Markhor in Chitral\'s Toshi Shasha conservation centre Monday afternoon. According to witnesses, the Markhor was drinking water from a river near the Garam Chashma road when the bullet hit her and the six-year-old animal fell into the river. The animal was rescued by the wildlife department and immediately moved to a veterinary hospital. "She is in critical condition," the department\'s DFO said. During summer, female markhors come down from their habitat to give birth. A complaint has been registered against the suspect, who was visiting the area from another district. He managed to flee from the site. According to a study, Kashmir Markhor is endangered in the area because of habitat loss, unsustainable hunting, and competition with domestic livestock. The mountain goat\'s habitat includes the Hindu Kush Himalayas in Pakistan, India, Uzbekistan, Afghanistan, and Tajikistan. Markhor is protected by local and international laws like the Convention on International Trade in Endangered Species. It can be found in Gilgit-Baltistan, Chitral, Kalash Valley, Hunza among other Northern parts of Pakistan. Although hunting the markhor is illegal in Pakistan, the government has introduced a scheme that makes the hunt legal. The scheme is known as trophy hunting. A hunting trophy license is issued after a proper auction by Peshawar’s wildlife department. The highest bidder is then given a permit to hunt one markhor. Annually, four hunting trophy licenses are issued for Markhor hunting and 80% of the money collected is distributed among the local community, whereas 20% is kept by the wildlife department. Follow SAMAA English on Facebook, Twitter, and Instagram.']
+
+
+Tourist----SUS.AFFIL
+
+shoots----CRIME.CAT
+
+Kashmir Markhor----SP.SPECIFIC
+
+Chitral----LOC.DISTRICT
+
+tourist----SUS.AFFIL
+
+Kashmir Markhor----SP.SPECIFIC
+
+Toshi Shasha conservation centre----LOC.EXACT
+
+Monday----DATE
+
+afternoon----TIME
+
+wildlife department----AUTH.SEIZE

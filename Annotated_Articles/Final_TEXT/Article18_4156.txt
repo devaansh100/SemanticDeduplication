@@ -1,0 +1,49 @@
+
+['FCR to 2 accused in tiger electrocution in Tumsar till Apr 7\nÂ·Â Â Â Â Â Accused threw body of tiger in canal The Judicial Magistrate First Class (JMFC), Tumsar, granted Forest Custody Remand (FCR) to two accused till April 7 in the death of a tiger that was found in a canal of Bawanthadi river near Bapera village in Nakadongri Forest Range, Tumsar in Bhandara district. A team led by Saket Shende, Range Forest Officer, Tumsar, and Officer of Gadegaon Depot found certain clues in the vicinity of the canal and started enquiring with five local persons. The officers seized bones of wild animals, skull, stacks used for electrocution and other materials from the field belonging to Tulshiram Dashrath Lilhare. The investigating team for found pug-marks of tiger in the field and hence the officers arrested Tulshiram and his son Shashikant on Saturday. During interrogation, the accused confessed to have electrocuted the tiger, carried the carcass in a bullock-cart and thrown the body in the canal. The team produced both the accused before JMFC on Sunday and the court granted them FCR till April 7. This is the second case of electrocution of a tiger in Bhandara district this year. Rahul Gavai, Deputy Conservator of Forest, Bhandara, has appealed to farmers not to indulge in electrocuting the tiger, which falls in the category of Schedule I in Wildlife Protection Act, 1972. There is a provision of imprisonment for three to seven years, if a person poaches tiger, he added.']
+
+
+2----SUS.NUMBER
+
+tiger----SP.COMMON
+
+electrocution----CRIME.CAT
+
+Tumsar----LOC.CITY
+
+Apr 7----DATE
+
+body----ITEM
+
+tiger----SP.COMMON
+
+Forest Custody Remand (FCR)----OUTCOME
+
+two----SUS.NUMBER
+
+April 7----DATE
+
+tiger----SP.COMMON
+
+Bawanthadi river near Bapera village in Nakadongri Forest Range,----LOC.EXACT
+
+Tumsar----LOC.DISTRICT
+
+Bhandara district----LOC.DISTRICT
+
+Saket Shende----OFF.NAME
+
+Range Forest Officer, Tumsar----OFF.DESIG
+
+Officer of Gadegaon Depot----OFF.DESIG
+
+bones----ITEM
+
+skull----ITEM
+
+stacks----ITEM
+
+Tulshiram Dashrath Lilhare----SUS.NAME
+
+Shashikant----SUS.NAME
+
+tiger----SP.COMMON

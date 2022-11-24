@@ -1,0 +1,41 @@
+
+['Andhra Pradesh: 1 arrested for smuggling Indian star tortoises\nOne person was apprehended for illegally smuggling star tortoises, an endangered species that has been listed in the Schedule 4 of the Wildlife Protection Act, 1974. One person was arrested for smuggling Indian star tortoises. (Image for Representation) By Ashish Pandey: Andhra Pradesh Special Enforcement Bureau (SEB) officials have arrested one person for allegedly smuggling star tortoises, an endangered species that has been listed in the Schedule 4 of the Wildlife Protection Act, 1974. Acting on intelligence inputs, officials apprehended Selvakumar Ravikumar, son on Ravikumar, while illegally transporting Star tortoises. The officials also rescued 250 Star tortoises. Selvakumar was detained and later handed over to the forest department officials for further legal action. A case has been registered under various sections of the Wild Life (Protection) Act, 1972. advertisement ALSO READ: Elephants struggle to cross tracks in viral video. Railway Ministry takes action ALSO READ: Cobra rescued from Dwarka Sector 8 metro station --- ENDS ---']
+
+
+1----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+Indian star tortoises----SP.SPECIFIC
+
+One----SUS.NUMBER
+
+apprehended----CRIME.CAT
+
+star----SP.SPECIFIC
+
+tortoises----SP.COMMON
+
+One----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+Indian star tortoises----SP.SPECIFIC
+
+Andhra Pradesh Special Enforcement Bureau (SEB)----AUTH.SEIZE
+
+one----SUS.NUMBER
+
+star----SP.SPECIFIC
+
+tortoises----SP.COMMON
+
+intelligence inputs----DETECTION_METHOD
+
+Selvakumar Ravikumar----SUS.NAME
+
+Star tortoises----SP.SPECIFIC
+
+250----QTY
+
+Star tortoises----SP.SPECIFIC

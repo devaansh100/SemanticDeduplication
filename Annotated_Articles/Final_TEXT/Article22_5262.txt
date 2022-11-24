@@ -1,0 +1,19 @@
+
+["Surat Bldg’s Glass Wall Rings Death Knell For Rosy Starlings\nSurat: Rosy starlings die after hitting into glass facade SURAT: In a tragic incident, a flock of eastern European migratory bird species, the rosy starling (pastor roseus), hit a glass building leading to the death of 27 birds.While nearly 10 have flown away, the carcasses of the not-so-lucky winged visitors were recovered from the spot at the Surat District Co-Op Bank, where they hit its outer glass wall that is reflective and possibly misleading the flock's flight path.The incident has surprised many researchers in the area, including the experienced ones who claim this is a first in their knowledge in the city’s history.“I can’t recall such an incident in India, but birds dying after hitting glass buildings or windows are reported in high numbers in foreign countries,” said Dr P Pramod , senior principal scientist, Salim Ali Centre for Ornithology and Natural History, Coimbatore.Dr Pramod, who did his post-doctoral studies at IISc, Bangalore, said, “Glass buildings have become a threat for birds, especially the migratory species. They get confused as they see the sky in the reflective glass. Surat lies in the rosy starlings’ migration path and the birds must be staying in the city for a few days.”“It is an unfortunate incident and we will ensure that it is not repeated. It is an eastern European bird that migrates to India during winter. I am coming across such an incident for the first time,” said Puneet Nayyar , deputy conservator of forest, Surat."]
+
+
+Surat Bldg----LOC.EXACT
+
+Rosy Starlings----SP.SPECIFIC
+
+Rosy starlings----SP.SPECIFIC
+
+rosy starling----SP.SPECIFIC
+
+pastor roseus----SP.SPECIFIC
+
+27----QTY
+
+carcasses----ITEM
+
+Surat District Co-Op Bank----LOC.EXACT

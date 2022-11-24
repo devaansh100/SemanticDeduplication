@@ -1,0 +1,21 @@
+
+['Caught in Snare Trap, Lion Chokes to Death in Gujarat\'s Amreli\nAhmedabad: A lion choked to death after getting caught in a snare put up by farmers near a village in Amreli taluka of Gujarat on Friday, officials said. The incident took place in the morning on the outskirts of Mithapur-Dungri village in Dhari taluka, located close to the Gir forest, the last abode of Asiatic lions. "As per the investigation carried out by the forest staff, a young lion, around two-and-a-half years old, died of strangulation after its neck got stuck in a snare trap put up by local farmers to catch pigs that destroy their standing crops," DT Vasavada, Chief Conservator of Forest, Wild Life Circle (Junagadh), said. "We found a steel wire, probably a clutch wire of a motorcycle, around the neck of the dead lion. The autopsy confirmed that the animal died of strangulation while trying to escape the snare. The trap was not meant for catching or killing lions. The lion must have got entangled in it by accident," he added. An offence under Wildlife (Protection) Act was registered against unidentified persons for setting up the trap. The forest staff has started scanning the entire area to ensure that similar traps are not placed elsewhere as well, the officer said.']
+
+
+Lion----SP.COMMON
+
+Gujarat's----LOC.STATE
+
+Amreli----LOC.CITY
+
+lion----SP.COMMON
+
+Gujarat----LOC.STATE
+
+Friday----DATE
+
+morning----TIME
+
+Mithapur-Dungri village in Dhari taluka----LOC.EXACT
+
+Asiatic lions----SP.SPECIFIC

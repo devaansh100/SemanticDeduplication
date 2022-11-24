@@ -1,0 +1,33 @@
+
+['Odisha: Necropsy points at removal of tusks of Athagarh elephant\nBy Express News Service BHUBANESWAR: Recovery of the elephant carcass, which was recovered by State Task Force (STF) of Odisha Police from Athagarh Forest Division, appears to be a case of poaching as preliminary investigation has found that the tusks were removed and the carcass was charred. Sources in the veterinary team that carried out the necropsy said the animal may have been charred before being buried. They have found the elephant to be a sub-adult male aged about 8 to 9 years. “Our findings indicate a traumatic and sharp cutting injury (near the cavity) and removal of tusks,” said a member of the expert team. Most of the bones recovered from the site were also charred. Besides, there was no trace of internal organs. The team is continuing its tests at the Centre for Wildlife Health (CWH) to ascertain the exact cause of the death of the elephant. Meanwhile, the Regional Chief Conservator of Forests (RCCF), Angul Circle Akshaya Patnaik submitted the report of his investigation in the matter to the PCCF (Wildlife) Sashi Paul on Thursday. Paul said, he will examine the report to find if there was involvement of any forest official in the incident and seek action from the department accordingly. Sources said, the investigation holds at three forest staff accountable for the incident. Exemplary action will be initiated in the case.Athagarh DFO in-charge Sanjay Swain said investigation is underway to recover the missing tusks and trace those involved in the incident. The Forest and Environment department has already suspended a forester and forest guard of Narasinghpur range following recovery of the carcass from Balikiari forest under Barasingha section. The STF is also continuing its probe in this matter. This is the second such incident in Athagarh division. BHUBANESWAR: Recovery of the elephant carcass, which was recovered by State Task Force (STF) of Odisha Police from Athagarh Forest Division, appears to be a case of poaching as preliminary investigation has found that the tusks were removed and the carcass was charred. Sources in the veterinary team that carried out the necropsy said the animal may have been charred before being buried. They have found the elephant to be a sub-adult male aged about 8 to 9 years. “Our findings indicate a traumatic and sharp cutting injury (near the cavity) and removal of tusks,” said a member of the expert team. Most of the bones recovered from the site were also charred. Besides, there was no trace of internal organs. The team is continuing its tests at the Centre for Wildlife Health (CWH) to ascertain the exact cause of the death of the elephant. Meanwhile, the Regional Chief Conservator of Forests (RCCF), Angul Circle Akshaya Patnaik submitted the report of his investigation in the matter to the PCCF (Wildlife) Sashi Paul on Thursday. Paul said, he will examine the report to find if there was involvement of any forest official in the incident and seek action from the department accordingly. Sources said, the investigation holds at three forest staff accountable for the incident. Exemplary action will be initiated in the case.Athagarh DFO in-charge Sanjay Swain said investigation is underway to recover the missing tusks and trace those involved in the incident. The Forest and Environment department has already suspended a forester and forest guard of Narasinghpur range following recovery of the carcass from Balikiari forest under Barasingha section. The STF is also continuing its probe in this matter. This is the second such incident in Athagarh division.']
+
+
+Odisha----LOC.STATE
+
+tusks----ITEM
+
+Athagarh elephant----LOC.EXACT
+
+elephant----SP.COMMON
+
+carcass----ITEM
+
+State Task Force (STF)----AUTH.SEIZE
+
+Police----AUTH.SEIZE
+
+Athagarh Forest Division----AUTH.SEIZE
+
+poaching----CRIME.CAT
+
+elephant----SP.COMMON
+
+carcass----ITEM
+
+State Task Force (STF)----AUTH.SEIZE
+
+Police----AUTH.SEIZE
+
+Athagarh Forest Division----LOC.EXACT
+
+poaching----CRIME.CAT

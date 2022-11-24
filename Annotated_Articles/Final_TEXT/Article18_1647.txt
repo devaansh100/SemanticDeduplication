@@ -1,0 +1,59 @@
+
+['Three arrested for poisoning tiger to death in Koriya\nRaipur: Three villagers were held in Koriya district of Chhattisgarh for poisoning a tiger to death. The carcass of the male tiger aged about 8 years was found in Guru Ghasidas national park.During investigation it came to notice that the feline was poisoned. The locals in the areas were questioned and fes confessed to the crime.Forest officials claimed that carcass of 7-8-year-old of male tiger was found near Salgava village in Ramgarh forest range and it was a matter of investigation if the tiger ventured from bordering forests of Madhya Pradesh The carcass of tiger was found inside a ditch about two kilometres away from where the carcass of a buffalo was recovered.Speaking to TOI, Guru Ghasidas national park’s director, Ranganadha Ramakrishna Y said carcass of the male tiger was found at Ramgarh forest range on June 5 around 8 pm. The next day, villagers informed that a half-eaten buffalo too was found close to the spot.The samples of both were collected and sent to forensic lab in Raipur and Bareilley and the autopsy report is awaited. He said that it was a case of suspected poisoning as the dog squad that sniffed around the buffalo, went straight to the house of a cattle rearer. Ramakrishna said that three people were detained by the forest team under suspicion and they have confessed to poisoning the tiger.']
+
+
+Three----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+poisoning----CRIME.CAT
+
+tiger----SP.COMMON
+
+Koriya----LOC.EXACT
+
+Three----SUS.NUMBER
+
+Koriya----LOC.DISTRICT
+
+Chhattisgarh----LOC.DISTRICT
+
+tiger----SP.COMMON
+
+carcass----ITEM
+
+tiger----SP.COMMON
+
+Guru Ghasidas national park.During----LOC.EXACT
+
+poisoned----CRIME.CAT
+
+carcass----ITEM
+
+Salgava village in Ramgarh forest range----LOC.EXACT
+
+carcass----ITEM
+
+tiger----SP.COMMON
+
+Guru Ghasidas national park’s director----AUTH.SEIZE
+
+Ranganadha Ramakrishna Y----OFF.NAME
+
+carcass----ITEM
+
+tiger----SP.COMMON
+
+Ramgarh forest range----LOC.EXACT
+
+June 5----DATE
+
+8 pm----TIME
+
+samples of both were collected and sent to forensic lab in Raipur and Bareilley----OUTCOME
+
+poisoning----CRIME.CAT
+
+three----SUS.NUMBER
+
+poisoning----CRIME.CAT

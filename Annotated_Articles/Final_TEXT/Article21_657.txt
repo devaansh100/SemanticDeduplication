@@ -1,0 +1,35 @@
+
+['Stolen elephant tusk recovered from TN tribal village\nUDHAGAMANDALAM: A team of forest officials of Anamalai Tiger Reserve (ATR), on Thursday, recovered the stolen tusk from a village about 6 km away from the site of the elephant death, that is, Kattupatti tribal settlement in Sadayamparai reserve forest area in Udumalpet forest range.On August 29 evening, frontline workers of the forest department found a carcass of a jumbo with its left tusk missing near Kattupatti tribal settlement in Sadayamparai reserve forest area in Udumalpet forest range. It was stated that the tusk was chopped off from the elephant carcass. The cause of death of the jumbo seemed mysterious. The pachyderm would have died a week ago. There were no external injuries found.According to forest officials, efforts are being taken to collect different evidence and collate to know about the cause of death of the animal. A team was formed to investigate the poaching case. Shekar Kumar Niraj, principal chief conservator of forest and chief wildlife warden told TOI, “It is not proper to reveal the name of the village, from where the tusk was recovered, as it would damage the ongoing investigation. It is the first time in Tamil Nadu that a poaching case has been zeroed in within four days of its occurrence”.He added, “As of now, we are close to arrest the culprits. It will be done sooner without leaving any loopholes for the offenders”.It was an outstanding investigation done by the team of ATR officials headed by Ganeshan, deputy director, ATR. The tusk is huge and about 1.5 metre long weighing about 15 kgs, according to Niraj. “The investigation is being conducted completely scientifically with various DNA fingerprinting done and CDR analysis of the calls made around the time and the area”, said the official. Full scale efforts are on to get the offenders under arrest, he added.']
+
+
+Stolen----CRIME.CAT
+
+elephant----SP.COMMON
+
+tusk----ITEM
+
+forest officials----AUTH.SEIZE
+
+Anamalai Tiger Reserve (ATR)----AUTH.SEIZE
+
+Thursday----DATE
+
+tusk----ITEM
+
+Kattupatti tribal settlement in Sadayamparai reserve forest area in Udumalpet forest range.On----LOC.EXACT
+
+August 29----DATE
+
+evening----TIME
+
+forest department----AUTH.SEIZE
+
+carcass----ITEM
+
+jumbo----SP.COMMON
+
+Kattupatti tribal settlement----LOC.EXACT
+
+ATR officials----AUTH.SEIZE
+
+Ganeshan----OFF.NAME

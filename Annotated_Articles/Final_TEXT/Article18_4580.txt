@@ -1,0 +1,55 @@
+
+['Elephants High On Mahua Kill Five Villagers In 2 Days In Shahdol\nBHOPAL: A herd of elephants that had crossed over from Chhattisgarh two days ago has since killed five people, including two couples, in MP’s Shahdol district, apparently in a frenzied search for the intoxicating mahua flowers.MP’s chief wildlife warden J S Chouhan told TOI that three persons guarding a heap of mahua inside Amjhor forest range were killed by the elephants early Tuesday. “The forest department has been asking people to stay away from forest areas, but they overlooked the warning. If necessary, we will evacuate the villages,” he said. Forest guards are going around villages, warning people not to brew mahua during this period as elephants have a strong sense of smell and can be drawn to human habitations, flattening everything in their path.Lallu Kanwar, 50, his wife Lalita, 48, and her sister Devi Singh, 38 – residents of Basa village had gone into the Jaisingh Nagar forest range, around 60km from the district headquarters, in search of mahua. They were sleeping next to a pile of mahua they had collected during the day when they were attacked between 3am and 4am. All three died on the spot.This is the same area where a couple was trampled to death by the herd the previous day. Motilal Basor , 60, and his wife, Muliya Bai , 55, were attacked when they were collecting mahua in Amjhor forest range, said officials. The herd had crossed over from Keswahi in Chhattisgarh on Sunday night and the attack took place within hours. Senior officials, including district collector Vandana Vaidhya , ADG D C Sagar and SP Awdesh Goswami, went to Basa village and met the bereaved family. The three bodies were handed over to their relatives after autopsy. Financial assistance will be provided to the family, as per law.Officers fear that these “drunken jumbos” may wreak havoc in the locality and have advised villagers to avoid going into the forest. While the death toll in elephant attacks rises, the MP government and the Centre are yet to act on the recommendations given by the expert committee, which had suggested a government policy to deal with such incidents, warning that the elephant herds may settle down in MP, triggering a spike in human-animal conflict. These ‘immigrant tuskers’ come in contact with humans as they feed on cultivated crops and exhibit the ‘culturally-transmitted behaviour’ of breaking into houses in search of stored grain, salt and perhaps liquor, the core committee set up by the government on mitigation of Human-Elephant Conflict (HEC) had reported.After an extensive field investigation, the panel had made several recommendations to mitigate conflict. They said the government needs to make considerable management effort to ensure the elephant population settles in with minimum conflict. Experts have recommended an ex gratia policy for human elephant conflict. “The state government must urgently put in place a comprehensive policy regarding payment for crop damage as well as grain loss with reference to crop depredation by elephants,” experts say.']
+
+
+Mahua----SP.SPECIFIC
+
+Five----SUS.NUMBER
+
+Shahdol----LOC.DISTRICT
+
+five----SUS.NUMBER
+
+MP’s----LOC.STATE
+
+Shahdol district----LOC.DISTRICT
+
+Tuesday----DATE
+
+Lallu Kanwar----SUS.NAME
+
+50----SUS.AGE
+
+Lalita----SUS.NAME
+
+48----SUS.AGE
+
+Devi Singh----SUS.NAME
+
+38----SUS.AGE
+
+Basa village----SUS.LOC
+
+Motilal Basor----SUS.NAME
+
+60----SUS.AGE
+
+Muliya Bai----SUS.NAME
+
+55----SUS.AGE
+
+Sunday----DATE
+
+night----TIME
+
+district collector----OFF.DESIG
+
+Vandana Vaidhya----OFF.NAME
+
+ADG----OFF.DESIG
+
+D C Sagar----OFF.NAME
+
+SP----OFF.DESIG
+
+Awdesh Goswami----OFF.NAME

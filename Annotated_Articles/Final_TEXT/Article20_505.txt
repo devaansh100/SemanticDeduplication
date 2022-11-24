@@ -1,0 +1,65 @@
+
+['Five arrested for trying to sell elephant tusks\nBengaluru: Five persons were arrested by VV Puram police here while they were trying to sell two tusks of elephants on Saturday. The accused identified as Govindaraju (24), Ramesh (28), Prabakaran (34), Naveen (29) and Tulsi Selvian (25), are from Tamil Nadu. They came to Bengaluru recently and took to criminal activities. According to the police, the accused were staying near Jayanagar. They tried to sell the tusks at Sajan Rao circle food street. A special team headed by Harish Pandey, DCP south Bengaluru, arrested the accused following a tip-off. After preliminary confirmation from the forest department officials that the seized objects were ivory, an offence under the Wildlife (Protection) Act was registered. The value of the seized ivory in the international market is said to be in lakhs. A senior police official said, "The seized tusks seem to be old and the suspect was trying to sell them as antiques. We have launched a probe into the source of the seized tusks and also the buyer. We are also probing whether there is any organised group behind this trade."']
+
+
+Five----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+sell----CRIME.CAT
+
+elephant----SP.COMMON
+
+tusks----ITEM
+
+Five----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+VV Puram police----AUTH.SEIZE
+
+sell----CRIME.CAT
+
+two----QTY
+
+tusks----ITEM
+
+elephants----SP.COMMON
+
+Saturday----DATE
+
+Govindaraju----SUS.NAME
+
+24----SUS.AGE
+
+Ramesh----SUS.NAME
+
+28----SUS.AGE
+
+Prabakaran----SUS.NAME
+
+34----SUS.AGE
+
+Naveen----SUS.NAME
+
+29----SUS.AGE
+
+Tulsi Selvian----SUS.NAME
+
+25----SUS.AGE
+
+Tamil Nadu. They----SUS.LOC
+
+tusks----ITEM
+
+Sajan Rao circle food street----LOC.EXACT
+
+Harish Pandey----OFF.NAME
+
+DCP south Bengaluru----AUTH.SEIZE
+
+arrested----CRIME.CAT
+
+tip-off----DETECTION_METHOD
+
+ivory----ITEM

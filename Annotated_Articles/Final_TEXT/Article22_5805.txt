@@ -1,0 +1,13 @@
+
+['14-day-old leopard cub reunites with mother in Maharashtra\nPUNE: A 14-day-old female leopard cub spotted in a sugarcane field near Ane village, in Otur forest R range, Pune was recently reunited with its mother by the Wildlife SOS and the Maharashtra Forest Department.The cub was found stranded in a sugarcane field in the village. Farmers first spotted the cub while harvesting sugarcane and immediately alerted the forest department.The Wildlife SOS team was also called to assist in the rescue operation. Geared with medical kits and rescue equipment, the team travelled nearly 60 km to reach the location. Upon arrival, a Wildlife SOS veterinarian conducted an on-site health examination and identified the cub as a female, estimated to be 14 days old.On being deemed fit for release, the cub was placed in a safe box close to the location where it was discovered. For the reunion to be a success, the box was lined with the cub’s urine drops, so that it acted as a scent marking to assist the mother leopard in locating her more easily.Dr Nikhil Bangar, Veterinary Officer, Wildlife SOS said, “In most reunions, the cub has to be reunited with the mother as soon as possible, with the first three days being the most critical time frame. In this case, the mother appeared twice but it was only during the second visit that she picked up the cub.”Kartick Satyanarayan, Co-founder and CEO, Wildlife SOS said, “The cub was found to be in good health and thus a reunion attempt was made at night, a time when leopards are most active. Our camera traps captured the heartwarming moment of the female leopard finding her cub and carrying her away to a safer location.”']
+
+
+leopard----SP.COMMON
+
+Maharashtra----LOC.STATE
+
+Pune----LOC.CITY
+
+Wildlife SOS----AUTH.SEIZE
+
+the Maharashtra Forest Department.The----AUTH.SEIZE

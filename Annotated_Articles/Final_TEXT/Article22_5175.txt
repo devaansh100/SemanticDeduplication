@@ -1,0 +1,17 @@
+
+['5-year-old girl killed in monkey attack in UP village\nA five-year-old girl was killed by a troop of monkeys in the Bichpui village under the limits of Bithri Chenpur police circle. The girl, Narmada, was playing with her friends near the Nakatiya river when the monkeys attacked the children. After hearing their cries for help, locals rushed to the spot and rescued Narmada and others. Her skin had been ripped off by the monkeys and she died due to excessive bleeding at the community health centre. Narmada was the youngest of three siblings. Her father, Nand Kishore, a daily wager, said, "There have been cases of monkeys attacking children but, in this case, the monkeys were extremely aggressive and had bitten my daughter almost everywhere. When I reached the spot, my daughter was crying for help." Ashok Kumar, station House Officer (SHO) of Bithri Chenpur police station, said, "The family has been assured compensation under relevant acts. The locals had demanded that the monkeys be trapped. We advised them to take help from the forest department and gram panchayat office. No FIR is possible in this case." There have been multiple cases where monkeys have injured people in Bareilly. ']
+
+
+5-year-old----SUS.AGE
+
+girl----SUS.GENDER
+
+five-year-old----SUS.AGE
+
+girl----SUS.GENDER
+
+killed----CRIME.CAT
+
+Bichpui village----LOC.EXACT
+
+Narmada----SUS.NAME

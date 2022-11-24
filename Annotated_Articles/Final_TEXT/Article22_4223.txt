@@ -1,0 +1,63 @@
+
+['Vava Suresh critical after sustaining snake bite\nBy Express News Service KOTTAYAM: Renowned snake catcher Vava Suresh sustained a snake bite while catching a cobra from Kurichi near Changanassery on Monday evening. Suresh was rushed to a private hospital in Kottayam and later to Government Medical College Hospital (MCH) . According to hospital sources, his health condition remains critical. Suresh was bitten by a cobra that he was trying to catch from the house of Niju, of Pattasseril, at Kurichy around 4.45pm. While attempting to force the reptile into a gunny bag, the snake bit him on the right thigh. Preliminary reports suggested that Suresh had fallen unconscious before reaching the hospital. Though the snake escaped after biting Suresh, he managed to catch it and handed it over to forest officials. WATCH | Minister for Cooperation and Registration V N Vasavan and others rushed to the Medical College hospital and expedited the proceedings at the hospital. Suresh has been admitted to the critical care unit and he is under ventilator support, sources said. He will be given free treatment: Veena George Health Minister Veena George said on Monday that Vava Suresh, who is undergoing treatment at Kottayam Medical College for snake bite, will be given free treatment. The minister also called the medical college hospital superintendent and inquired about Suresh’s health condition. She also directed them to ensure specialist treatment for him. KOTTAYAM: Renowned snake catcher Vava Suresh sustained a snake bite while catching a cobra from Kurichi near Changanassery on Monday evening. Suresh was rushed to a private hospital in Kottayam and later to Government Medical College Hospital (MCH) . According to hospital sources, his health condition remains critical. Suresh was bitten by a cobra that he was trying to catch from the house of Niju, of Pattasseril, at Kurichy around 4.45pm. While attempting to force the reptile into a gunny bag, the snake bit him on the right thigh. Preliminary reports suggested that Suresh had fallen unconscious before reaching the hospital. Though the snake escaped after biting Suresh, he managed to catch it and handed it over to forest officials. WATCH | Minister for Cooperation and Registration V N Vasavan and others rushed to the Medical College hospital and expedited the proceedings at the hospital. Suresh has been admitted to the critical care unit and he is under ventilator support, sources said. He will be given free treatment: Veena George Health Minister Veena George said on Monday that Vava Suresh, who is undergoing treatment at Kottayam Medical College for snake bite, will be given free treatment. The minister also called the medical college hospital superintendent and inquired about Suresh’s health condition. She also directed them to ensure specialist treatment for him.']
+
+
+Vava Suresh----SUS.NAME
+
+snake----SP.COMMON
+
+bite----CRIME.CAT
+
+Vava Suresh----SUS.NAME
+
+cobra----SP.COMMON
+
+Kurichi----LOC.EXACT
+
+Monday----DATE
+
+evening----TIME
+
+cobra----SP.COMMON
+
+Niju----SUS.NAME
+
+Pattasseril----SUS.LOC
+
+Kurichy----LOC.EXACT
+
+4.45pm.----TIME
+
+gunny bag----CONCEALMENT_METHOD
+
+Minister for Cooperation and Registration----AUTH.SEIZE
+
+V N Vasavan----OFF.NAME
+
+Vava Suresh----SUS.NAME
+
+Vava Suresh----SUS.NAME
+
+snake bite----CRIME.CAT
+
+cobra----SP.COMMON
+
+Kurichi near Changanassery----LOC.EXACT
+
+Monday----DATE
+
+evening----TIME
+
+cobra----SP.COMMON
+
+Niju----SUS.NAME
+
+Pattasseril----SUS.LOC
+
+4.45pm.----TIME
+
+gunny bag----CONCEALMENT_METHOD
+
+Suresh----SUS.NAME
+
+Vava Suresh----SUS.NAME

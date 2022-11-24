@@ -1,0 +1,53 @@
+
+["Madhya Pradesh men kill, skin Chhattisgarh tiger for 'magic'; 8 held\nBHOPAL: Eight people were arrested on Thursday for poaching a tiger and severing its parts for alleged sorcery at a remote village in Dindori district of Madhya Pradesh A male tiger was killed using live electric wire pegged to a farm fence at Chauradadar village near Chhattisgarh border, said officials. The spot where the tiger was killed falls under Karanjia forest circle.Officials suspect the big cat had strayed from Achanakmar Wildlife Sanctuary of neighbouring Chhattisgarh.Tiger hide, paws, claws and canines were confiscated from their possession. Skinned carcass was also exhumed for autopsy.The accused were identified as – Umesh Valre, Pankhu Singh, Santu Singh, Jagmohan Singhram, Bhagwanta Singh, Sukhram Walre, Pandit Walre and Phool Singh. One of the accused managed to escape. They have been booked under various sections of Wildlife Act 1972 and are being interrogated for more details.Officials from Chhattisgarh are trying to identify the tiger using archives of their camera traps.Two of the accused, officials say, are involved in sorcery. Therefore, they suspect the big cat was targeted for ‘black magic’.“We had inputs from our informers that these people have killed a tiger and mutilated its body after extracting hide, claws and canines. We raided the spot and got success,” said Dr LS Singh, ACF forest. The tiger was killed on February 14, he said.TOI had highlighted how this myth triggered a spate of poisoning and mutilation of tigers in Madhya Pradesh. In 2015, poachers had killed a radio-collared tiger in Satpura Reserve and extracted oil from its fat for use as a remedy for aches and erectile dysfunction.Madhya Pradesh lost more than 60 tigers in the last few years, many due to poisoning or electrocution, accidents on the road or railway tracks."]
+
+
+Madhya Pradesh----LOC.STATE
+
+men----SUS.GENDER
+
+Chhattisgarh tiger----SP.SPECIFIC
+
+8----SUS.NUMBER
+
+Eight----SUS.NUMBER
+
+Thursday----DATE
+
+tiger----SP.COMMON
+
+Dindori district----LOC.DISTRICT
+
+Madhya Pradesh----LOC.STATE
+
+tiger----SP.COMMON
+
+Karanjia forest circle.Officials----LOC.EXACT
+
+big cat----SP.COMMON
+
+hide----ITEM
+
+paws----ITEM
+
+claws----ITEM
+
+canines----ITEM
+
+Umesh Valre----SUS.NAME
+
+Pankhu Singh----SUS.NAME
+
+Santu Singh----SUS.NAME
+
+Jagmohan Singhram----SUS.NAME
+
+Bhagwanta Singh----SUS.NAME
+
+Sukhram Walre----SUS.NAME
+
+Pandit Walre----SUS.NAME
+
+Phool Singh----SUS.NAME
+
+inputs----DETECTION_METHOD

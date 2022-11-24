@@ -1,0 +1,21 @@
+
+["Khammam: Killing of cow by tiger triggers panic in villages\nKhammam: People are living in 10 villages in Manugur and Pinapaka mandals are in the grip of fear after tiger killing of a cow of Venugopala Swamy temple goshala at Ramanujavaram village in Manugur mandal on Monday. Forest officials received the information that the tiger killed a cow of a temple goshala and rushed to the spot. The forest officials confirmed the cow was killed by the tiger. The tiger was seen one week ago in the area but till yesterday it had not harmed anyone. But after Monday's incident people are panicked and concerned about their safety. The forest officials have alerted the people in 10 villages where tiger moment was noticed. Manugur Forest Range officer K Dwalia said ''we have made announcement in surrounding villages where tiger is moving. He also said people should not go out in night time and even day time also not to go alone to fields. He said teams have been formed to nab the tiger."]
+
+
+Killing----CRIME.CAT
+
+cow----SP.COMMON
+
+Manugur----LOC.CITY
+
+tiger killing----CRIME.CAT
+
+cow----SP.COMMON
+
+Venugopala Swamy temple goshala----LOC.EXACT
+
+Ramanujavaram village in Manugur mandal----LOC.EXACT
+
+Monday----DATE
+
+information----DETECTION_METHOD

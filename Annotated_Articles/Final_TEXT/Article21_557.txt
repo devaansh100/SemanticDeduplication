@@ -1,0 +1,55 @@
+
+['Assam: Over 5 kilo Chinese Pangolin scale recovered; One nabbed\nGuwahati: Around five kilos of dry Chinese pangolin scale were seized and a person was apprehended in a joint operation conducted by Wildlife Crime Control Bureau (WCCB,) Guwahati and Lumding forest range at Lumding market area near Lumding College on Tuesday evening. An operation was launched in the area based on a specific input. During the operation the team could seize dry Chinese pangolin scale (5.800 kgs) from the possession of one Shasankha Malakar, of Maibong in Dimahasao district. WCCB sources said that the person had brought the illegal animal parts from Lanka and was on his way to deliver it to a person at Maibong. “A big racket is working at Maibong for smuggling of wildlife contraband. The Chinese pangolin is enlisted in Schedule -I of wildlife protection Act 1972 and declared Vulnerable to Critically Endangered species by IUCN. A case has been registered at Forest Range Office Lumding and further investigation is going on,” said WCCB officials. Read More : Assam: Online Admission For HS 1st Year; Student Can Choose Five Institutes Max']
+
+
+Assam----LOC.STATE
+
+5 kilo----QTY
+
+Chinese Pangolin----SP.COMMON
+
+scale----ITEM
+
+recovered----OUTCOME
+
+One----SUS.NUMBER
+
+nabbed----CRIME.CAT
+
+five kilos----QTY
+
+Chinese pangolin----SP.COMMON
+
+scale----ITEM
+
+seized----CRIME.CAT
+
+a----SUS.NUMBER
+
+Wildlife Crime Control Bureau----AUTH.SEIZE
+
+WCCB----AUTH.SEIZE
+
+Lumding market area near Lumding College----LOC.EXACT
+
+Tuesday----DATE
+
+evening----TIME
+
+specific input----DETECTION_METHOD
+
+Chinese pangolin----SP.COMMON
+
+scale----ITEM
+
+5.800 kgs----QTY
+
+Shasankha Malakar----SUS.NAME
+
+Maibong----SUS.LOC
+
+Lanka----ROUTE.SRC
+
+case has been registered at Forest Range Office Lumding----OUTCOME
+
+further investigation is going----OUTCOME

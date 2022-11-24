@@ -1,0 +1,47 @@
+
+['172 boxes of juvenile fish seized in Thiruvananthapuram\nBy Express News Service THIRUVANANTHAPURAM: Marine enforcement has launched a probe into the seizure of 172 boxes of juvenile fishes from the Muthalapozhi harbour in Chirayinkeezhu here on Thursday. All 172 boxes had 40 kg of fish, including sardine, in them. The fish were later dumped in the lake so that they can be food to other fish. As per two existing orders, 58 different fishes have a legal size, only after it exceeds this size can they be caught. Catching them prior to it is a punishable offence with fines varying from Rs 25,000 to Rs 2.5 lakh. For sardine, the measurement is 10 cm. “These fish were to be sneaked to various parts of Tamil Nadu to be raw material for products made for animals in some units there. Usually this is done by trawling boats. But now we are noticing such a trend from traditional boats in Thazhampally, Anchuthengu and Kollam registration boats,” said Rajeev SI, assistant director, Fisheries Department. THIRUVANANTHAPURAM: Marine enforcement has launched a probe into the seizure of 172 boxes of juvenile fishes from the Muthalapozhi harbour in Chirayinkeezhu here on Thursday. All 172 boxes had 40 kg of fish, including sardine, in them. The fish were later dumped in the lake so that they can be food to other fish. As per two existing orders, 58 different fishes have a legal size, only after it exceeds this size can they be caught. Catching them prior to it is a punishable offence with fines varying from Rs 25,000 to Rs 2.5 lakh. For sardine, the measurement is 10 cm. “These fish were to be sneaked to various parts of Tamil Nadu to be raw material for products made for animals in some units there. Usually this is done by trawling boats. But now we are noticing such a trend from traditional boats in Thazhampally, Anchuthengu and Kollam registration boats,” said Rajeev SI, assistant director, Fisheries Department.']
+
+
+172 boxes----QTY
+
+juvenile fish----SP.COMMON
+
+seized----CRIME.CAT
+
+Thiruvananthapuram----LOC.DISTRICT
+
+Marine enforcement----AUTH.SEIZE
+
+172 boxes----QTY
+
+Muthalapozhi harbour in Chirayinkeezhu----LOC.EXACT
+
+Thursday----DATE
+
+172 boxes----QTY
+
+40 kg----QTY
+
+fish----SP.COMMON
+
+sardine----SP.SPECIFIC
+
+Marine enforcement----AUTH.MISC
+
+seizure----CRIME.CAT
+
+172 boxes----QTY
+
+juvenile fishes----SP.COMMON
+
+Muthalapozhi harbour in Chirayinkeezhu here----LOC.EXACT
+
+Thursday----DATE
+
+172----QTY
+
+40 kg----QTY
+
+fish----SP.COMMON
+
+sardine----ITEM

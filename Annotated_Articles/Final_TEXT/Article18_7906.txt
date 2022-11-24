@@ -1,0 +1,37 @@
+
+['Assam: Chinese pangolin rescued in Barpeta\nGuwahati: A live Chinese pangolin was rescued by a wildlife protection team and forest officials near Beki River in Barpeta along the national highway on Saturday. The Wildlife Crime Control Bureau (WCCB) and the forest team detained two persons in connection with the rescued animal. The detained persons were identified as Mafizuddin and Sanjay Kumar, both residents of Barpeta. Also Read: Assam: Superintendent of Taxes arrested in Morigaon for graft The Chinese pangolin is native to the northern Indian subcontinent, northern parts of Southeast Asia and southern China. It has been listed as Critically Endangered on the IUCN Red List since 2014, as the wild population is estimated to have declined by more than 80% in three pangolin generations, equal to 21 years. Also Read: Assam: Govt should give helicopters to all artists if it thinks of completing Bihu functions in one week, says Zubeen Garg It is threatened by poaching for the illegal wildlife trade and is considered to be among the most trafficked wildlife species in the world.']
+
+
+Assam----LOC.STATE
+
+Chinese pangolin----SP.SPECIFIC
+
+rescued----CRIME.CAT
+
+Barpeta----LOC.CITY
+
+Chinese pangolin----SP.SPECIFIC
+
+rescued----CRIME.CAT
+
+wildlife protection team----AUTH.SEIZE
+
+forest officials----AUTH.SEIZE
+
+Beki River in Barpeta----LOC.EXACT
+
+Saturday----DATE
+
+Wildlife Crime Control Bureau (WCCB)----AUTH.SEIZE
+
+forest team----AUTH.SEIZE
+
+detained----CRIME.CAT
+
+two----SUS.NUMBER
+
+Mafizuddin----SUS.NAME
+
+Sanjay Kumar----SUS.NAME
+
+Barpeta----SUS.LOC

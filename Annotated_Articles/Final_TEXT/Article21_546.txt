@@ -1,0 +1,49 @@
+
+['STF Recovers 3 Kg Pangolin Scales, Three Nabbed In Balasore\nBhubaneswar: The Special Task Force (STF) of the Crime Branch busted a pangolin scale smuggling racket with the arrest of three persons in Balasore district. The accused were identified as Manibhadra Samal, Jadunath Samal and Choudhury Singh. All the three belong to Berhampur area in Balasore. Total three kilograms of pangolin scales were seized from their possession. The raid was carried out by STF, with the assistance of Balasore forest division near Natapada village in Berhampur. “The accused persons could not produce any valid authority in support of possession of pangolin scales, for which they have detained and handed over to forest officials for necessary legal action at their end. Investigation is on,” the STF stated. During last one year, the STF launched a special drive against the wildlife criminals and poachers. In this period, the STF has seized 15 Leopard skin, 9 Elephant Tusks, 2 deer skin, rescued 3 pangolins alive, and recovered 13 kg pangolin scale. Total 29 persons were arrested in these cases, the STF further stated.']
+
+
+STF----AUTH.SEIZE
+
+3 Kg----QTY
+
+Pangolin----SP.COMMON
+
+Scales----ITEM
+
+Three----SUS.NUMBER
+
+Balasore----LOC.DISTRICT
+
+Special Task Force (STF) of the Crime Branch----AUTH.SEIZE
+
+pangolin----SP.COMMON
+
+scale----ITEM
+
+smuggling----CRIME.CAT
+
+three----SUS.NUMBER
+
+Balasore----LOC.DISTRICT
+
+Manibhadra Samal----SUS.NAME
+
+Jadunath Samal----SUS.NAME
+
+Choudhury Singh----SUS.NAME
+
+Berhampur area in Balasore----SUS.LOC
+
+three kilograms----QTY
+
+pangolin----SP.COMMON
+
+scales----ITEM
+
+seized----CRIME.CAT
+
+STF----AUTH.SEIZE
+
+Balasore forest division----AUTH.MISC
+
+Natapada village in Berhampur----LOC.EXACT

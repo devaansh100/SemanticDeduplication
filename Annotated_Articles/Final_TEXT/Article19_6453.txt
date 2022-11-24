@@ -1,0 +1,51 @@
+
+['Shiv Sena MP Rajendra Gavit\'s SUV car runs over spotted deer at Sanjay Gandhi National Park in Mumbai\nShiv Sena MLA Rajendra Gavit\'s car ran over the deer last week at Sanjay Gandhi National Park in Mumbai | Photo Credit: Times Now Key Highlights The car has been seized and a case has been registered Driving at a speed more that 20 km per hour is prohibited inside the national park Mumbai: A vehicle belonging to Shiv Sena MP Rajendra Gavit reportedly ran over a spotted deer in Mumbai\'s Sanjay Gandhi National Park (SGNP) last week. The incident took place on Wednesday and the spotted deer, which was killed on the spot, was crossing the road near one Trimurti station inside the park. Gavit, the Lok Sabha member from Palghar near Mumbai, was not in the vehicle when the incident took place. According to a report, the car was moving towards the main gate of the national park when it knocked down the deer near Gandhi Tekdi. The driver of the vehicle reportedly informed the forest officials of the incident, after which the injured deer was rushed to the veterinary clinic at the Sanjay Gandhi National Park where it was declared dead. "We have registered an offence against the SUV\'s driver under provisions of the Wildlife Act. The car belongs to MP Rajendra Gavit though he was not in the vehicle at the time of the incident," SGNP Director Anwar Ahmed told news agency PTI. According to a report in Mumbai daily Mid Day that cites forest officials, the vehicle has been seized and an offence has been registered, while further investigation is underway. It may be noted that driving the vehicle at a speed more than 20 km per hour is an offence inside the Sanjay Gandhi National Park and is liable to an on-the-spot fine of Rs 500. Rash driving and causing danger to wildlife is one of the listed offences within the premises and is likely to be made applicable in the said case. Following the incident, SGNP authorities have planned to undertake a campaign to create awareness among tourists and motorists to adhere to laws inside the protected wildlife environment. Spotted deer are listed under Schedule III of the Wildlife (Protection) Act, as being of \'least concern\'.']
+
+
+MP----OFF.DESIG
+
+Rajendra Gavit----OFF.NAME
+
+car----TRANSPORT_MODE
+
+spotted deer----SP.SPECIFIC
+
+Sanjay Gandhi National Park----LOC.EXACT
+
+Mumbai----LOC.CITY
+
+MLA----OFF.DESIG
+
+Rajendra Gavit----OFF.NAME
+
+car----TRANSPORT_MODE
+
+last week----DATE
+
+Sanjay Gandhi National Park----LOC.EXACT
+
+car----TRANSPORT_MODE
+
+seized----CRIME.CAT
+
+case has been registered----OUTCOME
+
+vehicle----TRANSPORT_MODE
+
+MP----OFF.DESIG
+
+Rajendra Gavit----OFF.NAME
+
+spotted deer----SP.SPECIFIC
+
+Sanjay Gandhi National Park (SGNP----LOC.EXACT
+
+Wednesday----DATE
+
+spotted deer----SP.SPECIFIC
+
+registered an offence----OUTCOME
+
+Rajendra Gavit----SUS.NAME
+
+further investigation is underway----OUTCOME

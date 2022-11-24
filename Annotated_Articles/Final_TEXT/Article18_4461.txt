@@ -1,0 +1,63 @@
+
+['Top Mumbai Crime News of the Week: Veterinarian beaten up for feeding crows, drunk driver runs over 4 people\nTop Mumbai Crime News of the Week: Veterinarian beaten up for feeding crows, drunk driver runs over 4 people Top Mumbai Crime News of the Week: Veterinarian beaten up for feeding crows, drunk driver runs over 4 people Top Mumbai Crime News of the Week: Veterinarian beaten up for feeding crows, drunk driver runs over 4 people Share:   Representative image Share:   33-year-old veterinarian gets beaten up for feeding crows Amid rising cases of harassment of animal feeders in the city, a 33-year-old woman veterinary doctor was allegedly beaten up by a mother-son duo over feeding animals and birds on the society premises on Friday. The accused allegedly beat her up with tree branches, leading to a skull fracture and other injuries. Agripada police have filed a case and are yet to arrest the accused. Share:   Drunk driver runs over four people, kills two at Cuffe Parade Two people were killed and two injured when the heavily drunk driver of an electric car created havoc speeding in Cuffe Parade on Tuesday. The incident took place at 1.50 pm and one of the victims he hit died on the spot while another passed away in hospital. The police have arrested the driver. Share:   21-year-old kills girlfriend, jumps in front of train later Arnala police on Wednesday booked a 21-year-old for killing a minor girl and later killing himself by jumping before a running local train between Borivli and Kandivli. According to police, a minor girl was found dead inside an ‘illegal lodge’ in the Arnala area of Virar West. The deceased had come to the lodge with her boyfriend, Abhishek Shah, 21. Share:   New breed of criminals extorting money by accusing pet owners of cruelty Activists of the city’s topmost animal NGO, People for Animals, led by MP Maneka Gandhi, have been booked for threatening pet parents with police complaints and extorting them. Three activists—Lata Parmar, who is the president of PFA Mumbai; Bimlani Navani and Mohit Chawre—have also been booked recently for forging the stamp of Sion police in a letter about rescuing a Dalmatian dog from Thane. Cops said there are several cases filed against them at different police stations.']
+
+
+Veterinarian----SUS.AFFIL
+
+Veterinarian----SUS.AFFIL
+
+Veterinarian----SUS.AFFIL
+
+Veterinarian----SUS.AFFIL
+
+33-year-old----SUS.AGE
+
+33-year-old----SUS.AGE
+
+Friday----DATE
+
+filed a case and are yet to arrest the accused----OUTCOME
+
+runs over----CRIME.CAT
+
+four----SUS.NUMBER
+
+two----SUS.NUMBER
+
+Cuffe Parade----LOC.EXACT
+
+Two----SUS.NUMBER
+
+Cuffe Parade----LOC.EXACT
+
+Tuesday----DATE
+
+1.50 pm----TIME
+
+21----SUS.AGE
+
+Arnala police----AUTH.SEIZE
+
+Wednesday----DATE
+
+a----SUS.NUMBER
+
+21----SUS.AGE
+
+killing a minor girl----CRIME.CAT
+
+Abhishek Shah----SUS.NAME
+
+21----SUS.AGE
+
+extorting money----CRIME.CAT
+
+MP----OFF.DESIG
+
+Maneka Gandhi----OFF.NAME
+
+Lata Parmar----SUS.NAME
+
+Bimlani Navani----SUS.NAME
+
+Mohit Chawre----SUS.NAME

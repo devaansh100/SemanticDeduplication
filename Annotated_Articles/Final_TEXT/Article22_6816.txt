@@ -1,0 +1,41 @@
+
+['In a first, wild boar shot dead with nod of civic body head\nBy Express News Service KOZHIKODE: A week after the state government decided to give powers to civic body heads to decide on culling wild boars that destroy crops, the Kodanchery panchayat in Kozhikode district has become the first local body in the state to execute the order. Raju, son of Yohannan Njeliyath, a farmer in Kodanchery, shot dead a wild boar that entered his farm on Wednesday night. “The wild boar was spotted in the farmland of Yohannan at 9pm on Wednesday, and he immediately informed the panchayat authorities. We issued an order to shoot it down at 10 pm and Raju shot down the boar by 10.30pm. Raju is a licensed gunner empanelled by the forest department to shoot down wild boars. But as per the new rule, the local bodies can deploy anyone who has obtained a gun licence. We also informed the forest department,” said panchayat president Alex Thomas. On Thursday morning, the carcass of the animal was buried scientifically after recording the details in the special register of panchayat for the culling of wild boars in the presence of forest officials and a veterinary doctor, he said. “With the government bestowing the status of honorary wildlife warden on panchayat presidents, the department has stopped the culling of wild pigs. However, they should not use poison or electrocution to kill them. The carcass should be disposed of safely and the panchayats should keep a record of the cullings,” said an officer at the office of the Principal Chief Conservator of Forest (Wildlife). “The wild boar is a fast propagating species. It has entered human habitations and started breeding with common pigs which has led to an increase in the wild boar menace across the state. As there is no predator in the human habitations it has been breeding very fast. The plantations and rubber estates provide a safe habitat to it,” said Assistant Conservator of Forest R Vinayan. “The local self-government institutions are given full responsibility to kill and bury wild boars, which cause destruction. However, they have to follow the provisions carefully since they will be liable for any mistake in the future. Any local body can take necessary steps in wild boar menace issues outside the forest land,” said D K Vinodkumar, chief conservator of forests, northern circle. KOZHIKODE: A week after the state government decided to give powers to civic body heads to decide on culling wild boars that destroy crops, the Kodanchery panchayat in Kozhikode district has become the first local body in the state to execute the order. Raju, son of Yohannan Njeliyath, a farmer in Kodanchery, shot dead a wild boar that entered his farm on Wednesday night. “The wild boar was spotted in the farmland of Yohannan at 9pm on Wednesday, and he immediately informed the panchayat authorities. We issued an order to shoot it down at 10 pm and Raju shot down the boar by 10.30pm. Raju is a licensed gunner empanelled by the forest department to shoot down wild boars. But as per the new rule, the local bodies can deploy anyone who has obtained a gun licence. We also informed the forest department,” said panchayat president Alex Thomas. On Thursday morning, the carcass of the animal was buried scientifically after recording the details in the special register of panchayat for the culling of wild boars in the presence of forest officials and a veterinary doctor, he said. “With the government bestowing the status of honorary wildlife warden on panchayat presidents, the department has stopped the culling of wild pigs. However, they should not use poison or electrocution to kill them. The carcass should be disposed of safely and the panchayats should keep a record of the cullings,” said an officer at the office of the Principal Chief Conservator of Forest (Wildlife). “The wild boar is a fast propagating species. It has entered human habitations and started breeding with common pigs which has led to an increase in the wild boar menace across the state. As there is no predator in the human habitations it has been breeding very fast. The plantations and rubber estates provide a safe habitat to it,” said Assistant Conservator of Forest R Vinayan. “The local self-government institutions are given full responsibility to kill and bury wild boars, which cause destruction. However, they have to follow the provisions carefully since they will be liable for any mistake in the future. Any local body can take necessary steps in wild boar menace issues outside the forest land,” said D K Vinodkumar, chief conservator of forests, northern circle.']
+
+
+wild boar----SP.SPECIFIC
+
+shot dead----CRIME.CAT
+
+Kodanchery panchayat----AUTH.SEIZE
+
+Raju----SUS.NAME
+
+shot dead----CRIME.CAT
+
+wild boar----SP.COMMON
+
+Wednesday----DATE
+
+night----TIME
+
+wild boar----SP.SPECIFIC
+
+9pm----TIME
+
+Wednesday----DATE
+
+Raju----SUS.NAME
+
+wild boar----SP.SPECIFIC
+
+Wednesday----DATE
+
+night----TIME
+
+9pm----TIME
+
+Wednesday----DATE
+
+10 pm----TIME
+
+10.30pm----TIME

@@ -1,0 +1,61 @@
+
+['Four smugglers arrested and 16 red sanders logs seized near Tirupati\nTIRUPATI: Continuing the offensive against illegal red sanders smuggling, the red sanders anti smuggling task force sleuths nabbed four smugglers and seized 16 red sanders logs near Tirupati on Tuesday.According to task force DSP Venkataiah, a team led by RSO Lingadhar carrying out combing operations inside the forest area near Papanaidupeta in the early hours on Tuesday, spotted a group of four red sanders smugglers carrying logs on their shoulders.The task force team zeroed-in on the smugglers and nabbed them immediately. Task force sleuths said the arrested smugglers were identified as P Rajendra (46), T Murali (28), A Suresh (20) and G Murugesh (17).16 red sanders logs felled by the smugglers and a two wheeler were also seized by the task force sleuths.']
+
+
+Four----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+16----QTY
+
+red sanders----SP.COMMON
+
+logs----ITEM
+
+Tirupati----LOC.CITY
+
+red sanders anti smuggling task force----AUTH.SEIZE
+
+nabbed----CRIME.CAT
+
+four----SUS.NUMBER
+
+16----QTY
+
+red sanders----SP.COMMON
+
+logs----ITEM
+
+Tirupati----LOC.CITY
+
+Tuesday.According----DATE
+
+DSP----OFF.DESIG
+
+Venkataiah----OFF.NAME
+
+RSO----OFF.DESIG
+
+Lingadhar----OFF.NAME
+
+early hours----TIME
+
+Tuesday----DATE
+
+logs----ITEM
+
+P Rajendra----SUS.NAME
+
+46----SUS.AGE
+
+T Murali----SUS.NAME
+
+28----SUS.AGE
+
+A Suresh----SUS.NAME
+
+20----SUS.AGE
+
+G Murugesh----SUS.NAME
+
+red sanders logs----SP.SPECIFIC

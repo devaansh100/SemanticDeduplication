@@ -1,0 +1,43 @@
+
+['Two wildlife smugglers held with live pangolin in Odisha\nThe Special Task Force (STF) wing of Odisha police rescued a live pangolin and arrested two wildlife smugglers in Bolangir district, said STF officials on Friday. The accused persons identified as Hemasagar Mahananda and Laxmidhar Naik were apprehended near Ainlapalli village under Tusura police station jurisdiction in Bolangir district on Thursday. They were nabbed while carrying out a deal to sell the protected animal, said STF officials. The protected animal has been handed over to the Divisional Forest Officer, Bolangir for its safe custody, they said. The Indian Pangolin is a solitary, shy, slow moving, nocturnal mammal. It is a Schedule-I protected animal under Wild Life Protection Act, 1972, which provides absolute protection-offences under these are prescribed for the highest penalties. With the latest interception of wildlife crime, the STF has seized as many as 26 leopard skins, 15 elephant tasks, 7 deer skins, 12 live pangolins, 23.5 kilograms of pangolin scales, 2 leopard teeth, 29 leopard claws, 46 live wild parrots with arrest of 63 wildlife criminals.']
+
+
+Two----SUS.NUMBER
+
+pangolin----SP.COMMON
+
+Odisha----LOC.STATE
+
+Special Task Force (STF) wing----AUTH.SEIZE
+
+a----QTY
+
+pangolin----SP.COMMON
+
+arrested----CRIME.CAT
+
+two----SUS.NUMBER
+
+Bolangir district----LOC.DISTRICT
+
+Hemasagar Mahananda----SUS.NAME
+
+Laxmidhar Naik----SUS.NAME
+
+Ainlapalli village----LOC.EXACT
+
+Bolangir----LOC.DISTRICT
+
+Thursday----DATE
+
+handed over to the----OUTCOME
+
+23.5 kilograms----QTY
+
+scales----ITEM
+
+teeth----ITEM
+
+29----QTY
+
+claws----ITEM

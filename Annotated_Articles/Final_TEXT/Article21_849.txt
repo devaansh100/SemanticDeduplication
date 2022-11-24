@@ -1,0 +1,21 @@
+
+['Drastic jump in poaching of tigers in Maharashtra\nNAGPUR: The seizure of one more tiger skin and various other body parts from the Gondpipri forest range under Central Chanda Division on Sunday night just shows the drastic jump in poaching of tigers in Maharashtra . The state has recorded 35 tiger deaths, with half (17) of the deaths due to poaching, in the last 10 months.A comparison of the figures of last five years from the database by Wildlife Protection Society of India (WPSI), which works with local communities and government agencies to curb poaching and illegal wildlife trade across the country, reveals that Maharashtra tops in tiger poaching over the two top tiger bearing states — Madhya Pradesh and Karnataka.In 2021, even as MP recorded 39 tiger deaths, including 11 by poaching, Maharashtra tops the chart with poaching of 17 tigers followed by Karnataka, where 17 tigers have died including 4 by poaching.Even in the case of leopards, Maharashtra is on top. Since January 1, 2021, 165 leopards have died. This includes 24 due to poaching and 141 due to other reasons. As per the forest department, 153 leopards have died in the last 10 months in the state. Of this, 61 died in road hits.As per the All India Tiger Estimation (AITE)-2018, Maharashtra has 312 tigers. Even as tiger numbers have increased from 190 in 2014 to 312 now, poaching too has gone up.A comparison of the figures of last five years shows in 2017, 22 tiger deaths were reported with 7 poaching cases. In 2021, 35 tigers have died. The poaching and seizure cases have more than doubled to 17.The state forest department figures till November 12, 2021, reveal that 26 tigers have died this year including 8 by poaching. However, the figures don’t include the seizure of body parts since July this year, wherein 58 accused with tiger body parts and bones were arrested by the Nagpur forest division officials.“The seizure involves killing of at least 7 tigers from the region. All the 58 accused have been remanded to magisterial custody (MCR) and investigations are still on,” senior forest officials told TOI. If this figure of 7 tigers is added to the state figure of 26, then the number of tiger deaths comes close to the WPSI database.Nitin Desai, Central India director of WPSI, says, “The way the tiger skin seized in Gondpipri has been skinned, it appears to be a handiwork of local poachers. Organized tiger poaching was effectively stopped due to widespread enforcement actions in 2013.”“This led to a boom in tiger population in Central India. Apart from their historic ranges, tigers are appearing at unbelievable places. They often get killed in electric traps or wire snares set up by local poachers to kill herbivores for bushmeat. It is exactly for this reason that all local poachers must be dealt with strongly or we will keep counting such dead tigers,” Desai said.“A quick look at the statistics reveals that there is a drastic increase in cases of local tiger poaching/seizure of tiger parts in 2021 as compared to the previous four years. It needs to be investigated if local poachers were desperate for money and tried to sell tiger parts, or they were being instigated by someone to do so,” he adds.“Similarly, leopard mortality has gone up drastically in the last three years. The committee on leopard deaths has made some recommendations and the same is being implemented. Only time will tell if they yield any positive result,” said Desai.']
+
+
+tigers----SP.COMMON
+
+Maharashtra----LOC.STATE
+
+seizure----CRIME.CAT
+
+tiger----SP.COMMON
+
+skin----ITEM
+
+body parts----ITEM
+
+Sunday----DATE
+
+night----TIME
+
+Maharashtra----LOC.STATE

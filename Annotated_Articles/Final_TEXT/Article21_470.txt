@@ -1,0 +1,39 @@
+
+['One held on poaching charge; four on the run\nOne person has been taken into custody in connection with the poaching of gaur (Indian bison) at Anpathiyettam mile forest under the Tholpetty range in the Wayanad Wildlife Sanctuary. The accused was identified as T.Moidu, 48, of Mundakkutty near Padinharethara in Wayanad district. The accused was a member of a six-member team of poachers and he was taken into custody while they were hunting a male gaur, aged around eight years, inside the sanctuary around 2 a.m. on Monday, sanctuary sources said. Though the accused was overpowered and taken into custody by a team of Forest officials, who were patrolling near the area, his five accomplices fled from the scene. The officials have registered a case and intensified the search for the others, the sources said.']
+
+
+One----SUS.NUMBER
+
+poaching----CRIME.CAT
+
+One----SUS.NUMBER
+
+poaching----CRIME.CAT
+
+gaur (Indian bison)----SP.COMMON
+
+Anpathiyettam mile forest----LOC.EXACT
+
+Wayanad Wildlife Sanctuary----LOC.EXACT
+
+T.Moidu----SUS.NAME
+
+48----SUS.AGE
+
+Mundakkutty near Padinharethara in Wayanad district----SUS.LOC
+
+six-member team of poachers----SUS.AFFIL
+
+hunting----CRIME.CAT
+
+gaur----SP.COMMON
+
+2 a.m.----TIME
+
+Monday----DATE
+
+Forest officials----AUTH.SEIZE
+
+patrolling----DETECTION_METHOD
+
+registered a case and intensified the search for the others----OUTCOME

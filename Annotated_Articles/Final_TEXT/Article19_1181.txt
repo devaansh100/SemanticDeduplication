@@ -1,0 +1,31 @@
+
+["Leopard strolls into Nashik colony, caught by forest department after 8-hour-long operation\nA picture of the leopard clicked on Sunday in Nashik's Savarkar Nagar | Photo Credit: Times Now Nashik: Chaos ensued in Nashik's Savarkar Nagar on Sunday after a leopard was spotted in the area by locals. The big cat was captured by wildlife officials after an 8-hour-long operation which ended around 3.30 pm near Gangapur Road police station. The leopard was first spotted by locals on their morning walk at around 7.30 am on Sunday. A CCTV camera installed at one of the bungalows also captures the animal crossing Colony Road in the crowded Savarkar Nagar area the same morning. \u200b Residents then alerted officials at the Gangapur police station who in turn urged the forest department staff to reach the spot. What followed was a rescue operation which lasted for eight hours during which the animal moved through Maitra Manohar Colony and Architect Colony in the area. The big cat was finally caught in a nylon net set up by forest rangers. Once caught, the animal was sedated and moved out of the area using a forest department vehicle. An official told media outlets that it is better to release the big cat out into the wild once it has been subjected to a mandatory medical check-up. A similar incident was reported from Nashik on January 25 when a leopard strayed in the same area and ended up injuring as many as three locals including a politician and media personnel before being caught. Nashik in Maharashtra is surrounded by dense forests which have resulted in several such instances of animals trespassing into human settlements in recent years. Must Read: Hampi vandals fined Rs 70,000 each and asked to help ASI with restoration of destroyed pillars"]
+
+
+Leopard----SP.COMMON
+
+Nashik colony----LOC.EXACT
+
+forest department----AUTH.SEIZE
+
+leopard----SP.COMMON
+
+Savarkar Nagar----LOC.EXACT
+
+Sunday----DATE
+
+leopard----SP.COMMON
+
+wildlife officials----AUTH.SEIZE
+
+3.30 pm----TIME
+
+Gangapur Road police station----LOC.EXACT
+
+leopard----SP.COMMON
+
+7.30 am----TIME
+
+Sunday----DATE
+
+forest department----AUTH.SEIZE

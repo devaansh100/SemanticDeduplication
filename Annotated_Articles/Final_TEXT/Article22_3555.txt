@@ -1,0 +1,19 @@
+
+['Woman forest official calmly rescues snake in Kerala; leaves internet users awed\nRescuing a snake and transporting it back is one of the toughest tasks imaginable. There have been several cases where a person has been slammed by social media users for being careless with precautions while handling the deadly reptile. However, a woman official from the forest department in Kerala has been winning plaudits online after a video surfaced of her rescuing a snake went viral online. The video was shot in a forest near Kattakada in Thiruvananthapuram district. The clip features the forest official, identified as Roshini G S, calmly rescuing the deadly reptile and transporting it in a safe manner. The 45-second clip sees Roshini holding the reptile by its tail and taking it near the wall of nearby building. She then uses a tool to herd the snake towards a bag kept on the ground. As the snake slithers into the bag, the forest official nudges it along, using the tool. She then ties the bag up and calmly exits the location. Watch the clip here: Roshni, a trained staff of Forest dept, rescues snake from premises of a house near Kattakada pic.twitter.com/jonCAE3Irm — Jisha Surya (@jishasurya) February 2, 2022 The video was first shared by independent journalist Jisha Surya on 2 February. It was later re-shared by Indian Forest Service (IFS) officer Sudha Ramen. The clip has been viewed over 45,000 times till date. The video left social media users awestruck. Many praised Roshini for handling the situation in a composed manner. First wildlife rescue I have seen where people around are not shouting. Great job handling the snake with ease and a bit of prep work — Shankar (@pbshankar) February 3, 2022 Several people were appreciative of the forest official’s bravery in handling the snake. Wow what a courageous lady. She has been well trained. I think women should get encouraged more and more. They can do wonders. — Vishal Pandey (@imvishalkpandey) February 3, 2022 Others commented that while the incident was commendable, more precautionary measures, such as PPEs of some kind, should be given to people involved in rescuing a snake. Even If rained they should have some kind of PPE for such dangerous acts. Only 2 days before a trained and very experienced snake catcher in Kerala was bitten by King Cobra. It is always better to have protection while catching venomous snakes. — SivaKumar_IND (@IndSivakumar) February 3, 2022 Recently, a snake catcher from Kerala, Vava Suresh, was bitten by a cobra he went to rescue. The snake catcher was hospitalised and has been discharged today, 7 February, as per local media reports. As for Roshini G S, the forest official has been Beat Forest officer since 2017, according to a report in Indian Express. She is also a part of the Rapid Response Team at Paruthipalli Range Office and underwent training on snake rescue operations in 2019.']
+
+
+forest official----AUTH.SEIZE
+
+snake----SP.COMMON
+
+Kerala----LOC.STATE
+
+forest department----AUTH.SEIZE
+
+snake----SP.COMMON
+
+Roshini G S----OFF.NAME
+
+bag kept on the ground----CONCEALMENT_METHOD
+
+snake----SP.COMMON

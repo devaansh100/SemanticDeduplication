@@ -1,0 +1,49 @@
+
+['Three held with skin, bones of leopard in Dindori district\nThree held with skin, bones of leopard in Dindori district   Staff Reporter : According to WCCB Jabalpur, during a special campaign against poaching and illegal trade of wildlife under the direction of In-charge officer of STF (Wildlife), Madhya Pradesh and Abhijit Roy Choudhary, Regional Deputy Director, WCCB Jabalpur, they received a tip-off that some persons were trying to sell leopard’s skin and bones. Taking prompt action on information, a combined team of WCCB Jabalpur, STF Jabalpur and Achanakmar Tiger Reserve, Chhattisgarh started investigation and fielded a buyer for the leopard’s skin.']
+
+
+Three----SUS.NUMBER
+
+skin----ITEM
+
+bones----ITEM
+
+leopard----SP.COMMON
+
+Dindori district----LOC.EXACT
+
+Three----SUS.NUMBER
+
+skin----ITEM
+
+bones----ITEM
+
+leopard----SP.COMMON
+
+Dindori district----LOC.EXACT
+
+special campaign----DETECTION_METHOD
+
+poaching----CRIME.CAT
+
+illegal trade----CRIME.CAT
+
+Abhijit Roy Choudhary----OFF.NAME
+
+Regional Deputy Director, WCCB Jabalpur----AUTH.SEIZE
+
+tip-off----DETECTION_METHOD
+
+sell----CRIME.CAT
+
+leopard’s----SP.COMMON
+
+skin----ITEM
+
+bones----ITEM
+
+WCCB Jabalpur----AUTH.SEIZE
+
+STF Jabalpur----AUTH.SEIZE
+
+Achanakmar Tiger Reserve----AUTH.SEIZE

@@ -1,0 +1,15 @@
+
+["Pakistan's Barbaric Cruelty: Several captive pigeons burnt alive, simply for losing a race in Faisalabad\nAssociated with delivering messages and racing for hundreds of years, pigeons in Pakistan are not viewed as pests, similar to how they are seen in the rest of the world. Considering the craze over kabootar baazi (pigeon racing) and kabootar parwar (pigeon breeding) in the country, one would have thought that the winged athletes would be treated like royalty — however, that does not make them impervious to extreme human cruelty. In an incident in Faisalabad, Punjab province of eastern Pakistan, a man allegedly burnt all his pigeons locked in a cage after they lost a kabootar baazi competition. “The whole neighbourhood heard the cries of the pigeons for ten minutes,” said a tweet from the handle @Shahid_Pashteen. The tweet was accompanied by the gory image of hundreds of charred pigeons. #Faisalabad_Punjab_Pakistan man burnt all his Pigeons in a cage after losing a Pigeon Competition, the whole neighborhood heard the cries of the pigeons for ten minutes, you can punish a radical but what can you do with a Radical Society? pic.twitter.com/tcAYH27IzP — #Quetta (@Shahid_Pashteen) April 14, 2019 Kabootar baazi or pigeon racing is a rare pastime in Pakistan, one that brings together people from all kinds of social backgrounds — the experts in pigeons are often illiterate and the owners of the pigeons are rich. A good pigeon can be valued at hundreds of dollars — the equivalent of several months' salary for many Pakistanis. A bird's life in Pakistan: From being made to fly for 12 hours without food or water, to being burnt alive for losing the race. (Representational image: Reuters) The best performing pigeons (judged by the capability to fly for more than 12 hours, without food or drink, in exhausting heat) are showered with luxurious treatment often reserved for human beings. The pigeon masters give their birds long massages with a damp towel and special concoctions to boost their performance. However, the horrific incident of extreme cruelty in Faislabad brings forth the utter hypocrisy of this sport — and those involved. It mirrors how for these Pakistanis, the pigeons they fly are nothing more than a mechanism to get rich quick. If the poor captive performers can't fulfill this aim, they can as easily be killed. After being tortured — reportedly, some pigeons have first been doused with diesel and then set alight. Pakistan doesn't have much of an animal rights movement and its animals are often killed with harshness for sport and meat. The Pakistanis are known to poach even the endangered bustards for simply bearing 'Indian' as a part of their name."]
+
+
+pigeons----SP.COMMON
+
+Faisalabad----LOC.DISTRICT
+
+pigeons----SP.COMMON
+
+cage----CONCEALMENT_METHOD
+
+man----SUS.GENDER
+
+Pigeons----SP.COMMON

@@ -1,0 +1,25 @@
+
+['Leopard rescued by forest officials after it fell into open well in Maharashtra\nThere have been many instances when wild animals wander into human dwellings and have to be rescued by the forest department. Sometimes animals also fall into open wells and are unable to get out of them. An IFS officer shared one such video on Twitter of a leopard that had to be rescued from an open well in Maharashtra. The video of the leopard’s rescue is intriguing to watch. Indian Forest Service officer Susanta Nanda shared the clip of the rescue operation with a word of caution. “Forest staff rescuing a male leopard from an open well in Maharashtra. Please cover open wells to avoid such trauma for the wild animals. Spread the ward,” he wrote alongside the video. The clip shows the leopard inside a cage which is being pulled by ropes by a crane and the forest officials. The leopard is seen growling furiously inside the cage. The video was shared on June 18 and it has received more than 16,000 views so far. Watch the video below: Forest staff rescuing a male leopard from an open well in Maharashtra. Please cover open wells to avoid such trauma for the wild animals. Spread the ward 🙏🙏 pic.twitter.com/JTFE4JlYIe — Susanta Nanda IFS (@susantananda3) June 18, 2022 Netizens praised the actions of the forest officials in rescuing the wild animal. “Super work. The forest staff are really dedicated to their work,” commented a Twitter user. “Nice job by forest department staff. Kudos. We should start educating the people about closing open wells or fencing it,” wrote another. A Twitter user suggested that the government should give subsidy for covering of wells as the farmers in Maharashtra are marginal. “90% of farmers in Maharashtra are marginal their income is not enough to feed themselves, how can they afford expenditure for covering open wells? Govt have to expand subsidy for covering of wells,” posted another Twitter user. What do you think about this rescue video of the leopard?']
+
+
+Leopard----SP.COMMON
+
+rescued----CRIME.CAT
+
+forest officials----AUTH.SEIZE
+
+Maharashtra----LOC.STATE
+
+leopard----SP.COMMON
+
+Maharashtra----LOC.STATE
+
+leopard----SP.COMMON
+
+cage----CONCEALMENT_METHOD
+
+Maharashtra----LOC.STATE
+
+forest officials----AUTH.SEIZE
+
+forest department staff----AUTH.SEIZE

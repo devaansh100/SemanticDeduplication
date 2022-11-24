@@ -1,0 +1,21 @@
+
+["[VIDEO] Horrifying! Bear attacks trainer in Russian circus, forces him to ground during show\nA bear attacked its trainer, bit his head and neck and forced him to the ground during a show at a Russian circus. | Screengrab from video Key Highlights A bear attacked its trainer at a circus in Russia Another trainer tried to rescue his colleague by kicking the animal A video of the incident has gone viral on social media Moscow: In a shocking incident reported from Russia, a bear attacked and injured its trainer during a performance at a circus show. The incident happened in northern Russia's Olonets, a town 180 kilometre from St Petersburg. A video of the incident has gone viral on social media. The video shows the bear, weighing 272 kilograms, pushing a wheelbarrow as it walks on its hind legs. The giant animal suddenly attacks the trainer, bites his head and neck and forces him to the floor. The audience sitting just a few feet away, with no safety barrier between them and the bear, can be heard screaming in horror. Disclaimer: The content in the video might be disturbing for some viewers. Viewer discretion is advised. WARNING: GRAPHIC  Screaming audience members flee as Russian circus bear mauls trainer in chilling attack  DETAILS: https://t.co/5WM3hws3mU pic.twitter.com/0kfzHKRdJh — RT (@RT_com) October 25, 2019 Another trainer can be seen hurrying forward to save his colleague. He kicks the bear repeatedly. Witnesses initially thought that it was a part of the script. A witness told local media that the bear then ventured into the audience area before being subdued with an electric shocker. Panicking visitors ran outside to save their lives. The bear is a star attraction at the Anshlag Tent Circus and this performance was called as 'Bow-legged and the Wheelbarrow'. The Interfax news agency said that the Investigative Committee has opened a criminal investigation on the circus on a charge of providing unsafe services. RELATED NEWS Man jokes about getting mauled by bear, gets eaten alive by one a few hours later In another incident reported from Russia, a 66-year-old man was eaten alive by a bear just a few hours after he had jokingly told his wife over the phone that he was mauled by one."]
+
+
+Bear----SP.COMMON
+
+bear----SP.COMMON
+
+bear----SP.COMMON
+
+Russia----LOC.STATE
+
+bear----SP.COMMON
+
+Olonets----LOC.EXACT
+
+bear----SP.COMMON
+
+272 kilograms----QTY
+
+bear----SP.COMMON

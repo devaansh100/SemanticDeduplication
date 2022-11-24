@@ -1,0 +1,123 @@
+
+['Two red sanders smugglers held during a combing operation- The New Indian Express\nBy Express News Service TIRUPATI: Red Sanders Anti-Smuggling Task Force teams on Monday arrested two smugglers and seized 31 logs during a combing operation held under Thimminaidupalem beat in Renigunta mandal. The arrested were identified as P Rajendran, 41, and K Kumar, 35, of Vellore district in Tamil Nadu. Acting on a tip-off, the task force teams have been combing the Seshachalam forests for the past three days. Till now, the task force teams have managed to recover 31 red sanders logs worth Rs 40 lakh. During the operation, a team led by RSIs Viswanath and Vinod Kumar noticed a group of persons carrying red sanders logs from the forest. After noticing the team, the accused tried to flee away from the scene. However, the team managed to nab two smugglers. A team led by RSI Lingadhar seized 11 red sanders logs during a combing operation held in the forest area near Srivari Mettu late on Sunday night. Another team led by RI Krupanand seized 10 logs near Musalikunta in Obulavaripalle division. TIRUPATI: Red Sanders Anti-Smuggling Task Force teams on Monday arrested two smugglers and seized 31 logs during a combing operation held under Thimminaidupalem beat in Renigunta mandal. The arrested were identified as P Rajendran, 41, and K Kumar, 35, of Vellore district in Tamil Nadu. Acting on a tip-off, the task force teams have been combing the Seshachalam forests for the past three days. Till now, the task force teams have managed to recover 31 red sanders logs worth Rs 40 lakh. During the operation, a team led by RSIs Viswanath and Vinod Kumar noticed a group of persons carrying red sanders logs from the forest. After noticing the team, the accused tried to flee away from the scene. However, the team managed to nab two smugglers. A team led by RSI Lingadhar seized 11 red sanders logs during a combing operation held in the forest area near Srivari Mettu late on Sunday night. Another team led by RI Krupanand seized 10 logs near Musalikunta in Obulavaripalle division.']
+
+
+Two----SUS.NUMBER
+
+red sanders----SP.COMMON
+
+Red Sanders Anti-Smuggling Task Force----AUTH.SEIZE
+
+Monday----DATE
+
+arrested----CRIME.CAT
+
+two----SUS.NUMBER
+
+31----QTY
+
+logs----ITEM
+
+P Rajendran----SUS.NAME
+
+41----SUS.AGE
+
+K Kumar----SUS.NAME
+
+35----SUS.AGE
+
+Vellore----SUS.LOC
+
+tip-off----DETECTION_METHOD
+
+Rs 40 lakh----VALUE
+
+RSIs----OFF.DESIG
+
+Viswanath----OFF.NAME
+
+Vinod Kumar----OFF.NAME
+
+RSI----OFF.DESIG
+
+Lingadhar----OFF.NAME
+
+11----QTY
+
+red sanders----SP.COMMON
+
+logs----ITEM
+
+combing operation----DETECTION_METHOD
+
+Sunday----DATE
+
+night----TIME
+
+RI----OFF.DESIG
+
+Krupanand----OFF.NAME
+
+10----QTY
+
+logs----ITEM
+
+Red Sanders Anti-Smuggling Task Force----AUTH.SEIZE
+
+Monday----DATE
+
+arrested----CRIME.CAT
+
+two----SUS.NUMBER
+
+31----QTY
+
+logs----ITEM
+
+P Rajendran----SUS.NAME
+
+41----SUS.AGE
+
+K Kumar----SUS.NAME
+
+35----SUS.AGE
+
+Vellore----SUS.LOC
+
+tip-off----DETECTION_METHOD
+
+31----QTY
+
+red sanders----SP.COMMON
+
+logs----ITEM
+
+Rs 40 lakh----VALUE
+
+RSIs----OFF.DESIG
+
+Viswanath----OFF.NAME
+
+Vinod Kumar----OFF.NAME
+
+RSI----OFF.DESIG
+
+Lingadhar----OFF.NAME
+
+11----QTY
+
+red sanders----SP.COMMON
+
+logs----ITEM
+
+Sunday----DATE
+
+night----TIME
+
+RI----OFF.DESIG
+
+Krupanand----OFF.NAME
+
+10----QTY
+
+logs----ITEM

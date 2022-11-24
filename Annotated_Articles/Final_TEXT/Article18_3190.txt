@@ -1,0 +1,15 @@
+
+["King Cobra made out of chocolate: This Pastry maker shocks netizens\nChennai: Don't we all love chocolates? But have you ever seen or heard about snakes made out of chocolate? Well, here is a Swiss-French pastry chef who makes things which are real in life to be edible. He has made doves, rose and even radio's in chocolate. Amaury Guichon, who has a huge fan following for his chocolate creations and pastry designs has made a King Cobra out of chocolate. The video shared by him on Instagram of making the snake with such precision and detail has attracted netizens today. Amaury Guichon sharing the video said that it took him 8 hours for one detail alone in making the snake. The captioned read, “Chocolate King Cobra! The scales alone on this one took me 8 hours,” (sic) The video has garnered over 516k likes and whopping 4 million views on Instagram. Check out the video here:"]
+
+
+King----SP.SPECIFIC
+
+Cobra----SP.COMMON
+
+doves----SP.COMMON
+
+rose----SP.COMMON
+
+radio's----ITEM
+
+Amaury Guichon----SUS.NAME

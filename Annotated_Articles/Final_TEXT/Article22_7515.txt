@@ -1,0 +1,19 @@
+
+['Crocodiles Fight For Man’s Body In Vishwamitri River\nVADODARA: They spotted some crocodiles gnawing at something in Vishwamitri River on Tuesday morning. When they took a closer look, the passers-by were horrified. The reptiles were dragging around a man’s body in the river near Bhimnath Bridge.Three crocodiles were tugging the body and growling at each other ferociously. Some onlookers informed the fire brigade officials, who rushed to the spot for the rescue operation. After about 30 minutes of efforts, the firemen managed to chase away the crocodiles and fish out the man’s dead body.“The body was completely decomposed and had several injury marks due to crocodile bites. The body has been sent for post-mortem but we are yet to ascertain the identity of the man,” said RG Jadeja , police inspector, Sayajigunj police station. The cops are scanning through missing persons’ reports to find out if the man’s family had approached the police.When asked if the man accidentally fell in the river or committed suicide, Jadeja said, “A witness had seen him entering into the river on Sunday evening. It seems to be a case of suicide.” The lady who saw the deceased entering the river on Sunday evening had informed the fire brigade.The firemen had conducted search operations on Sunday night and also on Monday. But they couldn’t locate his body. The stretch where the man got into the river is home to dozens of crocodiles. He seems to have drowned in the water and was later attacked by the reptiles.Vishwamitri River has about 270 crocodiles in the stretch that passes through the city areas.']
+
+
+Crocodiles----SP.SPECIFIC
+
+Vishwamitri River----LOC.EXACT
+
+crocodiles----SP.COMMON
+
+Vishwamitri River----LOC.EXACT
+
+Tuesday----DATE
+
+morning----TIME
+
+fire brigade officials----AUTH.SEIZE
+
+search operations----DETECTION_METHOD

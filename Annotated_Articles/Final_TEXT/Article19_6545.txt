@@ -1,0 +1,41 @@
+
+['Two booked for posing threat to wildlife\nPILIBHIT: The forest and wildlife division (FWD) in Pilibhit on Wednesday booked two persons, including a businessman, for fencing a field with electric wire. The department has seized the wire, along with the wooden poles, and registered a case for posing threat to the lives of wild animals.Those booked have been identified as Ramautar Agarwal, a resident of Majhola town, and the caretaker of his agricultural farm, Ramchandra.Divisional forest officer of FWD, Sanjeev Kumar, said a forest guard of his division, Shailendra Kumar , posted in Amaria range, had been informed by locals about the electric wire being put up along the field owned by Agarwal.“The matter was deemed to be extremely serious due to the presence of around a dozen tigers in the agricultural belt of Amarai tehsil , especially on the surroundings of Deuni Dam. The electric wire could have injured any tiger or even might have claimed its life”, the DFO said.He said a case against the two persons was registered under section 9/51 of the Wildlife Protection Act, 1972. The department has also imposed a penalty of Rs 25,000 on both of them.']
+
+
+Two----SUS.NUMBER
+
+forest and wildlife division----AUTH.SEIZE
+
+FWD----AUTH.SEIZE
+
+Wednesday----DATE
+
+booked----CRIME.CAT
+
+two----SUS.NUMBER
+
+seized----CRIME.CAT
+
+wire----ITEM
+
+wooden poles----ITEM
+
+registered a case----OUTCOME
+
+Ramautar Agarwal----SUS.NAME
+
+Majhola town----SUS.LOC
+
+Divisional forest officer----OFF.DESIG
+
+Sanjeev Kumar----OFF.NAME
+
+forest guard----OFF.DESIG
+
+Shailendra Kumar----OFF.NAME
+
+case against the----OUTCOME
+
+two----SUS.NUMBER
+
+penalty of Rs 25,000----OUTCOME

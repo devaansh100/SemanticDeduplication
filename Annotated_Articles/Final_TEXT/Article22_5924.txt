@@ -1,0 +1,31 @@
+
+['UP man killed in suspected tiger attack\nUP man killed in suspected tiger attack India pti-PTI Lakhimpur Kheri, Jun 27: A 33-year-old man was killed in a suspected tiger attack in the Dudhwa area here, a forest department official said on Monday. Nagendra Singh, a resident of Narendranagar Beli village, had gone to a cane field to collect grass on Sunday evening when a big cat attacked and killed him, the official said. Deputy Director of Dudhwa buffer zone Sundaresh said the animal that attacked Singh is suspected to be a tiger. The area where the incident happened is close to Manjhra Purab reserve forest area, he said. On June 17, a local priest, Mohan Das (52), was killed in a tiger attack in the Khairatiya area. Later on June 23, a 13-year-old boy, Suraj Singh, was also killed by a big cat in the area. Since then the terror of a man-eating tiger has prevailed in the area. Sundaresh said it is yet to be ascertained whether the same tiger killed Singh. Patrolling teams with elephants were deployed in the area to locate the stray big cat, he said. Sundaresh appealed to villagers not to visit their fields alone, especially during evening hours. He also urged them to cooperate with the forest department officials to trace the man-eater. PTI']
+
+
+UP----SUS.LOC
+
+man----SUS.GENDER
+
+killed----CRIME.CAT
+
+tiger----SP.COMMON
+
+man----SUS.GENDER
+
+33-year-old----SUS.AGE
+
+man----SUS.GENDER
+
+tiger----SP.COMMON
+
+Dudhwa area----LOC.EXACT
+
+Nagendra Singh----SUS.NAME
+
+Narendranagar Beli village----SUS.LOC
+
+Sunday----DATE
+
+evening----TIME
+
+tiger----SP.COMMON

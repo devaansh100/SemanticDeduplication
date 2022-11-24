@@ -1,0 +1,55 @@
+
+["Indore: Road accident claims leopard on NH-3\nIndore/Mhow (Madhya Pradesh)  A leopard was found dead on National Highway 3 in the wee hours of Saturday. The Forest Department officials claimed that the leopard was hit by an unidentified vehicle as injury marks were found on its head and legs. The nails and teeth of the dead animal were found intact, ruling out a case of poaching.  This is the second such incident within four days in which a big cat has been killed in a road accident. A tiger was killed after being hit by a vehicle in Seoni a couple of days ago.  The incident took place on Manpur Dhamnod Road (NH-3) near Bhairav temple. The police reached the spot and they informed the Forest Department officials at around 3.45 am. The officials instructed the veterinary doctors of Mhow and Manpur to check the leopard.  A team from the Veterinary College and Forest Department inspected the dead leopard and it was found to have injuries in the head and mouth. It had a broken left front leg and rear left leg and internal and external wounds on the back, skin peeling wounds on the left leg. The medical team prima facie said that the leopard died due to a road accident. It was possibly hit by a vehicle on the highway. All the body parts; whiskers, teeth, and nails of the leopard were found to be intact. The legal process of cremation of the dead animal including all the parts of the leopard was done by the forest department staff as per rules. This is the fourth leopard to have died in the last 70 days in the Mhow and Manpur forest area from February to the first week of April. The veterinary doctor of Mhow, Dr Rakesh Singh Sisodia, who reached the spot, said that the leopard had died on the spot due to the collision with the vehicle.  Tiger found dead in Seoni recently A tiger was found dead on Nagpur highway near Batvani village on March 30. It is believed that it died after being hit by an unidentified vehicle on the highway. The carcass was taken to Pench National Park for an autopsy. (To receive our E-paper on whatsapp daily, please click here. To receive it on Telegram, please click here. We permit sharing of the paper's PDF on WhatsApp and other social media platforms.)"]
+
+
+leopard----SP.COMMON
+
+Indore----LOC.DISTRICT
+
+Madhya Pradesh----LOC.STATE
+
+leopard----SP.COMMON
+
+found dead----CRIME.CAT
+
+National Highway 3----LOC.EXACT
+
+wee hours----TIME
+
+Saturday----DATE
+
+Forest Department officials----AUTH.SEIZE
+
+leopard----SP.COMMON
+
+nails----ITEM
+
+teeth----ITEM
+
+Manpur Dhamnod Road (NH-3) near Bhairav temple----LOC.EXACT
+
+Forest Department officials----AUTH.SEIZE
+
+3.45 am----TIME
+
+veterinary doctors of Mhow----AUTH.MISC
+
+Veterinary College and Forest Department----AUTH.MISC
+
+whiskers----ITEM
+
+teeth----ITEM
+
+nails----ITEM
+
+Tiger----SP.COMMON
+
+found dead----CRIME.CAT
+
+tiger----SP.COMMON
+
+found dead----CRIME.CAT
+
+Nagpur highway----LOC.EXACT
+
+March 30----DATE

@@ -1,0 +1,93 @@
+
+['Ten held in Sabarkantha for smuggling tortoise, birds\nPALANPUR: Forest department cracked down on a racket of smuggling birds and wild animals by arresting 10 people from four districts of the state and rescuing two birds and a tortoise.Forest officials said that based on a tip-off that wild birds and animals were being smuggled for witchcraft purpose, police arrested five persons from Lalpur village in Sabarkantha on Tuesday night. “Three of these men were found possessing an owl, a tortoise and a hedgehog while two others were middlemen,” said G A Patel, regional forest officer, Idar.Forest department said that the trio held with birds and tortoise were buyers and the two middlemen had introduced them to the five other accused who had sold the wildlife. Later names of five other persons from Panchmahal and Mahisagar were revealed.All 10 accused – Anil Makwana, a resident of Panchmahal, Sunil Maliwad and Khema Taviyad, both residents of Santrampur in Mahisagar, Dalpat Bhambhi, Chandu Bhavangadh, Arvind Prajapati, Jagdish Patel and Haresh Patel, all residents of Sabarkantha, Kesha Thakor and Susangji Thakor, both of whom live in Mehsana, were booked under sections of Wildlife Protection Act. “We are expecting that the accused will admit of more of their smuggling activities,” Patel added.']
+
+
+Ten----SUS.NUMBER
+
+Sabarkantha----LOC.DISTRICT
+
+smuggling----CRIME.CAT
+
+tortoise----SP.COMMON
+
+birds----SP.COMMON
+
+Forest department----AUTH.SEIZE
+
+10----SUS.NUMBER
+
+four districts----ROUTE.SRC
+
+two----QTY
+
+birds----SP.COMMON
+
+a----QTY
+
+tortoise.Forest----SP.COMMON
+
+tip-off----DETECTION_METHOD
+
+wild birds----SP.COMMON
+
+animals----SP.COMMON
+
+smuggled----CRIME.CAT
+
+five----SUS.NUMBER
+
+Lalpur village----LOC.EXACT
+
+Sabarkantha----LOC.DISTRICT
+
+Tuesday----DATE
+
+night----TIME
+
+Three----SUS.NUMBER
+
+men----SUS.GENDER
+
+an----QTY
+
+owl----SP.SPECIFIC
+
+a----QTY
+
+tortoise----SP.COMMON
+
+a----QTY
+
+hedgehog----SP.SPECIFIC
+
+two----SUS.NUMBER
+
+Anil Makwana----SUS.NAME
+
+Panchmahal----SUS.LOC
+
+Sunil Maliwad----SUS.NAME
+
+Khema Taviyad----SUS.NAME
+
+Santrampur in Mahisagar----SUS.LOC
+
+Dalpat Bhambhi----SUS.NAME
+
+Chandu Bhavangadh----SUS.NAME
+
+Arvind Prajapati----SUS.NAME
+
+Jagdish Patel----SUS.NAME
+
+Haresh Patel----SUS.NAME
+
+Sabarkantha----SUS.LOC
+
+Kesha Thakor----SUS.NAME
+
+Susangji Thakor----SUS.NAME
+
+Mehsana----SUS.LOC
+
+booked under sections of Wildlife Protection Act----OUTCOME

@@ -1,0 +1,49 @@
+
+['143kg venison recovered in Shivamogga\nShivamogga: The sale of venison deer meat ) is going up in Shivamogga Poaching of deer has gone up due to the huge demand for venison in the town. On Sunday, in two raids by police and forest officials, authorities recovered 143kg of venison.A Kumsi police team raided Adagadi village and nabbed accused Anil and Hanumantha and recovered 40kg of venison and deer pelt. Tunga Nagar police in Shivamogga and forest officials, in a joint operation in the city, recovered 103kg of deer meat, which was later seized. Accused Manjunath and Umesh Naik from Malligenahalli were caught transporting venison in an autorickshaw.According to the forest personnel, butcher shops in the city mix venison with mutton. A large number of customers prefer deer meat and some of them directly purchase from poachers. During weekends, demand for chicken and mutton has increased, which could be because people have started getting a taste for venison, knowingly or unknowingly. Some knowingly purchase venison, but many customers are unaware that they are consuming it.A kilogram of mutton costs nearly Rs 700, while poachers sell venison at Rs 300 to Rs 400 per kg. For this reason, meat shop owners make quick money by mixing venison with mutton, and cheat customers.The forest department had conducted raids on shops and seized venison six months back. Deer are poached in neighbouring Mandagadde and Shettihalli forest regions, and then sold to select mutton shops. DCF of forest mobile squad in Shivamogga, Balachandra, told TOI that they are keeping an eye on meat shops to check this illegal activity.']
+
+
+143kg----QTY
+
+venison----ITEM
+
+Shivamogga----LOC.CITY
+
+meat----ITEM
+
+Sunday----DATE
+
+raids----DETECTION_METHOD
+
+police----AUTH.SEIZE
+
+forest officials----AUTH.SEIZE
+
+143kg----QTY
+
+venison.A----ITEM
+
+Adagadi village----ROUTE.SRC
+
+Anil----SUS.NAME
+
+Hanumantha----SUS.NAME
+
+40kg----QTY
+
+venison----ITEM
+
+Tunga Nagar police----AUTH.SEIZE
+
+forest officials----AUTH.SEIZE
+
+103kg----QTY
+
+deer----SP.COMMON
+
+meat----ITEM
+
+Manjunath----SUS.NAME
+
+Umesh Naik----SUS.NAME
+
+Malligenahalli----SUS.LOC

@@ -1,0 +1,33 @@
+
+['Speeding train knocks tiger dead on Gondia-Ballarshah section\nNAGPUR: An adult tiger was run over by a speeding train on Saturday early morning, adding to the list of wildlife deaths on the South East Central Railway (SECR) tracks in Nagpur division. The carcass of a male tiger, aged around four years, was found near the tracks between Wadegaon-Arunnagar on the Gondia-Ballarshah section.The impact was so severe that both the hind legs of the tiger were broken, there were wounds on the body, and the face and skull was smashed. “The death occurred due to excessive bleeding caused by both internal and external injuries,” a forest official said.This is the sixth tiger to die in a train-hit on the Gondia-Chandrapur railway line in the last few years. The last death was reported on March 8, 2021, when a 12-month-old male tiger cub was run over in Pindkepar by a freight train on the same route.Kishor Rithe, a state board for wildlife (SBWL) member, who is on the board’s sub-committee of experts and user agencies implementing linear projects, said, “The committee has always asked SECR to restrict speed in forested patches but it hasn’t done so. The SECR representative also hasn’t informed the Railway Board about the committee decision.”Forest officials said the spot where the tiger (LT1) carcass was noticed falls in the Korambhi beat under the Morgaon Arjuni range of Gondia division. The tiger was a resident of Lakhandur range in Bhandara division and also moved in overlapping boundaries of Wadsa and Morgaon Arjuni.According to tiger tracker Azhar Hussain, secretary of Paryavaran Sanrakshan Bahuddeshia Sanstha (PSBS), the tiger was one of the male offspring of tigress ‘W’ from Junona in Tadoba buffer. It was first sighted in Lakhandur on March 1.In the information given under RTI Act to green crusader Shrikant Deshpande, the SECR Nagpur division has stated that 130 wild animals including tigers, leopards, sloth bears, gaurs, wild dogs, nilgais, deer, wild boars have been killed on Gondia-Chandrapur-Ballarshah section from 2001 till October 2021.Deshpande said, “The figures are just the tip of the iceberg as many deaths of birds, reptiles, and other small mammals and nocturnal animals go unrecorded. Also, the number doesn’t include three sloth bears (mother & cubs) that were run over near Kelzar on July 13, 2017.”On an average over two tigers are dying in Maharashtra every month. This is the 14th tiger death in the state in a little over five months.On Saturday, senior divisional commercial manager (SrDCM) Ravish Kumar Singh was not forthcoming about the incident. On wild animal deaths on the tracks, SECR officials have always maintained that any mitigation measures will have to come through the Railway Board.The Gondia-Wadsa section was opened in 1994, while the Nagbhid-Chanda Fort-Ballarshah sections were commissioned in 1999, when there was no awareness and talk about mitigation measures. The new sections like Gondia-Jabalpur or Nagpur-Nagbhid are being elevated now.“After the death of three tiger cubs in Junona on November 15, 2018, by a speeding train, the then Chandrapur chief conservator of forests (CCF) SV Ramarao had ordered a survey on mitigation steps to be suggested to SECR and accordingly recommended a five-pronged strategy,” said SBWL member Bandu Dhotre.Dhotre said they had identified at least 19 railway poles where trains should run with caution at 40kmph. “Ramarao had suggested new underpasses in the most vulnerable forested ranges of Mamla, Junona, Sindewahi, Chichpalli, Talodhi, Balapur and Nagbhid ranges in the Bramhapuri and Chandrapur divisions. None of the measures are being followed by SECR,” Dhotre said.“In the years to come, frequency of trains will increase and there are plans to double the line on the said route. This will apparently affect more animals. Animals have already been affected by unnecessary road widening in TATR and NNTR corridors. The regional environment committee has already asked SECR to take mitigation steps while expanding the Wadsa-Gadchiroli route,” says Suresh Chopne, president, Green Planet Society.']
+
+
+train----TRANSPORT_MODE
+
+knocks----CRIME.CAT
+
+tiger----SP.COMMON
+
+Gondia-Ballarshah section----LOC.EXACT
+
+tiger----SP.COMMON
+
+run over----CRIME.CAT
+
+train----TRANSPORT_MODE
+
+Saturday----DATE
+
+early morning----TIME
+
+South East Central Railway (SECR) tracks----LOC.EXACT
+
+carcass----ITEM
+
+tiger----SP.COMMON
+
+Wadegaon-Arunnagar----LOC.EXACT
+
+CCF----OFF.DESIG
+
+SV Ramarao----OFF.NAME

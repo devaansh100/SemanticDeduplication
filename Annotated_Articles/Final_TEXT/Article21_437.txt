@@ -1,0 +1,51 @@
+
+['Andhra Pradesh: Rs 10 crore worth Ambergris seized in Guntur district\nGUNTUR: A joint operation was successfully carried out by Wildlife Crime Control Bureau WCCB ), Forest department and Police in Narasaraopet in Guntur district and seized 8.25 kg of Ambergris from the possession of eight people on Sunday.The seized stock of ambergris costs nearly Rs 10 crore in the open market. Police have also seized six motor bikes from the possession of the accused. A local court in Narasaraopet sent the accused to the 14 days judicial remand. According to information, the forest department WCCB team kept a close surveillance on a group of people who have kept some posts in social media offering to sell precious Ambergris and tracked their movements. After getting clues, the forest and police team carried out raid and nabbed the offenders.DFO Srinivasa Reddy said that Ambergris is generally referred to as sperm whale vomit. “It is a solid waxy substance originating in the intestine of the sperm whale. Ambergris is produced only by an estimated 1% of sperm whales. Chemically, ambergris contains alkaloids, acids, and a specific compound called ambreine, which is similar to cholesterol,” said Divisional Forest Officer (DFO).He explained that it floats around the surface of the water body and at times settles on the coast.Because of its high value it is referred to as floating gold. He said that 1 kg of ambergris commands a price of Rs 1 crore in the international market. It is used in the perfume market, especially to create fragrances like musk. It is believed to be in high demand in countries like Dubai that have a large perfume market. Ancient Egyptians used it as incense.It is also believed to be used in some traditional medicines and as a spice. It is however not clear how the accused procured the stock and sold it to whom. The police were planning to interrogate the accused after filing a petition.“Sperm Whale is in the IUCN Red List and vulnerable. It is protected under Wildlife (Protection) Act, 1972: schedule II part II,” said DFO.']
+
+
+Rs 10 crore----VALUE
+
+Ambergris----ITEM
+
+seized----CRIME.CAT
+
+Guntur district----LOC.DISTRICT
+
+joint operation----DETECTION_METHOD
+
+Wildlife Crime Control Bureau----AUTH.SEIZE
+
+WCCB----AUTH.SEIZE
+
+Forest department----AUTH.SEIZE
+
+Police----AUTH.SEIZE
+
+Narasaraopet----LOC.EXACT
+
+Guntur district----LOC.DISTRICT
+
+seized----CRIME.CAT
+
+8.25 kg----QTY
+
+Ambergris----ITEM
+
+eight----SUS.NUMBER
+
+Sunday.The----DATE
+
+ambergris----ITEM
+
+Rs 10 crore----VALUE
+
+six----QTY
+
+motor bikes----ITEM
+
+local court in Narasaraopet sent the accused to the 14 days judicial remand----OUTCOME
+
+Ambergris----ITEM
+
+sperm whale----SP.SPECIFIC
+
+vomit----ITEM

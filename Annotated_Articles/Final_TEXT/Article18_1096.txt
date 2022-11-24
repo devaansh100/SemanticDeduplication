@@ -1,0 +1,33 @@
+
+["Man killed in wild elephant attack in Wayanad\nWayanad: A 40-year-old man was trampled to death by a wild elephant at Meppadi here. The deceased is identified as Meppadi Arunamala colony native Mohan, son of Krishnan. Mohan The incident took place on Monday around 9.30 pm. Mohan was on his way home from Kallady when a wild jumbo attacked him. His three friends who accompanied him had a narrow escape after fleeing from the spot. Forest officials have been camping at Meenakshi due to the rampant elephant attacks. Hence, they were alerted about the wild elephant attack on Mohan. Though they rushed him to Dr Mooppen's Medical College in Meppadi, he was declared dead. Mohan is survived by two children Sivan and Mohini"]
+
+
+Man----SUS.GENDER
+
+wild elephant----SP.COMMON
+
+Wayanad----LOC.DISTRICT
+
+40----SUS.AGE
+
+man----SUS.GENDER
+
+trampled to death----CRIME.CAT
+
+wild elephant----SP.COMMON
+
+Meppadi----LOC.EXACT
+
+Meppadi Arunamala colony native----SUS.LOC
+
+Mohan----SUS.NAME
+
+Monday----DATE
+
+9.30 pm----TIME
+
+wild jumbo----SP.COMMON
+
+Sivan----SUS.NAME
+
+Mohini----SUS.NAME

@@ -1,0 +1,27 @@
+
+["'Man-eating' leopard that killed 3 children in J&K's Baramulla to be hunted down\nThe Jammu and Kashmir wildlife department on Tuesday ordered the killing of a man-eating leopard, which is on the prowl in north Kashmir’s Baramulla district and is believed to have preyed on three children over the last week. The decision came after the half-eaten body of a 12-year-old girl, Rutba Manzoor, was found in the forest fringing Bernate village. Locals said, “A wild animal carried off the girl.We heard her screams and rushed towards forest. We did not see the leopard, but she was lying dead in the forest,”said Riyaz Ahmad, a local villager. Manzoor became the third child to be targeted by the feline. Her death triggered protests with her relatives blocking the Srinagar-Uri highway to protest against the wildlife department’s inaction. In the order issued on Tuesday, J&K chief wildlife warden Suresh Gupta allowed the north division wildlife warden “to hunt or cause the said animal to be hunted forthwith after completing the required formalities.” Besides setting up cages, hunters have been deployed in the area to kill the animal, a senior wildlife officer said. The leopard, which is suspected to be roaming the Uri forests, has already claimed two lives in the Boniyar and Cholan area. On Sunday night, the body of 13-year-old Shahid Ahmad was recovered from the forests of Trikanjan in Boniyar. Ahmad had been grazing his cattle when he was attacked by the big cat. A day earlier, 15-year-old Muneer Ahmad of Kalsan was also killed by the feline in the same area, said wildlife officials. Rizwan Ahmad, a resident of Trikanjan, said, “The incidents took place in separate areas and forests. People are in a state of panic. I suspect the presence of more man-eating leopards in the area.” Announcements were made at mosques warning villagers in Boniyar against venturing out in the evening or early morning."]
+
+
+leopard----SP.COMMON
+
+Baramulla----LOC.DISTRICT
+
+hunted----CRIME.CAT
+
+Jammu and Kashmir wildlife department----AUTH.SEIZE
+
+Tuesday----DATE
+
+Bernate village----LOC.EXACT
+
+Sunday----DATE
+
+night----TIME
+
+body----ITEM
+
+13-year-old----SUS.AGE
+
+Shahid Ahmad----SUS.NAME
+
+forests of Trikanjan in Boniyar----ROUTE.SRC

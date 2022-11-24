@@ -1,0 +1,23 @@
+
+['Hen wandering at Pentagon security area taken into custody\nWandering chicken taken into custody at Pentagon | Photo Credit: Twitter Key Highlights The chicken was taken into custody by the Animal Welfare League of Arlington, Virginia The exact location of where the chicken was seen has not been revealed The hen, a Rhode Island Red, has been named Henny Penny Washington: A chicken that was caught wandering around a security area at the Pentagon has been taken into custody, a local animal welfare organisation said. The loose hen was found early Monday morning near the US Department of Defense headquarters, the Animal Welfare League of Arlington, Virginia, said on social media. "Apparently, the answer to ‘why did the chicken cross the road’ is to get to the Pentagon," the organisation wrote. The chicken was taken into custody by one of the league’s employees. "Our officers were called to come pick her up. Sgt Ballena brought her safely to the shelter where she\'ll stay until we find a new home for her!" the organisation said. Chelsea Jones, a spokesperson for the organisation, said that she couldn\'t reveal the exact location of where the chicken was seen. "We are not allowed to disclose exactly where she was found," Jones was quoted as saying by AP. "We can only say it was at a security checkpoint." It’s also unclear where the chicken came from or how she got to the Pentagon. The hen which has brown feathers and a red comb and wattles is a Rhode Island Red. Our officers have chosen the name Henny Penny for our #pentagonchicken, and she will be going to live at a local animal sanctuary very soon! https://t.co/qQ7kfYkocM pic.twitter.com/31gugYE4tR — AWLArlington, VA (@AWLAArlington) February 1, 2022 The bird is now known as Henny Penny. Henny Penny is being adopted by a staff member who has a small farm in western Virginia, Jones said.']
+
+
+Hen----SP.COMMON
+
+Pentagon security area----LOC.EXACT
+
+Animal Welfare League of Arlington, Virginia----AUTH.SEIZE
+
+Rhode Island Red----SP.SPECIFIC
+
+Henny Penny Washington----SUS.NAME
+
+early Monday----TIME
+
+morning----TIME
+
+Rhode Island Red----SP.SPECIFIC
+
+Henny Penny----SUS.NAME
+
+Henny Penny----SUS.NAME

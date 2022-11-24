@@ -1,0 +1,41 @@
+
+["Kerala: Forest watcher killed dies in elephant attack, 2 severely injured\nThe incident took place when the forest officials were trying to chase away two elephants which had strayed into human habitation. | Photo Credit: Getty Images Thiruvananthapuram: In a case reported, a 58-year-old forest watcher was killed and two others were injured when an elephant attacked them on Saturday. According to news agency PTI, the incident took place when the forest officials were trying to chase away two elephants which had strayed into human habitation. Reportedly, the deceased were identified as Mohanan, a native of Kanjikode. Forest officials told PTI that the elephants wandered into the human settlement near Walayar and in order to save destruction, two people were injured. The injured were identified as 33-year-old Vishwanathan, a resident of Chenkal Adivasi colony, and 36-year-old Sasi, a native of Kannod Valladi, the officials said. Meanwhile, the official reports mentioned that the in last one-and-a-half years, a total of nine people were killed and 19 others have been injured in elephant attacks in the area. In a similar case reported, a 52-year-old woman was mauled to death by a tiger in the Ranthambore Tiger Reserve in Sawai Madhopur district of Rajasthan. The Deputy Superintendent of Police Krishna Samariya said the incident occurred near Paldi village and the deceased was identified as Munni Devi. The Rajasthan's Chief Minister sanctioned a compensation of Rs 1 lakh from the relief fund for the deceased's family members. The amount was sanctioned in addition to the financial assistance of Rs 4 lakh as per rules of the Forest Department."]
+
+
+Kerala----LOC.STATE
+
+Forest watcher----SP.COMMON
+
+killed----CRIME.CAT
+
+2----SUS.NUMBER
+
+forest officials----AUTH.SEIZE
+
+elephants----SP.COMMON
+
+Saturday----DATE
+
+elephants----SP.COMMON
+
+Mohanan----SUS.NAME
+
+Kanjikode----SUS.LOC
+
+33-year-old----SUS.AGE
+
+Vishwanathan----SUS.NAME
+
+Chenkal Adivasi colony----SUS.LOC
+
+36-year-old----SUS.AGE
+
+Sasi----SUS.NAME
+
+Kannod Valladi----SUS.LOC
+
+Paldi village----LOC.EXACT
+
+Munni Devi----SUS.NAME
+
+compensation of Rs 1 lakh----OUTCOME

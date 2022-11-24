@@ -1,0 +1,55 @@
+
+['Kerala: Race for survival ends with predator, prey in well\nBy Express News Service PALAKKAD: It was a battle for survival gone wrong for both prey and predator. A leopard that was hunting for food and the wild boars that would have been its dinner ended up together, inside an unused well, in neck-deep slush. After hours of exertion, the forest staff managed to rescue the leopard and one wild boar. The other boars had died. The pursuit and the fallout unveiled in a village bordering the forest at Meppadi Vanvasi near Puduppariyaram, 10 km away from Meppadi town, on Sunday night. The farmland belonged to Surendran. However, forest officials said it was a vested forest area. On Monday morning, nearby residents heard the snorts and growls of a leopard and found it stuck inside the well, along with three scared wild boars. The residents informed the forest watcher who alerted the range officer. Around 10am, forest officers reached the spot with a cage and ladders and started rescue operations. As the leopard was an adult, aged around 7, forest officials and police removed the public from the vicinity. When the leopard did not enter the cage, the forest personnel lowered a ladder. The wild cat, after initial hesitation, climbed it and vanished into the wild in a flash. Around 1.30pm, the team fished out the carcasses of two wild boars and rescued the third one that survived. PALAKKAD: It was a battle for survival gone wrong for both prey and predator. A leopard that was hunting for food and the wild boars that would have been its dinner ended up together, inside an unused well, in neck-deep slush. After hours of exertion, the forest staff managed to rescue the leopard and one wild boar. The other boars had died. The pursuit and the fallout unveiled in a village bordering the forest at Meppadi Vanvasi near Puduppariyaram, 10 km away from Meppadi town, on Sunday night. The farmland belonged to Surendran. However, forest officials said it was a vested forest area. On Monday morning, nearby residents heard the snorts and growls of a leopard and found it stuck inside the well, along with three scared wild boars. The residents informed the forest watcher who alerted the range officer. Around 10am, forest officers reached the spot with a cage and ladders and started rescue operations. As the leopard was an adult, aged around 7, forest officials and police removed the public from the vicinity. When the leopard did not enter the cage, the forest personnel lowered a ladder. The wild cat, after initial hesitation, climbed it and vanished into the wild in a flash. Around 1.30pm, the team fished out the carcasses of two wild boars and rescued the third one that survived.']
+
+
+Kerala----LOC.STATE
+
+leopard----SP.COMMON
+
+wild boars----SP.COMMON
+
+forest staff----AUTH.SEIZE
+
+leopard----SP.COMMON
+
+one----QTY
+
+wild boar----SP.COMMON
+
+Sunday----DATE
+
+night----TIME
+
+leopard----SP.COMMON
+
+wild boars----SP.COMMON
+
+cage----ITEM
+
+ladders----ITEM
+
+carcasses----ITEM
+
+wild boars----SP.COMMON
+
+leopard----SP.COMMON
+
+wild boars----SP.COMMON
+
+leopard----SP.COMMON
+
+wild boar----SP.COMMON
+
+Sunday----DATE
+
+night----TIME
+
+morning----TIME
+
+leopard----SP.COMMON
+
+wild boars----SP.COMMON
+
+carcasses----ITEM
+
+wild boars----SP.SPECIFIC

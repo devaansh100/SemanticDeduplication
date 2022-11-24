@@ -1,0 +1,53 @@
+
+['Two men carrying dried sea cucumbers worth lakhs arrested in Ernakulam\nKothamangalam: Two men carrying dried sea cucumbers worth lakhs were caught by the Vigilance Wing of the Forest Department. Lakshadweep natives Abdul Rahman (22) and Nabeel (21) were arrested near Fine Arts Hall in Ernakulam with 14 kilograms of sea cucumbers packed in plastic covers. The team headed by Range Officer K Anwar of Perumbavoor Flying Squad under the Forest Department nabbed the men while they were trying to sell the sea cucumbers to a Delhi native for 250 US dollars/kg. They had tried to sell the sea cucumbers online and it had come to the notice of the Vigilance Wing.']
+
+
+Two----SUS.NUMBER
+
+men----SUS.GENDER
+
+sea cucumbers----SP.COMMON
+
+arrested----CRIME.CAT
+
+Ernakulam----LOC.DISTRICT
+
+Two----SUS.NUMBER
+
+men----SUS.GENDER
+
+sea cucumbers----SP.COMMON
+
+Vigilance Wing of the Forest Department----AUTH.SEIZE
+
+Lakshadweep----SUS.LOC
+
+Abdul Rahman----SUS.NAME
+
+22----SUS.AGE
+
+Nabeel----SUS.NAME
+
+21----SUS.AGE
+
+arrested----CRIME.CAT
+
+Fine Arts Hall in Ernakulam----LOC.EXACT
+
+14 kilograms----QTY
+
+sea cucumbers----SP.COMMON
+
+plastic covers----CONCEALMENT_METHOD
+
+Range Officer----OFF.DESIG
+
+K Anwar----OFF.NAME
+
+Perumbavoor Flying Squad----AUTH.SEIZE
+
+sea cucumbers----SP.COMMON
+
+Delhi----SUS.LOC
+
+250 US dollars/kg----VALUE

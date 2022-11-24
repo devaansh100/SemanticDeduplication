@@ -1,0 +1,51 @@
+
+['5 red sanders smuggling operatives nabbed near Tirupati, logs seized\nA combing party of the Andhra Pradesh State Red Sanders Anti Smuggling Task Force (APSRSTF) in the early hours of Monday nabbed five red sanders smuggling operatives at Karakambadi beat at the foot of Tirumala hills, 8 km from Tirupati, while they were coming closer to a road point carrying the logs. According to information, acting on a tip-off that some smuggling operatives were exiting from the forests along with logs, Superintendent of Police (Task Force) Ravi Shankar dispatched a special party to the trouble spot, which surrounded the smuggling operatives under culvert bridge and seized the logs. The nabbed were identified as Mallikarjuna, Ramana, Raghu, Mahaboob Basha (32-40 years) and Sankar (23), all coming from Kurnool and surrounding mandals. The accused were presented before the local court and were remanded.']
+
+
+5----SUS.NUMBER
+
+red sanders smuggling operatives----SP.COMMON
+
+nabbed----CRIME.CAT
+
+Tirupati----LOC.CITY
+
+logs----ITEM
+
+seized----CRIME.CAT
+
+Andhra Pradesh State Red Sanders Anti Smuggling Task Force (APSRSTF)----AUTH.SEIZE
+
+early hours----TIME
+
+Monday----DATE
+
+five----SUS.NUMBER
+
+red sanders smuggling operatives----SP.COMMON
+
+Karakambadi beat----LOC.EXACT
+
+a tip-off----DETECTION_METHOD
+
+Superintendent of Police (Task Force)----OFF.DESIG
+
+Ravi Shankar----OFF.NAME
+
+Mallikarjuna----SUS.NAME
+
+Ramana----SUS.NAME
+
+Raghu----SUS.NAME
+
+Mahaboob Basha----SUS.NAME
+
+32-40 years----SUS.AGE
+
+Sankar----SUS.NAME
+
+23----SUS.AGE
+
+Kurnool----SUS.LOC
+
+accused were presented before the local court and were remanded.----OUTCOME

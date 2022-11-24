@@ -1,0 +1,97 @@
+
+['Kodagu tiger poaching case: Tribal people land in forest department net- The New Indian Express\nBy Express News Service MADIKERI: The number of suspects in the tiger hunting case in Kodagu has increased to six even as the department is on the lookout for more people. The forest department officials have recovered the buried carcass of a tiger. On February 14, the Madikeri division forest cell arrested four persons from Tattalli tribal settlement near Siddapura for the possession of tiger skin, tiger claws, tiger teeth and tiger whiskers. They were identified as Rajes JJ, Ramesh JB, Vinu JK and Ramesh JK. The case was later handed over to the Nagarahole Wildlife Division for further investigation. Lately, two key accused in the case – Manoj and the tribal head and Chennayanakote Grama Panchayat member Appaji have been arrested. During the investigations, the forest department found the weapons used to hunt the tiger down hidden in the house of a suspect. Further, the camera traps that were installed inside the forest by the department to carry out tiger census were found lying inside the house of an accused Manoj of the tribal settlement. The remaining and missing parts of the tiger including its bones were found buried in the earth near accused Harish’s house. It is learned that a failed sale deal with a purchaser of the tiger skin led to the incident being leaked out to the department. Nagarahole Wildlife DCF Mahesh Kumar confirmed that more accused are involved in the case and the investigations are still on to identify the same. MADIKERI: The number of suspects in the tiger hunting case in Kodagu has increased to six even as the department is on the lookout for more people. The forest department officials have recovered the buried carcass of a tiger. On February 14, the Madikeri division forest cell arrested four persons from Tattalli tribal settlement near Siddapura for the possession of tiger skin, tiger claws, tiger teeth and tiger whiskers. They were identified as Rajes JJ, Ramesh JB, Vinu JK and Ramesh JK. The case was later handed over to the Nagarahole Wildlife Division for further investigation. Lately, two key accused in the case – Manoj and the tribal head and Chennayanakote Grama Panchayat member Appaji have been arrested. During the investigations, the forest department found the weapons used to hunt the tiger down hidden in the house of a suspect. Further, the camera traps that were installed inside the forest by the department to carry out tiger census were found lying inside the house of an accused Manoj of the tribal settlement. The remaining and missing parts of the tiger including its bones were found buried in the earth near accused Harish’s house. It is learned that a failed sale deal with a purchaser of the tiger skin led to the incident being leaked out to the department. Nagarahole Wildlife DCF Mahesh Kumar confirmed that more accused are involved in the case and the investigations are still on to identify the same.']
+
+
+Kodagu tiger----LOC.EXACT
+
+Kodagu----LOC.EXACT
+
+forest department officials----AUTH.SEIZE
+
+buried carcass----ITEM
+
+tiger----SP.COMMON
+
+February 14----DATE
+
+Madikeri division forest cell----AUTH.SEIZE
+
+four----SUS.NUMBER
+
+Tattalli tribal settlement----LOC.EXACT
+
+tiger----SP.COMMON
+
+skin----ITEM
+
+tiger----SP.COMMON
+
+claws----ITEM
+
+tiger----SP.COMMON
+
+teeth----ITEM
+
+tiger----SP.COMMON
+
+whiskers----ITEM
+
+Rajes JJ----SUS.NAME
+
+Ramesh JB----SUS.NAME
+
+Vinu JK----SUS.NAME
+
+Ramesh JK----SUS.NAME
+
+case was later handed over to the Nagarahole Wildlife Division----OUTCOME
+
+Manoj----SUS.NAME
+
+Appaji----SUS.NAME
+
+Manoj----SUS.NAME
+
+Harish----SUS.NAME
+
+February 14----DATE
+
+Madikeri division forest cell----AUTH.SEIZE
+
+four----SUS.NUMBER
+
+Tattalli tribal settlement near Siddapura----LOC.EXACT
+
+tiger----SP.COMMON
+
+skin----ITEM
+
+tiger----SP.COMMON
+
+claws----ITEM
+
+tiger----SP.COMMON
+
+teeth----ITEM
+
+tiger----SP.COMMON
+
+whiskers----ITEM
+
+Rajes JJ----SUS.NAME
+
+Ramesh JB----SUS.NAME
+
+Vinu JK----SUS.NAME
+
+Ramesh JK----SUS.NAME
+
+case was later handed over to the Nagarahole Wildlife Division----OUTCOME
+
+Manoj----SUS.NAME
+
+Appaji----SUS.NAME
+
+forest department----AUTH.SEIZE
+
+Manoj----SUS.NAME

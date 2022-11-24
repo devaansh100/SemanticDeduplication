@@ -1,0 +1,29 @@
+
+["Maharashtra: Four held for raping bengal monitor lizard\nIn a shocking incident, four people have been arrested for allegedly raping a bengal monitor lizard in the Sahydari Tiger Reserve near Gothane village in Maharashthra. According to India Today report, the accused, identified as hunters, allegedly entered the core zone of Sahydari Tiger Reserve in the Gabha area at Gothane and committed the crime. The criminals have been identified as Sandeep Tukram, Pawar Mangesh, Janardhan Kamtekar and Akshay Sunil. After the Maharashtra Forest Department checked the mobile phone of the accused, it came to know about the incident. The officials found the recording of the act which showed the accused allegedly gang-raping the monitor lizard. The accused were then traced by the officials posted at Sangli forest reserve with the help of CCTV footage in which they can be seen roaming in the forest. Accorfing to the details, the authorities informed that three accused had come from Konkan to Kolhapur's Chandoli village for hunting. The forest officials, who are perplexed about the incident, will take up the matter with the Indian Penal Court to discuss the charges against the accused. According to the officials, the accused will be produced in a court and appropriate legal action will be taken against them. For those who dont know, the bengal monitor lizard is a reserved species under the Wildlife Protection Act 1972. If convicted, the accused could be charged with seven years of imprisonment."]
+
+
+Four----SUS.NUMBER
+
+raping----CRIME.CAT
+
+bengal monitor lizard----SP.SPECIFIC
+
+four----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+raping----CRIME.CAT
+
+bengal monitor lizard----SP.SPECIFIC
+
+Sahydari Tiger Reserve----LOC.EXACT
+
+hunters----SUS.AFFIL
+
+Sandeep Tukram----SUS.NAME
+
+Pawar Mangesh----SUS.NAME
+
+Janardhan Kamtekar----SUS.NAME
+
+Akshay Sunil----SUS.NAME

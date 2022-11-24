@@ -1,0 +1,23 @@
+
+['Passenger on Pune-Howrah Shatabdi Express finds cockroach in chicken biryani\nAmit Mukherjee, a passenger travelling on the Pune-Howrah Shatabdi Express found a cockroach in the chicken biryani served to him by Indian Railway\'s key catering body, IRCTC. The passenger took to Twitter to share the incident, where he tweeted, "We are finding a cockroach in our chicken biryani which is served in Puri to Howrah Shahtabdi Express (sic)". The passenger also mentioned the number of his train and tagged Ministry of Railway and Rail seva to find a solution. @RailMinIndia @rail_seva We are finding a Cockroach in our Chicken Biryani which is served Puri to Howrah Satabdi Expressed dated 08/02/2019. Train no is 12278. Plz take the necessary Action pic.twitter.com/aIVxlFBPVK - Amit Mukherjee (@AmitMuk42127175) February 8, 2019 In a prompt reply, the Indian Railway Seva asked the passenger to share PNR number so as to address the issue. This is not the first time a passenger has found an insect in meal served by the railways. Moreover, in May last year about 20 passengers of the Puri-Howrah Shatabdi Express fell ill after consuming the food served onboard. Despite numerous efforts by Railway Ministry to serve hygienic food to passengers, such incidents continue to take place. In July 2018, Piyush Goyal launched IRCTC Live streaming feature for passengers to keep a tab on food quality served by Indian Railway Catering and Tourism Corporation. (Edited by: Mansi Jaswal)']
+
+
+Pune-Howrah Shatabdi Express----LOC.EXACT
+
+cockroach----SP.SPECIFIC
+
+Amit Mukherjee----SUS.NAME
+
+Pune-Howrah Shatabdi Express----LOC.EXACT
+
+cockroach----SP.COMMON
+
+chicken biryani----LOC.EXACT
+
+Indian Railway's key catering body----AUTH.SEIZE
+
+IRCTC----AUTH.SEIZE
+
+cockroach----SP.COMMON
+
+Cockroach----SP.COMMON

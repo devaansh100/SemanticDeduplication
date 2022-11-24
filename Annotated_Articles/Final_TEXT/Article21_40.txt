@@ -1,0 +1,59 @@
+
+["Chhattisgarh police arrest man trying to sell tiger skin\nChhattisgarh police arrested a man who was trying to sell a tiger skin in Dhamtari district on Sunday. Police booked him under the relevant sections of Wildlife (Protection) Act 1972 in this connection and started investigation. {{^userSubscribed}} {{/userSubscribed}} “On Sunday, we got information that a man was trying to sell a tiger's skin in the Sihawa area. A team raided the spot and arrested one Jairam Kavde, a native of neighboring Kanker district. We have seized a tiger skin from his procession and interrogation is going on, said Sub Divisional Officer of Police (SDOP) Nitish Thakur. Thakur said primary investigation revealed that he was smuggling the skin from Narayanpur district. “We are still investigating who supplied him the tiger skin but it seems that he was just a smuggler. He carried the tiger skin gunny bag and was trying to sell it,” said Thakur. According to the FIR registered by the police, the estimated value of the tiger skin that was seized is ₹40 lakh in the international market. {{^userSubscribed}} {{/userSubscribed}} On January 18, two leopard skins were seized by the police in neighbouring Gariyaband district. The two smugglers hailing from Kalahandi district of Odisha were arrested and the investigation in the case is continuing. In the last one year, Gariyband police have seized seven leopard skins from the smugglers mainly from villages bordering Odisha, senior officials said. SHARE THIS ARTICLE ON"]
+
+
+Chhattisgarh police----AUTH.SEIZE
+
+arrest----OUTCOME
+
+man----SUS.GENDER
+
+tiger----SP.COMMON
+
+skin----ITEM
+
+Chhattisgarh police----AUTH.SEIZE
+
+arrested----OUTCOME
+
+man----SUS.GENDER
+
+tiger----SP.COMMON
+
+skin----ITEM
+
+Dhamtari district----LOC.DISTRICT
+
+Sunday----DATE
+
+booked him----OUTCOME
+
+information----DETECTION_METHOD
+
+tiger's----SP.COMMON
+
+skin----ITEM
+
+Sihawa area----LOC.EXACT
+
+one----SUS.NUMBER
+
+Jairam Kavde----SUS.NAME
+
+Kanker district----LOC.DISTRICT
+
+seized----CRIME.CAT
+
+a----QTY
+
+tiger----SP.COMMON
+
+skin----ITEM
+
+Sub Divisional Officer of Police (SDOP)----OFF.DESIG
+
+Nitish Thakur----OFF.NAME
+
+Narayanpur district----ROUTE.SRC
+
+gunny bag----CONCEALMENT_METHOD

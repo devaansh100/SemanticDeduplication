@@ -1,0 +1,29 @@
+
+['\'Nature unedited\': Two tigers engage in brutal fight at Ranthambore National Park, video goes viral\nA video of two tigers fighting at Ranthambore National Park in Rajasthan has gone viral on social media. | Representative image | Photo Credit: Getty Images Key Highlights Two tigers were spotted fighting brutally at Ranthambore National Park in Rajasthan A video of the violent fight of the wild cats has gone viral on social media Ranthambore: A video of two tigers engaging in a ferocious fight has gone viral on social media. The video was shared by IFS Parveen Kaswan. The video was shot at Ranthambore National Park in Rajasthan. The video shows the violent paw-to-paw fight between the wild cats. A third tiger can be seen running away as soon as the fight begins. The tigers then standing up on their hind legs for the brutal fight. Watch the viral video here: That is how a fight between #tigers looks like. Brutal and violent. They are territorial animals & protect their sphere. Here two brothers from #Ranthambore are fighting as forwarded. (T57, T58). pic.twitter.com/wehHWgIIHC — Parveen Kaswan, IFS (@ParveenKaswan) October 16, 2019 "That is how a fight between #tigers looks like. Brutal and violent. They are territorial animals & protect their sphere. Here two brothers from #Ranthambore are fighting as forwarded. (T57, T58)," Kaswan wrote while sharing the video. The tigers were reportedly fighting over a female tigress named Noor T39. One of the tigers was injured in the fight. The two brothers are said to be nine years apart. The video has garnered over 8,400 views and has received over 900 likes. Many people were mesmerised at the sight of the fight. Here are some of the reactions: I think the one with the faster reflexes is at an advantage. Injuries means an inability to hunt and death. — Fersos Daruwala (@goldchest4) October 16, 2019 A user wrote, "I think the one with the faster reflexes is at an advantage. Injuries mean an inability to hunt and death." Wow! Simply beautiful!! — D Rama Sudhakar (@DRamaSudhakar) October 16, 2019 While another added, "Wow! Simply beautiful!!" Don\'t kill each other guys. Your population is already continuously decreasing. — FaaltuGuy (@IamAgrawal) October 16, 2019 A third user said, "Don\'t kill each other guys. Your population is already continuously decreasing." Yet another noted, "Nature unedited...Magnificent!" RELATED NEWS 7-day hunt ends after capture of tiger that killed 3 people in Rajasthan In September, a tiger who had killed three men since February was captured by Rajasthan Forest Department officials. Once the tiger was captured on Wednesday night, it was tranquillised in the Chinwari forest region of Karauli.']
+
+
+Two----SUS.NUMBER
+
+tigers----SP.COMMON
+
+Ranthambore National Park----LOC.EXACT
+
+tigers----SP.COMMON
+
+Ranthambore National Park----LOC.EXACT
+
+Rajasthan----LOC.DISTRICT
+
+Ranthambore National Park----LOC.EXACT
+
+wild cats----SP.COMMON
+
+tigers----SP.COMMON
+
+IFS----OFF.DESIG
+
+Parveen Kaswan----OFF.NAME
+
+Ranthambore National Park in Rajasthan----LOC.EXACT
+
+wild cats----SP.COMMON

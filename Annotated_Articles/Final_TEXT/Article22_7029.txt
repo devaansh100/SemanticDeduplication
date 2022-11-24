@@ -1,0 +1,63 @@
+
+['2 Indian women with 109 live animals in their luggage arrested at Bangkok airport\nThailand officials on Monday arrested two Indian women at Suvarnabhumi Airport in Bangkok for allegedly trying to smuggle 109 live animals in their luggage. Officials found two white porcupines, two armadillos, 35 turtles, 50 chameleons and 20 snakes in their bags. The bags belonged to Nithya Raja and Zakia Sulthana Ebrahim, who were due to board a flight to Chennai. Ankush Verma / 12:47 pm on short byon']
+
+
+2----SUS.NUMBER
+
+Indian----SUS.NAT
+
+women----SUS.GENDER
+
+109----QTY
+
+live animals----SP.COMMON
+
+arrested----CRIME.CAT
+
+Thailand officials----AUTH.SEIZE
+
+Monday----DATE
+
+arrested----CRIME.CAT
+
+two----SUS.NUMBER
+
+Indian women----SUS.GENDER
+
+Suvarnabhumi Airport----LOC.EXACT
+
+smuggle----CRIME.CAT
+
+109----QTY
+
+animals----SP.COMMON
+
+two----QTY
+
+white porcupines----SP.SPECIFIC
+
+two----QTY
+
+armadillos----SP.SPECIFIC
+
+35----QTY
+
+turtles----SP.COMMON
+
+50----QTY
+
+chameleons----SP.SPECIFIC
+
+20----QTY
+
+snakes----SP.COMMON
+
+bags----CONCEALMENT_METHOD
+
+Nithya Raja----SUS.NAME
+
+Zakia Sulthana Ebrahim----SUS.NAME
+
+flight----TRANSPORT_MODE
+
+Chennai----ROUTE.DEST

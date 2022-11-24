@@ -1,0 +1,117 @@
+
+['Elephant carcass found in Satkosia sanctuary, three watchers arrested\nBy Express News Service ANGUL/BHUBANESWAR: In what might trigger claims of a big ivory smuggling racket running in the State, Forest department officials exhumed carcass of another jumbo from Jilinda range of Satkosia Wildlife Division on Friday and arrested three watchers in this connection. Apart from the threes, Jodum section forester Sahadeb Soren, Jilinda beat in-charge Anupama Sahoo have been placed under suspension on charges of suppressing information, while Satkosia wildlife division has recommended appropriate action against Jilinda ranger Harishchandra Pradhan and the beat in-charge for their alleged involvement in burial of the carcass. The carcass, recovered by a team of forest staff led by the Divisional Forest Officer (DFO) Saroj Panda in the wee hours of Friday, is claimed to be more than a year old and is in a highly decomposed state.DFO Panda said they got intelligence inputs that an elephant had been buried in forest near Satyajayapura village of Jilinda beat in the division on Thursday. After three hours search and digging at certain spots, the team finally recovered the skeletal remains. The tusks, however, were missing. During interrogation, one of the suspended forest staff is said to have admitted that the carcass was buried on May 6, 2021. The range officer booked in this case is allegedly absconding. “It was skeleton of a male aged about 20-years-old and said to have been buried a year back. However, we have sent the samples to Centre for Wildlife Health (CWH) at OUAT for further investigation,” Panda informed. The major challenge for forest officials investigating the matter is to find if this burial has any link with Athagarh, where four carcasses have already been exhumed by Special Task Force of the Crime Branch and Forest department since February.The close proximity of the crime location to Narasinghpur and Athagarh Forest Division has raised more doubts in this regard. Honorary Wildlife Warden of Angul Aditya Chandra Panda appreciated the work done by the Satkosia DFO and his team but called for exemplary action in the case and course correction by the Forest department. The Satkosia DFO said, investigation into the matter is in progress and appropriate action will be taken against those found involved in the matter. ANGUL/BHUBANESWAR: In what might trigger claims of a big ivory smuggling racket running in the State, Forest department officials exhumed carcass of another jumbo from Jilinda range of Satkosia Wildlife Division on Friday and arrested three watchers in this connection. Apart from the threes, Jodum section forester Sahadeb Soren, Jilinda beat in-charge Anupama Sahoo have been placed under suspension on charges of suppressing information, while Satkosia wildlife division has recommended appropriate action against Jilinda ranger Harishchandra Pradhan and the beat in-charge for their alleged involvement in burial of the carcass. The carcass, recovered by a team of forest staff led by the Divisional Forest Officer (DFO) Saroj Panda in the wee hours of Friday, is claimed to be more than a year old and is in a highly decomposed state.DFO Panda said they got intelligence inputs that an elephant had been buried in forest near Satyajayapura village of Jilinda beat in the division on Thursday. After three hours search and digging at certain spots, the team finally recovered the skeletal remains. The tusks, however, were missing. During interrogation, one of the suspended forest staff is said to have admitted that the carcass was buried on May 6, 2021. The range officer booked in this case is allegedly absconding. “It was skeleton of a male aged about 20-years-old and said to have been buried a year back. However, we have sent the samples to Centre for Wildlife Health (CWH) at OUAT for further investigation,” Panda informed. The major challenge for forest officials investigating the matter is to find if this burial has any link with Athagarh, where four carcasses have already been exhumed by Special Task Force of the Crime Branch and Forest department since February.The close proximity of the crime location to Narasinghpur and Athagarh Forest Division has raised more doubts in this regard. Honorary Wildlife Warden of Angul Aditya Chandra Panda appreciated the work done by the Satkosia DFO and his team but called for exemplary action in the case and course correction by the Forest department. The Satkosia DFO said, investigation into the matter is in progress and appropriate action will be taken against those found involved in the matter.']
+
+
+Elephant----SP.COMMON
+
+carcass----ITEM
+
+Satkosia sanctuary----LOC.EXACT
+
+three----SUS.NUMBER
+
+Forest department officials----AUTH.SEIZE
+
+carcass----ITEM
+
+Jilinda range of Satkosia Wildlife Division----ROUTE.SRC
+
+Friday----DATE
+
+three----SUS.NUMBER
+
+threes----SUS.NUMBER
+
+Jodum section forester----AUTH.SEIZE
+
+Sahadeb Soren----OFF.NAME
+
+Jilinda beat in----AUTH.SEIZE
+
+Anupama Sahoo----OFF.NAME
+
+placed under suspension----OUTCOME
+
+Satkosia wildlife division----AUTH.MISC
+
+ranger----SUS.AFFIL
+
+Harishchandra Pradhan----SUS.NAME
+
+beat in-charge----SUS.AFFIL
+
+forest staff----AUTH.SEIZE
+
+Divisional Forest Officer (DFO)----OFF.DESIG
+
+Saroj Panda----OFF.NAME
+
+wee hours----TIME
+
+Friday----DATE
+
+intelligence inputs----DETECTION_METHOD
+
+elephant----SP.COMMON
+
+Thursday----DATE
+
+May 6, 2021----DATE
+
+DFO----OFF.DESIG
+
+Forest department officials----AUTH.SEIZE
+
+carcass----ITEM
+
+Jilinda range of Satkosia Wildlife Division----ROUTE.SRC
+
+Friday----DATE
+
+arrested----CRIME.CAT
+
+three----SUS.NUMBER
+
+threes----SUS.NUMBER
+
+Jodum section forester----SUS.AFFIL
+
+Sahadeb Soren----OFF.NAME
+
+Jilinda beat in-charge----SUS.AFFIL
+
+Anupama Sahoo----OFF.NAME
+
+Satkosia wildlife division----AUTH.MISC
+
+Jilinda ranger----SUS.AFFIL
+
+Harishchandra Pradhan----SUS.NAME
+
+beat in-charge----SUS.AFFIL
+
+carcass----ITEM
+
+carcass----ITEM
+
+Divisional Forest Officer (DFO)----OFF.DESIG
+
+Saroj Panda----OFF.NAME
+
+wee hours----TIME
+
+Friday----DATE
+
+intelligence inputs----DETECTION_METHOD
+
+elephant----SP.COMMON
+
+Thursday----DATE
+
+May 6, 2021----DATE
+
+sent the samples to Centre for Wildlife Health (CWH) at OUAT----OUTCOME
+
+DFO----OFF.DESIG
+
+investigation into the matter is in progress----OUTCOME

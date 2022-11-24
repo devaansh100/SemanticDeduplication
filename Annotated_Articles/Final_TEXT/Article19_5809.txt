@@ -1,0 +1,17 @@
+
+['Remember Kerala man rescued from python’s grip? New video shows how it happened\nThe incident took place on October 15, when a group of workers were carrying out some cleaning work at a college in Thiruvananthapuram. Days after a video of a labourer in Kerala being saved from the grip of a python went viral, an extended version of the video has surfaced and shows how the man was carrying the snake across his shoulders before it coiled around his neck. The earlier clip that went viral showed one Bhuvanachandran Nair with a python coiled around his neck and trying to choke him. The incident took place on October 15, when a group of workers were carrying out some cleaning work at a college in Thiruvananthapuram. A longer video of the incident shows how Nair was walking with others with the python slung over his shoulders. In it, he is seen holding the python’s head with one hand and the tail with the other. However, the reptile soon coils around the man’s neck and tries to choke him. Two others immediately rushed to Nair’s rescue and help extricate him. Many can be seen filming the video and some can even be heard commenting in Malayalam about its “viral value”. Once Nair was saved, the python was put in a sack and handed over to the forest officials, who later released it into the forest.']
+
+
+Kerala----LOC.STATE
+
+man----SUS.GENDER
+
+python----SP.COMMON
+
+October 15----DATE
+
+Bhuvanachandran Nair----SUS.NAME
+
+October 15----DATE
+
+sack----CONCEALMENT_METHOD

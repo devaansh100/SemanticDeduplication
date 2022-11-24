@@ -1,0 +1,27 @@
+
+['Telangana: Fish-laden truck overturns, villagers make off with catch\nTelangana: Fish-laden truck overturns, villagers make off with catch By IANS Published: Updated On - 02:16 PM, Tue - 7 June 22 Source: IANS. Hyderabad: Villagers in Telangana’s Bhadradri Kothagudem district took away hundreds of fish home after a fish-laden truck overturned on Tuesday. The incident occurred near ITC Crossroads in Burgampahad mandal of the district. As the driver sustained injuries in the accident, he was shifted to a hospital. Fish were seen spilled on the middle of the highway. As word spread about the accident, locals from surrounding villages rushed there and within a few minutes not just the fish strewn all around were looted but the remaining cargo in the vehicle was also emptied. People were seen vying with each other to carry as many fish as possible. Some of them brought gunny sacks to run away with the loot while others were seen carrying the catch in their bare hands. Each of the fish weighed around 2 kg and the truck was carrying about 4,000 fish. Now you can get handpicked stories from Telangana Today on Telegram everyday. Click the link to subscribe. Click to follow Telangana Today Facebook page and Twitter .']
+
+
+Telangana----LOC.STATE
+
+truck----TRANSPORT_MODE
+
+overturns----CRIME.CAT
+
+Fish-laden----SP.COMMON
+
+truck----TRANSPORT_MODE
+
+Telangana’s----LOC.STATE
+
+Bhadradri Kothagudem----LOC.DISTRICT
+
+fish-laden----SP.COMMON
+
+truck----TRANSPORT_MODE
+
+Tuesday----DATE
+
+near ITC Crossroads in Burgampahad mandal----LOC.EXACT
+
+word spread----DETECTION_METHOD

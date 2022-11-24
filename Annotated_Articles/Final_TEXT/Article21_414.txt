@@ -1,0 +1,63 @@
+
+['Manipur Police arrests 2 persons with wild frogs\nOur Correspondent Imphal, June 28 (EMN): Manipur Police on Monday arrested two persons along with around 4,500 live wild frogs in nine gunny bags. According to People for Animals (PFA) Manipur, the police arrested the duo during their routine check near Patsoi police station in Imphal West on Monday morning and intercepted one van when it came towards the checking area. The arrested persons were Leibon Bambam Kom, the owner of the frogs and van driver Kennedy Kom. The sources said that the team of PFA Manipur along with staff of Central Forest Division rushed to site to oversee the development after they received the report of the arrest. According to L Biswajeet Meitei, managing trustee of PFA Manipur, the divisional forest officer RK Amarjit, Inspector Budha, and volunteers of PFA Manipur released the live frogs at Lamphelpat wetland area after obtaining permission from the chief wildlife warden Manipur. Reports further said the wild frogs were collected and bought at the rate of INR 100-120 per kg from Moirang area in Manipur’s Bishnupur district to be sold in markets of Senapati area at the rate of INR 150-280 per kg. Concerned forest officials began an investigation into the case of seizing wild frogs (Indian Skittering Frog and Indian Bullfrog species) in order to take appropriate action. It may be mentioned that these frogs are listed in Schedule IV of Wildlife Protection Act and unauthorised hunting of these live frogs is a serious threat to the ecosystem.']
+
+
+Manipur Police----AUTH.SEIZE
+
+arrests----CRIME.CAT
+
+2----SUS.NUMBER
+
+wild frogs----SP.COMMON
+
+Manipur Police----AUTH.SEIZE
+
+Monday----DATE
+
+arrested----CRIME.CAT
+
+two----SUS.NUMBER
+
+4,500----QTY
+
+live----ITEM
+
+wild frogs----SP.COMMON
+
+gunny bags----CONCEALMENT_METHOD
+
+routine check----DETECTION_METHOD
+
+Patsoi police station----LOC.EXACT
+
+Imphal West----LOC.DISTRICT
+
+Monday----DATE
+
+morning----TIME
+
+van----TRANSPORT_MODE
+
+Leibon Bambam Kom----SUS.NAME
+
+Kennedy Kom----SUS.NAME
+
+Central Forest Division----AUTH.SEIZE
+
+divisional forest officer----OFF.DESIG
+
+RK Amarjit----OFF.NAME
+
+Inspector----OFF.DESIG
+
+Budha----OFF.NAME
+
+live frogs at Lamphelpat wetland area----OUTCOME
+
+wild frogs----SP.COMMON
+
+Moirang area in Manipur’s Bishnupur district----ROUTE.SRC
+
+Senapati area----ROUTE.DEST
+
+INR 150-280----VALUE

@@ -1,0 +1,25 @@
+
+["UP: Woman fights off leopard to save 6-year-old daughter from jaws of death in Bahraich\nThe girl was immediately taken to Shivpur primary health centre from where she was referred to the district hospital. | Photo Credit: iStock Images Key Highlights The leopard pounced on the girl while she was playing in the courtyard of her house The girl was seriously injured in the leopard attack. Bahraich: In a brave move, a woman took on the big cat and saved her 6-year-old daughter from the jaws of death. The incident took place in Girda village under Khairighat police station limits in Bahraich district of Uttar Pradesh. The leopard pounced on the girl while she was playing in the courtyard of her house. As the woman heard her daughter's scream, she attacked the leopard with a heavy stick forcing it to flee the spot. The girl was seriously injured in the leopard attack. Later, a team of forest officials reached the spot after they were informed about the incident, according to a report in Hindi daily Hindustan. Wildlife ranger Rashid Jameel also reached the spot. The girl was immediately taken to Shivpur primary health centre from where she was referred to the district hospital. The condition of the girl is said to be critical. The victim Kajal was playing in her courtyard when the girl was attacked by a leopard believed to have come from Naanpara range of Bahraich forest division. At that time, Kajal's mother Reena Devi was sweeping the rooms. The leopard suddenly jumped into the house and attacked the girl and tried to drag the girl away. Reena immediately took a stick and attacked the leopard forcing the animal to flee. The girl has suffered injuries on her face and head."]
+
+
+UP----LOC.STATE
+
+Woman----SUS.GENDER
+
+leopard----SP.COMMON
+
+6-year-old----SUS.AGE
+
+Bahraich----LOC.DISTRICT
+
+6-year-old----SUS.AGE
+
+Girda village----LOC.EXACT
+
+leopard----SP.COMMON
+
+Kajal----SUS.NAME
+
+leopard----SP.COMMON
+
+Reena Devi----OFF.NAME

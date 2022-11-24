@@ -1,0 +1,13 @@
+
+['Two Royal Bengal tigers cubs born in Assam zoo\nTwo Royal Bengal tiger cubs were born at the Assam State Zoo-cum-Botanical Garden in Guwahati, raising the population of the animal there to nine, a forest department official said on Monday.']
+
+
+Two----QTY
+
+Royal Bengal tigers----SP.SPECIFIC
+
+Two----QTY
+
+Royal Bengal tiger----SP.SPECIFIC
+
+Guwahati----LOC.CITY

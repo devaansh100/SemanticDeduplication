@@ -1,0 +1,33 @@
+
+['Gujarat: Four booked for ‘burning’ python alive\nIn the video which has gone viral, the accused are seen posing with the python and then putting it on fire. (Representational Image) The Gujarat Forest Department, on Friday, registered an offence under the provisions of the Wildlife (Protection) Act (1972) against four persons in Banaskantha district after a video purportedly showing them burning a python alive, went viral on social media. The Forest Department has launched a hunt to nab the four after tracing their identity, seeking the help of local police as well. The incident took place in Bodal village of Deesa tehsil of Banaskantha district. In the video which has gone viral, the accused are seen posing with the python and then putting it on fire. “We got this video last night and launched a hunt for the accused today early morning. Four persons in the video have been identified from Bodal village, however, all four have run away. We have formed teams to trace and arrest them and sought help from local police,” said Bindu Patel, Assistant Conservator of Forests and in-charge of Deesa Wildlife Range. “Python is a protected species under Schedule I (Part II) of the Wildlife (Protection) Act. We have registered an offence against the four under the Act,” added Patel. The maximum punishment for the offence is imprisonment for seven years and a fine up to Rs 25,000. According to Patel, there seem to be more persons involved in this crime, but that can be ascertained only after the arrests of the four identified in the video.']
+
+
+Four----SUS.NUMBER
+
+python----SP.COMMON
+
+Gujarat Forest Department----AUTH.SEIZE
+
+Friday----DATE
+
+registered an offence under the provisions of the Wildlife (Protection) Act (1972)----OUTCOME
+
+four----SUS.NUMBER
+
+Banaskantha----LOC.DISTRICT
+
+burning a python----CRIME.CAT
+
+four----SUS.NUMBER
+
+Bodal village----LOC.EXACT
+
+today----DATE
+
+early morning----TIME
+
+Four----SUS.NUMBER
+
+registered an offence----OUTCOME
+
+imprisonment for seven years and a fine up to Rs 25,000----OUTCOME

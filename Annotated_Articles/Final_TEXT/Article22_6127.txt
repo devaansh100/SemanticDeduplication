@@ -1,0 +1,19 @@
+
+['Permission from NTCA awaited for trapping Royal Bengal Tiger\nPrathipadu(Kakinada District): Despite hectic efforts, the forest officials have failed to track and trap the Royal Bengal tiger at the hilly area, pump house, casuarina groves and Potuluru village in Prathipadu mandal of Kakinada district. The Bengal tiger has been roaming around some of the territories in Pothuluru, Ommangi, Sarabhavaram, Kodavali and Kodurulanka of Prathipadu mandal for the past 15 days. Forest officials and staff have been searching to catch the tiger in the territory for the last few days. A team of Forest department consisting of 120 personnel on Tuesday started the operation to catch the tiger. The team with rescue vans, nets and tranquilisers went into the forest compartments where the big cat was spotted a day before. As it happens to be a Royal Bengal tiger, the Forest department officials applied for permission of National Tiger Conservation Authority (NTCA) for catching the tiger with tranquilisers. However, they have yet to receive permission. Moreover, they were unable to find the pugmarks as it appears to have moved away to the nearby hills. The first appearance of pug marks has not been increased and the movement of the tiger is vague and uncertain. District Forest Officer IKV Raju told The Hans India that 120 forest personnel have been deployed to search for the tiger. After getting permission from NTCA, they will use suitable tranquilisers and deploy veterinary doctors who have experience in dealing with wildlife. Raju added that experts are coming from Nagarjunasagar-Srisailam Tiger Reserve to participate in the search operation. The locals expressed fear and tension regarding the movement of tigers in the territory. The farmers expressed fear and concern over the delay in view of their investment in agriculture and their continued absence would bring loss to their investment. Hence, they requested the Forest officials to expedite their operation and catch the tiger at the earliest so that they may return to work in their fields.']
+
+
+NTCA----AUTH.MISC
+
+Royal Bengal Tiger----SP.SPECIFIC
+
+forest officials----AUTH.SEIZE
+
+Potuluru village----LOC.EXACT
+
+Kakinada----LOC.DISTRICT
+
+nets----ITEM
+
+tranquilisers----ITEM
+
+120 forest personnel----AUTH.SEIZE

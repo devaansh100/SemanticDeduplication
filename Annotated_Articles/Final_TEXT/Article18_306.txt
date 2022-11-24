@@ -1,0 +1,35 @@
+
+['2 held for smuggling 103 turtles\nKolkata: Two women were arrested early on Sunday morning while smuggling 103 turtles from the Naihati railway station.  According to sources, the women from Uttar Pradesh had boarded a Sealdah bound local train from Naihati with two sacks. Other passengers who were sitting inside the train felt foul smell coming from the sacks and got involved in an altercation with the duo. Meanwhile, a few passengers informed the GRP cops following which police intervened. After the women were compelled to open the sacks, it was found that they were carrying 103 turtles. Among those three had already died. Immediately the women were detained and taken to Naihati GRP police station. During interrogation the duo confessed that they were bringing the turtles from Uttar Pradesh and those were intended for smuggling to Bangladesh. The turtles were later handed over to the Forest department officials. To avoid getting caught smugglers do not use Howrah railway station for their ill trade. They often avail other routes from Burdwan.']
+
+
+2----SUS.NUMBER
+
+smuggling----CRIME.CAT
+
+103----QTY
+
+turtles----SP.COMMON
+
+Kolkata----LOC.CITY
+
+Two----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+Sunday----DATE
+
+morning----TIME
+
+103----QTY
+
+turtles----SP.COMMON
+
+Naihati railway station----LOC.EXACT
+
+two sacks----CONCEALMENT_METHOD
+
+103----QTY
+
+Uttar Pradesh----ROUTE.SRC
+
+Bangladesh----ROUTE.DEST

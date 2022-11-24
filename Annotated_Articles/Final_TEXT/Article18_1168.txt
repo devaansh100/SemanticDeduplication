@@ -1,0 +1,15 @@
+
+["Caught on CCTV, Elephant Breaks Kitchen Wall in Search of Food in Tamil Nadu's Masinagudi\nCCTV footage of a wild elephant breaking the wall of a kitchen at a house in Masinagudi near Ooty has caused panic among the public. Recently, information about a lone wild elephant roaming the town of Masinagudi at night has been disseminated. The tusker raiding house-to-house has reportedly damaged crops, banana, coconut and mango trees. Eventually, in the wee hours of June 26, the elephant entered the Grouphouse area and went to the back of the kitchen of a house to hunt some food. Later, the elephant knocked the wall with its head and let its trunk into the kitchen looking for food items. Meanwhile, it caused damage to properties and managed to take out some food for its starving stomach. The scenes were recorded on a CCTV camera placed inside the kitchen and outside the house. In a similar incident, exactly a year ago, a wild Asian elephant crashed through a kitchen wall at a house in Thailand in the early hours of June 20, 2021, in search of food became viral. However, in a month’s gap, Phlai Boonchuay, perhaps Thailand’s most memed elephant, returned to the same home it broke into to search for food. A video of the incident has gone viral on social media last year. Read all the Latest News , Breaking News , watch Top Videos and Live TV here."]
+
+
+Elephant----SP.COMMON
+
+Tamil Nadu's----LOC.STATE
+
+Masinagudi----LOC.DISTRICT
+
+wild elephant----SP.COMMON
+
+Masinagudi----LOC.EXACT
+
+June 26----DATE

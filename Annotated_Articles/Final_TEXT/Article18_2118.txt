@@ -1,0 +1,13 @@
+
+["SpiceJet emergency landing: Why did the plane catch fire mid-flight? How dangerous is bird hit or BASH?\nSpiceJet Emergency Landing: The plane was ferrying over 186 passengers. (Representational) A Delhi-bound SpiceJet aircraft on Sunday made an emergency landing at the Bihta Airforce Station in Patna after one of its two engines caught fire. The flight returned to the airport after locals noticed the fire and informed district and airport officials. All 185 passengers were safely evacuated. Here's why the SpiceJet plane caught fire. According to SpiceJet, the cockpit crew suspected that a bird hit engine number one while take off. The pilots then shut down the affected engine and returned to Patna. At least three blades of the fan were damaged due to the bird hit. Gurucharan Arora, chief of flight operations, SpiceJet, confirmed it was a bird hit. He said the pilots handled the situation really well. The engineers on the ground confirmed bird hit and damage to fan blades. He said DGCA will conduct a probe into the incident. What's a bird hit or BASH? A bird hit or bird aircraft strike hazard is a collision between a bird or bat with an aircraft. The majority of bird strikes with aircraft have caused little damage, but it almost always results in the death of the bird. Bird hits usually take place when the plane is flying at low heights. This is because most birds fly at low altitudes. Bird hits thus mostly take place when the plane is landing or taking off. However, there have been incidents of birds being hit at high altitudes as well. The highest bird hit ever took place was at a height of 11.3 kilometers. Birds can hit the front portion of the aircraft. The most common sites are the wings, nose cone and the jet engine. Bird hits sometimes lead to cracks in the windshield, forcing emergency landings. The most dangerous scenario, however, is the engines catching fire after a bird-hit. Worst bird-hit incident ever! In 2009, US Airways Flight 1549 made a miraculous landing in the Hudson River after being hit by a flock of birds. Both the engines had been shut off due to the bird hits and the pilots glided the plane to safety. No one died or got seriously injured after the incident."]
+
+
+plane----TRANSPORT_MODE
+
+186 passengers----QTY
+
+SpiceJet aircraft----TRANSPORT_MODE
+
+Sunday----DATE
+
+Bihta Airforce Station in Patna----LOC.EXACT

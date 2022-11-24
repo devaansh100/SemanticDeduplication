@@ -1,0 +1,45 @@
+
+['Anti-poaching operation: Punt gun seized from boat at Wular lake\nBandipora: Forest Protection Force (FPF) seized a punt gun from a boat at Wular Lake in the Bandipora district on Tuesday. ADVERTISEMENT Acting on a tip-off, the anti-poaching team headed by a deputy inspector raided a boat near Lankreshipora and recovered a 09-feet long punt gun, and live shells. The punt gun was used for poaching birds. Officials said a punt gun is a type of large shotgun used to shoot large numbers of waterfowl in wetlands.']
+
+
+Punt gun----ITEM
+
+seized----CRIME.CAT
+
+boat----TRANSPORT_MODE
+
+Wular lake----LOC.EXACT
+
+Forest Protection Force----AUTH.SEIZE
+
+FPF----AUTH.SEIZE
+
+seized----CRIME.CAT
+
+punt gun----ITEM
+
+boat----TRANSPORT_MODE
+
+Wular Lake----LOC.EXACT
+
+Bandipora----LOC.DISTRICT
+
+Tuesday----DATE
+
+tip-off----DETECTION_METHOD
+
+anti-poaching team----AUTH.SEIZE
+
+deputy inspector----OFF.DESIG
+
+raided----DETECTION_METHOD
+
+boat----TRANSPORT_MODE
+
+09-feet long----QTY
+
+punt gun----ITEM
+
+live----ITEM
+
+shells----ITEM

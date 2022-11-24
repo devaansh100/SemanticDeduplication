@@ -1,0 +1,121 @@
+
+['One held, 16 red sanders log seized\nBy Express News Service TIRUPATI: The Red Sanders Anti-Smuggling Task Force (RSASTF) seized 16 logs including six logs loaded in a vehicle and 10 logs kept in a water pond adjacent to Melchur-Vampalli Road near Srikalahasti on Saturday. They also arrested one smuggler. The RSASTF officials said when RSIs Vasu and PV Narasimha Rao, along with their teams, were conducting combing operations under Melchur beat limits on Saturday, they found one Scorpio vehicle moving suspiciously in Pallam forest area. They checked the vehicle and found six logs loaded in it. The officials nabbed Borra Subramanyam (31), a native of Kasaram village. When questioned, Subramanyam revealed about 10 other logs in the nearby water pond. Task Force SI Prasad registered a case and took up investigation. TIRUPATI: The Red Sanders Anti-Smuggling Task Force (RSASTF) seized 16 logs including six logs loaded in a vehicle and 10 logs kept in a water pond adjacent to Melchur-Vampalli Road near Srikalahasti on Saturday. They also arrested one smuggler. The RSASTF officials said when RSIs Vasu and PV Narasimha Rao, along with their teams, were conducting combing operations under Melchur beat limits on Saturday, they found one Scorpio vehicle moving suspiciously in Pallam forest area. They checked the vehicle and found six logs loaded in it. The officials nabbed Borra Subramanyam (31), a native of Kasaram village. When questioned, Subramanyam revealed about 10 other logs in the nearby water pond. Task Force SI Prasad registered a case and took up investigation.']
+
+
+One----SUS.NUMBER
+
+16----QTY
+
+red sanders----SP.COMMON
+
+Red Sanders Anti-Smuggling Task Force (RSASTF)----AUTH.SEIZE
+
+seized----CRIME.CAT
+
+16----QTY
+
+logs----ITEM
+
+six----QTY
+
+logs----ITEM
+
+vehicle----TRANSPORT_MODE
+
+10----QTY
+
+logs----ITEM
+
+Saturday----DATE
+
+arrested----CRIME.CAT
+
+one----SUS.NUMBER
+
+smuggler----SUS.AFFIL
+
+RSIs----OFF.DESIG
+
+Vasu----OFF.NAME
+
+PV----OFF.DESIG
+
+Narasimha Rao----OFF.NAME
+
+combing operations----DETECTION_METHOD
+
+Saturday----DATE
+
+Scorpio vehicle----TRANSPORT_MODE
+
+six----QTY
+
+logs----ITEM
+
+Borra Subramanyam----SUS.NAME
+
+31----SUS.AGE
+
+Kasaram village----SUS.LOC
+
+SI----OFF.DESIG
+
+Prasad----OFF.NAME
+
+registered a case and took up investigation----OUTCOME
+
+TIRUPATI----LOC.CITY
+
+Red Sanders Anti-Smuggling Task Force (RSASTF)----AUTH.SEIZE
+
+seized----CRIME.CAT
+
+16----QTY
+
+logs----ITEM
+
+six----QTY
+
+logs----ITEM
+
+vehicle----TRANSPORT_MODE
+
+10----QTY
+
+logs----ITEM
+
+Saturday----DATE
+
+one----SUS.NUMBER
+
+smuggler----SUS.AFFIL
+
+RSASTF----AUTH.SEIZE
+
+RSIs----OFF.DESIG
+
+Vasu----OFF.NAME
+
+PV----OFF.DESIG
+
+Narasimha Rao----OFF.NAME
+
+Saturday----DATE
+
+Scorpio vehicle----TRANSPORT_MODE
+
+six----QTY
+
+logs----ITEM
+
+Borra Subramanyam----SUS.NAME
+
+31----SUS.AGE
+
+Kasaram village----SUS.LOC
+
+SI----OFF.DESIG
+
+Prasad----OFF.NAME
+
+registered a case and took up investigation----OUTCOME

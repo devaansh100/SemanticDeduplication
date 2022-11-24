@@ -1,0 +1,11 @@
+
+['Miami: Dolphin attacks trainer in Seaquarium; here’s what happened\n(Image source: Unsplash) Dolphins are known as the cutest creatures on the planet, but an incident that took place in Miami’s Seaquarium may force you to rethink that image.  On Saturday, while the show was going as usual, the dolphin suddenly attacked one of its trainers at the seaquarium. The trainer tried to escape but the dolphin attacked him multiple times before he got out of water and got on to the ground.  According to New York Post, the clip was originally filmed by photographer Shannon Carpenter, who was attending the show. The video shows the dolphin lunging at the trainer in the water. The trainer, on the other hand, can be seen frantically swimming for the edge of the pool and getting herself out to safety. Seconds into the clip, two other performers, one on a surfboard, are then seen coming to check on the trainer, who was later transported away from the sprawling seaquarium by ambulance. Watch video: BREAKING: This chilling video shows a dolphin attacking a trainer, tossing her body violently through the water, & reportedly sending her to the hospital.  Time is up for @MiamiSeaquarium—it must send the animals to seaside sanctuaries! pic.twitter.com/YN27DGygZe — PETA (@peta) April 12, 2022']
+
+
+Dolphin----SP.COMMON
+
+attacks----CRIME.CAT
+
+Miami’s Seaquarium may force you to rethink that image.  On Saturday----LOC.EXACT
+
+dolphin----SP.COMMON

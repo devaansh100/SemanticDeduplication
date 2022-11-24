@@ -1,0 +1,61 @@
+
+['MP forest dept probes alleged smuggling of vultures to middle east countries\nBHOPAL: The Madhya Pradesh forest department has started a probe into a network that allegedly smuggles vultures from India to the middle east countries through the ports in Maharashtra, officials said on Wednesday.. The probe was started after a joint team of the Railway Protection Force (RPF) and the forest department arrested a man, identified as Faried Sheikh of Uttar Pradesh’s Unnao, from the Sultanpur-Mumbai Superfast Express with seven endangered vultures on January 19. “The arrest was made after someone informed forest minister Vijay Shah about Sheikh, who was asked to deliver the vultures to a man in Manmad, Nasik, from where it was to be delivered to Hussain of Malegoan for export,” said Anil Shukla, divisional forest officer, Khandwa. During the investigation, the forest team found that Sheikh transported vultures from UP to Maharashtra for ₹10,000. On Monday, the department’s special task force (STF) arrested 3 people, Hussain, Ateek Khan and S Mohammad, from a port in Jamnagar, Gujarat. The three accused are residents of Malegaon and were into selling exotic birds, said Shukla. “One of the accused told a forest official that these vultures were in high demand in the middle east so live birds were being exported to these countries along with meat,” said the forest officer. “In the investigation, it was found that they trapped the vultures, which are commonly found near meat shops in UP, with the help of bird catchers. They also caught vultures from the forest areas. Later, they would send the bird’s picture to the buyer through WhatsApp and seal the deal after identifying the variety of the vultures. These vultures were later transported by train to Maharashtra. They tied the vultures with a piece of cloth so that they don’t fly but weren’t allowed to hurt the vultures and give them any sedatives. They handed them over to Hussain who sold them to the exporter,” said an investigating officer. MP principal chief conservator of forest (PCCF), (wildlife) JS Chauhan said, “It is a very big network and has many links. We are trying to know the source of vultures and identify the buyers. Amusement is one of the reasons that people like to keep vultures at home but there are some other reasons also. We are still investigating.” In India, the population of vultures has been fast declining. According to a report of the environment ministry, the population of 3 critically endangered species-- white-backed, long-billed and slender-billed-- has decreased to 19,000 from around 40 million over the last three decades. Dilsher Khan, a Bhopal-based bird expert, said, “This smuggling gang raises concern because as of now the reason for declining population of vultures was only natural death. This needs to be probed properly.” SHARE THIS ARTICLE ON']
+
+
+MP forest dept----AUTH.SEIZE
+
+smuggling----CRIME.CAT
+
+vultures----SP.COMMON
+
+middle east countries----ROUTE.DEST
+
+Madhya Pradesh forest department----AUTH.SEIZE
+
+vultures----SP.COMMON
+
+India----ROUTE.SRC
+
+middle east countries----ROUTE.DEST
+
+Railway Protection Force----AUTH.SEIZE
+
+RPF----AUTH.SEIZE
+
+forest department----AUTH.SEIZE
+
+man----SUS.GENDER
+
+Faried Sheikh----SUS.NAME
+
+Unnao----SUS.LOC
+
+Sultanpur-Mumbai Superfast Express----LOC.EXACT
+
+seven----QTY
+
+January 19----DATE
+
+Manmad----ROUTE.TRANSIT
+
+Malegoan----ROUTE.SRC
+
+UP----ROUTE.SRC
+
+Maharashtra----ROUTE.DEST
+
+special task force----AUTH.SEIZE
+
+STF----AUTH.SEIZE
+
+3----SUS.NUMBER
+
+Hussain----SUS.NAME
+
+Ateek Khan----SUS.NAME
+
+S Mohammad----SUS.NAME
+
+Malegaon----SUS.LOC
+
+train----TRANSPORT_MODE

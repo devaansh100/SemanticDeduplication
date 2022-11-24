@@ -1,0 +1,23 @@
+
+['Karnataka: Tourist fined after narrow escape from elephant at Bandipur tiger reserve\nA viral video showing a tourist having a narrow escape from being trampled by a tusker at the Bandipur Tiger Reserve has raised concerns about the violation of Karnataka forest department guidelines that bar travellers passing through the reserve from getting down their vehicles. The video, which surfaced on social media a few days ago, showed three passengers alighting from a car and taking pictures. On seeing the elephant, two of them got inside the car while the third passenger, who was on the other side of the road, was chased by the elephant. In an attempt to get into the car, he lost his balance. He was then pulled back inside the vehicle by the co-passengers. The video was shot by another passerby from another vehicle, who showed it to the forest officials. Based on the video evidence, the car was tracked. The tourist was from Kerala. Confirming the incident the director of the reserve, P Ramesh Kumar said, “This incident happened on April 9. Based on the information, our staff rushed to the spot and blocked the vehicle at the Moolehole check post and then levied a penalty of Rs 1,000 for getting out of the vehicle.”']
+
+
+Karnataka----LOC.STATE
+
+Tourist----SUS.AFFIL
+
+fined----CRIME.CAT
+
+elephant----SP.COMMON
+
+Bandipur tiger reserve----LOC.EXACT
+
+Bandipur Tiger Reserve----LOC.EXACT
+
+Karnataka forest department----AUTH.SEIZE
+
+three----SUS.NUMBER
+
+car----TRANSPORT_MODE
+
+April 9----DATE

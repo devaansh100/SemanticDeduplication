@@ -1,0 +1,13 @@
+
+['G Plus on Instagram: "A team of the North Kamrup Forest Division on Wednesday, November 10, conducted a raid and seized a number of wild animal body parts from the residence of a Forest Department off\n']
+
+
+North Kamrup Forest Division----AUTH.SEIZE
+
+Wednesday----DATE
+
+raid----DETECTION_METHOD
+
+seized----CRIME.CAT
+
+wild animal body----SP.COMMON

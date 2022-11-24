@@ -1,0 +1,21 @@
+
+['A Family Dollar facility had more than 1,000 rodents inside, which were discovered when a consumer complaint sparked an investigation\nMore than 1,000 rodents were found inside a Family Dollar distribution facility in Arkansas. were found inside a distribution facility in Arkansas. A Family Dollar spokesperson told Insider that "we take situations like this very seriously." Advertisement A Family Dollar facility in Arkansas found hundreds of rodents inside after a consumer complaint, which prompted an investigation into the facility. AP first reported the story. In a news release on Friday, the US Food and Drug Administration announced a customer complaint prompted the inspection in the facility in West Memphis, Arkansas. The inspectors reported live rodents, dead rodents in "various states of decay," rodent feces, dead birds, and bird droppings. Judith McMeekin, associate commissioner for regulatory affairs, said in the news release: "No one should be subjected to products stored in the kind of unacceptable conditions that we found in this Family Dollar distribution facility." She added: "These conditions appear to be violations of federal law that could put families\' health at risk." Advertisement Family Dollar also issued a news release on Friday that listed the 404 stores that may have sold products from the contaminated facility. It said it was working with the FDA to begin a voluntary recall of affected products. The recall concerns purchased made in January and February from Family Dollar stores in Alabama, Arkansas, Louisiana, Mississippi, Missouri, and Tennessee. According to the news release, the products impacted include human food, pet food, dietary supplements, cosmetics, medical devices, and over-the-counter medications. The agency said food in non-permeable packaging "may be suitable for use if thoroughly cleaned," but all drugs, medical devices, cosmetics, and dietary supplements should be discarded. Kayleigh Campbell, a Family Dollar spokesperson, said: "We take situations like this very seriously and are committed to providing safe and quality products to our customers. We have been fully cooperating with all regulatory agencies in the resolution of this matter and are in the process of remediating the issue."  She added: "We temporarily closed the affected stores in order to proficiently conduct the voluntary recall of certain FDA-regulated products. Our teams are working hard to reopen these stores as soon as possible." Advertisement The company said in the news release that they were not "aware of any consumer complaints or reports of illness related to this recall." It added that the company is "notifying its affected stores by letter asking them to check their stock immediately and to quarantine and discontinue the sale of any affected product." Insider reported in January that a former manager in Arkansas was told by employees that their store had a pest problem. They laid traps, expecting them to capture rats, but instead saw snakes stuck to the traps.  Family Dollar was bought by Dollar Tree for $8.5 billion in July 2014.']
+
+
+Family Dollar facility----LOC.EXACT
+
+1,000----QTY
+
+rodents----SP.COMMON
+
+1,000----QTY
+
+rodents----SP.COMMON
+
+Family Dollar distribution facility----LOC.EXACT
+
+Arkansas----LOC.STATE
+
+Arkansas----LOC.STATE
+
+West Memphis, Arkansas----LOC.EXACT

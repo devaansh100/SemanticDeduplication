@@ -1,0 +1,29 @@
+
+['Sloth bear mauls Madhya Pradesh couple to death, eat their bodies\nBHOPAL: Sloth bear mauled a couple to death and devoured their bodies in Panna district of Madhya Pradesh The couple was returning after visiting the Khermai temple on Sunday morning when the attack took place. They reportedly died while sticking together confronting the bear.Locals informed that the bear had torn their bodies apart before feeding on the carcasses. The bear was captured five hours after the incident.The temple was located around one kilometre from their house. Deceased were identified as Mukesh Rai , 43, and his wife Gudiya, 39. Bear dragged their bodies near a nullah and remained there for more than four hours.A crowd gathered as soon as the information was received. Forest personnel reached the spot a few hours after being informed. It took another two hours from them to tranquilise and rescue the bear.Forest officers said that the rescued sloth bear would be shifted to the zoo. Financial assistance of Rs 4 lakh would be given to the dependents of the deceased couple. Locals created a ruckus demanding jobs for members of the aggrieved family.']
+
+
+Sloth bear----SP.SPECIFIC
+
+mauls----CRIME.CAT
+
+Madhya Pradesh----LOC.STATE
+
+couple----SUS.GENDER
+
+Sloth bear----SP.COMMON
+
+couple----SUS.NUMBER
+
+Madhya Pradesh----LOC.STATE
+
+Sunday----DATE
+
+Mukesh Rai----SUS.NAME
+
+43----SUS.AGE
+
+Gudiya----SUS.NAME
+
+39----SUS.AGE
+
+Financial assistance of Rs 4 lakh----OUTCOME

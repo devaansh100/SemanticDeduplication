@@ -1,0 +1,67 @@
+
+['Assam: 2 smugglers arrested in Dibrugarh, rhino horn, tusk & heroin recovered\nThe police on Thursday arrested two smugglers from Panchali area in Assam’s Dibrugarh town and seized one suspected rhino horn, an elephant tusk and 19 grams of heroin from their possession. The accused have been identified as Meraj Khan and Aniz Rahman, both residents of Panchali. The police also recovered Rs 1.30 lakh from their possession. Confirming the development, Dibrugarh SP Shwetank Mishra said, “After receiving information, we conducted a raid at the residence of Miraj Khan and seized one suspected rhino horn, one piece suspected elephant tusk and 19 grams of heroin from his possession.” Also read: Assam: Tokay Gecko seized in Tinsukia, four held Mishra further said, “Our interrogation is on. Right now, we cannot disclose more information because our investigation is at a preliminary stage.” “Both Khan and Rahman were involved in drug trafficking and deals with illegal smuggling of animal parts,” said a source. “It is a big development for Dibrugarh police and if things are properly investigated then many things will come to light,” said the source.']
+
+
+Assam----LOC.STATE
+
+2----SUS.NUMBER
+
+arrested----CRI
+
+Dibrugarh----LOC.CITY
+
+rhino----SP.COMMON
+
+horn----ITEM
+
+tusk----ITEM
+
+Thursday----DATE
+
+arrested----CRIME.CAT
+
+two----SUS.NUMBER
+
+Panchali area----SUS.LOC
+
+Dibrugarh----LOC.DISTRICT
+
+seized----CRIME.CAT
+
+one----QTY
+
+rhino----SP.COMMON
+
+horn----ITEM
+
+an----QTY
+
+elephant----SP.COMMON
+
+tusk----ITEM
+
+Meraj Khan----SUS.NAME
+
+Aniz Rahman----SUS.NAME
+
+Panchali----SUS.LOC
+
+Rs 1.30 lakh----VALUE
+
+raid----DETECTION_METHOD
+
+Miraj Khan----SUS.NAME
+
+seized----CRIME.CAT
+
+one----QTY
+
+rhino----SP.COMMON
+
+horn----ITEM
+
+one----QTY
+
+elephant----SP.COMMON
+
+tusk----ITEM

@@ -1,0 +1,33 @@
+
+['Nainital: Three nabbed with leopard skin in Haldwani\nNAINITAL: A Special Operations Group (SOG) on Wednesday caught three people accused of smuggling leopard skin in Haldwani and seized the skin from them.According to Kailash Chandra Tiwari, head of the SOG, forest department, the accused were caught from Haldwani’s Lamachaur bridge after they were tipped off by the Wildlife Crime Control Bureau.Tiwari said, “While one of the accused is from Ramnagar, one is from Udham Singh Nagar district . We are interrogating them to find who the leopard skin was meant for.”']
+
+
+Three----SUS.NUMBER
+
+nabbed----CRIME.CAT
+
+leopard----SP.COMMON
+
+skin----ITEM
+
+Haldwani----LOC.CITY
+
+Special Operations Group----AUTH.SEIZE
+
+SOG----AUTH.SEIZE
+
+Wednesday----DATE
+
+three----SUS.NUMBER
+
+leopard----SP.COMMON
+
+skin----ITEM
+
+Haldwani----LOC.CITY
+
+seized----CRIME.CAT
+
+skin----ITEM
+
+tipped----DETECTION_METHOD

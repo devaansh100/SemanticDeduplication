@@ -1,0 +1,69 @@
+
+['19 arrested for attempting to sell endangered snake for Rs 25 crores in Maharashtra\nIn a major crackdown, the Maharashtra forest department has busted a multi-district wildlife crime racket, which tried to sell a near-threatened reptile species for a whopping amount of Rs 25 crore. A total of 19 people, including two policemen and an IT entrepreneur, were arrested for their alleged involvement in the crime. Called ‘Mandul’ in Marathi, the red sand boa (Eryx johnii), is sought after in international and domestic markets due to superstitions about it bringing good luck and its supposedly aphrodisiac properties. It is mistakenly believed that the non-venomous snake, which has a thick tail, giving it the appearance of having two heads, can locate hidden treasures. Deputy Conservator of Forests (DCF-East Nashik) Tushar Chavan said, on June 1, officials had nabbed Somnath Pawar of Yeola in Nashik for trying to sell a sand red boa. Based on Pawar’s interrogation, officials made more arrests, including that of Nikhil Gaikwad from Ahmednagar district. Gaikwad was found in possession of an Indian soft shell turtle, a Schedule-I protected species. A year ago, Gaikwad had caught the turtle near the Pravara River. It is believed that worshipping this turtle leads to financial prosperity, and Gaikwad was trying to sell it for Rs 1 crore, when he was nabbed by officials posing as customers. Based on the investigations, a decoy operation was launched and six people were arrested while trying to cut a deal for another red sand boa at Sinnar in Nashik. This includes assistant police inspector Vishwas Chavhanke, who is posted at the Rabale police station, and Deepak Dhabekar, who is deployed at the Chatushringi police station in Pune. Chavan added that forest officials, who were posing as customers, were quoted a price of Rs 25 crore for a red sand boa by some of them, who were acting as conduits. This snake was to be procured from a third party, and officials are trying to nab him. A total of 19 arrests have been made across the four districts of Ahmednagar, Pune, Thane and Nashik. Those arrested also include an IT entrepreneur from Pune, and a real-estate agent. The department is also working with the Wildlife Crime Control Bureau (WCCB) and the cyber crime cell of the Melghat Tiger Project. Investigations are taking place under the supervision of Anil Anjankar, chief conservator of forests, Nashik. Forest officials admitted that the COVID-19 pandemic has affected vigilance and patrolling by field-level staff. This, combined with economic distress during the lockdown, has led to a rise in poaching and wildlife crimes.']
+
+
+19----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+snake----SP.COMMON
+
+Rs 25 crores----VALUE
+
+Maharashtra----LOC.STATE
+
+Maharashtra forest department----AUTH.SEIZE
+
+multi-district wildlife crime racket----SUS.AFFIL
+
+Rs 25 crore----VALUE
+
+19----SUS.NUMBER
+
+two----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+Tushar Chavan----OFF.NAME
+
+June 1----DATE
+
+Somnath Pawar----SUS.NAME
+
+Yeola in Nashik----SUS.LOC
+
+sand red boa----SP.SPECIFIC
+
+Nikhil Gaikwad----SUS.NAME
+
+Ahmednagar district----SUS.LOC
+
+possession----CRIME.CAT
+
+Indian soft shell turtle----SP.SPECIFIC
+
+Rs 1 crore----VALUE
+
+decoy operation----DETECTION_METHOD
+
+six----SUS.NUMBER
+
+red sand boa----SP.SPECIFIC
+
+Nashik----LOC.CITY
+
+assistant police inspector----SUS.AFFIL
+
+Vishwas Chavhanke----SUS.NAME
+
+Deepak Dhabekar----SUS.NAME
+
+Rs 25 crore----VALUE
+
+Wildlife Crime Control Bureau----AUTH.MISC
+
+(WCCB)----AUTH.MISC
+
+cyber crime cell----AUTH.MISC
+
+Anil Anjankar----OFF.NAME

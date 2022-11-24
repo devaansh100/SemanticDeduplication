@@ -1,0 +1,23 @@
+
+['Python swallows a cat in Waghodia village\nVADODARA: Vejalpur villagers in Waghodia taluka thought it was the wind rustling leaves in their backyard of a house. But much to the unsuspecting villagers’ horror on Tuesday night, they saw a nine-feet-long python struggling to move amid the grasses. If that wasn’t all, they were in for more shock when they discovered that it had also swallowed some animal. The wary villagers lost no time and immediately contacted the forest officials.“The locals noticed the swollen belly of the python and realized that it had swallowed something. They reached out to the forest officials who contacted us. We reached the spot and began rescue efforts,” said Hitesh Parmar of Wildlife Rescue Trust.“The python preyed on a cat moving around in the backyard of a house and swallowed it,” said Vijay Parmar, forest guard. The reptile was hiding behind a heap of wood and when the WRT volunteers tried to rescue it, the python spat out the dead cat. “When any reptile panics or feels that is under threat, it spits out the food it has swallowed to make a quick getaway,” Parmar said.The python was rescued after about an hour and handed over to the forest officials. It was for the first time that the locals spotted such a huge adult python in their area.']
+
+
+Python----SP.COMMON
+
+swallows----CRIME.CAT
+
+cat----SP.COMMON
+
+Waghodia village----LOC.EXACT
+
+Vejalpur----SUS.LOC
+
+Waghodia----LOC.DISTRICT
+
+Tuesday----DATE
+
+night----TIME
+
+python----SP.COMMON
+
+WRT----AUTH.SEIZE

@@ -1,0 +1,9 @@
+
+["2 Farmers Injured In Bison Attack At Kolhapur Village\nSunny Leone’s looks from Splitsvilla X4 are as glam as you'd expect tv"]
+
+
+Bison----SP.COMMON
+
+Attack----CRIME.CAT
+
+Kolhapur Village----LOC.EXACT

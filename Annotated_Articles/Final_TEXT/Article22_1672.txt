@@ -1,0 +1,23 @@
+
+['Blackbuck found near Patna dies during treatment\nPATNA: A severely injured blackbuck found in rural Patna on Monday morning died during treatment at the veterinary hospital in the evening. The villagers had spotted it near Dumri village in Bihta.The locals said the blackbuck was attacked by a pack of dogs on the western side of the village after it strayed out of the forest area. The villagers chased away the attacking dogs and captured the blackbuck. On being informed about the matter, it was taken to the veterinary hospital by the Bihta police and the locals.Bihta SHO Rituraj told TOI that the blackbuck was found in an open field on Monday morning. "The locals rescued the deer and brought it to the village. It was admitted to the veterinary hospital where it died during the treatment. We have informed the district forest officials," he said.Dipak Kumar Singh, principal secretary of environment, forest and climate change department, said in Bihar, blackbuck was found in abundance in Buxar Kaimur and Rohtas districts. "The only danger they face is from stray dogs and wet soil during monsoon, when their hind legs get stuck in the soil. For their conservation, the department has set up a rescue centre for blackbuck," he said.']
+
+
+Blackbuck----SP.SPECIFIC
+
+Patna----LOC.EXACT
+
+blackbuck----SP.SPECIFIC
+
+Patna----LOC.EXACT
+
+Monday----DATE
+
+morning----TIME
+
+evening----TIME
+
+Dumri village in Bihta.The----LOC.EXACT
+
+blackbuck----SP.SPECIFIC
+
+pack of dogs on the western side of the village after it strayed out of the forest area. The villagers chased away the attacking dogs and captured the blackbuck. On being informed about the matter, it was taken to the veterinary hospital by the Bihta police and the locals.Bihta SHO Rituraj told TOI that the blackbuck was found in an open field on Monday morning. "The locals rescued the deer and brought it to the village. It was admitted to the veterinary hospital where it died during the treatment. We have informed the district forest officials," he said.Dipak Kumar Singh, principal secretary of environment, forest and climate change department, said in Bihar, blackbuck was found in abundance in Buxar Kaimur and Rohtas districts. "The only danger they face is from stray dogs and wet soil during monsoon, when their hind legs get stuck in the soil. For their conservation, the department has set up a rescue centre for blackbuck," he said.----SUS.AFFIL

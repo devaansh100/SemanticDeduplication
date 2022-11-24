@@ -1,0 +1,49 @@
+
+['Man tries to sell red sanders; held\nBengaluru: A 48-year-old man was arrested for allegedly trying to sell red sanders and four logs worth over Rs 1.5 lakh were found in his car.The accused, Nagaraj alias Naganakota Nagaraj , is from Nagareddypalli village in Srinivasapura taluk of Kolar district. Police said they received a tip about two persons in a car trying to sell red sanders in Shivajinagar . A team headed by sub-inspector Amresha H rushed to the spot at 4pm. Assistant sub-inspector Bhaktakumar went near the car on the pretext of attending nature’s call and saw the wooden logs stacked up inside.The other cops waiting at a distance surrounded the car and detained Nagaraj, who said his associate Chandra Reddy from AP had procured the red sanders and brought them for sale in Bengaluru. tnn']
+
+
+sell----CRIME.CAT
+
+red sanders----SP.COMMON
+
+Bengaluru----LOC.CITY
+
+48----SUS.AGE
+
+man----SUS.GENDER
+
+arrested----CRIME.CAT
+
+red sanders----SP.COMMON
+
+four----QTY
+
+logs----ITEM
+
+Rs 1.5 lakh----VALUE
+
+car.The----TRANSPORT_MODE
+
+Nagaraj----SUS.NAME
+
+Naganakota Nagaraj----SUS.NAME
+
+Nagareddypalli village in Srinivasapura taluk of Kolar district. Police----SUS.LOC
+
+a tip----DETECTION_METHOD
+
+two----SUS.NUMBER
+
+car----TRANSPORT_MODE
+
+red sanders----SP.COMMON
+
+Shivajinagar----LOC.CITY
+
+sub-inspector----OFF.DESIG
+
+Amresha H----OFF.NAME
+
+4pm----TIME
+
+Chandra Reddy----SUS.NAME

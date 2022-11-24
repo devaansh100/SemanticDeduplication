@@ -1,0 +1,35 @@
+
+['Drunk man jumps into lion enclosure in Delhi zoo; rescued\nIndia Drunk man jumps into lion enclosure in Delhi zoo; rescued Drunk man jumps into lion enclosure in Delhi zoo; rescued Written by Sagar Oct 17, 2019, 06:45 pm 2 min read In a bizarre piece of news, a man jumped into the enclosure of an Asiatic lion in the National Zoological Park in Delhi on Thursday afternoon. The man, identified as one Rehan Khan, was however, rescued unhurt as the alert zoo staff acted quickly and tranquilized the animal. Reports suggest that he was in an inebriated state. Here are more details. Details Khan jumped metal grille, sat in front of the lion The incident took place at around 12:30 PM, when Khan, a native of Bihar\'s Champaran district, jumped over the metal grille, and went on to sit right in front of the feline, even though the guards tried to stop him. Eventually, Khan was caught and handed over to the police. The situation is now under control, zoo officials said. Twitter Post You can watch the video of the incident here #WATCH Delhi: A man entered into enclosure of a lion at Delhi Zoo after climbing its metal grille. He was later brought out safely. DCP(Southeast)says "He\'s Rehan Khan, a 28-yr-old man from Bihar. He seems to be mentally unstable.He was immediately brought out without any injury" pic.twitter.com/t5n6bfPx7p — ANI (@ANI) October 17, 2019 Information Khan said he wanted to \'talk\' to the lion Upon questioning, Khan gave incoherent replies and said that he wanted to \'talk\' to the lion, the police said. His relatives have been informed, and the police are verifying if he has any medical condition. He currently resides in Seelampur area of Northeast Delhi. Experts believe that the intruder was extremely lucky to have survived the encounter with a lion of such size. Quote I\'ve come to die, Khan kept saying "He (Khan) kept saying, \'I\'ve come to die, don\'t rescue me.\' We all rushed to the spot, gave him a ladder but he did not listen. Then we tranquilized the lion and rescued him," Riyaz Ahmed Khan, PRO at National Zoological Park, Delhi, told ANI. Quote Animal Rights activist questioned state of security at the zoo Meanwhile, Animal Rights activist Gauri Maulekhi questioned the state of security at the Delhi Zoo. "Even a few months back the lions\' enclosure had been breached as there were no proper locks," she said. "Even if it is deliberate, surely the fencing is not high enough, so people are able to enter? There should be absolutely no scope of such incidents," she summed. Information In 2014, man was killed by tiger in Delhi zoo Notably, this is not the first such instance. Earlier in September 2014, a 22-year-old man was brutally mauled to death by a white tiger in the Delhi zoo, after he accidentally slipped and fell inside the beast\'s enclosure.']
+
+
+man----SUS.GENDER
+
+lion----SP.COMMON
+
+Asiatic lion----SP.SPECIFIC
+
+National Zoological Park----LOC.EXACT
+
+Thursday----DATE
+
+afternoon----TIME
+
+man----SUS.GENDER
+
+Rehan Khan----SUS.NAME
+
+12:30 PM----TIME
+
+Khan----SUS.NAME
+
+Bihar's Champaran district----SUS.LOC
+
+man----SUS.GENDER
+
+Rehan Khan----SUS.NAME
+
+28-yr-old----SUS.AGE
+
+man----SUS.GENDER
+
+Bihar. He----SUS.LOC

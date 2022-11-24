@@ -1,0 +1,93 @@
+
+['URA steps up hunt for more Vietnamese nationals over trafficking ivory, pangolin scales\nKAMPALA – Uganda Revenue Authority (URA) is hunting for 18 men of Vietnam origin for allegedly trafficking 750 pieces of ivory and pangolin scales. Last week, two Vietnamese nationals were arrested after they were intercepted carrying the wildlife items in three trailers disguised as timber. Although the duo was granted bail later, URA is still hunting for the others, who are believed to have been accomplices in the illegal trade. “The two we arrested last week were given bond, it is their entitlement. We are investigating more things. We will be calling the press to update the country because this is a matter of national interest,” said Mr Vincent Seruma, the URA head of Public and Corporate Affairs, in a telephone interview on Monday. The Vietnamese nationals on the wanted list include Thai Xuan Phuong, Dinh Van Quan aka Tony, Dinh Van Chung, Vo Quoc Trinh, Thai Xuan Tuan aka UNK Do Trong Ha aka Hoang Ha, Tran Van Cao aka UNK, Vu Van Huan aka Jimmy, Trinh Trung Dung aka UNK, Le Viet Quyen aka UNK, Ha Chan Chinh aka UNK Le Dinh Quan aka Le quan, Nguyen Van Linh aka Zou, Nguyen Van Thnh aka UNK, Pham Trong Phuc aka UNK, Nguyen Van Pha aka UNK, Nguyen Van Viet aka UNK and Hoang Van Hau aka UNK. Mr John Makombo the director of conservation at UWA, said the Vietnamese nationals, under the UWA Act, will be charged with killing elephant and pangolins. “To be in possession of ivory means you killed an elephant. We cannot say all these are Ugandan elephants but we shall charge them for poaching elephants and illegal trafficking of animal products,” he said. Tourism Minister Prof. Ephraim Kamuntu said poaching fuels conflict in areas where it takes place and the whole world is focusing on eliminating it. “The whole world is focusing on ending the international syndicated killing of elephants and the focus is on getting those who are profiteering from it,” he said. Related']
+
+
+URA----AUTH.SEIZE
+
+Vietnamese----SUS.NAT
+
+ivory----ITEM
+
+pangolin----SP.COMMON
+
+scales----ITEM
+
+Uganda Revenue Authority----AUTH.MISC
+
+URA----AUTH.MISC
+
+18----SUS.NUMBER
+
+men----SUS.GENDER
+
+750 pieces----QTY
+
+ivory----ITEM
+
+pangolin----SP.COMMON
+
+scales----ITEM
+
+Vietnamese----SUS.NAT
+
+Thai Xuan Phuong----SUS.NAME
+
+Dinh Van Quan----SUS.NAME
+
+Tony----SUS.NAME
+
+Dinh Van Chung----SUS.NAME
+
+Vo Quoc Trinh----SUS.NAME
+
+Thai Xuan Tuan----SUS.NAME
+
+UNK Do Trong Ha----SUS.NAME
+
+Hoang Ha----SUS.NAME
+
+Tran Van Cao----SUS.NAME
+
+UNK----SUS.NAME
+
+Vu Van Huan----SUS.NAME
+
+Jimmy----SUS.NAME
+
+Trinh Trung Dung----SUS.NAME
+
+UNK----SUS.NAME
+
+Le Viet Quyen----SUS.NAME
+
+UNK----SUS.NAME
+
+Ha Chan Chinh----SUS.NAME
+
+UNK Le Dinh Quan----SUS.NAME
+
+Nguyen Van Linh----SUS.NAME
+
+Zou----SUS.NAME
+
+Nguyen Van Thnh----SUS.NAME
+
+UNK----SUS.AFFIL
+
+Pham Trong Phuc----SUS.NAME
+
+UNK----SUS.AFFIL
+
+Nguyen Van Pha----SUS.NAME
+
+UNK----SUS.NAME
+
+Nguyen Van Viet----SUS.NAME
+
+UNK----SUS.NAME
+
+Hoang Van Hau----SUS.NAME
+
+UNK----SUS.NAME
+
+Vietnamese----SUS.NAT

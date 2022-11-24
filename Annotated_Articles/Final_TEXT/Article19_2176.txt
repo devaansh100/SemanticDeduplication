@@ -1,0 +1,23 @@
+
+['Croc enters colony in Kota, creates panic among residents\nKOTA: About six feet long crocodile entered Bajrang Nagar residential colony of Borekheda on Sunday creating panic among the locals. However, after a rescue operation of an hour by forest personnel, the crocodile was rescued and freed safely into Chambal River of Borabass area.About six feet long crocodile was reported to have entered the premises of Seed Warehouse at Bajrang Nagar residential colony in Borekheda area of Kota. Following which, a rescue team from the department rushed to the spot to capture the reptile, told Jodhraj Singh, district forest officer (DFO). The crocodile, according to the guard at the Seed Warehouse, entered the colony from the drainage behind a private school and made its way to the premises of Warehouse creating panic among the locals.According to the forest official, the team rescued the reptile by conducting a rescue operation of about one hour from the premises of the Seed Warehouse and later freed it safely into Chambal River of Borabass area. “It was a six feet long female crocodile which entered the colony from drainage flowing behind a private school and created panic among the locals”, said Virendra Singh, one of the three personnel of forest rescue team. The reptile was rescued safely and was later freed into Chambal River, he added.']
+
+
+Croc----SP.COMMON
+
+Kota----LOC.EXACT
+
+six feet long----QTY
+
+crocodile----SP.COMMON
+
+Bajrang Nagar residential colony----LOC.EXACT
+
+Sunday----DATE
+
+forest personnel----AUTH.SEIZE
+
+six feet long----QTY
+
+crocodile----SP.COMMON
+
+Seed Warehouse----LOC.EXACT

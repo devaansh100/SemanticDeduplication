@@ -1,0 +1,13 @@
+
+['Bandipur tiger will be captured alive, says Karnataka forest department\nHundreds of camera traps have been set up BENGALURU: The Karnataka forest department on Wednesday clarified that it has issued no orders to shoot down a tiger that is believed to have killed two men near Bandipur Tiger Reserve. Sanjay Mohan , principal chief conservator of forests (wildlife), said only he as chief wildlife warden for the state has powers to issue orders to shoot a tiger in conflict. “No such order has been issued. We will capture the tiger alive. However, we will not leave the tiger back in the woods as it is believed to have killed two humans. The tiger will be sent to rehabilitation centre in Bengaluru Bannerghatta Biological Park or Mysore zoo,” he added.Mohan made this statement on the side-lines of the valedictory function of 65th Wildlife Week celebrations in the city. “The tiger capture operation will be carried out as per standard operating procedure laid down by the National Tiger Conservation Authority . We have set up as part of the combing operation. We will first confirm if it’s the same tiger that killed two persons. We will cross check other images in our database. Only after proper identification, the big cat will be tranquilised and captured,” he added.The clarification about tiger capture came in the wake of a press release, said to be issued by the Aranya Bahvan, Mysore and signed by Jagat Ram, additional chief conservator of forest ( Project Tiger ), earlier in the day. The release said the elusive tiger in Bandipur will be either captured or shot down within the next 48 hours. The release got widely circulated on the social media and many wildlife lovers expressed concern over the shooting orders issued.']
+
+
+Bandipur tiger----LOC.EXACT
+
+Karnataka forest department----AUTH.SEIZE
+
+Karnataka forest department----AUTH.SEIZE
+
+two----SUS.NUMBER
+
+Bandipur Tiger Reserve----LOC.EXACT

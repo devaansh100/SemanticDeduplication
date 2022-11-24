@@ -1,0 +1,37 @@
+
+['₹2-crore sand boa seized in Navi Mumbai, 1 held\nA 40-year-old man from Bhiwandi was arrested by the police when he came to sell a sand boa snake at Kharghar on Tuesday. Police officers have seized the sand boa worth ₹2 crore from his possession. Santrunghna Mali, senior inspector from Kharghar police station, said, “We received information that a man had entered our area with a snake and was trying to sell it for ₹25 crore, saying that people get wealthy if they keep such snake at home. Our team immediately reached the spot and nabbed the suspect before he could flee. While checking his bag, they found the snake and arrested him.” The accused has been identified as Kishore Govind Patil, a mechanic by profession. “The accused said he was planning to start a hotel of his own by selling the snake. However, it is still not clear from where he got the snake. We are also trying to find out if he had sold such snakes in Navi Mumbai in the past,” Mali said. The police booked Patil under relevant sections of the Indian Penal Code (IPC) and Wildlife Protection Act. He was produced before the judicial court on Wednesday and has been remanded in police custody till March 1. 25 snakes abandoned Unidentified poachers abandoned 25 snakes including cobras and common sand boas behind a dhaba at Nandgaon on the Mumbai-Ahmedabad highway on Wednesday. Two cobras survived while two others died and the remaining snakes are yet to be found. Ganesh Dhangde, an animal activist from Manor, found the snakes and alerted the range forest officer A case has been registered. With inputs from Ram Parmar SHARE THIS ARTICLE ON']
+
+
+sand boa----SP.COMMON
+
+seized----CRIME.CAT
+
+Navi Mumbai----LOC.CITY
+
+1----SUS.NUMBER
+
+40-year-old----SUS.AGE
+
+man----SUS.GENDER
+
+Bhiwandi----SUS.LOC
+
+sand boa snake----SP.SPECIFIC
+
+Kharghar----LOC.EXACT
+
+Tuesday----DATE
+
+seized----CRIME.CAT
+
+sand boa----SP.COMMON
+
+received information----DETECTION_METHOD
+
+snake----SP.COMMON
+
+Kishore Govind Patil----SUS.NAME
+
+mechanic by profession----SUS.AFFIL
+
+booked----OUTCOME

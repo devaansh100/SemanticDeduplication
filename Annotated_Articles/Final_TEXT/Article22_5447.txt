@@ -1,0 +1,39 @@
+
+['Bird flu scare: Over 15,000 poultry culled overnight, Maha districts put on alert\nMumbai: Even as the state continues to deal with the fallout of Covid-19 pandemic, another viral disease has threatened to make matters worse. The state has reported confirmed cases of avian influenza aka bird flu, prompting authorities to put all districts on alert for any suspicious deaths of birds. Avian influenza is a highly contagious viral disease that affects both domestic and wild birds. Over 15,000 birds at various poultry farms in Thane were culled overnight by the animal husbandry department after 300 poultry birds and nine ducks died of avian flu at Shahapur in Thane last week. The tissue samples were sent to the National Institute of High Security Animal Diseases Laboratory in Bhopal, which on February 16 confirmed that birds tested positive for the H5N1 strain of bird flu. Thane District Collectorate formed rapid response teams that initiated the culling overnight and completed it by 7:30 am on Friday. The department completed the culling operation within 1 km from the epicentre at Velholi in Shahapur. Officials said that there is no need to panic as no such incident has been recorded in the rest of the district. “Immediately after we got reports that the deaths were due to bird flu, we initiated culling operations and the situation is under control now. We are taking necessary measures and precautions to ensure the flu does not spread further,” said Rajesh Narvekar, District Collector, Thane. A total of 23,428 birds in the infected zone were culled and 1,603 eggs, 3,800 kg poultry feed and 100 kg shell grit were destroyed. Commissionerate of Animal Husbandry, Sachindra Pratap Singh, has directed field units to be on an alert for any suspicious deaths of birds. The district, forest and irrigation authorities have also been asked to report such instances in forests, reservoirs and dams. “All districts have been put on an alert to watch for any suspicious deaths of birds. We have asked poultry owners to report any such suspicious deaths to the local veterinary officers,” said Singh, adding that the outbreak was likely a localised phenomenon. Sunil Kedar, Minister, Animal Husbandry and Dairy Development, said that the SOPs were being followed immediately after the reports had confirmed the outbreak. “There is a compensation package in place (for poultry farmers whose birds will have to be culled),” he added. Meanwhile, officials have urged that chicken and egg consumers cook these poultry products well before consumption. They added that cases of animal to human transmission of this zoonotic disease were rare, but possible. In July 2021, a human case of avian influenza was reported after an 18-year-old male in Haryana tested positive for the disease, making it the first reported case of human infection in India. The avian influenza outbreak in January 2021 had seen around 10 lakh birds being culled with around 73 epicentres being notified across 20 districts, said officials from the animal husbandry commissionerate. Maharashtra has around 112 organised poultry farms and an estimated 11,000 unorganised poultries, with farmers preferring to rear indigenous or native varieties of free-ranging chicken and broilers in their backyards to supplement their incomes. The daily production of eggs stands at an average of around 1.25 lakh. As per the 2019 livestock census, the poultry population of Maharashtra is 742.98 lakh. The state accounts for 5.77 percent of the total egg production in India and is largely self-sufficient, except for some parts of Vidarbha and Marathwada, which source their eggs from neighbouring Telangana.']
+
+
+15,000----QTY
+
+poultry----SP.COMMON
+
+culled----CRIME.CAT
+
+Maha districts----LOC.EXACT
+
+avian influenza----SP.COMMON
+
+animal husbandry department----AUTH.SEIZE
+
+National Institute of High Security Animal Diseases Laboratory----AUTH.MISC
+
+Thane District Collectorate----AUTH.SEIZE
+
+7:30 am----TIME
+
+Friday----DATE
+
+culling operations----CRIME.CAT
+
+23,428----QTY
+
+1,603----QTY
+
+eggs----ITEM
+
+3,800 kg----QTY
+
+poultry feed----ITEM
+
+100 kg----QTY
+
+shell grit----ITEM

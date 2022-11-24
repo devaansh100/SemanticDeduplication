@@ -1,0 +1,85 @@
+
+['Earth League International - ELI - More Than 14 kg of Pangolin Scales Seized in Odisha\'s Biggest Ever Recovery A joint team of Odisha forest and Wildlife Crime Control Bureau (WCCB) of Jabalpur confis\nhttps:// www.hindustantim es.com/ india-news/ more-than-14-kg- of-pangolin-sca les-seized-in-o disha-s-biggest -ever-recovery- 101627271205716 More Than 14 kg of Pangolin Scales Seized in Odisha\'s Biggest Ever RecoveryA joint team of Odisha forest and Wildlife Crime Control Bureau (WCCB) of Jabalpur confiscated 14.2 kg pangolin scales in Dhenkanal district from two people on Sunday. This is the biggest-ever seizure of pangolin scales in Odisha.Dhenkanal divisional forest officer (DFO) Prakash Chand Gogineni said the scales were seized from Damodarnali area of Kapilash range in Dhenkanal district following an intelligence input from the WCCB. The DFO said that Ratnakar Rout (51) and Firoj Khan (52), from Dhenkanal town, had stored the pangolin scales at a godown in Banasinga area of Sarangi range in the division."They were collecting scales from poachers within Dhenkanal and nearby areas, but could not sell it due to the pandemic. Our team posing as customers struck a deal with the smugglers and arrested them," he said. The joint team has seized a two-wheeler and two mobile phones from their possession.The Indian pangolin is a solitary, shy, slow moving, nocturnal mammal that is protected under Schedule I of Wildlife (Protection) Act, 1972. It is also listed under the Appendix I of the International Convention of Trade in Endangered Species (CITES) that prohibits its commercial trade.']
+
+
+More Than 14 kg----QTY
+
+Pangolin----SP.COMMON
+
+Scales----ITEM
+
+Seized----CRIME.CAT
+
+Odisha----LOC.STATE
+
+Odisha forest----AUTH.SEIZE
+
+Wildlife Crime Control Bureau----AUTH.SEIZE
+
+WCCB----AUTH.SEIZE
+
+Jabalpur----LOC.CITY
+
+14 kg----QTY
+
+Pangolin----SP.COMMON
+
+Scales----ITEM
+
+Seized----CRIME.CAT
+
+Odisha----LOC.STATE
+
+Odisha forest----AUTH.SEIZE
+
+Wildlife Crime Control Bureau----AUTH.SEIZE
+
+WCCB----AUTH.SEIZE
+
+confiscated----CRIME.CAT
+
+14.2 kg----QTY
+
+pangolin----SP.COMMON
+
+scales----ITEM
+
+Dhenkanal----LOC.DISTRICT
+
+two----SUS.NUMBER
+
+Sunday----DATE
+
+pangolin----SP.COMMON
+
+Prakash Chand Gogineni----OFF.NAME
+
+scales----ITEM
+
+seized----CRIME.CAT
+
+Damodarnali area of Kapilash range in Dhenkanal district----ROUTE.SRC
+
+intelligence input----DETECTION_METHOD
+
+WCCB----AUTH.SEIZE
+
+Ratnakar Rout----SUS.NAME
+
+51----SUS.AGE
+
+Firoj Khan----SUS.NAME
+
+52----SUS.AGE
+
+Dhenkanal town----SUS.LOC
+
+pangolin----SP.COMMON
+
+scales----ITEM
+
+seized----CRIME.CAT
+
+two----QTY
+
+mobile phones----ITEM

@@ -1,0 +1,39 @@
+
+['‘Rape’ of Bengal monitor lizard is act of perversion: forest dept\nPUNE The initial probe by Kolhapur range forest department into the alleged rape of Bengal monitor lizard by four persons in Sahyadri Tiger Reserve (STR) in Maharashtra has revealed that it was an act of perversion. Nanasaheb Ladkat, field director, conservator and chief investigator, STR, said, “It is a case of perversion and the same was put forth in the complaint. The accused are in judicial custody.” The incident took place at Gothane village in Ratnagiri district. The forest department had taken the accused — Sandeep Tukaram Pawar, Mangesh Kamtekar, Akshay Kamtekar and Ramesh Ghag — under various sections of the Wildlife (Protection) Act, 1972 on March 31 for illegally entering Chandoli National Park, which is part of the reserve, with one of them carrying a gun. The STR is spread over four districts of Satara, Sangli, Kolhapur and Ratnagiri. Being an eco-sensitive zone, as many as 290 trap cameras have been fixed in the area to monitor the wildlife. The wildlife patrol on duty found one of the cameras missing and another camera detected that two persons had removed the camera while a third accused had a gun with him. Ladkat said, “During probe, we found that the accused had allegedly raped a Bengal monitor lizard and recorded the act in a mobile phone. We have seized the evidence. The accused were produced before Devrukh court which sent them to five days custody.” The Bengal monitor lizard is a reserved species under the Wildlife Protection Act 1972 and if convicted, the four accused could be charged with seven years of imprisonment.']
+
+
+Rape----CRIME.CAT
+
+Bengal monitor lizard----SP.SPECIFIC
+
+Kolhapur range forest department----AUTH.SEIZE
+
+rape----CRIME.CAT
+
+Bengal monitor lizard----SP.SPECIFIC
+
+four----SUS.NUMBER
+
+Sahyadri Tiger Reserve (STR)----LOC.EXACT
+
+Maharashtra----LOC.STATE
+
+Nanasaheb Ladkat----OFF.NAME
+
+field director, conservator and chief investigator----OFF.DESIG
+
+Gothane village----LOC.EXACT
+
+Ratnagiri district----LOC.DISTRICT
+
+Sandeep Tukaram Pawar----SUS.NAME
+
+Mangesh Kamtekar----SUS.NAME
+
+Akshay Kamtekar----SUS.NAME
+
+Ramesh Ghag----SUS.NAME
+
+raped----CRIME.CAT
+
+Bengal monitor lizard----SP.SPECIFIC

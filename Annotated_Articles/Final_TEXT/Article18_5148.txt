@@ -1,0 +1,15 @@
+
+['Snake handler captures cobra even after getting bitten. See hair-raising video\nSnake handler Vava Suresh managed to capture a cobra even after being bit by the snake in the Kottayam district of Kerala. Suresh’s dangerous attempt to catch the cobra came to light after a video of the incident surfaced online. After two or three attempts, Suresh on January 31 caught the reptile but it bit him near his right knee. The fearless man pulled off the cobra from his body and as he tried to take a look at the bite he had to let the snake go for a while. While Suresh examined the portion where he was bitten, the snake crawled through the road. People gathered in the area panicked as the snake tried to slither away but Suresh captured it once again. As he put the snake inside a bag, he was seen trying to release the venom from his wound in the video. Watch the video:  Suresh, who is an experienced snake catcher, performed first-aid treatment on himself and was later hospitalised in a critical condition. Officials at the Kottayam Medical College Hospital said Suresh, who was initially on ventilator support, is still critical.']
+
+
+Snake handler----OFF.DESIG
+
+Vava Suresh----OFF.NAME
+
+Kottayam----LOC.DISTRICT
+
+Kerala----LOC.STATE
+
+January 31----DATE
+
+bag----CONCEALMENT_METHOD

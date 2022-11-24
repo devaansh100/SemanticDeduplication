@@ -1,0 +1,37 @@
+
+['Assam: Two elephants deployed in Majuli to chase away rhino\nGuwahati: The forest department has deployed two elephants in Lower Majuli to chase away a rhino that has been terrorising the residents of the area for more than two months. A forest department source said that there had been several attempts to chase away the rhino earlier but the attempts failed every time. The rhino had been terrorising locals for the past months and one person was even killed during an attack by the rhino. Also Read: Assam: Contrabands worth Rs 5 lakh seized in Goalpara To control and chase away the rhino, the forest department finally decided to deploy to train elephants from Kaziranga to chase the rhino back to the Kaziranga National Park. Both the elephants, namely Lakhiprasad and Hariprasad are brothers. They have been specially trained to tackle issues related to rhinos and they are not afraid of wild rhinos. The forest team are hopeful that with the two brothers, they will be able to chase the rhino back to the forest by Saturday. The rhino is being tracked by drones and the locals have been advised to stay away from the locations where the rhino has been spotted. Also Read: Hijab controversy creating by BJP for UP elections: AIUDF MLA Earlier a team of experts reached Majuli to control and rehabilitate the rhino but it too failed. Speaking about the issue, a forest department official said that the rhino has been in the Kerela Chapori area for almost two months. The rhino had also attacked a farmer named Madan Das after both came face to face with one another.']
+
+
+Assam----LOC.STATE
+
+Two----SUS.NUMBER
+
+elephants----SP.COMMON
+
+Majuli----LOC.EXACT
+
+rhino----SP.COMMON
+
+forest department----AUTH.SEIZE
+
+two----QTY
+
+elephants----SP.COMMON
+
+Lower Majuli----LOC.EXACT
+
+rhino----SP.COMMON
+
+Contrabands----ITEM
+
+Rs 5 lakh----VALUE
+
+seized----CRIME.CAT
+
+Goalpara----LOC.EXACT
+
+forest department----AUTH.SEIZE
+
+Lakhiprasad----SUS.NAME
+
+Hariprasad----SUS.NAME

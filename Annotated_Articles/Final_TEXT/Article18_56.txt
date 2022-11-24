@@ -1,0 +1,19 @@
+
+['Rare species of turtle rescued in Phansidewa - Siliguri Times\nPhansidewa, 09th June: A turtle of a rare species was rescued from the Sarkarpara area of \u200b\u200bNirmaljote under Phansidewa block. Today multiple residents saw the turtle and informed the Bagdogra Forest Department. Upon receiving the news, forest personnel reached the spot and rescued it. Meanwhile, a crowd of people gathered in the area to catch a glimpse of the reptile. Facebook Twitter WhatsApp LinkedIn']
+
+
+turtle----SP.COMMON
+
+rescued----CRIME.CAT
+
+Phansidewa----LOC.EXACT
+
+turtle----SP.COMMON
+
+rescued----CRIME.CAT
+
+Sarkarpara area of ​​Nirmaljote under----LOC.EXACT
+
+Today----DATE
+
+Bagdogra Forest Department----AUTH.SEIZE

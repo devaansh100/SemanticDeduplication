@@ -1,0 +1,27 @@
+
+['Mumbai: Activists reunite six puppies with mother dog at Vasai\nMUMBAI: Six puppies , who were barely a month old, were recently separated from a lactating mother dog inside a Vasai-based housing society in Mumbai area and secretly dumped in a wild bushy area about a kilometer away by certain animal haters, leading to tense moments for those who are regularly taking care of the pups and the female dog.However, animal rights activists who rushed to the spot managed to rescue all the six pups from the bush and reunited them with their mother within a span of 18 hours. An FIR was also lodged at the Manikpur police station against the society watchman and two others on charges of animal cruelty."I received a call on October 16 from a local animal feeder, Vanessa Vaz, who was very worried as six puppies who were totally dependent on their mother, were missing overnight from the Niharika Apartment Society in Vasai (west). On checking certain CCTV footages and by talking to local residents we found out that the society watchman had purposely dislocated the puppies, as he had been told by two others to do so. We started checking all the outside areas, including drains, pavements and garbage dumps to search for these missing pups. Finally, after 18 hours of them going missing, our volunteers found them huddled together inside a bushy area. We carefully removed them and brought them back to the housing society," said Mitesh Jain, the honorary district animal welfare officer (AWBI) Mumbai.He also lodged an FIR against the three accused. "It was a very happy sight to see how the month-old puppies immediately recognized their mother and started feeding on her milk. All the animal lovers were relieved; however, we are concerned about the negative sentiments that some of the society members have against local community animals here. That is why we had to lodge a police complaint."The Manikpur police said that the FIR was lodged against watchman, Vinod Dhakal, and two other local residents under IPC sections 428 and 34, along with section 11 of the Prevention of Cruelty to Animals Act, 1960. Investigating officer (IO) Suresh Jadhav is further inquiring into this animal cruelty case."The law with regards to animal cruelty is very weak, which is why the offenders easily get bailed out. Even in worst cases of animal cruelty, including killing of mute animals, the accused easily get bail. Hence, the PCA law must also be strengthened," said Jain.Another animal activist, Ganesh Nayak, commented: "I have come to know that a Kandivali-based housing society is also against the presence of 5 puppies and mother dog inside their complex. This is very worrisome, and hopefully the law enforcers will have to intervene there too."The activists have reiterated that animal feeders have the right to feed local community dogs, cats, on the ground of compassion.']
+
+
+six----QTY
+
+puppies----SP.COMMON
+
+Vasai----LOC.CITY
+
+Six----QTY
+
+puppies----SP.COMMON
+
+animal rights activists----AUTH.MISC
+
+six----QTY
+
+pups----SP.COMMON
+
+society watchman----SUS.AFFIL
+
+call----DETECTION_METHOD
+
+watchman----SUS.AFFIL
+
+Vinod Dhakal----SUS.NAME

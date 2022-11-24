@@ -1,0 +1,25 @@
+
+['Elderly man accused of raping stray dog in Rajasthan\'s Bharatpur\nIndia Elderly man accused of raping stray dog in Rajasthan\'s Bharatpur Elderly man accused of raping stray dog in Rajasthan\'s Bharatpur Written by Abhishek Hari Jun 24, 2022, 04:11 pm 2 min read After being transported to the veterinary clinic with injuries, it was determined that the dog had been sexually assaulted. A senior citizen is suspected of raping a female stray dog in Bharatpur district of Rajasthan. The elderly man allegedly repeatedly sexually assaulted the female dog, according to Kavita Singh, a member of the district\'s animal cruelty prevention committee, who filed a complaint with District Superintendent of Police, Shyam Singh. The Rajasthan police are investigating the case. Details Dog found lying unconscious in pool of blood The locals have identified Champalal Gupta as the accused. The matter was brought to light when citizens of the Housing Board Colony in the vicinity of the Mathura Gate police station discovered the dog lying unconscious in a pool of blood. After being transported to the veterinary clinic with injuries, it was determined that the dog had been sexually harassed. Police Act punishable under Section 377 The District Superintendent of Police has been notified of the complaint, and the dog is currently receiving treatment. Such acts are punishable under Section 377 of the Indian Penal Code (IPC), which makes having carnal relations with an animal a crime punishable by a life sentence in prison, and section 11 of the Prevention of Cruelty to Animals (PCA) Act, 1960. Quote Violent people start by abusing animals, and then humans: PETA "Violent people often start by abusing animals and then move on to targeting human victims. Therefore, this case should worry everyone," Kabir Bhanu Das, emergency response assistant for People for the Ethical Treatment of Animals (PETA) India, earlier stated, referring to another dog rape case. Information PETA India advocates stronger penalties for cruelty to animals PETA India has submitted a request to the Central Government requesting that the Prevention of Cruelty to Animals Act (PCA) be amended to include bestiality as a cognizable offense and that the existing penalties for animal abuse should be increased.']
+
+
+man----SUS.GENDER
+
+raping----CRIME.CAT
+
+stray dog----SP.COMMON
+
+Bharatpur----LOC.CITY
+
+stray dog----SP.COMMON
+
+stray dog----SP.COMMON
+
+raping----CRIME.CAT
+
+Bharatpur district----LOC.DISTRICT
+
+Shyam Singh. The Rajasthan police are investigating the case----OFF.NAME
+
+Dog----SP.COMMON
+
+Champalal Gupta----SUS.NAME

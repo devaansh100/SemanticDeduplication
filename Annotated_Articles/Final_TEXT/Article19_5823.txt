@@ -1,0 +1,23 @@
+
+["[VIDEO] 10-feet python coils around man’s neck in Kerala, villagers come to his rescue\n[VIDEO] 10-feet python coils around man’s neck in Kerala | Photo Credit: ANI Key Highlights Although there were 55 workers present at the scene, many hesitated to offer help due to the sheer size of the snake But when some workers noticed the python tightening its grip around Nair’s neck, they rushed to his rescue and managed to pull it off Last month, a video showing a snake latching on to a man's head after he blows at the reptile terrified thousands of netizens. The snake can be seen snapping at the man suddenly and latching onto his head. The video ends as the man tries to free himself from the reptile's grip. The clip has been viewed over 1.1 million times and has received more than 7,800 shares. In a similar incident, a 58-year-old man from Kerala was lucky to be alive after a 10-feet python coiled around his neck. He was rescued by the villagers in the nick of time. According to reports, the incident happened on Tuesday when Bhuvachandran Nair was cutting off bushes at a college campus in Thiruvananthapuram along with a few other workers. While working, Nair noticed spotted something that resembled a long cloth. But when he went closer to clear the ‘harmless cloth’, he realised it was a 10-feet-long python. Nair immediately called on his fellow workers and the team decided to capture the snake. But the moment Nair tried to put it inside a sack, it crawled up his body and coiled itself around his neck. Watch video: Although there were 55 workers present at the scene, many hesitated to offer help due to the sheer size of the snake. But when some workers noticed the python tightening its grip around Nair’s neck, they rushed to his rescue and managed to pull it off. Nair began to cough by the time the workers came forward. After the snake was pulled off Nair’s neck, it was put inside a sack and handed over to the forest officials, who later released the reptile into a forest area. Nair was taken to a hospital after he complained of neck pain. Luckily, he did not sustain any serious injury."]
+
+
+10-feet----QTY
+
+python----SP.COMMON
+
+Kerala----LOC.STATE
+
+10-feet----QTY
+
+python----SP.COMMON
+
+Kerala----LOC.STATE
+
+Tuesday----DATE
+
+python----SP.COMMON
+
+sack----CONCEALMENT_METHOD
+
+sack----CONCEALMENT_METHOD

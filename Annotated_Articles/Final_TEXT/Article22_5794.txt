@@ -1,0 +1,21 @@
+
+['Madhya Pradesh: Beheaded tiger carcass found floating in Balaghat dam\nBHOPAL: Decomposed and mutilated carcass of a tiger was found in the canal of Rajiv Sagar Dam in Balaghat district of Madhya Pradesh . It was spotted floating in Sitapathor, about 25 km from the district headquarters with head, claws and canine missing.India lost 39 tigers in the first four months of this year, which includes 14 in MP. Two deaths were reported from Panna last week.“Balaghat territorial forest is having more than 40 tigers but it has become heaven for poachers .no action against incompetent officers is root cause” says Ajay Dubey, environmentalist and wildlife activist.Forest department disposed of the carcass after autopsy in compliance with NTCA guidelines. Sources say that it’s a case of poaching.Forensic experts from Pench and local area were sent for collection of samples. Officers of Forest Development Corporation of the Forest Department are investigating this case.Teams have been dispatched in surrounding regions for suspects. Dog squads were sent to the area for search, but no clues were found. A few people are being questioned on suspicion of poaching.Its stripes could not be matched with any of the big cats in the data base available with Pench and Kanha tiger reserves, sources said.Pictures are being shared with Maharashtra and WII-Dehradun for further verification.In 2021, a sub-adult tigress was found under mysterious circumstances in the same region. Carcass of tigress was seen floating in Rajiv Gandhi irrigation canal near Waraseoni thehsil’s Khadagpur village (Ansira gram panchayat) which is roughly 20 kms away from the Maharashtra border, officials informed.WWF-India had been working on multiplying the tiger population in Balaghat for long- they call it a tiger recovery site or TX2 site. Target was to double up the number of tiger population in this region by 2020.Balaghat tiger recovery site is situated in the biodiverse Maikal hills, comprising 963 km2 of forests. It is strategically located in the corridor regions connecting several source population sites, including Kanha and Pench Tiger Reserves in Madhya Pradesh with protected areas of low tiger densities such as Achanakmar Tiger Reserve in Chhattisgarh and Navegaon-Nagzira Tiger Reserve in Maharashtra, says a report titled “The Balaghat Tx2 Recovery Site: Status of Tigers and Conservation Assessment (2014-2017)”.']
+
+
+Madhya Pradesh----LOC.STATE
+
+Beheaded----ITEM
+
+tiger----SP.COMMON
+
+carcass----ITEM
+
+Balaghat dam----LOC.EXACT
+
+carcass----ITEM
+
+tiger----SP.COMMON
+
+Balaghat----LOC.DISTRICT
+
+Madhya Pradesh----LOC.STATE

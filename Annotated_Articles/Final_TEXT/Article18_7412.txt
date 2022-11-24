@@ -1,0 +1,115 @@
+
+['Pigeon racing foiled: seven nabbed, 521 birds rescued in Andhra- The New Indian Express\nBy Express News Service NELLORE: Naidupeta police foiled an event of pigeon racing conducted by a group of seven people. They rescued 521 pigeons kept in 27 plastic boxes, and arrested the seven men at Biravada junction in Naidupeta mandal on Monday.The accused have been identified as A Philips (48), P Venkatesan (46), Raj Mohan (28), A Francis (29), Srinviasan Ramesh (39), M Marthand (52), Chandrababu Balaji (28). The gang was from Tamil Nadu. According to circle inspector YV Somaiah, A Philips from Tiruchirapalli in Tamil Nadu had been conducting pigeon racing events and getting huge profits through betting. “Pigeons are trained to return to their place of rearing to participate in the racing. Tags are tied to their legs so as to easily identify their owners. The birds are transported to Tada, Naidupeta and Gudur through trucks. They are then released from these regions as part of the racing. The pigeons which reach Tiruchirapally are announced as the winner and the owner of the birds are awarded with a cash prize. Usually, the racing events are conducted in winters, in the months of January and February,” said the CI. Philips, the main accused, had handed over the pigeons to P Venkatesan, the driver of the truck. Venkatesan then along with five others reached Biravada junction road (National Highway-71) in Naidupeta on February 6. The accused reportedly used fake documents to transport the pigeons. NELLORE: Naidupeta police foiled an event of pigeon racing conducted by a group of seven people. They rescued 521 pigeons kept in 27 plastic boxes, and arrested the seven men at Biravada junction in Naidupeta mandal on Monday.The accused have been identified as A Philips (48), P Venkatesan (46), Raj Mohan (28), A Francis (29), Srinviasan Ramesh (39), M Marthand (52), Chandrababu Balaji (28). The gang was from Tamil Nadu. According to circle inspector YV Somaiah, A Philips from Tiruchirapalli in Tamil Nadu had been conducting pigeon racing events and getting huge profits through betting. “Pigeons are trained to return to their place of rearing to participate in the racing. Tags are tied to their legs so as to easily identify their owners. The birds are transported to Tada, Naidupeta and Gudur through trucks. They are then released from these regions as part of the racing. The pigeons which reach Tiruchirapally are announced as the winner and the owner of the birds are awarded with a cash prize. Usually, the racing events are conducted in winters, in the months of January and February,” said the CI. Philips, the main accused, had handed over the pigeons to P Venkatesan, the driver of the truck. Venkatesan then along with five others reached Biravada junction road (National Highway-71) in Naidupeta on February 6. The accused reportedly used fake documents to transport the pigeons.']
+
+
+Pigeon----SP.COMMON
+
+seven----SUS.NUMBER
+
+521----QTY
+
+birds----SP.COMMON
+
+rescued----CRIME.CAT
+
+Andhra-----LOC.DISTRICT
+
+police----AUTH.SEIZE
+
+seven----SUS.NUMBER
+
+521----QTY
+
+pigeons----SP.COMMON
+
+27 plastic boxes----CONCEALMENT_METHOD
+
+seven----SUS.NUMBER
+
+men----SUS.GENDER
+
+Biravada junction in Naidupeta mandal----LOC.EXACT
+
+Monday.The----DATE
+
+A Philips----SUS.NAME
+
+48----SUS.AGE
+
+P Venkatesan----SUS.NAME
+
+46----SUS.AGE
+
+Raj Mohan----SUS.NAME
+
+28----SUS.AGE
+
+A Francis----SUS.NAME
+
+29----SUS.AGE
+
+Srinviasan Ramesh----SUS.NAME
+
+39----SUS.AGE
+
+M Marthand----SUS.NAME
+
+52----SUS.AGE
+
+Chandrababu Balaji----SUS.NAME
+
+28----SUS.AGE
+
+Tamil Nadu----SUS.LOC
+
+P Venkatesan----SUS.NAME
+
+February 6----DATE
+
+pigeon----SP.COMMON
+
+seven people----SUS.NUMBER
+
+521----QTY
+
+pigeons----SP.COMMON
+
+plastic boxes----CONCEALMENT_METHOD
+
+seven----SUS.NUMBER
+
+men----SUS.GENDER
+
+Biravada junction in Naidupeta mandal----LOC.EXACT
+
+Monday.The----DATE
+
+A Philips----SUS.NAME
+
+48----SUS.AGE
+
+P Venkatesan----SUS.NAME
+
+46----SUS.AGE
+
+Raj Mohan----SUS.NAME
+
+28----SUS.AGE
+
+A Francis----SUS.NAME
+
+29----SUS.AGE
+
+Srinviasan Ramesh----SUS.NAME
+
+39----SUS.AGE
+
+M Marthand----SUS.NAME
+
+52----SUS.AGE
+
+Chandrababu Balaji----SUS.NAME
+
+28----SUS.AGE
+
+P Venkatesan----SUS.NAME

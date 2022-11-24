@@ -1,0 +1,45 @@
+
+["Trio arrested for poaching monitor lizards\nPUDUKOTTAI The Forest Department has arrested three persons on the charge of poaching a couple of monitor lizards and consumed it's meat after killing the animals at Kathanviduthi village in Karambakudi taluk in the district. The crime came to light after the three accused - Prabhu (21), Suri (22) and Ramesh (25) uploaded a video clip of the capture of the monitor lizards in Tik Tok which went viral in the social media platforms. Based on the video clips, Forest Department officials conducted enquiries and caught the trio who confessed not only to have poached the monitor lizards, but also killed the animals and consumed the meat. The Forest Department arrested the three accused on Thursday and remanded them. A Forest Department official said monitor lizard was a Schedule - I animal. A case under the Wildlife Protection Act, 1972 has been booked against the accused."]
+
+
+Trio----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+poaching----CRIME.CAT
+
+monitor lizards----SP.COMMON
+
+Forest Department----AUTH.SEIZE
+
+arrested----CRIME.CAT
+
+three----SUS.NUMBER
+
+a couple----QTY
+
+monitor lizards----SP.COMMON
+
+meat----ITEM
+
+Kathanviduthi village----LOC.EXACT
+
+Prabhu----SUS.NAME
+
+21----SUS.AGE
+
+Suri----SUS.NAME
+
+22----SUS.AGE
+
+Ramesh----SUS.NAME
+
+25----SUS.AGE
+
+video clip----DETECTION_METHOD
+
+monitor lizards----SP.COMMON
+
+Tik Tok----DETECTION_METHOD
+
+monitor lizards----SP.COMMON

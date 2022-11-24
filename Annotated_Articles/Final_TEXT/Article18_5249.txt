@@ -1,0 +1,21 @@
+
+['Dandeli: Crocodile drags 22-year-old youth into river\nDandeli: Crocodile drags 22-year-old youth into river A A A Team Udayavani, Feb 9, 2022, 9:06 AM IST A crocodile dragged a youth into deep waters in the Kali river in Dandeli town of Uttara Kannada district. The incident occurred at Patel Nagar when Arshad Khan Raichur (22) was having a bath in the river. Arshad’s house is close to the river and he had gone to have a bath after finishing his day’s routine. When the locals saw the crocodile approaching Arshad, they tried to alert him, but he could not hear them, the local police said. “The crocodile dragged him into the waters. The locals tried to rescue him, but in vain,” said Dandeli DySP Ganesh. This is the third incident of crocodiles attacking people over the last one year.']
+
+
+Crocodile----AUTH.SEIZE
+
+22-year-old----SUS.AGE
+
+Crocodile----AUTH.SEIZE
+
+22-year-old----SUS.AGE
+
+crocodile----SP.COMMON
+
+Uttara Kannada district----LOC.DISTRICT
+
+Patel Nagar----LOC.EXACT
+
+Arshad Khan Raichur----SUS.NAME
+
+22----SUS.AGE

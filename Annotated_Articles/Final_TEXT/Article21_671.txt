@@ -1,0 +1,43 @@
+
+['Illegal teakwood, bikes seized in Odisha’s Gajapati district\nMohana: A team from Mohana forest office in Odisha’s Gajapati district seized a total of 11 illegal teakwoods and two bikes at Kirmba village of the district while patrolling on Sunday. According to reports, a team of the forest department which was on a routine patrolling, noticed some people transporting as many as 11 teakwoods. When they approached, the teakwood smugglers ran away from the spot before they could be identified. In the process of fleeing from the site, they abandoned the teakwood and two bikes. The forest officials soon seized the teakwood and bikes from the spot and took them to the Mohana-based forest office. While enquiring about the teakwoods, the forest personnel came to know that the teakwoods were being smuggled to Ganjam district from Mohana area, said sources adding that the approximate worth of the seized teakwood is over Rs 30,000. Later, the forest team filed a complaint at Mohana Police station over the matter. Based on the complaint, cops started an investigation. Sources further said that the police are also inspecting the documents of the seized two-wheelers to identify the owners so that they could get some lead in the case and finally arrest the teakwood smugglers.']
+
+
+teakwood----SP.COMMON
+
+bikes----ITEM
+
+seized----CRIME.CAT
+
+Odisha’s----LOC.STATE
+
+Gajapati----LOC.DISTRICT
+
+Mohana forest office----AUTH.SEIZE
+
+seized----CRIME.CAT
+
+11----QTY
+
+teakwoods----SP.COMMON
+
+two----QTY
+
+bikes----ITEM
+
+Kirmba village----LOC.EXACT
+
+patrolling----DETECTION_METHOD
+
+Sunday----DATE
+
+forest department----AUTH.SEIZE
+
+routine patrolling----DETECTION_METHOD
+
+11----QTY
+
+teakwoods----SP.COMMON
+
+teakwood smugglers----SUS.AFFIL
+
+Ganjam district----ROUTE.SRC

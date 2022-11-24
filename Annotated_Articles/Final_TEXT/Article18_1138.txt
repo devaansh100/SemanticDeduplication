@@ -1,0 +1,37 @@
+
+['Wild elephant separated from herd attacks forest watcher in Coimbatore\nChennai, June 13, 2022- A female wild elephant that got separated from its herd during a drive operation by the Tamil Nadu forest department at Theethipalayam village near Coimbatore, attacked an Anti Poaching Forest watcher on Monday. The condition of the anti-poaching watcher, Mohan (36), according to the forest department officials is stable. The elephant was driven away by the forest department officials and the anti-poaching watchers using firecrackers and suddenly it turned back and pushed the anti-poaching watcher. Other staff members saved him by chasing the elephant away. Anamalai Tiger Reserve (ATR) Field Director S. Balasubramanian said that the condition of the APW was stable and that he was recovering at the Government Medical College, Coimbatore. Forest officials of the Coimbatore Forest Division, along with range officers and anti-poaching watchers, are driving the elephant back into the forest. A senior officer with Coimbatore Forest Division told IANS: “This female elephant was part of a herd of six elephants that strayed into Theethipalayam village on Sunday night. The herd intruded into the agriculture farms and destroyed the crops and also damaged a house on the border of farmland. Five elephants were driven back to the forest while this female elephant got separated and it roamed around Theethipalayam village, Kalamapalayam village, and Annai Velankanni Nagar. The forest department has issued an advisory to the villagers of Theethipalayam and adjoining areas asking them not to venture out of their homes as the elephant was roaming around and said that the forest department is chasing the elephant into the forest using firecrackers and fire. (Agency) Subscribe to YesPunjab Telegram Channel & receive important news updates']
+
+
+Wild elephant----SP.COMMON
+
+attacks----CRIME.CAT
+
+Coimbatore----LOC.DISTRICT
+
+June 13, 2022-----DATE
+
+wild elephant----SP.SPECIFIC
+
+drive operation----DETECTION_METHOD
+
+Tamil Nadu forest department----AUTH.SEIZE
+
+Theethipalayam village near Coimbatore----LOC.EXACT
+
+Anti Poaching Forest watcher----SUS.AFFIL
+
+Monday----DATE
+
+Mohan----SUS.NAME
+
+36----SUS.AGE
+
+Forest officials of the Coimbatore Forest Division----AUTH.SEIZE
+
+range officers----AUTH.SEIZE
+
+anti-poaching watchers----AUTH.SEIZE
+
+Sunday----DATE
+
+night----TIME

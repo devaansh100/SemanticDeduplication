@@ -1,0 +1,50 @@
+
+['Two held in Mysuru with Ambergris worth Rs 2.2cr\nThe Karnataka Police have arrested two persons and seized 2.2 kg ambergris valued around Rs 2.2 crore from them in Mysuru.  According to the statement released by the Mysuru police on Monday, the arrested individuals were identified as Samiulla (44), resident of Mysuru, and Raghavendra (40), of Mandya district. The statement added that the police team arrested the duo on a specific intelligence input when they were trying to sell ambergris, (endangered Sperm whale\'s vomit/faecal matter) in Mysuru. The police added that the police was alerted by a snitch who had overheard the conversation between the arrested duo and two others in a Tea shop, where the four were discussing the use and value of the product they were in possession of. The police added that India being one of the countries in the world that has banned sale or possession of this material (Ambergris) under provisions of forest and environmental acts. "In India, under the Wildlife Protection Act, it is a punishable crime to hunt sperm whales which produce ambergris," the police explained. The police further said that Ambergris has been mostly known for its use in creating perfume and fragrance much like musk and perfumes can still be found with ambergris. "Ambergris has historically been used in food and drink. In India, it costs around Rs 1 crore per kg," the police said. The police has registered a case and is investigating']
+
+
+Two----SUS.NUMBER
+
+Mysuru----LOC.CITY
+
+Ambergris----ITEM
+
+Rs 2.2cr
+----VALUE
+
+Karnataka Police----AUTH.SEIZE
+
+arrested----CRIME.CAT
+
+two----SUS.NUMBER
+
+seized----CRIME.CAT
+
+2.2 kg----QTY
+
+ambergris----ITEM
+
+Rs 2.2 crore----VALUE
+
+Mysuru----LOC.CITY
+
+Samiulla----SUS.NAME
+
+44----SUS.AGE
+
+Mysuru----SUS.LOC
+
+Raghavendra----SUS.NAME
+
+40----SUS.AGE
+
+Mandya district----SUS.LOC
+
+intelligence input----DETECTION_METHOD
+
+ambergris----ITEM
+
+whale's----SP.COMMON
+
+snitch who had overheard the conversation between the arrested duo and two others in a Tea shop----DETECTION_METHOD
+
+registered a case and is investigating----OUTCOME

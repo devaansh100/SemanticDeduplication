@@ -1,0 +1,39 @@
+
+['Video: After Hudkeshwar, Sloth Bear sighted in Wanadongri\nNagpur: Following its first encounter near Outer Ring Road on Friday, the Sloth Bear was reportedly seen in Wanadongri area on Sunday night. In the video captured by the locals, the Sloth Bear was seen roaming in the vicinity. Notably, even though the novel Coronavirus (Covid-19) has curbed the footfalls of tourists across the country; the pandemic, on the contrary, is blooming tourism in Second Capital of the State as yet another tourist from the Forest paid a visit to Nagpur city in the early hours of Friday. Advertisement A Sloth Bear was reportedly sighted near Laddu Ka Dhaba on Outer Ring Road under Hudkeshwar Police Station on Friday night. Some locals reportedly sighted the wild animal who subsequently alerted Hudkeshwar Police Station and Forest Department. Acting swiftly on the inputs, officials of Hudkeshwar Police and Forest Department rushed to the spot. However, their rescue attempt ended in vain and the Sloth Bear managed to vanish in the dark. Advertisement Notably, from Leopard, Tigers to Crocodiles and now Sloth Bear; the tourism of Nagpur is blooming! Advertisement Advertisement Advertisement Advertisement Advertisement Advertisement Advertisement Advertisementss Advertisement Advertisement Advertisement']
+
+
+Sloth Bear----SP.COMMON
+
+Wanadongri----LOC.EXACT
+
+Friday----DATE
+
+Sloth Bear----SP.SPECIFIC
+
+Wanadongri area----LOC.EXACT
+
+Sunday----DATE
+
+night----TIME
+
+Sloth Bear----SP.SPECIFIC
+
+Friday----DATE
+
+Sloth Bear----SP.SPECIFIC
+
+Laddu Ka Dhaba on Outer Ring Road under Hudkeshwar Police Station----LOC.EXACT
+
+Friday----DATE
+
+night----TIME
+
+alerted----DETECTION_METHOD
+
+Forest Department----AUTH.SEIZE
+
+Hudkeshwar Police----AUTH.SEIZE
+
+Forest Department----AUTH.SEIZE
+
+Sloth Bear----SP.SPECIFIC

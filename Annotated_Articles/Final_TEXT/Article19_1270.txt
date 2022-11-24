@@ -1,0 +1,29 @@
+
+["Five wild elephants stuck in pond slush rescued\nKarnataka: Five wild elephants stuck in pond slush, rescued MADIKERI: Five wild elephants , who got stuck in a farm pond in Palangala village near Virajpet, were rescued on Wednesday morning.The panchyderms were stuck in the pond's slush, which is located near the house of a local, since last night.Ranjan Tammaih, a local resident, said out of 5 elephants one is a cub elephant The elephants were rescued after a team stepped up its efforts."]
+
+
+Five----QTY
+
+wild elephants----SP.SPECIFIC
+
+rescued----CRIME.CAT
+
+Karnataka----LOC.STATE
+
+Five----QTY
+
+wild elephants----SP.SPECIFIC
+
+rescued----CRIME.CAT
+
+Five----QTY
+
+wild elephants----SP.SPECIFIC
+
+Palangala village near Virajpet----LOC.EXACT
+
+rescued----CRIME.CAT
+
+Wednesday----DATE
+
+morning.The----TIME

@@ -1,0 +1,39 @@
+
+["Video: Man finds ‘semi-conscious’ lizard in Sagar Ratna meal\nA doctor in Chandigarh found a lizard in his plate of 'chole bhaute' at Sagar Ratna (Image credit: @GurinderCheema1/Twitter) A Chandigarh man reportedly found a “semi-conscious” lizard in his food at a Sagar Ratna outlet in the city, following which a team of food and safety officials visited the restaurant and collected samples for further testing. According to Hindustan Times, a doctor dining at the Sagar Ratna outlet in Nexus Elante Mall, Chandigarh, made the repulsive discovery on Tuesday night. Footage shared on Twitter by his friend shows officials collecting samples from a plate of chole bhature in which the lizard was found. “A live lizard was found in semi-conscious state under the Bhatura,” the Twitter user wrote while sharing the video, terming it a “very horrible” experience.  Had a very horrible experience on 14.6.22, at Sagar Ratan, food court, Elante Mall, Chandigarh. A live Lizard was found in semi-conscious state under the Bhatura. Complaint given to @DgpChdPolice they made sample seized by food health Dept. Chd. @KirronKherBJP@DoctorAjayita pic.twitter.com/ej4sLHrnH5 — Ravi Rai Rana #RWorld (@raviranabjp) June 15, 2022 The Twitter user added that it was his friend who found the lizard while dining at Sagar Ratna , who then complained to the police and Meanwhile, Gurinder Cheema, who found the lizard, also shared a photo of his meal and tagged the police on Twitter. He said he alerted the Chandigarh Police and health department after finding the reptile in his plate of chole bhautre.  Had a very horrible experience on 14.6.22, at Sagar Ratan, food court, Elante Mall, Chandigarh. A live Lizard was found in semi-conscious state under the Bhatura. Complaint given to @DgpChdPolice they made samples seized by food health Dept. Chd.@nagarkoti @Nainamishr94 pic.twitter.com/CTkvsnzTDP — Cheema_22 (@GurinderCheema1) June 15, 2022  “Soon after receiving information, a team of food and safety officials visited the Sagar Ratna outlet and collected samples from the meal in which the lizard was found. The samples have been sent to a food testing lab and reports will arrive in next 15 days. Thereafter, action will be taken as per rules,” an official was quoted as saying by the Hindustan Times. Earlier this month, a McDonald’s outlet in Ahmedabad was fined Rs 1 lakh after a customer found a dead lizard in his drink."]
+
+
+lizard----SP.COMMON
+
+Sagar Ratna meal----LOC.EXACT
+
+doctor----SUS.AFFIL
+
+Chandigarh----LOC.CITY
+
+lizard----SP.COMMON
+
+chole----SP.SPECIFIC
+
+Sagar Ratna----LOC.EXACT
+
+Chandigarh----LOC.CITY
+
+Sagar Ratna outlet----LOC.EXACT
+
+food and safety officials----AUTH.SEIZE
+
+doctor----SUS.AFFIL
+
+Sagar Ratna outlet----LOC.EXACT
+
+Nexus Elante Mall----LOC.EXACT
+
+Tuesday----DATE
+
+night----TIME
+
+Sagar Ratan, food court, Elante Mall----LOC.EXACT
+
+Sagar Ratan----LOC.EXACT
+
+samples have been sent to a food testing lab----OUTCOME

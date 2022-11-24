@@ -1,0 +1,31 @@
+
+['Assam: 3 tiger poachers arrested near Orang National Park\nOrang (Assam) [India], June 8 (ANI): Assam Police and forest officials on Wednesday arrested three tiger poachers near Assam\'s Orang National Park and Tiger Reserve.  The arrested poachers were identified as Azibur Rahman, Hasmat Ali and Mohammad ML.  Pradipta Baruah, DFO of Mangaldai Wildlife Division told ANI, "A few days ago, a carcass of a tiger was found from the premise of arrested poacher Azibur Rahman\'s house.   "We have suspected that a 5-6 members poacher gang had killed the tiger and buried it in Bosa Simalu village near the Orang National Park. Today, we have arrested three of the poacher gang and they were produced before the court. Our operations are on to catch others of the gang," the DFO said.  Orang National Park and Tiger Reserve is home of one-horned rhinoceros and tigers.  In a recent rhino population census, the Orang National Park and Tiger Reserve have recorded a total of 125 numbers of rhinos with an increase of 24 in comparison to the last estimation in 2018. (ANI) ']
+
+
+Assam----LOC.STATE
+
+3----SUS.NUMBER
+
+Orang National Park----LOC.EXACT
+
+Assam Police----AUTH.SEIZE
+
+forest officials----AUTH.SEIZE
+
+Wednesday----DATE
+
+three----SUS.NUMBER
+
+Orang National Park and Tiger Reserve----LOC.EXACT
+
+Azibur Rahman----SUS.NAME
+
+Hasmat Ali----SUS.NAME
+
+Mohammad ML----SUS.NAME
+
+arrested----OUTCOME
+
+three----SUS.NUMBER
+
+poacher gang----SUS.AFFIL

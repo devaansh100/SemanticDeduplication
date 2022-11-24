@@ -1,0 +1,67 @@
+
+['2 held smuggling 137-kg AP red sanders in a car\nRavuri Uma Shanker, 34, a caterer living at Sanathnagar and Chi-rumamilla Ajith Kum-ar, 26, a resident of Tadepalligudem in AP, were arrested after the police found the logs in their car. Hyderabad: Rachakonda Special Operations Team (SOT) personnel arrested two persons from AP and seized 137 kg of red sanders logs that they were smuggling into the state. Ravuri Uma Shanker, 34, a caterer living at Sanathnagar and Chi-rumamilla Ajith Kum-ar, 26, a resident of Tadepalligudem in AP, were arrested after the police found the logs in their car. Rachakonda police said that Shanker had purchased the wood from one Kotesh at Komarolu located in the Nallamala forests between Kadapa and Prakasam districts. “Shanker tried selling the red sanders to strangers. He searched for buyers through Facebook and supplied 450 kg and 230 kg of red sanders to two strangers and got cheated. Then, Shanker decided to develop contacts first and supply the wood,” said a police official on their background. Shanker roped in Ajith Kumar and purchased red sanders at `400 per kg from Kotesh and brought to the city when they were nabbed, according to the police.']
+
+
+2----SUS.NUMBER
+
+smuggling----CRIME.CAT
+
+137-kg----QTY
+
+AP----SP.SPECIFIC
+
+red sanders----SP.COMMON
+
+car----TRANSPORT_MODE
+
+Ravuri Uma Shanker----SUS.NAME
+
+34----SUS.AGE
+
+caterer----SUS.AFFIL
+
+Chi-rumamilla Ajith Kum-ar----SUS.NAME
+
+26----SUS.AGE
+
+Tadepalligudem----SUS.LOC
+
+arrested----CRIME.CAT
+
+car----TRANSPORT_MODE
+
+Special Operations Team (SOT)----AUTH.SEIZE
+
+arrested----CRIME.CAT
+
+two----SUS.NUMBER
+
+AP----SUS.LOC
+
+137 kg----QTY
+
+red sanders----SP.COMMON
+
+logs----ITEM
+
+Ravuri Uma Shanker----SUS.NAME
+
+34----SUS.AGE
+
+caterer----SUS.AFFIL
+
+Sanathnagar----SUS.LOC
+
+Chi-rumamilla----SUS.AFFIL
+
+Ajith Kum-ar----SUS.NAME
+
+26----SUS.AGE
+
+Tadepalligudem----SUS.LOC
+
+arrested----CRIME.CAT
+
+Ajith Kumar----SUS.NAME
+
+red sanders----SP.COMMON

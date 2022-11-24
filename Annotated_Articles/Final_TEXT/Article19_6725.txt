@@ -1,0 +1,29 @@
+
+['Alarming Rise In Gangs Smuggling Pangolins Out Of Odisha\nBhubaneswar/Cuttack: Pangolins being on the verge of extinction is bad enough but the report of 20 of the endangered species being traded only from Athgarh area of Cuttack district has raised an alarm among forest officials and environmentalists. According to sources, the arrested persons allegedly involved in the illegal trade confessed to the crime and revealed that over 50 gangs are currently operating from different areas of Boudh, Nayagarh, Athagarh, Dhenkanal and Angul districts. Forest officials have also come to know that more than 10 pangolins are being held captive and hidden at different places in Athagarh. “Foreign buyers decide to purchase the pangolins only after watching video footages of the animal,” said Athagarh DFO, Sasmita Lenka. “After the buyers give a final nod for the trade, the gang members shove the pangolins in sacks and transport them to Kolkata,” she added. “The accused persons who were arrested on December 2, had taken the pangolins to Kolkata by bus and train. There, they exchanged the pangolins in return for cash from the foreign buyers,” she said. However, December 9, the sellers were not so lucky. They had gone to Bhadrak to deliver the pangolins to a middleman who gave them money when they were arrested. They also admitted that they have been in the business for the past few years. The persons arrested on Tuesday for their alleged involvement in the pangolin racket revealed that they have two more animals in their possession. Though the Wildlife Crime Control Bureau (WCCB) officials will soon arrive at Athagarh for investigation, the question being raised is why the bureau is not conducting simultaneous raids at Angul, Nayagarh and other forest areas. Ten persons who have been arrested from Athagarh in a week will be brought on remand, it was known. However, on October 22, Baripada DFO arrested six members of a gang involved in the illegal trade of pangolin from whom the forest officials seized pangolin scales. Similarly, in November last year, Kolkata forest officials seized pangolin meat from a car following which it was ascertained that it was brought from Odisha. On July 14, 2015, a team comprising WCCB officials from Bhopal conducted a raid in Berhampur from where they recovered the remains of an animal. The team had informed the state authorities that pangolins are being smuggled to other states through Berhampur. Apart from this, many operations were carried out by the police in 2018 to check the illegal trade. As per information received from Kolkata, the price of pangolin scales is about Rs 2,16,000 per kg whereas the price of pangolin meat is more than Rs 22,000 per kg. Even though February 17 is observed as World Pangolin Conservation Day every year, about 5771 pangolins have been smuggled to foreign countries from India between 2009 and 2017, according to a report by an NGO. The same report states that forest officials recovered pangolin scales 83 times out of a total 90 raids conducted during this period. The NGO also claimed that about 5675 kg of pangolin meat was also seized. In this scenario, it seems the state government and the concerned officials have turned a blind eye towards the endangered species. However, if the government takes stringent action against the wrongdoers, pangolin trafficking can be curbed successfully.']
+
+
+Gangs----SUS.AFFIL
+
+Pangolins----SP.COMMON
+
+Odisha----LOC.STATE
+
+Athgarh area----ROUTE.SRC
+
+sacks----CONCEALMENT_METHOD
+
+Kolkata----ROUTE.DEST
+
+Wildlife Crime Control Bureau (WCCB)----AUTH.MISC
+
+raids----CRIME.CAT
+
+Angul----LOC.EXACT
+
+DFO----OFF.DESIG
+
+six----SUS.NUMBER
+
+gang----SUS.AFFIL
+
+WCCB officials----AUTH.SEIZE

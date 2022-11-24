@@ -1,0 +1,51 @@
+
+['Forest dept searches for Kerala tourists over violations at Nagarhole Tiger Reserve- The New Indian Express\nBosky Khanna By Express News Service BENGALURU: Even as the central and state governments are extensively campaigning for Swachh Bharat, usage of public toilets and saving the environment, a group of tourists seemed to have ignored all these. A group of tourists in a Kerala-bound vehicle (KL-58-AA-4049) violated multiple rules. According to Forest Department officials and eye-witness account given to the department, some of the tourists got off the vehicle on the Nagarahole-Kutta Road, passing through Nagarhole Tiger Reserve (NTR), to answer nature’s call. That is not all, when tourists and conservationists objected, the tourists also threatened them of dire consequences. Taking strong objection to the issue, officials from the tiger reserve have launched a search for the accused. Mahesh Kumar, Director, NTR, told The New Indian Express that he was aware of the incident and search for the accused was on. He said that since they have violated multiple norms, apart from imposing a penalty, stern action under Wildlife Protection Act, will be taken. Tusks stolen from BTR A day after the CID forest mobile squad arrested five accused and seized tusks and a vehicle, the sleuths on Saturday confirmed that the tusks were stolen from the Bhadra Tiger Reserve. Based on the confession of the accused, the remains of the elephant were also traced. BENGALURU: Even as the central and state governments are extensively campaigning for Swachh Bharat, usage of public toilets and saving the environment, a group of tourists seemed to have ignored all these. A group of tourists in a Kerala-bound vehicle (KL-58-AA-4049) violated multiple rules. According to Forest Department officials and eye-witness account given to the department, some of the tourists got off the vehicle on the Nagarahole-Kutta Road, passing through Nagarhole Tiger Reserve (NTR), to answer nature’s call. That is not all, when tourists and conservationists objected, the tourists also threatened them of dire consequences. Taking strong objection to the issue, officials from the tiger reserve have launched a search for the accused. Mahesh Kumar, Director, NTR, told The New Indian Express that he was aware of the incident and search for the accused was on. He said that since they have violated multiple norms, apart from imposing a penalty, stern action under Wildlife Protection Act, will be taken. Tusks stolen from BTR A day after the CID forest mobile squad arrested five accused and seized tusks and a vehicle, the sleuths on Saturday confirmed that the tusks were stolen from the Bhadra Tiger Reserve. Based on the confession of the accused, the remains of the elephant were also traced.']
+
+
+Forest dept----AUTH.SEIZE
+
+Kerala tourists----SUS.AFFIL
+
+Nagarhole Tiger Reserve-----LOC.EXACT
+
+vehicle----TRANSPORT_MODE
+
+Tusks----ITEM
+
+stolen----CRIME.CAT
+
+BTR----LOC.EXACT
+
+CID forest mobile squad----AUTH.SEIZE
+
+arrested----CRIME.CAT
+
+five----SUS.NUMBER
+
+tusks----ITEM
+
+a----QTY
+
+vehicle----ITEM
+
+tusks----ITEM
+
+Bhadra Tiger Reserve----ROUTE.SRC
+
+Tusks----ITEM
+
+stolen----CRIME.CAT
+
+BTR----LOC.EXACT
+
+CID forest mobile squad----AUTH.SEIZE
+
+arrested----CRIME.CAT
+
+five----SUS.NUMBER
+
+tusks----ITEM
+
+vehicle----ITEM
+
+Bhadra Tiger Reserve----ROUTE.SRC

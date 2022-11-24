@@ -1,0 +1,11 @@
+
+['WCCB India on Instagram: "On 15-12-2021, Wildlife Crime Control Bureau (WCCB) in association with Maharashtra Forest Department conducted raids at various color traders/ paint shops at Karad, Maharash\n']
+
+
+15-12-2021----DATE
+
+Wildlife Crime Control Bureau (WCCB)----AUTH.SEIZE
+
+Maharashtra Forest Department----AUTH.SEIZE
+
+raids----DETECTION_METHOD

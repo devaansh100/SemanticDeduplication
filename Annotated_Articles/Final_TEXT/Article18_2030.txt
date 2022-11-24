@@ -1,0 +1,27 @@
+
+['Hog deer rescued after being attacked by dogs in Mathura\nA juvenile Indian Hog Deer was rescued by the Wildlife SOS Rapid Response Unit after it was chased by feral dogs in a textile mill compound located in Chhata (Mathura). The animal has sustained minor injuries on both the hind limbs and is currently under medical treatment and care at the Wildlife SOS transit facility. The Wildlife SOS rapid response unit received a call on their helpline from the Mathura Forest Department about a hog deer in need of medical aid. The deer was injured by a pack of feral dogs. The staff at the textile mill saved the animal from the attack and immediately reported the incident to the forest department who later contacted Wildlife SOS for assistance. The Wildlife SOS Rapid Response Unit rushed to the location and carefully loaded the traumatized animal in a safe transport cage so it could be taken to the NGO’s transit facility for treatment. Dr Ilayaraja, deputy director for veterinary services, Wildlife SOS, said, “The hog deer is a juvenile male and he has sustained superficial injuries on both the hind limbs. The animal is under immense stress and is currently receiving medical treatment.” Kartick Satyanarayan, Co-founder & CEO of Wildlife SOS said, “The Indian Hog Deer is an endangered species that has lost a large part of its population over the last few decades. This species gets its name from the hog-like way it runs through the forests with the head hung low instead of leaping like other deer species.” Meghraj Sharma, range forest officer, Kosi Kalan Range, Mathura, said, “As soon as we received information about the deer, we immediately deployed our team to the location to assess the situation. In the past, we have had similar cases of deer and Nilgai falling victim to feral dogs, therefore we immediately contacted Wildlife SOS for their medical assistance.” Following this, the Wildlife SOS rapid response unit also rescued a five-foot long Black-Headed Royal snake from the bathroom of a house in Tedi Bagiya, Ram Bagh and a wolf snake from the water tank inside Dayal Bagh Educational Institute (DEI) premises.']
+
+
+Hog----SP.SPECIFIC
+
+deer----SP.COMMON
+
+rescued----CRIME.CAT
+
+Mathura----LOC.DISTRICT
+
+Indian Hog----SP.SPECIFIC
+
+Wildlife SOS Rapid Response Unit----AUTH.SEIZE
+
+hog deer----SP.SPECIFIC
+
+information----DETECTION_METHOD
+
+Black-Headed Royal snake----SP.SPECIFIC
+
+Tedi Bagiya----LOC.EXACT
+
+Ram Bagh----LOC.EXACT
+
+wolf snake----SP.COMMON

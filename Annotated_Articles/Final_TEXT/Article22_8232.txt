@@ -1,0 +1,41 @@
+
+['Man Arrested In Goa For Stealing Puppy With Intention To ‘Eat Its Meat’\nMan Arrested In Goa For Stealing Puppy With Intention To ‘Eat Its Meat’ Mumbai: A man from Assam was arrested in Goa on Thursday for allegedly stealing a puppy. The complainant alleged that the accused had stolen the puppy with the intention to eat its meat as it was found in suffocated condition in a plastic bag. A pet lover who narrated the incident has alleged that the accused person was taking the puppy for food as he was found in a suffocating condition in a plastic bag. “After receiving a complaint from a local person, we have arrested him under section 41 of CrPC. We are probing the matter,” a police officer told IANS. The incident took place under the jurisdiction of Verna police station in South Goa, reported by a local man, a pet lover, who found that the accused man was carrying this puppy in a plastic bag. Sonowal, who worked as a security guard in a residential complex, had initially said that he was asked to bring the puppy by one of the family members living on the premises. However, when the complainant along with the police visited them (family), they rejected the claim of the accused person. Verna police are investigating the case from an angle of whether the accused person had stolen the puppy to eat its meat. Follow us on Twitter, Google News and Instagram, and like us on Facebook for the latest updates and exciting stories.']
+
+
+Man----SUS.GENDER
+
+Arrested----CRIME.CAT
+
+Goa----LOC.STATE
+
+Stealing----CRIME.CAT
+
+Puppy----SP.COMMON
+
+Arrested----CRIME.CAT
+
+Goa----LOC.STATE
+
+Puppy----SP.COMMON
+
+A----SUS.NUMBER
+
+man----SUS.GENDER
+
+Assam----SUS.LOC
+
+Goa----LOC.STATE
+
+Thursday----DATE
+
+stealing----CRIME.CAT
+
+puppy----SP.COMMON
+
+puppy----SP.COMMON
+
+plastic bag----CONCEALMENT_METHOD
+
+plastic bag----CONCEALMENT_METHOD
+
+plastic bag----CONCEALMENT_METHOD

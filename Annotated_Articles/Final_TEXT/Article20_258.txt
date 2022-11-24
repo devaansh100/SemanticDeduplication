@@ -1,0 +1,45 @@
+
+['MP: Wildlife STF arrests two for selling pangolin scales on YouTube\nBHOPAL: The wildlife wing of Madhya Pradesh forest department ’s special task force (STF) on Tuesday arrested two people including a poacher who were selling pangolin scales on Youtube. Accused have been identified as Sher Singh Dhakad , resident of Shivpuri and Vaqil alias Pappu of Rajasthan.Officials have seized 2.7 kg pangolin scales from Dhakad’s possession. He had displayed his mobile number on youtube inviting customers globally. STF sleuths had sent a decoy customer to trap the accused.During interrogation he claimed that he had got the scales from Pappu of Rajasthan. Dhakad was a class 10 topper who, as he says, has worked at bunglows of various Bollywood stars and famous cricket players before he decided to earn money through pangolin scales.This is the 165 th arrest in the country’s biggest ever poaching network cracked by the STF.Pangolin scales which are a rage in China for its aphrodisiac properties is now hot property of party animals in America. A recent Interpol report states that 26% scales of the endangered species are being routed to the US party circuit.While the Chinese fetish for pangolins was well-known and triggered the crackdown on the racket with Myanmar links, the spiralling use of its scales for manufacture of crystal methamphetamine, an ingredient of the party drug popularly known as crystal meth, crank, speed or ice had been giving Madhya Pradesh forest special task force another headache. STF has also approached the narcotics wing of the state police for assistance after the scam kingpin, a Myanmar national, made fresh revelations.Scales contain Tramadol HCL, which is a substance binder particle found in psychotropic drugs like methamphetamine and this makes pangolin the most smuggled wild animal on earth, said STF sources.The ant-eating mammal with armour of keratin scales has been listed under Schedule 1 of Indian Wildlife (Protection) Act, 1972 and International Union for Conservation of Nature (IUCN) as an endangered species. Experts said, “If poaching continues, pangolin could face extinction.”']
+
+
+Wildlife STF----AUTH.SEIZE
+
+two----SUS.NUMBER
+
+selling----CRIME.CAT
+
+pangolin----SP.COMMON
+
+scales----ITEM
+
+YouTube----DETECTION_METHOD
+
+special task force----AUTH.SEIZE
+
+Tuesday----DATE
+
+two----SUS.NUMBER
+
+pangolin----SP.COMMON
+
+scales----ITEM
+
+Youtube----DETECTION_METHOD
+
+Sher Singh Dhakad----SUS.NAME
+
+Shivpuri----SUS.LOC
+
+Vaqil alias Pappu----SUS.NAME
+
+2.7 kg----QTY
+
+pangolin scales----ITEM
+
+scales----ITEM
+
+Pappu----SUS.NAME
+
+Rajasthan----SUS.LOC
+
+narcotics wing----AUTH.MISC

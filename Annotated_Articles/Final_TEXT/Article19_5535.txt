@@ -1,0 +1,67 @@
+
+['Four arrested with five venomous snakes\nThe men were arrested for illegal possession of the snakes, protected under Schedule II of the Wildlife (Protection) Act, 1972. They allegedly told forest officials that they had caught the snakes to sell them to snake charmers. Five monocled cobras, known for their highly toxic venom and O-shaped hood, were found in possession of four men in Patharpratima in South 24-Parganas on Monday. But the officials suspect the men could be part of a racket that deals in snake venom, a popular recreational drug. “Apart from five monocled cobras, iron sticks, a dagger and glass containers were also seized from the men. The tools are used for removing the fangs of the snake and collecting the venom,” said a forest official. A team of forest officials raided a house in the Madhabnagar area of Pathapratima on Monday night. The arrested men have been identified as Firoz Mal, Nil Kumar Mal, Mithu Mal and Tapas Mal. Firoz hails from Nadia, Nil Kumar from Birbhum and Tapas and Mithu from Murshidabad. “They had rented a house in the area. They have admitted to catching snakes from the Sunderbans,” said the forest official. The monocled cobra (Naja kaouthia) is a highly venomous snake native to South and Southeast Asia. The snakes prefer living close to water, in swamps and mangroves. The snakes get their name from the O-shaped hood pattern, also called the monocellate hood pattern. “The monocled cobra’s venom is one of the fastest acting snake venoms in the world. Its venom, which has different potency depending on where the snake is found, can cause death within an hour of envenomation. The neurotoxins in its venom leads to drowsiness, neurological problems and muscle issues,” according to the Reptiles Magazine. A local court allowed the forest department seven days’ custody of the arrested men for further interrogation. Snake charming is illegal under Indian law. “The fangs are removed before snakes are sold to charmers, who starve the reptiles. The snakes can survive for thee to four months without food,” said Suvrajyoti Chatterjee, the secretary of the Human and Environment Alliance League, an NGO that works for animals. The forest department will seek the help of a snake expert to assess the condition of the snakes rescued. “If the glands are intact, there is a chance of the fangs growing back. We can then take a call on releasing them back into the wild, ” said a forest official.']
+
+
+Four----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+five----QTY
+
+arrested----CRIME.CAT
+
+Five----QTY
+
+four----SUS.NUMBER
+
+Patharpratima----LOC.EXACT
+
+Monday----DATE
+
+racket----SUS.AFFIL
+
+five----QTY
+
+iron sticks----ITEM
+
+a----QTY
+
+dagger----ITEM
+
+glass containers----ITEM
+
+men----SUS.GENDER
+
+forest officials----AUTH.SEIZE
+
+Madhabnagar area of Pathapratima on----LOC.EXACT
+
+Monday----DATE
+
+night----TIME
+
+men----SUS.GENDER
+
+Firoz Mal----SUS.NAME
+
+Nil Kumar Mal----SUS.NAME
+
+Mithu Mal----SUS.NAME
+
+Tapas Mal----SUS.NAME
+
+Firoz----SUS.NAME
+
+Nadia----SUS.LOC
+
+Nil Kumar----SUS.NAME
+
+Birbhum----SUS.LOC
+
+Tapas----SUS.NAME
+
+Mithu----SUS.NAME
+
+Murshidabad----SUS.LOC
+
+local court allowed the forest department seven days’ custody----OUTCOME

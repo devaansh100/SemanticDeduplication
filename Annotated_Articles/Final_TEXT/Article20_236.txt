@@ -1,0 +1,93 @@
+
+['Turtle smuggling racket busted, two arrested in Odisha\nBy Express News Service MALKANGIRI: Forest officials of Motu Range on Thursday busted an inter-State turtle smuggling racket and arrested four persons from MPV-83 and MPV-42 within MV-79 police limits. As many as 43 live Indian softshell turtles were recovered from their possession. Acting on a tip-off, a team of Motu Forest Range officials rushed to the villages and arrested the smugglers who were selling the turtles in the local market at Rs 500 per kg, said Forest Ranger Balaram Nayak. The smugglers were identified Biswa Sil and Balai Sarkar of MV-96 and Sagar Mallick and Bipul Mirdha of MPV-65. Two motorcycles were also seized from them. A local smuggler of MPV-65, who is the kingpin of the racket, had brought the live turtles from Kakinada in Andhra Pradesh. Sources said smuggling of the reptiles from AP has become rampant in MV-79 area. The smugglers supply the turtles to hotels and markets in the district. The kingpin is yet to be arrested. Nayak said the seized turtles would be released into Satiguda reservoir. A case has been registered under Wild Life (Protection) Act, 1972. Efforts are on to find out the other accused involved in the racket, he added. MALKANGIRI: Forest officials of Motu Range on Thursday busted an inter-State turtle smuggling racket and arrested four persons from MPV-83 and MPV-42 within MV-79 police limits. As many as 43 live Indian softshell turtles were recovered from their possession. Acting on a tip-off, a team of Motu Forest Range officials rushed to the villages and arrested the smugglers who were selling the turtles in the local market at Rs 500 per kg, said Forest Ranger Balaram Nayak. The smugglers were identified Biswa Sil and Balai Sarkar of MV-96 and Sagar Mallick and Bipul Mirdha of MPV-65. Two motorcycles were also seized from them. A local smuggler of MPV-65, who is the kingpin of the racket, had brought the live turtles from Kakinada in Andhra Pradesh. Sources said smuggling of the reptiles from AP has become rampant in MV-79 area. The smugglers supply the turtles to hotels and markets in the district. The kingpin is yet to be arrested. Nayak said the seized turtles would be released into Satiguda reservoir. A case has been registered under Wild Life (Protection) Act, 1972. Efforts are on to find out the other accused involved in the racket, he added.']
+
+
+Turtle----SP.COMMON
+
+busted----CRIME.CAT
+
+two----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+Odisha----LOC.STATE
+
+Forest officials of Motu Range----AUTH.SEIZE
+
+Thursday----DATE
+
+busted----CRIME.CAT
+
+turtle----SP.COMMON
+
+arrested----CRIME.CAT
+
+four----SUS.NUMBER
+
+MPV-83 and MPV-42 within MV-79 police limits----LOC.EXACT
+
+43----QTY
+
+Indian softshell turtles----SP.SPECIFIC
+
+tip-off----DETECTION_METHOD
+
+Motu Forest Range officials----AUTH.SEIZE
+
+Rs 500 per kg----VALUE
+
+Biswa Sil----SUS.NAME
+
+Balai Sarkar----SUS.NAME
+
+MV-96 and----SUS.LOC
+
+Sagar Mallick----SUS.NAME
+
+Bipul Mirdha----SUS.NAME
+
+MPV-65.----SUS.LOC
+
+Two----QTY
+
+motorcycles----ITEM
+
+Kakinada in Andhra Pradesh----ROUTE.SRC
+
+Forest officials of Motu Range----AUTH.SEIZE
+
+Thursday----DATE
+
+turtle----SP.COMMON
+
+four----SUS.NUMBER
+
+43----QTY
+
+Indian softshell turtles----SP.SPECIFIC
+
+tip-off----DETECTION_METHOD
+
+Motu Forest Range----AUTH.SEIZE
+
+Rs 500 per kg----VALUE
+
+Biswa Sil----SUS.NAME
+
+Balai Sarkar----SUS.NAME
+
+MV-96 and----SUS.LOC
+
+Sagar Mallick----SUS.NAME
+
+Bipul Mirdha----SUS.NAME
+
+MPV-65.----SUS.LOC
+
+Two----QTY
+
+motorcycles----ITEM
+
+Kakinada in Andhra Pradesh.----ROUTE.SRC
+
+case has been registered under Wild Life (Protection) Act, 1972----OUTCOME

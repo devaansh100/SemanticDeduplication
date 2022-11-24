@@ -1,0 +1,49 @@
+
+['Police seize 67 kg pangolin scales in Davangere, nab 18 persons\nDavangere police nabbed 18 inter-district thieves and confiscated 67 kg pangolin scales on charges of transporting them and violating the norms. Pangolins are believed to be the world\'s most trafficked mammal, accounting for as much as 20% of all illegal wildlife trade. Acting on a tip-off, the police team led by DySP B S Basavaraju rushed towards Shiva Basava daba on Harihar-Shivamogga road seized two vans, a car used to transport them. A case has been registered against them under The Wild Life (Protection) Act, 1972. They had been remanded in judicial custody. Police sources stated that pangolins are trafficked by poachers all over the world due to their highly coveted scales which are used in traditional Chinese medicine. "This illegal trade makes them vulnerable to extinction." Check out latest videos from DH:']
+
+
+Police----AUTH.SEIZE
+
+seize----CRIME.CAT
+
+67 kg----QTY
+
+pangolin----SP.COMMON
+
+scales----ITEM
+
+Davangere----LOC.EXACT
+
+nab----CRIME.CAT
+
+18----SUS.NUMBER
+
+police----AUTH.SEIZE
+
+nabbed----CRIME.CAT
+
+18----SUS.NUMBER
+
+inter-district thieves----SUS.AFFIL
+
+67 kg----QTY
+
+pangolin----SP.COMMON
+
+scales----ITEM
+
+tip-off----DETECTION_METHOD
+
+DySP----OFF.DESIG
+
+B S Basavaraju----OFF.NAME
+
+two----QTY
+
+vans----ITEM
+
+a----QTY
+
+car----ITEM
+
+case has been registered against them----OUTCOME

@@ -1,0 +1,69 @@
+
+['Poacher With Leopard Skin Held In Kandhamal\nPhulbani: Forest officials on Thursday arrested a poacher and seized a leopard skin along with its nails, bones, and other items from his possession in Sudrukumpa range under Phulbani Forest Division in Kandhamal district. Reportedly, the accused identified as Kabi Chandra Kanhar of Kutibari village had killed a leopard in the nearby forest recently. He had skinned the leopard and hid the animal’s skin, nails, and bones in the forest. He had planned to sell it but the forest officials received a tip-off and raided the area. The leopard skin and other items were found hidden on a tree in the forest. A gun, nine live bullets, gunpowder, and one axe were also seized from his possession.']
+
+
+Poacher----SUS.AFFIL
+
+Leopard----SP.COMMON
+
+Skin----ITEM
+
+Kandhamal----LOC.DISTRICT
+
+Forest officials----AUTH.SEIZE
+
+Thursday----DATE
+
+arrested----CRIME.CAT
+
+seized----CRIME.CAT
+
+a----QTY
+
+leopard----SP.COMMON
+
+skin----ITEM
+
+nails----ITEM
+
+bones----ITEM
+
+Sudrukumpa range under Phulbani Forest Division----LOC.DISTRICT
+
+Kandhamal----LOC.DISTRICT
+
+Kabi Chandra Kanhar----SUS.NAME
+
+Kutibari village----SUS.LOC
+
+killed a leopard----CRIME.CAT
+
+leopard----SP.COMMON
+
+skin----ITEM
+
+nails----ITEM
+
+bones----ITEM
+
+tip-off----DETECTION_METHOD
+
+raided----DETECTION_METHOD
+
+leopard----SP.COMMON
+
+skin----ITEM
+
+A----QTY
+
+gun----ITEM
+
+nine----QTY
+
+live bullets----ITEM
+
+gunpowder----ITEM
+
+one----QTY
+
+axe----ITEM

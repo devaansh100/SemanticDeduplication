@@ -1,0 +1,67 @@
+
+['62 rose-ringed parakeets rescued from east Delhi\nThe Delhi forest department along with the help of local police has rescued 62 rose-ringed parakeets that were being smuggled and three snakes that were held captive, over the past two days, said officials. According to officials, the parakeets being carried in bags were rescued from east Delhi’s Mandawali area on Monday. “The local police found two men carrying bags full of parakeets in the area on Monday evening. The two men were arrested for smuggling the parakeets in order to sell them at the bird market better known as ‘kabootar market’, mostly indulging in illegal trade, near the Red Fort in Old Delhi. The parakeets were rescued and released in their natural habitat,” said Aditya Madanpotra, deputy conservator of forests (DCF), central division. He added that though these parakeets are common in forests and wooded areas, they are not commonly seen in residential colonies or other inhabited areas. Rose-ringed parakeets are protected under schedule -IV of the Wildlife Protection Act, 1972. The smugglers have been booked by the police as well as by the forest department under relevant sections of the Act. Forest officials said that three snakes have also been rescued from snake charmers. A red sand boa and a common sand boa each were also rescued from north Delhi’s Indira Colony, Mukherjee Nagar on Monday. Also, an Indian cobra was rescued from another snake charmer on Tuesday. “The local police have arrested two men in the case. While the sand boas are non-venomous snakes, the Indian cobra is one of the most poisonous snakes found in the country. The snake charmers community trades these snakes amongst themselves and even uses them for robbing people by scaring them of the snake,” the DCF said. Besides, another red sand boa snake was rescued from a park in east Delhi’s Seelampur. “The snake has been rehabilitated. I appeal to people to not panic if they do come across a snake in a public place and ring up the police or the wildlife department. People panicking around stresses the animal and makes it difficult for it to be rescued,” he said. SHARE THIS ARTICLE ON']
+
+
+62----QTY
+
+rose-ringed parakeets----SP.SPECIFIC
+
+rescued----CRIME.CAT
+
+Delhi forest department----AUTH.SEIZE
+
+local police----AUTH.SEIZE
+
+62----QTY
+
+rose-ringed parakeets----SP.SPECIFIC
+
+three----QTY
+
+snakes----SP.COMMON
+
+parakeets----SP.COMMON
+
+carried in bags----CONCEALMENT_METHOD
+
+rescued----OUTCOME
+
+Monday----DATE
+
+local police----AUTH.SEIZE
+
+two----SUS.NUMBER
+
+men----SUS.GENDER
+
+bags----CONCEALMENT_METHOD
+
+parakeets----SP.COMMON
+
+Monday----DATE
+
+evening----TIME
+
+parakeets----SP.COMMON
+
+three----QTY
+
+snakes----SP.COMMON
+
+A----QTY
+
+red sand boa----SP.SPECIFIC
+
+a----QTY
+
+common sand boa----SP.SPECIFIC
+
+Monday----DATE
+
+an----QTY
+
+Indian cobra----SP.SPECIFIC
+
+Tuesday----DATE
+
+two----SUS.NUMBER

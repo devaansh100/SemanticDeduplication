@@ -1,0 +1,67 @@
+
+['Telangana: 4 arrested for trying to sell red sand boa snake at Rs 70 lakh\nHyderabad: Four men were arrested by Forest department officials for trying to illegally sell a sand boa snake on Wednesday. The arrest was made through a decoy operation which was set in motion after the Vigilance wing of the Prl. Chief Conservator of Forest (HoFF) received a complaint about the snake from reliable sources. As part of the operation a senior official of the Vigilance wing introduced himself as an interested buyer of the sand boa snake. The official, along with others from the Anti-Poaching Squad, tried to nab the main accused Rohith red-handed along with the Sand Boa Snake on two occasions. However, Rohith did not bring the reptile to try and verify if they were genuine buyers. On September 14, Rohith promised the Vigilance department official that he would show the sand boa snake and quoted a price of Rs. 70 lakh. Rohith sent message to the official asking to meet at ECIL with money. The official, a DFO, kept one team consisting of Vigilance and Anti-Poaching team and another team consisting of Forest Range Officer (Kesara) and his staff at a nearby location with instructions to catch Rohith red-handed. The Forest department officials even created a coded signal using their Google live location. The DFO was asked to come to Nagaram where Rohith met him and introduced three other persons named Venkataramana, Sridhar and Anjaneya Prasad, said a press note from the department on Wednesday. The other three accused told the DFO to follow them till they reached the house of Anjaneya Prasad at Nagaram. When the DFO was finally shown the sand boa snake, he signalled his two teams to move in and capture the accused. Together, the DFO and his two teams raided the house where and all the four persons were taken into custody. During the enquiry, one of the accused named Venkataramana revealed that he found the red sand boa snake on a road near Ghatkesar and captured it to of selling it for a few lakh of rupees. Venkataramana stated that he tried to sell the snake through his friend Sridhar. Rohith, who was in touch with many sand boa snake sellers, contacted Sridhar and roped in Anjaneya, who was knew Sridhar. All of them formed a group and were trying to sell the sand boa snake at a price of Rs. 70 lakhs. After their arrest, a case was booked against the four accused and seized the reptile was seized by the Forest department officials, who have cautioned the public against believing in superstitions and people claim that reptiles like sand boa snakes posses supernatural powers. “In the recent times, con men have been marketing various protected wildlife like the Indian Star tortoise, Red Sand Boa, Barn Owl etc. Red Sand Boa specifically has been marketed as an animal that can bring great fortune to their owners. Few claim that Red Sand Boas possess ‘Bio-Iridium’, which when used as medicine can cure HIV & cancer,” said the statement from the Forest department.']
+
+
+Telangana----LOC.STATE
+
+4----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+sell----CRIME.CAT
+
+red sand boa snake----SP.SPECIFIC
+
+Rs 70 lakh----VALUE
+
+Four----SUS.NUMBER
+
+men----SUS.GENDER
+
+arrested----CRIME.CAT
+
+Forest department----AUTH.SEIZE
+
+sell----CRIME.CAT
+
+sand boa snake----SP.SPECIFIC
+
+Wednesday----DATE
+
+arrest----CRIME.CAT
+
+decoy operation----DETECTION_METHOD
+
+Vigilance wing of the Prl. Chief Conservator of Forest (HoFF)----AUTH.SEIZE
+
+complaint----DETECTION_METHOD
+
+Anti-Poaching Squad----AUTH.SEIZE
+
+Rohith----SUS.NAME
+
+Sand Boa Snake----SP.COMMON
+
+Vigilance and Anti-Poaching team----AUTH.SEIZE
+
+Forest Range Officer----OFF.DESIG
+
+Kesara----OFF.NAME
+
+Venkataramana----SUS.NAME
+
+Sridhar----SUS.NAME
+
+Anjaneya Prasad----SUS.NAME
+
+DFO----AUTH.SEIZE
+
+few lakh of rupees----VALUE
+
+Anjaneya----SUS.NAME
+
+Rs. 70 lakhs----VALUE
+
+case was booked against the----OUTCOME
+
+four----SUS.NUMBER

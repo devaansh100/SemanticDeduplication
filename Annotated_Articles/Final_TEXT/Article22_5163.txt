@@ -1,0 +1,25 @@
+
+['Bengaluru: 23-year-old arrested for running over street dog\nPolice on Monday arrested a 23-year-old man for deliberately running his car over a street dog in Jayanagar. Police are yet to reveal the identity of the accused, however, a senior police officer in the know of the matter shared that he is the grandson of a prominent Bengaluru-based businessman. The incident took place on January 26, however, the video of the man running over the dog with his Audi car came to the fore a few days later. On January 28, a complaint was filed by an animal rights activist Badri Prasad, following which Siddapura police lodged a first information report (FIR). Along with the complaint, the activist had submitted the CCTV footage of the incident to the police. In the CCTV footage, a white Audi can be seen moving slowly towards three stray dogs sleeping on the road side. As the car reaches closer, it races towards the strays running over a dog before fleeing from the spot. “Regarding the incident that happened at Jayanagar 1st block, a Police complaint has been lodged with Siddapura Police station and FIR has been filed. FIR no. 0021/2022. The case is under investigation (sic),” the animal welfare helpline tweeted, while responding to calls for action. Police said the case was registered under the Prevention of Cruelty Act 1960 and Indian Penal Code. A senior police officer said a probe is underway into the matter. Expressing anger over the incident, actor-turned-politician Divya Spandana, tweeted: “Has the car been seized? Does he have a driver’s license? Was he under the influence of drugs/alcohol? The complainant was threatened at the police station & the police didn’t do anything-any action being taken? (sic)”. “It’s pretty evident from the video what transpired - Let’s see if action will be taken against him or the Govt will succumb under pressure since he has friends in high places (sic),” she added. This is not the first incident of animal cruelty reported in the state. More than 100 stray dogs were allegedly poisoned and buried in a village in Shivamogga district in September 2021. Weeks before this incident, around 150 monkeys were killed and abandoned in a village in Hassan district, drawing the attention of the Karnataka high court which sought action against the miscreants.']
+
+
+23----SUS.AGE
+
+arrested----CRIME.CAT
+
+Monday----DATE
+
+arrested----CRIME.CAT
+
+23----SUS.AGE
+
+man----SUS.GENDER
+
+Jayanagar----LOC.EXACT
+
+January 26----DATE
+
+CCTV footage----DETECTION_METHOD
+
+Jayanagar 1st block----LOC.EXACT
+
+case was registered----OUTCOME

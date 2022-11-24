@@ -1,0 +1,53 @@
+
+['10 spiny-tailed lizards being sold as ‘aphrodisiacs’ rescued by Bengaluru cops\n10 spiny-tailed lizards being sold as ‘aphrodisiacs’ rescued by Bengaluru cops Activists said that people were willing to pay as high as Rs 50,000 for the lizard meat. news Crime Police in Bengaluru’s Koramangala arrested six persons in connection with smuggling ten Indian spiny-tailed lizards from Rajasthan. The spiny-tailed lizards, which live in their colonies and are common to deserts, are a protected species under the Wildlife Protection Act. It is an easy reptile to smuggle as it can survive without food and water for a long period of time, activists said. Based on a tip-off from a wildlife activist, the police posed as potential buyers and caught the accused red-handed with the live reptiles, which were rescued. The six accused have been identified as Karuna, Shakti, Arivarta Reddy, Ramesh, Gopi, and Malairaj. Koramangala Police Station Inspector told TNM that Ramesh is in police custody, while the rest are in judicial custody. All of them are residents of Bengaluru outskirts near the Hosur interstate border, and majority of them belong to the Hakki Pikki tribal community. Sources said the accused had gone to Rajasthan and were selling plastic flowers, and smuggling reptiles was only a job by the side. Police suspect they are part of a nationwide smuggling racket run by the tribal community residing in various parts of the country. According to police, the 10 lizards were to be delivered to various clients. Police said lizard meat is considered to be an aphrodisiac. Other than that, the meat is thought to have medicinal properties and can cure sexual dysfunctions, muscle and joint pain. Police sources said the clientele comprised IT employees and real estate developers. While the meat was supposed to be consumed as part of a meal, the accused told police that the blood of the reptile was also meant to be consumed with alcohol for similar medicinal values. But there is no scientific endorsement to these claims. Wildlife activist Sharat Babu, who works closely with the police and forest department, said as these animals can survive without food and water for long, they are marketed for their meat as giving high stamina and that their blood will be like viagra if mixed with alcohol. “There are many who are fooled by this. There are some IT professionals who shell out up to Rs 50,000 for a meal,” the activist said. He added, “While incidents of monitor lizards being poached are common and there are many people who are nabbed by the authorities, this is the first time in recent history that these reptiles (spiny-tailed lizards) were found to be smuggled.”']
+
+
+10----QTY
+
+spiny-tailed lizards----SP.SPECIFIC
+
+aphrodisiacs----SP.SPECIFIC
+
+Bengaluru cops----AUTH.SEIZE
+
+10----QTY
+
+spiny-tailed lizards----SP.SPECIFIC
+
+aphrodisiacs----SP.SPECIFIC
+
+Bengaluru cops----AUTH.SEIZE
+
+Rs 50,000----VALUE
+
+six----SUS.NUMBER
+
+ten----QTY
+
+spiny-tailed lizards----SP.SPECIFIC
+
+Rajasthan----ROUTE.SRC
+
+tip-off----DETECTION_METHOD
+
+live----ITEM
+
+Karuna----SUS.NAME
+
+Shakti----SUS.NAME
+
+Arivarta Reddy----SUS.NAME
+
+Ramesh----SUS.NAME
+
+Gopi----SUS.NAME
+
+Malairaj----SUS.NAME
+
+Bengaluru----SUS.LOC
+
+smuggling racket----SUS.AFFIL
+
+10----QTY
+
+lizards----SP.COMMON

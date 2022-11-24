@@ -1,0 +1,91 @@
+
+['Holy Anus! Gold Paste worth Rs 35.52 Lakh Stuffed in Anus seized by Customs Officials at MIA\nHoly Anus! Gold Paste worth Rs 35.52 Lakh Stuffed in Anus seized by Customs Officials at MIA Holy Anus! Gold Paste worth Rs 35.52 Lakh stuffed in Anus seized by Customs Officials at Mangalore International Airport from two passengers coming from Doha. Mangaluru : Seems like there is no end for passengers smuggling gold into their homeland from Gulf- and the bad part is 99% of them get caught for their stupidity. Following close on its heels, after the customs officials at the Mangalore International Airport had caught two passengers from Dubai who arrived at MIA on April 16 who were smuggling 447.61 grams of gold worth Rs 14.09 lakh, where one of the passengers had concealed gold in the form of paste stuffed into his anal cavity (found to be in possession of 395.26 grams of gold worth Rs 12.84 lakh), while the other person had hidden 52.350 grams of gold in the form of fishing rod inside his bag, the gold estimated at Rs 1.25 lakh- and now we are seeing two passengers from Doha who tried to smuggle gold in the form of paste, stuffed a little right below the Anal cavity- and this time it is ANUS? ( Anus-the opening at the end of the alimentary canal through which solid waste matter leaves the body). Picture for Illustration Only As per information received, the Customs officials at the Mangalore International Airport have now seized 1.10 kg gold that was being smuggled into the country by two passengers, which is estimated to be worth Rs 35.52 lac. Sources reveal that during the checking of passengers who arrived by Air India Express flight from Doha, the customs officials found 462.97 grams of gold with a passenger that was not backed by any documents. Also 641 grams of gold worth Rs 20.51 lac was found in the possession of another passenger. Funny but true, it is learnt that both the passengers had stuffed the gold converted into paste into their Anus- and both have been arrested and investigation is on.']
+
+
+Gold Paste----ITEM
+
+Rs 35.52 Lakh----VALUE
+
+Stuffed in Anus----CONCEALMENT_METHOD
+
+Customs Officials----AUTH.SEIZE
+
+MIA----LOC.EXACT
+
+Gold Paste----ITEM
+
+Rs 35.52 Lakh----VALUE
+
+Stuffed in Anus----CONCEALMENT_METHOD
+
+seized----CRIME.CAT
+
+Customs Officials----AUTH.SEIZE
+
+Gold Paste----ITEM
+
+Rs 35.52 Lakh----VALUE
+
+seized----CRIME.CAT
+
+Customs Officials----AUTH.SEIZE
+
+Mangalore International Airport----LOC.EXACT
+
+two----SUS.NUMBER
+
+Doha----SUS.LOC
+
+April 16----DATE
+
+447.61 grams----QTY
+
+gold----ITEM
+
+Rs 14.09 lakh----VALUE
+
+gold----ITEM
+
+paste stuffed into his anal cavity----CONCEALMENT_METHOD
+
+395.26 grams----QTY
+
+gold----ITEM
+
+Rs 12.84 lakh----VALUE
+
+52.350 grams----QTY
+
+gold----ITEM
+
+fishing rod----ITEM
+
+gold----ITEM
+
+Rs 1.25 lakh-----VALUE
+
+two----SUS.NUMBER
+
+Doha----LOC.CITY
+
+ANUS----ROUTE.TRANSIT
+
+Customs officials at the Mangalore International Airport----AUTH.SEIZE
+
+1.10 kg----QTY
+
+gold----ITEM
+
+two----SUS.NUMBER
+
+Rs 35.52 lac----VALUE
+
+462.97 grams----QTY
+
+gold----ITEM
+
+641 grams----QTY
+
+gold----ITEM
+
+Rs 20.51 lac----VALUE

@@ -1,0 +1,23 @@
+
+['Drowning leopard hauled to safety with charpai\nNagpur: In a life-threatening situation, a male leopard that fell into a 45-foot-deep well in Belhe village in Otur forest range of Pune district was saved from drowning with the help of a charpai (a woven bed or cot), in a joint operation by Wildlife SOS and the Maharashtra forest department.Belhe residents were startled by the panicked roars, echoing from deep within an open well on Saturday. It turned out that a leopard was struggling to stay afloat in waist-deep water and appeared exhausted from the ordeal.Fearing for the leopard’s safety, the villagers immediately alerted the forest department and wildlife conservation NGO Wildlife SOS which operates out of the Manikdoh Leopard Rescue Centre in Junnar.As a result of the quick thinking of the villagers and forest officers, a charpai was lowered into the well so the leopard could climb onto it for support until the Wildlife SOS team reached the location.Once the Wildlife SOS team arrived at the scene, the rescue operation was set in motion and a trap cage was lowered into the well to safely extricate the leopard. Almost grateful for a dry spot to move onto, the big cat jumped into the cage and was carefully lifted out. The leopard was then transferred to the Manikdoh Leopard Rescue Centre for medical observation, which is run jointly by Wildlife SOS and the forest department.On being declared fit by the veterinary team, the leopard was released back into its natural habitat. Dr Nikhil Bangar, veterinary officer, Wildlife SOS, said, “The leopard was a male, approximately 1.5 years old. We kept the leopard under close observation while he recuperated from this stressful ordeal. Fortunately, he had not sustained any severe injuries and was safely released back into the wild. We are grateful to the forest department and villagers for making this rescue a success.”Kartick Satyanarayan, co-founder and CEO, Wildlife SOS, said, “Wildlife SOS has saved over 50 leopards from open wells. But to solve this problem of open wells and prevent them from claiming more lives, Wildlife SOS has initiated a participatory community project that is both impact-oriented and effective to cover open wells. Filling or sealing them is not an option because most of them still serve the local communities as valuable drinking water resources. Therefore, covering them is a workable solution that allows access to water while removing the risk of anyone falling in.”Range forest officer Vaibhav Kakade said, “The leopard got exhausted while swimming continuously to stay afloat. That is why we lowered the charpai so that the animal could get some rest. We are glad that it was not injured and was able to return to its natural habitat.”There are numerous wells present across the landscape shared by leopards, nilgai antelope, striped hyenas, sloth bears and humans, but the abandoned and unprotected open wells with no sidewall protection pose a very serious danger to animal lives. Every village has 30 to 50 wells, some of which can be as deep as 50 to 100 feet, and can be hazardous to any living creature that accidentally falls inside, resulting in fatal injuries or death by drowning.']
+
+
+leopard----SP.COMMON
+
+charpai----LOC.EXACT
+
+leopard----SP.COMMON
+
+Belhe village----LOC.EXACT
+
+Pune----LOC.DISTRICT
+
+charpai (a woven bed or cot----CONCEALMENT_METHOD
+
+Wildlife SOS----AUTH.SEIZE
+
+Maharashtra forest department.Belhe----AUTH.SEIZE
+
+Saturday. It----DATE
+
+forest department.On----AUTH.SEIZE

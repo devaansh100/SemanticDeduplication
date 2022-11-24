@@ -1,0 +1,37 @@
+
+['Karnataka: Tiger found dead in Bandipur Tiger Reserve\nMYSURU : A seven-year-old tiger was found dead inside an Elephant Proof Trench (EPT) in N Begur range in Bandipur Tiger Reserve on Tuesday.According to wildlife veterinarian Dr D N Nagaraj, the tiger’s carcass was found in a decomposed state.“The death might have taken place five to six days ago. Major parts of the tiger’s body have been decomposed and eaten by other wild animals. During investigation, we found a major wound on its head and hind left leg. We have also noticed a fracture on the hind leg and teh claws too were damaged,” he said.The carcass was found around 5.30 pm, he said. “We suspect that the tiger might have died due to infighting as it is mating season,” he said.Bandipur director T Balachandra and Mysuru district wildlife warden Krithika Alanahally visited the spot.Meanwhile, a tiger which is prowling near Nittur-Karmada village in Virajpet taluk in Kodagu district for the past few days has killed a cow.Foresters said the cow which the tiger had killed belonged to Kottaganda Madhu Manjunath. He had tied the cow in the cattle shed, but at around 5.30 am, the tiger entered the shed and killed the cow. The residents who were woken up by the noise in the shed saw the tiger dragging the cow. As the residents raised a hue and cry, the tiger left the cow and escaped to the fields.Villagers claimed that they had noticed tiger’s pug marks in Haisodluru village in Hudikeri Hobli five days ago. The place is close to Karmada village. Villager Honteganda Kashi and C Eshwar told the foresters that they sighted two tigers at the farm near the village. The villagers have demanded action to prevent tiger entering their villages.']
+
+
+Karnataka----LOC.STATE
+
+Tiger----SP.COMMON
+
+found dead----CRIME.CAT
+
+Bandipur Tiger Reserve----LOC.EXACT
+
+tiger----SP.COMMON
+
+found dead----CRIME.CAT
+
+Tuesday.According----DATE
+
+tiger----SP.COMMON
+
+carcass----ITEM
+
+carcass----ITEM
+
+5.30 pm----TIME
+
+tiger----SP.COMMON
+
+Mysuru district wildlife warden----AUTH.SEIZE
+
+Krithika Alanahally----OFF.NAME
+
+Nittur-Karmada village----LOC.EXACT
+
+cow----SP.COMMON
+
+5.30 am----TIME

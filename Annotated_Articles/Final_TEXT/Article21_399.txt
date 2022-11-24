@@ -1,0 +1,87 @@
+
+["Mumbai: Two held with whale vomit worth Rs 7.75 cr in Lower Parel\nThe Mumbai crime branch seized ₹ 7.75 crore worth of ambergris also known as whale vomit from Lower Parel area late on Wednesday night and arrested two persons. The two are identifed as Prasad Pingle, 44 and Amit Patil, 36. Pingle is a former Mumbai police constable who was dismissed from the department in 2016, said crime branch officials. The crime branch unit 3 received a tip-off that few persons carrying a huge quantity of ambergris would come to Sitaram Mill compound in Lower Parel on Wednesday night, accordingly the crime branch team along with forest officials laid a trap and apprehended the two as they arrived. During their search 7.75 kilogram of ambergris was recovered which is used in manufacturing perfume, it's rare and is extremely expensive, said police. Whale vomit, a waxy substance that originates as a secretion in the intestines of the sperm whale, found floating in tropical seas.This species of the whale is endangered and protected under the Wildlife Act, said officials The two were brought to the crime branch office and arrested under the relevant sections of the Wild Life (protection) act. The seized ambergris have been sent to forensic laboratory for forensic analysis, said police. According to the police, both the accused are residents of Alibaug and procured the ambergris from a local fisherman and promised him good returns. The two were looking for buyer from last couple of months but were unable to get proper value for it. The fisherman who gave ambergris to the accused has also made an accused in the case, said an official. Last week crime branch arrested three persons with ambergris worth ₹ 2.7 crore from Mulund."]
+
+
+Mumbai----LOC.CITY
+
+Two----SUS.NUMBER
+
+whale----SP.COMMON
+
+vomit----ITEM
+
+Rs 7.75 cr----VALUE
+
+Lower Parel----LOC.EXACT
+
+Mumbai crime branch----AUTH.SEIZE
+
+seized----CRIME.CAT
+
+ambergris----ITEM
+
+whale----SP.COMMON
+
+vomit----ITEM
+
+Lower Parel----LOC.EXACT
+
+Wednesday----DATE
+
+night----TIME
+
+arrested----CRIME.CAT
+
+two----SUS.NUMBER
+
+Prasad Pingle----SUS.NAME
+
+44----SUS.AGE
+
+Amit Patil----SUS.NAME
+
+36----SUS.AGE
+
+crime branch unit 3----AUTH.SEIZE
+
+tip-off----DETECTION_METHOD
+
+Sitaram Mill compound in Lower Parel----LOC.EXACT
+
+Wednesday----DATE
+
+night----TIME
+
+crime branch----AUTH.SEIZE
+
+forest officials----AUTH.SEIZE
+
+two----SUS.NUMBER
+
+7.75 kilogram----QTY
+
+ambergris----ITEM
+
+Whale----SP.COMMON
+
+vomit----ITEM
+
+sperm whale----SP.SPECIFIC
+
+seized----OUTCOME
+
+ambergris----ITEM
+
+Alibaug----SUS.LOC
+
+Last week----DATE
+
+crime branch----AUTH.SEIZE
+
+arrested----CRIME.CAT
+
+three----SUS.NUMBER
+
+ambergris----ITEM
+
+Mulund----LOC.EXACT

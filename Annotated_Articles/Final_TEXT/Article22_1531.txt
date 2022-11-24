@@ -1,0 +1,9 @@
+
+['Putin Befriends Salman Khan to get More Deer Antler Blood To Bathe\nA news source has revealed that Russian President Vladimir Putin bathes in antler blood extracted by painfully hacking off a deer’s horns and is ‘constantly’ accompanied by a doctor specialising in thyroid cancer, reports claim. Putin apparently enjoys the bath in bathtub containing an odorant extract from blood-filled deer antlers. However, of late Putin is running short of Deer Antler Blood and to ensure the smooth supply of the same President Putin has befriended Salman Khan. Salman Khan is already facing charges of hunting antlered deer in 1998 during the shoot of Hum Saath Saath Hain. When Putin read the news of Salman hunting antlered deer he immediately sent a delegation to Mumbai and gave Salman an offer he couldn’t refuse. Salman Khan will now hunt deer for President Putin and will also shoot for his next movie Tiger 4. Putin has said that Tiger 4 of Salman Khan will be tax-free in Russia and watching the movie will be a mandate.']
+
+
+Salman Khan----SUS.NAME
+
+Deer----SP.COMMON
+
+Salman Khan----SUS.NAME

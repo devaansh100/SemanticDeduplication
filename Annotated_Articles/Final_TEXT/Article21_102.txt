@@ -1,0 +1,14 @@
+
+['Drugs worth Rs 7.29 cr, 80 exotic reptiles seized in Mizoram\n']
+
+
+Drugs----ITEM
+
+Rs 7.29 cr----VALUE
+
+80----QTY
+
+exotic reptiles----SP.COMMON
+
+Mizoram
+----LOC.STATE

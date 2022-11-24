@@ -1,0 +1,39 @@
+
+['Odisha Police Seize Snake Venom Worth Over Rs 1 Crore\nThe Odisha police have seized 1 kg of snake venom worth over Rs 1 crore during a raid in the Deogarh district. The accused, Ranjan Kumar Padhi of Sakhipada in Sambalpur district and Kailash Chandra Sahu of Sindurap village, were trying it sell it in the open market when the police held them. The snake venom is sold to various medical companies illegally. Dr Surya Prakash Chowdhury said that medical companies were working with such people to get snake poisons at lower prices from the market. Deogard SP Raj Kishore Paikrai said the accused would be remanded in custody for questioning. (With inputs from Sanjib Mallick from Deogard) Read all the Latest News, Breaking News and Coronavirus News here. Follow us on Facebook, Twitter and Telegram.']
+
+
+Odisha Police----AUTH.SEIZE
+
+Seize----CRIME.CAT
+
+Snake----SP.COMMON
+
+Venom----ITEM
+
+Rs 1 Crore----VALUE
+
+Odisha police----AUTH.SEIZE
+
+seized----CRIME.CAT
+
+1 kg----QTY
+
+snake----SP.COMMON
+
+venom----ITEM
+
+Rs 1 crore----VALUE
+
+raid----DETECTION_METHOD
+
+Deogarh----LOC.DISTRICT
+
+Ranjan Kumar Padhi----SUS.NAME
+
+Sakhipada in Sambalpur district----SUS.LOC
+
+Kailash Chandra Sahu----SUS.NAME
+
+Sindurap village----SUS.LOC
+
+remanded in custody for questioning----OUTCOME

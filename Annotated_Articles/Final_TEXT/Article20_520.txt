@@ -1,0 +1,55 @@
+
+['Maharashtra forest dept probes poaching angle as decomposed tiger carcass found in Gondia\nA mutilated and disjointed carcass of a tiger was recovered from different locations across paddy fields at Lodhitola village in the Mundipaar round in the Gondia forest range by the Maharashtra forest department between Sunday and Monday. Forest officials said the findings were unusual and they had started an investigation. “This seems to be a clear case of poaching but we cannot identify the cause of death at the moment. It could be through poisoning or electrocution. There has been no arrest yet,” said Kulraj Singh, deputy conservator of forests, Gondia. On Sunday evening, the local range forest officer and his team recovered the carcass in a paddy field belonging to one Amarnath Patle, and informed senior forest officials about the incident around 7pm. Following a preliminary inspection through the night, the team kept vigil until the next round of investigation commenced on Monday 6am using sniffer dogs, forest officials said. “One of the dogs was able to find two bags at two separate locations (both located 100 to 150 metres away from each other) that contained the tiger’s hind limbs and pelvic portion,” said Singh, adding that the remains of the tiger were found in fields belonging to Tilakchand Sharanagat and Yograj Nagpure. Also Read: Pregnant leopard killed in road accident on Mumbai’s Western Express Highway Singh added that some portions of the tiger’s carcass, including one hind leg, claws, nails, and a portion of the forehead were still missing. “Though we conducted an autopsy, we could not ascertain the cause of death as the remains were putrefied. However, it seems that the tiger may have died 12-15 days ago. The organs were collected and sent for further analysis into the cause of death,” said Singh. The tiger’s remains were cremated in a nursery as per the National Tiger Conservation Authority protocol. “The sniffer dog Peter (German Shepherd) played an extremely important role in identifying parts of the tiger’s body. Interrogations with farmers, landowners, and those working in the area are underway,” Singh said. A forest official requesting anonymity said all landowners had some connection with the forest department. “One is a retired forest guard, the other is a former sub-inspector, and the third person’s daughter is presently employed with the forest department,” the official said. There have been 16 tiger deaths in Maharashtra so far this year, with recent cases including the death of a tiger cub after its mother (Mayuri) went missing. The incident took place at the buffer area (Khadsangi range) of the Tadoba Andhari Tiger Reserve buffer during the last week of October. A tiger poaching via electrocution case was reported from Sindewahi forest range in Brahmapuri where two persons were arrested. In a separate case reported from Supane (west) range in Karad, Satara on Monday, the decomposed carcass of a three-year-old female leopard was found by sugarcane farmers. According to honorary wildlife warden and Wildlife Crime Control Bureau member Rohan Bhate, a post autopsy of the big cat showed that it may have died almost one-and-a-half to two months ago but all organs including the teeth and nails of the dead leopard were intact. “There were no injury marks on the leopard’s body either. This means poaching is ruled out. According to a local animal husbandry officer who conducted the autopsy, the animal may have died due to pneumonia during heavy rain two months ago,” said Bhate. SHARE THIS ARTICLE ON']
+
+
+Maharashtra forest dept----AUTH.SEIZE
+
+tiger----SP.COMMON
+
+carcass----ITEM
+
+Gondia----LOC.DISTRICT
+
+carcass----ITEM
+
+tiger----SP.COMMON
+
+Lodhitola village in the Mundipaar round in the Gondia forest range----LOC.EXACT
+
+Maharashtra forest department----AUTH.SEIZE
+
+Sunday----DATE
+
+Monday----DATE
+
+poaching----CRIME.CAT
+
+electrocution----CRIME.CAT
+
+evening----TIME
+
+local range forest officer----AUTH.SEIZE
+
+carcass----ITEM
+
+7pm----TIME
+
+6am----TIME
+
+bags----CONCEALMENT_METHOD
+
+claws----ITEM
+
+nails----ITEM
+
+Sindewahi forest range in Brahmapuri----LOC.EXACT
+
+two----SUS.NUMBER
+
+Supane (west) range in Karad, Satara----LOC.EXACT
+
+Monday----DATE
+
+carcass----ITEM
+
+sugarcane farmers----AUTH.SEIZE

@@ -1,0 +1,49 @@
+
+['Leopard Skin Seized, 2 Arrested In Baripada\nBaripada, Sept 20 (PTI) Forest department officials in Odisha on Monday seized a leopard skin and arrested two persons, including an engineering student, during a raid at a hotel here, police said. Acting on a tip-off, personnel of the forest department posing as traders had contacted the person who had the leopard skin. The leopard had been killed inside Similipal National Park, a police officer said. The Similipal National Park in Mayurbhanj district is home to tigers, elephants, leopards, barking deer, wild boars, chausingha (four-horned antelope), and giant squirrels. The seized leopard skin was 71 cm long and 23 cm wide, Santosh Joshi, Divisional Forest Officer, Baripada said. The two arrested persons were identified as Bikas Binay Singh of Palasbani village and Bikas Chandra Bentkar of Khanua village in Mayurbhanj District he said. PTI COR AAM MM MM (Disclaimer: This story is auto-generated from a syndicated feed; only the image & headline may have been reworked by www.republicworld.com)']
+
+
+Leopard----SP.COMMON
+
+Skin----ITEM
+
+Seized----CRIME.CAT
+
+2----SUS.NUMBER
+
+Arrested----CRIME.CAT
+
+Baripada----LOC.DISTRICT
+
+Forest department----AUTH.SEIZE
+
+Odisha----LOC.STATE
+
+Monday----DATE
+
+seized----CRIME.CAT
+
+a----QTY
+
+leopard----SP.COMMON
+
+skin----ITEM
+
+arrested----CRIME.CAT
+
+two----SUS.NUMBER
+
+tip-off----DETECTION_METHOD
+
+71 cm long and 23 cm wide----QTY
+
+two----SUS.NUMBER
+
+Bikas Binay Singh----SUS.NAME
+
+Palasbani village----SUS.LOC
+
+Bikas Chandra Bentkar----SUS.NAME
+
+Khanua village----SUS.LOC
+
+Mayurbhanj----SUS.LOC

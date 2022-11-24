@@ -1,0 +1,63 @@
+
+['Pangolin Scale Smuggling Racket Busted, 2 Arrested In Dhenkanal\nDhenkanal: Forest officials have seized 14.2 kilograms of Pangolin scales which was being smuggled out of the State today morning. The operations was carried out jointly by the Dhenaknal Forest Division and Wildlife Crime Control Bureau (WCCB), Jabalpur. Apart from the pangolin scales, the sleuts seized a motorcycle and two mobile phones which were being used in the crime. The accused have been identified as Ratnakar Rout (51) of Banamali Prasad and Firoz Khan (52) of Baji Chowk under Dhenkanal Town police limits. They have been forwarded to the local court, the Forest Department stated.']
+
+
+Pangolin----SP.COMMON
+
+Scale----ITEM
+
+Smuggling Racket----SUS.AFFIL
+
+2----SUS.NUMBER
+
+Arrested----CRIME.CAT
+
+Dhenkanal----LOC.DISTRICT
+
+Dhenkanal----LOC.DISTRICT
+
+seized----CRIME.CAT
+
+14.2 kilograms----QTY
+
+Pangolin----SP.COMMON
+
+scales----ITEM
+
+smuggled----CRIME.CAT
+
+today----DATE
+
+morning----TIME
+
+Dhenaknal Forest Division----AUTH.SEIZE
+
+Wildlife Crime Control Bureau----AUTH.SEIZE
+
+WCCB----AUTH.SEIZE
+
+Jabalpur----LOC.CITY
+
+pangolin----SP.COMMON
+
+scales----ITEM
+
+a----QTY
+
+motorcycle----ITEM
+
+two----QTY
+
+mobile phones----ITEM
+
+Ratnakar Rout----SUS.NAME
+
+51----SUS.AGE
+
+Banamali Prasad----SUS.LOC
+
+Firoz Khan (----SUS.NAME
+
+52----SUS.AGE
+
+Baji Chowk under Dhenkanal Town police limits----SUS.LOC

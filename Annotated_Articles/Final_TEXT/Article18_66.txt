@@ -1,0 +1,29 @@
+
+['UP man takes snake to hospital too after it bit his wife\nUP man takes snake to hospital too after it bit his wife In a strange incident, a man in UP captured the snake that bit his wife in their home in Unnao. The man caught the reptile and put it in a bottle. Later, he took his wife to the hospital along with the snake in the bottle. The woman has been admitted to the district hospital where she is being treated. When the husband, Ramendra Yadav, was asked by medical professionals why he brought the snake with him? He replied, “What if you asked me what kind of snake bit my wife? I brought the snake so that you could see for yourself.” The incident occurred early on Friday morning in the Afzal Nagar area under the Makhi police circle. Later, Ramendra told the media that he would release the snake in the nearby forest after his wife is discharged from the hospital. Ramendra claimed that he had made breathing holes in the plastic bottle for the snake.']
+
+
+UP----LOC.STATE
+
+man----SUS.GENDER
+
+snake----SP.COMMON
+
+UP man----AUTH.SEIZE
+
+snake----SP.COMMON
+
+UP----LOC.STATE
+
+snake----SP.COMMON
+
+Unnao----LOC.EXACT
+
+bottle----CONCEALMENT_METHOD
+
+Ramendra Yadav----SUS.NAME
+
+Friday----DATE
+
+morning----TIME
+
+Afzal Nagar area----LOC.EXACT

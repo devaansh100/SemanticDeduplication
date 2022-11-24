@@ -1,0 +1,33 @@
+
+['Last week s arrest of six persons including a woman on charges of smuggling around 1 5 litres of snake venom from the State capital took everyone by surprise as Odisha rarely featured as a point for t\nBhubaneswar: Last week\'s arrest of six persons including a woman on charges of smuggling around 1.5 litres of snake venom from the State capital took everyone by surprise as Odisha rarely featured as a point for the transit of the deadly poison which is used as a potent narcotics for abusers in China and South-East Asia. Ashok Mishra, City Divisional Forest Officer (DFO), whose team was instrumental in busting the racket, said on Tuesday said that the members of the smuggling racket are suspected to be conduits of a larger international syndicate involved in the narco trade. "From the initial interrogation of the two arrested accused who hail from Balasore, we learnt there is a good market for the snake venom in Kolkatta from where it is routed to China and other foreign countries in South-East Asia." To unravel the mysteries of the racket\'s operation, the forest department has sought help from the Wildlife Crime Control Bureau in Nagpur. A team of officials from the top wild-life crime investigation body will be visiting Odisha for briefing and discussions on the subject. Side by side, samples of the seized venom has been sent for laboratory test on Tuesday to ascertain the species. The top forest official, however, sought to dismiss reports that Odisha was fast becoming a potential market for snake venom trade. Earlier in 2014, 6 persons from Jamshedpur had been apprehended from a hotel near the Bhubaneswar railway station and 650 ml of snake venom had been seized from them. During the probe, the accused had confessed to have come to Odisha in anticipation to sell the venom. Even though six persons had been arrested on Saturday with over 1 litre of snake venom, the prime accused, who hails from Bolangir, is still absconding. According to Mishra, snake venom is collected by various pharmacy companies from certified snake parks for manufacturing anti-venom vials. "The venom in the grey market is mostly used for making crude medicines and intoxication even though it is very dangerous and can lead to death. Senior officials said that following the disclosure about the racket, raids were conducted in Bolangir and other parts to nab the prime accused who holds the key to the entire racket\'s operation. "We suspect the snake venom had not been collected locally as it will take anything between 200-245 snakes for collecting1 litre of venom. This has made us suspect the venom could have been procured from outside Odisha," said Mishra. Mishra said the department would be taking a call to recommend an investigating agency like the crime branch, to facilitate the investigation. "We do not have the facility to track the accused and we are contemplating to seek help from the Crime Branch which has the powers to conduct raids outside the State as well. We will consult senior officials of the wildlife division so that the accused can be tracked/apprehended with the help of the Crime Branch. The matter is still in the discussion stage and an appropriate decision will be arrived at soon," he added. https://youtu.be/D1DAmOJ7svc']
+
+
+Last week----DATE
+
+arrest----CRIME.CAT
+
+six----SUS.NUMBER
+
+woman----SUS.GENDER
+
+1 5 litres----QTY
+
+snake----SP.COMMON
+
+venom----ITEM
+
+Last week----DATE
+
+arrest----CRIME.CAT
+
+six----SUS.NUMBER
+
+woman----SUS.GENDER
+
+1.5 litres----QTY
+
+snake----SP.COMMON
+
+venom----ITEM
+
+international syndicate involved in the narco trade. "From the initial interrogation of the two arrested accused who hail from Balasore, we learnt there is a good market for the snake venom in Kolkatta from where it is routed to China and other foreign countries in South-East Asia." To unravel the mysteries of the racket's operation, the forest department has sought help from the Wildlife Crime Control Bureau in Nagpur. A team of officials from the top wild-life crime investigation body will be visiting Odisha for briefing and discussions on the subject. Side by side, samples of the seized venom has been sent for laboratory test on Tuesday to ascertain the species. The top forest official, however, sought to dismiss reports that Odisha was fast becoming a potential market for snake venom trade. Earlier in 2014, 6 persons from Jamshedpur had been apprehended from a hotel near the Bhubaneswar railway station and 650 ml of snake venom had been seized from them. During the probe, the accused had confessed to have come to Odisha in anticipation to sell the venom. Even though six persons had been arrested on Saturday with over 1 litre of snake venom, the prime accused, who hails from Bolangir, is still absconding. According to Mishra, snake venom is collected by various pharmacy companies from certified snake parks for manufacturing anti-venom vials. "The venom in the grey market is mostly used for making crude medicines and intoxication even though it is very dangerous and can lead to death. Senior officials said that following the disclosure about the racket, raids were conducted in Bolangir and other parts to nab the prime accused who holds the key to the entire racket's operation. "We suspect the snake venom had not been collected locally as it will take anything between 200-245 snakes for collecting1 litre of venom. This has made us suspect the venom could have been procured from outside Odisha," said Mishra. Mishra said the department would be taking a call to recommend an investigating agency like the crime branch, to facilitate the investigation. "We do not have the facility to track the accused and we are contemplating to seek help from the Crime Branch which has the powers to conduct raids outside the State as well. We will consult senior officials of the wildlife division so that the accused can be tracked/apprehended with the help of the Crime Branch. The matter is still in the discussion stage and an appropriate decision will be arrived at soon," he added. https://youtu.be/D1DAmOJ7svc----SUS.AFFIL

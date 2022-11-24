@@ -1,0 +1,97 @@
+
+['Seven poachers nabbed in Bandipur, deer carcass seized\nSeven persons, including six former forest watchers, were caught red-handed with deer meat at Bandipur Tiger Reserve on Friday. Six of the accused were previously employed by the Forest Department, which periodically recruits people from local villages on a temporary basis from January through April to keep an eye on fire outbreak. Conservator of Forests T. Balachandra said that working on a tip-off, the night-beat guards, along with the special tiger protection force, lay in wait near Hosahalligudda in the Gopalaswamy Betta range of the tiger reserve. Around 5.45 a.m., they intercepted a man astride a two-wheeler and a pillion rider and questioned them about their presence in the national park in the early hours of the day. The two had a sack, which when examined was found to be filled with slaughtered deer. The two accused were identified as Rangaswamy and Alumalaiah of Haggadahalla village. The duo confessed to have laid snares in the Hirekere forest area and poached three deer to sell the meat. Soon after, three more persons reached the spot and the Forest Department staff took them into custody. It transpired that they were the customers intending to buy the deer meat. They were identified as Nanjashetty, Siddaiah, and Chinnanayaka of Lakshmipura village. Two others who were part of the conspiracy, Nagarajushetty and Madashetty, were taken into custody from their village, Koodahalli. Four more persons — Chinammalla, Krishnappa, Prabhu, and Naganna — are absconding. Mr. Balachandra suspects the involvement of a few more persons. The authorities seized 50 kg of deer meat, a motorcycle, slaughtered heads of three deer that were stuffed in the sack, deer skin, 15 snares, and a sharp knife from the accused. This is the third instance of poaching in Bandipur in the past couple of weeks. The authorities plan to step up patrolling and combing operations, besides redeploying the special tiger protection force and anti-poaching camp personnel.']
+
+
+Seven----SUS.NUMBER
+
+nabbed----CRIME.CAT
+
+Bandipur----LOC.DISTRICT
+
+deer----SP.COMMON
+
+carcass----ITEM
+
+seized----CRIME.CAT
+
+Seven----SUS.NUMBER
+
+six----SUS.NUMBER
+
+deer----SP.COMMON
+
+meat----ITEM
+
+Bandipur Tiger Reserve----LOC.EXACT
+
+Friday----DATE
+
+tip-off----DETECTION_METHOD
+
+night-beat guards----AUTH.SEIZE
+
+special tiger protection force----AUTH.SEIZE
+
+5.45 a.m.----TIME
+
+man----SUS.GENDER
+
+two-wheeler----ITEM
+
+sack----CONCEALMENT_METHOD
+
+deer----SP.COMMON
+
+Rangaswamy----SUS.NAME
+
+Alumalaiah----SUS.NAME
+
+Haggadahalla village----SUS.LOC
+
+Forest Department staff----AUTH.SEIZE
+
+Nanjashetty----SUS.NAME
+
+Siddaiah----SUS.NAME
+
+Chinnanayaka----SUS.NAME
+
+Lakshmipura village----SUS.LOC
+
+Nagarajushetty----SUS.NAME
+
+Chinammalla----SUS.NAME
+
+Krishnappa----SUS.NAME
+
+Prabhu----SUS.NAME
+
+Naganna----SUS.NAME
+
+50 kg----QTY
+
+deer----SP.COMMON
+
+meat----ITEM
+
+a----QTY
+
+motorcycle----ITEM
+
+slaughtered heads----ITEM
+
+deer----SP.COMMON
+
+sack----CONCEALMENT_METHOD
+
+deer----SP.COMMON
+
+skin----ITEM
+
+15----QTY
+
+snares----ITEM
+
+sharp knife----ITEM
+
+special tiger protection force----AUTH.SEIZE

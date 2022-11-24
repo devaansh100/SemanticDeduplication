@@ -1,0 +1,81 @@
+
+['CG seize 30 livesea cucumbers\nKochi: In a swiftly coordinated sea-air operation undertaken by Indian Coast Guard District Headquarters (Kerala & Mahe) and Coast Guard Headquarters (Kavaratti), four Tamil Nadu natives and three from Lakshadweep were apprehended for poaching sea cucumber on Thursday. CG seized around 30 live sea cucumbers from their boat named Blue Water, off Lakshadweep.Sea cucumbers are marine animals that are protected as per Schedule I of the Wildlife Protection Act, 1972, and catching or killing them is illegal and punishable. They are in high demand for medicinal value and are worth up to 3,000 USD in the international market.CG said that the seized animals are worth Rs 18 lakhs, and poachers were trying to smuggle them to Vallanadu near Thoothukudi The arrested are Suresh (35), a Thoothukudi native, Jesu Nasaren Sakkariyar (34) of Tiruchendur, Ponsis Raja (36) of Thoothukudi and Arulananthu Xeviyar (30) of Pudukkottai. Mohammed Rais Melayillam (28), Abdul Jabbar Kadappuratheillam (46) and Hussainer MI (34), all from Agatti.According to CG sources, the operation was carried out based on a tip-off. CG spotted the poachers 120nm northwest of Kavaratti islands. Later, the CG ship Samar intercepted the vessel and took them into custody. The accused have been handed over to Lakshadweep police and a probe has been launched.']
+
+
+CG----AUTH.SEIZE
+
+seize----CRIME.CAT
+
+30----QTY
+
+Indian Coast Guard District Headquarters----AUTH.SEIZE
+
+Coast Guard Headquarters (Kavaratti----AUTH.SEIZE
+
+four----SUS.NUMBER
+
+Tamil Nadu natives----SUS.LOC
+
+three----SUS.NUMBER
+
+Lakshadweep----SUS.LOC
+
+sea cucumber----SP.COMMON
+
+Thursday----DATE
+
+seized----CRIME.CAT
+
+30----QTY
+
+live----ITEM
+
+sea cucumbers----SP.SPECIFIC
+
+Blue Water----SP.COMMON
+
+Rs 18 lakhs----VALUE
+
+Vallanadu near Thoothukudi----ROUTE.DEST
+
+Suresh----SUS.NAME
+
+35----SUS.AGE
+
+Thoothukudi----SUS.LOC
+
+Jesu Nasaren Sakkariyar----SUS.NAME
+
+34----SUS.AGE
+
+Tiruchendur----SUS.LOC
+
+Ponsis Raja----SUS.NAME
+
+36----SUS.AGE
+
+Thoothukudi----SUS.LOC
+
+Arulananthu Xeviyar----SUS.NAME
+
+30----SUS.AGE
+
+Pudukkottai----SUS.LOC
+
+Mohammed Rais Melayillam----SUS.NAME
+
+28----SUS.AGE
+
+Abdul Jabbar Kadappuratheillam----SUS.NAME
+
+46----SUS.AGE
+
+Hussainer MI----SUS.NAME
+
+34----SUS.AGE
+
+Agatti.According----SUS.LOC
+
+tip-off----DETECTION_METHOD
+
+accused have been handed over to Lakshadweep police----OUTCOME

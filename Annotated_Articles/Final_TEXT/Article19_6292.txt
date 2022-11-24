@@ -1,0 +1,15 @@
+
+['Chinese cafe paints dogs to look like panda cubs, outrages internet [VIDEO and PHOTOS]\nA cafe in China that painted its chow chow dogs as panda cubs has faced severe criticism over the treatment of animals. | Image Courtesy: Twiter/CGTN Key Highlights The Cute Pet Games cafe which opened last month in China\'s Chengdu has faced criticism for dyeing its dogs to look like panda cubs The cafe was also giving dyeing services to people who wanted a similar makeover for their pet at 1,500 yuan (Rs 15,000) After the negative response on social media, the cafe said that it would not continue to offer dyeing services Chengdu, China: A cafe in China that painted its chow chow dogs as panda cubs has faced severe criticism over the treatment of animals. The Cute Pet Games cafe opened last month in Chengdu in the south-west Sichuan province in China. The region is home to a huge population of the endangered bear species. The cafe has dyed six dogs in black and white to make them look like panda cubs. A video of the dogs roaming around in the cafe has gone viral on Chinese social media platform Weibo. #TrendinginChina: A coffeehouse in SW China’s #Chengdu dyed dogs to make them look like pandas to increase profits, triggering comments worried that doing so hurts animals’ health and feelings. What is your opinion? https://t.co/9QLe3WDzWU pic.twitter.com/3i4e8LBGBd — People\'s Daily, China (@PDChina) October 23, 2019 The video shows the owner of the cafe, surnamed Huang, saying that they were also offering a dyeing service for 1,500 yuan (Rs 15,000) to people who wanted to give their pets a similar makeover. According to the owner, the dogs were purchased already dyed. Panda or dog?  Chow Chow puppies dyed to look like pandas inside a café in southwest #China\'s Chengdu City pic.twitter.com/xBzgI6yr06 — CGTN (@CGTNOfficial) October 22, 2019 Many netizens have criticised the cafe for the treatment of the dogs. A user said, "In the name of loving animals, these pet cafes just want to make money." While another added, "I suggest dyeing the dog owners black and white." Some even pointed out that dyeing a dog would damage its skin. "Dogs are dogs. Dyeing them doesn’t turn them into pandas, and they are living beings. You ... hurt them just for the sake of what you think looks good." Only a few of them defended the owner for changing the dogs\' appearance. RELATED NEWS Donkeys painted to look like zebras for safari-themed wedding enrages animal rights activists Following the negative response, the cafe, on its Weibo page, said that it would not continue to offer the dyeing services. "Chengdu is the home of pandas. We wanted to do something different, to differentiate us from other regular dog cafes and pet shops," Huang told local media.']
+
+
+dogs----SP.COMMON
+
+panda cubs----SP.COMMON
+
+chow chow dogs----SP.SPECIFIC
+
+dogs----SP.COMMON
+
+Chow Chow puppies----SP.SPECIFIC
+
+pandas----SP.COMMON

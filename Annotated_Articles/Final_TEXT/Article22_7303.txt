@@ -1,0 +1,31 @@
+
+['Odisha: Elephant tramples woman to death, again attacks body before funeral\nBHUBANESWAR: An elephant trampled a woman to death at Raipal village under Rasagobindpur block in Mayurbhanj district on June 9. When family members brought her body after the postmortem for the funeral in the evening, the elephant again entered the village and attacked the body of the woman before the funeral.Sources said an elderly woman Maya Murmu, 68, of the village in the forest had gone to a nearby place near her house to fetch water on Thursday morning. On the way she found an elephant herd coming towards her. When she tried to flee, one of the elephants chased and trampled her.After getting information, villagers reached the spot and rescued her. On the way to PRM medical college and hospital at Baripada, she died. Her body was sent for post-mortem. The family members brought her body in the evening. Several people of the village waited for the arrival of her body. When they were taking the body to the cremation ground of the village for funeral, a herd of elephants (around 12 pachyderms) appeared from the forest again.Villagers fled from the spot by leaving the body near the village. One of the elephants attacked the body of Murmu and threw it. The elephants even damaged her house in the village. Three more neighbouring houses were also damaged because of the attack.Villagers could not complete the last rite of Murmu on Thursday night due to fear of the elephant attack. When elephants left the place on Friday morning, villagers mustered courage to conduct the funeral of the elderly woman. “We were terrified after witnessing the elephant herd on Thursday evening. We have never had such a ferocious elephant bunch earlier,” said a villager.It is seen that several elephant herds are roaming in the jungles near the village. “We have taken steps to provide compensation of Rs 4 lakh to the next of kin of the deceased. Initially, we will release Rs 10,000 for funeral and related rituals from the compensation amount. After the family members apply for house damage assistance, we will start the process for this,” said Rabi Narayan Mohanty, assistant conservator of forests (ACF), Baripada.']
+
+
+Odisha----LOC.STATE
+
+Elephant----SP.COMMON
+
+tramples----CRIME.CAT
+
+elephant----SP.COMMON
+
+Raipal village----LOC.EXACT
+
+Mayurbhanj----LOC.DISTRICT
+
+June 9----DATE
+
+evening----TIME
+
+Maya Murmu----SUS.NAME
+
+68----SUS.AGE
+
+village in the forest----SUS.LOC
+
+Thursday----DATE
+
+morning----TIME
+
+evening----TIME

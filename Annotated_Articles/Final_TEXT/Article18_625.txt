@@ -1,0 +1,25 @@
+
+['Samdadi: Latest News, Videos and Photos of Samdadi\nRajasthan: Balotara Police arrests four for hacking ATMs across the country TNN / Nov 16, 2021, 04:18 (IST) Balotara police of Barmer district arrested a gang of four robbers who hacked into ATMs across the country and recovered Rs 1.92 lakh, 49 cards, 7 mobiles and a large number of SIM cards. All of them are educated and one has even an MBA degree.']
+
+
+Balotara Police----AUTH.SEIZE
+
+arrests----CRIME.CAT
+
+four----SUS.NUMBER
+
+Balotara police----AUTH.SEIZE
+
+four----SUS.NUMBER
+
+Rs 1.92 lakh----VALUE
+
+49----QTY
+
+cards----ITEM
+
+7----QTY
+
+mobiles----ITEM
+
+SIM cards----ITEM

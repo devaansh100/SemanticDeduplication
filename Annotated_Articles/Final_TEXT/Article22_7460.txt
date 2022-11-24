@@ -1,0 +1,19 @@
+
+['CPI leader dies in shot from trap kept for wild boar\nKASARGOD: The CPI leader, who was undergoing treatment, after a shot from the gun trap laid for wild boar, died here Wednesday. The dead has been identified as M Madhavan Nambiar, 65, of Karicheri. The gun trap was set up by his neighbour to trap wild boars. Without knowing this, Madhavan stepped on it when he was going to pluck jackfruit. The incident happened on Tuesday. He received the shot when he accidentally stepped on the thread tied to the trigger. On examination it was found that the pellet got stuck on his knee. After meeting with the accident, he himself informed his wife. He was immediately rushed to the hospital by the locals there. However, when his condition worsened, he was shifted to a private hospital in Mangaluru, but died this morning. In his statement to the police, he said that he had asked his neighbour to remove the gun trap after knowing that he had kept one. The Bekal police had registered a case.']
+
+
+CPI----AUTH.MISC
+
+Wednesday----DATE
+
+M Madhavan Nambiar----SUS.NAME
+
+65----SUS.AGE
+
+Karicheri----SUS.LOC
+
+jackfruit----SP.COMMON
+
+Tuesday----DATE
+
+registered a case----OUTCOME

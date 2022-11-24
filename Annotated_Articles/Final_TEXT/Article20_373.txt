@@ -1,0 +1,39 @@
+
+['Pet shop owner arrested in Noida for selling protected bird, turtle species\nThe district forest department on Friday confiscated several species of wildlife animals, whose sale is prohibited under the Wildlife Protection Act, from a pet shop in Noida’s Sector 93. The department has registered a police complaint and the seller, 45-year-old Prashant Kumar, was arrested. Among the animals rescued were a turtle species native to India, four parakeets and 10 scaly-breasted munia, also known spice finch, a species native to tropical Asia. “We had received a complaint about the illegal pet shop and aquarium in Sector 93 selling some Indian species of turtle and birds. Upon inspection, we found this to be true. An FIR was lodged and the shop owner was arrested,” said PK Srivastava, divisional forest officer, Gautam Budh Nagar. Under the Wildlife Protection Act (1972), trade of about 1,800 Indian species and their derivatives is prohibited. However the act is not applicable on certain foreign species kept as exotic pets, the official said. “ Prashant Kumar, the owner of Angel Fish Home, was held from the shop for keeping prohibited birds and turtles with the intent to sell them,” a statement from the Noida police said. An FIR has been lodged against the accused under relevant sections of the Indian Penal Code and he has also been booked under the Wildlife Protection Act, the police said.']
+
+
+arrested----CRIME.CAT
+
+Noida----LOC.DISTRICT
+
+district forest department----AUTH.SEIZE
+
+Friday----DATE
+
+confiscated----CRIME.CAT
+
+Sector 93.----LOC.EXACT
+
+registered a police complaint----OUTCOME
+
+45-year-old----SUS.AGE
+
+Prashant Kumar----SUS.NAME
+
+arrested----OUTCOME
+
+turtle species native to India----SP.COMMON
+
+four----QTY
+
+parakeets----SP.SPECIFIC
+
+10----QTY
+
+scaly-breasted munia----SP.SPECIFIC
+
+FIR was lodged----OUTCOME
+
+Prashant Kumar----SUS.NAME
+
+FIR has been lodged----OUTCOME

@@ -1,0 +1,27 @@
+
+['Maharashtra: Tiger found dead near railway track in Gondia district\nA railway trackman spotted the carcass near the tracks between Vadegaon and Wadsa after which the forest department was alerted Representative image. Pic/Istock On Saturday a tiger was found dead with injury marks near a railway track in Gondia district of Maharashtra, stated an official from the forest department. A railway trackman spotted the carcass near the tracks between Vadegaon and Wadsa after which the forest department was alerted. "The area where the big cat was found falls in Korambhi beat of Arjuni Morgaon forest range," said assistant conservator of forest (ACF) Dada Raut. Also Read: Maharashtra: Tadoba reserve’s legendary tiger, Waghdoh, dies of old age He added, "While there were injury marks on face, legs and tail of the tiger, all body parts were intact. It is suspected that the big cat may have been hit by a train." Honourary wildlife warden Mukund Dhurwe said the accident is likely to have taken place on the intervening night of Friday and Saturday. The carcass was disposed of as per the standard operating procedure of the National Tiger Conservation Authority (NTCA). (with inputs from PTI) CLICK HERE TO REUSE THIS CONTENT Launch demo modal']
+
+
+Tiger----SP.COMMON
+
+found dead----CRIME.CAT
+
+railway track----LOC.EXACT
+
+Gondia----LOC.DISTRICT
+
+carcass----ITEM
+
+forest department----AUTH.SEIZE
+
+Saturday----DATE
+
+tiger----SP.COMMON
+
+found dead----CRIME.CAT
+
+Gondia----LOC.DISTRICT
+
+Maharashtra----LOC.STATE
+
+train----TRANSPORT_MODE

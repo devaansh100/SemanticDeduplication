@@ -1,0 +1,77 @@
+
+['5 T.N. red sanders smuggling operatives nabbed\nSUV, 14 logs and three hunting sickles recovered from the accused, say police SUV, 14 logs and three hunting sickles recovered from the accused, say police The Nagari police on Monday nabbed five red sanders smuggling operatives from Tamil Nadu and seized an SUV along with 14 red sanders logs and three hunting sickles near Nagari, while they were on their way to Chennai. Addressing a press meet at Nagari, Deputy SP (Puttur) D. Muralidhar and Circle-Inspector (Nagari) Maddaiahchari said that acting on a tip-off, a special party was dispatched to the Tadukupeta checkpost. An SUV, carrying five smuggling operatives along with logs and sickles, was coming from Seshachalam Hills. On seeing the police party, the vehicle driver tried to give them a slip by overspeeding. But the police could overtake the SUV and intercepted it. Michael Raj from Chennai was leading the four other operatives who hailed from Tiruvannamalai district of Tamil Nadu. The seized logs were estimated to be worth at ₹8 lakh. The accused were produced before the local court and were remanded. The Deputy SP said that surveillance would be mounted further on the two national highways connected to Chennai from Puttur via Nagari and Uthukottai.']
+
+
+5----SUS.NUMBER
+
+red sanders smuggling operatives----SUS.AFFIL
+
+nabbed----CRIME.CAT
+
+SUV----TRANSPORT_MODE
+
+14----QTY
+
+logs----ITEM
+
+three----QTY
+
+hunting sickles----SP.COMMON
+
+SUV----ITEM
+
+14----QTY
+
+logs----ITEM
+
+three----QTY
+
+hunting sickles----SP.COMMON
+
+Nagari police----AUTH.SEIZE
+
+Monday----DATE
+
+nabbed----CRIME.CAT
+
+five----SUS.NUMBER
+
+red sanders smuggling operatives----SUS.AFFIL
+
+Tamil Nadu----LOC.STATE
+
+seized----CRIME.CAT
+
+an----QTY
+
+SUV----ITEM
+
+14----QTY
+
+red sanders----SP.COMMON
+
+logs----ITEM
+
+three----QTY
+
+hunting sickles----SP.COMMON
+
+Deputy SP----OFF.DESIG
+
+) D. Muralidhar----OFF.NAME
+
+Circle-Inspector (Nagari) Maddaiahchari----OFF.DESIG
+
+tip-off----DETECTION_METHOD
+
+SUV----TRANSPORT_MODE
+
+five----SUS.NUMBER
+
+logs----ITEM
+
+sickles----ITEM
+
+Seshachalam Hills----ROUTE.SRC
+
+Michael Raj----OFF.NAME

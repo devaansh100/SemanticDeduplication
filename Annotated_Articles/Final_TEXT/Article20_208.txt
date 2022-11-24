@@ -1,0 +1,29 @@
+
+['Unidentified hunters booked for laying trap for leopard in Panchkula village\nPolice have booked unidentified persons for allegedly laying a trap for a leopard in Morni block of Panchkula district. The big cat was rescued on Thursday after it fell into an empty water tank and was found with its right paw cut off. The leopard which was sent to a zoo in Pipli, Kurukshetra after the rescue, succumbed to injuries on Friday, said officials. In a police complaint, Morni wildlife inspector Ramkesh submitted that his department’s guard had received a tip off from a local about a leopard trapped in a 15-foot deep empty ground-level water tank Tikri village on Thursday at around 10am. The guard had rushed to the spot and apprised him about the situation. After a rescue operation, the leopard was shifted to Pipli zoo. The wildlife department’s veterinary doctor, who conducted a medical check of the male leopard, had told the officials that the leopard was very fragile and exhausted after it lost its right paw to a trap. With broken nails and multiple injuries on its rear legs, left leg, face and its back, the leopard was having difficulty in walking, he added. “On the basis of the vet’s medical report and condition of leopard, it is suspected that hunters set up a paw-trap for the leopard. The report states that its right paw was cut off after getting caught in the trap,” said the wildlife official. Ramkesh further said that besides policemen, a special team of wildlife department has been set up to probe the matter. Chandimandir SHO inspector Deepak Kumar said that based on the complaint submitted by the wildlife department, an FIR under relevant sections of the Wildlife Protection Act 1972, was registered.']
+
+
+leopard----SP.COMMON
+
+Panchkula village----LOC.EXACT
+
+leopard----SP.COMMON
+
+Morni block----LOC.CITY
+
+Panchkula----LOC.DISTRICT
+
+Thursday----DATE
+
+leopard----SP.COMMON
+
+tip off----DETECTION_METHOD
+
+leopard----SP.COMMON
+
+Tikri village----LOC.EXACT
+
+Thursday----DATE
+
+10am----TIME
+
+apprised him----DETECTION_METHOD

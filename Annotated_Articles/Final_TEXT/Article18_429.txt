@@ -1,0 +1,37 @@
+
+["Bear Enters Village, Mauls Four in MP's Betul; Search & Rescue Ops On\nIn a scary incident, a bear attacked four people in Betul, Madhya Pradesh, after entering their village. The district hospital is treating all of the victims of the bear attack. The incident was reported in the villages of Seoni and Sihar in Betul’s South Forest Division, a report by India Today said. A bear wandered into the villages on Sunday morning, terrifying the residents. The wild animal attacked a pair of Seoni villagers who were defecating in an open field. Four people were mauled and suffered serious injuries, including Ajay Adachi, Jungle Adachi, Munni Adachi, and Tanbaji Baraskar. They were initially taken to Bhainsdehi Hospital, but due to the severity of their injuries, they were transferred to Betul’s district hospital. One of the victims is critically injured. Following the incident, the forest department was notified, and a team was dispatched to capture the bear and release it back into the wild. Search and rescue operations are underway to apprehend the animal. According to Nathu Lal Yadav, deputy ranger of Bhainsdehi range, it is not uncommon for wild animals to wander into human-inhabited areas in search of water during the scorching summer season. Read all the Latest News , Breaking News and IPL 2022 Live Updates here."]
+
+
+Bear----SP.COMMON
+
+Mauls----CRIME.CAT
+
+Four----SUS.NUMBER
+
+MP's----LOC.STATE
+
+Betul----LOC.DISTRICT
+
+Search & Rescue Ops----AUTH.SEIZE
+
+bear----SP.COMMON
+
+Betul----LOC.DISTRICT
+
+Madhya Pradesh----LOC.STATE
+
+Sihar----LOC.EXACT
+
+Sunday----DATE
+
+morning----TIME
+
+Ajay Adachi----SUS.NAME
+
+Jungle Adachi----SUS.NAME
+
+Munni Adachi----SUS.NAME
+
+Tanbaji Baraskar----SUS.NAME
+
+forest department----AUTH.SEIZE

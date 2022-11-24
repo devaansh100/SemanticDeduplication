@@ -1,0 +1,41 @@
+
+['Pangolin Rescued From Boudh By STF, One Detained\nBhubaneswar: The STF along with Forest officials of Boudh conducted a raid on Tuesday and apprehended a person with a pangolin alive. The raid was carried out near Khuntigura village between Kantamal-Baliguda Road under Kantamala police limits in Boudh. One Biseswar Bagarti of Tentuliamand under Tarava police limits in Sonepur was apprehended. During his search a pangolin weighing 12.4 kg and other incriminating materials were recovered. “The accused person could not produce any authority in support of the possession of the animal, for which he has been detained and handed over to Kantamal Forest Officials under Boudh Forest Division for necessary legal action. The pangolin was handed over to DFO, Boudh for safe custody. An inquiry is underway,” the STF stated. The Indian pangolin (Maniscrassicaudata), also called thick-tailed pangolin, scaly anteater and ‘bajrakapta’ is a solitary, shy, slow-moving, nocturnal mammal. It is a schedule-I protected animal under Wild Life Protection act, 1972. Schedule I provides absolute protection – offences under these are prescribed for the highest penalties.']
+
+
+Pangolin----SP.COMMON
+
+Rescued----CRIME.CAT
+
+Boudh----LOC.DISTRICT
+
+STF----AUTH.SEIZE
+
+One----SUS.NUMBER
+
+STF----AUTH.SEIZE
+
+Forest officials of Boudh----AUTH.SEIZE
+
+raid----DETECTION_METHOD
+
+Tuesday----DATE
+
+a----QTY
+
+pangolin----SP.COMMON
+
+alive----ITEM
+
+Khuntigura village between Kantamal-Baliguda Road under Kantamala police limits----LOC.EXACT
+
+Boudh----LOC.DISTRICT
+
+Biseswar Bagarti----SUS.NAME
+
+Tentuliamand----SUS.LOC
+
+a----QTY
+
+pangolin----SP.COMMON
+
+12.4 kg----QTY

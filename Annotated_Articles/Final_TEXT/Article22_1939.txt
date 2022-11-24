@@ -1,0 +1,9 @@
+
+['Bizarre snake revenge : Serpent bites man seven times after he kills its partner\nApr 27, 2022, 07:25PM IST Source: TNN The story of the famous Bollywood movie Nagin based on the revenge of the serpent actually happened in real life with a person. The man Bablu, is a resident of a village in Mirzapur. It is being told that approximately 7 months ago, Bablu was attacked by 2 snakes while he was working in the field. The snakes are being told to be a very old couple. The man had to kill one of those to save himself from the vicious bite of the snakes. Since that day, the other snake has bitten bablu 7 times while he was working on the field. He said that the snake comes secretly and bites him.']
+
+
+Serpent----SP.COMMON
+
+Bablu----SUS.NAME
+
+Mirzapur----SUS.LOC

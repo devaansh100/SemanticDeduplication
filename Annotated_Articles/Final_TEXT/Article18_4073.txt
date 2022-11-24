@@ -1,0 +1,29 @@
+
+["‘I Just Want Her Back Home’: Pet Owner Rewards for Finding Missing Monkey\nMaplewood, Minneapolis (WCCO) – A local pet owner is begging for help finding his lost Capuchin monkey. The nearly 2-year-old monkey is named Coco Chanel, and its owner, Jaris Steward, said he went missing Tuesday night, probably from the parking lot of Cab Foods in Maplewood. Read more: Amir Locke’s mother is ‘upset’ that no charges will be filed against the officer who killed her son Steward is offering a পুরস্কার 3,000 cash reward for Coco’s safe return. “I just want him back home,” Steward said. “I feel like I’ve lost my child.” At approximately 8:45 a.m. Tuesday night, Steward said he received a Facebook message from a family member that his cocoa was missing. “He literally wrote and said, ‘OMG Coco is missing,'” Steward explained. The family member told Steward that he stopped near Cub Foods on White Bear Avenue in Maplewood. Coco and her pink carrier were still in the back seat of her car. When he came out, the two were nowhere to be seen. Steward tried to search and he also made a police report. Read more: One killed, one seriously injured in double shooting in South Minneapolis “Very strange,” said Lieutenant Joe Steiner of the Maplewood Police Department. “Stealing from a car is not strange, but stealing a cappuccino monkey from a motor vehicle is strange.” Steiner said this was unusual because keeping cappuccino monkeys as pets was illegal in Minnesota. Steward says Coco usually lives with other families across the border in Wisconsin, where they are legal. “I’m afraid the wrong person has cocoa,” Steward said. “I just want to make sure he’s OK.” For now, Maplewood police are looking for surveillance videos and witnesses. Steward is hopeful of some good news soon. “I just want to find him and get him back safely,” Steward said. “I do not know what to do. I don’t care what I do. I just want to get him back safely. Maplewood police are asking anyone with information to call them at 651-777-8191 More news: Vince Flynn Day has been declared in honor of the late Minnesota writer Steward is currently receiving grants to raise money for the prize. If you want to help, you can donate to the cash app at $ melaninbeautybyz."]
+
+
+Monkey----SP.COMMON
+
+Capuchin monkey----SP.SPECIFIC
+
+monkey----SP.COMMON
+
+Coco Chanel----SUS.NAME
+
+Jaris Steward----SUS.NAME
+
+Tuesday----DATE
+
+night----TIME
+
+8:45 a.m.----TIME
+
+Tuesday----DATE
+
+night----TIME
+
+Facebook message----DETECTION_METHOD
+
+back seat of her car----CONCEALMENT_METHOD
+
+surveillance videos----DETECTION_METHOD

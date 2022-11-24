@@ -1,0 +1,31 @@
+
+['Over 23k birds culled in Thane, Bird flu scare grips Palghar\nMumbai: After Thane, samples from Palghar district were found positive for bird flu also known as avian influenza. The state culled around 456 poultry in Palghar on Saturday. According to the officials, the culling process is likely to be continued on Sunday as well as they will have to cull around 2,000 birds. In addition to this, the state has also culled around 23,428 poultry birds in Thane to contain H5N1 strain till Friday, where bird flu was found first in the state this year. This was followed by destruction of 1,603 eggs, 3,800kg poultry feed and 100kg shell grit in Thane. The culling process was started after ICAR-National Institute of High-Security Animal Diseases (NIHSAD), Bhopal based a central laboratory for bird flu testing, confirmed bird flu deaths in Thane and Palghar. “The results of the samples sent to NIHSAD laboratory in Bhopal received late night on February 18. They have confirmed that the samples of poultry, turkey and quails from Vasai tehsil, Palghar were positive for H5N1 strain. Following which, the district collector has declared the area within one-km an “Infected Zone”. This is being done to enforce the prescribed containment measures laid down in the Action Plan for Prevention, Control & Containment of Avian Influenza, 2021 prepared by the Government of India. Around 456 poultry birds have also been culled there,” stated a release issued by the state animal husbandry department on Saturday. Further, a surveillance zone within a radius of 10-km has been declared, which means no birds will be allowed to sell or purchase from the periphery. A team of experts from disease investigation section, commissionerate of animal husbandry, Pune has also been deputed for supervising and monitoring the biosecurity measures undertaken at the said location such as to check if bird deaths are reported in the area, it adds. So far, bird flu deaths are confirmed only in two districts. No mortality among birds has been reported anywhere in the state. We have sent samples from these two districts only,” Sachindra Pratap Singh, state animal husbandry commissioner. “The district collectors have been empowered to start the culling process following the advisory issued by the central government. It can be started soon after the cause of death is confirmed as bird flu. The quick culling of the birds will help in containing the spread in other districts,” he said. The culling is being done within a one-km periphery of the poultry farm affected with the virus. SHARE THIS ARTICLE ON']
+
+
+23k----QTY
+
+birds----SP.COMMON
+
+culled----CRIME.CAT
+
+Thane----LOC.CITY
+
+456----QTY
+
+poultry----SP.COMMON
+
+Palghar----LOC.EXACT
+
+Saturday----DATE
+
+23,428----QTY
+
+poultry birds----SP.COMMON
+
+Thane----LOC.CITY
+
+Palghar----LOC.DISTRICT
+
+February 18----DATE
+
+456----QTY

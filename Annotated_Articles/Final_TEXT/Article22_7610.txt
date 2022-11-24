@@ -1,0 +1,17 @@
+
+['Rare Civet Rescued From Garage, Set Free In N Bengal\nKOLKATA: An awareness campaign among residents of a part of Cooch Behar town by members of an NGO has helped in the reunion of a female large Indian civet — whose sighting is considered very rare — with its cubs.The adult civet that was rescued from a house in Cooch Behar’s New Town on Wednesday was finally released at the same location on Thursday.Human and Environment Alliance League (HEAL) member Ardhendu Banik said the civet was rescued from the garage of the house. “Its size is that of a stray dog and it was very aggressive at that time as it was panicking. After capturing it, as we were planning to bring it to the local forest range office, a few residents of the area said they had spotted two of its cubs there a few days ago and showed us the pictures.”“Soon, we decided to speak to the residents and make them understand that these civets, which are very rare, are not at all harmful,” Banik continued. “After the talks, they agreed with us to release it back in the same area.” The civet was taken to an abandoned garden just behind the house from where it was rescued and released on Thursday.The large Indian civet is native to South and Southeast Asia. Its global population is considered to be declining mainly because of trapping-driven dips in heavily hunted and fragmented areas, notably in China, and the heavy trade as wild meat.']
+
+
+Civet----SP.COMMON
+
+Bengal----LOC.STATE
+
+Cooch Behar town----LOC.EXACT
+
+large Indian civet----SP.SPECIFIC
+
+Cooch Behar’s New Town----LOC.EXACT
+
+Wednesday----DATE
+
+Thursday----DATE

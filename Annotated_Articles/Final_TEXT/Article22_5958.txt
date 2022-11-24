@@ -1,0 +1,25 @@
+
+['10-year old elephant dies of gunshot wound in Odisha\nNEW DELHI : A 10 year old male elephant, who suffered severe gunshot injuries, has died in Athagarh forest division of Odisha’s Cuttack district. The jumbo was shot at five to six places on its body including head, trunk and leg. He was under treatment by the State Forest Department. Veterinary doctors from Satkosia Tiger Reserve, Nandankanan Zoological Park and Odisha University of Agriculture and Technology (OUAT) were engaged for its treatment. However, on Tuesday morning, the body temperature of the jumbo suddenly increased and it succumbed to its injuries, they said. “Elephant is our heritage animal and has been given the highest protection under WLP Act. The ministry has taken cognisance of the incident and the matter has been taken up with the state govt for strict action against the poachers to ensure protection of our wildlife heritage," said Bhupender Yadav, Union Minister for Environment, Forest and Wildlife. According to official sources, at least 133 elephants have been poached or poisoned across Odisha, 144 electrocuted, 36 mowed down by trains and six killed by speeding vehicles since April 2010.']
+
+
+elephant----SP.COMMON
+
+Odisha----LOC.STATE
+
+elephant----SP.COMMON
+
+Athagarh forest division of Odisha’s Cuttack district----LOC.DISTRICT
+
+jumbo----SP.COMMON
+
+head----ITEM
+
+State Forest Department----AUTH.SEIZE
+
+Satkosia Tiger Reserve----AUTH.SEIZE
+
+Nandankanan Zoological Park----AUTH.SEIZE
+
+Odisha University of Agriculture and Technology (OUAT)----AUTH.SEIZE
+
+Tuesday----DATE

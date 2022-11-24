@@ -1,0 +1,37 @@
+
+["Kerala: Elephant brought for housewarming tramples two guests to death\nIndia Kerala: Elephant brought for housewarming tramples two guests to death Kerala: Elephant brought for housewarming tramples two guests to death Written by Shiladitya Ray Feb 09, 2019, 12:15 pm 2 min read What was supposed to be a jolly occasion for a family in Kerala turned into a nightmare after a temple elephant brought for a housewarming party panicked, ran amok, and ended up killing two elderly people, and injuring nine. Notably, the elephant, 54-year-old Thechikottukavu Ramachandran, is the tallest in Kerala, and also has quite a notorious reputation. Here's more. Housewarming The elephant was brought in from a temple The house owner, Shaiju, is said to be in the managing committee of a nearby temple, and had brought the elephant in for a ceremony that was to be held on Friday. Owing to his housewarming party also being on Friday, he decided to get the elephant over to mark the auspicious occasion. However, something alarmed the elephant, and chaos ensued. Incident Details about the tragic incident Police have said that as of now it is unclear what alarmed the elephant. It could have been the percussion artists playing at the housewarming party, or it could have been firecrackers that were being burst nearby. The panicked elephant then trampled 66-year-old Narayanan Patteri who had come from Kannur to attend the party. He died on the spot. Another guest, 60-year-old Murugan, succumbed to his injuries at a hospital. Elephant Thechikottukavu Ramachandran has killed 11 other people Incidentally, the 54-year-old one-eyed elephant is considered the most dangerous captive elephant in Kerala, and has killed 11 other people and three elephants in its lifetime. Yet, Thechikottukavu Ramachandran is also the most popular elephant in the state, and has thousands of fans and multiple Facebook pages dedicated to him. Typically, Ramachandran is paraded around Kerala, and covers 70-80 temple festivals annually. Do you know? The Kerala HC had banned Ramachandran six times Such is Ramachandran's notoriety that the Kerala High Court had banned the elephant from being paraded at least six times. The last ban had come in 2016. However, despite the bans, Ramachandran continues to be paraded across Kerala. History A brief background of Ramachandran Ramachandran was originally raised in Bihar as Moti Prasad. In 1982, it was brought to Kerala and sold to the Peramangalam Thechikottukavu temple, which still owns it. During its time in Kerala, a mahout hit it in the eye when it did not obey orders in Malayalam, and the elephant ended up losing one eye. It's believed that this incident turned Ramachandran violent."]
+
+
+Kerala----LOC.STATE
+
+Elephant----SP.COMMON
+
+tramples----CRIME.CAT
+
+two----SUS.NUMBER
+
+Elephant----SP.COMMON
+
+Elephant----SP.COMMON
+
+tramples----CRIME.CAT
+
+two----SUS.NUMBER
+
+elephant----SP.COMMON
+
+Shaiju----SUS.NAME
+
+Friday----DATE
+
+Friday----DATE
+
+66-year-old----SUS.AGE
+
+Narayanan Patteri----SUS.NAME
+
+Kannur----SUS.LOC
+
+60-year-old----SUS.AGE
+
+Murugan----SUS.NAME

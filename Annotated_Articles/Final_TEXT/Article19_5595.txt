@@ -1,0 +1,65 @@
+
+['Timber mafia eyes Siddhamatha reserve forest\nBarbil: Forest department officials Wednesday night caught four timber smugglers red-handed from the Siddhamatha reserve forest of Barbil forest range in Keonjhar district. The four arrested persons are known to be Emanul Hussain of Khalaposi village under Majhigaon police limits in west Singhbhum district of Jharkhand, Jitendra Hembram of Kolha Roida village under Rugudi police limits, John Munda and Jiten Munda, both of Baneikala area under Joda police limits, a report said. According to sources, the officials seized six large logs of wood, 14 long pieces of plank, a saw and a bike on the spot from the possession of the accused. However, a team comprising Barbil forester and in-charge of Guali forester Dasarath Giri, Kendudihi beat forest guard Saroj Naik, Jhadagaon beat forest guard Ratnakar Mahanta was on a routine patrol on Barabanka forest road along NH-520 when it heard the sound of trees being cut inside forest at Tonto and caught the accused. The cost of the seized timber is said to be over Rs1 lakh and the forest department has filed a case in this connection.']
+
+
+Timber mafia----AUTH.MISC
+
+Siddhamatha reserve forest----LOC.EXACT
+
+Forest department----AUTH.SEIZE
+
+Wednesday----DATE
+
+night----TIME
+
+four----SUS.NUMBER
+
+Siddhamatha reserve forest of Barbil forest range----LOC.EXACT
+
+Keonjhar----LOC.DISTRICT
+
+four----SUS.NUMBER
+
+Emanul Hussain----SUS.NAME
+
+Khalaposi village----SUS.LOC
+
+Jitendra Hembram----SUS.NAME
+
+Kolha Roida village----SUS.LOC
+
+John Munda----SUS.NAME
+
+Jiten Munda----SUS.NAME
+
+Baneikala area----SUS.LOC
+
+six----QTY
+
+14----QTY
+
+a----QTY
+
+saw----ITEM
+
+a----QTY
+
+bike----ITEM
+
+forester and in-charge of Guali forester----OFF.DESIG
+
+Dasarath Giri----OFF.NAME
+
+Kendudihi----OFF.NAME
+
+forest guard----OFF.DESIG
+
+Saroj Naik----OFF.NAME
+
+forest guard----OFF.DESIG
+
+Ratnakar Mahanta----OFF.NAME
+
+routine patrol----DETECTION_METHOD
+
+Rs1 lakh----VALUE

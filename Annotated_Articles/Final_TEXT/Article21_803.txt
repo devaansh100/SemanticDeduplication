@@ -1,0 +1,45 @@
+
+['Female jumbos rescued near Jalpaiguri, 4 held\nSources in the forest department said the elephants were bought in Arunachal Pradesh and were supposed to be taken to Gujarat The elephants and the arrested quartet were handed over to a team of the forest department of Assam. The state forest department rescued two female elephants on Sunday night while the animals were being taken to Jamnagar in Gujarat from Arunachal Pradesh in a truck. On Monday, the elephants and the arrested quartet were handed over to a team of the forest department of Assam. Rajendra Jakhar, the chief conservator of forests (north), on Sunday said a team of foresters in Assam intercepted the vehicle in Dhubri. “The driver was asked to produce documents to prove that they are transporting the elephants — one 18-year-old and another eight-year-old — in a legal manner but they managed to escape the spot with the vehicle,” Jakhar said. “We got information about the elephants and accordingly, the truck was stopped at the checkpost near Teesta river on NH 27, on the outskirts of Jalpaiguri. On Monday, a team from Assam reached the spot and we handed over the elephants as well as the four persons who were in the truck and detained. They left for Dhubri in the afternoon,” Jakhar added. Sources in the forest department said the elephants were bought in Arunachal Pradesh and were supposed to be taken to Gujarat. “The persons who were there in the truck claimed that the elephants were bought as a person wanted to donate the animals to a temple in Gujarat. However, there were discrepancies in the documents,” said a forester.']
+
+
+Female jumbos----SP.COMMON
+
+rescued----CRIME.CAT
+
+Jalpaiguri----LOC.CITY
+
+4----SUS.NUMBER
+
+Arunachal Pradesh----ROUTE.SRC
+
+Gujarat----ROUTE.DEST
+
+forest department of Assam.----AUTH.SEIZE
+
+state forest department----AUTH.SEIZE
+
+rescued----CRIME.CAT
+
+two----QTY
+
+Sunday----DATE
+
+night----TIME
+
+Jamnagar----ROUTE.DEST
+
+Arunachal Pradesh----ROUTE.SRC
+
+truck----TRANSPORT_MODE
+
+Monday----DATE
+
+forest department of Assam.----AUTH.SEIZE
+
+information----DETECTION_METHOD
+
+four----SUS.NUMBER
+
+Arunachal Pradesh----ROUTE.SRC
+
+Gujarat----ROUTE.DEST

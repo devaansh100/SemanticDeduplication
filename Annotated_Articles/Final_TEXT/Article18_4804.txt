@@ -1,0 +1,43 @@
+
+['Bengal Monitor Lizard News: Man Jailed For Killing Bengal Monitor Lizard\nJALPAIGURI: An Alipurduar court on Wednesday sentenced a man to three years of rigorous imprisonment for killing a Bengal monitor lizard , which is protected under the Schedule I of Wildlife Act 1972.What’s made the forest department officials and wildlife enthusiasts more jubilant is the time taken in giving the verdict. From the arrest to awarding him the three years of RI, it took just 52 days.On February 19, Jaldapara National Park foresters arrested Birsing Munda (27) of Jogendranagar from Jaldapara West for killing a fully grown Bengal monitor lizard. “Before he could take the carcass to his house, our men caught him and recovered the carcass. A case was framed against him under Wildlife Act 1972, CR case No. 175/22 (of JPW Range/ Jaldapara wildlife division),” said divisional forest officer, Jaldapara wildlife division, Dipak M.“The case was fast tracked with submission of POR on time and requesting custody trial . The judgment of the case has come in a record time of 52 days from the date of arrest,” he said.“This is a very good sign that trials of such cases are getting over in a period of less than two months. Such judgments will surely demotivate people with similar intentions. Killing of wild animals for aphrodisiac is a common practice and this needs to be stopped,” said Animesh Bose, honorary wildlife warden.']
+
+
+Bengal Monitor Lizard----SP.SPECIFIC
+
+Man----SUS.GENDER
+
+Jailed----CRIME.CAT
+
+Killing----CRIME.CAT
+
+Bengal Monitor Lizard----SP.SPECIFIC
+
+Wednesday----DATE
+
+man----SUS.GENDER
+
+three years of rigorous imprisonment----OUTCOME
+
+killing----CRIME.CAT
+
+Bengal monitor lizard----SP.SPECIFIC
+
+February 19----DATE
+
+Jaldapara National Park foresters----AUTH.SEIZE
+
+arrested----CRIME.CAT
+
+Birsing Munda----SUS.NAME
+
+27----SUS.AGE
+
+Jogendranagar----SUS.LOC
+
+Jaldapara West----SUS.LOC
+
+killing----CRIME.CAT
+
+Bengal monitor lizard----SP.SPECIFIC
+
+case was framed----OUTCOME

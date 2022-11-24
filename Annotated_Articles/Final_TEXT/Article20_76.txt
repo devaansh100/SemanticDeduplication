@@ -1,0 +1,69 @@
+
+['5 more arrested for tiger poaching in Saoli\nCHANDRAPUR: Five more persons were arrested on Monday evening in connection with the poaching of tiger in Saoli range last month.The accused were produced before the court of judicial magistrate first class at Saoli on Tuesday and remanded in judicial custody . With this, total number of arrests in the case has now reached 12.The poaching was carried out around a month back and it was not clear whether the animal killed was leopard or tiger. However, the whiskers and paw recovered from the poachers suggested that the animal was a tiger. The accused had laid electrified wire in the forest near Kapsi village and the tiger was electrocuted in compartment no. 201.Forest department had earlier arrested Suresh Gedam and Ramesh Bhoyar and detained a juvenile. They had also recovered bones of the poached animal. Investigation revealed that the accused were habitual poachers involved in herbivore killing.However, during one such endeavour, a tiger was electrocuted. The accused had confessed to poaching the feline in the last week of December. Later four more accused were arrested.The five arrested on Monday include Bapu Bhoyar, Madgu Sakhare, Manohar Kosre, Devaji Gedam and Angadas Sakhare. All belong to Kapsi village.4 detained for poaching leopards, bearsMeanwhile, forest officials of Bhadrawati range have detained four suspects in connection with poaching of two leopards and two bears in DSC Colony area of Chanda Ordnance Factory.The poachers had laid electrified wire for poaching wild herbivores, but pairs of leopards and sloth bears were killed due to electrocution. Their carcasses were recovered on January 1.Sources claimed that officials had started searching for the suspects with the help of CCTV footage. They had zeroed in on two suspects from Piparbodi village and two others from Bhadrawati town. All four were detained for questioning on Tuesday, sources in the department said.']
+
+
+5----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+tiger----SP.COMMON
+
+poaching----CRIME.CAT
+
+Saoli----LOC.EXACT
+
+Five----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+Monday----DATE
+
+evening----TIME
+
+poaching----CRIME.CAT
+
+tiger----SP.COMMON
+
+Suresh Gedam----SUS.NAME
+
+Ramesh Bhoyar----SUS.NAME
+
+bones----ITEM
+
+poachers----SUS.AFFIL
+
+Monday----DATE
+
+Bapu Bhoyar----SUS.NAME
+
+Madgu Sakhare----SUS.NAME
+
+Manohar Kosre----SUS.NAME
+
+Devaji Gedam----SUS.NAME
+
+Angadas Sakhare----SUS.NAME
+
+Kapsi village.4 detained----SUS.LOC
+
+poaching----CRIME.CAT
+
+leopards----SP.COMMON
+
+forest officials of Bhadrawati range----AUTH.SEIZE
+
+four----SUS.NUMBER
+
+two----QTY
+
+leopards----SP.COMMON
+
+two----QTY
+
+bears----SP.COMMON
+
+DSC Colony area----LOC.EXACT
+
+Piparbodi village----SUS.LOC
+
+Bhadrawati town----SUS.LOC

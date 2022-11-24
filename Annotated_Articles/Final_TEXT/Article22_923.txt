@@ -1,0 +1,17 @@
+
+['Stray dog dies after consuming spoilt food\nMadurai: A stray dog died and another was found struggling for life after they both consumed spoilt food which is suspected to have caused poisoning. The incident took place at Narimedu area in Madurai city in the early hours of Tuesday. The rescued dog has since recovered and is lodged at the government veterinary polyclinic in Tallakulam Animal activist, Mayur Hassija , who was alerted by residents, checked the spot at around midnight, and found a female lactating mother dog dead and a male dog severely ill. “We immediately reached out to the veterinary polyclinic after which doctors were alerted and treatment for poisoning was provided. Thankfully, the dog’s condition was stable,” said the activist.Dr Nataraj Kumar , regional joint director of animal hHusbandry , said that the rescued dog was around 8-9 years old. “When the dog was brought in for treatment, its condition was serious. But, prompt treatment has ensured full recovery. The cause for the illness is unclear as the dog could have developed the condition after eating spoiled food which leads to food poisoning. There were some meat stalls nearby which may have disposed of spoiled food unintentionally,” he added.It may be recalled that in September last, three stray dogs died by poisoning in Gomathipuram. “There have been several cases in Madurai where stray dogs were poisoned intentionally. This is highly condemnable and is an offence. While the cause is unknown in this case, public should take care when disposing spoiled food as it can affect animals,” said Hassija.']
+
+
+Stray dog----SP.SPECIFIC
+
+stray dog----SP.SPECIFIC
+
+Narimedu area in Madurai city----LOC.EXACT
+
+Tuesday----DATE
+
+dog----SP.COMMON
+
+checked----DETECTION_METHOD
+
+midnight----TIME

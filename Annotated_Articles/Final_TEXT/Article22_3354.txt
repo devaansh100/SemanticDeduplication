@@ -1,0 +1,33 @@
+
+['Six turtles rescued from well with polluted water\nNavi Mumbai: Animal rights activists rescued six turtles from a polluted well in Kopar Khairane after receiving a tip-off about the distressed marine creatures.Members of non-governmental organisatios People for Animals ( PFA , Unit-2) and Bhumi Jeevdaya Samvardhan Trust, along with two local volunteers Sonu Parashar and Preksha Shetty , jointly helped in rescuing the five red-eared sliders and one softshell turtle.“We had received information earlier this week that several turtles were struggling to survive in a very polluted well in Aditwar Garden in Koparkhairane. It was shocking to see how these six turtles were living in the dirty water, with floating plastic junk, chemicals and non-consumable food particles which were thrown inside this well,” said the head of PFA Unit-2, Vijay Rangare It took the activists two days to locate all six turtles and rescue them. “Some had chemical paint over their shells and bodies while three of them had visible injuries. After medical examination, we have shifted them to the shelter of Hands That Heal Animal Care Foundation,” he added.The activists, who have also informed the local forest officials, added that these six turtles had been carelessly put inside the well which later became very polluted as no maintenance was carried out. Left stranded inside the well, the turtles were forced to depend on whatever food was thrown inside by those who visited the garden.']
+
+
+Six----QTY
+
+turtles----SP.COMMON
+
+rescued----CRIME.CAT
+
+six----QTY
+
+turtles----SP.COMMON
+
+Kopar Khairane----LOC.EXACT
+
+tip-off----DETECTION_METHOD
+
+People for Animals ( PFA , Unit-2)----AUTH.SEIZE
+
+Bhumi Jeevdaya Samvardhan Trust----AUTH.SEIZE
+
+Sonu Parashar----OFF.NAME
+
+Preksha Shetty----OFF.NAME
+
+five----QTY
+
+red-eared sliders----SP.SPECIFIC
+
+one----QTY
+
+softshell turtle.“We had received information earlier this week that several turtles were struggling to survive in a very polluted well in Aditwar Garden in Koparkhairane. It was shocking to see how these six turtles were living in the dirty water, with floating plastic junk, chemicals and non-consumable food particles which were thrown inside this well,” said the head of PFA Unit-2, Vijay Rangare It took the activists two days to locate all six turtles and rescue them. “Some had chemical paint over their shells and bodies while three of them had visible injuries. After medical examination, we have shifted them to the shelter of Hands That Heal Animal Care Foundation,” he added.The activists, who have also informed the local forest officials, added that these six turtles had been carelessly put inside the well which later became very polluted as no maintenance was carried out. Left stranded inside the well, the turtles were forced to depend on whatever food was thrown inside by those who visited the garden.----SP.SPECIFIC

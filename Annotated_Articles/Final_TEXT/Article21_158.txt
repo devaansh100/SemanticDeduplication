@@ -1,0 +1,51 @@
+
+['Hunter Held In Mayurbhanj District Of Odisha\nMayurbhanj: A hunter has been arrested by the Forest Department officials in Karanjia forest division at Kendujiani panchayat under Thakurmunda block in Mayurbhanj district of Odisha on Friday. The hunter has been identified as Banamali Nayak (52) of Dhipa Sahi of Kendujiani. According to reports, the Tiger Protection Force (TPF) officals along with Thakurmunda range offcer Kishore Kumar Panigrahi and the forester were on a patrolling duty near Chheratangara Reserve Forest where they spotted seven hunters carrying bow and arrow with them. Six of the hunters fled away from the spot when they noticed the forest officials but one has was held by the cops. Later,the officials seized the bow and arrows from the area and the matter has been registered under the case no 271.']
+
+
+Hunter----SUS.AFFIL
+
+Mayurbhanj----LOC.EXACT
+
+Odisha----LOC.STATE
+
+A----SUS.NUMBER
+
+hunter----SUS.AFFIL
+
+arrested----CRIME.CAT
+
+Forest Department----AUTH.SEIZE
+
+Thakurmunda block----LOC.CITY
+
+Mayurbhanj----LOC.DISTRICT
+
+Odisha----LOC.STATE
+
+Friday----DATE
+
+hunter----SUS.AFFIL
+
+Banamali Nayak----SUS.NAME
+
+52----SUS.AGE
+
+Dhipa Sahi----SUS.LOC
+
+Kendujiani----SUS.LOC
+
+Tiger Protection Force (TPF)----AUTH.SEIZE
+
+Thakurmunda range offcer----AUTH.SEIZE
+
+Kishore Kumar Panigrahi----OFF.NAME
+
+patrolling----DETECTION_METHOD
+
+seven----SUS.NUMBER
+
+hunters----SUS.AFFIL
+
+bow and arrows----ITEM
+
+registered under the case no 271----OUTCOME

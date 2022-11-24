@@ -1,0 +1,17 @@
+
+['Uttar Pradesh man takes snake to hospital too after it bites wife, tells doctors \'what if you ask me which snake bit her\'\nMan takes snake to hospital too after it bites his wife Photo : IANS In a bizarre incident where a woman was bitten by a snake in her house, her husband caught the reptile and put it in a bottle. He took the woman to the hospital, along with the snake in the bottle. The woman has been admitted to the district hospital where she is being treated. When the husband, Ramendra Yadav, was asked by doctors why he brought the snake along with him, he said, "What if you ask me which snake had bitten my wife. I brought the snake so that you could see for yourself." The incident took place in the early hours of Friday in the Afzal Nagar area under the Makhi police circle. Yadav later told reporters that he would release the snake in the forest area after his wife is discharged from the hospital. He said that he had pierced holes in the plastic bottle to enable the snake to breathe.']
+
+
+Uttar Pradesh----LOC.STATE
+
+man----SUS.GENDER
+
+snake----SP.COMMON
+
+snake----SP.COMMON
+
+bottle----CONCEALMENT_METHOD
+
+Ramendra Yadav----SUS.NAME
+
+Friday----DATE

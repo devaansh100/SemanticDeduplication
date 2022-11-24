@@ -1,0 +1,31 @@
+
+['West Bengal: Young elephant rescued from ditch using Archimedes’ principle; watch viral video here\nA video of forest officials rescuing a young elephant from a ditch in Midnapore, West Bengal has gone viral. The clip featured the officers applying the concept of the Archimedes’ Principle and filling the hole with water to allow the young jumbo to get out. The video was shared by District Forest Officer (DFO) Sandeep Berwal, on Monday, 21 February. The short video shows the elephant struggling to get out of the ditch it had fallen into. The young jumbo tries to push itself out of the furrow using its trunk, but is unable to do so. According to Berwal, the forest officers rushed to the spot after midnight. Using Archimedes’ Principle, the officers filled the ditch with water to create some buoyancy. They then used ropes to help the elephant scramble out of the furrow. Watch the viral clip here: Another day, another pachyderm get into trouble on 21/02/2022 at 1am in #Medinipur, no issue @WbdfSocial #Forest dept. Dedicated to serve... few lessons of #swimming and learning about #buoyancy, the #Elephant was #rescued and guided safely into #FOREST by 4am. Thanks to all.. pic.twitter.com/ahQi0NgQgP — sandeepberwal@IFS (@sandeepberwal) February 21, 2022 The clip was also shared by Indian Forest Service Officer Parveen Kaswan. It has gained over one lakh views till date. The Archimedes’ Principle states that “a body at rest in a fluid is acted upon by a force pushing upward called the buoyant force, which is equal to the weight of the fluid that the body displaces,” according to Britannica Encyclopedia. It is named after the Greek mathematician and physicist Archimedes, who formulated the theory. Berwal stated that the officers got the young jumbo out of the ditch by 4 am. The elephant returned to the forest after it was pulled out by the forest officers. The video of the elephant being recused won hearts online, with many users praising the forest officials for their quick thinking. Simple presence of mind and genuine determination to rescue. Hatsoff — #Random_Thought (@Dhakkann) February 21, 2022 Several people also pointed out that such pits could be dangerous for animals and need to be covered up for their safety. Great job. Such deep pits are dangerous for animals at night. Should be covered — Vivek (@Vivek64980627) February 21, 2022 Some users also recalled earlier instances when they had seen the Archimedes’ Principle being applied to rescue animals from furrows. 3 years ago, a big male buffalo fell into well in my village. We did the same thing, put more water in we so that water level raises up and he comes out easily. — पं: मिमसेन (@ambikeshtiwari9) February 21, 2022 Many people congratulated the forest officers for pulling off the rescue attempt successfully and efficiently. Now this is how a work of perfection looks like! Hats off to the entire team 🙏🏽 https://t.co/HrVpg0geeo — Swaroop Singha Roy (@swaroop_sroy) February 21, 2022 What are your thoughts on this rescue? Read all the Latest News, Trending News, Cricket News, Bollywood News, India News and Entertainment News here. Follow us on Facebook, Twitter and Instagram.']
+
+
+West Bengal----LOC.STATE
+
+Young elephant----SP.COMMON
+
+rescued----CRIME.CAT
+
+Archimedes’----SP.COMMON
+
+forest officials----AUTH.SEIZE
+
+Midnapore----LOC.DISTRICT
+
+West Bengal----LOC.STATE
+
+District Forest Officer (DFO)----OFF.DESIG
+
+Sandeep Berwal----OFF.NAME
+
+Monday----DATE
+
+21 February----DATE
+
+elephant----SP.COMMON
+
+midnight----TIME
+
+1am----TIME

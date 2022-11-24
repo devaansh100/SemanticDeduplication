@@ -1,0 +1,17 @@
+
+['Fox A Duck and A Circular Pond Puzzle\nPuzzle on Fox, A Duck and A Circular Pond In this puzzle, there is a situation where we have a fox, a duck and a circular pond. Read the premise, rule, and objective carefully. Premise – A Duck persuaded by a Fox escapes by sitting in the center of a circular pond with a radius of r. Rule – The Duck can only fly on land and cannot fly on the water. Fox is also unable to swim. The Fox has a four-fold faster speed than the Duck. Objective – Is it possible for the Duck to reach the edge of the pond and fly away from the earth if both the Duck and the Fox are perfectly intelligent?']
+
+
+Fox----SP.COMMON
+
+Duck----SP.COMMON
+
+Fox----SP.COMMON
+
+A----QTY
+
+Duck----SP.COMMON
+
+fox----SP.COMMON
+
+duck----SP.COMMON

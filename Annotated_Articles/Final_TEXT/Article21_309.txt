@@ -1,0 +1,41 @@
+
+['Four poachers arrested in Kodagu\nFour poachers arrested in Kodagu Madikeri, May 18(UNI) Four poachers were arrested along with hunted animals at two places in Kodagu District. Forest officials said on Tuesday that the first incident of poaching was reported from Somwarpet Taluk where two poachers had ventured into the Jenukallu Reserve Forest on the lookout for their quarry. Based on a tip-off, the Forest Department staff raided the house of one Kaverappa alias Thamoo from Hosahalli village and seized two kg spotted deer (Chital) meat and three kgs of barking deer meat (Kadu Kuri).']
+
+
+Four----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+Kodagu----LOC.DISTRICT
+
+Four----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+Kodagu----LOC.DISTRICT
+
+May 18(UNI----DATE
+
+Four----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+Tuesday----DATE
+
+Somwarpet Taluk----ROUTE.SRC
+
+tip-off----DETECTION_METHOD
+
+Forest Department staff----AUTH.SEIZE
+
+two kg----QTY
+
+deer (Chital) meat----ITEM
+
+three kgs----QTY
+
+barking----SP.SPECIFIC
+
+deer----SP.COMMON
+
+meat----ITEM

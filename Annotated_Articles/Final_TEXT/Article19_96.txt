@@ -1,0 +1,17 @@
+
+['Krishna killing kamsa\nIn his plan to kill Krishna, Kamsa invited Balaram and Krishna to Mathura to attend a festival. There, he commissioned an elephant o kill them. As they were entering, they found the elephant, Kuvalayapida blocking the way. Krishna asked the care taker to remove the elephant. But he provoked the elephant to attack Krishna. It seized Krishna with its trunk. But Krishna forcefully punched the elephant and lifted it by its tail and dragged it backwards. Then he pushed the elephant down, as i tried to harm him with its tusks. Then Krishna went near the fallen elephant and removed its tusks and killed it. Both the brothers took the tusks on their shoulders and marched triumphnatly. When Kamsa heard about the killing of Kuvalayapida elephant he became very scared and worried. He arranged for a wrestling match in which he selected two of his best wrestlers Charuna and Mushtika to fight against Krishna and BAlaram. Krishna and Balaram killed both the wrestlers. Krishna attacked Kamasa by jumping over his guards. Kamsa was prepared for the attack. krishna dragged Kamsa from his throne to the wrstling dais and trashed him down. Simply by the stoke of his fist, Krishna killed him. Thus all the evil plans made by Kamsa to kill Krishna failed. Demigods showered flowers from the sky.']
+
+
+Krishna----SUS.NAME
+
+killing----CRIME.CAT
+
+Balaram----SUS.NAME
+
+Krishna----SUS.NAME
+
+Charuna----SUS.NAME
+
+Mushtika----SUS.NAME
+
+BAlaram----SUS.NAME

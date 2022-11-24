@@ -1,0 +1,19 @@
+
+['Scary video: Crocodile surfaces with ‘Missing Man’ in its jaws after killing him\nCrocodiles are the fiercest living creatures on the planet. Its bite force is so strong that it can rip any object into bits and pieces. It does anything to catch its prey. In a heart-wrenching incident, a rescue team was stunned to spot a giant crocodile carrying a man’s leg in its strong jaws. What’s even more gut-wrenching is, the rescue team discovered that it was the leg of a snorkeller they were searching for. As per the reports, a 30-year-old man identified as Darlin Uti was snorkelling in the murky river in a bid to fix an underwater pipe near his home in southeast Sulawesi located in Indonesia, on April 12. When he stumbled upon the crocodile, it just immediate caught him. The crocodile caught him in its jaws around in the water and then vanished deep in the river, with its incisive teeth clamping Darlin’s groin. The Search and Rescue Team (SAR) finally spotted the missing man’s body in the next day, when the crocodile came above the surface of water with its jaws still tightly gripped around Darlin’s groin. In fact, there was a massive bite wound in Darlin’s groin which could have caused him to bleed and die in the water, but the body was still intact inside the crocodile’s mouth, according to a member of the rescue team. The rescuers boarded boats and slowly retrieved Uti’s body and then returned it to his family for a funeral. Here’s the video below:']
+
+
+Crocodile----SP.COMMON
+
+30-year-old----SUS.AGE
+
+man----SUS.GENDER
+
+Darlin Uti----SUS.NAME
+
+April 12----DATE
+
+crocodile----SP.COMMON
+
+Search and Rescue Team----AUTH.MISC
+
+SAR----AUTH.MISC

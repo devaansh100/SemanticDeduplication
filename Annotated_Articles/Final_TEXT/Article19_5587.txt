@@ -1,0 +1,19 @@
+
+['Bandipur tiger which killed farmer finally captured, to be taken to Mysuru\nBandipur tiger which killed farmer finally captured, to be taken to Mysuru Department officials said that the tiger is in a healthy condition and will be rehabilitated in accordance with the National Tiger Conservation guidelines. news Wildlife Five days after Karnataka Forest Department officials began a hunt for a maneater responsible for killing a farmer in Karnataka’s Bandipur area, the tiger was finally captured on Sunday afternoon, after being shot with tranquilizers. Department officials confirmed that the tiger is in a healthy condition and will be rehabilitated in accordance with the National Tiger Conservation guidelines. After a thorough medical check up, the tiger will be taken to Mysuru and be put in a rehabilitation centre meant for maneater-cats. Both Head of Forest Department Sridhar Punati and Assistant Conservator of Forests of Gopalswamy Betta Range Ravi Kumar confirmed that the tiger has been captured and is being kept in a mobile enclosure. “The tiger was moving from the forest areas to fringe areas, in a 20 km radius around Chowdiah and Hindupra villages. The terrain and thick bushes made our job very difficult,” Ravi added. The Bandipur tiger reserve, a popular tourist destination in southern India, is a 872 square km reserve forest in Chamarajanagar district on the border with Tamil Nadu. It is about 220 kms southwest of Bengaluru. Informed sources said, “The district authorities will have to issue Section 144 to ensure that they can transport the animal safely to Mysuru as there is a lot of anger among the public.” The hunt for the tiger began on Tuesday after 80-year-old Shivalingappa was killed by the big cat in the Hundipura area in the buffer zone of the tiger reserve. The situation was volatile, with villagers angry with the Forest Department . The tiger is also suspected of having killed another farmer and several cattle in September. Cameras were set up to track its movements and traps were set up. By Wednesday, there were more than 100 camera traps, 150 forest staff on six elephants and multiple vehicles taking part in the operations. Visuals from the camera traps showed that the tiger is a healthy one and was moving very quickly.']
+
+
+Bandipur tiger----SP.SPECIFIC
+
+Mysuru----LOC.CITY
+
+Bandipur tiger----SP.SPECIFIC
+
+Mysuru Department----AUTH.SEIZE
+
+Head of Forest Department----OFF.DESIG
+
+Sridhar Punati----OFF.NAME
+
+Assistant Conservator of Forests of Gopalswamy Betta Range----OFF.DESIG
+
+Ravi Kumar----OFF.NAME

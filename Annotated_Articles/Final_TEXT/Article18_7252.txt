@@ -1,0 +1,15 @@
+
+['Khijadiya Bird Sanctuary: Latest News, Videos and Photos of Khijadiya Bird Sanctuary\nBird experts, activists protest construction inside Khijadiya TNN / Dec 12, 2016, 11:45 (IST) Pained over massive destruction taking place in the name of beautification at khijadiya bird sanctuary, bird watchers and naturalists gathered in large numbers at Jamnagar on Saturday night to chalk out a plan to intensify their protest against the ongoing construction work in the protected area.']
+
+
+Khijadiya Bird Sanctuary----LOC.EXACT
+
+Khijadiya----LOC.EXACT
+
+khijadiya bird sanctuary----LOC.EXACT
+
+Jamnagar----LOC.EXACT
+
+Saturday----DATE
+
+night----TIME

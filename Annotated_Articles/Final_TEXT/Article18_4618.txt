@@ -1,0 +1,25 @@
+
+['Forest ranger attacked by leopard in Uttarakhand’s Rishikesh\nRishikesh (U’khand), Apr 7 (PTI) A forest ranger was injured after a leopard that had strayed into a residential colony here attacked him on Thursday. The ranger had gone to rescue the animal that had hid itself in a house. The incident took place at noon in Meera Nagar, forest department sources said. The occupants of the house located in lane number 14 of the colony shut the room from outside as the leopard entered it and informed the forest authorities. When forest ranger of Rishikesh Lalit Mohan Singh Negi visited the house along with his team and entered the room, they did not see anything at once. But the leopard that was hiding under the bed pounced on Negi, leaving him injured. The ranger, who sustained injuries in his head and hands, was rushed to the AIIMS, Rishikesh for treatment. People who reside in the house owned by Nand Kishor Tyagi are safe. Efforts are still underway to tranquilise the big cat and trap him. PTI COR ALM RC This report is auto-generated from PTI news service. ThePrint holds no responsibility for its content.']
+
+
+attacked----CRIME.CAT
+
+leopard----SP.COMMON
+
+Uttarakhand’s----LOC.STATE
+
+Rishikesh----LOC.EXACT
+
+leopard----SP.COMMON
+
+Thursday----DATE
+
+noon----TIME
+
+Meera Nagar----LOC.EXACT
+
+forest ranger----OFF.DESIG
+
+Lalit Mohan Singh Negi----OFF.NAME
+
+leopard----SP.COMMON

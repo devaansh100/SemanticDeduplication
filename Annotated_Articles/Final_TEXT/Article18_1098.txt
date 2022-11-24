@@ -1,0 +1,15 @@
+
+['Elephant dies of gunshot wounds in Odisha\nBhubaneswar, Jun 14 (PTI) A 10-year-old male elephant, which suffered gunshot injuries, died in Odisha’s Cuttack district on Tuesday, a senior forest official said. The jumbo was found with gunshot wounds near a rivulet in Narasinghapur forest range in the district last week. The animal was being treated by doctors of the Satakosia Tiger Reserve, Nandankanan Zoological Park and Odisha University of Agriculture and Technology, Bhubaneswar, he said. However, all efforts to keep the elephant alive failed and he passed away on Tuesday, Forest Ranger Prafulla Dehuri said. The tusker had developed septicemia, which could not be controlled even after injecting antibiotics, Dehuri said. The matter came to the light after Badamba MLA Debi Prasad Mishra drew the attention of Forest and Environment Minister P K Amat about the injured elephant, which was spotted struggling for survival last week. Alleged poachers had opened fire from country-made guns, leaving the jumbo with deep injuries on its ear, neck and legs, officials said. According to official sources, at least 133 elephants have been poached or poisoned across Odisha, 144 electrocuted, 36 mowed down by trains and six killed by speeding vehicles since April 2010. PTI AAM RBT RBT This report is auto-generated from PTI news service. ThePrint holds no responsibility for its content.']
+
+
+Elephant----SP.COMMON
+
+Odisha----LOC.STATE
+
+elephant----SP.COMMON
+
+Cuttack----LOC.DISTRICT
+
+Tuesday----DATE
+
+last week----DATE

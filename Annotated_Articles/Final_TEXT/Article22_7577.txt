@@ -1,0 +1,79 @@
+
+['Six severely injured in bear attack in Srikakulam\nBy Express News Service SRIKAKULAM: At least six people were injured in a bear attack at Kidisingi village in Vajrapukotturu mandal, Srikakulam on Monday. The attack comes a day after the sloth bear killed a farmer at the cashew orchards, here, on Sunday. While the injured were given first aid at a government hospital in Palasa, they were later shifted to RIMS, Srikakulam. Five of them sustained severe injuries and were moved to a private hospital in the city. Koushik, a resident of Vajrapukotturu, said a bear has been wandering in the cashew orchards on the outskirts of the mandal, attacking people and livestock for the past two days. The bear killed Kalamata Kodanda Rao of Kidisingi village while he heading towards the cashew orchards on Sunday. Later, it trampled two cows to death early on Monday. The wild animal attacked one Tamada Shanmukha Rao while he was working at his cashew orchard on Monday. Three youngsters \xad—Kalisetti Appalaswamy, Ch Chalapathi Rao and Upparapalli Santosh—rushed to the spot and tried to rescue him, but the bear attacked them as well. Ex-serviceman, army man come to villagers’ rescue Later, an ex-army man, Pothanapalli Tulasi Rao, and his brother Purushottam, who is currently serving in the Indian Army, rushed to the spot and tackled the bear rescuing the other four people. While Tulasi sustained injuries, Purushottam succeeded in driving the bear away. Locals immediately rushed them to the hospital. It has been learnt that the condition of five of the injured is serious. Vajrapukotturu police and forest officials launched an investigation. Speaking to TNIE, Forest Range Officer (Kasibugga), A Muralikrishnam Naidu informed that the bear had ventured into the villages in search of water and food. He confirmed, “It has been attacking people and cattle for the past two days. It killed one person in Kidisingi village on Sunday.” Stating that they have been organising an awareness campaign, with the help of local police and revenue officials, in the neighbouring villages, the official appealed to the public not to venture into the orchards after sunset. Elusive tiger 6 km inside reserve forest: Officials Kakinada: The elusive male adult tiger, which has been on the prowl for over 15 days, reportedly entered the Lododdipalem-Gowravaka reserve forest, which is 6 km away from Sarabhavaram village. Forest officials said it was spotted near the Patti Chinthala (Dharakaluva) project and was actively moving in the area between 5 pm and 6.30 am SRIKAKULAM: At least six people were injured in a bear attack at Kidisingi village in Vajrapukotturu mandal, Srikakulam on Monday. The attack comes a day after the sloth bear killed a farmer at the cashew orchards, here, on Sunday. While the injured were given first aid at a government hospital in Palasa, they were later shifted to RIMS, Srikakulam. Five of them sustained severe injuries and were moved to a private hospital in the city. Koushik, a resident of Vajrapukotturu, said a bear has been wandering in the cashew orchards on the outskirts of the mandal, attacking people and livestock for the past two days. The bear killed Kalamata Kodanda Rao of Kidisingi village while he heading towards the cashew orchards on Sunday. Later, it trampled two cows to death early on Monday. The wild animal attacked one Tamada Shanmukha Rao while he was working at his cashew orchard on Monday. Three youngsters \xad—Kalisetti Appalaswamy, Ch Chalapathi Rao and Upparapalli Santosh—rushed to the spot and tried to rescue him, but the bear attacked them as well. Ex-serviceman, army man come to villagers’ rescue Later, an ex-army man, Pothanapalli Tulasi Rao, and his brother Purushottam, who is currently serving in the Indian Army, rushed to the spot and tackled the bear rescuing the other four people. While Tulasi sustained injuries, Purushottam succeeded in driving the bear away. Locals immediately rushed them to the hospital. It has been learnt that the condition of five of the injured is serious. Vajrapukotturu police and forest officials launched an investigation. Speaking to TNIE, Forest Range Officer (Kasibugga), A Muralikrishnam Naidu informed that the bear had ventured into the villages in search of water and food. He confirmed, “It has been attacking people and cattle for the past two days. It killed one person in Kidisingi village on Sunday.” Stating that they have been organising an awareness campaign, with the help of local police and revenue officials, in the neighbouring villages, the official appealed to the public not to venture into the orchards after sunset. Elusive tiger 6 km inside reserve forest: Officials Kakinada: The elusive male adult tiger, which has been on the prowl for over 15 days, reportedly entered the Lododdipalem-Gowravaka reserve forest, which is 6 km away from Sarabhavaram village. Forest officials said it was spotted near the Patti Chinthala (Dharakaluva) project and was actively moving in the area between 5 pm and 6.30 am']
+
+
+Six----SUS.NUMBER
+
+bear----SP.COMMON
+
+attack----CRIME.CAT
+
+Srikakulam----LOC.DISTRICT
+
+bear----SP.COMMON
+
+Kidisingi village in Vajrapukotturu mandal----LOC.EXACT
+
+Srikakulam----LOC.CITY
+
+Monday----DATE
+
+sloth bear----SP.COMMON
+
+Kalamata Kodanda Rao----SUS.NAME
+
+Kidisingi village----SUS.LOC
+
+Sunday----DATE
+
+Monday----DATE
+
+­—Kalisetti Appalaswamy----SUS.NAME
+
+Ch Chalapathi Rao----SUS.NAME
+
+Upparapalli Santosh----SUS.NAME
+
+Pothanapalli Tulasi Rao----SUS.NAME
+
+Purushottam----SUS.NAME
+
+tiger----SP.COMMON
+
+SRIKAKULAM----LOC.CITY
+
+six----SUS.NUMBER
+
+bear----SP.COMMON
+
+attack----CRIME.CAT
+
+Kidisingi village----LOC.EXACT
+
+Monday----DATE
+
+sloth bear----SP.COMMON
+
+Kalamata Kodanda Rao----SUS.NAME
+
+Kidisingi village----SUS.LOC
+
+Monday----DATE
+
+­—Kalisetti Appalaswamy----SUS.NAME
+
+Ch Chalapathi Rao----SUS.NAME
+
+Upparapalli Santosh----SUS.NAME
+
+Ex-serviceman, army man come to villagers’ rescue Later, an ex-army man----SUS.AFFIL
+
+Pothanapalli Tulasi Rao----SUS.NAME
+
+Purushottam----SUS.NAME
+
+tiger----SP.COMMON
+
+Lododdipalem-Gowravaka reserve forest----LOC.EXACT
+
+5 pm----TIME

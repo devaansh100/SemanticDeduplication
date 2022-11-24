@@ -1,0 +1,25 @@
+
+['Chhattisgarh: Elephant found dead in Raigarh district\nA carcass of an elephant was found in a farm at Dharamjaigarh forest division of Raigarh district in Chhattisgarh on Tuesday. Forest officials said the exact reason behind the elephant’s death was yet to be ascertained. “We have found a carcass on Tuesday at a farm of one Mehtar Singh in Banhar village of Dharamjaigarh forest division. During preliminary investigation, we have not found any reason behind the death and things will [be] clear after [the] post-mortem, which is going on,” said BS Sarote, sub divisional officer of Dharamjaigarh forest division. On March 29 this year, an elephant calf was found dead in the same forest division. In 2020, between June and October, 15 elephant deaths were reported in the state in separate incidents due to various reasons. North Chhattisgarh is home to around 240 wild elephants, which roam in the coal rich forest lands in Surguja and nearby regions. Several incidents of human-elephant conflicts have surfaced in the last few years here, records show. In the last decade, the state has recorded an increase in its wildlife population including that of elephants, whose numbers rose from 225 to 290, as per the state forest department. SHARE THIS ARTICLE ON']
+
+
+Elephant----SP.COMMON
+
+found dead----CRIME.CAT
+
+Raigarh----LOC.DISTRICT
+
+carcass----ITEM
+
+elephant----SP.COMMON
+
+Chhattisgarh----LOC.DISTRICT
+
+Tuesday----DATE
+
+carcass----ITEM
+
+Tuesday----DATE
+
+Mehtar Singh----SUS.NAME
+
+Banhar village----SUS.LOC

@@ -1,0 +1,33 @@
+
+["Assam: Wild boar from Pobitora killed by poachers, meat sold in black market\nGuwahati: Amid a raging debate over the cruelty towards animals, it has now come to light that Assam locals killed a wild boar and four male hornbills that had strayed outside the Pobitora Wildlife Sanctuary. It is believed that the animals were driven out of the sanctuary due to seasonal floods. While the birds were killed at Biharibasti village near Hatibagora, the meat of the wild boar was sold to customers in the black market for a handsome sum. Meanwhile, a local NGO has filed a complaint at the neighbouring Chandrapur Police Station. Although 4 miscreants have been identified, they are yet to be arrested -- presumably due to the COVID-19 outbreak that has swept across the Kamrup (M) district, affection thousands upon thousands. Moloy Baruah, president of the NGO Early Birds which filed the complaint has said that poachers had probably killed the boar and sold the meat to customers in the locality. He added that photographs of the dead boar have been snapped by an NGO member and are being submitted to Bhaskarjyoti Mahanta, the DGP of Assam. Hornbills are also easy pickings for hunters at this point of time as the makes roam about in a bid to procure food for the females, while the latter remains in nests as it is nesting season. This development has come to the fore at a time when incidents of cruelty towards animals are already at a time. During the lockdown period, with 1.3 billion Indians staying shut indoors, animals are struggling to find an adequate amount of food to sate their bellies. However, social activists who have taken it upon themselves to feed the strays seem to be having a torrid time as well. Recently, a video went viral in which an NGO member who was bleeding profusely said that she was viciously attacked by a mob while trying to help some dogs. The Nagaland Government's decision to ban the selling of dog meat -- both cooked and uncooked -- has also added to the debate. Also Watch: It's Better to Die Than Live Like This: Street Hawker in Guwahati  "]
+
+
+Assam----LOC.STATE\
+
+Wild boar----SP.COMMON
+
+Pobitora----LOC.EXACT
+
+killed----CRIME.CAT
+
+poachers----SUS.AFFIL
+
+meat----ITEM
+
+Assam locals----SUS.AFFIL
+
+a----QTY
+
+wild boar----SP.COMMON
+
+four----QTY
+
+hornbills----SP.COMMON
+
+Biharibasti village near Hatibagora----LOC.EXACT
+
+meat----ITEM
+
+4----SUS.NUMBER
+
+photographs of the dead boar have been snapped by an NGO member and are being submitted to Bhaskarjyoti Mahanta----OUTCOME

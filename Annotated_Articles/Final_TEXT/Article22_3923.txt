@@ -1,0 +1,53 @@
+
+['Maha: Leopardess, 2 Foxes, Wild Cat, 3 Dogs Found Dead in Bhandara, Poisoning Suspected\nA leopardess, two foxes, a wild cat and three dogs were found dead in Mouza Pimpalgaon in Maharashtra’s Bhandara district on Saturday, a forest department official said. He said the carcasses were found in Adyad forest rage at around 1:30pm and poisoning may be the cause of deaths. Read all the Latest News, Breaking News and Coronavirus News here.']
+
+
+Leopardess----SP.SPECIFIC
+
+2----QTY
+
+Foxes----SP.COMMON
+
+Wild Cat----SP.COMMON
+
+3----QTY
+
+Dogs----SP.COMMON
+
+Found Dead----CRIME.CAT
+
+Bhandara----LOC.DISTRICT
+
+Poisoning----CRIME.CAT
+
+A----QTY
+
+leopardess----SP.SPECIFIC
+
+two----QTY
+
+foxes----SP.COMMON
+
+a----QTY
+
+wild cat----SP.COMMON
+
+three----QTY
+
+dogs----SP.COMMON
+
+found dead----CRIME.CAT
+
+Mouza Pimpalgaon----LOC.EXACT
+
+Maharashtra’s----LOC.STATE
+
+Bhandara----LOC.DISTRICT
+
+Saturday----DATE
+
+carcasses----ITEM
+
+1:30pm and----TIME
+
+poisoning----CRIME.CAT

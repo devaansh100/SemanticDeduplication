@@ -1,0 +1,27 @@
+
+['It happened unknowingly sir… Baby python beaten to death, forest department registers case, CCTV visuals to be taken as evidence\nTHODUPUZHA: The state forest department has registered a case against two people for allegedly beating a baby python to death, as it entered a business establishment. The baby python had entered into a mobile service centre at the Thodupuzha-Idukki road, on Wednesday afternoon. As the place got crowded, the snake hid itself under the roof sheets. Following which, the locals informed the forest department. The Forest Flying Squad soon arrived at the spot, but there was no licensed snake catcher among them. Soon after, the squad returned saying that they would reach out to licensed snake catchers. However, in the meantime, two people stabbed the snake with a stick and thrashed it to death. The baby snake was already dead when the forest officials arrived to catch it. Meanwhile, those who killed the snake had fled the place. Following which, a case was registered against the duo under the Wildlife (Protection) Act. The visuals of the accused have been found from the CCTV footage of the nearby area. No case has been registered against the shop owner. The body of the python will be handed over to the Kottayam forest surgeon for post-mortem.']
+
+
+python----SP.COMMON
+
+beaten to death----CRIME.CAT
+
+forest department----AUTH.MISC
+
+registers case----OUTCOME
+
+registered a case----OUTCOME
+
+two----SUS.NUMBER
+
+python----SP.COMMON
+
+Wednesday----DATE
+
+afternoon----TIME
+
+Forest Flying Squad----AUTH.MISC
+
+case was registered against the duo under the Wildlife (Protection) Act----OUTCOME
+
+body of the python will be handed over to the Kottayam forest surgeon for post-mortem----OUTCOME

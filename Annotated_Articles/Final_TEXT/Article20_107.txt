@@ -1,0 +1,107 @@
+
+['BSF troops seized 8,000kg sandalwood on Tuesday\nBRIEFS: The BSF also seized 8,000 Yaba tablets, valued at Rs 40 lakh, from two different locations BSF troops also succeeded in seizing other contraband items valued at Rs 3.06 lakh on the intervening night of Tuesday and Wednesday. BSF troops and Tripura forest department officials on Tuesday seized 8,000kg sandalwood, valued at over Rs 24 crore, during a joint raid in an industrial estate at Arundhuti Nagar here. The BSF also seized 8,000 Yaba tablets, valued at Rs 40 lakh, from two different locations. BSF troops also succeeded in seizing other contraband items valued at Rs 3.06 lakh on the intervening night of Tuesday and Wednesday. Police seized 9,600 WY (World is Yours) tablets from Abdul Nasir of Silchar in Cachar district on Monday night. Based on his confession, police arrested a woman drug peddler, Majida. The duo are suspected to be part of a cross-border drug racket. Assam innovator Government school students in Delhi will read about Assam’s innovator Uddhab Bharali as the State Council of Educational Research and Training will include his achievements in the entrepreneurship mindset curriculum of classes IX to XII from the next academic calendar. 10 houses gutted in Nagaon Ten houses, including seven group IV employee quarters, were gutted on the premises of Nagaon civil hospital on Tuesday. According to police, short circuit is suspected to be the cause of the fire. Meeting on flood A district-level flood preparedness meeting was held at the DC’s office here on Tuesday. Outreach event Agricultural and Processed Food Products Export Development Authority, in association with Federation of Industry and Commerce of North Eastern Region, organised an outreach programme on agriculture exports from the Northeast here on Tuesday. Budget slammed Congress leader Zondintluanga Ralte on Tuesday slammed the budget, presented by Mizoram chief minister Zoramthanga on February 19, as “anti-people”. Wrestling tourney The 25th Zeliang Wrestling Tournament was conducted at of Old Saints Higher Secondary School stadium in Old Peren Town on Tuesday. Blood donation The Lokra battalion of Assam Rifles along with Rotary Club of Greater Tezpur conducted a blood donation camp in the unit hospital on Tuesday. Governor visit Assam governor Jagdish Mukhi visited the National Institution of Design in Jorhat on Tuesday. Dhubri district tops list Dhubri district has topped in the financial inclusion among the lists of all 14 aspirational districts of the northeastern states ranked by Niti Aayog. CEO Amitabh Kant on Tuesday congratulated Dhubri deputy commissioner for the remarkable achievements in the field of financial inclusion and skill development. Darrang district has been ranked as the best performing district across the region. Teacher’s diary Nagaland chief secretary Temjen Toy on Tuesday launched a teacher’s diary in Kohima. Booklet The People’s Democratic Alliance government will commemorate its completion of two years in office at a programme here and bring out a booklet on its achievements in the last two years on March 9. Status of hunting Nagaland chief wildlife warden Vedpal Singh on Tuesday said hunting of all wild animals/birds has been strictly prohibited by the state government. Demolition drive The Pfutsero administration on Tuesday demolished portions of buildings and structures along Pfutsero-Phek road under the supervision of Pfutsero sub-divisional officer (civil) Thungbemo Patton.']
+
+
+BSF----AUTH.SEIZE
+
+seized----CRIME.CAT
+
+8,000kg----QTY
+
+sandalwood----SP.COMMON
+
+Tuesday----DATE
+
+BSF----AUTH.SEIZE
+
+8,000----QTY
+
+Yaba----SP.SPECIFIC
+
+tablets----ITEM
+
+Rs 40 lakh----VALUE
+
+BSF troops----AUTH.SEIZE
+
+Rs 3.06 lakh----VALUE
+
+Wednesday----DATE
+
+BSF troops----AUTH.SEIZE
+
+Tripura forest department----AUTH.SEIZE
+
+Tuesday----DATE
+
+seized----CRIME.CAT
+
+8,000kg----QTY
+
+sandalwood----SP.SPECIFIC
+
+Rs 24 crore----VALUE
+
+BSF----AUTH.SEIZE
+
+8,000----QTY
+
+Yaba----SP.SPECIFIC
+
+tablets----ITEM
+
+Rs 40 lakh----VALUE
+
+BSF troops----AUTH.SEIZE
+
+Rs 3.06 lakh----VALUE
+
+Wednesday----DATE
+
+9,600----QTY
+
+WY (World is Yours) tablets----ITEM
+
+Abdul Nasir----SUS.NAME
+
+Silchar----SUS.LOC
+
+Monday----DATE
+
+night----TIME
+
+a----SUS.NUMBER
+
+woman drug----SUS.GENDER
+
+Nagaon----LOC.EXACT
+
+Nagaon civil hospital----LOC.EXACT
+
+Tuesday----DATE
+
+Tuesday----DATE
+
+Blood----ITEM
+
+Lokra battalion of Assam Rifles----AUTH.SEIZE
+
+Rotary Club of Greater Tezpur----AUTH.SEIZE
+
+Tuesday----DATE
+
+Jagdish Mukhi----OFF.NAME
+
+Dhubri district----ROUTE.SRC
+
+Nagaland chief secretary----AUTH.SEIZE
+
+Temjen Toy----OFF.NAME
+
+Pfutsero administration----AUTH.SEIZE
+
+Tuesday----DATE
+
+Pfutsero sub-divisional officer----OFF.DESIG
+
+Thungbemo Patton----OFF.NAME

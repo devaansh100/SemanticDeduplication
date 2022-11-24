@@ -1,0 +1,37 @@
+
+['Pune customs caught 466 specimens of live corals from two passengers from Dubai\nPUNE: The Pune customs authorities, on April 5, intercepted two passengers who had landed at the Pune airport from Dubai and recovered 466 specimens of live corals from their possession, its officials said on Saturday.Customs officials said that this was the first case at the airport in which live corals had been recovered.“ On April 5, customs officers of the Pune International Airport intercepted two passengers who arrived from Dubai and were attempting to pass through the green channel. On thorough search of their bags, 466 specimens of live corals (Order- Scleractinia with various Subfamilies) covered under Schedule I of Wildlife Protection Act and Appendix II of CITES were recovered. The passengers admitted that these were procured for commercial purpose. The specimens were seized are under rehabilitation at the Taraporevala Aquarium, Mumbai. Further investigation is in progress,” a statement released by the Pune customs said.']
+
+
+Pune customs----AUTH.SEIZE
+
+466----QTY
+
+corals----SP.COMMON
+
+two----SUS.NUMBER
+
+Dubai----ROUTE.SRC
+
+Pune customs authorities----AUTH.SEIZE
+
+April 5----DATE
+
+two----SUS.NUMBER
+
+Dubai----ROUTE.SRC
+
+466----QTY
+
+corals----SP.COMMON
+
+April 5----DATE
+
+customs officers of the Pune International Airport----AUTH.SEIZE
+
+two----SUS.NUMBER
+
+Dubai----ROUTE.SRC
+
+466----QTY
+
+corals----SP.COMMON

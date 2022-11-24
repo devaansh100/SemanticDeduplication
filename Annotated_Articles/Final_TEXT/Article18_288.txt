@@ -1,0 +1,11 @@
+
+['Mumbai: Senior police inspector awarded for saving a 120-yr-old turtle\nMUMBAI: The Senior Police Inspector of MHB police station in Mumbai, Sudhir Kudalkar , has been given the "Hero To Animals Award" by PETA India for recently rescuing a 120-year-old Indian black turtle which was stuck in a weed-filled drain.Kudalkar entered the knee-deep water with the help of a torch and placed the frightened marine animal in a box until he was able to consult with forest officials about the best way to return him safely to his natural habitat."Thanks to Mr Kudalkar’s compassion and presence of mind, a venerable turtle was spared an agonizing ordeal," said PETA India senior campaigns coordinator, Radhika Suryavanshi ."PETA India urges everyone to follow his example and always keep an eye out for animals in need," she added.Kudalkar, who founded the PAL animal welfare group, has earlier told TOI: "All citizens must show compassion towards animals. They should co-exist with dogs, cats and other species."Turtles and tortoises are often smuggled from India, Madagascar, and Pakistan to buyers in mainland China and Hong Kong. Endangered species are considered particularly valuable on the black market, and corruption at some airports eases the smuggling process. Others are trafficked into the exotic-pet trade, even though they are protected under international law.This rescued turtle is one of around 2,000 animals, including 16 blind dogs, reportedly saved by Kudalkar through his rescue organisation, Pure Animal Lovers (PAL).PETA India – whose motto reads, in part, that “animals are not ours to abuse in any way” – opposes speciesism, a human-supremacist worldview. Anyone who sees an animal in distress should call PETA India’s emergency helpline on 982-012-2602.']
+
+
+turtle----SP.COMMON
+
+Sudhir Kudalkar----OFF.NAME
+
+Indian black turtle----SP.SPECIFIC
+
+box----CONCEALMENT_METHOD

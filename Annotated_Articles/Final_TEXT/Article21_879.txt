@@ -1,0 +1,9 @@
+
+['WCCB India on Instagram: "On 24-11-2021 a joint raid was conducted by Wildlife Crime Control Bureau (@wccbhq ) in partnership with Ahmedabad Forest Division, resulting in seizure of total 7608 assorte\n']
+
+
+raid----DETECTION_METHOD
+
+Wildlife Crime Control Bureau----AUTH.SEIZE
+
+Ahmedabad Forest Division----AUTH.SEIZE

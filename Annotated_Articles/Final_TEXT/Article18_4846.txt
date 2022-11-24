@@ -1,0 +1,43 @@
+
+['Monitor Lizard Gangraped : Four arrested in Bengal monitor lizard gang-rape, video of the incident also made by the accused......\nIn Maharashtra, a sensational incident has come to light at Sahyadri Tiger Reserve near Gothane village. Four persons have been arrested for allegedly raping the Bengal monitor lizard. According to the police, all the arrested accused are hunters by profession and had taken entry as tourists in the core zone of Sahyadri Tiger Reserve in Gabha area of Gothane.   The accused have been identified as Sandeep Tukram, Pawar Mangesh, Janardan Kamtekar and Akshay Sunil. The Maharashtra forest department examined the mobile phones of the accused and came to know about the incident. The accused also made a video of the incident. The authorities have found video recordings in which the accused are seen allegedly gang-raping the lizard.   Forest officials posted at Sahyadri Forest Reserve traced the accused with the help of CCTV footage, in which they were seen roaming in the forest. Giving details of the incident, officials said that the three accused had come from Konkan to Chandoli village in Kolhapur for hunting.   Shocked by the incident, forest officials will take up the matter in the Indian Penal Court to discuss the allegations. According to officials, the accused will be produced before the court and appropriate legal action will be taken against them.']
+
+
+Monitor Lizard----SP.COMMON
+
+Gangraped----CRIME.CAT
+
+Four----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+Bengal monitor lizard----SP.SPECIFIC
+
+gang-rape----CRIME.CAT
+
+Maharashtra----LOC.STATE
+
+Sahyadri Tiger Reserve----LOC.EXACT
+
+Gothane village----LOC.EXACT
+
+Four----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+raping----CRIME.CAT
+
+Bengal monitor lizard----SP.SPECIFIC
+
+hunters----SUS.AFFIL
+
+Sandeep Tukram----SUS.NAME
+
+Pawar Mangesh----SUS.NAME
+
+Janardan Kamtekar----SUS.NAME
+
+Akshay Sunil----SUS.NAME
+
+Konkan----SUS.LOC
+
+accused will be produced before the court and appropriate legal action----OUTCOME

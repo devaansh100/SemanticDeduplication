@@ -1,0 +1,45 @@
+
+['Nellore police seize red sander logs worth ₹ 10 lakh\nRed Sanders Anti-Smuggling Task Force (RSASTF) Inspector I. Srinivasan presenting the accused and the seized logs before the media in Nellore on Sunday. Nellore police seized red sander logs worth ₹10 lakh with the arrest of an offender within Rapur Police Station limits late on Saturday. Red Sanders Anti-Smuggling Task Force (RSASTF) Inspector I. Srinivasan said provisions of the Preventive Detection Act (PDA) had been invoked against the offender S. Subbaiah (58). Police are on the lookout for Subbaiah’s associate in connection with the seizure of 10 red sander logs weighing 312 kg. “A suspect-sheet had been opened against Subbaiah in Rapur police station,” Mr. Srinivasan added.']
+
+
+Nellore police----AUTH.SEIZE
+
+seize----CRIME.CAT
+
+red sander----SP.COMMON
+
+logs----ITEM
+
+Red Sanders Anti-Smuggling Task Force (RSASTF)----AUTH.SEIZE
+
+Inspector----OFF.DESIG
+
+I. Srinivasan----OFF.NAME
+
+Nellore police----AUTH.SEIZE
+
+seized----CRIME.CAT
+
+red sander----SP.COMMON
+
+logs----ITEM
+
+Saturday----DATE
+
+Red Sanders Anti-Smuggling Task Force (RSASTF)----AUTH.SEIZE
+
+Inspector----OFF.DESIG
+
+I. Srinivasan----OFF.NAME
+
+S. Subbaiah----SUS.NAME
+
+58----SUS.AGE
+
+10----QTY
+
+red sander----SP.COMMON
+
+logs----ITEM
+
+312 kg----QTY

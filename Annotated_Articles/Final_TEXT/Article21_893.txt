@@ -1,0 +1,111 @@
+
+['10 held for poaching leopard in Salekasa, chopping paws\nNagpur: It’s raining tiger and leopard skins and body parts in the region. In yet another raid on poachers, the Nagpur forest division officials arrested 10 accused from Salekasa under Gondia forest division for hunting a leopard and removing its paws and other body parts.The raid is the sequel to earlier arrests of poachers from whom several tiger and leopard body parts and bones have been seized. According to the assistant conservator of forest (ACF) and investigating officer, Narendra Chandewar, the number of accused arrested in wildlife crime since July has gone up to 73.Acting on a tip-off, Chandewar said a joint team of Gondia and Nagpur forest officials lured the poachers on a playground of a junior college in Salekasa. The team seized a leopard skin, four chopped paws, canines, teeth, and whiskers. Three motorcycles used to traffic the materials were also seized.The accused have been identified as Radheshyam Uikey, Jallatola, Jogeshwar Daseriya, Dhansowa (Bori), Pappu Madavi, Jambhli, Dinesh Shrivastav, Bhandara, Sandeep Ramteke, Mokara, Dinesh Sahare, Deori, Vinod Daseriya, Kawrabandh, Litesh Kumbhre, Baghnadi (Chhattisgarh), Parasram Meshram, Girola, and Ramkrishna Dahale, Pandhri.Chandewar said the accused tried to mislead by saying the leopard was not killed by them but was found dead near a hill in Salekasa in July 2021. But, the animal was poached and later its body parts were removed. For the past four months, the accused were looking for prospective customers.On November 24, a team of Nagpur forest officials had nabbed five persons for poaching a tiger and had seized its body parts. In both these cases, Melghat Cyber Cell proved to be of big help in tracking the culprits.']
+
+
+10----SUS.NUMBER
+
+poaching----CRIME.CAT
+
+leopard----SP.COMMON
+
+Salekasa----LOC.EXACT
+
+paws----ITEM
+
+tiger----SP.COMMON
+
+leopard----SP.COMMON
+
+skins----ITEM
+
+body parts----ITEM
+
+Nagpur forest division----AUTH.SEIZE
+
+arrested----CRIME.CAT
+
+10----SUS.NUMBER
+
+Salekasa----LOC.EXACT
+
+hunting----CRIME.CAT
+
+leopard----SP.COMMON
+
+paws----ITEM
+
+tip-off----DETECTION_METHOD
+
+Nagpur forest officials----AUTH.SEIZE
+
+a----QTY
+
+leopard----SP.COMMON
+
+skin----ITEM
+
+four----QTY
+
+paws----ITEM
+
+canines----ITEM
+
+teeth----ITEM
+
+whiskers----ITEM
+
+Three----QTY
+
+motorcycles----ITEM
+
+Radheshyam Uikey----SUS.NAME
+
+Jallatola----SUS.NAME
+
+Jogeshwar Daseriya----SUS.NAME
+
+Dhansowa----SUS.NAME
+
+Bori----SUS.NAME
+
+Pappu Madavi----SUS.NAME
+
+Jambhli----SUS.NAME
+
+Dinesh Shrivastav----SUS.NAME
+
+Bhandara----SUS.NAME
+
+Sandeep Ramteke----SUS.NAME
+
+Mokara----SUS.NAME
+
+Dinesh Sahare----SUS.NAME
+
+Deori----SUS.NAME
+
+Vinod Daseriya----SUS.NAME
+
+Kawrabandh----SUS.NAME
+
+Litesh Kumbhre----SUS.NAME
+
+Baghnadi----SUS.NAME
+
+Parasram Meshram----SUS.NAME
+
+Girola----SUS.NAME
+
+Ramkrishna Dahale----SUS.NAME
+
+July 2021----DATE
+
+November 24----DATE
+
+Nagpur forest officials----AUTH.SEIZE
+
+five----SUS.NUMBER
+
+tiger----SP.COMMON
+
+body parts----ITEM

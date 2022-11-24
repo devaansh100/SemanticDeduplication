@@ -1,0 +1,101 @@
+
+['Andhra Pradesh: Kadapa police arrest international red sanders smuggler\nTIRUPATI: Kadapa police arrested an international red sanders smuggler who belongs to Chennai and is said to be close to an influential politician of Tamil Nadu.Following the arrest of the kingpin, 16 other local smugglers too were arrested and red sanders logs worth approximately Rs.1 crore was seized by the police.One USA made pistol with five rounds of fire was also seized from the possession of the accused.Kadapa police under SP KKN Anburajan who have stepped up the offensive against illegal red sanders smuggling in the district over the last few months arrested international red sanders smuggler R Bhaskaran of Chennai along with 6 other interstate smugglers near the Andhra Pradesh-Tamil Nadu borders near Nagari on Thursday evening.Police seized 55 red sanders logs weighing 1.3 tons, 2 cars, 2 bikes, 300 grams of gold and 7 mobile phones from the possession of the accused.According to Kadapa SP KKN Anburajan, Bhaskaran is an accused who managed to evade arrest in as many as 21 red sanders smuggling cases registered against him at various police stations in the district in the past.Having established links with red sanders smugglers of Katiganahalli and Bangalore in Karnataka and local smugglers in Andhra Pradesh , Bhaskaran used to illegally export red sanders logs to the international markets.Following his arrest, Kadapa police conducted raids at multiple locations and confiscated red sanders logs and arrested several local smugglers on Friday.The accused arrested by the Police were identified as interstate smuggler T Raghavendra Reddy, Kadapa smugglers K Subhan Basha, I Arjun, C Arun Kumar, K Ramaraju, B Krishna Reddy, B Sridhar Reddy, K Venkata Subbaiah and VY Chandan.Two smugglers from Chittoor who supported the main gang and were arrested include Shaik Yasir and B Mohammed Jishan.Three other smugglers from Nellore district arrested by the Kadapa police were identified as A Anil Kumar, G Nageswara Rao and C Manohar.SP KKN Anburajan warned all those involved in red sanders smuggling activities to mend their ways and exit the illegal trade immediately else the Kadapa police will come after them hard.']
+
+
+Kadapa police----AUTH.SEIZE
+
+international red sanders smuggler----SUS.AFFIL
+
+Kadapa police----AUTH.SEIZE
+
+international red sanders smuggler----SUS.AFFIL
+
+16 other----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+red sanders----ITEM
+
+logs----ITEM
+
+Rs.1 crore----VALUE
+
+USA made pistol----ITEM
+
+five rounds of fire----ITEM
+
+SP----OFF.DESIG
+
+international red sanders smuggler----SUS.AFFIL
+
+R Bhaskaran----SUS.NAME
+
+6 other----SUS.NUMBER
+
+Thursday----DATE
+
+evening.Police----TIME
+
+55----QTY
+
+red sanders----SP.COMMON
+
+logs----ITEM
+
+1.3 tons----QTY
+
+2----QTY
+
+cars----ITEM
+
+2----QTY
+
+bikes----ITEM
+
+300 grams----QTY
+
+gold----ITEM
+
+7----QTY
+
+mobile phones----ITEM
+
+Kadapa police----AUTH.SEIZE
+
+raids----DETECTION_METHOD
+
+Friday.The----DATE
+
+interstate smuggler----SUS.AFFIL
+
+T Raghavendra Reddy----SUS.NAME
+
+Kadapa smugglers----SUS.AFFIL
+
+K Subhan Basha----SUS.NAME
+
+I Arjun----SUS.NAME
+
+C Arun Kumar----SUS.NAME
+
+K Ramaraju----SUS.NAME
+
+B Krishna Reddy----SUS.NAME
+
+B Sridhar Reddy----SUS.NAME
+
+K Venkata Subbaiah----SUS.NAME
+
+VY Chandan.Two----SUS.NAME
+
+Chittoor----SUS.LOC
+
+Shaik Yasir----SUS.NAME
+
+B Mohammed Jishan.Three----SUS.NAME
+
+A Anil Kumar----SUS.NAME
+
+G Nageswara Rao----SUS.NAME
+
+C Manohar.SP----SUS.NAME

@@ -1,0 +1,19 @@
+
+['Leopard Attacks on the Rise in Bijnor District of Uttar Pradesh\nFile photo (Credits: IANS) There have been six instances of leopard attacks in the past one month in the Bijnor district of Uttar Pradesh. The latest incident took place on Tuesday, December 10, in Jamalpur Dhikali village of Bahupura, when a two-year-old boy was seriously injured after a leopard pounced on him. The boy was sitting on a bullock cart and his parents were harvesting sugarcane in the field. According to villagers, the leopard emerged from the sugarcane field and pounced on the baby, injuring him. The local people said that three other children in the village have been attacked by the leopard in November. On December 8, a leopard attacked teenager, Mahendra Singh, 16, at Avadipur Bani village, while he was shelling cane in their farm. On November 27, a leopard killed Samala Devi, 45, in Nawada village, while she was mowing grass with her daughter and in-laws. Villagers said leopards have taken to stalking sugarcane farms with harvest season in full swing, spreading panic among farmers. Areas around Nagina and Bahupura are the worst affected, having reported over 20 sightings. Advertisement The forest department has since increased patrolling, and has set up two cages for trapping big cats. An advisory has also been issued to villagers to stop children from moving out of their homes unaccompanied. Bijnor divisional forest officer M Semmaran said, "We have set up cages to trap leopards, and our staff have increased vigil and patrolling. We are also urging farmers not to take their kids with them to area near forests, and go to their fields in groups. They should also wear thick covers around their necks, as leopards attack the neck of victims, and scream aloud if attacked." Though leopard census has not been conducted in the Bijnor district, more than a dozen cubs were rescued by the forest department in May 2019 alone, indicating a rise in the population of the big cats. It is estimated that including cubs, their numbers in the district could be well over 100. Experts say that leopards generally thrive on the fringes of forests, and often come in conflict with humans. They even breed inside sugarcane fields, which offer them cover, and deliver litters around February-April. West UP is known as India\'s sugarcane bowl, with Bijnor ranking second after Lakhimpur Kheri in area under sugarcane cultivation in the entire state.']
+
+
+Leopard----SP.COMMON
+
+Bijnor District----LOC.DISTRICT
+
+Uttar Pradesh----LOC.STATE
+
+Tuesday, December 10----DATE
+
+Jamalpur Dhikali village of Bahupura----LOC.EXACT
+
+leopard----SP.SPECIFIC
+
+bullock cart----CONCEALMENT_METHOD
+
+Nawada village----LOC.EXACT

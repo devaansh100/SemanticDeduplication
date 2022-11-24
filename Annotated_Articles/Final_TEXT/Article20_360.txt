@@ -1,0 +1,41 @@
+
+["Three wildlife smugglers arrested in UP's Baghpat\nIndia Baghpat (UP): Three wildlife smugglers were arrested here on Sunday by a joint team of police and forest officials. Baraut police station SHO Ajay Sharma said acting on a tip-off, a joint team of police and forest officials arrested three persons --- Navin, Tushar and Virendra. An elephant tusk among other things was recovered from the arrested persons, he said.  Police said a case has been registered against the trio under the Wildlife Conservation Act.  Forest officials said the cost of the seized items is yet to be ascertained."]
+
+
+Three----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+UP's----LOC.STATE
+
+Baghpat----LOC.CITY
+
+Three----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+Sunday----DATE
+
+police----AUTH.SEIZE
+
+forest officials----AUTH.SEIZE
+
+tip-off----DETECTION_METHOD
+
+police----AUTH.SEIZE
+
+forest officials----AUTH.SEIZE
+
+Navin----SUS.NAME
+
+Tushar----SUS.NAME
+
+Virendra----SUS.NAME
+
+An----QTY
+
+elephant----SP.COMMON
+
+tusk----ITEM
+
+case has been registered against the trio under the Wildlife Conservation Act----OUTCOME

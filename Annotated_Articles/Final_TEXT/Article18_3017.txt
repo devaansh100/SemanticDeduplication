@@ -1,0 +1,39 @@
+
+['Bengal monitor lizard raped: Can human depravity sink any lower?\nIn a disturbing and disgusting act, a Bengal monitor lizard was allegedly gang-raped by four men in Sahyadri Tiger Reserve in Maharashtra. Depravity seems to have sunk to an all-time low and human decadence seems to know no bounds. As if violating and raping adolescents, small children, and very senior citizens wasn’t enough, humans took to raping domesticated animals like dogs and goats. And now, debauchery seems to have hit the rock bottom, or what we hope is the rock bottom and there can be none lower. Take, for instance, the incident in Maharashtra where a monitor lizard was allegedly gang-raped by four men in the Sahyadri Tiger Reserve. You read that right. Monitor lizard. Gang-raped. Even those who have been somewhat desensitized to reading reports of domestic animals being thrashed, beaten and killed for “fun” and the wild animals cruelly poached, young ones torn from their mothers and smuggled for money, the bestiality is horrifying. To make it worse, the accused shot a video of raping the poor animal. All this came to light when the four accused from Konkan — Sandeep Tukaram Pawar, Mangesh Kamtekar, Akshay Kamtekar and Ramesh Ghag — were trying to illegally enter the restricted zone of Kolhapur\'s Chandoli National Park for hunting. They were apprehended on March 31, and their phones were examined as a routine process. The authorities were perplexed to find the video of the rape which reportedly occurred in the Sahyadri Tiger Reserve. The accused have been booked under the various sections of the law including the Wildlife Protection Act (WPA). The Bengal Monitor Lizard in question is a species that is conserved under the Schedule-1 of the WPA, which means that the law accords it the same level of protection as the national animal — the Royal Bengal Tiger or the national bird — peacock. So, if the crime is proven, the accused stand to face at least seven years imprisonment. But does that even count when the victim cannot even present their case in the court of law? Psychologists and conservationists are equally shocked. We asked Delhi-based Dr Archana Gupta, a clinical psychologist and psychotherapist who works with sexual assault survivors to try and decipher the depraved mindset. She says that the act of rape goes beyond the urge of forced sex. “It is a question of asserting one’s power and dominance by overpowering the other’s will and dignity. These men treat the victim as a sum of body parts, but with no regard for the ownership of the body. It spells sheer sexual expression of sadism and aggression.” She further says that this behaviour is extremely rare even for those who have heard about most perversions and helped heal the victims. “The four men definitely need psychiatric examination. One has heard horrifying stories of men raping dogs and even pregnant goats , but this sexual perversion is a new low.” In this case, Dr Gupta says, it is a question of displaying one’s bravado by dominating a wild animal. An animal that could be dominated by four grown men, but cannot kill even in self-defence. Speaking to Times Now Digital, Pune-based wildlife biologist Dr Vira Kamath says that the Bengal monitor lizards are naturally shy animals that would rather stay away from humans. Like most wild animals, they do not attack unless provoked. Even when provoked, the venom of monitor lizards has a very mild effect on humans as the reptile uses its venom to kill small animals for food. As per an ANI report, an inquiry is underway as to whether the victim monitor lizard survived the heinous act and whether the accused had done the same act with any other wild animal, according to Vishal Mali, Divisional Forest Officer, Chandoli National Park. “Bengal Monitor Lizards are sensitive animals. Even if it survived the attack at that instance, it may not be able to survive the aftermath of the violation for too long. The cloaca (common chamber and outlet into which the intestinal, urinary, and genital tracts open) wall could have ruptured and it might have trouble with other life processes,” he says. So, the next time you hear a horrifying tale about somebody’s unspeakable behaviour, think twice before saying: "They behaved worse than an animal." It seems that behaving "worse than an animal" has become the norm for some humans. Under such situations, one cannot help but wonder if it is animals that need to be restrained and caged, or humans. The real beasts in India seem to walk on two legs, not four.']
+
+
+Bengal monitor lizard----SP.SPECIFIC
+
+raped----CRIME.CAT
+
+Bengal monitor lizard----SP.SPECIFIC
+
+gang-raped----CRIME.CAT
+
+four----SUS.NUMBER
+
+men----SUS.GENDER
+
+Sahyadri Tiger Reserve----LOC.EXACT
+
+Maharashtra----LOC.STATE
+
+Maharashtra----LOC.STATE
+
+four----SUS.NUMBER
+
+Sahyadri Tiger Reserve----LOC.EXACT
+
+Konkan----SUS.LOC
+
+Sandeep Tukaram Pawar----SUS.NAME
+
+Mangesh Kamtekar----SUS.NAME
+
+Akshay Kamtekar----SUS.NAME
+
+Ramesh Ghag----SUS.NAME
+
+March 31----DATE
+
+seven years imprisonment----OUTCOME

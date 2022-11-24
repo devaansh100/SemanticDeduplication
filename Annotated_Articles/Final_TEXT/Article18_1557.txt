@@ -1,0 +1,25 @@
+
+['Odisha: Leopard rescued from well in Sambalpur\nOdisha: Leopard rescued from well in Sambalpur Odisha Fire Department on June 09 rescued a leopard that fell into a well near Hindol ghat in the Sambalpur district of Odisha. Rescuers used a wooden ladder to save the leopard.']
+
+
+Odisha----LOC.STATE
+
+Leopard----SP.COMMON
+
+rescued----CRIME.CAT
+
+Sambalpur----LOC.CITY
+
+Leopard----SP.COMMON
+
+Sambalpur----LOC.CITY
+
+Fire Department----AUTH.SEIZE
+
+June 09----DATE
+
+leopard----SP.COMMON
+
+Sambalpur district----LOC.DISTRICT
+
+Odisha----LOC.STATE

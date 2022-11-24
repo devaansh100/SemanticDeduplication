@@ -1,0 +1,31 @@
+
+['Scheduled timber worth Rs 14 crore cut from assigned land across Kerala: SIT\nReport includes key suggestions KOCHI: Around 1,900 cubic metres of scheduled timber, worth around Rs 14 crore, was illegally cut from assigned land across the state using the controversial revenue department order. The special investigation team of the forest department to probe the scam estimates that these include1,600 cubic metres of teak wood and 300 cubic metres of rosewood.The final report of the investigation team, submitted to the principal forest secretary on Friday, has also accused the revenue department of not taking timely action against officials who colluded with the accused in the scam.A senior forest department official in Thiruvananthapuram said the revenue department should share details of the assigned land and the list of reserved trees on such land with them to prevent further illegal felling of trees in future.The forest department has confiscated timber worth around Rs 8.5 crore till date. “The revenue department failed to seize the timber or file theft case under the Land Conservancy Act. The village officer can register a case under Section 10 (3) of the Land Conservancy Act against those felling trees belonging to the government. It attracts imprisonment or fine or both but no case has been registered by the revenue department so far. They haven\'t recovered any timber either," the official said.According to SIT , 1,600 cu.m teak wood and 300 cu.m rosewood were illegally cut using the revenue department orderHe pointed out that the assigned land belongs to the revenue department. “It is the responsibility of revenue officials to ensure that there is no violation of rules on the assigned land and the owner protects ‘scheduled species’ like teak and rosewood,’’ he said.The report, submitted after a two-week probe, includes some key recommendations also. “All amendments to the assignment rules stipulate that Section 10 (3) A of the Land Assignment Rules, 1964 ensuring protection of four scheduled species — teak, rosewood, sandalwood and ebony — will prevail on the assigned land. Instead of issuing an opaque executive order to fell trees on assigned land, they should have brought an amendment to the rules,” he said.']
+
+
+timber----ITEM
+
+Rs 14 crore----VALUE
+
+Kerala----LOC.STATE
+
+KOCHI----LOC.CITY
+
+1,900 cubic metres----QTY
+
+timber----SP.COMMON
+
+Rs 14 crore----VALUE
+
+include1,600 cubic metres----QTY
+
+teak wood----SP.COMMON
+
+300 cubic metres----QTY
+
+rosewood----SP.COMMON
+
+1,600 cu.m teak----QTY
+
+300 cu.m----QTY
+
+rosewood----SP.COMMON

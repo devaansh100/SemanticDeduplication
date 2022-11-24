@@ -1,0 +1,39 @@
+
+['Country-made firearms, wildlife contraband seized in Kandhamal\nPhulbani: Forest department personnel have seized country-made firearms and wildlife contraband from Dakarbadi forest near Karada under Raikia range in Kandhamal district. A team lead by Forest Department Range Officer Sunil Kumar Sahu, Forester Usat Kanhar, Forest Guards rangers Sujit Pradhan, & Krushna Charan Nayak conducted a raid in the forest area and recovered the illegal guns, ammunition, along with porcupine meat & spikes, torch lights, batteries, etc. However, the suspected hunters managed to flee the spot. Earlier, the forest department personnel had seized country-made pistols from the same locality There have been several allegations that miscreants are setting fire in the Raikia forest and hunting wild animals.']
+
+
+Country-made firearms----ITEM
+
+seized----CRIME.CAT
+
+Kandhamal----LOC.DISTRICT
+
+Forest department----AUTH.SEIZE
+
+seized----CRIME.CAT
+
+country-made firearms----ITEM
+
+wildlife contraband----ITEM
+
+Dakarbadi forest----LOC.EXACT
+
+Kandhamal district----LOC.DISTRICT
+
+Forest Department----AUTH.SEIZE
+
+Range Officer----OFF.DESIG
+
+Sunil Kumar Sahu----OFF.NAME
+
+Forester----OFF.DESIG
+
+Usat Kanhar----OFF.NAME
+
+Forest Guards rangers----OFF.DESIG
+
+Sujit Pradhan----OFF.NAME
+
+Krushna Charan Nayak----OFF.NAME
+
+illegal guns, ammunition----ITEM

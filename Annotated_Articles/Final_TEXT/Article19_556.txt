@@ -1,0 +1,21 @@
+
+["Nagaland MLA lauds students' efforts in wildlife conservation\nNagaland legislator and advisor, IT, Science and Technology, New & Renewable Energy, Mmhonlumo Kikon has congratulated students of Pungro area in Kiphire disrtrit of the state for rescuing a rare eastern grass owl. In a tweet in his official Twitter handle, the two time MLA from Bhandari constituency in Wokha district wrote that such initiatives ‘will make wildlife conservation a reality’. The Pungro Area College Students’ Union (PACSU) rescued the rare species of owl from a poacher at Pungro town on Saturday. Later the students’ group released the rare eastern grass owl, belonging to the family of barn owl into the reserved forest at Fakim Wildlife Sanctuary of Pungro in Kiphire district in presence of officials from the Wildlife Division of Kiphire. A release issued by the PACSU stated that the group of students seized the owl from a local who had caught had the rare owl in the vicinity of Tsudowong village on Friday, and later brought to Pungro town. The students’ body has been encouraging people in the area to conserve and preserve its rich biodiversity, the release also stated. The Kiphire wildlife warden also issued a separate statement informing about the rescue of the owl at Pungro."]
+
+
+Pungro area----LOC.EXACT
+
+eastern grass owl----SP.SPECIFIC
+
+Pungro Area College Students’----AUTH.SEIZE
+
+PACSU----AUTH.SEIZE
+
+Pungro town----LOC.EXACT
+
+Saturday----DATE
+
+eastern grass owl----SP.SPECIFIC
+
+Wildlife Division of Kiphire----AUTH.SEIZE
+
+Friday----DATE

@@ -1,0 +1,89 @@
+
+['Two held for smuggling exotic species of juvenile pythons, lizards at Chennai airport\nFollow us on Image Source : ANI Exotic species of juvenile pythons, lizards seized at Chennai airport Customs officials detained two men at Chennai international airport on Thursday in connection with smuggling of exotic species of juvenile pythons and lizards. According to the report, the accused Mohammad Parvaez (36) and Mohammad Akbar (28) were smuggling these wild animals from Kualalumpur. Officers of the Customs Air Intelligence Unit (AIU) maintained a special alert and vigil to nab the smugglers. The Customs seized a green tree python, one scrub python, two black tree monitor lizards, five emerald tree monitor lizards, two blue-spotted tree monitor lizards, one Reisinger tree monitor and four sailfin lizards from them. "On questioning, the arrested persons informed that these bags were given to them by someone outside Kualalumpur airport with instructions to hand them over to someone outside the Chennai airport who would identify them," said the Customs Department. The seized exotic species reptiles will be sent back to Kuala Lumpur in Malaysia. Further investigation is underway. (With inputs from ANI) ALSO READ | Foreign cigarettes worth Rs 69 lakh seized, five held in Coimbatore ALSO READ | 5 foreigners trying to smuggle out nearly half-million USD held at Delhi airport Latest India News']
+
+
+Two----SUS.NUMBER
+
+smuggling----CRIME.CAT
+
+pythons----SP.COMMON
+
+lizards----SP.COMMON
+
+Chennai airport----LOC.EXACT
+
+pythons----SP.COMMON
+
+lizards----SP.COMMON
+
+seized----CRIME.CAT
+
+Chennai airport----LOC.EXACT
+
+Customs officials----AUTH.SEIZE
+
+detained----CRIME.CAT
+
+two----SUS.NUMBER
+
+men----SUS.GENDER
+
+Chennai international airport----LOC.EXACT
+
+Thursday----DATE
+
+smuggling----CRIME.CAT
+
+pythons----SP.COMMON
+
+lizards----SP.COMMON
+
+Mohammad Parvaez----SUS.NAME
+
+36----SUS.AGE
+
+Mohammad Akbar----SUS.NAME
+
+28----SUS.AGE
+
+Kualalumpur.----ROUTE.SRC
+
+Customs Air Intelligence Unit (AIU)----AUTH.SEIZE
+
+special alert and vigil----DETECTION_METHOD
+
+a----QTY
+
+green tree python----SP.SPECIFIC
+
+one----QTY
+
+scrub python----SP.SPECIFIC
+
+two----QTY
+
+black tree monitor lizards----SP.SPECIFIC
+
+five----QTY
+
+emerald tree monitor lizards----SP.SPECIFIC
+
+two----QTY
+
+blue-spotted tree monitor lizards----SP.SPECIFIC
+
+one----QTY
+
+Reisinger tree monitor----SP.SPECIFIC
+
+four----QTY
+
+sailfin lizards----SP.SPECIFIC
+
+Rs 69 lakh----VALUE
+
+five----SUS.NUMBER
+
+5----SUS.NUMBER
+
+half-million----VALUE

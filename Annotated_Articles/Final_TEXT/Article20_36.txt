@@ -1,0 +1,59 @@
+
+['Three arrested in Vashi for smuggling pangolin\nThe Vashi police on Wednesday rescued an Indian pangolin and arrested three people for allegedly trying to sell the animal. Two of the accused found the pangolin in the forest near their village in Raigad and decided to sell it. Officials said the pangolin weighs around 7.2 kgs and they were planning to sell it for Rs4 lakh. According to the Vashi police, they received a tip-off that three people would arrive in a Maruti Eeco to sell the animal. Two hours after the police laid the trap, the car arrived around 2.20am. Krishna Chougule, 30, was driving the car and Nana Waghmare, 39, and Mangesh Waghmare, 25, were with him. “Nana and Mangesh work as labourers in Raigad district. The trio was produced before a metropolitan court and remanded in police custody till Saturday,” said Sanjeev Dhumal, senior inspector from Vashi police station. The accused were carrying the pangolin in a white plastic sack hidden in the car. After they were questioned, the accused confessed they had planned to sell the pangolin. The Thane forest department will release the animal in its natural habitat after observing its health for a few days. Illegal sale of pangolin is rampant in Thane and Navi Mumbai areas, where the black marketers sell the animal, claiming it brings good luck and prosperity. Another misconception that has flourished the illegal sale of the protected species is that the scales on its body cure diseases. Last week, the Kalamboli police arrested seven people when they were taking a pangolin in an ambulance to sell it in Navi Mumbai.']
+
+
+Three----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+Vashi----LOC.CITY
+
+smuggling----CRIME.CAT
+
+pangolin----SP.COMMON
+
+Vashi police----AUTH.SEIZE
+
+Wednesday----DATE
+
+an----QTY
+
+Indian pangolin----SP.SPECIFIC
+
+arrested----CRIME.CAT
+
+three----SUS.NUMBER
+
+sell----CRIME.CAT
+
+pangolin----SP.COMMON
+
+pangolin----SP.COMMON
+
+7.2 kgs----QTY
+
+Rs4 lakh----VALUE
+
+a tip-off----DETECTION_METHOD
+
+three----SUS.NUMBER
+
+2.20am.----TIME
+
+Krishna Chougule----SUS.NAME
+
+30----SUS.AGE
+
+Nana Waghmare----SUS.NAME
+
+39----SUS.AGE
+
+Mangesh Waghmare----SUS.NAME
+
+25----SUS.AGE
+
+Nana----SUS.NAME
+
+Mangesh----SUS.NAME
+
+hidden in the car----CONCEALMENT_METHOD

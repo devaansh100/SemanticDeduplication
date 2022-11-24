@@ -1,0 +1,21 @@
+
+["SL Navy finds 50 fighting cocks from India\nColombo, June 11 (UNI) The Sri Lanka Navy has seized 50 fighting cocks smuggled from India, a newspaper reported on Saturday. Some people involved in cock fighting, which is illegal in Sri Lanka, had tied the birds and were getting ready to transport them to Mannar town in the island nation's northwest, the Island reported on Saturday. They fled on seeing the Navy personnel. Seven roosters had already died due to congestion. The Navy handed them over to the Mannar Police and are searching for those who smuggled the birds from India."]
+
+
+SL Navy----AUTH.SEIZE
+
+50----QTY
+
+fighting cocks----SP.COMMON
+
+India----ROUTE.SRC
+
+Sri Lanka Navy----AUTH.SEIZE
+
+50----QTY
+
+fighting cocks----SP.COMMON
+
+India----ROUTE.SRC
+
+Mannar town----ROUTE.DEST

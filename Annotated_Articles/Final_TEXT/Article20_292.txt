@@ -1,0 +1,31 @@
+
+['3 arrested for killing elephant five years back in Chhattisgarh’s Dhamtari\nThree persons were arrested on Monday by a joint team of Chhattisgarh Police and state forest department personnel on charges of killing a tusker five years ago and recently trying to sell its tusk. Police have exhumed the body of the tusker from a field, where the accused had buried it, and the tusk has been seized. The trio has been booked under the relevant sections of the Wildlife Protection Act, 1972, and an investigation has started. “The elephant was electrocuted at Sikatta village in Dhamtari district five years ago. One of the accused, Chen Singh Markam, a farmer, had fenced his field, with live electric wires to prevent pachyderms from entering it,” said Arun Pandey, additional principal chief conservator of forests (APCCF) (wildlife). Pandey said the accused have confessed to the police that they had buried the elephant that had died of electrocution five years ago because they were afraid of the repercussions of its death and did not inform the authorities concerned. “Markam and two of his friends had chopped the elephant’s body and buried it on the farm,” Pandey added. The police got a tip-off about a month ago, when Markam’s son Ranjeet tried to dig out the tusk and was on the lookout for a buyer. “The accused tried to mislead us. But Markam’s wife revealed the truth and the tusker’s remains were exhumed,” said a police official. The state forest department data showed that the pachyderm population in Chhattisgarh increased from 225 to 290 over the past 10 years. Chief Minister Bhupesh Baghel has recently issued guidelines for the monitoring of wild animals in the state’s forests and improving measures for their conservation. North Chhattisgarh is home to around 240 wild elephants that have been involved in the loss of several human lives and property over the past few years. SHARE THIS ARTICLE ON']
+
+
+3----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+killing----CRIME.CAT
+
+elephant----SP.COMMON
+
+Dhamtari----LOC.DISTRICT
+
+Three----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+Monday----DATE
+
+Chhattisgarh Police----AUTH.SEIZE
+
+state forest department personnel----AUTH.SEIZE
+
+tusk----ITEM
+
+exhumed the body of the tusker----OUTCOME
+
+booked under the relevant sections of the Wildlife Protection Act, 1972----OUTCOME
+
+Chen Singh Markam----SUS.NAME

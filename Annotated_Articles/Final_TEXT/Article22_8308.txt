@@ -1,0 +1,29 @@
+
+['Elephant tramples woman to death in Mayurbhanj district\nBaripada: An 70-year-old woman not only lost her life, but her corpse also fell to the wrath of a wild tusker in Odisha’s Mayurbhanj district, police said Saturday. Maya Murmu was collecting water from a tubewell in Raipal village on Thursday morning when she was attacked by a wild tusker who strayed from the Dalma Wildlife Sanctuary. The elephant trampled her, following which she was taken to a hospital where she succumbed to her injuries, Rasgovindpur police station inspector Lopamudra Nayak said. In the evening, when the family members of the deceased were performing her last rites, the tusker arrived there suddenly and took the corpse from the pyre. The elephant again trampled her dead body, threw it and fled. The last rites were conducted after a few hours, an eyewitness said. PTI']
+
+
+Elephant----SP.COMMON
+
+tramples----CRIME.CAT
+
+woman----SUS.GENDER
+
+Mayurbhanj district----LOC.DISTRICT
+
+70-year-old----SUS.AGE
+
+woman----SUS.GENDER
+
+Odisha’s----LOC.STATE
+
+Mayurbhanj----LOC.DISTRICT
+
+Maya Murmu----SUS.NAME
+
+Raipal village----LOC.EXACT
+
+Thursday----DATE
+
+morning----TIME
+
+wild tusker----SP.COMMON

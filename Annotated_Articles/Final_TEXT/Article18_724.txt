@@ -1,0 +1,29 @@
+
+['In search of rabbits, 3 teams of police searched for 7 days, searched 11 bushes in the city forest and finally found …\nGhaziabad adjacent to Delhi NCR (GhaziabadOn May 26, a woman resident of Lal Kuan in Kabinagar police station lodged a complaint with the Sahibabad police station alleging the theft of a rabbit. At that time, in view of the noise of the woman and her condition, 3 teams of police were engaged in search of rabbits from the police station. The report of the missing rabbit reminds us that the news of the theft of buffalo in Rampur 6 years ago woke up the police. Then the police officers have to gather in search of the buffalo. The team managed to find the buffalo after 24 hours of hard work. At this time in the area of \u200b\u200bSahibabad police station, there are incidents like the theft of the minister’s buffalo, but there is no buffalo here. Currently this case is about the theft of a woman’s rabbit. In fact, police have reported rabbit theft. But the police did not give any correct answer to that woman. After the woman’s noise and complaint, 3 teams of police were formed from Sahibabad police station. For a week, the team kept a close watch on the city’s forests, and on Monday night, around 1:30 pm, the police managed to find the rabbit. Devanti alias Vijaya, a resident of Lalkuan in Kabinagar police station area, has been keeping rabbits for many years. On March 26, the woman gave a rabbit (female) care taker Sanjay to keep in the city forest. When the woman asked about the papers, Sanjay refused. On April 27 he gave the rabbit and went back. He came back in May and asked Sanjay to see the rabbit in the city forest, then Sanjay informed him that the rabbit was missing. The woman’s health deteriorated. A woman takes care of a rabbit like a baby At that time, he expressed suspicion of stealing rabbits from Sanjay and 3 other employees. Subsequently, on May 25, Sahibabad police lodged a complaint against Sanjay, Rasuli and Chhota for stealing rabbits. Police then searched every corner of the city’s jungle for three days, promising to find the rabbit. But did not succeed. For this, the police conducted a search operation for 7 days in search of rabbits in the forest of the city. Where the police found the rabbit around 1.30 pm on Monday. The female has identified the rabbit. The female rabbit gave birth to two children in the next 7 days. In this case, Sahibabad police station in-charge Nagendra Choubey said that the rabbit and his cubs were handed over to the woman. Learn more about the case? Please tell, whats the story of them big puppys ….. In this situation, if the police did not listen to her, at first there was a commotion in the police station, then the physical condition of the woman deteriorated in the police station. In this situation, 3 teams of police are engaged in search of rabbits. But all three teams of police were busy searching for rabbits under the bushes in City Forest Park so that the matter would not be caught. After searching for the last 7 days, however, the rabbit was found, along with his two children. Read this too   Police breathed a sigh of relief after finding the rabbit In this case, the police officer said, the rabbit has been found after searching for the last 7 days. Although the three teams of police worked hard for 7 days to find the rabbit, they were happiest when they found the rabbit with their 2 children. In such a situation, the three teams of police breathed a sigh of relief.']
+
+
+May 26----DATE
+
+woman resident----SUS.GENDER
+
+Lal Kuan in Kabinagar police station----SUS.LOC
+
+Monday----DATE
+
+night----TIME
+
+1:30 pm----TIME
+
+Devanti----SUS.NAME
+
+Lalkuan in Kabinagar police station area----SUS.LOC
+
+March 26----DATE
+
+April 27----DATE
+
+search operation----DETECTION_METHOD
+
+1.30 pm----TIME
+
+Monday----DATE

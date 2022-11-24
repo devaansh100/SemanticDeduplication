@@ -1,0 +1,87 @@
+
+['Navi Mumbai: Turbhe MIDC police rescue 10.5 kg Pangolin worth Rs 80 lakhs, four held\nIndian pangolin | Turbhe MIDC police arrested four persons and rescued a 10.5 kg Pangolin on Wednesday night from Nerul. The endangered animal was brought in to sell at Rs 80,00,000. Police also seized the car that was used to commit the crime. Acting on a tip-off, the Turbhe MIDC police laid a trap along the service road near LP Junction in Nerul on Wednesday night around 11 pm. A police official from Turbhe MIDC said that they received information on Wednesday evening that four people had come in a car in Nerul to sell a Pangolin. “We carried out a raid and found the suspect sitting in a car and waiting for someone,” said the official. He added that they were accompanied by Forest department officials. When they were enquired, they were not giving a coherent reply. Following this, the Forest Department officials searched their car and found an alive Pangolin. They were arrested under sections 2,9,39,44, 50, and 51 of The Wild Life (Protection) Act 1972. They were identified as Swapnil Dilip Gurav, 24, a farmer and resident of Ratnagiri, Rishikesh Gangadhar Khawadkar, 27, a resident of Goregaon East in Mumbai and native of Ratnagiri, Aniket Chandrakant Wadekar, 28, a farmer and resident of Ratnagiri and Janardhan Dhondu Mahadik, 44, a resident of Palghar and native of Mangaon in Raigad. Police said that they were carrying the Pangolin in a black bag. The wait of the rescued Pangolin is 10.5 kg and it is 125 cm long. Police said that the accused claimed that the price of the Pangolin in the market is around Rs 8 0,00,000. However, it depends upon buyers how much they are ready to pay. The trade and smuggling of Pangolin are illegal in India and it is protected under the Schedule I of Wildlife (Protection) Act 1972. Read Also MIDC to relocate 156 chemicals & hazardous units from Dombivli to Patalganga']
+
+
+Turbhe MIDC police----AUTH.SEIZE
+
+10.5 kg----QTY
+
+Pangolin----SP.COMMON
+
+Rs 80 lakhs----VALUE
+
+four----SUS.NUMBER
+
+Turbhe MIDC police----AUTH.SEIZE
+
+arrested----OUTCOME
+
+four----SUS.NUMBER
+
+10.5 kg----QTY
+
+Pangolin----SP.COMMON
+
+Wednesday----DATE
+
+night----TIME
+
+Nerul----LOC.EXACT
+
+car----ITEM
+
+tip-off----DETECTION_METHOD
+
+Turbhe MIDC police----AUTH.SEIZE
+
+Wednesday----DATE
+
+night----TIME
+
+11 pm----TIME
+
+four----SUS.NUMBER
+
+car----TRANSPORT_MODE
+
+Pangolin----SP.COMMON
+
+raid----DETECTION_METHOD
+
+car----TRANSPORT_MODE
+
+Forest department officials----AUTH.SEIZE
+
+arrested----CRIME.CAT
+
+Swapnil Dilip Gurav----SUS.NAME
+
+24----SUS.AGE
+
+Ratnagiri----SUS.LOC
+
+Rishikesh Gangadhar Khawadkar----SUS.NAME
+
+27----SUS.AGE
+
+Goregaon East in Mumbai----SUS.LOC
+
+Ratnagiri----SUS.LOC
+
+Aniket Chandrakant Wadekar----SUS.NAME
+
+28----SUS.AGE
+
+Ratnagiri----SUS.LOC
+
+Janardhan Dhondu Mahadik----SUS.NAME
+
+44----SUS.AGE
+
+Palghar----SUS.LOC
+
+Mangaon----SUS.LOC
+
+black bag----CONCEALMENT_METHOD
+
+Pangolin----SP.COMMON

@@ -1,0 +1,7 @@
+
+['The Fox and the Hound streaming: where to watch online?\nSynopsis When a feisty little fox named Tod is adopted into a farm family, he quickly becomes friends with a fun and adorable hound puppy named Copper. Life is full of hilarious adventures until Copper is expected to take on his role as a hunting dog -- and the object of his search is his best friend!']
+
+
+Tod----SUS.NAME
+
+Copper----SUS.NAME

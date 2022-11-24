@@ -1,0 +1,35 @@
+
+['Poacher held for ‘raping’ monitor lizard in Sahyadri Tiger Reserve, Maharashtra\nSangli (Maharashtra) [India], April 14 (ANI): Sahyadri Tiger Reserve in Maharashtra officials have claimed that one of the four detained poachers had “raped” a monitor lizard in the forest while filming the act too on the mobile phones. Four poachers were arrested for carrying weapons in the Gabha area of Gothane village in the Sahyadri Tiger Reserve in Maharashtra, informed the forest officials on Thursday. During interrogation, one of the poachers confessed to having raped a monitor lizard in the forest. The officials said that the forest department is now preparing to hand over the person to a psychiatrist. This incident is considered to be extremely rare in forest crime, they added. On March 31, a forest ranger spotted four accused heading towards the forest with weapons in a camera trap at the Sahyadri Tiger Reserve. “The forest ranger noted their movement and gave information to the senior officers. The senior officers investigated and arrested the accused. One accused was arrested from Hativ village and two accused from Maral in Sangameshwar taluka of Ratnagiri. We have also seized their mobile phones,” the forest officials said. After checking the accused’s mobile phones, a recorded video of one of the culprits having physical intercourse with a monitor lizard was handed over to the forest authorities, said the forest officials. Vishal Mali, Divisional Forest Officer, Chandoli National Park, said that an inquiry is underway as to whether the victim lizard survived the heinous act and whether the accused had done the same act with any other wild animal. However, as there is still room for investigation, a team of forest officials will take up the matter further. He further said, “Having physical intercourse with wild animals is a very strange phenomenon. In the present case, all the legal aspects will be presented before the court. The help of legal experts will be sought for this.” Nandkumar Nalawade, Forest Ranger Chandoli Wildlife, also said that the hunted animals have also been photographed on their mobiles. The photos of the hunted rabbits, pangolins and deer have also been found on their mobile phones. As per the Wildlife Act, there is a provision for seven years imprisonment for such acts. There are different categories of protection under the protection of wildlife in the country. (ANI) This report is auto-generated from ANI news service. ThePrint holds no responsibility for its content.']
+
+
+Poacher----SUS.AFFIL
+
+monitor lizard----SP.COMMON
+
+Sahyadri Tiger Reserve----LOC.EXACT
+
+Maharashtra----LOC.STATE
+
+Sahyadri Tiger Reserve----LOC.EXACT
+
+Maharashtra----LOC.STATE
+
+four----SUS.NUMBER
+
+monitor lizard----SP.COMMON
+
+weapons----ITEM
+
+Gabha area of Gothane village----LOC.EXACT
+
+Maharashtra----LOC.STATE
+
+Thursday----DATE
+
+Hativ village----SUS.LOC
+
+Maral----SUS.LOC
+
+mobile phones----ITEM
+
+recorded video----DETECTION_METHOD

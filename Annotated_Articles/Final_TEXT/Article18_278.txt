@@ -1,0 +1,53 @@
+
+['NAGPUR: In a first, forest officials nab four with ambergris worth Rs40 lakh\nNAGPUR: In the first kind of its action, Nagpur division forest officials arrested four persons with ambergris, a waxy substance that originates from the digestive system of the protected sperm whales, used to produce high-end perfumes.Acting on a tip-off, the accused were nabbed from the Ganeshpeth area by a team of foresters led by the assistant conservator of forest (ACF) Narendra Chandewar on Friday night. All of them have been booked under the Wildlife Protection Act, 1972, and remanded to forest custody (FCR) till June 21.The accused have been identified as Arun Gujar, Pawan Gajghate, Rahul Dupare, and Praful Matlane, all from the city. “We are investigating whether the accused were regulars in the trade. We have seized ambergris worth Rs40 lakh ,” forest officials said.They said that based on its purity, ambergris, which is also known as floating gold, fetches around Rs1 to 2 crore per kilogram in the international market. Traditionally, it is used to produce perfumes that have notes of musk. While there are records of it being used to flavour food, alcoholic beverages, and tobacco in some cultures in the past, it is rarely used for these purposes at present.The forest officials have also seized the cell phones of the accused and are tracing their links from call details records (CDRs). Sources said, the accused used to procure the material from Kerala and sell it in Thane and Mumbai. “The four-some were also in touch with a person from Kerala who has 20kg of ambergris for sale,” they said.While there is a ban on possession and trade of ambergris in India, in several other countries it is a tradable commodity, though with limitations in some of them. In the Indian context, sperm whales are a protected species under Schedule II of the Wildlife Protection Act, 1972, and possession or trade of any of its byproducts, including ambergris, is illegal under provisions of the WPA 1972.Forest officials said, “It has been observed that the gangs smuggling the ambergris procure it from coastal areas and ship it to destination countries via some other countries from Mumbai, Thane, and other coastal cities.”']
+
+
+NAGPUR----LOC.DISTRICT
+
+forest officials----AUTH.SEIZE
+
+four----SUS.NUMBER
+
+ambergris----ITEM
+
+Rs40 lakh----VALUE
+
+NAGPUR----LOC.DISTRICT
+
+Nagpur division forest officials----AUTH.SEIZE
+
+four----SUS.NUMBER
+
+ambergris----ITEM
+
+sperm whales----SP.SPECIFIC
+
+tip-off----DETECTION_METHOD
+
+Ganeshpeth area----LOC.EXACT
+
+assistant conservator of forest (ACF----OFF.DESIG
+
+Narendra Chandewar----OFF.NAME
+
+Friday----DATE
+
+night----TIME
+
+booked under the Wildlife Protection Act, 1972----OUTCOME
+
+Arun Gujar----SUS.NAME
+
+Pawan Gajghate----SUS.NAME
+
+Rahul Dupare----SUS.NAME
+
+Praful Matlane----SUS.NAME
+
+ambergris----ITEM
+
+Rs40 lakh----VALUE
+
+Rs1 to 2 crore per kilogram----VALUE
+
+cell phones----ITEM

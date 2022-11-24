@@ -1,0 +1,45 @@
+
+['Tiger skinning: Whistleblower NGO named as main accused\nForest and police officials seized a tiger skin from a house in Mandamarri on January 24. Mancherial: Ramagundam police arrested 16 accused, including forest department animal trackers and Chandrapur based NGO ‘Tiger Hunting End’ representatives and brokers for allegedly killing and skinning a tiger. Forest and police officials seized a tiger skin from a house in Mandamarri on January 24. Giving details to mediapersons about the tiger skin case, while producing the 16 accused in Mancherial on Wednesday, Ramagundam police commissioner V. Satyanarayana, additional DCP N. Ashok Kumar and Mancherial DCP M.Venugopal Rao said that the police successfully investigated the case and brought all the accused, who were directly or indirectly involved in the case, to book. Police had shown NGO president Kishore Pimple as the main accused in the case. In a surprise, the Task force team that investigated the case had shown the president of Chandrapur based NGO ‘Tiger Hunting End’ as an accused in the case. The ‘Tiger Hunting End’ NGO’s representatives had only informed the forests officials about the poaching of a tiger and finding the tiger skin. The police said that representatives of ‘Tiger Hunting End’ had contacted the poachers and wanted to buy the tiger skin but they did not do so as there were unable to pay the `30 lakhs demanded by the poachers for the skin. The police said that then, the NGO representatives changed their track and informed the matter to the forest officials concerned about the tiger skin with the intention that they may get a reward from the forest department. Forest department’s animal trackers Mohammed Sharief and Thokala Rajalingu had allegedly informed about the movement of a tiger to the poachers, hoping that they will get their share if the poachers sell the tiger skin. Poachers killed the tiger by electrocuting it in Shivvaram forest area in Jaipur mandal in Mancherial district.']
+
+
+Tiger----SP.COMMON
+
+tiger----SP.COMMON
+
+skin----ITEM
+
+Mandamarri----LOC.EXACT
+
+January 24----DATE
+
+Ramagundam police----AUTH.SEIZE
+
+16----SUS.NUMBER
+
+forest department animal trackers----SUS.AFFIL
+
+Chandrapur based NGO ‘Tiger Hunting End’ representatives----SUS.AFFIL
+
+killing and skinning----CRIME.CAT
+
+police officials----AUTH.SEIZE
+
+tiger----SP.COMMON
+
+skin----ITEM
+
+Mandamarri----LOC.EXACT
+
+January 24----DATE
+
+commissioner----OFF.DESIG
+
+V. Satyanarayana----OFF.NAME
+
+additional DCP----OFF.DESIG
+
+N. Ashok Kumar----OFF.NAME
+
+DCP----OFF.DESIG
+
+M.Venugopal Rao----OFF.NAME

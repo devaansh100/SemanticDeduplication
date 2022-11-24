@@ -1,0 +1,29 @@
+
+['Two spotted deer die near TN’s Mettupalayam\nCOIMBATORE: A female spotted deer was killed by an unidentified vehicle on the Mettupalayam Coonoor Road in the early hours of Tuesday.Mettupalayam forest range officer Joseph Stalin received information that a spotted deer aged around three years was found dead on the Mettupalayam -Coonoor Road. Immediately, the frontline staff rushed to the spot and brought the carcass to the office of the range officer where a veterinary doctor carried out a postmortem. After the postmortem, the carcass was buried.In another incident, a male spotted deer was found dead in a well near Nellimalai forest beat on Tuesday morning. The spotted deer approached the well for drinking water, slipped into it and died, according to forest department officials in Mettupalayam.The department staff retrieved the carcass from the well. After the postmortem, it was buried.']
+
+
+Two----QTY
+
+spotted deer----SP.SPECIFIC
+
+Mettupalayam----LOC.CITY
+
+spotted deer----SP.SPECIFIC
+
+killed----CRIME.CAT
+
+Tuesday.Mettupalayam----DATE
+
+Joseph Stalin----OFF.NAME
+
+information----DETECTION_METHOD
+
+spotted deer----SP.SPECIFIC
+
+Mettupalayam -Coonoor Road----LOC.EXACT
+
+spotted deer----SP.SPECIFIC
+
+Tuesday----DATE
+
+morning----TIME

@@ -1,0 +1,53 @@
+
+["Snake venom worth Rs1.5cr seized, 3 arrested in Bengal\nMalda: Three persons were arrested in West Bengal's Malda district with snake venom worth nearly Rs1.5 crore in the international market, police said on Saturday. Acting on a tip-off, a police team arrested the trio from a hotel in English Bazaar town on Friday night and recovered the snake venom which was stored in a glass container. The accused have been identified as 49-year-old Rafik Ali and Ashik Mandal and Masud Sheikh, both of them in their twenties, district Superintendent of Police Alok Rajoria said, adding they are residents of villages under Kaliachak police station limits. They have been booked under relevant sections of the Wildlife Protection Act, 1972, Rajoria said, adding an investigation is on to ascertain the source and destination of the snake venom. The accused were produced before the court of the Chief Judicial Magistrate in English Bazaar on Saturday, which remanded them to four days in police custody, sources said. Read Also SGPC to send team to Nankana Sahib"]
+
+
+Snake----SP.COMMON
+
+venom----ITEM
+
+Rs1.5cr seized----VALUE
+
+3----SUS.NUMBER
+
+Bengal----LOC.STATE
+
+Three----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+West Bengal's----LOC.STATE
+
+Malda----LOC.DISTRICT
+
+snake----SP.COMMON
+
+venom----ITEM
+
+Rs1.5 crore----VALUE
+
+tip-off----DETECTION_METHOD
+
+police----AUTH.SEIZE
+
+arrested----CRIME.CAT
+
+English Bazaar town----LOC.EXACT
+
+Friday----DATE
+
+snake----SP.COMMON
+
+venom----ITEM
+
+glass container----CONCEALMENT_METHOD
+
+49-year-old----SUS.AGE
+
+Rafik Ali----SUS.NAME
+
+Ashik Mandal----SUS.NAME
+
+Masud Sheikh----SUS.NAME
+
+investigation is on----OUTCOME

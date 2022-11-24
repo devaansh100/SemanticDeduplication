@@ -1,0 +1,15 @@
+
+['Man-eater tigers are ‘terrorists’, should be put to sleep: Nawab Shafat Ali Khan\nHYDERABAD: Shooter Nawab Shafath Ali Khan , who was invited by the Hyderabad metropolitan criminal courts bar association at Nampally for an interaction with advocates, said on Thursday afternoon that all confirmed man-eater tigers are ‘terrorists’ and should be either tranquilised or eliminated as part of conservation measures.Shafath said that he had so far shot seven man-eating tigers and leopards. He also boasted of killing around 17,400 wild boars in one operation in Gwalior and 7,000 wild boars in Bihar.“Man-eater tigers is a small issue as they constitute only 0.1% of the total tiger population. Out of 2700 tigers, perhaps two could turn into man-eaters in the entire country. We need professionals with tranquilising and shooting expertise to tackle the man-eater tiger or leopards. I am the only person in the country with this expertise. A confirmed man-eating tiger is nothing but a terrorist. It would have terrorised several villages in the area of operation affecting day to day normal life. Its presence brings farming activity to a grinding halt. Nobody steps out, schools get closed,” Shafath Ali Khan said.According to him, “such tigers have to be taken out of the system by either tranquilising or elimination. Unfortunately, a delay is happening due to which people are losing lives. In the case of T1, 26 villagers were terrorised for two and a half years. Today, villagers have developed so much hostility towards flora and fauna because of this.” NTCA guidelines also need a declared man-eater tiger to be eliminated, he said. Confirmed ‘man-eaters’ should be eliminated as per the statutory provisions in section 11 of the Wildlife (Protection) Act, 1972.Shafath Ali Khan added, “no conservation programme will be a success unless farmer and forest dwellers are kept happy. In Maharashtra , the number of tigers has shot up from 105 to 225. But in Telangana, their number is dropping due to electrocution because farmers are unhappy. The Telangana government also has to take steps to control the wild boar population.”']
+
+
+Man-eater tigers----SP.SPECIFIC
+
+terrorists----SUS.AFFIL
+
+Nawab Shafat Ali Khan----SUS.NAME
+
+Nawab Shafath Ali Khan----SUS.NAME
+
+man-eater tigers----SP.SPECIFIC
+
+terrorists----SUS.AFFIL

@@ -1,0 +1,26 @@
+
+['The Mysore Forest Mobile Squad led by DCF A.T.Poovaiah has seized a pair of two Elephant Tusks, ...3 Motorcycles and a Tata Ace Vehicle from Annur Hos...\n']
+
+
+Mysore Forest Mobile Squad----AUTH.SEIZE
+
+DCF----OFF.DESIG
+
+seized----CRIME.CAT
+
+pair----QTY
+
+two----QTY
+
+Elephant Tusks----ITEM
+
+3----QTY
+
+Motorcycles----ITEM
+
+a----QTY
+
+Tata Ace Vehicle----ITEM
+
+Annur Hos...
+----LOC.EXACT

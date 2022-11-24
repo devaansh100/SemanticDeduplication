@@ -1,0 +1,11 @@
+
+['Dolphins dying in Black Sea, may be casualties of war\nDolphins dying in Black Sea, may be casualties of war Moscow, June 2 (UNI) Injured dolphins have been washing up on the coasts of Bulgaria, Romania, Turkey and Ukraine, burned from bomb or mine explosions, The New york Times reported Thursday. Several thousand Dolphins have suddenly been found dead. The sudden and mysterious death of so many of the Dolphins is raising alarm among some scientists that the war in Ukraine may be taking a growing toll on life in the Black Sea. The battles waged along Ukraine’s coastline have done untold environmental damage and have interfered with dolphins’ habitat, scientists say. But the war has made it impossible to gather detailed information, leaving the dolphin deaths a mystery for now.']
+
+
+Dolphins----SP.COMMON
+
+Black Sea----ROUTE.SRC
+
+Dolphins----SP.COMMON
+
+Black Sea----ROUTE.SRC

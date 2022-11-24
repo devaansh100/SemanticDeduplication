@@ -1,0 +1,11 @@
+
+["Animal Cruelty: Displaced Stray Dog Brutally Killed; Fir Filed\nMUMBAI: A white coloured dog was found to be brutally beaten and killed with a stick at Link road in Malad (west) on Saturday. An FIR has been lodged at the Bangur Nagar police station by animal activist Dr Nandini Kulkarni.Dr Kulkarni, who is also a member of the animal welfare monitoring committee appointed by the high court said, “I was informed by a local dog feeder that an unknown man had hit the white dog with a heavy stick which had a pointed metal tip. I have therefore asked the Bangur Nagar police to inquire into this case and arrest the person behind this animal cruelty .”When she shared the photos of the victim dog on social media, another animal lover named Maggie messaged Dr Kulkarni that the dead dog matched the description of her missing white dog, which had earlier got dislocated from Madh area, when he was taken for a sterilization operation.“It is likely that Maggie's missing white dog was unfortunately the same animal killed at Link road on Saturday, as I had also seen some medical stitch marks on its abdomen, indicating that the animal has undergone sterilization. It is very sad and tragic that the dog which was cared for by his human friends has been killed by some cruel people. We therefore want the authorities to thoroughly investigate the case,” said Dr Kulkarni.The FIR was lodged under IPC section 429 and section 11 of the Prevention of Cruelty Act, 1960."]
+
+
+Stray Dog----SP.COMMON
+
+white coloured dog----SP.SPECIFIC
+
+Link road in Malad----LOC.EXACT
+
+Saturday----DATE

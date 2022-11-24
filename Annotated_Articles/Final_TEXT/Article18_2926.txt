@@ -1,0 +1,23 @@
+
+['Rahul Rescue Operation: Rescued the innocent trapped between snake and frog, know how the rescue operation went in sequence?\nChhattisgarh Borewell Rescue: Rahul trapped in Borewell in Janjgir Champa of Chhattisgarh has been rescued by the rescue team after 104 hours. Rahul was sent from Pihrid village directly to Apollo Hospital in Bilaspur by making a green corridor late at night. During the rescue operation, it was revealed that Rahul was with a snake and a frog in the borewell for 104 hours. ABP News had informed about the presence of a snake in the borewell on the third day of the rescue operation. After this, the snake was caught by calling the snake snatcher and it was kept in a box. Regarding this, Collector of Janjgir Champa, Dr. Jitendra Shukla spoke to Chief Minister Bhupesh Baghel late night through video call. The collector gave all the updates of the rescue operation to Chief Minister Bhupesh Baghel and also told about the snake in the borewell. Chief Minister surprised by the news of snake in borewell Rahul was pulled out of the borewell this way Also read- Chhattisgarh: CM Bhupesh Baghel furious over ED’s interrogation, said- Tried to put hand in Rahul Gandhi’s mouth, it will be very expensive’ How is Rahul’s health now? Also read- Chhattisgarh Weather Forecast: People of Chhattisgarh will soon get relief from heat, today there will be rain in many areas, know the weather condition']
+
+
+Rahul----ITEM
+
+Rahul----SUS.NAME
+
+rescued----OUTCOME
+
+Pihrid village----ROUTE.SRC
+
+night----TIME
+
+snake----SP.COMMON
+
+Collector of Janjgir Champa----OFF.DESIG
+
+Dr. Jitendra Shukla----OFF.NAME
+
+Chief Minister----OFF.DESIG
+
+Bhupesh Baghel----OFF.NAME

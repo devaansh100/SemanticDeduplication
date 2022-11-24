@@ -1,0 +1,27 @@
+
+['Chinkara poached in Jaisalmer, accused at large\nJaisalmer: Unidentified persons poached a chinkara at Karmooro Meghwal ki Dhani near Bheekhodai town in Phalsoond police station area of Jaisalmer on Friday night. Hearing the firing sound, villagers came running with torches but the poachers fled the spot by then. The chinkara died on the spot.Villagers informed Phalsoond police about the incident and SHO Bhanwar Lal Vishnoi reached the spot with his team. The SHO said they lookes for the poachers throughout the night and the forest department was also informed. tnn']
+
+
+Chinkara----SP.SPECIFIC
+
+poached----CRIME.CAT
+
+Jaisalmer----LOC.CITY
+
+poached----CRIME.CAT
+
+chinkara----SP.SPECIFIC
+
+Karmooro Meghwal ki Dhani----LOC.EXACT
+
+Bheekhodai town in Phalsoond police station area----LOC.EXACT
+
+Jaisalmer----LOC.CITY
+
+Friday----DATE
+
+night----TIME
+
+SHO----OFF.DESIG
+
+Bhanwar Lal Vishnoi----OFF.NAME

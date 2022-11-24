@@ -1,0 +1,19 @@
+
+['3-month-old leopard cub receives blood transfusion at RESQ\nPUNE An emergency blood transfusion was done for an Indian leopard cub at RESQ Wildlife TTC (Treatment Transit Centre), Pune. The cub had come from Nashik (rescued by the Nashik forest department and Eco Echo from an illegal captive situation). “The cub is about three months old and is suffering from severe Malassezia, second bacteria and is highly immune-compromised due to her previous captive conditions,” said Dr Nikita Mehta, RESQ wildlife veterinarian. Neha Panchamia, founder, RESQ, said, “The cub was appearing listless June 14 and diagnostics (blood work) revealed extremely low/ life-threatening haemoglobin values. As her condition worsened, the veterinarians and team sought necessary consent from the principal chief conservator of forests late last night and conducted an emergency blood transfusion from another leopard cub the same age (currently housed at RESQ also). We did not find any record of this being done before in the country for Indian leopard.” Both donor and recipient leopard cubs are doing well, however, the next 48-72 hours are still considered critical for the recipient leopard cub. According to RESQ, the cub is recovering well, and the first 48 hrs are crucial, “We are monitoring her closely. We will continue to monitor her and then progress according to how she is responding,” said Dr Mehta.']
+
+
+leopard----SP.COMMON
+
+RESQ----LOC.EXACT
+
+PUNE----LOC.CITY
+
+Indian leopard----SP.SPECIFIC
+
+RESQ Wildlife TTC (Treatment Transit Centre)----LOC.EXACT
+
+Pune----LOC.CITY
+
+Nashik----ROUTE.SRC
+
+Nashik forest department----AUTH.SEIZE

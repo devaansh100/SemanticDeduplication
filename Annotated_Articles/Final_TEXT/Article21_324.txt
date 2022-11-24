@@ -1,0 +1,65 @@
+
+['Tiger canines and nails seized, six arrested\nChandrapur: Foresters of Chandrapur (buffer) range of Tadoba have busted a gang that was trying to sell tiger body parts. A team led by RFO, Swati Maheshkar, nabbed six persons and seized four canines, 12 nails and 15 whiskers from them.Maheshkar told TOI that acting on a tip-off, the team zeroed in on four suspects who were in the process of selling tiger body parts along Chek Boarda to Chek Nimbala road. The suspects had huddled near Check Borad village.The tiger body parts were recovered from a bag in possession of the suspects, identified as Ramesh Tekam, Surkiran Alam, Bharat Bawane and Lingo Bawne.“On interrogation done at RFO office of Chandrapur buffer range, the suspects revealed that they had obtained the tiger parts from Jiwandas Madavi and Namdev Atram three years back,” said Maheshkar.Madavi and Atram too were rounded up. Maheshkar said the suspects claimed that they had not poached the tiger, instead had collected the parts from a carcass they had found deep in the Tadoba buffer 4-5 years back.A team discovered scattered bones of the tiger from the spot where the suspects claimed they had found the body parts. The RFO claimed the spot is at the bank of nullah and most of the remains are likely to have washed away.']
+
+
+Tiger----SP.COMMON
+
+canines----ITEM
+
+nails----ITEM
+
+seized----CRIME.CAT
+
+six----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+Foresters of Chandrapur (buffer) range of Tadoba----AUTH.SEIZE
+
+gang----SUS.AFFIL
+
+tiger body parts----ITEM
+
+RFO----OFF.DESIG
+
+Swati Maheshkar----OFF.NAME
+
+nabbed----CRIME.CAT
+
+six----SUS.NUMBER
+
+four----QTY
+
+canines----ITEM
+
+12----QTY
+
+nails----ITEM
+
+15----QTY
+
+whiskers----ITEM
+
+tip-off----DETECTION_METHOD
+
+four----SUS.NUMBER
+
+tiger body parts----ITEM
+
+Chek Boarda----LOC.EXACT
+
+Chek Nimbala road----ROUTE.DEST
+
+tiger body parts----ITEM
+
+recovered----OUTCOME
+
+bag----CONCEALMENT_METHOD
+
+Ramesh Tekam----SUS.NAME
+
+Surkiran Alam----SUS.NAME
+
+Bharat Bawane----SUS.NAME
+
+Lingo Bawne.“On interrogation done at RFO office of Chandrapur buffer range, the suspects revealed that they had obtained the tiger parts from Jiwandas Madavi and Namdev Atram three years back,” said Maheshkar.Madavi and Atram too were rounded up----SUS.NAME

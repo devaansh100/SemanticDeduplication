@@ -1,0 +1,17 @@
+
+['Wandering hen taken into custody at Pentagon security area\nWASHINGTON: A wandering chicken was caught sneaking around a security area at the Pentagon , a local animal welfare organization said.The loose hen was found early Monday morning near the US Department of Defense headquarters, the Animal Welfare League of Arlington, Virginia, wrote on social media.“Apparently, the answer to ‘why did the chicken cross the road’ is to get to the Pentagon,” the group posted.The chicken was taken into custody by one of the league’s employees.Chelsea Jones, a spokesperson for the organization, said in an email that she couldn’t reveal the precise location where the bird was spotted.“We are not allowed to disclose exactly where she was found,” Jones said. “We can only say it was at a security checkpoint.”It’s also unclear where the chicken came from or how she got to the Pentagon.The hen — which has brown feathers and a red comb and wattles — is a Rhode Island Red. Jones described the bird as “sweet” and “nervous” but said she has allowed some people to pet her.She’s now known as Henny Penny, one of the names given to the chicken that thinks “the sky is falling” in a folk tale.This one has gained notoriety of her own: Jimmy Fallon performed a song about her on “The Tonight Show.”“Are you a normal clucker or an undercover spy?” Fallon sang on his Tuesday episode.Jones said Henny Penny is being adopted by a staff member who has a small farm in western Virginia.']
+
+
+Wandering hen----SP.SPECIFIC
+
+taken into custody----CRIME.CAT
+
+Pentagon security area----LOC.EXACT
+
+early Monday----TIME
+
+morning----TIME
+
+Rhode Island Red----SP.SPECIFIC
+
+Henny----SUS.NAME

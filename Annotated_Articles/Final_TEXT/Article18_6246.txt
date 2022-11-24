@@ -1,0 +1,19 @@
+
+['Mice, Frogs And Beetle Ride On Snake’s Back To Escape Floods In Australia\nIn the unlikeliest of alliances, recent floods in the Australian state of Queensland forced several animals - snake, frog, and pair of mice - to work as a team to survive. The clip going viral shows was filmed inside a rainwater tank in Western Queensland after heavy rain hit the state. Screengrab/YouTube In the video, a large snake in shallow water can be seen carrying a few friends (albeit only this once) on its back. Rescuers attempted to use a long yellow pole to help the frogs escape, but this only caused the snake to begin swimming laps in the tank.  At one particular point in time, one of the mice was thrown from the snake and rescued by onlookers, while his friends held on. Luckily, the mouse and the rest of the creatures were able to escape- snake included.   People were left amazed at the unlikely teamwork of a predator and its prey and said it was amazing to see the animals help out each other. “The most Australian thing I’ve seen today,” one user commented. "That\'s terrific teamwork. Well done, lads!" another user said. news.com.au Queensland has been hit by torrential rains since Friday, with Brisbane suffering 677mm of rainfall in three days and flash flooding hitting the southeast of the state along the Gold Coast.  The Bureau of Meteorology has predicted flooding will ease in the coming days as the storm begins to move south through the Gold Coast. For the latest from trending, click here. ']
+
+
+Mice----SP.COMMON
+
+Frogs----SP.COMMON
+
+Beetle----SP.COMMON
+
+Snake’s----AUTH.SEIZE
+
+Australia----LOC.STATE
+
+snake----SP.COMMON
+
+frog----SP.COMMON
+
+mice----SP.COMMON

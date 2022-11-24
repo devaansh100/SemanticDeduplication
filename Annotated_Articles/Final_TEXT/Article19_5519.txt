@@ -1,0 +1,73 @@
+
+["High-drama operation concludes after five days with capture of tiger in Karnataka's Bandipur\nBosky Khanna By Express News Service BENGALURU: After a five-day-long search operation, Karnataka Forest Department officials finally darted and captured Bandipur’s elusive ‘killer’ tiger on Sunday afternoon. The high-drama operation finally concluded with the semi-conscious animal being sent to Kooragahalli Wildlife Rescue and Rehabilitation Centre, located 15 km from Mysuru. However, there was a lot of confusion and chaos on ground till afternoon. Even before officials announced its capture, the news had already gotten out, but there was uncertainty over whether it was the same one that claimed two lives recently. One rumour that was doing the rounds was that officials had captured a female tiger, orphaning its three cubs. Putting an end to the confusion, Sanjai Mohan, Principal Chief Conservator of Forests, Wildlife, told The New Indian Express, “The animal darted is the right one. He is a male of around five years. He was darted at around 2.15 pm.” Elaborating on the operation, Balachandra T, director, Bandipur Tiger Reserve, said two darts were fired. One missed the target, while the second one was successful. “The animal ran into the forest and hid among bushes. At around 3.10 pm, he was traced and captured with nets, after which the announcement was made. To ensure it was the right one, staffers compared the unique marks on the animal with camera trap images,” he said. The operation had started at 6 am, with the animal first being sighted at around 9.30 am. Five teams had gathered in the area where the animal was resting, and spotted it again at 2 pm, said a senior Forest Department official. The carnivore was darted by the department’s two sharp shooters, Akram and Venkatesh, who work in the Mysuru Wildlife Division. They were mounted atop elephant Abhimanyu (also known as AK-47). Dasara elephants Jayaprakash and Ganesh were also put on duty. Four Soliga tribals from BRT Tiger Reserve, who joined the search operation on Saturday morning, tracked its pugmarks from Antharsanthe to Muguvinahalli, where the animal was found resting in an abandoned field. Punati Sridhar, forest force head, added that the animal took long to fall unconscious. “Normally, animals take 30-45 minutes to become unconscious. In fact, when the animal was caged, his eyes were wide open. This proves that the tiger is healthy, and has no injuries either,” Sridhar said. The animal is said to be a healthy male, weighing around 170 kg (normal weight being 140 kg). Forest officials had imposed Section 144 around the reserve and Mysuru, but this was of little help. “There were only a few police officers around. Soon after news of the tiger being darted spread, scores of people rushed to the forest. We had a tough time keeping people at bay. Many activists and volunteers had rushed to Bandipur over the weekend to help us, but this made it harder to manage. The animal, while in the net, was man-handled. We are worried if it suffered any internal injuries because of this,” the official added. Forest Minister C C Patil and Gundlupet MLA C S Niranjan Kumar, who were at Jungle Lodges and Resorts Limited, where the darted animal was brought, tried pacifying villagers and farmer leaders, who were sure that the department had captured the wrong tiger. They insisted that officials show them the animal as proof. Not a man-eater, say officials Forest officials said the tiger was looking for a new territory and food. He was pushed out of every place by other tigers, and found solace at the border of Gopalaswamy Betta range, near Muguvinahalli and Hundipura villages. He was hunting cattle. Camera trap images confirmed that the tiger mauled its victims out of fear, and there is no ground to call it a man-eater, officials said. 5 teams on ground 300 staffers 7 elephants 5 veterinarians 5 teams, 5 guns 200 camera traps 30 vehicles 4 Soliga tribals — With inputs from Sreekantswamy B @Chamarajanagar BENGALURU: After a five-day-long search operation, Karnataka Forest Department officials finally darted and captured Bandipur’s elusive ‘killer’ tiger on Sunday afternoon. The high-drama operation finally concluded with the semi-conscious animal being sent to Kooragahalli Wildlife Rescue and Rehabilitation Centre, located 15 km from Mysuru. However, there was a lot of confusion and chaos on ground till afternoon. Even before officials announced its capture, the news had already gotten out, but there was uncertainty over whether it was the same one that claimed two lives recently. One rumour that was doing the rounds was that officials had captured a female tiger, orphaning its three cubs. Putting an end to the confusion, Sanjai Mohan, Principal Chief Conservator of Forests, Wildlife, told The New Indian Express, “The animal darted is the right one. He is a male of around five years. He was darted at around 2.15 pm.” Elaborating on the operation, Balachandra T, director, Bandipur Tiger Reserve, said two darts were fired. One missed the target, while the second one was successful. “The animal ran into the forest and hid among bushes. At around 3.10 pm, he was traced and captured with nets, after which the announcement was made. To ensure it was the right one, staffers compared the unique marks on the animal with camera trap images,” he said. The operation had started at 6 am, with the animal first being sighted at around 9.30 am. Five teams had gathered in the area where the animal was resting, and spotted it again at 2 pm, said a senior Forest Department official. The carnivore was darted by the department’s two sharp shooters, Akram and Venkatesh, who work in the Mysuru Wildlife Division. They were mounted atop elephant Abhimanyu (also known as AK-47). Dasara elephants Jayaprakash and Ganesh were also put on duty. Four Soliga tribals from BRT Tiger Reserve, who joined the search operation on Saturday morning, tracked its pugmarks from Antharsanthe to Muguvinahalli, where the animal was found resting in an abandoned field. Punati Sridhar, forest force head, added that the animal took long to fall unconscious. “Normally, animals take 30-45 minutes to become unconscious. In fact, when the animal was caged, his eyes were wide open. This proves that the tiger is healthy, and has no injuries either,” Sridhar said. The animal is said to be a healthy male, weighing around 170 kg (normal weight being 140 kg). Forest officials had imposed Section 144 around the reserve and Mysuru, but this was of little help. “There were only a few police officers around. Soon after news of the tiger being darted spread, scores of people rushed to the forest. We had a tough time keeping people at bay. Many activists and volunteers had rushed to Bandipur over the weekend to help us, but this made it harder to manage. The animal, while in the net, was man-handled. We are worried if it suffered any internal injuries because of this,” the official added. Forest Minister C C Patil and Gundlupet MLA C S Niranjan Kumar, who were at Jungle Lodges and Resorts Limited, where the darted animal was brought, tried pacifying villagers and farmer leaders, who were sure that the department had captured the wrong tiger. They insisted that officials show them the animal as proof. Not a man-eater, say officials Forest officials said the tiger was looking for a new territory and food. He was pushed out of every place by other tigers, and found solace at the border of Gopalaswamy Betta range, near Muguvinahalli and Hundipura villages. He was hunting cattle. Camera trap images confirmed that the tiger mauled its victims out of fear, and there is no ground to call it a man-eater, officials said. 5 teams on ground 300 staffers 7 elephants 5 veterinarians 5 teams, 5 guns 200 camera traps 30 vehicles 4 Soliga tribals — With inputs from Sreekantswamy B @Chamarajanagar"]
+
+
+tiger----SP.COMMON
+
+Karnataka's----LOC.STATE
+
+Bandipur----LOC.DISTRICT
+
+search operation----DETECTION_METHOD
+
+Karnataka Forest Department----AUTH.SEIZE
+
+Sunday----DATE
+
+afternoon----TIME
+
+afternoon----TIME
+
+2.15 pm----TIME
+
+6 am----TIME
+
+Akram----SUS.NAME
+
+Venkatesh----OFF.NAME
+
+elephant----SP.COMMON
+
+Dasara elephants----SP.SPECIFIC
+
+Jayaprakash----OFF.NAME
+
+Ganesh----OFF.NAME
+
+170 kg----QTY
+
+C C Patil----OFF.NAME
+
+C S Niranjan Kumar----OFF.NAME
+
+search operation----DETECTION_METHOD
+
+Karnataka Forest Department----AUTH.SEIZE
+
+Sunday----DATE
+
+afternoon----TIME
+
+afternoon----TIME
+
+2.15 pm----TIME
+
+6 am----TIME
+
+Akram----SUS.NAME
+
+Venkatesh----OFF.NAME
+
+elephant----SP.COMMON
+
+Dasara elephants----SP.SPECIFIC
+
+Jayaprakash----OFF.NAME
+
+Ganesh----OFF.NAME
+
+170 kg----QTY
+
+C C Patil----OFF.NAME
+
+C S Niranjan Kumar----OFF.NAME

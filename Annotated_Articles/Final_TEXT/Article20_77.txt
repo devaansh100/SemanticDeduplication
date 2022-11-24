@@ -1,0 +1,49 @@
+
+['Assam: Two poachers held, rhino horn recovered\nTwo poachers have been arrested from upper Assam’s Jorhat district and a rhino horn was recovered from their possession. Police said acting on secret information, the rhino poachers were arrested around 4: 30 pm on Wednesday from Kharikatia Tea Garden under Titabar police station along with a 600 gram rhino horn. The arrested poachers have been identified as Rajesh Karmakar of Kharikatia, Titabar and Rahul Pegu of Bengenakhowa, Golaghat and recovered one suspected Rhino horn. The duo were reportedly linked with some local poachers and carrying out illegal acts like rhino poaching in Orang National Park (ONP) and Kaziranga National Park (KNP).']
+
+
+Assam----LOC.STATE
+
+Two----SUS.NUMBER
+
+rhino----SP.COMMON
+
+horn----ITEM
+
+Two----SUS.NUMBER
+
+Jorhat----LOC.DISTRICT
+
+a----QTY
+
+rhino----SP.COMMON
+
+horn----ITEM
+
+secret information----DETECTION_METHOD
+
+rhino poachers----SUS.AFFIL
+
+4: 30 pm----TIME
+
+Wednesday----DATE
+
+Kharikatia Tea Garden----ROUTE.SRC
+
+600 gram----QTY
+
+rhino----SP.COMMON
+
+horn----ITEM
+
+Rajesh Karmakar----SUS.NAME
+
+Kharikatia----SUS.LOC
+
+Titabar----SUS.NAME
+
+Rahul Pegu----SUS.NAME
+
+Bengenakhowa----SUS.LOC
+
+one----QTY

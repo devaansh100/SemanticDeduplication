@@ -1,0 +1,17 @@
+
+['Latest News on Delhi Zoo - Times of India\nDelhi: Zoo goes in for the kill to keep its 20 big cats fed TNN / Apr 28, 2020, 04:08 (IST) To feed its 20 big cats, the National Zoological Park on Mathura Road is slaughtering two-three buffaloes on its premises after the Ghazipur abattoir shut down following the Covid lockdown. The staff source buffaloes from nearby villages. The zoo cannot substitute red meat with, say, chicken because this will leave the felines protein deficient and cause ailments in the long run.']
+
+
+20----QTY
+
+big cats----SP.COMMON
+
+20----QTY
+
+big cats----SP.COMMON
+
+National Zoological Park on Mathura Road----AUTH.SEIZE
+
+two-three----QTY
+
+buffaloes----SP.COMMON

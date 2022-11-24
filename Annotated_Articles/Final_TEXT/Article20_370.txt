@@ -1,0 +1,53 @@
+
+['Assam: Carcass of female elephant with bullet injury recovered in Chirang\nThe carcass of a mature female elephant, aged 40 years, which died of bullet injury at Oxiguri in Chirang district, has been recovered by the forest officials on Wednesday. Talking to Northeast Now, the Chirang divisional forest officer, Brahmananda Patigiri on Wednesday said: “We received information from locals at around 7 am today about the death of an elephant at Oxiguri in Dadgiri area.” “Our team along with doctors rushed to the spot and found the carcass of a mature female elephant, aged approximately 40 years,” the DFO informed. “The elephant had bullet wounds. A manhunt is on to nab those involved in the killing of the elephant,” he said. The spot, where the carcass of the elephant was recovered, falls under the Runikhata forest range of Manas National Park in Chirang district. It is suspected that elephant tusk smugglers might have killed the animal. “We are investigating into the incident,” the DFO said. After conducting the post-mortem, the carcass of the elephant was buried at the spot. The DFO informed that two veterinarians, including Dr Prabhat Basumatary and Dr Daoharo Baro, conducted the post-mortem. The carcass was buried at around 3.30 pm on Wednesday. The DFO said, “The elephant tusk smugglers have collected tusks after killing the jumbos in different locations. We have arrested many of them and some others will be netted soon.” Talking to Northeast Now, veterinarian Dr Daoharo Baro from Chakrasila Wildlife Sanctuary informed that the female elephant died of bullet injury. “The elephant from Manas National Park received one bullet injury in its head. But, we could not find the bullet. So, it could be ascertained what kind of weapon (rifle) was used to kill the elephant,” said the veterinarian. It is suspected that the elephant might have killed on Monday last.']
+
+
+Assam----LOC.STATE\
+
+Carcass----ITEM
+
+female elephant----SP.COMMON
+
+Chirang----LOC.DISTRICT
+
+carcass----ITEM
+
+mature female elephant----SP.COMMON
+
+Oxiguri----LOC.EXACT
+
+Chirang district----LOC.DISTRICT
+
+forest officials----AUTH.SEIZE
+
+Wednesday----DATE
+
+Chirang divisional forest officer----OFF.DESIG
+
+Brahmananda Patigiri----OFF.NAME
+
+received information from locals----DETECTION_METHOD
+
+Oxiguri in Dadgiri area----LOC.EXACT
+
+carcass----ITEM
+
+mature female elephant----SP.COMMON
+
+DFO----AUTH.SEIZE
+
+Runikhata forest range of Manas National Park in Chirang district----LOC.DISTRICT
+
+elephant tusk smugglers----SUS.AFFIL
+
+post-mortem----OUTCOME
+
+the carcass of the elephant was buried at the spot----OUTCOME
+
+DFO----AUTH.SEIZE
+
+carcass----ITEM
+
+3.30 pm----TIME
+
+Wednesday----DATE

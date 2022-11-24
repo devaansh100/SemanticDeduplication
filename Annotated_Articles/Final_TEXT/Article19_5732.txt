@@ -1,0 +1,39 @@
+
+['In Bengal, 90 Indian softshell turtles seized; one arrested\nIn a joint operation by the Wildlife Crime Control Bureau and the state forest department, 90 softshell turtles were seized from Bongaon, a town along the Indo-Bangla border in North 24 Parganas district, on Friday. A 60-year-old man, identified as Prabash Biswas, was arrested. According to the International Union for Conservation of Nature’s (IUCN) Red List, the species - Indian softshell turtle - is considered to be vulnerable because of multiple threats to its survival such as loss of habitat, poaching and illegal trade. They are usually found in the middle and lower stretches of the River Ganga. “The turtles will be released into the river after we get permission from the court and a preliminary check up by veterinarians,” Agni Mitra, deputy director of the WCCB’s eastern regional office in Kolkata, said. SHARE THIS ARTICLE ON']
+
+
+Bengal----LOC.STATE
+
+90----QTY
+
+Indian softshell turtles----SP.SPECIFIC
+
+seized----CRIME.CAT
+
+one----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+Wildlife Crime Control Bureau----AUTH.SEIZE
+
+state forest department----AUTH.SEIZE
+
+90----QTY
+
+softshell turtles----SP.SPECIFIC
+
+seized----CRIME.CAT
+
+Bongaon----LOC.EXACT
+
+North 24 Parganas district----LOC.DISTRICT
+
+Friday----DATE
+
+60-year-old----SUS.AGE
+
+man----SUS.GENDER
+
+Prabash Biswas----SUS.NAME
+
+arrested----CRIME.CAT

@@ -1,0 +1,9 @@
+
+['In A ‘Tota’lly Insane Story, Police Arrest Parrot For Warning Drug Dealers Of Their Arrival\nParrots are known for learning and speaking human languages; it’s what makes these beautiful birds so fascinating. Also, dangerous (depending on who you are rooting for). According to a report from NBC, a parrot in Brazil warned his masters of a police car approaching their house for a drug raid by saying ‘mama, police’ in Portuguese. The parrot was arrested later on. What seems like a possible plot for a Bollywood comedy, is actually a real story. However, in an anticlimax for the masters, they were still busted and large amounts of money and drugs were seized from their house. Now that he is in custody, the parrot (who the police refuses to name), has gone on radio silence. He hasn’t said anything because, you know what? He is loyal. The things you do for your masters!']
+
+
+Police----AUTH.SEIZE
+
+Arrest----CRIME.CAT
+
+Parrot----SP.COMMON

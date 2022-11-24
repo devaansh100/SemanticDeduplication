@@ -1,0 +1,51 @@
+
+['Foresters foil attempt to smuggle sandalwood\nCoimbatore: Four men have been nabbed for attempting to chop sandalwood trees from a patta land near Thadagam reserve forest on Tuesday.Police identified them as Jolly Jacob, 55, of Wayanad, M Moideen, 44, of Palakkad, G Jagadeesh, 54, of Narasimhanaickenpalayam and R Rajdendran, 36, of Athikadavu near Mettupalayam.According to forest officials, forest personnel who were on a routine patrol in the forest between Koogoundampalayam and Kattanchimalai near Perinaickenpalayam, had found the men around 1am. They informed their superiors, who rushed to the spot with a six-member team and surrounded the miscreants, who were trying to chop sandalwood trees. They were taken to the forest office for inquiry.“The gang was stopped before they could fell trees,” a forest department official said.The department slapped a fine of Rs 10,000 each on the men.']
+
+
+Foresters----AUTH.SEIZE
+
+attempt to smuggle----CRIM.CAT
+
+sandalwood----SP.COMMON
+
+Four----SUS.NUMBER
+
+men----SUS.GENDER
+
+nabbed----CRIM.CAT
+
+sandalwood----SP.COMMON
+
+patta land near Thadagam reserve forest----LOC.EXACT
+
+Tuesday.Police----DATE
+
+Jolly Jacob----SUS.NAME
+
+55----SUS.AGE
+
+Wayanad----SUS.LOC
+
+M Moideen----SUS.NAME
+
+44----SUS.AGE
+
+Palakkad----SUS.LOC
+
+G Jagadeesh----SUS.NAME
+
+54----SUS.AGE
+
+Narasimhanaickenpalayam----SUS.LOC
+
+R Rajdendran----SUS.NAME
+
+36----SUS.AGE
+
+Athikadavu----SUS.LOC
+
+routine patrol----DETECTION_METHOD
+
+Perinaickenpalayam----LOC.EXACT
+
+1am----TIME

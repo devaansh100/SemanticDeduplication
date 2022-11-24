@@ -1,0 +1,49 @@
+
+['8,308 kg of red sanders seized\nMangaluru: The Mangaluru forest mobile squad seized 8,308 kg of red sanders being illegally transported in a truck at Kanchinakere in Kilpady village in Mangaluru taluk on Wednesday.The forest officials have also seized 316 logs, a truck and a multi-purpose vehicle escorting it.Alady Rajesh Reddy, Anil Kumar, Palraj , Dinesh Kumar, Kunhi Mohammed Anil Kumar and Shamir S were arrested for the crime.']
+
+
+8,308 kg----QTY
+
+red sanders----SP.COMMON
+
+seized----CRIME.CAT
+
+Mangaluru forest mobile squad----AUTH.SEIZE
+
+seized----CRIME.CAT
+
+8,308 kg----QTY
+
+red sanders----SP.COMMON
+
+truck----TRANSPORT_MODE
+
+Kanchinakere in Kilpady village----LOC.EXACT
+
+Mangaluru----LOC.DISTRICT
+
+Wednesday.The----DATE
+
+316----QTY
+
+logs----ITEM
+
+a----QTY
+
+truck----ITEM
+
+multi-purpose vehicle----ITEM
+
+Alady Rajesh Reddy----SUS.NAME
+
+Anil Kumar----SUS.NAME
+
+Palraj----SUS.NAME
+
+Dinesh Kumar----SUS.NAME
+
+Kunhi Mohammed Anil Kumar----SUS.NAME
+
+Shamir S----SUS.NAME
+
+arrested----CRIME.CAT

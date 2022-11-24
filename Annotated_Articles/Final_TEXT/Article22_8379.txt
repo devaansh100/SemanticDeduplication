@@ -1,0 +1,43 @@
+
+['CRAR writes to Forest dept over ten elephants being transported to Gujarat from Arunachal Pradesh\nIn a big development, the Centre for Research on Animal Rights (CRAR) has written to the forest departments of Gujarat, Arunachal Pradesh, and Assam over the transportation of ten sub-adult elephants to Gujarat’s Jamnagar from Arunachal Pradesh. The letter demanding a probe into the transportation dubbed to be suspicious reads, “The entire country stands shocked and outraged at images and videos from Pasighat of ten trucks carrying 10 sub-adult elephants from their fertile, lush, tropical, natural habitat of Arunachal Pradesh, 3400 km apart, to the dry, unnatural terrain of Jamnagar, in western Gujarat.” This cavalcade, led by two SUVs, was intercepted by animal rights activists and members of the Adi Student Union, along with forest and police officers on the night of June 6, 2022. The CRAR expressing concern over the transportation wrote about the elephant named Kamno. Kamno is a seven-year-old male and is part of the ten elephants being transported to Jamnagar. Divided into points, the CRAR stated that Chow Molaseng Namshum was granted an “Ownership Certificate” for Kamno under Section 42 of the Wildlife Protection Act, 1972, as late as May 25, 2022, which raises many concerns and irregularities that require immediate investigation. According to the documents, the 10 elephants mostly sub-adults were domesticated and purchased from a few owners from Chowkham in Namsai district by the Radhe Krishna Temple Welfare Trust of Jamnagar.” “Due to the combined hard work of many, in the form of activism, lobbying, education, and multiple policies and legal intervention, these illegal trade networks from the north-east have been in the decline. The ongoing illegal dispatch and the following compilation of news reports from just the past few months confirm that we may be heading back to the old, violent days of the Kheddah”, it read. “Most of the elephants were smuggled from Doomdooma Forest Division because there has been a large elephant population in the area. The smugglers in a very organised way doing the whole racket. Earlier, in the same way, elephants were smuggled from the state,” a source said. Environmental activist Debojit Moran expressed concern about the smuggling of elephants from the state. “It’s a very big racket running by the elephant smugglers in a very organised way. The elephants are smuggled from the forests of Assam and create illegal documents from Arunachal Pradesh,” alleged Moran.']
+
+
+CRAR----AUTH.MISC
+
+Forest dept----AUTH.SEIZE
+
+ten----QTY
+
+elephants----SP.COMMON
+
+Gujarat----ROUTE.DEST
+
+Arunachal Pradesh----ROUTE.SRC
+
+Centre for Research on Animal Rights----AUTH.MISC
+
+CRAR----AUTH.MISC
+
+forest departments of Gujarat, Arunachal Pradesh----AUTH.SEIZE
+
+ten----QTY
+
+sub-adult elephants----SP.COMMON
+
+Gujarat’s Jamnagar----ROUTE.DEST
+
+Arunachal Pradesh----ROUTE.SRC
+
+ten----QTY
+
+trucks----TRANSPORT_MODE
+
+10----QTY
+
+police officers----AUTH.SEIZE
+
+night----TIME
+
+June 6, 2022----DATE
+
+Doomdooma Forest Division----ROUTE.SRC

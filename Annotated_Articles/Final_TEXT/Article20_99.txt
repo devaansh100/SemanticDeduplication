@@ -1,0 +1,39 @@
+
+['3 penalised Rs 50,000 for poaching of wild birds\nThe department said the seized birds were protected under Schedule IV of Wildlife Protection Act 1972. Hyderabad: Three people, including a woman, were fined Rs 50,000 for illegally catching wild birds and selling them for their meat in Nalgonda district. According to a forest department statement, the three people were from the fishermen community, caught six Lesser Whistling Teal ducks and eight sandpipers, small wading birds that feed on shores of water bodies. The three people were identified as Singam Seenaiah and Singam Saidamma of Gajala-puram and Taviaaboina Saidulu of Boyavada in Nalgonda district. They regularly caught fist at the Peddadevulapally reservoir of Miryalaguda Range. The department said the seized birds were protected under Schedule IV of Wildlife Protection Act 1972. As the accused are poor fisherfolk and were unaware of the Act, said the DFO Nalgonda, who decided to impose a compounded fine and levy a penalty of `50,000 on the three. The department also appealed to people not to hunt aquatic birds as this would amount to a crime under Forest and Wildlife Protection Acts. Seven years of imprisonment, and a fine can be applicable for offences under these Acts.']
+
+
+3----SUS.NUMBER
+
+penalised Rs 50,000----OUTCOME
+
+poaching----CRIME.CAT
+
+Three----SUS.NUMBER
+
+fined Rs 50,000----OUTCOME
+
+Nalgonda----LOC.DISTRICT
+
+fishermen community----SUS.AFFIL
+
+six----QTY
+
+Lesser Whistling Teal ducks----SP.SPECIFIC
+
+eight----QTY
+
+sandpipers----SP.COMMON
+
+Singam Seenaiah----SUS.NAME
+
+Singam Saidamma----SUS.NAME
+
+Gajala-puram----SUS.LOC
+
+Taviaaboina Saidulu----SUS.NAME
+
+Boyavada----SUS.LOC
+
+compounded fine and levy a penalty of `50,000----OUTCOME
+
+Seven years of imprisonment----OUTCOME

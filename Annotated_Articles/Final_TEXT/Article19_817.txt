@@ -1,0 +1,17 @@
+
+['Thug monkey bites 20, Nagapattinam villagers flee homes and hide in temple\nAntony Fernando By Express News Service NAGAPATTINAM: In a real-life episode of man versus wild, at a village in Nagapattinam, 400 people have accepted defeat at the hands of a lone monkey. Many residents of the Thennalakudi village in Sirkazhi were forced to leave their homes on Thursday and find shelter elsewhere, thanks to a rogue monkey, which has bitten over 20 villagers and injured dozens of cattle in the last 20 days. “My 65-year-old grandmother was bitten by the monkey a few days ago,” says S Revathi, one of the villagers. “The wound, on her right hand, was so deep that her veins had been severed. We took her to Puducherry government hospital but the doctors there suggested that we take her to a private facility,” says Revathi. On Thursday, a third of the village locked up their houses and took shelter inside a Kaliamman temple on the outskirts of the village. The rest remained inside their houses. “People are scared of even taking their cattle out for grazing,” says village head TV Kaliyamurthy. While forest officials tried to capture the simian thrice, with nets and traps, it managed to give them all a miss. They have now set up a camp in Thennalakudi to catch the monkey. “Judging by its worn appearance and intense dislike of humans, the monkey has probably escaped from captivity after suffering abuse,” says ranger Karuppasamy. NAGAPATTINAM: In a real-life episode of man versus wild, at a village in Nagapattinam, 400 people have accepted defeat at the hands of a lone monkey. Many residents of the Thennalakudi village in Sirkazhi were forced to leave their homes on Thursday and find shelter elsewhere, thanks to a rogue monkey, which has bitten over 20 villagers and injured dozens of cattle in the last 20 days. “My 65-year-old grandmother was bitten by the monkey a few days ago,” says S Revathi, one of the villagers. “The wound, on her right hand, was so deep that her veins had been severed. We took her to Puducherry government hospital but the doctors there suggested that we take her to a private facility,” says Revathi. On Thursday, a third of the village locked up their houses and took shelter inside a Kaliamman temple on the outskirts of the village. The rest remained inside their houses. “People are scared of even taking their cattle out for grazing,” says village head TV Kaliyamurthy. While forest officials tried to capture the simian thrice, with nets and traps, it managed to give them all a miss. They have now set up a camp in Thennalakudi to catch the monkey. “Judging by its worn appearance and intense dislike of humans, the monkey has probably escaped from captivity after suffering abuse,” says ranger Karuppasamy.']
+
+
+Thug monkey----SP.SPECIFIC
+
+bites----CRIME.CAT
+
+20----SUS.NUMBER
+
+Nagapattinam----LOC.EXACT
+
+Thennalakudi village in Sirkazhi----SUS.LOC
+
+Thursday----DATE
+
+Thennalakudi village in Sirkazhi----SUS.LOC

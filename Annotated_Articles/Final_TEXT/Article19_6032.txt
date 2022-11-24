@@ -1,0 +1,17 @@
+
+["'Hands Up!': Bird Put Behind Bars for 'Participating' in Shoplifting in Netherlands\nIn a rather bizarre turn of events, a bird has been put behind the bars by the Dutch police. A tiny parakeet bird was taken in custody held in a jail cell in the Netherlands after its owner was arrested for shoplifting. Since the feathery being was a partner-in-crime, sitting atop the man’s shoulder when he violated the law, the cops arrested the offender as well as his companion. Sharing the photo of the yellow and green bird seated in a cell, the Politie Utrecht Centrum on Instagram joked, “We recently arrested a suspect for shoplifting. During the arrest, we found a sneaky witness with feathers and beak on the suspect’s shoulder.” The photo showed the little birdie was even provided with some bread and water by the thoughtful cops. “During the confinement on our desk, we were shocked to find out that we are not in possession of a bird cell or cage. After proper consultation with the suspect, we have enclosed them together,” the post added. The cops also added the bird was being “well cared for”. The story went viral on Twitter after local media shared the picture of the feathery suspect with a black bar on its face to protect its identity. Naturally, bird lovers on the Internet loved the idea and many rooted for the bird to be freed as soon as possible. Indian Express reported that in an update, the cops said the man and his feathery friend were released shortly after. “The bird has not been questioned and as far as we know not guilty of any charges,” the cops added with a pinch of humour."]
+
+
+Bird----SP.COMMON
+
+Netherlands----LOC.STATE
+
+bird----SP.COMMON
+
+Dutch police----AUTH.SEIZE
+
+parakeet----SP.SPECIFIC
+
+shoplifting----CRIME.CAT
+
+feathers----ITEM

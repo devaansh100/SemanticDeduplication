@@ -1,0 +1,37 @@
+
+["Train Mows Down Elephant In Uttarakhand's Nainital District, Dies On The Spot\nIn a tragic incident, an elephant was killed after it was allegedly mowed down by a train in the Lalkuan area of Nainital in Uttarakhand. Western Gaula Range Forest Department informed on Sunday that the train dragged the elephant for about one kilometer after which the elephant died on the spot. File What happened, and how? According to railway officials, a special goods train was going towards Bareilly from Lalkuan on Sunday morning. When the train reached near pillar number 62/1/2 a herd of four to five elephants appeared on the rail tracks and one of them was hit by the train despite the train’s loco pilot trying to reduce the speed of the train. After the incident, teams of forest and railway officials rushed to the spot and informed other senior officials about the incident. 3 killed in 4 days This is the third elephant death in the state in the last four days. On Saturday, two days after the death of a 55-year-old elephant in Motichur range of Rajaji Tiger Reserve in infighting, the other elephant involved in the infighting also died. His carcass was found in Song River in Chiddarwala area of Haridwar district. AFP On Thursday, infighting had taken place between a 55-year-old and 25-year-old elephant near Satya Narayan Temple-Kasron area, which probably lasted for 60-90 minutes, resulting in injuries for both the elephants. Elephant deaths in India The highest number of elephant deaths (93) took place in 2018-19, followed by 82 in 2019-20, 77 in 2020-21 and 30 till end of August in 2021. As many as 43 of the pachyderms were electrocuted, seven were killed by poachers 13 were hit by trains, four in road accidents and 59 died in other accidents. Agencies According to the Union Ministry of Environment, Forest and Climate Change (MoEFCC), a whopping 1,160 elephants were killed in the country due to reasons other than natural causes in the past 10 years up to December 31, 2020,"]
+
+
+Train----TRANSPORT_MODE
+
+Elephant----SP.COMMON
+
+Uttarakhand----LOC.STATE
+
+Nainital District----LOC.DISTRICT
+
+elephant----SP.COMMON
+
+train----TRANSPORT_MODE
+
+Lalkuan area----LOC.EXACT
+
+Uttarakhand----LOC.STATE
+
+Western Gaula Range Forest Department----AUTH.SEIZE
+
+special goods train----TRANSPORT_MODE
+
+Sunday----DATE
+
+morning----TIME
+
+forest and----AUTH.SEIZE
+
+railway officials----AUTH.SEIZE
+
+3----SUS.NUMBER
+
+carcass----ITEM
+
+Haridwar----LOC.DISTRICT

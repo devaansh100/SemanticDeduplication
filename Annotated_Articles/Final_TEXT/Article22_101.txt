@@ -1,0 +1,199 @@
+
+['Berhampur: Record haul of illegal wildlife items, one held\nBy Express News Service BERHAMPUR: In a major haul, sleuths of Berhampur forest division seized record quantity of illegal wildlife items including two leopard hides and the skin of a spotted deer from a house in Titigaon village under Surangi panchayat of Patrapur block here on Tuesday. On a tip off, a raid was conducted at the house of one Balaram Sahu (32) in Titigaon village under Samantiapalli range. During search, two leopard hides, skin of a spotted deer, two deer antlers, 38 porcupine quills, seven wild boar teeth, a pangolin scale, five leopard teeth, a leopard claw, hoof of mouse deer, leopard bone and tissue were recovered from the house, assistant conservator of forest (ACF) Ashok Kumar Behera said. Besides, a tractor-laden with timber planks of different sizes was also seized. Balaram had stored the wildlife items since some time and was searching for a buyer. The raid was carried out by Samantiapalli forester Rajat Kumar Mishra and his team along with Patrapur tehsildar Amit Kumar Nayak. Divisional forest officer (DFO) of Berhampur Amlan Nayak said it is one the largest single seizure of wildlife items in the last one decade in the division. Balaram was arrested and produced in court after interrogation. Search is underway at his house. The DFO confirmed that most of the seized wildlife items are old but one of hides is fresh. “We will appeal in the court to take Balaram on remand for further investigation,” Nayak added. On the other hand, Balaram pleaded innocence and said the items seized from his house were collected from the forest during a period of five years. Sources in the Forest department said investigation is underway to ascertain if Balaram is part of any organised wildlife smuggling racket. Poaching of leopards, a Schedule I animal under the Wildlife Protection Act, 1972, has increased in the State. At least 60 leopard hides have been seized by the enforcement wings of police and Forest department in the last two years. BERHAMPUR: In a major haul, sleuths of Berhampur forest division seized record quantity of illegal wildlife items including two leopard hides and the skin of a spotted deer from a house in Titigaon village under Surangi panchayat of Patrapur block here on Tuesday. On a tip off, a raid was conducted at the house of one Balaram Sahu (32) in Titigaon village under Samantiapalli range. During search, two leopard hides, skin of a spotted deer, two deer antlers, 38 porcupine quills, seven wild boar teeth, a pangolin scale, five leopard teeth, a leopard claw, hoof of mouse deer, leopard bone and tissue were recovered from the house, assistant conservator of forest (ACF) Ashok Kumar Behera said. Besides, a tractor-laden with timber planks of different sizes was also seized. Balaram had stored the wildlife items since some time and was searching for a buyer. The raid was carried out by Samantiapalli forester Rajat Kumar Mishra and his team along with Patrapur tehsildar Amit Kumar Nayak. Divisional forest officer (DFO) of Berhampur Amlan Nayak said it is one the largest single seizure of wildlife items in the last one decade in the division. Balaram was arrested and produced in court after interrogation. Search is underway at his house. The DFO confirmed that most of the seized wildlife items are old but one of hides is fresh. “We will appeal in the court to take Balaram on remand for further investigation,” Nayak added. On the other hand, Balaram pleaded innocence and said the items seized from his house were collected from the forest during a period of five years. Sources in the Forest department said investigation is underway to ascertain if Balaram is part of any organised wildlife smuggling racket. Poaching of leopards, a Schedule I animal under the Wildlife Protection Act, 1972, has increased in the State. At least 60 leopard hides have been seized by the enforcement wings of police and Forest department in the last two years.']
+
+
+one----SUS.NUMBER
+
+haul----DETECTION_METHOD
+
+Berhampur forest division----AUTH.SEIZE
+
+seized----CRIME.CAT
+
+two----QTY
+
+leopard----SP.COMMON
+
+hides----ITEM
+
+skin----ITEM
+
+spotted deer----SP.SPECIFIC
+
+Titigaon village----LOC.EXACT
+
+Tuesday----DATE
+
+tip off----DETECTION_METHOD
+
+raid----DETECTION_METHOD
+
+Balaram Sahu----SUS.NAME
+
+32----SUS.AGE
+
+Titigaon village----LOC.EXACT
+
+two----QTY
+
+leopard----SP.COMMON
+
+hides----ITEM
+
+skin----ITEM
+
+spotted deer----SP.SPECIFIC
+
+two----QTY
+
+deer----SP.COMMON
+
+antlers----ITEM
+
+38----QTY
+
+porcupine----SP.COMMON
+
+quills----ITEM
+
+seven----QTY
+
+wild boar----SP.COMMON
+
+teeth----ITEM
+
+a----QTY
+
+pangolin----SP.COMMON
+
+scale----ITEM
+
+five----QTY
+
+leopard----SP.COMMON
+
+teeth----ITEM
+
+a----QTY
+
+leopard----SP.COMMON
+
+claw----ITEM
+
+hoof----ITEM
+
+mouse deer----SP.SPECIFIC
+
+leopard----SP.COMMON
+
+bone----ITEM
+
+tissue----ITEM
+
+tractor-laden----TRANSPORT_MODE
+
+timber planks----ITEM
+
+forester----OFF.DESIG
+
+Rajat Kumar Mishra----OFF.NAME
+
+tehsildar----OFF.DESIG
+
+Amit Kumar Nayak----OFF.NAME
+
+haul----DETECTION_METHOD
+
+forest division----AUTH.SEIZE
+
+seized----CRIME.CAT
+
+two----QTY
+
+leopard----SP.COMMON
+
+hides----ITEM
+
+skin----ITEM
+
+spotted deer----SP.SPECIFIC
+
+Titigaon village under Surangi panchayat of Patrapur block----LOC.EXACT
+
+Tuesday----DATE
+
+tip off----DETECTION_METHOD
+
+raid----DETECTION_METHOD
+
+Balaram Sahu----SUS.NAME
+
+32----SUS.AGE
+
+Titigaon village----LOC.EXACT
+
+two----QTY
+
+leopard----SP.COMMON
+
+hides----ITEM
+
+skin----ITEM
+
+spotted deer----SP.SPECIFIC
+
+two----QTY
+
+deer----SP.COMMON
+
+antlers----ITEM
+
+38----QTY
+
+porcupine----SP.COMMON
+
+quills----ITEM
+
+seven----QTY
+
+wild boar----SP.COMMON
+
+teeth----ITEM
+
+a----QTY
+
+pangolin----SP.COMMON
+
+scale----ITEM
+
+five----QTY
+
+leopard----SP.COMMON
+
+teeth----ITEM
+
+a----QTY
+
+leopard----SP.COMMON
+
+claw----ITEM
+
+hoof----ITEM
+
+of mouse deer----SP.SPECIFIC
+
+leopard----SP.COMMON
+
+bone----ITEM
+
+tissue----ITEM
+
+tractor----ITEM
+
+forester----OFF.DESIG
+
+Rajat Kumar Mishra----OFF.NAME
+
+Patrapur tehsildar----AUTH.SEIZE
+
+Amit Kumar Nayak----OFF.NAME

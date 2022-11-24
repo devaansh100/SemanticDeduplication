@@ -1,0 +1,69 @@
+
+['426 endangered Star Tortoises rescued from inter-state gang- The New Indian Express\nBy Express News Service BENGALURU: The Directorate of Revenue Intelligence (DRI), Bengaluru, recently intercepted an interstate wildlife smuggling gang and has recovered 426 Indian Star Tortoises (Geochelon Elegans) from a bus at Sangareddy in Telangana under the Customs Act, 1962. On credible information, the DRI on October 11 intercepted the inter-state bus and recovered the endangered tortoises from inside two bags, which were found abandoned in the luggage compartment of the bus. “These tortoises were illegally sourced from the hill ranges near Andhra-Karnataka border and were being transported to Mumbai from where they would have been smuggled out as part of the illegal international pet market trade. The Indian Star Tortoises are in huge demand in North America and South East Asian countries as pets,” said a DRI official. The cost of each tortoise is over Rs 5,000 in the grey market, he added. “The reptiles were stocked in a warehouse for over three to four months because of movement restriction due to the lockdown,” said the officer. “There will be an increase in trafficking of wildlife and contraband with the easing of the lockdown,” he added. The DRI has unearthed a network of wildlife smugglers, which includes local communities and residents of these areas, which are the habitat of the Indian Star Tortoise. These reptiles were earlier found in adequate numbers in certain areas of Gujarat, Rajasthan, Tamil Nadu, Andhra Pradesh, eastern Karnataka and Odisha, but because of illicit trade the population of these species has severely depleted. “There is a need for collaborative action by law enforcement agencies to prevent the extinction of these tortoises,” said the officer. The Indian Star Tortoise falls under Schedule IV of Wildlife Protection Act. Alarmed at the increase in the illegal international trade in live Indian Star Tortoise in the last 15 years, the Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES) has moved the species from Appendix II to Appendix 1 giving it the highest level of international protection from commercial trade. Appendix I listing is for species, which are threatened with extinction. BENGALURU: The Directorate of Revenue Intelligence (DRI), Bengaluru, recently intercepted an interstate wildlife smuggling gang and has recovered 426 Indian Star Tortoises (Geochelon Elegans) from a bus at Sangareddy in Telangana under the Customs Act, 1962. On credible information, the DRI on October 11 intercepted the inter-state bus and recovered the endangered tortoises from inside two bags, which were found abandoned in the luggage compartment of the bus. “These tortoises were illegally sourced from the hill ranges near Andhra-Karnataka border and were being transported to Mumbai from where they would have been smuggled out as part of the illegal international pet market trade. The Indian Star Tortoises are in huge demand in North America and South East Asian countries as pets,” said a DRI official. The cost of each tortoise is over Rs 5,000 in the grey market, he added. “The reptiles were stocked in a warehouse for over three to four months because of movement restriction due to the lockdown,” said the officer. “There will be an increase in trafficking of wildlife and contraband with the easing of the lockdown,” he added. The DRI has unearthed a network of wildlife smugglers, which includes local communities and residents of these areas, which are the habitat of the Indian Star Tortoise. These reptiles were earlier found in adequate numbers in certain areas of Gujarat, Rajasthan, Tamil Nadu, Andhra Pradesh, eastern Karnataka and Odisha, but because of illicit trade the population of these species has severely depleted. “There is a need for collaborative action by law enforcement agencies to prevent the extinction of these tortoises,” said the officer. The Indian Star Tortoise falls under Schedule IV of Wildlife Protection Act. Alarmed at the increase in the illegal international trade in live Indian Star Tortoise in the last 15 years, the Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES) has moved the species from Appendix II to Appendix 1 giving it the highest level of international protection from commercial trade. Appendix I listing is for species, which are threatened with extinction.']
+
+
+426----QTY
+
+Star Tortoises----SP.SPECIFIC
+
+rescued----CRIME.CAT
+
+Directorate of Revenue Intelligence (DRI), Bengaluru,----AUTH.SEIZE
+
+interstate wildlife smuggling gang----SUS.AFFIL
+
+426----QTY
+
+Indian Star Tortoises----SP.SPECIFIC
+
+Geochelon Elegans----SP.SPECIFIC
+
+bus----TRANSPORT_MODE
+
+Sangareddy----LOC.EXACT
+
+Telangana----LOC.STATE
+
+credible information----DETECTION_METHOD
+
+DRI----AUTH.SEIZE
+
+October 11----DATE
+
+tortoises----SP.COMMON
+
+bags----CONCEALMENT_METHOD
+
+tortoises----SP.COMMON
+
+Mumbai----ROUTE.DEST
+
+Directorate of Revenue Intelligence (DRI)----AUTH.SEIZE
+
+interstate wildlife smuggling gang----SUS.AFFIL
+
+426----QTY
+
+Indian Star Tortoises----SP.SPECIFIC
+
+Geochelon Elegans----SP.SPECIFIC
+
+bus----TRANSPORT_MODE
+
+Sangareddy----LOC.EXACT
+
+On credible information----DETECTION_METHOD
+
+DRI----AUTH.SEIZE
+
+October 11----DATE
+
+tortoises----SP.COMMON
+
+bags----CONCEALMENT_METHOD
+
+tortoises----SP.COMMON
+
+Mumbai----ROUTE.DEST
+
+Rs 5,000----VALUE

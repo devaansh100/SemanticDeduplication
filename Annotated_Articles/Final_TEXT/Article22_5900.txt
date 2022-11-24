@@ -1,0 +1,25 @@
+
+["Away from human gaze, leopards and tigers enjoy the calm at Byculla Zoo\nLeopards and tigers enjoy the calm at Byculla Zoo In picture: Animal keeper Amol Shinde pets leopards Drogen and Pinto. Mid-day photographer Bipin Kokate captured amazing shots of big cats at Mumbai's popular Veer Mata Jijabai Bhosale Udyan and Zoo, also known as Byculla Zoo. Leopards Drogen and Pinto in their enclosure in Byculla zoo A friendly duel? Leopards Drogen and Pinto get into a playful mood Besides leopards, even tigers were seen relaxing in the zoo. In picture: Royal Bengal tiger Shakti and tigress Karishma in their enclosure at Veermata Jijabai Bhosale Udyan."]
+
+
+leopards----SP.COMMON
+
+tigers----SP.COMMON
+
+Byculla Zoo----LOC.EXACT
+
+Byculla Zoo----LOC.EXACT
+
+Leopards----SP.COMMON
+
+Drogen----SUS.NAME
+
+Byculla zoo----LOC.EXACT
+
+Royal Bengal tiger----SP.SPECIFIC
+
+Shakti----SUS.NAME
+
+tigress----SUS.AFFIL
+
+Karishma----SUS.NAME

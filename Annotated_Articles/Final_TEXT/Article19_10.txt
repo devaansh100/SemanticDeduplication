@@ -1,0 +1,17 @@
+
+['Villagers spot leopard on NDA campus, forest officials find no trace\nPIMPRI CHINCHWAD: Rumours of a leopard sighting sparked tension at Ahire village on NDA campus on Thursday.However, forest department officials conducted an exhaustive search and failed to find any evidence supporting the claims.“Residents have been saying since the morning that they spotted a leopard at Dukkarkhind near Ganapati Matha. Around 10-12 officers and employees of the forest department, along with two teams from the animal rescue centre at Katraj and policemen searched the spots till 3pm,” Mahesh Bhavsar, assistant conservator of forests, Pune division, told TOI.“We did not find a single eyewitness that actually saw the leopard. Eight forest guards will continue searching the campus for pugmarks and other evidence,” he said.According to Bhavsar, the rumours placed the leopard in Nanded and across Mutha river. “The leopard cannot travel such a long distance in such a short time. Two days ago, we moved the two cages kept on NDA campus to catch the elusive leopard. They will remain there for a few more days, but we ask people to be alert and take precautions,” Bhavsar said.There have been no reports of the leopard attacking humans or animals in villages near NDA campus for two weeks. “There is ample prey — rabbits, deer and other wild animals — on the 7,500-acre NDA campus,” Bhavsar said.According to Ashish Gaikwad, a resident, some people claimed to have seen the leopard between 12.30pm and 1pm. “A huge crowd gathered there,” he said.Nitin Chavan, another resident, said this caused a traffic jam. Some claimed that the leopard disappeared into the trees located below the hillock, Chavan said.Vinod Kumar, an ex-serviceman, said he did not spot the leopard.On January 12, forest guards had found pugmarks at three-four locations along a kutcha road on the NDA campus. Last week, villagers had claimed that the leopard had killed a few deer, after they spotted a partially eaten carcass. “A leopard kills one deer at a time and devours it fully before hunting another. So a leopard could not have killed two to three deer at a time. We think stray dogs may have killed the deer,” Bhavsar said.']
+
+
+leopard----SP.COMMON
+
+NDA campus----LOC.EXACT
+
+leopard----SP.COMMON
+
+Ahire village on NDA campus----LOC.EXACT
+
+forest department officials----AUTH.SEIZE
+
+forest department----AUTH.SEIZE
+
+animal rescue centre at Katraj----AUTH.SEIZE

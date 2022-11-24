@@ -1,0 +1,29 @@
+
+['Karnataka: Wild elephants stray into Kuvempu University campus, trigger panic\nHow wild elephants strayed into Kuvempu University campus in Karnataka, triggered panic SHIVAMOGGA: Two wild jumbos created panic at Kuvempu University on Sunday evening after they strayed inside the PG campus on Shankaraghatta which abutts Bhadra forest.Security personnel who saw the jumbos immediately alerted staff and students and asked them to stay indoors. The two elephants crossed the fence around 7pm and entered the campus, said a security guard.The forest staff at Lakkavalli , around 3km from the campus, rushed to the spot and launched an operation to drive the elephants back into the forest. After about 12 hours , they managed to chase the two jumbos back into Bhadra forest. Prabhakaran , DCF of Bhadra Reserve Forest , told TOI nearly 20 staff members were involved in the drive. The campus comes under Singanamane reserve forest, which is attached to Bhadra wildlife circle.']
+
+
+Karnataka----LOC.STATE
+
+Wild elephants----SP.COMMON
+
+Kuvempu University campus----LOC.EXACT
+
+wild elephants----SP.SPECIFIC
+
+Karnataka----LOC.STATE
+
+wild jumbos----SP.SPECIFIC
+
+Kuvempu University----LOC.EXACT
+
+Sunday----DATE
+
+evening----TIME
+
+7pm----TIME
+
+Prabhakaran----OFF.NAME
+
+DCF----OFF.DESIG
+
+20 staff----SUS.NUMBER

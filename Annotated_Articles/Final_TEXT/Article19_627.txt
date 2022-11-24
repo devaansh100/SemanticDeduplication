@@ -1,0 +1,7 @@
+
+['Krishna and Bakasura\nOnce Krishna and Balarama were palying with cowherd boys near the banks of the river Yamuna. Suddenly they saw a gaint crane. Kamsa sent this demon, by the name Baka in the form a crane to kill Krishna as soon as Krishna went near the crane, he swallowed him up. Krishna became a fireball burn the troat of the crane from inside. Bakasura therefore spit him out. Krishna caught hold of the beaks of Bakasura and tore him into two halves, just like splitting a blade of grass. Bakasura was thus killed by Krishna.']
+
+
+Krishna----SUS.NAME
+
+Bakasura----LOC.EXACT

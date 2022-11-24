@@ -1,0 +1,49 @@
+
+['Authorities seize 68 big cats from Oklahoma\'s \'Tiger King\' animal park\nU.S. authorities have seized 68 lions, tigers, lion-tiger hybrids, and a jaguar from an Oklahoma animal park that featured in the 2020 Netflix series "Tiger King", the Department of Justice said on Thursday. In an affidavit of more than 50 pages, prosecutors said they believed a jaguar, seven lions, 46 tigers and 15 lion-tiger hybrids owned by Jeffrey Lowe and his wife, Lauren Lowe, had been sold, purchased or transported, which would be a violation of the Endangered Species Act (ESA). The law protects the animals and makes them subject to seizure. "There is probable cause to believe that the 68 big cats and the jaguar continue to be harmed and harassed and, therefore, unlawfully taken in violation of the ESA", the affidavit said. "This seizure should send a clear message that the Justice Department takes alleged harm to captive-bred animals protected under the Endangered Species Act very seriously," said Acting Assistant Attorney General Jean Williams of the Justice Department\'s Environment and Natural Resources Division. The case was being investigated by the Department of Agriculture and the Department of the Interior\'s Fish and Wildlife Service, according to the Justice Department statement. The couple was accused in November of violating the ESA and the Animal Welfare Act in a 110-page civil complaint. The Justice Department had accused them of exhibiting the animals without a license and of jeopardizing their health, the New York Times reported. "Tiger King," the true crime series set in the world of private zoos and their eccentric owners, became a worldwide phenomenon when it was aired in March last year. It told the story of flamboyant Oklahoma zoo keeper Joe Exotic, his rivalry with Florida big cat rescue activist Carole Baskin and his imprisonment for hiring a hitman to try to kill her. Lowe, who became the owner of the private wildcat zoo at the center of the series, said last August he was closing its doors permanently, citing pressure from animal rights activists and inspectors. (This story has not been edited by Devdiscourse staff and is auto-generated from a syndicated feed.)']
+
+
+seize----CRIME.CAT
+
+68----QTY
+
+big cats----SP.COMMON
+
+'Tiger King' animal park----LOC.EXACT
+
+U.S. authorities----AUTH.SEIZE
+
+seized----CRIME.CAT
+
+68----QTY
+
+lions----SP.COMMON
+
+tigers----SP.COMMON
+
+lion-tiger----SP.COMMON
+
+a----QTY
+
+jaguar----SP.COMMON
+
+a----QTY
+
+jaguar----SP.COMMON
+
+seven----QTY
+
+lions----SP.COMMON
+
+46----QTY
+
+tigers----SP.COMMON
+
+15----QTY
+
+lion-tiger----SP.COMMON
+
+Jeffrey Lowe----SUS.NAME
+
+Lauren Lowe----SUS.NAME
+
+Joe Exotic----SUS.NAME

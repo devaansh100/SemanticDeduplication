@@ -1,0 +1,75 @@
+
+['Three tribals fined for consuming spotted deer meat in MTR\nBy Express News Service COIMBATORE: Officials of Mudumalai Tiger Reserve (MTR) imposed Rs 75,000 fine against the three persons for consuming spotted deer meat on Saturday night. This is said to be first time that the forest department had imposed fine against the the tribals for involving in crime activities. The accused have been identified as V Maruthan (29), A Ramesh (28) and G Arun Kumar (36) and the trio hailing from Theppakkadu in MTR. While Maruthan working as a Mahout that is taking care of captive elephants at Theppakkadu elephant camp in MTR and two others are Kavadis that is assistant to Mahouts. According to forest sources, the trio went to collect fodder for the captive elephants inside the Singara forest when they found a dead spotted deer and Subsequently, they have taken to their home and cosnumed it. However during the investigation, they have confessed to the crime. Explaining about how the forest department find out the accused, a senior official of the MTR said "Biologists of the MTR noticed a camera traps that went missing in the last couple of months. Though the enumeration of wild animals especially tigers completed already, we have placed the camera traps to track the moment of the wild animals. "After we launched a search, camera traps were found inside the lake. After retrieving the camera traps, we have also noticed a chip in which an image of Maruthan was also recorded in it. As a result, We get clue in this case and after investigation with Maruthan and his two friends they have confessed to the crime," said the official "We have imposed each Rs 25,000 fine againt them apart from warning them stren action next time. We suspect that they have managed to take the spotted deer meat when the leopard left to eat in next day after killing it," said the official. COIMBATORE: Officials of Mudumalai Tiger Reserve (MTR) imposed Rs 75,000 fine against the three persons for consuming spotted deer meat on Saturday night. This is said to be first time that the forest department had imposed fine against the the tribals for involving in crime activities. The accused have been identified as V Maruthan (29), A Ramesh (28) and G Arun Kumar (36) and the trio hailing from Theppakkadu in MTR. While Maruthan working as a Mahout that is taking care of captive elephants at Theppakkadu elephant camp in MTR and two others are Kavadis that is assistant to Mahouts. According to forest sources, the trio went to collect fodder for the captive elephants inside the Singara forest when they found a dead spotted deer and Subsequently, they have taken to their home and cosnumed it. However during the investigation, they have confessed to the crime. Explaining about how the forest department find out the accused, a senior official of the MTR said "Biologists of the MTR noticed a camera traps that went missing in the last couple of months. Though the enumeration of wild animals especially tigers completed already, we have placed the camera traps to track the moment of the wild animals. "After we launched a search, camera traps were found inside the lake. After retrieving the camera traps, we have also noticed a chip in which an image of Maruthan was also recorded in it. As a result, We get clue in this case and after investigation with Maruthan and his two friends they have confessed to the crime," said the official "We have imposed each Rs 25,000 fine againt them apart from warning them stren action next time. We suspect that they have managed to take the spotted deer meat when the leopard left to eat in next day after killing it," said the official.']
+
+
+Three----SUS.NUMBER
+
+fined----CRIME.CAT
+
+spotted deer----SP.SPECIFIC
+
+meat----ITEM
+
+MTR----LOC.EXACT
+
+Mudumalai Tiger Reserve (MTR)----AUTH.SEIZE
+
+Rs 75,000----VALUE
+
+three----SUS.NUMBER
+
+spotted deer----SP.SPECIFIC
+
+meat----ITEM
+
+Saturday----DATE
+
+night----TIME
+
+V Maruthan----SUS.NAME
+
+29----SUS.AGE
+
+A Ramesh----SUS.NAME
+
+28----SUS.AGE
+
+G Arun Kumar----SUS.NAME
+
+36----SUS.AGE
+
+Theppakkadu----SUS.LOC
+
+spotted deer----SP.SPECIFIC
+
+meat----ITEM
+
+Mudumalai Tiger Reserve (MTR)----AUTH.SEIZE
+
+Rs 75,000 fine----OUTCOME
+
+three----SUS.NUMBER
+
+spotted deer----SP.SPECIFIC
+
+meat----ITEM
+
+Saturday----DATE
+
+night----TIME
+
+V Maruthan----SUS.NAME
+
+29----SUS.AGE
+
+A Ramesh----SUS.NAME
+
+28----SUS.AGE
+
+G Arun Kumar----SUS.NAME
+
+36----SUS.AGE
+
+Theppakkadu----SUS.LOC
+
+clue----DETECTION_METHOD

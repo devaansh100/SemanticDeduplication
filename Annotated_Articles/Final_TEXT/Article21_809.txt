@@ -1,0 +1,31 @@
+
+['Forest department arrests shop owner from Kolhapur\nKOLHAPUR: The forest department has arrested the owner of an ayurvedic shop and one more person from Kolhapur The owner of the shop, Virendra Vishwanath Tandulwadkar, and another suspect, Bandu Janu Bodekar, have been arrested and remanded in forest custody for three days after being produced before a court on Wednesday.In a raid on shops located opposite the Kolhapur Municipal Corporation (KMC) building in Kolhapur by forest department earlier this month, banned products worth crores of rupees were seized.Ayurvedic shops in Sangli and Satara districts were also raided and some arrests have been made in the case for illegally storing animal remains prohibited under the schedule 1,2,3 and 4 of the Wildlife Protection Act. The seized material also includes Indrajal, a sea coral.Earlier, honorary wildlife warden from Satara, Rohan Bhate , had alleged that the foresters were not taking action against the shop owner . A senior forest officers had assured that the investigation is on and all legal action would be taken.']
+
+
+Forest department----AUTH.SEIZE
+
+arrests----CRIME.CAT
+
+Kolhapur----LOC.EXACT
+
+forest department----AUTH.SEIZE
+
+arrested----CRIME.CAT
+
+Kolhapur----LOC.EXACT
+
+Virendra Vishwanath Tandulwadkar----SUS.NAME
+
+Bandu Janu Bodekar----SUS.NAME
+
+arrested----CRIME.CAT
+
+remanded in forest custody----OUTCOME
+
+forest department----AUTH.SEIZE
+
+crores of rupees----VALUE
+
+raided----CRIME.CAT
+
+Indrajal----SUS.NAME

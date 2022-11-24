@@ -1,0 +1,93 @@
+
+['STF Seizes Huge Cache Of Animal Parts In Mayurbhanj, One Held\nBhubaneswar: The Special Task Force (STF) on Odisha Crime Branch seized a huge cache of animal parts and some live birds with the arrest of one wildlife criminal in Mayurbhanj district on Wednesday. On the basis of reliable information, a team of STF conducted a raid along with Karanjia Forest Official staff at canal embankment, near Padagada village under Jasipur Police Station in Mayurbhanj today morning. As a result, one wildlife criminal namely Nanda Bage (25) of Padagada village was apprehended. During the search, he was found in possession of (i) 3.5 kg of pangolin scales, (ii) 2 leopard teeth, (iii) 29 leopard claws, and (iv) 46 parakeets. Bage could not produce any authority in support of the possession of such trophies, hence those were seized. Bage and the seized trophies were handed over to DFO, Karanjia for necessary legal action at their end. Since 2020, in the special drive against the wildlife criminals/poachers launched by STF, it has seized as many as 25 leopard skins, 13 elephant tusks, 7 deer skins, 11 live pangolin, 19.5 kg of pangolin scales, 2 leopard teeth, 29 leopard claws, 46 live wild parrot with the arrest of 58 wildlife criminals.']
+
+
+STF----AUTH.SEIZE
+
+Seizes----CRIME.CAT
+
+Parts----ITEM
+
+Mayurbhanj----LOC.DISTRICT
+
+One----SUS.NUMBER
+
+Special Task Force (STF)----AUTH.SEIZE
+
+Odisha----LOC.STATE
+
+seized----CRIME.CAT
+
+animal parts----ITEM
+
+live birds----SP.COMMON
+
+one----SUS.NUMBER
+
+Mayurbhanj district----LOC.DISTRICT
+
+Wednesday----DATE
+
+reliable information----DETECTION_METHOD
+
+STF----AUTH.SEIZE
+
+raid----DETECTION_METHOD
+
+Karanjia Forest Official staff----AUTH.SEIZE
+
+canal embankment, near Padagada village under Jasipur Police Station----LOC.EXACT
+
+Mayurbhanj----LOC.EXACT
+
+today----DATE
+
+morning----TIME
+
+Nanda Bage----SUS.NAME
+
+25----SUS.AGE
+
+Padagada village----SUS.LOC
+
+3.5 kg----QTY
+
+pangolin----SP.COMMON
+
+scales----ITEM
+
+leopard----SP.COMMON
+
+teeth----ITEM
+
+29----QTY
+
+leopard----SP.COMMON
+
+claws----ITEM
+
+46----QTY
+
+parakeets----SP.COMMON
+
+19.5 kg----QTY
+
+pangolin----SP.COMMON
+
+scales----ITEM
+
+2----QTY
+
+leopard----SP.COMMON
+
+teeth----ITEM
+
+29----QTY
+
+leopard----SP.COMMON
+
+claws----ITEM
+
+46----QTY
+
+58 wildlife----SUS.NUMBER

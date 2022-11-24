@@ -1,0 +1,71 @@
+
+["Man arrested with leopard body parts in Maharashtra's Chandrapur\nMan arrested with leopard body parts in Maharashtra's Chandrapur/ Representative image | Nagpur: Leopard whiskers, teeth and nails have been seized and one person has been arrested in Mouza-Taregaon village of Maharashtra's Chandrapur district, forest department officials said on Wednesday. The seizures and arrests were made in a joint operation by personnel from Nagpur and Bhandara forest divisions, they said. A press release issued by Deputy Conservator of Forest (Nagpur) Bharat Singh Hada said the department had got information about selling of body parts of leopards. Accordingly, the forest department laid a trap and arrested one person and seized 21 leopard whiskers, 13 nails and 12 teeth from his possession, the release said. The department has registered an offence against the accused under the Wildlife Protection Act, it added."]
+
+
+arrested----CRIME.CAT
+
+leopard----SP.COMMON
+
+body parts----ITEM
+
+Maharashtra's----LOC.STATE
+
+Chandrapur----LOC.DISTRICT
+
+arrested----CRIME.CAT
+
+leopard----SP.COMMON
+
+body parts----ITEM
+
+Maharashtra's----LOC.STATE
+
+Chandrapur/----LOC.DISTRICT
+
+Leopard----SP.COMMON
+
+whiskers----ITEM
+
+teeth----ITEM
+
+nails----ITEM
+
+seized----CRIME.CAT
+
+one----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+Mouza-Taregaon village----LOC.EXACT
+
+Maharashtra's----LOC.STATE
+
+Chandrapur----LOC.DISTRICT
+
+seizures----CRIME.CAT
+
+arrests----CRIME.CAT
+
+Nagpur and Bhandara forest divisions----AUTH.SEIZE
+
+Deputy Conservator of Forest (Nagpur)----OFF.DESIG
+
+Bharat Singh Hada----OFF.NAME
+
+one----SUS.NUMBER
+
+21----QTY
+
+leopard----SP.COMMON
+
+whiskers----ITEM
+
+13----QTY
+
+nails----ITEM
+
+12----QTY
+
+teeth----ITEM
+
+registered an offence against the accused under the Wildlife Protection Act----OUTCOME

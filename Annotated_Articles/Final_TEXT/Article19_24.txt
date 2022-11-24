@@ -1,0 +1,33 @@
+
+['Leopard Carcass Found On Ordnance Factory Premises In Balangir\nTitlagarh: Carcass of a leopard would found in the core area of the Ordnance Factory at Badamal in Titlagarh sub-division in Odisha’s Balangir district on Tuesday. The incident came to light when some employees of the Ordnance factory spotted the carcass inside Kalakuta forest near Gate no-1 of the factory in the morning. Following information, the DFO, ACF and the Range Officer rushed to the spot for an investigation. Talking to the media, forester of Badamal range, Bhabani Swain, said the cause of the death of the leopard will be known after the postmortem. Recently, two leopards were sighted near the factory triggering panic among the people.']
+
+
+Leopard----SP.COMMON
+
+Carcass----ITEM
+
+Balangir----LOC.DISTRICT
+
+Carcass----ITEM
+
+leopard----SP.COMMON
+
+Badamal----LOC.EXACT
+
+Odisha----LOC.STATE
+
+Balangir----LOC.DISTRICT
+
+Tuesday----DATE
+
+carcass----ITEM
+
+Kalakuta forest near Gate no-1 of the factory----LOC.EXACT
+
+morning----TIME
+
+DFO----OFF.DESIG
+
+ACF----OFF.DESIG
+
+Range Officer----OFF.DESIG

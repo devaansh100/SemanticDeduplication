@@ -1,0 +1,11 @@
+
+["Andhra Pradesh: Tiger on prowl triggers panic in Kakinada district\nRAJAHMUNDRY: Locals of Prathipadu mandal in Kakinada district are spending sleepless nights with a tiger on the prowl.The big cat has been killing cattle in the villages in the mandal and was spotted on an animal tracking camera set up at Polavaram pump house between Pothuluru and Kodavali villages.Speaking to TOI, divisional forest officer (wildlife), Selvam, said the forest department is tracking the tiger's movements. He said 150 personnel, including forest, revenue, police and veterinary doctors are in the field. The thick bush and casuarina plantations in the area are making it difficult to spot the tiger, he said, and added that the first objective is to obstruct its movement towards human habitation and facilitate it towards Ommangi, where the forest starts.District forest officer I K P Raju said the tiger has killed three cattle and compensation was paid to the owners. He said the tiger seems to be moving towards the forest as per its pug marks."]
+
+
+Tiger----SP.COMMON
+
+Kakinada district----LOC.DISTRICT
+
+Prathipadu mandal----LOC.EXACT
+
+big cat----SP.COMMON

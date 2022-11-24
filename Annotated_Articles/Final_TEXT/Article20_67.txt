@@ -1,0 +1,43 @@
+
+['22 arrested for smuggling turtles in Bengal\nSeized animals taken to a rescue centre Seized animals taken to a rescue centre In one of the largest arrests for illegal smuggling of wildlife in recent times, 22 persons including eight women were arrested on Saturday for allegedly smuggling Indian softshell turtles. The arrests were made in a joint operation carried out by the Wildlife Crime Control Bureau and the Wildlife Crime Control Wing of the State Forest department. 654 live turtles About 654 live turtles were rescued from the possession of the accused and were taken to a rescue centre in Salt Lake but 12 turtles were found dead. “This is the largest number of arrests for smuggling wildlife in recent years. All the accused are carriers and hail from Uttar Pradesh,” Agni Mitra, Deputy Director, Wildlife Crime Control Bureau, Eastern Region, told The Hindu . Mr. Mitra said preliminary investigation revealed that the turtles were smuggled in the luggage of the accused who were travelling from Uttar Pradesh in a train. The arrests were carried outside the Naihati railway station in the North 24 Parganas district and two vehicles were also seized. Between September 2009 and September 2019, the number of turtles smuggled was over 1.11 lakhs.']
+
+
+22----SUS.NUMBER
+
+smuggling----CRIME.CAT
+
+turtles----SP.COMMON
+
+Bengal----LOC.STATE
+
+22----SUS.NUMBER
+
+eight----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+Saturday----DATE
+
+Indian softshell turtles----SP.SPECIFIC
+
+arrests----CRIME.CAT
+
+Wildlife Crime Control Bureau----AUTH.SEIZE
+
+Wildlife Crime Control Wing----AUTH.SEIZE
+
+State Forest department----AUTH.SEIZE
+
+654----QTY
+
+live----ITEM
+
+turtles----SP.COMMON
+
+654----QTY
+
+turtles----SP.COMMON
+
+Uttar Pradesh----ROUTE.SRC
+
+train----TRANSPORT_MODE

@@ -1,0 +1,23 @@
+
+['Assam: Man injured in leopard attack in Numaligarh\nGuwahati: Man-animal conflicts are one of the most crucial issues in Assam and almost every day one such case is reported. On Friday, a man was attacked by a full-grown leopard in Numaligarh when he went to the forest area to gather some spinach. The person was identified as Rajen Garh, a worker of a tea garden. He was severely injured during the attack and somehow survived with the intervention of some locals. Also Read: Assam: Suspected poacher who fled from police found dead near riverbank Speaking about the attack, he said, “I went to the forest area near my house to gather some plants but when I was gathering, the leopard attack me from behind.” He said that he received severe injuries on his chest and neck. The victim also claimed that the area where the incident took place was human habitation area but wild animals often roam around in search of food. Also Read: Assam: Suspected counterfeit gold smuggler arrested in Dispur He also claimed that the particular animal which attacked him was living in the area for a few days now and it had been attacking the livestock of the local villagers every day.']
+
+
+Assam----LOC.STATE\
+
+leopard----SP.COMMON
+
+Numaligarh----LOC.DISTRICT
+
+Friday----DATE
+
+leopard----SP.COMMON
+
+Numaligarh----LOC.EXACT
+
+spinach----SP.COMMON
+
+Rajen Garh----SUS.NAME
+
+counterfeit gold smuggler----SUS.AFFIL
+
+arrested----CRIME.CAT

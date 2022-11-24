@@ -1,0 +1,49 @@
+
+['Indonesia frees croc from tire stuck on its neck for 6 years\nBy Associated Press PALU: A wild crocodile with a used motorcycle tire stuck around its neck for six years has finally been freed by an Indonesian bird catcher in a tireless effort that wildlife conservation officials hailed as a milestone Wednesday. The 4.5-meter (14.8-foot) saltwater female crocodile has become an icon to the people in Palu, the capital city of Central Sulawesi. The beast was seen on the city’s river with the tire around its neck becoming increasingly tighter, running the risk of choking her. Conservation officials were racing to rescue the crocodile since residents spotted the reptile in 2016, generating sympathy among residents and worldwide. In 2020, Australian crocodile wrangler Matthew Wright and American wildlife biologist Forrest Galante tried and failed to free the reptile. In early January, 35-year-old bird-catcher and trader Tili, who recently moved to the city, heard about the famous crocodile from his neighbors and determined to rescue the reptile after he saw her frequently sunbathing at a nearby estuary. “I have experiences and skills in catching animals, not only birds, but farm animals that are released from the cage,” Tili, who goes by a single name, told The Associated Press. “I believe I can rescue the crocodile with my skills.” He stringed ropes of various sizes into a trap tied to a tree near the river, and laid chickens, ducks and birds as bait. After three weeks of waiting and several failed attempts, the crocodile finally fell into the trap Monday night. With the help of two of his friends, Tili pulled the trapped crocodile ashore and sawed through the tire, which was 50 centimeters (1.6 feet) in diameter. A video that circulated widely on the internet showed a crowd cheering nearby as Tili and his friends broke the crocodile free. Other residents then contacted firefighters and a wildlife conservation agency to help them release the animal back into the wild. “For all of the efforts Tili has done for protected wildlife and being the kind of animal lover he is, that’s a great milestone,” said Haruna Hamma who heads Central Sulawesi province’s conservation agency. He said it was unclear how a used motorcycle tire got stuck around the crocodile neck. Conservationists have said that it was likely deliberately placed by people in a failed attempt to trap it as a pet or skin it for sale, but crocodiles and other swimming reptiles often travel into garbage-studded waters with nothing to stop a tire from encircling them, Hamma said. Government data recorded 279 crocodile attacks in Indonesia, the world’s largest archipelago nation with more than 17,000 islands, between 2007 and 2014. Of these, as many as 268 cases of attacks were carried out by saltwater crocodiles, of which 135 were fatal. Despite the attacks, the saltwater crocodile is protected under Indonesian law. PALU: A wild crocodile with a used motorcycle tire stuck around its neck for six years has finally been freed by an Indonesian bird catcher in a tireless effort that wildlife conservation officials hailed as a milestone Wednesday. The 4.5-meter (14.8-foot) saltwater female crocodile has become an icon to the people in Palu, the capital city of Central Sulawesi. The beast was seen on the city’s river with the tire around its neck becoming increasingly tighter, running the risk of choking her. Conservation officials were racing to rescue the crocodile since residents spotted the reptile in 2016, generating sympathy among residents and worldwide. In 2020, Australian crocodile wrangler Matthew Wright and American wildlife biologist Forrest Galante tried and failed to free the reptile. In early January, 35-year-old bird-catcher and trader Tili, who recently moved to the city, heard about the famous crocodile from his neighbors and determined to rescue the reptile after he saw her frequently sunbathing at a nearby estuary. “I have experiences and skills in catching animals, not only birds, but farm animals that are released from the cage,” Tili, who goes by a single name, told The Associated Press. “I believe I can rescue the crocodile with my skills.” He stringed ropes of various sizes into a trap tied to a tree near the river, and laid chickens, ducks and birds as bait. After three weeks of waiting and several failed attempts, the crocodile finally fell into the trap Monday night. With the help of two of his friends, Tili pulled the trapped crocodile ashore and sawed through the tire, which was 50 centimeters (1.6 feet) in diameter. A video that circulated widely on the internet showed a crowd cheering nearby as Tili and his friends broke the crocodile free. Other residents then contacted firefighters and a wildlife conservation agency to help them release the animal back into the wild. “For all of the efforts Tili has done for protected wildlife and being the kind of animal lover he is, that’s a great milestone,” said Haruna Hamma who heads Central Sulawesi province’s conservation agency. He said it was unclear how a used motorcycle tire got stuck around the crocodile neck. Conservationists have said that it was likely deliberately placed by people in a failed attempt to trap it as a pet or skin it for sale, but crocodiles and other swimming reptiles often travel into garbage-studded waters with nothing to stop a tire from encircling them, Hamma said. Government data recorded 279 crocodile attacks in Indonesia, the world’s largest archipelago nation with more than 17,000 islands, between 2007 and 2014. Of these, as many as 268 cases of attacks were carried out by saltwater crocodiles, of which 135 were fatal. Despite the attacks, the saltwater crocodile is protected under Indonesian law.']
+
+
+Indonesia----LOC.STATE
+
+frees----CRIME.CAT
+
+croc----SP.COMMON
+
+tire----ITEM
+
+wild crocodile----SP.SPECIFIC
+
+Indonesian bird catcher----AUTH.SEIZE
+
+Wednesday----DATE
+
+saltwater female crocodile----SP.SPECIFIC
+
+chickens----SP.COMMON
+
+ducks----SP.COMMON
+
+birds----SP.COMMON
+
+Monday----DATE
+
+night----TIME
+
+wild crocodile----SP.SPECIFIC
+
+Indonesian bird catcher----AUTH.SEIZE
+
+Wednesday----DATE
+
+Tili----SUS.NAME
+
+chickens----SP.COMMON
+
+ducks----SP.COMMON
+
+birds----SP.COMMON
+
+Monday----DATE
+
+night----TIME
+
+crocodile----SP.COMMON

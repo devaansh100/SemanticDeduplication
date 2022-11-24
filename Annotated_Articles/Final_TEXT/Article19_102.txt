@@ -1,0 +1,33 @@
+
+['Elephant shot dead in Kollegal, tusks missing\nForesters suspect organised gang behind jumbo poaching BENGALURU: The carcass of a wild elephant , shot dead 3km from an anti-poaching camp in Kothanur forest Kollegal taluk of Chamarajangar district , was found on Sunday with tusks missing.It’s suspected the pachyderm had been killed around a fortnight earlier. The forest range falls under the Cauvery Wildlife Sanctuary.Forest department sources said the area didn’t have a range forest officer. Hence, an officer from a neighbouring range was in charge. “It appears miscreants used this to their advantage,” they said.A forest official filed a police complaint. A hunt has been launched for poachers. He suspected poachers may have taken away the tusks.Environmentalists and wildlife lovers expressed shock over the incident. “It’s poaching. The elephant was shot in the head. The onus is on forest and police departments to arrest the culprits. With country-made guns easily available, poachers seem to be having a field day,” said an environmentalist.Greens called for increased patrolling by foresters and better monitoring of the forest spread over Mandya, Chamarajanagar and Ramanagara districts.Cauvery Wildlife Sanctuary DCF Ramesh said the incident may have taken place 10-15 days earlier.“Poachers shot and killed the elephant and used acid to remove the tusks. Forest staff noticed the carcass on February 3 and I inspected the spot the next day. The tusker is about 25 years old. We suspect that an organised gang of poachers have killed the elephant. We’re investigating the incident,” he said.']
+
+
+Elephant----SP.COMMON
+
+shot dead----CRIME.CAT
+
+Kollegal----LOC.EXACT
+
+tusks----ITEM
+
+organised gang----SUS.AFFIL
+
+jumbo poaching----CRIME.CAT
+
+carcass----ITEM
+
+wild elephant----SP.SPECIFIC
+
+Kothanur forest Kollegal taluk----LOC.EXACT
+
+Chamarajangar----LOC.DISTRICT
+
+Sunday----DATE
+
+tusks----ITEM
+
+pachyderm----SP.COMMON
+
+poaching----CRIME.CAT
+
+gang of poachers----SUS.AFFIL

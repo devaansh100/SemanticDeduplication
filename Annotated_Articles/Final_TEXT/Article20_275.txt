@@ -1,0 +1,59 @@
+
+['Leopard claws, skin and bones recovered in Madhya Pradesh; four poachers arrested\nLeopard claws, skin and bones were recovered by the police from Seoni district in Madhya Pradesh and four poachers in this connection, sources on Saturday. It was further informed that the four poachers were arrested by a police team led by Seoni Superintendent of Police (SP) Kumar Prateek. The arrest was made while the poachers were trying to strike a deal to sell leopard’s claws, skin and bones, The police team was tipped about the poachers on Friday by some undisclosed sources. The claws and other recovered items are worth Rs 10 lakh. The accused were arrested under the provisions of Wildlife Protection Act, 1972, police said. The accused have been identified as Shambhulal Pendre, Ramkumar Kakodiya, Naresh Kakodiya and Nandulal Uike.']
+
+
+Leopard----SP.COMMON
+
+claws----ITEM
+
+skin----ITEM
+
+bones----ITEM
+
+recovered----OUTCOME
+
+Madhya Pradesh----LOC.STATE
+
+four----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+Leopard----SP.COMMON
+
+claws----ITEM
+
+skin----ITEM
+
+bones----ITEM
+
+Seoni district----LOC.DISTRICT
+
+Madhya Pradesh----LOC.STATE
+
+four----SUS.NUMBER
+
+Seoni Superintendent of Police----AUTH.SEIZE
+
+SP----OFF.DESIG
+
+Kumar Prateek----OFF.NAME
+
+claws----ITEM
+
+skin----ITEM
+
+bones----ITEM
+
+tipped----DETECTION_METHOD
+
+claws----ITEM
+
+Rs 10 lakh----VALUE
+
+Shambhulal Pendre----SUS.NAME
+
+Ramkumar Kakodiya----SUS.NAME
+
+Naresh Kakodiya----SUS.NAME
+
+Nandulal Uike----SUS.NAME

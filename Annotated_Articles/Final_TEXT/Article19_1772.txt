@@ -1,0 +1,41 @@
+
+['Press Club staffers rescue slender loris- The New Indian Express\nExpress News Service BENGALURU: Two Press Club employees saved an injured slender loris from Cubbon Park on Sunday morning. The duo found a few crows attacking the slender loris near Bal Bhavan around 8 am and rescued the loris. They fed and handed it over to the animal rescue volunteers who released the loris in the Bannerghatta Rescue and Rehabilitation Centre (BRRC). According to wildlife rescue volunteers, the loris will need at least one-and-a-half months to recover completely. Rajesh and Mahesh who are employees of the Press Club, located inside Cubbon Park, were on their morning walk when they saw a few crows attacking an animal near Bal Bhavan. They initially assumed the victim to be a rat, but on closer inspection, they realised it was a slender loris, a rare visitor to the city. “We have seen a slender loris only on the Discovery Channel, so we identified it. We picked up the loris and left it on a tree as we know it lives on trees,” said Rajesh. But the injured loris was unable to move. They left the loris and returned to the Press Club. Thirty minutes later when they visited the spot, they saw that the loris was again being targeted by the crows. “So we picked up the loris and brought it to the Press Club,” the duo said. “We did some research on what they eat on the internet and gave it tomato and cucumber, but it didn’t eat. After some time we offered a cup of milk and it drank all of it. We then called Bannerghatta National Park and were given an animal rescue volunteer’s number.” Wildlife rescuer, Simhadri MN, took the loris to BRRC. According to him, the rescued loris was used for black magic. “It had a thread tied on its body and thread marks were on all its four legs. There are some burn marks too,” he said. It is believed that people use the animal for black magic and after the work is done, they release it in green areas like Cubbon Park. BENGALURU: Two Press Club employees saved an injured slender loris from Cubbon Park on Sunday morning. The duo found a few crows attacking the slender loris near Bal Bhavan around 8 am and rescued the loris. They fed and handed it over to the animal rescue volunteers who released the loris in the Bannerghatta Rescue and Rehabilitation Centre (BRRC). According to wildlife rescue volunteers, the loris will need at least one-and-a-half months to recover completely. Rajesh and Mahesh who are employees of the Press Club, located inside Cubbon Park, were on their morning walk when they saw a few crows attacking an animal near Bal Bhavan. They initially assumed the victim to be a rat, but on closer inspection, they realised it was a slender loris, a rare visitor to the city. “We have seen a slender loris only on the Discovery Channel, so we identified it. We picked up the loris and left it on a tree as we know it lives on trees,” said Rajesh. But the injured loris was unable to move. They left the loris and returned to the Press Club. Thirty minutes later when they visited the spot, they saw that the loris was again being targeted by the crows. “So we picked up the loris and brought it to the Press Club,” the duo said. “We did some research on what they eat on the internet and gave it tomato and cucumber, but it didn’t eat. After some time we offered a cup of milk and it drank all of it. We then called Bannerghatta National Park and were given an animal rescue volunteer’s number.” Wildlife rescuer, Simhadri MN, took the loris to BRRC. According to him, the rescued loris was used for black magic. “It had a thread tied on its body and thread marks were on all its four legs. There are some burn marks too,” he said. It is believed that people use the animal for black magic and after the work is done, they release it in green areas like Cubbon Park.']
+
+
+Press Club----AUTH.SEIZE
+
+slender loris-----SP.COMMON
+
+slender loris----SP.COMMON
+
+Cubbon Park----LOC.EXACT
+
+Sunday----DATE
+
+morning----TIME
+
+8 am----TIME
+
+Rajesh----OFF.NAME
+
+Mahesh----OFF.NAME
+
+rat----SP.COMMON
+
+slender loris----SP.SPECIFIC
+
+slender loris----SP.SPECIFIC
+
+Cubbon Park----LOC.EXACT
+
+Sunday----DATE
+
+morning----TIME
+
+8 am----TIME
+
+Rajesh----SUS.NAME
+
+Mahesh----OFF.NAME
+
+slender loris----SP.SPECIFIC

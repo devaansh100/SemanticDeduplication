@@ -1,0 +1,35 @@
+
+['As... - Wildlife Crime Control Bureau, Government of India\nAs per input received from WCCB, a well-coordinate d and successful joint operation was conducted by WCCB in association with Meghalaya Forest and Police Dept. on 19-04-2021 at Bhoi district of Meghalaya, in which huge cache of wildlife contrabands including 04 Live #Pangolins, 43 #Tokay_Geckos (all dead), 44.28 kgs. of Pangolin-#scales, were seized. Based on statements of the accused, another joint operation was conducted and 02 #Elephant_Ivorie s were seized from the possession of 02 persons from #Norphong, on 20-04-2021. Total of 10 persons were arrested in the two-days long operation.']
+
+
+Wildlife Crime Control Bureau----AUTH.SEIZE
+
+WCCB----AUTH.SEIZE
+
+Meghalaya Forest and----AUTH.SEIZE
+
+Police Dept----AUTH.SEIZE
+
+19-04-2021----DATE
+
+Bhoi----LOC.DISTRICT
+
+04----QTY
+
+Pangolins----SP.COMMON
+
+43----QTY
+
+44.28 kgs----QTY
+
+02----QTY
+
+s----ITEM
+
+seized----CRIME.CAT
+
+02----SUS.NUMBER
+
+Norphong----LOC.EXACT
+
+20-04-2021----DATE

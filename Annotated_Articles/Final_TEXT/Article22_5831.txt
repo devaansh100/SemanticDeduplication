@@ -1,0 +1,33 @@
+
+['Elderly man mauled to death by bear in Kokarnag forests\nSrinagar:A 65-year-old man was mauled to death by a bear in Fattan Ahalan forest area of Kokarnag in South Kashmir’s Anantnag on the intervening night of Sunday and Monday, officials said here. An official said that that the man identified as Mohammad Akbar Chohan (65) son of Mohammad Hussain Chohan of Ahalan Gadool was coming home during the night of 26-27 June, when he was attacked by the bear. He said that the man died on the post and his body was brought back Monday morning']
+
+
+man----SUS.GENDER
+
+mauled to death----CRIME.CAT
+
+bear----SP.COMMON
+
+Kokarnag forests----LOC.EXACT
+
+65----SUS.AGE
+
+man----SUS.GENDER
+
+Fattan Ahalan forest area of Kokarnag in South Kashmir’s Anantnag----LOC.EXACT
+
+night----TIME
+
+Sunday----DATE
+
+Monday----DATE
+
+Mohammad Akbar Chohan----SUS.NAME
+
+65----SUS.AGE
+
+Ahalan Gadool----SUS.LOC
+
+night----TIME
+
+26-27 June----DATE

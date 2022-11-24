@@ -1,0 +1,25 @@
+
+['Shocking! Rare Great Indian Hornbill brutally tortured and killed in Nagaland, 3 arrested as video goes viral\nAdvertisement New Delhi: The Nagaland police arrested three persons under the Wildlife and Arms Act on Wednesday, after a video showcasing locals torturing and brutally killing an endangered Great Indian Hornbill went viral on social media. The incident took place in the Wokha district of the northeastern state of India. According to a report in news agency UNI, “The accused are likely to remain in police custody for 24 hours as wildlife protection proceedings will be initiated against the accused, who have been moved to Wokha headquarters”. Watch [Warning: Sensitive content!! Viewer’s discretion is advised] An Instagram account by the name ‘dcpexpeditions’ shared the gruesome video with caption, “What a horrific video. Such a gorgeous bird, endangered and Wildlife Protection Act Schedule 1 species, being tortured and beaten to death!!!. This is the state which celebrates Hornbill Festival”. View this post on Instagram A post shared by DCP Expeditions LLP (@dcpexpeditions) The Great Hornbill is an endangered bird and is marked ‘vulnerable’ by International Union for Conservation of Nature (IUCN). The horrific incident took place in Bhandari village in Nagaland, though the date of the instance is not known yet. The wildlife department took cognisance of the crime when a video of the incident went viral on several online platforms and Netizens tagged the concerned authorities in the matter. Later, an official complaint against the accused was also filed in this regard. Meanwhile, an NGO in the state called ‘Green Succession of Nagaland State’ said in a released statement, “It is indeed too cruel and insane to have acted in such a manner and the culprits should be booked under appropriate sections of Wildlife Protection Act”.']
+
+
+Great Indian Hornbill----SP.SPECIFIC
+
+Nagaland----LOC.STATE
+
+3----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+Nagaland police----AUTH.SEIZE
+
+arrested----CRIME.CAT
+
+three----SUS.NUMBER
+
+Wednesday----DATE
+
+Great Indian Hornbill----SP.SPECIFIC
+
+Wokha district----LOC.DISTRICT
+
+Bhandari village----LOC.EXACT

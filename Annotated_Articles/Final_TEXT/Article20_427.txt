@@ -1,0 +1,107 @@
+
+['Three arrested with leopard skin, 2.3 kg scales of pangolin in Waidhan\nThree arrested with leopard skin, 2.3 kg scales of pangolin in Waidhan   Skins of leopard and 2.3 kilograms scales of pangolin seized from accused by WCCB and STF Bhopal teams. Staff Reporter : Continuing Operation Wildnet-3, a combined team of Wildlife Crime Control Bureau (WCCB) Jabalpur and Tiger Strike Force, Madhya Pradesh Police nabbed three accused and seized a leopard skin and 2.3 kilograms scales of endangered specie pangolin from them in Waidhan in Singrauli district. The arrested have been identified as Sushil Kushwaha (35), son of Ramadhar Kushwaha, a resident of Balangi Vadraf Nagar in Chhattisgarh, Sukul Singh alias Guddu (24), son of Rajpati Singh, resident of Kantipur, Surajpur in Chhattisgarh and Vijay Gurjar (20), son of Gudru in Balrampur, Chhattisgarh. WCCB Inspector Devendra Singh Rathore, while talking to ‘The Hitavada’, informed that during Operation Wildnet-3 they received information about some suspects who were trying to sell wildlife and reached Singrauli. Taking prompt action on the information, a combined team of WCCB and STF MP Police started a search and trapped the accused in Waidhan.']
+
+
+Three----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+leopard----SP.COMMON
+
+skin----ITEM
+
+2.3 kg----QTY
+
+scales----ITEM
+
+pangolin----SP.COMMON
+
+Waidhan----LOC.EXACT
+
+Three----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+leopard----SP.COMMON
+
+skin----ITEM
+
+2.3 kg----QTY
+
+scales----ITEM
+
+pangolin----SP.COMMON
+
+Waidhan----LOC.EXACT
+
+Skins----ITEM
+
+leopard----SP.COMMON
+
+2.3 kilograms----QTY
+
+scales----ITEM
+
+pangolin----SP.COMMON
+
+WCCB----AUTH.SEIZE
+
+STF Bhopal----AUTH.SEIZE
+
+Wildlife Crime Control Bureau (WCCB) Jabalpur----AUTH.SEIZE
+
+Tiger Strike Force----AUTH.SEIZE
+
+Madhya Pradesh Police----AUTH.SEIZE
+
+nabbed----CRIME.CAT
+
+three----SUS.NUMBER
+
+a----QTY
+
+leopard----SP.COMMON
+
+skin----ITEM
+
+2.3 kilograms----QTY
+
+scales----ITEM
+
+pangolin----SP.COMMON
+
+Waidhan----LOC.EXACT
+
+Singrauli district----LOC.DISTRICT
+
+Sushil Kushwaha----SUS.NAME
+
+35----SUS.AGE
+
+Balangi Vadraf Nagar in Chhattisgarh----SUS.LOC
+
+Sukul Singh----SUS.NAME
+
+Guddu----SUS.NAME
+
+24----SUS.AGE
+
+Kantipur----SUS.LOC
+
+Vijay Gurjar----SUS.NAME
+
+20----SUS.AGE
+
+Gudru in Balrampur, Chhattisgarh----SUS.LOC
+
+WCCB Inspector----OFF.DESIG
+
+Devendra Singh Rathore----OFF.NAME
+
+information----DETECTION_METHOD
+
+WCCB----AUTH.SEIZE
+
+STF MP Police----AUTH.SEIZE
+
+search----DETECTION_METHOD

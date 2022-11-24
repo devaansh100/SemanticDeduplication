@@ -1,0 +1,55 @@
+
+['Cageful of bulbuls rescued from car on Durgapur Expressway\nMore than 60 red-vented bulbuls were being allegedly smuggled to Allahabad The birds were crammed inside a cage that was covered with a piece of cloth and hidden inside the boot of a car, a forest department official said. More than 60 red-vented bulbuls that were being allegedly smuggled to Allahabad were rescued by the forest department on Durgapur Expressway. The red-vented bulbul (Pycnonotus cafer) is a member of the bulbul family and is protected under Schedule IV of The Indian Wildlife Act, 1972. It is a resident bird that breeds across the country and is also found in Sri Lanka, Myanmar and Tibet. The wildlife crime control bureau (WCCB) had received information that the birds were being smuggled. The WCCB alerted the Durgapur forest range office and gave them details of the route as well as the vehicle in which the birds were being ferried. “We gathered the intelligence about the birds that were being smuggled and worked in close coordination with the Durgapur forest range office. A team of foresters intercepted the car on the highway,” said Agni Mitra, the regional deputy director of the wildlife crime control bureau. The three men in the car, who had started their journey from Ashoknagar in North 24-Parganas on their way to Durgapur, have been arrested. The birds have been kept under observation and will be released back into the wild.']
+
+
+bulbuls----SP.COMMON
+
+rescued----OUTCOME
+
+car----TRANSPORT_MODE
+
+Durgapur Expressway----LOC.EXACT
+
+60----QTY
+
+red-vented bulbuls----SP.SPECIFIC
+
+Allahabad----ROUTE.DEST
+
+cage----CONCEALMENT_METHOD
+
+hidden inside the boot of a car----CONCEALMENT_METHOD
+
+60----QTY
+
+red-vented bulbuls----SP.SPECIFIC
+
+Allahabad----ROUTE.DEST
+
+rescued----CRIME.CAT
+
+forest department----AUTH.SEIZE
+
+Pycnonotus cafer----SP.SPECIFIC
+
+bulbul----SP.COMMON
+
+wildlife crime control bureau (WCCB)----AUTH.MISC
+
+information----DETECTION_METHOD
+
+WCCB----AUTH.MISC
+
+alerted----DETECTION_METHOD
+
+Durgapur forest range office----AUTH.SEIZE
+
+intelligence----DETECTION_METHOD
+
+three----SUS.NUMBER
+
+men----SUS.GENDER
+
+arrested----OUTCOME
+
+birds have been kept under observation and will be released back into the wild----OUTCOME

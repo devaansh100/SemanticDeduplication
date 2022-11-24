@@ -1,0 +1,23 @@
+
+['Tragic! Three critically endangered Sumatran tigers killed in Indonesia\nAmid an alarming decline in their population, three critically endangered Sumatran tigers were found dead in western Indonesia on Sunday (April 24). The Indonesian police informed that they were being ensnared by the traps. The accident is said to be a deadly blow to the species’ rapidly declining population. News agency AFP quoted conservation officials as saying that two of the dead tigers were first found by local conservationists in Aceh before police were alerted. Referring to a police statement, the report mentioned that the authorities found the two intact tiger carcasses next to each other. Their feet were ensnared by steel slings at a palm oil plantation in the East Aceh district. The third dead tiger was about 500 metres away from where the other two tigers were discovered. It was also ensnared by a sling. The local police chief Hendra Sukmana said in a statement: “Our initial suspicion is that the tigers died after being caught by a boar trap, because when we found them their feet were ensnared by thick steel sling.” AFP reports also noted that the officials will conduct autopsies to determine the causes of the tigers’ deaths. “We strongly condemn this incident… if the tests reveal there’s intentional action that caused the deaths of these protected species, we will take strict action,” the head of Aceh conservation agency Agus Arianto told AFP on Monday. Sumatran tigers are considered critically endangered by the International Union for Conservation of Nature, with fewer than 400 believed to remain in the wild.']
+
+
+Three----QTY
+
+Sumatran tigers----SP.SPECIFIC
+
+killed----CRIME.CAT
+
+Indonesia----LOC.STATE
+
+three----QTY
+
+Sumatran tigers----SP.SPECIFIC
+
+Indonesia----LOC.STATE
+
+Sunday----DATE
+
+April 24----DATE
+
+Indonesian police----AUTH.SEIZE

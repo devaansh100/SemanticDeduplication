@@ -1,0 +1,25 @@
+
+['Professor rescues vulnerable turtle from Assam fish market\nA turtle of a vulnerable species was rescued from a fish market in Assam’s Silchar on Sunday, courtesy quick thinking and action on the part of a university professor. Dr Sarbani Giri — who heads the Science and Bioinformatics department at Assam University — had gone to the market on Sunday to buy fish. However, it was a huge Indian peacock softshell turtle that the fishmonger offered to sell her. “He asked me if I wanted to try something new — and suddenly appeared with a turtle,” said Giri, 49, “I was shocked and I knew I had to do something, so I told him I would buy the whole thing.” Giri bought the turtle for Rs 4,000 — much to the fishmonger’s surprise — headed back home, and immediately dialled the forest department. The officials took possession of the turtle and subsequently released it in the Barak river. “A small act of kindness can make all the difference in the world” said a post from the Cachar Forest Division on Facebook on Sunday evening. “The Indian peacock softshell turtle [Nilssonia hurum] is listed on the IUCN Red list as vulnerable species,” said Sunnydeo Choudhary, DFO Cachar Forest Division, “It is a schedule I species, and is accorded the highest protection.” The department, however, decided not to arrest the fishmonger. “This is the first time an incident like this has come to light, so we are treating it like an exception,” said Choudhary, “However, we have gotten in touch with the Fishery Department and have decided to hold awareness programmes to sensitise fish sellers about these turtles.” Giri bought the turtle for Rs 4,000 — much to the fishmonger’s surprise — headed back home, and immediately dialled the forest department. (Photo: Express) Giri bought the turtle for Rs 4,000 — much to the fishmonger’s surprise — headed back home, and immediately dialled the forest department. (Photo: Express) According to a report by Guwahati-based conservation NGO, Help Earth, 29 species of turtles have been recorded in India, out of which 20 are found in Assam. “Unfortunately 90% of the turtles in Assam are facing some kind of threat,” states the report, adding that hunting for human consumption is the greatest threat to turtle survival. Other factors include pollution, river traffic, sand mining, damming of rivers, and conversion of water bodies into agriculture land, among others. Advertisement Giri, who has been a professor for 24 years, said that when she found the turtle it was “stressed and dehydrated.” “I got some water, tried to feed it a few insects and basically comfort it,” she said, “My area of research is molecular biology, not conservation or biodiversity, but I did whatever my scientist brain asked me to do to try and help it.”']
+
+
+rescues----CRIME.CAT
+
+turtle----SP.COMMON
+
+Assam----LOC.STATE
+
+turtle----SP.COMMON
+
+rescued----CRIME.CAT
+
+Silchar----LOC.EXACT
+
+Sunday----DATE
+
+Dr Sarbani Giri----SUS.NAME
+
+Sunday----DATE
+
+Indian peacock softshell turtle----SP.SPECIFIC
+
+49----SUS.AGE

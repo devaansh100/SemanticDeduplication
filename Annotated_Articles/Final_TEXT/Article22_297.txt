@@ -1,0 +1,57 @@
+
+['Animals in Mysuru forests are still in poachers’ net\nTiger Mysuru Wild animals killed, publicly auctioned The villagers also celebrated the killing of the animals by beating hand drums and dancing. They also brought the animals in a procession. Time to scale back “There have been seizures of pangolin scales before in Bengaluru and other cities, but those were at much smaller scale. The amount of scales retrieved this time is unheard of and indicates that the poaching cases are on the rise,” said Sharath. Kodagu Kushalnagar Bengaluru Police Maddur Nagarahole After implementation ofproject, govt taking conservation activities strictlyBandipur forest area is still rejoicing the arrival of twin calves who were recently born to an elephant at the reserve forest. This and the recent reduction in poaching cases had brought a sense of relief to wildlife enthusiasts. However, we are certainly not out of the woods.In thearea, new cases of poaching and illegal transportation of animal parts have come to light. Recently, there have been many cases of transportation of animal parts and smuggling of ivory and pangolin scales and tiger nails.After the implementation of the Tiger project in the Mysuru area, the Government has taken conservation activities very strictly. This led to an increase in the number of tigers. But in recent days, many cases have emerged of tiger nails and skin being smuggled. Even though there are separate incidents found, it seems there is no network for this.The traps kept for pigs by the farmers near the forests are killing other animals. The smugglers keep traps for catching these animals on nearby farms around the forests as the use of guns make sound. The forest department staff arrested two persons on February 6, who were trying to sell the body parts of the wild animals.In one incident, a person was trying to sell tiger nails on a road towards HD Kote. In another incident, they were preparing jewellery using tiger nails. On February 14, forest officials arrested six members who killed a tiger and seized tigerskin, a skeleton and 15 nails, a piece of tooth, and others. In 2020 also some people were arrested for killing a Tiger inby forest officials.On April 2, three people were arrested by CID Police infor trying to sell ivory. In March,also arrested three members for trying to sell ivory in Bengaluru. On April 8, three people were arrested infor selling tiger nails. Police seized 15 tiger nails from them. The accused brought the tiger nails fromforest. This case is considered very serious, and police are enquiring more about their involvement in other cases.']
+
+
+Wild animals----SP.COMMON
+
+forest department----AUTH.SEIZE
+
+two----SUS.NUMBER
+
+February 6----DATE
+
+tiger----SP.COMMON
+
+nails----ITEM
+
+jewellery----ITEM
+
+forest officials----AUTH.SEIZE
+
+six----SUS.NUMBER
+
+tigerskin----ITEM
+
+skeleton----ITEM
+
+15----QTY
+
+nails----ITEM
+
+CID Police----AUTH.SEIZE
+
+ivory----ITEM
+
+three----SUS.NUMBER
+
+ivory----ITEM
+
+Bengaluru----LOC.CITY
+
+April 8----DATE
+
+three----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+selling----CRIME.CAT
+
+tiger----SP.COMMON
+
+nails----ITEM
+
+seized----CRIME.CAT
+
+15----QTY
+
+tiger nails----ITEM

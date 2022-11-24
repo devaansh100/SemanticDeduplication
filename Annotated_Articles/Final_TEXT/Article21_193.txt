@@ -1,0 +1,41 @@
+
+['Indore: Man \u200bheld with \u200b2 Australian turtles\u200b\u200b worth Rs 2L that he had taken from a man in Bhopal\nThe Australian turtles | FP Photo Indore Crime branch arrested a man with two Australian turtles in the city on Sunday. The man was allegedly trying to sell the turtles for some witchcraft activities. The person \u200bfrom \u200bwhom he bought the turtles is being searched by the crime branch. On the instruction from DIG Manish Kapooria, a team of crime branch was keeping an eye on people \u200binvolved in smuggling in wildlife. ASP (crime) Guru Prasad Parashar instructed the crime branch team to trace the accused. The team \u200breceived a tip-off that a person is roaming near the IT Park Square on Khandwa Road \u200b and was trying to sell Australian turtles to someone. The crime branch cordoned off the mentioned place and caught one Anil Maratha, a resident of Bengali Square. Two turtles were recovered from him. During the questioning, the accused allegedly told the police that he had taken the turtles from a person in Bhopal a few days ago. The turtle\u200bs\u200b are worth \u200baround \u200bRs 2 lakh in the international market. \u200bEarlier also, the accused \u200bwas arrested for the smuggling of wildlife. The turtles were handed over to the forest department and the accused is being questioned further.']
+
+
+​2----QTY
+
+Australian turtles​​----SP.SPECIFIC
+
+Rs 2L----VALUE
+
+Bhopal----LOC.CITY
+
+Australian turtles----SP.SPECIFIC
+
+arrested----CRIME.CAT
+
+a----SUS.NUMBER
+
+man----SUS.GENDER
+
+two----QTY
+
+Australian turtles----SP.SPECIFIC
+
+Sunday----DATE
+
+DIG----OFF.DESIG
+
+Manish Kapooria----OFF.NAME
+
+ASP----OFF.DESIG
+
+Guru Prasad Parashar----OFF.NAME
+
+tip-off----DETECTION_METHOD
+
+Australian turtles----SP.SPECIFIC
+
+Anil Maratha----SUS.NAME
+
+Bengali Square----SUS.LOC

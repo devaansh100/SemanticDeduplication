@@ -1,0 +1,15 @@
+
+['Wildlife: Latest News, Videos and Photos of Wildlife\nChhattisgarh HC issues notice to forest dept over elephants used for begging TNN / Aug 26, 2022, 17:53 (IST) The Chhattisgarh high court has issued notices to the state forest department and others on a petition alleging that the authorities did not act as per law in handling the case of two elephants which were used for begging.']
+
+
+Chhattisgarh HC----AUTH.SEIZE
+
+elephants----SP.COMMON
+
+Chhattisgarh high court----AUTH.SEIZE
+
+state forest department----AUTH.SEIZE
+
+two----QTY
+
+elephants----SP.COMMON

@@ -1,0 +1,101 @@
+
+['Forest staff, poachers exchange gunfire on Karnataka-TN border\nAmit S Upadhye By Express News Service BENGALURU: The Karnataka Forest Department has managed to confiscate a huge haul of about 130 kg of wild meat besides arms and snares used for hunting, in a raid conducted across the border on Thursday afternoon. Forest department staff from MM Hills Wildlife Sanctuary were engaged in an exchange of fire with poachers, supposed to be in a group of three to four, across Palar river on Thursday afternoon. The river divides the state as well as the forest boundaries of Palar range in Karnataka and Erode range of Tamil Nadu. As gun shots had been heard over the last two days across the border, the forest team in Karnataka was on high alert. On Thursday afternoon, a forest team noticed the movement of poachers in a jeep. When the poachers spotted the forest team standing across the river, they opened fire. The forest team took cover and retaliated. “When we started firing back, the poachers ran into the forest. We cross the river, entered Tamil Nadu and confiscated the items that were left behind by the poachers. Nearly 130 kg of dry and fresh meat was stacked in bags and kept in the jeep. A firearm has been seized from the spot along with snares and knifes,” a forest official from MM Hills sanctuary range told TNIE. Officials suspect that the poachers may have been camping in the Erode range for more than two days. “The area where the raid happened is a territorial division and does not have enough protection measures or staff. But M M Hills Sanctuary has close to 40 Anti-Poaching Camps (APCs) of which 10 are located on the border of Karnataka and Tamil Nadu. This helped us follow the movement of the poachers and finally we were able to confiscate the poached meat and weapons used,” the officer added. The seized jeep, meat and other materials were handed over to the Range Forest Officer of Erode on Thursday. “There are a few organised hunting gangs that thrive cross-border and operate in both the states. Sandalwood, deer and pangolins are the common target of these gangs. Protection measures must be improved to curb such incidents,” suggested a wildlife expert. BENGALURU: The Karnataka Forest Department has managed to confiscate a huge haul of about 130 kg of wild meat besides arms and snares used for hunting, in a raid conducted across the border on Thursday afternoon. Forest department staff from MM Hills Wildlife Sanctuary were engaged in an exchange of fire with poachers, supposed to be in a group of three to four, across Palar river on Thursday afternoon. The river divides the state as well as the forest boundaries of Palar range in Karnataka and Erode range of Tamil Nadu. As gun shots had been heard over the last two days across the border, the forest team in Karnataka was on high alert. On Thursday afternoon, a forest team noticed the movement of poachers in a jeep. When the poachers spotted the forest team standing across the river, they opened fire. The forest team took cover and retaliated. “When we started firing back, the poachers ran into the forest. We cross the river, entered Tamil Nadu and confiscated the items that were left behind by the poachers. Nearly 130 kg of dry and fresh meat was stacked in bags and kept in the jeep. A firearm has been seized from the spot along with snares and knifes,” a forest official from MM Hills sanctuary range told TNIE. Officials suspect that the poachers may have been camping in the Erode range for more than two days. “The area where the raid happened is a territorial division and does not have enough protection measures or staff. But M M Hills Sanctuary has close to 40 Anti-Poaching Camps (APCs) of which 10 are located on the border of Karnataka and Tamil Nadu. This helped us follow the movement of the poachers and finally we were able to confiscate the poached meat and weapons used,” the officer added. The seized jeep, meat and other materials were handed over to the Range Forest Officer of Erode on Thursday. “There are a few organised hunting gangs that thrive cross-border and operate in both the states. Sandalwood, deer and pangolins are the common target of these gangs. Protection measures must be improved to curb such incidents,” suggested a wildlife expert.']
+
+
+Forest staff----AUTH.SEIZE
+
+Karnataka Forest Department----AUTH.SEIZE
+
+confiscate----CRIME.CAT
+
+130 kg----QTY
+
+wild meat----SP.COMMON
+
+arms----ITEM
+
+snares----ITEM
+
+raid----CRIME.CAT
+
+Thursday----DATE
+
+afternoon----TIME
+
+Forest department----AUTH.SEIZE
+
+MM Hills Wildlife Sanctuary----AUTH.SEIZE
+
+poachers----SUS.AFFIL
+
+Palar river----LOC.EXACT
+
+Thursday----DATE
+
+afternoon----TIME
+
+Thursday----DATE
+
+afternoon----TIME
+
+130 kg----QTY
+
+meat----ITEM
+
+bags----CONCEALMENT_METHOD
+
+firearm----ITEM
+
+snares----ITEM
+
+knifes----ITEM
+
+jeep----ITEM
+
+meat----ITEM
+
+Karnataka Forest Department----AUTH.SEIZE
+
+confiscate----CRIME.CAT
+
+130 kg----QTY
+
+wild meat----SP.COMMON
+
+arms----ITEM
+
+snares----ITEM
+
+raid----CRIME.CAT
+
+Thursday----DATE
+
+afternoon----TIME
+
+MM Hills Wildlife Sanctuary----AUTH.SEIZE
+
+Palar river----LOC.EXACT
+
+Thursday----DATE
+
+afternoon----TIME
+
+Thursday----DATE
+
+afternoon----TIME
+
+jeep----DETECTION_METHOD
+
+130 kg----QTY
+
+meat----ITEM
+
+bags and kept in the jeep----CONCEALMENT_METHOD
+
+firearm----ITEM
+
+snares----ITEM
+
+knifes----ITEM
+
+meat----ITEM

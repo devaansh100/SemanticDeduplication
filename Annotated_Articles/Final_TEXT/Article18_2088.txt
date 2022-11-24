@@ -1,0 +1,23 @@
+
+['Peacock killed in Muzaffarnagar, case registered\nMuzaffarnagar, May 31 (PTI) A peacock was killed on Tuesday by some unidentified people in Fahimpur village, police said. SP (Traffic) Kuldip Singh told reporters that a case was registered against unidentified people under various sections of the Wildlife Protection Act and police are investigating the case. According to a complaint lodged by forest guard Deepak Kumar on inputs of some villagers, a peacock was hunted by some people, who managed to escape in a vehicle after villagers chased them. Fahimpur village residents protested over the hunting of the bird and demanded that the culprits must be arrested soon. PTI COR NAV RDK This report is auto-generated from PTI news service. ThePrint holds no responsibility for its content.']
+
+
+Peacock----SP.COMMON
+
+killed----CRIME.CAT
+
+Muzaffarnagar----LOC.CITY
+
+peacock----SP.COMMON
+
+killed----CRIME.CAT
+
+Tuesday----DATE
+
+Fahimpur village----LOC.EXACT
+
+SP (Traffic)----OFF.DESIG
+
+Kuldip Singh----OFF.NAME
+
+case was registered against unidentified people under various sections of the Wildlife Protection Act----OUTCOME

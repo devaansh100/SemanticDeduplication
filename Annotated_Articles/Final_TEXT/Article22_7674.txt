@@ -1,0 +1,37 @@
+
+["Kakinada tiger scare: Big cat attacks cow, buffalo in Andhra Pradesh's Sarabhavaram village again- The New Indian Express\nBy Express News Service KAKINADA: The elusive tiger made its presence felt once again near Sarabavaram village in Prathipadu mandal as it attacked a cow and a buffalo on Wednesday. Both the domestic animals were able to escape the big cat, forest officials said. The fresh attack, near Suravaram petta mining quarry road, came even as forest officials have been expecting the adult male wild cat to move towards its natural habitat. On June 4, the big cat had killed a cow calf near Sarabavaram village. Since then, the tiger's attempts to prey on cattle have been unsuccessful.On June 11, three people - including an auto driver - had sighted the wild cat near Vajrakutam village at Sankhavaram mandal. Forest officials said that the tiger moved towards the forest on a couple of occasions but returned to one or another village abutting the hills in search of prey. Officials pointed out that villagers were not heeding to their advice and allowing the cattle to graze in the fields which was luring the tiger to the easy prey. People’s movement in the reserve forest area is also hindering the tiger from heading towards the forest. Yeleswaram reserve forest officer J Srinivas explained that as the tiger is constantly moving, bids to tranquilise or capturing it have been difficult. Any unsuccessful bid to capture it might lead to the tiger attacking humans, he said. KAKINADA: The elusive tiger made its presence felt once again near Sarabavaram village in Prathipadu mandal as it attacked a cow and a buffalo on Wednesday. Both the domestic animals were able to escape the big cat, forest officials said. The fresh attack, near Suravaram petta mining quarry road, came even as forest officials have been expecting the adult male wild cat to move towards its natural habitat. On June 4, the big cat had killed a cow calf near Sarabavaram village. Since then, the tiger's attempts to prey on cattle have been unsuccessful.On June 11, three people - including an auto driver - had sighted the wild cat near Vajrakutam village at Sankhavaram mandal. Forest officials said that the tiger moved towards the forest on a couple of occasions but returned to one or another village abutting the hills in search of prey. Officials pointed out that villagers were not heeding to their advice and allowing the cattle to graze in the fields which was luring the tiger to the easy prey. People’s movement in the reserve forest area is also hindering the tiger from heading towards the forest. Yeleswaram reserve forest officer J Srinivas explained that as the tiger is constantly moving, bids to tranquilise or capturing it have been difficult. Any unsuccessful bid to capture it might lead to the tiger attacking humans, he said."]
+
+
+Big cat----SP.COMMON
+
+attacks----CRIME.CAT
+
+cow----SP.COMMON
+
+buffalo----SP.COMMON
+
+Andhra Pradesh's----LOC.STATE
+
+Sarabhavaram village----LOC.EXACT
+
+tiger----SP.COMMON
+
+Sarabavaram village in Prathipadu mandal----LOC.EXACT
+
+cow----SP.COMMON
+
+a----QTY
+
+buffalo----SP.COMMON
+
+Wednesday----DATE
+
+tiger----SP.COMMON
+
+Sarabavaram village in Prathipadu mandal----LOC.EXACT
+
+cow----SP.COMMON
+
+buffalo----SP.COMMON
+
+Wednesday----DATE

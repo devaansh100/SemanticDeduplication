@@ -1,0 +1,19 @@
+
+['Chimpanzee Escapes, Attack Garderner From Hyderabad Zoo, Tension Prevailed\nWhen a female chimpanzee escaped from Hyderabad’s Nehru Zoological Park and hurt a gardener, mild tension prevailed at the Park and surrounding areas in Hyderabad. When ‘Suzi’ , a chimpanzee, attempted to escape from her enclosure and attacked a gardener, who was injured in the scuffle. Zoo officials said that Suzi escaped from her night enclosure even as maintenance work was being taken up by authorities on the campus. The chimpanzee first encountered a gardener, Yadaiah, working in the primate section, and attacked him. He suffered minor injuries and was administered an anti-rabies injection. As soon as the incident took place, higher authorities were informed and a veterinary team rushed to the spot. Suzi was tranquilized and taken back into the enclosure. This is not the first time that Suzi has escaped, as a similar incident took place in 2013. Officials said that despite leading a lavish lifestyle at the zoo, Suzi was lonely and thus prone to bouts of anger and frustration. Earlier, Suzi was one of the pet of business tycoon and Sahara chairman Subrata Roy and arrived at the Hyderabad zoo from Pune in 2011. In 2015, a Royal Bengal tiger had escaped from its enclosure as it jumped off a 10 feet deep moat when it was being shifted to another enclosure, creating a scare among hundreds of visitors. Zoo authorities swung into action to evacuate the premises and closed all the gates. Officials later managed to tranquilise the big cat after an hour-long effort. No one was injured in the incident. One of the largest zoos in India, the Nehru Zoological Park is spread over 380 acres. The zoo celebrated its golden jubilee in 2013 and is home to exotic birds and animals in mostly open enclosures in near-natural ambience. On average, several lakh people visit the zoo annually. #KhabarLive']
+
+
+Chimpanzee----SP.SPECIFIC
+
+Hyderabad Zoo----LOC.EXACT
+
+chimpanzee----SP.COMMON
+
+Nehru Zoological Park----LOC.EXACT
+
+Suzi----SUS.NAME
+
+chimpanzee----SP.COMMON
+
+Suzi----SUS.NAME
+
+Yadaiah----SUS.NAME

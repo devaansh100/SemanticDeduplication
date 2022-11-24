@@ -1,0 +1,37 @@
+
+['Two Women Injured In Bear Attack\nSRINAGAR: Two women were mauled by a wild bear in far flung Gagriyan village of J&K’s Poonch district on Thursday. Quoting an official, news agency KNO reported that Zarifa Begum, 38, wife of Mushtaq Ahmed and Sharifa Begum, 42, wife of Ghulam Mohd Jaan, residents of Gagriyaan village of Mandi tehsil in Poonch district were attacked by the bear near their house on this morning. Locals managed to rescue them from the clutches of the bear, an official said. He said the duo has been hospitalised with multiple injuries.']
+
+
+Two----SUS.NUMBER
+
+Women----SUS.GENDER
+
+Bear----SP.COMMON
+
+Two----SUS.NUMBER
+
+women----SUS.GENDER
+
+mauled----CRIME.CAT
+
+wild bear----SP.COMMON
+
+Gagriyan village----LOC.EXACT
+
+Poonch----LOC.DISTRICT
+
+Thursday----DATE
+
+Zarifa Begum----SUS.NAME
+
+38----SUS.AGE
+
+Sharifa Begum----SUS.NAME
+
+42----SUS.AGE
+
+Gagriyaan village of Mandi tehsil----SUS.LOC
+
+Poonch----SUS.LOC
+
+this morning----TIME

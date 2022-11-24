@@ -1,0 +1,19 @@
+
+['Thirthahalli: Farmer seriously injured in wild gaur attack\nThirthahalli: Farmer seriously injured in wild gaur attack A A A Team Udayavani, Apr 5, 2022, 8:44 AM IST Thirthahalli: A farmer was seriously injured in a wild Gaur attack in Hosur Village in Agumbe Gram Panchayat here. The victim, Asimane Raghavendra Bhat, is receiving medical treatment at the Manipal KMC hospital. The incident took place at around 6 pm on Monday when Raghavendra along with his wife had gone to their plantation for chasing away the wild Indian bison. Enraged by this, the Bison gored Raghavendra in stomach. Seeing this his wife fell unconscious. The news of the Gaur attack soon spread and former president of the gram panchayat Hasirumane Nandan arranged an ambulance to shift the injured to Manipal. The forest officials were also informed about the incident.']
+
+
+gaur----SP.COMMON
+
+gaur----SP.COMMON
+
+Gaur----SP.COMMON
+
+Hosur Village----LOC.EXACT
+
+Asimane Raghavendra Bhat----SUS.NAME
+
+6 pm----TIME
+
+Monday----DATE
+
+Raghavendra----SUS.NAME

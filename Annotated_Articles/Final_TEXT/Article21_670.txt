@@ -1,0 +1,37 @@
+
+['8 green-winged macaws seized\nVijayawada: The Special Enforcement Bureau (SEB) on Friday intercepted a car and seized eight green-winged macaws worth Rs 6 lakh at Tada checkpost in Nellore district. According to SEB officials, they were conducting checks to seize illegal smuggling of liquor from Tamil Nadu.Officials found the birds inside a cage in the car. The persons in the car had not taken permission to transport the endangered species from Chennai to Vijayawada, officials said. The birds were later handed over to the forest department. The green-winged macaw is native to South America, especially Argentina.A considerable number of birds have been kept in captivity after being declared as ‘critically endangered’ by Argentina. Officials said the car and the birds have been taken to the forest office in Sullurpeta where a case has been registered. TNN']
+
+
+8----QTY
+
+green-winged macaws----SP.SPECIFIC
+
+seized----CRIME.CAT
+
+Special Enforcement Bureau (SEB)----AUTH.SEIZE
+
+Friday----DATE
+
+car----TRANSPORT_MODE
+
+seized----CRIME.CAT
+
+eight----QTY
+
+green-winged macaws----SP.SPECIFIC
+
+Rs 6 lakh----VALUE
+
+Tada checkpost in----LOC.EXACT
+
+Nellore district----LOC.DISTRICT
+
+conducting checks----DETECTION_METHOD
+
+Tamil Nadu.----LOC.STATE
+
+cage----CONCEALMENT_METHOD
+
+car----TRANSPORT_MODE
+
+Chennai----ROUTE.SRC

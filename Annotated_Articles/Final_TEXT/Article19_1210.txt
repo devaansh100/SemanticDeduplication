@@ -1,0 +1,27 @@
+
+["Pride of lions kill herd of goats in Gujarat village\nRAJKOT: The pride of five lions killed 66 goats and one sheep in Dari village here of Veraval taluka in Gir Somnath district on Sunday night. The incident has created panic among the villagers about the safety of their livestock.According to forest department officials, a shepherd Jiva Chavda had kept his herd of cattle in the orchard of Dhiru Solanki. Nearly five lions attacked his herd on Sunday night and killed goats and sheep, confirmed Sunil Berwal, Deputy Conservator of Forest (DCF), Junagarh.The lions' pride had preyed on cows at another orchard in the same village a week ago. The villagers are scared of these frequent attacks on their domestic animals because these are source of their livelihood."]
+
+
+Pride of lions----AUTH.SEIZE
+
+kill----CRIME.CAT
+
+Gujarat village----LOC.EXACT
+
+five lions----AUTH.SEIZE
+
+66----QTY
+
+goats----SP.COMMON
+
+one----QTY
+
+sheep----SP.COMMON
+
+Dari village----LOC.EXACT
+
+Sunday----DATE
+
+night----TIME
+
+Jiva Chavda----SUS.NAME

@@ -1,0 +1,75 @@
+
+['Foresters seize 80kg spotted deer meat\nERODE: District forest officials have launched a manhunt for a seven-member gang involved in poaching spotted deer near Burgur after the latter managed to escape arrest on Saturday.S Manikandan, forest ranger, Burgur, said they stumbled upon the gang during a regular patrol at 8am on Saturday. “They were cooking some food and on seeing us they fled, leaving behind 80kg spotted deer meat , a country-made gun, knives, an axe and gun pellets.”Preliminary investigation revealed the gang had entered the forest on Friday evening with gun and knives.“They have hunted at least five spotted deer. While they cooked some meat, the remaining (meat) was kept in five sacks for sales,” the forest ranger said.The official said they have identified two members of the gang. “They are from Govindapadi village near Mettur. We will nab them at the earliest.”.Forest officials, meanwhile, produced the seized deer meat before the judicial magistrate of Bhavani sub-court who directed them to dispose of the same in the forest. Other materials such as gun, knives, axe and pellets have been kept in the court locker.']
+
+
+Foresters----AUTH.MISC
+
+seize----CRIME.CAT
+
+80kg----QTY
+
+spotted deer----SP.SPECIFIC
+
+meat----ITEM
+
+District forest officials----AUTH.SEIZE
+
+seven-member----SUS.NUMBER
+
+gang----SUS.AFFIL
+
+spotted deer----SP.SPECIFIC
+
+Burgur----LOC.EXACT
+
+Saturday.S----DATE
+
+regular patrol----DETECTION_METHOD
+
+8am----TIME
+
+Saturday----DATE
+
+80kg----QTY
+
+spotted deer----SP.SPECIFIC
+
+meat----ITEM
+
+a----QTY
+
+country-made gun----ITEM
+
+knives----ITEM
+
+axe----ITEM
+
+gun pellets----ITEM
+
+gang----SUS.AFFIL
+
+meat----ITEM
+
+five sacks----CONCEALMENT_METHOD
+
+two----SUS.NUMBER
+
+gang----SUS.AFFIL
+
+Govindapadi village near Mettur----SUS.LOC
+
+produced the----OUTCOME
+
+seized----CRIME.CAT
+
+deer----SP.COMMON
+
+meat----ITEM
+
+gun----ITEM
+
+knives----ITEM
+
+axe----ITEM
+
+pellets----ITEM
