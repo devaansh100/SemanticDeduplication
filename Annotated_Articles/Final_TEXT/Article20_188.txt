@@ -1,0 +1,85 @@
+
+['Animal poaching registers a sharp increase during lockdown\nBesides chinkaras and blackbucks, poachers have targeted peacocks, grey francolins in Rajasthan Besides chinkaras and blackbucks, poachers have targeted peacocks, grey francolins in Rajasthan The instances of poaching of wild animals and birds, including the endangered chinkara or Indian gazelle, have registered a sharp increase across Rajasthan during the COVID-19 lockdown, with the hunters taking advantage of slack monitoring and sparse public movement in the remote areas. Armed poachers have been moving inside the national parks and wildlife sanctuaries since the lockdown was enforced. Besides killing chinkaras and blackbucks, the poachers have targeted peacocks, grey francolins and other birds covered under the Wildlife Protection Act, 1972, as endangered species. During the last one week, instances of chinkara poaching were reported in Pali, Jodhpur, Jaisalmer and Nagaur districts. Several of the cases were detected and reported to the forest authorities by the members of the Bishnoi community, which is known for its beliefs associated with nature worship and wildlife conservation. Forest and police teams recovered a chinkara carcass near Bhundel village in Nagaur district late on Sunday night. Range Officer Hemendra Sirodia said the villagers had earlier reached the spot but the poachers fled. In another incident near Gudda Bhagwan village, the local residents nabbed one poacher, while two others escaped. Four motorcycle-borne poachers killed a chinkara near Olwada village adjoining the Ranthambore National Park in Sawai Madhopur district on Saturday. When the villagers tried to catch them, they fired in the air and fled with the carcass of the antelope which was tied to a bike. Caught a poacher Wildlife lovers assisted by a teacher, Pradeep Bishnoi, caught a poacher who killed a blackbuck near Napawas village in Pali district’s Sojat block on Monday. Similarly, chinkara meat being cooked by some poachers was seized in Jaisalmer district’s Ramgarh village on Sunday night, according to Divisional Forest Officer Om Prakash Bishnoi. A muster of 22 peacocks and 15 grey francolins was found dead in Lohiya village of Bikaner district on Monday. Jeev Raksha Sanstha president Mokhram Dharnia said the investigation had revealed that someone had fed poisonous grains to them. Environmental activist Anil Bishnoi, who lives in Hanumangarh district’s Lakhasar village, rescued a chinkara which was found injured in an agricultural field on Monday. Mr. Bishnoi, a recipient of the State-level Amrita Devi Environmental Award in 2009, gave primary aid to the animal and handed it over to the forest officials in Pilibanga. The chinkaras are usually poached in Rajasthan, allegedly by the Bawaria community, whose traditional occupation is hunting. Rashtriya Loktantrik Party MP from Nagaur, Hanuman Beniwal, has expressed concern over the increasing incidents of poaching.']
+
+
+poaching----CRIME.CAT
+
+chinkaras----SP.SPECIFIC
+
+blackbucks----SP.SPECIFIC
+
+peacocks----SP.COMMON
+
+grey francolins----SP.SPECIFIC
+
+Rajasthan----LOC.STATE
+
+chinkaras----SP.SPECIFIC
+
+blackbucks----SP.SPECIFIC
+
+peacocks----SP.COMMON
+
+grey francolins----SP.SPECIFIC
+
+Rajasthan----LOC.STATE
+
+chinkara----SP.SPECIFIC
+
+Indian gazelle----SP.COMMON
+
+chinkara----SP.COMMON
+
+carcass----ITEM
+
+Bhundel village----LOC.EXACT
+
+Sunday----DATE
+
+night----TIME
+
+Four motorcycle-----SUS.NUMBER
+
+Saturday----DATE
+
+Pradeep Bishnoi----OFF.NAME
+
+poacher----SUS.AFFIL
+
+blackbuck----SP.SPECIFIC
+
+Monday----DATE
+
+chinkara----SP.COMMON
+
+meat----ITEM
+
+seized----CRIME.CAT
+
+Jaisalmer district----ROUTE.SRC
+
+Ramgarh village----LOC.EXACT
+
+Sunday----DATE
+
+night----TIME
+
+Divisional Forest Officer----OFF.DESIG
+
+Om Prakash Bishnoi----OFF.NAME
+
+22----QTY
+
+peacocks----SP.COMMON
+
+15----QTY
+
+grey francolins----SP.SPECIFIC
+
+Lohiya village----LOC.EXACT
+
+Bikaner----LOC.DISTRICT
+
+Monday----DATE
+
+chinkara----SP.COMMON

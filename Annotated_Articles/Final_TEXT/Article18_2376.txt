@@ -1,0 +1,29 @@
+
+['Wildlife Crime Control Bureau\nWildlife Crime Control Bureau (WCCB) carried out a joint operation with Aurangabad Forest Division and seized 1.8 kg of dry Pangolin Scale and arrested one person from Aurangabad District of Bihar, on 07-06-2022']
+
+
+Wildlife Crime Control Bureau----AUTH.MISC
+
+Wildlife Crime Control Bureau----AUTH.SEIZE
+
+WCCB----AUTH.SEIZE
+
+Aurangabad Forest Division----AUTH.SEIZE
+
+seized----CRIME.CAT
+
+1.8 kg----QTY
+
+dry Pangolin----ITEM
+
+Scale----ITEM
+
+arrested----CRIME.CAT
+
+one----SUS.NUMBER
+
+Aurangabad----LOC.DISTRICT
+
+Bihar----LOC.STATE
+
+07-06-2022----DATE

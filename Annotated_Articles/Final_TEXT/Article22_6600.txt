@@ -1,0 +1,47 @@
+
+['South Sudan: Bull arrested for killing boy, may face jail\nWorld South Sudan: Bull arrested for killing boy, may face jail South Sudan: Bull arrested for killing boy, may face jail Written by Abhishek Hari Jun 07, 2022, 05:13 pm 3 min read A bull detained for the brutal murder of a 12-year-old boy in South Sudan could face several years in prison. (Representational Image) In a bizarre incident, the South Sudanese cops have confirmed that they have arrested a bull for the alleged killing of a 12-year-old boy. The bull and its owner were apprehended by the police after the animal allegedly attacked the child near a farm in the country\'s Lakes State. According to reports, the bull\'s attack was so vicious that the boy died instantly. Context Why does this story matter? In parts of South Sudan, which has been devastated by conflict and war since 2013—when President Salva Kiir alleged his deputy Riek Machar of conspiring against him—livestock is the favored form of currency and is used to buy homes, pay dowries, and compensate for offenses, including murder. A single cow in the country, which is among the world\'s poorest, is worth hundreds of dollars. Statement Police statement following the incident Major Elijah Mabor of the South Sudanese Police confirmed the bull is "under arrest." Mabor stated, "The bull is now under arrest at a police station in Rumbek Central County." "The boy was taken to hospital for post-mortem and he was taken home for burial," he added. Surprisingly, this isn\'t the first time an animal has been apprehended, charged, and jailed in the country. Context Second murder by animal within one month The 12-year-old\'s "murder" comes just under a month after a 45-year-old woman was killed by a ram. The woman, Adhieu Chaping, was repeatedly hit in the rib cage by the ram and died as a result of her injuries, said Mabor. The same ram was sentenced to hard labor in a military camp last week, where the animal will be jailed for three years. Arrest Bull attacked boy near a farm Meanwhile, the police said the bull attacked the 12-year-old child while walking alongside a ranch in the evening last week, killing him immediately, according to reports. The animal had been dragging a plow in Lakes State, located in the heart of the East African nation. Do you know? What does the law say? According to South Sudanese law, any domestic animal which kills another person is automatically granted to the victim\'s family as compensation. This means that Chaping\'s family will acquire the ram once it has served its three-year sentence, The Independent reported. Court Local court ordered ram\'s owner to surrender five cows A local court ordered Duony Manyang Dhal, the ram\'s owner, to surrender five cows to Chaping\'s family. Cows are central to pastoralist communities and have cultural-spiritual significance, noted South Sudanese analyst Adhieu Majok. A police spokesman said, "The owner is innocent...the ram is the one who perpetrated the crime...it deserves to be arrested. Our role as police is to provide safety and separate fights."']
+
+
+South Sudan----LOC.STATE
+
+Bull----SP.COMMON
+
+arrested----CRIME.CAT
+
+boy----SP.COMMON
+
+Bull----SP.COMMON
+
+Bull----SP.COMMON
+
+12-year-old boy----SUS.AGE
+
+South Sudanese cops----AUTH.SEIZE
+
+bull----SP.COMMON
+
+12-year-old----SUS.AGE
+
+South Sudanese Police----AUTH.SEIZE
+
+boy was taken to hospital for post-mortem----OUTCOME
+
+12-year-old's----SUS.AGE
+
+Bull----SP.SPECIFIC
+
+evening----TIME
+
+Court Local court----AUTH.SEIZE
+
+five----QTY
+
+cows----SP.COMMON
+
+local court----AUTH.SEIZE
+
+Duony Manyang Dhal----SUS.NAME
+
+five----QTY
+
+cows----SP.COMMON

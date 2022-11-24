@@ -1,0 +1,89 @@
+
+["Tiger hide & claws seized in MP; 4 poachers arrested\nPolice have arrested four poachers and seized from them a tiger hide, its claws, and the teeth of a wild boar in Madhya Pradesh's Mandla district, an official said Sunday. Based on a tip-off, the police intercepted four men moving on two motorcycles on Saturday near a temple under Bahmani police station limits. The skin of a tiger, its claws, and four teeth of a wild boar was seized from their possession, sub-divisional officer of police Akansha Chaturvedi said. Some wires and ax allegedly used for poaching the animals were also seized from their possession, she said. The four persons, identified as Makhanlal Yadav (40), Anand Kushram (30), Manoj Pangram (32), and Itwari Posham (27), were arrested. The official said during initial questioning, the accused told the police they had poached a tiger in the Bhawani forest of the district three-four months back by using the wires and were searching for a buyer of the animal's body parts. The accused were booked under relevant sections of the Wildlife Protection Act and further investigation is underway, she added. According to the All-India Tiger Estimation Report 2018, Madhya Pradesh was home to 526 tigers, the highest in any state in the country. The state has several tiger reserves, including Kanha, Bandhavgarh, Pench, Satpura, and Panna. (This story has not been edited by Devdiscourse staff and is auto-generated from a syndicated feed.)"]
+
+
+Tiger----SP.COMMON
+
+hide----ITEM
+
+claws----ITEM
+
+seized----CRIME.CAT
+
+MP----LOC.STATE
+
+4----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+arrested----CRIME.CAT
+
+four----SUS.NUMBER
+
+seized----CRIME.CAT
+
+a----QTY
+
+tiger----SP.COMMON
+
+hide----ITEM
+
+claws----ITEM
+
+teeth----ITEM
+
+wild boar----SP.COMMON
+
+Madhya Pradesh's----LOC.STATE
+
+Mandla district----LOC.DISTRICT
+
+tip-off----DETECTION_METHOD
+
+four----SUS.NUMBER
+
+men----SUS.GENDER
+
+Saturday----DATE
+
+skin----ITEM
+
+tiger----SP.COMMON
+
+claws----ITEM
+
+four----QTY
+
+teeth----ITEM
+
+wild boar----SP.SPECIFIC
+
+wires----ITEM
+
+ax----ITEM
+
+four----SUS.NUMBER
+
+Makhanlal Yadav----SUS.NAME
+
+40----SUS.AGE
+
+Anand Kushram----SUS.NAME
+
+30----SUS.AGE
+
+Manoj Pangram----SUS.NAME
+
+32----SUS.AGE
+
+Itwari Posham----SUS.NAME
+
+27----SUS.AGE
+
+arrested----OUTCOME
+
+tiger----SP.COMMON
+
+booked under relevant sections of the Wildlife Protection Act----OUTCOME
+
+further investigation is underway----OUTCOME

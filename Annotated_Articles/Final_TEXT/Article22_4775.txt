@@ -1,0 +1,19 @@
+
+['Belgian Malinois: Latest News, Videos and Photos of Belgian Malinois\nbelgian malinois shines in Madurai dog show TNN / Aug 08, 2022, 05:59 (IST) A bunch of belgian malinois stole the show at the Madurai Dog Show organized by Madurai Canine Club on Sunday. As many as 426 dogs from across south India as well as cities like Mumbai, Kolkata and Delhi participated. Army veterans M Shanmugam and C Raghu Nadar brought their belgian malinois for the show and held special demo sessions on explosives sniffing, guarding and puppy training to show how it can be a superior guard dog when trained well.']
+
+
+Belgian Malinois----SP.SPECIFIC
+
+Madurai dog----LOC.EXACT
+
+belgian malinois----SP.SPECIFIC
+
+Madurai Dog----LOC.EXACT
+
+Sunday----DATE
+
+M Shanmugam----SUS.NAME
+
+C Raghu Nadar----SUS.NAME
+
+belgian malinois----SP.SPECIFIC

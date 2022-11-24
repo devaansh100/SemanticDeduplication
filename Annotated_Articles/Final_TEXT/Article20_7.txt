@@ -1,0 +1,45 @@
+
+['Wildlife body parts seized\nNAHARLAGUN, Jan 6: Forest department officials seized a sizeable number of body parts of rare and endangered animals and birds during a raid conducted at the daily market here on Monday. The seized items included skins of the clouded leopard, the common leopard and the Himalayan black bear, along with feathers of pheasants, drongo eagles and hornbills. The seized items were later destroyed. Deputy Chief Wildlife Warden Umesh Kumar, who led the raid team, said similar raids will be conducted from time to time to stop the wildlife trade.']
+
+
+body parts----ITEM
+
+seized----CRIME.CAT
+
+Forest department----AUTH.SEIZE
+
+seized----CRIME.CAT
+
+body parts----ITEM
+
+raid----CRIME.CAT
+
+Monday----DATE
+
+skins----ITEM
+
+clouded----SP.SPECIFIC
+
+leopard----SP.COMMON
+
+common----SP.SPECIFIC
+
+leopard----SP.COMMON
+
+Himalayan black----SP.SPECIFIC
+
+bear----SP.COMMON
+
+feathers----ITEM
+
+pheasants----SP.COMMON
+
+drongo----SP.SPECIFIC
+
+eagles----SP.COMMON
+
+hornbills----SP.COMMON
+
+Deputy Chief Wildlife Warden----OFF.DESIG
+
+Umesh Kumar----OFF.NAME

@@ -1,0 +1,27 @@
+
+['Thrissur: Jumbo stamps two to death\nThrissur: The elephant with the highest Ekkan (hiring charges) in the state Thechikottukavu Ramachandran on Friday afternoon ran amok and stamped to death two persons during a temple festival at Chombalakkumal temple at Kottappadi near Guruvayur. The deceased persons Babu aka Narayana Patteri, 66, of Kannur and Gangadharan of Arakkal house at Kozhikode had come to Kottappadi to attend a house warming. It is learnt from cops at Guruvayur Temple police station that a prominent family in the locality had their house warming at Kottappadi near the temple and they were sponsoring the temple festival as well. Crackers were busted near the new house and the elephant which has no sight in one of its eyes and gradually losing vision in the other, ran fearing the sound. The deceased persons had fallen on the ground in the ruckus and were stamped by the elephant. Nearly 10 other persons including women have suffered injuries are under going treatment at a private hospital in Kunnamkulam. Elephant Rama-chandran, owned by Thechikkottukavu Temple Devaswom near Mundoor in Thrissur is the tallest in the state and has an ekkam of Rs 3.5 to 4 lakhs. “The officials of the Forest department have to be held responsible for the loss of two lives as this elephant is called a ‘killer’ elephant and it is almost blind,” V.K. Venkitachalam general secretary of Heritage Animal Task Force, a pro-animal organization in Thrissur, said. “Since 1996, it has killed as many as 11 persons including four women, one student and six mahouts and violating the Supreme Court order the elephant was paraded without the sanction of the District Elephant Committee set up by the apex court.”']
+
+
+stamps two to death----CRIME.CAT
+
+elephant----SP.COMMON
+
+Thechikottukavu Ramachandran----SUS.NAME
+
+Friday----DATE
+
+afternoon----TIME
+
+Chombalakkumal temple at Kottappadi near Guruvayur.----LOC.EXACT
+
+Babu----SUS.NAME
+
+Narayana Patteri----SUS.NAME
+
+66----SUS.AGE
+
+Kannur----SUS.LOC
+
+Gangadharan----SUS.NAME
+
+Arakkal house----SUS.LOC

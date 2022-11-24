@@ -1,0 +1,7 @@
+
+['Rhinos to be re-introduced in Uttarakhand for ias upsc prelims and mains exam, Current affairs for upsc\nThe Uttarakhand State Wildlife Board has cleared a proposal by the Wildlife Institute of India (WII) to introduce rhinoceroses in the Corbett Tiger Reserve (CTR) to boost tourism and revive the habits of species that survive on low-height grass.']
+
+
+Rhinos----SP.COMMON
+
+Uttarakhand----LOC.STATE

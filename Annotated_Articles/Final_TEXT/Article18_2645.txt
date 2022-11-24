@@ -1,0 +1,7 @@
+
+['A food chain comprising hawk. snake. paddy and mice. If 15,000 J of energy available to mice then how much energy will be in paddy and how much energy will be available to hawk.\nQuestion A food chain comprising hawk. snake. paddy and mice. If 15,000 J of energy available to mice then how much energy will be in paddy and how much energy will be available to hawk.']
+
+
+15,000 J----QTY
+
+15,000 J----QTY

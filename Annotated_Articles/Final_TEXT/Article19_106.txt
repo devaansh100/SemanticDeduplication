@@ -1,0 +1,21 @@
+
+['Tusker killed by poachers in Karnataka, body wasn\'t discovered for two weeks\nTusker killed by poachers in Karnataka, body wasn\'t discovered for two weeks Forest department officials said that they were distracted by preparations for the Chikkaluru Fair held from January 21 to 26. news Crime For more than two weeks, a tusker shot by poachers lay dead in the Kothanur range of the Cauvery Wildlife Sanctuary in Karnataka. Chikkaluru forest officials say that they discovered the elephant\'s body, whose tusks were removed from its now-shrivelled carcass, on February 3, about 15 to 20 days after the animal was killed. "The tusker was killed in an interior part of the forest area but now that it has come to our notice, we have registered a case and an investigation to find the poachers is underway. It appears to be the work of highly skilled and technical people who have removed the tusks from the animal after applying acid," Assistant Conservator of Forest, Ankaraj told TNM. After jarring photographs of the animal\'s body were shared, officials began investigating the incident. He noted that forest officials were distracted by preparations for the Chikkaluru Fair held from January 21 to 26. "We had concentrated our efforts on ensuring that the people who visit Chikkaluru for the fair do not enter the forests in the area. We have missed this incident taking place in the interior part of the forest," Ankaraj added. However, wildlife activists accused the forest officials of negligence, particularly since the incident had occurred close to an anti-poaching camp, which is around 5 kilometres away from the spot where the animal was found. "We are asking why the death of the animal did not come to light for almost one month. Poaching is going on unabated here and people have locally made guns which they are using to kill animals," wildlife activist Joseph Hoover said. This is the same area where notorious bandit Veerappan was infamous for poaching elephants. Camera traps had exposed the menace of poaching in the forests of Kollegal and Chamarajanagar in 2017. Poachers were seen using locally-made guns to kill deers prompting forest officials to further investigate the modus operandi of poachers and install more CCTV cameras in the forests.']
+
+
+Tusker----SP.COMMON
+
+killed----CRIME.CAT
+
+poachers----SUS.AFFIL
+
+Karnataka----LOC.STATE
+
+Tusker----SP.COMMON
+
+poachers----SUS.AFFIL
+
+Karnataka----LOC.STATE
+
+February 3----DATE
+
+registered a case----OUTCOME

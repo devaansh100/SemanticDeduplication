@@ -1,0 +1,13 @@
+
+['Gujarat: Villagers treat lion like a dog in Dhari\nJun 07, 2022, 04:53PM IST Source: TOI.in The villagers of Dhari in Gujarat treat a lion like a dog. They harassed the lion and hurled sticks and stones at him. The lion can be seen running in the lanes of the village. The video is viral on social media.']
+
+
+lion----SP.COMMON
+
+Dhari----LOC.EXACT
+
+Jun 07, 2022----DATE
+
+Dhari----LOC.EXACT
+
+Gujarat----LOC.STATE

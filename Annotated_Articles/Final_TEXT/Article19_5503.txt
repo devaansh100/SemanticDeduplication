@@ -1,0 +1,89 @@
+
+['Exotic snakes, lizards seized at Chennai airport\nTo identify the reptile species, forest officers of wildlife division were called in who identified seven reptile species. Seized reptiles will be sent back to Kuala Lumpur | Photo from ANI By Prasidha Narayan: Custom officials seized exotic pythons and lizards at Chennai international airport on Thursday. The officials arrested two persons in a case of smuggling after they recovered the exotic reptiles from their possession. The Air Intelligence Unit (AIU) of Chennai Customs on Thursday, noticed two male passenger walking supiciously in the arrivals area at the airport. The officials noticed that the passengers walked hurriedly after they checked their luggage in. They carried a stroller bag each. advertisement But soon they were intercepted at the exit. The passengers were identified as Mohammad Parvaez (36) of Ramnad distict and Mohammad Akbar (28) of Sivaganga district of Tamil Nadu. The two had arrived from Kuala Lumpur, Malaysia. They were questioned and their bags were checked. The officials found in their bag a plastic toy hidden in chocolates. When the toys were cracked open, some cloth bags tied with rope were found. These bags contained the exotic reptiles. The two accused told the customs officials that they were given the bags by someone in Kuala Lumpur and they were given instructions to handover the bags to a person in Chennai who would identify them. They were taken outside the airport but no one turned up to receive the bags even after waiting for a considerable time. To identify the reptile species, forest officers of wildlife division were called in. Seven reptile species were identified: One green tree python (Morelia viridis) and one scrub python (Morelia amethistina) - both natives of Australia and not covered under Convention on International Trade in Endangered Species (CITES). Two black tree monitor lizards (Varanus beccarii). Five emerald tree monitor lizards (Varanus prasimus) Two blue spotted tree monitor lizard (Varanus macraei). One Reisinger tree Monitor (Varanus reisingeri) one Four sailfin lizard (Hydrosaurus species) - The lizards are natives of Indonesia, Papua New Guinea and Phillipines and fall under CITES Appendix II. A team of veterinary doctors were called from Arignar Anna Zoological Park which inspected and found the reptiles to be in healthy condition. The animal quarantine officials recommended to deport the wildlife species back to the countries of origin as the passenger did not have any NOC or Directorate General of Foreign Trade (DGFT) license for import into India. The wildlife species were seized under the provisions of Customs Act 1962 read with FT D&R Act. Both the passengers were detained. The seized reptiles will be sent back to Kuala Lumpur. --- ENDS ---']
+
+
+snakes----SP.COMMON
+
+lizards----SP.COMMON
+
+seized----CRIME.CAT
+
+Chennai airport----LOC.EXACT
+
+Kuala Lumpur----ROUTE.DEST
+
+Custom officials----AUTH.SEIZE
+
+seized----CRIME.CAT
+
+pythons----SP.COMMON
+
+lizards----SP.COMMON
+
+Chennai international airport----LOC.EXACT
+
+Thursday----DATE
+
+arrested----CRIME.CAT
+
+two----SUS.NUMBER
+
+Air Intelligence Unit (AIU)----AUTH.SEIZE
+
+Chennai Customs----AUTH.SEIZE
+
+Thursday----DATE
+
+stroller bag----CONCEALMENT_METHOD
+
+Mohammad Parvaez----SUS.NAME
+
+36----SUS.AGE
+
+Ramnad distict----SUS.LOC
+
+Mohammad Akbar----SUS.NAME
+
+28----SUS.AGE
+
+Sivaganga----SUS.LOC
+
+Kuala Lumpur, Malaysia----SUS.LOC
+
+plastic toy----CONCEALMENT_METHOD
+
+hidden in chocolates----CONCEALMENT_METHOD
+
+exotic reptiles----SP.COMMON
+
+forest officers of wildlife division----AUTH.MISC
+
+green tree python----SP.SPECIFIC
+
+scrub python----SP.SPECIFIC
+
+black tree monitor lizards----SP.SPECIFIC
+
+Varanus beccarii----SP.SPECIFIC
+
+Five----QTY
+
+emerald tree monitor lizards----SP.SPECIFIC
+
+Varanus prasimus----SP.SPECIFIC
+
+blue spotted tree monitor lizard----SP.SPECIFIC
+
+Varanus macraei----SP.SPECIFIC
+
+One----QTY
+
+Reisinger tree Monitor----SP.SPECIFIC
+
+Varanus reisingeri----SP.SPECIFIC
+
+one----QTY
+
+Four sailfin lizard----SP.SPECIFIC
+
+Both the passengers were detained. The seized reptiles will be sent back to Kuala Lumpur----OUTCOME

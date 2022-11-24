@@ -1,0 +1,17 @@
+
+['The Fox and The Grapes Story with Moral\nThe fox and the grapes story for children is a famous story with a moral. The story is about a fox and a bunch of grapes which it sees hanging. So what does it do to get the grapes and is the fox successful in its endeavour? Here is the fox and grapes full story in easy and simple English. The Fox and The Grapes Story in English One afternoon, a fox which was out for a walk in the jungle came across a bunch of grapes hanging. Its mouth watered at the very sight of the grapes. The fox thought to himself that if it could get the bunch of grapes, it would be just the thing to quench its thirst in the sweltering heat of the afternoon. It jumped high to reach the bunch of grapes but failed. It tried again and again, but the fox missed it each time. After several failed attempts, the fox gave up and walked away saying that the grapes were too sour. What is The Moral of The Fox and The Grapes Story? The sour grapes story for kids taken from Aesop’s fables “The fox and the grapes” is a popular story having a moral. The lesson that we can learn through this interesting story is that it is natural for us to dislike or scorn something that is not within our reach. This short story also teaches us to work hard to achieve our goals instead of pretending that it is not worth the try. Also Read: Best Short Animal Stories for Kids Interesting Tales of Panchatantra for Your Children Short Moral Stories for Kids Popular Fairy Tale Stories for Children Best Akbar and Birbal Stories for Kids']
+
+
+Fox----SP.COMMON
+
+Grapes----SP.COMMON
+
+fox----SP.COMMON
+
+grapes----SP.COMMON
+
+afternoon----DATE
+
+fox----SP.COMMON
+
+grapes----SP.COMMON

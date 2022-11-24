@@ -1,0 +1,9 @@
+
+['In this Village in Maharashtra, Residents Co-Exist With Snakes Under One Roof\nIndia is known for its diverse traditions and culture. It may sound strange, but a village in Maharashtra has a unique tradition where the villagers live with snakes under one roof without any fear. In Shetpal village under Mohol taluka of Solapur district, the residents not only worship the snakes but they also reside with them without any apprehension. Nearly 2600 villagers live in this village, located 200 km from Pune, and no incident of snakebite has been reported from here yet. The villagers claim that the reptiles are harmless anyone fond of snakes can visit this hamlet. Vsitors can offer the snakes milk or egg at the residence of any of the villagers. The residents of Shetpal village don’t hesitate to cohabit with the snakes. The poisonous reptiles are welcome in every home and are free to roam around the hamlet. Snakes are considered pets by the residents of Shetpal village and no one is afraid of them. In fact, the villagers have created a specific corner in their homes, especially for the cobras, where they can come and dwell at any time. Even while building a new house the villagers include a dedicated corner for the snakes where they can visit and be worshiped or offered milk. This special corner in the house is called devasthanam, according to a Times of India report. Children in the village are also fearless of snakes because they have been raised in the presence of the poisonous reptiles. The children play with them and also take them to school. The snakes also roam around the village freely and no villager harms them. Every year on Nag Panchami, Hindu residents of the village worship the snakes and offer them milk to seek their blessings. Read all the Latest News , Breaking News , watch Top Videos and Live TV here.']
+
+
+Maharashtra----LOC.STATE
+
+Snakes----SP.COMMON
+
+Shetpal village----LOC.EXACT

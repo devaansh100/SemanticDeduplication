@@ -1,0 +1,69 @@
+
+['Indore: Hunters roaming in search of prey caught in Nayapura forest\nForest department personnel with two hunters | Indore (Madhya Pradesh): Two hunters roaming in search of prey were caught by foresters after chasing for over a kilometre. There were six alleged hunters in all, but four of them jumped from the car and fled. The two alleged hunters were arrested and were found in possession of guns, shrapnel and explosive material found in some types of guns used for hunting animals. The team caught Ramcharan and Vishnu, while their other companions fled. A case related to animal poaching has been reported in Indore. In Nayapura forest area of Indore range, forest workers caught two hunters who came in search of hunt after chasing them for about one kilometre. Shrapnel, gunpowder and weapons were recovered from the accused. The van in which the hunters came to hunt has also been seized. The arrested accused are said to be habitual hunters. SDO of forest department AK Srivastava said during night patrol, five-six people were seen travelling in a Maruti van on Ghudia Road from Simrol to Uday Nagar. They were heading towards Reserve Jungle 688. When they were instructed to stop by a team of forest officials, the accused tried to flee, raising suspicion. On this, a team of foresters followed them with a car. After chasing about one kilometre, after taking over his car, the team put forward their car, then they stopped the van. As soon as the van stopped, about four persons jumped out and escaped. The team caught the driver named Vishnu and another Ramcharan from the vehicle. The rest escaped with guns. When the car was searched, different pieces of iron shrapnel, gunpowder were found. “They are all used in animal hunting and of course, these people entered the forest with the intention of hunting,” Srivastava said. The accused were brought to office of forest department at Navlakha on Monday night. Court challan will be presented. Previous records of the accused are also being searched to ensure proper investigation.']
+
+
+Hunters----SUS.AFFIL
+
+Nayapura forest----LOC.EXACT
+
+two----SUS.NUMBER
+
+hunters----SUS.AFFIL
+
+Indore----LOC.CITY
+
+Madhya Pradesh----LOC.STATE
+
+Two----SUS.NUMBER
+
+hunters----SUS.AFFIL
+
+six----SUS.NUMBER
+
+hunters----SUS.AFFIL
+
+possession----CRIME.CAT
+
+guns----ITEM
+
+shrapnel----ITEM
+
+explosive material----ITEM
+
+Ramcharan----SUS.NAME
+
+Vishnu----SUS.NAME
+
+Nayapura forest area of Indore range----LOC.EXACT
+
+two----SUS.NUMBER
+
+Shrapnel----ITEM
+
+gunpowder----ITEM
+
+weapons----ITEM
+
+van----ITEM
+
+hunters----SUS.AFFIL
+
+SDO----OFF.DESIG
+
+forest department----AUTH.SEIZE
+
+AK Srivastava----OFF.NAME
+
+Vishnu----SUS.NAME
+
+Ramcharan----SUS.NAME
+
+rest escaped with guns----OUTCOME
+
+iron shrapnel----ITEM
+
+gunpowder----ITEM
+
+hunting----CRIME.CAT
+
+forest department----AUTH.SEIZE

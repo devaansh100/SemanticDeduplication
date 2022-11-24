@@ -1,0 +1,11 @@
+
+['Leopard spotted in airport area, Daman on alert\nA leopard has been sighted in the airport area of the Union Territory of Daman, prompting the district authorities to issue an advisory asking people in the area to be vigilant until the big cat is caught. Forest department sources said that this was the first time a leopard was being spotted in Daman and speculated that it probably entered from Gujarat’s Valsad district, where leopards are seen. While sources in the Daman forest department said that the leopard was spotted entering the airport premises in footage captured by a CCTV camera, Daman Deputy Collector Mohit Mishra said that forest guards were on alert, monitoring CCTV footage regularly and trying to locate the leopard. Officials suspect the leopard is still inside the airport area and have placed two cages to catch it. Meanwhile, the Daman administration has advised citizens not to venture out of the house alone at night and to protect small children and domestic pets. People have also been asked to avoid sleeping outside their house or in open terrace areas. Tourists and walkers have been advised not to venture into lonely and isolated spots till the animal is caught.']
+
+
+Leopard----SP.COMMON
+
+airport area----LOC.EXACT
+
+leopard----SP.COMMON
+
+airport area----LOC.EXACT

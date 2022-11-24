@@ -1,0 +1,23 @@
+
+['Decomposed Elephant Carcass Found At Badamba Forest In Cuttack\nCuttack: In a saddening incident, a decomposed body of a tusker has been recovered from Badamba forest in Cuttack district. Reportedly, the incident came to light while the Special Task Force (STF) team went to the forest for an investigation into the death of another elephant in the Chandragiri reserve forest. The elephant’s decomposed body was found after digging deep into the surface area. The remains of the deceased elephant will be sent to the Forensic Lab for further testing. Meanwhile, the autopsy report of the elephant is awaited. The STF has said that strict action would be taken into the incident. It is being suspected that the hunters attacked the tusker, the jumbo was buried on the spot. Earlier on Friday, the decomposed body of another elephant was also recovered from the Badamba forest. A high-level investigation into the incident has been demanded and the forest department has been blamed for the elephants’ death.']
+
+
+Elephant----SP.COMMON
+
+Carcass----ITEM
+
+Badamba Forest----LOC.EXACT
+
+Cuttack----LOC.DISTRICT
+
+Badamba forest----LOC.EXACT
+
+Cuttack----LOC.DISTRICT
+
+Special Task Force (STF)----AUTH.SEIZE
+
+remains of the deceased elephant will be sent to the Forensic Lab----OUTCOME
+
+autopsy report of the elephant----OUTCOME
+
+STF----AUTH.SEIZE

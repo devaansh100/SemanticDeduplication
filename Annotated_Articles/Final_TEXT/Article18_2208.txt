@@ -1,0 +1,15 @@
+
+['Kids kill bird by shooting stones in Mumbai; actor Sayaji Shinde reports them to cops\nMUMBAI: Well-known actor in Marathi and Hindi films, Sayaji Shinde , was shocked to notice a group of boys gathered on top of the busy Ghatkopar-Mankhurd flyover on Saturday, shooting stones at low-flying birds with catapults.After the teenage boys managed to injure a heron, the actor stopped his car and video recorded the incident, while also asking the youngsters why they had harmed the bird."The boys ran down the flyover with the injured bird. When I asked the boy carrying the bird why they had done this, he gave me a flimsy excuse that it is to make \'medicine\' for an ailing family member. I have brought this to the attention of Mumbai police since it is dangerous for anyone to be standing on this bridge, leave alone killing birds," Shinde told TOI.He further said: "The injured bird was struggling to free itself from the boy\'s hands. The scene was upsetting. The local police personnel have also inquired with me in order to know the location where the birds were being harmed."Animal activist Sneha Visaria of Just Smile Charitable Trust, commented: "After this new Ghatkopar-Mankhurd flyover opened up last year, the coastal water birds like herons, egrets etc. tend to fly just a few feet above the bridge. So, some miscreants have got this evil idea to poach the birds by standing on this flyover. Hope the authorities take action."Wildlife activist of Resqink Association for Wildlife Welfare (RAWW), Pawan Sharma, said: "I am informing the forest officials about the video evidence gathered by the actor Sayaji Shinde. This is serious, since herons are protected species in Schedule IV of the Wildlife (Protection) Act, 1972. There is a green mangrove belt close to this flyover, along the Mankhurd-Vashi toll naka road. Hence, many bird species can be seen here."Animal welfare officer appointed by the high court to monitor animal rights issues in the state, Dr Nandini Kulkarni, commented: "It is sad and disturbing that the future citizens of India are doing such illegal activities like killing birds, possibly for consumption. Sometimes, those who indulge in animal cruelty later commit more serious offences on fellow humans. I commend Sayaji Shinde for showing sensitivity and stopping his car on the flyover to try and talk to these boys."']
+
+
+Kids----SUS.AFFIL
+
+Mumbai----LOC.CITY
+
+boys----SUS.AFFIL
+
+Ghatkopar-Mankhurd flyover----LOC.EXACT
+
+Saturday----DATE
+
+heron----SP.COMMON

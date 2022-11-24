@@ -1,0 +1,15 @@
+
+['Sambar deer strays into residential area\nAn 18-month-old female sambar deer that strayed into the residential areas in Palayamkottai in Tirunelveli city was rescued by the forest department personnel. It was later released in the Gangaikondan spotted deer sanctuary on the outskirts of the city. The deer was spotted by residents of Rajarajeshwari Nagar near the New Bus Stand on Tuesday morning.Based on their alert, the forest department began a rescue mission and trapped the animal in the house of an industrialist after it initially dodged the officials by galloping over the compound walls and fences of houses and vacant plots.Department personnel suspected that the deer could have strayed away from the Sivanthipatti hillock or the forest area towards Cheranmahadevi. The deer suffered minor cut injuries when it jumped over barbed wire fences. It was treated before it was released in the sanctuary hours later, after ensuring that it was fit for release.']
+
+
+Sambar deer----SP.SPECIFIC
+
+sambar deer----SP.SPECIFIC
+
+rescued----CRIME.CAT
+
+forest department----AUTH.SEIZE
+
+Tuesday----DATE
+
+morning.Based----TIME

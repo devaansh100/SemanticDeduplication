@@ -1,0 +1,35 @@
+
+['Curious Case of Bengal Kangaroos: Residents Spot Trafficked Marsupials in Forested Areas of West Bengal’s Siliguri\nKangaroo. (IANS) As if illegal trading of pangolin scales, rhino horns, and elephant tusks weren\'t enough of a concern, India\'s wildlife crime bureau is now tackling the case of trafficking of a whole new set of exotic species. In March, two people were caught red-handed while trying to smuggle a kangaroo into West Bengal\'s Alipurduar district. On Friday, four more kangaroos calves were rescued, and a carcass was found near Siliguri, West Bengal. The joeys were also spotted by several residents. Here’s footage of the kangaroos seen foraging on the grass as people try to record their videos. While the forest department is yet to identify the criminals, foresters suspect a "Mizoram farm" to be involved in the case. As per officials, such repeated appearance of these red kangaroos — native to only Australia — in India points towards illegal captive breeding. However, so far, such illegal breeding activities were thought to be restricted only to Thailand and Indonesia farms. In an interview with the Times of India, a forester said, "In case of the red kangaroo rescue on March 12, the transport order was given by Indore zoo, and the animal was reportedly brought from a farm in Mizoram". However, senior officials in Mizoram have denied knowing the existence of such a farm in the state. Advertisement The Ministry of Environment, Forest and Climate Change issued a Voluntary Disclosure Scheme in 2020 to regulate the exotic animal trade. Under the scheme, Indians could declare possession of any exotic live species without any documentation within a certain period. During TOI\'s conversation with Nihal Parulekar, the curator of Indore zoo, he said that the farm owner in Mizoram had registered the kangaroo under the Parivesh portal of the Ministry of Environment & Forest Department since it’s an exotic animal. "Since it\'s a donation and the details are already there on the Parivesh portal, we didn\'t think of getting the animal through permission from the Central Zoo Authority (CZA). We issued the transport order, and the two persons held, Imran Sk and Jahid Sk, were mere transporters," said Parulekar, adding that legal papers will be produced in court in due time. However, a Bengal forest department official has clarified that approval from CZA is mandatory. Currently, the three rescued joeys have been rehabilitated in North Bengal Safari Park. Further investigation of this case is ongoing. (With Inputs from Times of India) ** For weather, science, and COVID-19 updates on the go, download The Weather Channel App (on Android and iOS store). It\'s free!']
+
+
+Bengal Kangaroos----SP.SPECIFIC
+
+West Bengal’s----LOC.STATE
+
+Siliguri----LOC.DISTRICT
+
+pangolin----SP.COMMON
+
+scales----ITEM
+
+rhino----SP.COMMON
+
+horns----ITEM
+
+elephant----SP.COMMON
+
+tusks----ITEM
+
+two----SUS.NUMBER
+
+calves----ITEM
+
+carcass----ITEM
+
+Siliguri----LOC.DISTRICT
+
+Mizoram farm----SUS.AFFIL
+
+Imran Sk----SUS.NAME
+
+Jahid Sk----SUS.NAME

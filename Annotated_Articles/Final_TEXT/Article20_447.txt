@@ -1,0 +1,21 @@
+
+["Forest guard in police net for trading in rhino horn\nBokakhat: The illegal trade in rhino horns is not new to the state of Assam. But this time it is one of the forest guards who has been arrested for his involvement in the illegal trade. The Bokakhat Police arrested Shashi Doley, a forest guard in Burapahar's Chekni forest camp. Doley is the brother of rhino poacher, Ganesh Doley, who is also known to be an Asom Gana Parishad leader, who has even served jail term. The police seized the rhino horns from two persons, who were detained for the same. It is during the interrogation of these people that the name of the forest guard was revealed. The arrested persons said that the seized rhino horns were given to them by the forest guard, Shashi Doley. Two other forest guards were arrested in September for the illegal killing of one-horned rhinos. Bokakhat Police and Kaziranga forest officials had last month busted a rhino horn smugglers' racket near Kaziranga National Park. Seven people were arrested.   Also Read Another encounter in Kashmir, 3 terrorists killed  "]
+
+
+Forest guard----SUS.AFFIL
+
+horn----ITEM
+
+forest guards----SUS.AFFIL
+
+arrested----CRIME.CAT
+
+Bokakhat Police----AUTH.SEIZE
+
+arrested----CRIME.CAT
+
+Shashi Doley----SUS.NAME
+
+forest guard----SUS.AFFIL
+
+Ganesh Doley----SUS.NAME

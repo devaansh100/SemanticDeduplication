@@ -1,0 +1,81 @@
+
+['Second pangolin trafficking racket busted in two months in Odisha\nBy Express News Service BHUBANESWAR: Athagarh forest division busted another inter-state pangolin smuggling racket and arrested three accused, including mastermind Mohammed Ali (32). The carcass of a female pangolin, packed in a plastic bag and weighing 7 kg, has been recovered from their possession. All the three accused, who have been identified, are from Cuttack. Ali is from Buxi Bazar, while Santosh Das (48) and Hadibandhu Jena (35) are from Kainmundi and Malbiharipur in Banki. Athagarh DFO Sasmita Lenka said Santosh and Hadibandhu were allegedly smuggling the endangered species and its scales to Ali, who then used to transport it to Kolkata and other places outside State.The team had arrested Santosh and Hadibandhu earlier in the day and after extracting information from them about the inter-state trade, the officials struck a deal with Ali to trade the pangolin scales. Accordingly, photos and visuals of the pangolin scales were sent to him. Ali decided to meet them at Naraj bridge where the Athagarh forest officials laid in waiting and nabbed him soon after he arrived. The division will produce the three accused before Athagarh SDJM Court on Saturday and plans to seek five-day remand. This is the second pangolin trafficking racket Athagarh forest team has busted in a span of two months. The total number of persons arrested in connection with the pangolin trafficking in the division now stands at 19. Previously, Athagarh team had busted an international and inter-state pangolin smuggling racket engaged in online trading of the endangered species and arrested 16 persons. The case is now being probed by the WCCB. BHUBANESWAR: Athagarh forest division busted another inter-state pangolin smuggling racket and arrested three accused, including mastermind Mohammed Ali (32). The carcass of a female pangolin, packed in a plastic bag and weighing 7 kg, has been recovered from their possession. All the three accused, who have been identified, are from Cuttack. Ali is from Buxi Bazar, while Santosh Das (48) and Hadibandhu Jena (35) are from Kainmundi and Malbiharipur in Banki. Athagarh DFO Sasmita Lenka said Santosh and Hadibandhu were allegedly smuggling the endangered species and its scales to Ali, who then used to transport it to Kolkata and other places outside State.The team had arrested Santosh and Hadibandhu earlier in the day and after extracting information from them about the inter-state trade, the officials struck a deal with Ali to trade the pangolin scales. Accordingly, photos and visuals of the pangolin scales were sent to him. Ali decided to meet them at Naraj bridge where the Athagarh forest officials laid in waiting and nabbed him soon after he arrived. The division will produce the three accused before Athagarh SDJM Court on Saturday and plans to seek five-day remand. This is the second pangolin trafficking racket Athagarh forest team has busted in a span of two months. The total number of persons arrested in connection with the pangolin trafficking in the division now stands at 19. Previously, Athagarh team had busted an international and inter-state pangolin smuggling racket engaged in online trading of the endangered species and arrested 16 persons. The case is now being probed by the WCCB.']
+
+
+pangolin----SP.COMMON
+
+Odisha----LOC.STATE
+
+Athagarh forest division----AUTH.SEIZE
+
+pangolin----SP.COMMON
+
+three----SUS.NUMBER
+
+Mohammed Ali----SUS.NAME
+
+32----SUS.AGE
+
+carcass----ITEM
+
+pangolin----SP.COMMON
+
+packed in a plastic bag----CONCEALMENT_METHOD
+
+7 kg----QTY
+
+three----SUS.NUMBER
+
+Cuttack----SUS.LOC
+
+Buxi Bazar----SUS.LOC
+
+Santosh Das----SUS.NAME
+
+48----SUS.AGE
+
+Hadibandhu Jena----SUS.NAME
+
+35----SUS.AGE
+
+Kainmundi and Malbiharipur----SUS.LOC
+
+Santosh----SUS.NAME
+
+Kolkata----ROUTE.DEST
+
+Athagarh forest division----AUTH.SEIZE
+
+pangolin----SP.COMMON
+
+three----SUS.NUMBER
+
+Mohammed Ali----SUS.NAME
+
+32----SUS.AGE
+
+carcass----ITEM
+
+a----QTY
+
+pangolin----SP.COMMON
+
+packed in a plastic bag----CONCEALMENT_METHOD
+
+7 kg----QTY
+
+Cuttack----SUS.LOC
+
+Buxi Bazar----SUS.LOC
+
+Santosh Das----SUS.NAME
+
+48----SUS.AGE
+
+Hadibandhu Jena----SUS.NAME
+
+35----SUS.AGE
+
+Kainmundi and Malbiharipur in Banki----SUS.LOC
+
+Santosh----SUS.NAME

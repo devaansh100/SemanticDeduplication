@@ -1,0 +1,71 @@
+
+['STF Rescues One Pangolin In Kandhamal, Nabs Two Wildlife Criminals\nBhubaneswar: The Special Task Force (STF) of the Odisha Crime Branch rescued a pangolin with the arrest of two wildlife criminals during a raid in Kandhamal district on Wednesday. On the basis of reliable information regarding illegal possession of live Pangolin by wildlife criminals, STF team with the help of Baliguda Forest Range officials under Baliguda Forest Division conducted a raid near Jakikia village under Baliguda police limits yesterday. As a result, two accused persons namely Sibananda Mallick of Sonubadi under Baliguda police limits and Rastra Bhoi of Kalipushingtagabaz village under Barakhamawas police limits were apprehended. During the search, one live Pangolin and other incriminating materials were seized from their possession. As they could not produce any valid authority in support of the possession of live Pangolin, they were detained and handed over to Baliguda forest officials for necessary legal action at their end. The live Pangolin was also handed over to DFO, Baliguda for safe custody while the investigation is on. During the last one year, a special drive against wildlife criminals/poachers have been launched, STF has seized as many as 20 leopard skins, 11 elephant tusks, two deer skins, seven live pangolins, and 15 kg pangolin scales and arrested 45 wildlife criminals.']
+
+
+STF----AUTH.SEIZE
+
+One----QTY
+
+Pangolin----SP.COMMON
+
+Kandhamal----LOC.DISTRICT
+
+Nabs----CRIME.CAT
+
+Two----SUS.NUMBER
+
+Special Task Force (STF)----AUTH.SEIZE
+
+rescued----CRIME.CAT
+
+a----QTY
+
+pangolin----SP.COMMON
+
+two----SUS.NUMBER
+
+raid----CRIME.CAT
+
+Kandhamal district----LOC.DISTRICT
+
+Wednesday----DATE
+
+reliable information----DETECTION_METHOD
+
+illegal possession----CRIME.CAT
+
+Pangolin----SP.COMMON
+
+STF----AUTH.SEIZE
+
+Baliguda Forest Range officials----AUTH.SEIZE
+
+near Jakikia village----LOC.EXACT
+
+yesterday----DATE
+
+two----SUS.NUMBER
+
+Sibananda Mallick----SUS.NAME
+
+Sonubadi----SUS.LOC
+
+Rastra Bhoi----SUS.NAME
+
+Kalipushingtagabaz village----SUS.LOC
+
+one----QTY
+
+Pangolin----SP.COMMON
+
+seven----QTY
+
+pangolins----SP.COMMON
+
+15 kg----QTY
+
+pangolin----SP.COMMON
+
+scales----ITEM
+
+45 wildlife----SUS.NUMBER

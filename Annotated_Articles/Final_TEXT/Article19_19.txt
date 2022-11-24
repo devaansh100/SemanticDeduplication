@@ -1,0 +1,11 @@
+
+['Gujarat: Leopard cub adopted by lioness dies\nLeopard cub A leopard cub nicknamed Mowgli because of the unusual family that chose to bring it up died on Monday. Forest department officials said that the cub was suffering from congenital femoral hernia which lead to its death. The leopard cub was first spotted by a forest staff at the end of December, being reared by a lioness. It continue to tag along with the lioness and her two cubs. The forest department that had spotted the unusual family in the Gir-West division had at that time called it an unusual phenomenon. The leopard cub was one and a half month old at that time Deputy Conservator of Forest, Gir-West division Dheeraj Mittal said that since it was a congenital condition there was nothing much the authorities could do anyway. He however said the 45-day long association of the leopard cub with the lioness and her two cubs were one of the most amazing events. "The two lion cubs are meanwhile doing fine," said Mittal It should be noted that after the unusual pride was first spotted by the department it had also shared pictures and videos of the bond between the lioness and the leopard cub. The department and also ensured that the actual location of the family was not revealed so as to keep curious visitors away. It should be noted that lions and leopards happens to be arch enemies and the former often end up attacking and killing the young ones of the latter. After being first spotted, the department had also reported that the lioness took extra care of the leopard cub and also made efforts to hide it from the lions in the area. How a leopard cub could understand a lioness was also a matter of surprise for the forest department officials. The department could not find the whereabouts of the mother leopard and it was suspected that she might have abandoned the cub.']
+
+
+Leopard----SP.COMMON
+
+Leopard----SP.COMMON
+
+Mowgli----SUS.NAME
+
+Monday----DATE

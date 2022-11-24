@@ -1,0 +1,14 @@
+
+['4km Road Closed For Motorists After Tiger Attack In R’bore Park\nJaipur: After an unidentified big cat attacked a villager at Phalodi range of Ranthambore National Park (RNP) reserve, the forest department has restricted the entry of motorists. DFO Mahendra Sharma said taking a precautionary measure, a 4-km road stretch passing through the forest area between Bodal and Lasana has been closed for the motorists. Sharma said, “At both the ends, we have deployed our staff members and not allowing the villagers to travel on the road on bike. It’s an old road, which was used by the villagers.”Sources said the big cat had not been identified, but it’s a territory of tigress T-79. Teams are also deployed to identify the aggressive big cat. On Saturday, the tiger attacked three bike-borne villagers when they were returning to their village in the evening. “The big cat lurking in the bushes charged at the villagers. They fell from the bike. Luckily , no one received the serious injuries.”']
+
+
+Tiger----SP.COMMON
+
+R’bore Park
+----LOC.EXACT
+
+big cat----SP.COMMON
+
+Phalodi range of Ranthambore National Park (RNP) reserve----LOC.EXACT
+
+forest department----AUTH.SEIZE

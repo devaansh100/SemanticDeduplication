@@ -1,0 +1,67 @@
+
+['Police seize 2.36kg ambergris; 2 held\nTrichy: A police team from Nagapattinam district have seized 2.36kg of ambergris or whale vomit near Vedaranyam. Two people have been arrested on charges of attempting to smuggle the wax-like substance produced in the digestive tract of whales, which can’t be kept or smuggled, under the Wildlife Protection Act.On a tip, a team from the district Q branch police headed by inspector Arun Prasad was conducting a vehicle check on Vellapallam Coast Road in Vedaranyam. The team noticed two people on the road with a bag, and they questioned them. During the questioning, the two, S Balaguru, 37, and K Sathyanantham, 42, of Vellapallam fishing hamlet near Vedaranyam, told police that they were waiting for their friend, who would be coming from Karaikal, to handover the bag. Police checked the bag and recovered the ambergris weighing around 2.36kg. According to forest officials, the substance is worth around Rs 2.5 crore.Police arrested the two and produced them before the Nagapattinam Judicial Magistrate Court, which remanded them in judicial custody and sent them to Tharangambadi jail on Friday. The substance was handed over to the forest department in Nagapattinam.']
+
+
+Police----AUTH.SEIZE
+
+seize----CRIME.CAT
+
+2.36kg----QTY
+
+ambergris----ITEM
+
+2----SUS.NUMBER
+
+Nagapattinam----LOC.DISTRICT
+
+seized----CRIME.CAT
+
+2.36kg----QTY
+
+ambergris----ITEM
+
+whale----SP.COMMON
+
+vomit----ITEM
+
+Vedaranyam----LOC.DISTRICT
+
+Two----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+attempting to smuggle----CRIME.CAT
+
+tip----DETECTION_METHOD
+
+district Q branch police----AUTH.SEIZE
+
+inspector----OFF.DESIG
+
+Arun Prasad----OFF.NAME
+
+vehicle check----DETECTION_METHOD
+
+Vellapallam Coast Road----LOC.EXACT
+
+Vedaranyam----LOC.DISTRICT
+
+bag----CONCEALMENT_METHOD
+
+S Balaguru----SUS.NAME
+
+37----SUS.AGE
+
+K Sathyanantham----SUS.NAME
+
+42----SUS.AGE
+
+Vellapallam fishing hamlet near Vedaranyam----SUS.LOC
+
+ambergris----ITEM
+
+2.36kg----QTY
+
+Rs 2.5 crore.Police----VALUE
+
+two----SUS.NUMBER

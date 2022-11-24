@@ -1,0 +1,35 @@
+
+['Gurugram: Snake charmers held for snatching woman\'s bracelet\nGURUGRAM: Two snake charmers dressed as \'sadhus\' were arrested for allegedly snatching a gold bracelet from a woman after threatening her with the snakes, police said on Thursday.R Rohit Nath and Farman Nath , both residents of Sapera Basti in Delhi, were arrested from Gwal Pahari area on Wednesday evening, they said.Two snakes and the stolen gold bracelet were recovered from their possession, they said.The incident happened Wednesday morning when the victim, Megha Jaitley , came out of her car after parking it outside a coffee outlet in Suncity Golf Course , and one of the accused holding a snake asked her for money, they said."I gave him Rs 100 and soon after, another sadhu, also carrying a snake, came there asking for money. When I refused, he asked for my gold bracelet and snatched it," Jaitley alleged in her complaint.She got scared by the snakes and the accused ran away with the bracelet, she said.An FIR was registered at Sector 53 Police Station against the accused, police said.Police is questioning the accused, District Commissioner of Police ( DCP ) East Virendrer Vij said.Issuing an advisory to the public, the DCP said, "The possibility cannot be ruled out that more such monks are roaming in the city with a view to commit such crimes. Don\'t be afraid of them and inform the police immediately."We appeal the general public to be aware of such criminals who come dressing up as monks, he said.']
+
+
+Snake charmers----SUS.AFFIL
+
+woman----SUS.GENDER
+
+bracelet----ITEM
+
+Two----SUS.NUMBER
+
+gold bracelet----ITEM
+
+Rohit Nath----SUS.NAME
+
+Farman Nath----SUS.NAME
+
+Sapera Basti in Delhi----SUS.LOC
+
+Gwal Pahari area----LOC.EXACT
+
+Wednesday----DATE
+
+evening----TIME
+
+snakes----SP.COMMON
+
+gold bracelet----ITEM
+
+Wednesday----DATE
+
+morning----TIME
+
+Megha Jaitley----SUS.NAME

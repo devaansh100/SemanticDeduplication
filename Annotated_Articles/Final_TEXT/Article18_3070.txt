@@ -1,0 +1,13 @@
+
+['Viral video: Construction workers \'cleverly\' use digger to rescue dog drowning in an irrigation channel\nConstruction workers use digger to rescue drowning dog KEY HIGHLIGHTS Men working near an irrigation channel in Pasaje Canton responded after they received a radio alert about a dog being carried down fast-moving water. The canal where the dog was stuck appeared to be located next to the area where the crew was working.  One of the workers, identified as Abel Murillo, didn\'t waste any time and climbed into the scoop of a digger.  A group of construction workers has earned praise from social media users for cleverly using their digger to rescue a dog from drowning in an irrigation channel in Ecuador. Men working near an irrigation channel in Pasaje Canton responded after they received a radio alert about a dog being carried down fast-moving water. The canal where the dog was stuck appeared to be located next to the area where the crew was working. One of the workers, identified as Abel Murillo , didn\'t waste any time and climbed into the scoop of a digger. Even before the dog came into view, the construction workers began calling and whistling to the canine in a bid to get its attention. As the dog got closer, Murillo positioned himself right above the channel and waited for the stream to carry the animal toward him. He managed to catch the dog on the very first attempt and his colleagues manoeuvred the machine back onto dry land. Watch video: "The dog fell into the irrigation canal. And from the further back, they warned us that the dog was drowning, and so we proceeded to rescue him," said the workers after the rescue. "The dog was almost about to let go because, with the force of the water, the dog hit the bucket and wanted to go under it. Then, what I did was to grab the dog and it bit me but only with a slight bite," Murillo told Mail Online. Following the rescue, the workers raised some money to take the dog to the vet. The dog was treated for inflammation and an infection.']
+
+
+digger----TRANSPORT_MODE
+
+radio alert----DETECTION_METHOD
+
+Abel Murillo----SUS.NAME
+
+radio alert----DETECTION_METHOD
+
+Abel Murillo----SUS.NAME

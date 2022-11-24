@@ -1,0 +1,29 @@
+
+['Leopard dies after getting trapped in a snare at Rudraprayag\nDEHRADUN: An adult leopard died after struggling for hours to get itself out of a snare in Rampur village under Rudraprayag forest division The big cat was first spotted by three women from the village around 8.30 am on Wednesday. Seeing the leopard struggling to get out of the snare, the women rushed to their houses in a state of panic and dialed the forest officials who immediately reached the spot. However, the leopard couldn’t be saved and succumbed to the injuries inflicted on it by the thick snare wire.“Our teams reached the spot and darted the animal but we could see that it was already taking its final breaths. The big cat was exhausted as it might have struggled the whole night to get rid of the snare wire. Unfortunately, it was getting all the more tightened. It was one of the thickest snare wire I have seen so far. It was not meant for catching a deer or any other small animal. It was clearly meant for the leopard,” said Vaibhav Singh, DFO, Rudraprayag forest division.The forest officials have registered a case against two villagers. “We have already registered a case against two people under section 9 (hunting of animals) of the Wildlife Protection Act of 1973,” added Singh.The forest staff suspect that the possible causes behind putting a snare wire could be — revenge killing, poaching, or protection of the agricultural produce from wild boars. “The factors behind trapping may vary but the only thing we are sure of is that the culprits knew that the area was being frequented by that leopard. Only a probe can ascertain the exact cause,” said Singh.Earlier on February 5, a two-year-old leopard had also got caught in a snare trap in Narkota. However, the forest officials had succeeded to save the leopard. It was later released in the wild.']
+
+
+Leopard----SP.COMMON
+
+Rudraprayag----LOC.EXACT
+
+leopard----SP.COMMON
+
+snare----CRIME.CAT
+
+Rampur village----LOC.EXACT
+
+big cat----SP.COMMON
+
+8.30 am----TIME
+
+Wednesday----DATE
+
+leopard----SP.COMMON
+
+leopard----SP.COMMON
+
+division.The forest officials have registered a case against----OUTCOME
+
+two----SUS.NUMBER
+
+villagers----OUTCOME

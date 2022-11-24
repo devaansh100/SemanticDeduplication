@@ -1,0 +1,45 @@
+
+['Two held for keeping 2 red sand boas as pets on Palghar farm\nTwo men were arrested by the local crime branch, Palghar, on Tuesday night for keeping two red sand boas as pets on a farm for two years. The red sand boa, an endangered snake species having medicinal properties, is worth at least a few lakh rupees in the international smuggling market. It is one of the most sought-after species in the illegal wildlife trade and keeping it as a pet is illegal. The accused — Sunil Dhanwa, 46; and Pawan Bhoya, 39 — had kept the snakes as pets in a farm belonging to the former’s father, Pandurang, 65, at Pochade village, in Manor, Palghar. The accused were arrested following a tip-off and have been booked under sections 39(3) and 51 of the Wildlife Protection Act,1972, said senior inspector Jitendra Vankoti. They were remanded in police custody, he said. “One snake is around 53 inches long and weighs 4kg, while the other is 41 inches long and weighs 1kg. The value of the two snakes in the international smuggling market is ₹1.50 crore or more,” Vanakoti said, adding that the Manor police are now investigating the case. The snakes are found in Manor jungles and are a rare sight, he said. “We handed over the snakes to the forest department, Manor division, and they will release the reptiles into the jungles in Palghar district,” the official said.']
+
+
+Two----SUS.NUMBER
+
+2----QTY
+
+red sand boas----SP.SPECIFIC
+
+Palghar farm----LOC.EXACT
+
+Two----SUS.NUMBER
+
+men----SUS.GENDER
+
+arrested----CRIME.CAT
+
+local crime branch, Palghar,----AUTH.SEIZE
+
+Tuesday----DATE
+
+night----TIME
+
+two----QTY
+
+red sand boas----SP.SPECIFIC
+
+Sunil Dhanwa----SUS.NAME
+
+46----SUS.AGE
+
+Pawan Bhoya----SUS.NAME
+
+39----SUS.AGE
+
+Pandurang----SUS.NAME
+
+65----SUS.AGE
+
+Pochade village, in Manor, Palghar----SUS.LOC
+
+tip-off----DETECTION_METHOD
+
+booked under sections 39(3) and 51 of the Wildlife Protection Act,1972, said senior inspector Jitendra Vankoti. They were remanded in police custody----OUTCOME

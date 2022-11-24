@@ -1,0 +1,17 @@
+
+['Leopard trapped in wire noose rescued\nUdaipur: The team of the forest department on Sunday morning rescued a Leopard who was trapped in a wire noose set up by poachers. The leopard was hanging upside down in the bushes after it got stuck in the noose made of a motorcycle clutch cable. The incident occurred near a temple close to the Baghdara Nature Park in Udaipur . People, who came to visit the temple, heard the big cat roaring and informed the forest officials.According to rescue officer Lal Singh , the 12-year-old leopard got trapped at night when its leg got stuck in the noose.Singh said the leopard struggled to save his life but could not come out and kept hanging the whole night and as a result, its head started bleeding. The leopard was tranquilised and brought down. This is the second such incident of this year. On January 9, an 8-year-old leopard was found hanging by the noose in the Jaisamand area. TNN']
+
+
+Leopard----SP.COMMON
+
+forest department----AUTH.SEIZE
+
+Sunday----DATE
+
+morning----TIME
+
+Leopard----SP.COMMON
+
+leopard----SP.COMMON
+
+leopard----SP.COMMON

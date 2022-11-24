@@ -1,0 +1,29 @@
+
+['Watch: Passengers spot snake on a plane; AirAsia flight forced to divert\nWhat if the 2006 American action movie ‘Snakes on a plane’ became a reality? Pilot Hana Mohsin Khan shared on microblogging site Twitter, the experience on an Air Asia flight from Kuala Lumpur to Tawau in Malaysia, where a snake was spotted inside the airplane. The reptile was seen slithering into the illuminated area of the overhead baggage zone on the aircraft. However, NPR reports that the video first surfaced on TikTok, where it blew up with more than 2 million views. The Air Asia flight was made to divert route and make an unscheduled landing, the Malaysian budget carrier confirmed today. Watch the video below. Yikes! Snake on a plane! Either an escaped pet from passenger carry on/luggage or possibly climbed its way into the aircraft from the ground.  Air Asia Airbus A320-200,Kuala Lumpur to Tawau. This dude happily stayed inside the illuminated area till plane was diverted😂 pic.twitter.com/jqopi3Ofvp — Hana Mohsin Khan | هناء (@girlpilot_) February 12, 2022 As soon as Khan\'s tweet was shared on the social media site, it went viral and netizens were quick enough to link the incident with the Samuel L. Jackson cult classic "Snakes on a Plane", the creature\'s silhouette could be seen wriggling in the cabin\'s light fittings. Khan in the tweet analysed that the snake could have been someone\'s pet which has escaped from the baggage area or had climbed its way into the airplane. "Yikes! Snake on a plane! Either an escaped pet from passenger carry on/luggage or possibly climbed its way into the aircraft from the ground. Air Asia Airbus A320-200,Kuala Lumpur to Tawau. This dude happily stayed inside the illuminated area till plane was diverted😂" the tweet read. The video shows the reptile slithering inside the illuminated area of the plane, where it stayed till the flight was diverted. "AirAsia is aware of the incident that occurred on the flight from Kuala Lumpur to Tawau on Thursday. As soon as the captain was notified, the plane was diverted to Kuching to be disinfected," AirAsia\'s chief security officer Liong Tien Ling said in a statement to CNN Turk, adding that no passenger was injured in the incident. "At no time was the safety of guests or crew at any risk," the chief security officer told Channel News Asia. "This is a very rare incident which can occur on any aircraft from time to time." After the captain found out about the snake, he took "appropriate action" and landed in the city of Kuching -- 900 kilometres (560 miles) west of Tawau -- so the plane could be fumigated, AirAsia said. The passengers then boarded another flight to continue their journey. The incident, which the airline described as "very rare", took place last week aboard a flight from the capital Kuala Lumpur to Tawau, on the eastern coast of Borneo island.']
+
+
+snake----SP.COMMON
+
+plane----TRANSPORT_MODE
+
+Pilot----OFF.DESIG
+
+Hana Mohsin Khan----OFF.NAME
+
+Air Asia flight----TRANSPORT_MODE
+
+Kuala Lumpur----ROUTE.SRC
+
+snake----SP.COMMON
+
+airplane----TRANSPORT_MODE
+
+TikTok, where it blew up with more than 2 million views. The Air Asia flight was made to divert route and make an unscheduled landing, the Malaysian budget carrier confirmed today. Watch the video below. Yikes! Snake on a plane! Either an escaped pet from passenger carry on/luggage or possibly climbed its way into the aircraft from the ground.  Air Asia Airbus A320-200,Kuala Lumpur to Tawau. This dude happily stayed inside the illuminated area till plane was diverted😂 pic.twitter.com/jqopi3Ofvp — Hana Mohsin Khan | هناء (@girlpilot_) February 12, 2022 As soon as Khan's tweet was shared on the social media site, it went viral and netizens were quick enough to link the incident with the Samuel L. Jackson cult classic "Snakes on a Plane", the creature's silhouette could be seen wriggling in the cabin's light fittings. Khan in the tweet analysed that the snake could have been someone's pet which has escaped from the baggage area or had climbed its way into the airplane. "Yikes! Snake on a plane! Either an escaped pet from passenger carry on/luggage or possibly climbed its way into the aircraft from the ground. Air Asia Airbus A320-----DETECTION_METHOD
+
+Tawau----ROUTE.DEST
+
+Kuala----ROUTE.SRC
+
+Lumpur----ROUTE.SRC
+
+Thursday----DATE

@@ -1,0 +1,33 @@
+
+['Endangered Great Indian Hornbill Bird Brutally Tortured To Death In Viral Video, Three People Arrested\nA video of a Hornbill being tortured and killed was widely circulated on social media, causing outrage among the public. New Delhi: In a terrible occurrence, three persons were detained in Nagaland for torturing and killing a Hornbill in Bhandari Town, Wokha district. The arrested individuals have been turned over to the wildlife division team for further investigation. A video of a Hornbill being tortured and killed was widely circulated on social media, causing outrage among the public. A person can be seen in the video thrashing the Hornbill with a stick and stamping it on the bird’s neck. A woman’s voice can be heard saying not to distribute the footage and threatening legal action. The weapon used has been seized, and parts of the hornbill have been recovered. The forest department and Wildlife Division have been carrying out various programmes for rejuvenating local biodiversity. However, public ignorance remains a major concern, and killing, hunting and capturing of wild animals continues in many parts of the district. The Great Hornbill is a protected bird and is listed as ‘vulnerable’ by International Union for Conservation of Nature (IUCN). The case is now expected to be taken over by the Wokha wildlife department. Meanwhile, an NGO Green Succession of Nagaland State has lauded the efforts of police and wildlife department officials to bring the culprits to book. ALSO READ: India Witnesses Spike, Logs 8,822 New Covid-19 Cases']
+
+
+Great Indian Hornbill----SP.SPECIFIC
+
+Three----SUS.NUMBER
+
+Hornbill----SP.COMMON
+
+three----SUS.NUMBER
+
+Nagaland----LOC.STATE
+
+torturing and killing----CRIME.CAT
+
+Hornbill----SP.COMMON
+
+Bhandari Town----LOC.EXACT
+
+Wokha----LOC.DISTRICT
+
+arrested individuals have been turned over to the----OUTCOME
+
+wildlife division team----AUTH.MISC
+
+Hornbill----SP.COMMON
+
+tortured and killed----CRIME.CAT
+
+police----AUTH.SEIZE
+
+wildlife department officials----AUTH.SEIZE

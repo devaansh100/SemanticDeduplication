@@ -1,0 +1,25 @@
+
+['Leopard cub rescued\nNAGPUR: Kalmeshwar forest range officials rescued a young leopard cub that fell in a farm well on Wednesday. The incident occurred in Itangoti on the farm owned by Diwakar Ghanshyam Wadaskar. A local police mitra informed about the incident to Saoner police at 9am.Police called up forest officials, who reached the spot and rescued the cub. They have launched a search operation for the mother, while the cub is under medical observation of wildlife veterinarians.Earlier, there have been occasions when the forest department has successfully reunited such cubs with mother leopard.']
+
+
+Leopard----SP.COMMON
+
+rescued----CRIME.CAT
+
+NAGPUR----LOC.DISTRICT
+
+Kalmeshwar forest range----AUTH.SEIZE
+
+young leopard cub----SP.SPECIFIC
+
+Wednesday----DATE
+
+Itangoti----LOC.EXACT
+
+local police----AUTH.SEIZE
+
+9am.Police----TIME
+
+forest officials----AUTH.SEIZE
+
+a search operation for the mother----OUTCOME

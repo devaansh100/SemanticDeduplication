@@ -1,0 +1,39 @@
+
+['5 Arrested For Poaching Wild Boar In Koraput\nKoraput: Forest department officials today arrested five persons involved in poaching of wild boar at Katas Janiguda under Koraput Sadar police station limits. A special team of the Forest department arrested the accused persons in a surprise raid while they were settling their share on the river bank after hunting the animal from the nearby forest. While officials were able to nab five of the accused persons, three managed to flee. Forest officials have seized the carcass of the wild boar. the Forest department has registered a against the five at the Koraput Sadar police station and forwarded them to court, informed Forest Range Officer Rohit Kumar.']
+
+
+5----SUS.NUMBER
+
+Arrested----CRIME.CAT
+
+Wild Boar----SP.COMMON
+
+Koraput----LOC.DISTRICT
+
+Forest department----AUTH.SEIZE
+
+today----DATE
+
+arrested----CRIME.CAT
+
+five----SUS.NUMBER
+
+poaching----CRIME.CAT
+
+wild boar----SP.COMMON
+
+Katas Janiguda----LOC.EXACT
+
+Forest department----AUTH.SEIZE
+
+seized----CRIME.CAT
+
+carcass----ITEM
+
+wild boar----SP.COMMON
+
+registered a against the five at the Koraput Sadar police station----OUTCOME
+
+Forest Range Officer----OFF.DESIG
+
+Rohit Kumar----OFF.NAME

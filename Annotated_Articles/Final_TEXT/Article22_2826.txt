@@ -1,0 +1,43 @@
+
+['Karnataka: Forest squad arrests two for tiger claw trade- The New Indian Express\nKarthik KK By Express News Service MYSURU: For various beliefs associated with wearing a tiger claw pendant like luck, fortune or a manly feeling, the illegal trade of tiger claws and its jewellery continues unabated in the Mysuru region. In a span of two weeks, the Mysuru forest mobile squad cracked two cases and arrested two persons, recovering around 10 tiger claws and concomitant jewelleries, in the district. A forest official told The New Indian Express that based on the request from a few jewellery shop owners, smugglers would hunt or steal tiger claws, nails and other parts of the big cat when they are found dead in the forest area, and sell them to make money. Special team “Our preliminary investigation found that they had a link with jewellery shop owners in Rajasthan. We have formed a special team to arrest all those involved and we will book them,” said a senior forest official. MYSURU: For various beliefs associated with wearing a tiger claw pendant like luck, fortune or a manly feeling, the illegal trade of tiger claws and its jewellery continues unabated in the Mysuru region. In a span of two weeks, the Mysuru forest mobile squad cracked two cases and arrested two persons, recovering around 10 tiger claws and concomitant jewelleries, in the district. A forest official told The New Indian Express that based on the request from a few jewellery shop owners, smugglers would hunt or steal tiger claws, nails and other parts of the big cat when they are found dead in the forest area, and sell them to make money. Special team “Our preliminary investigation found that they had a link with jewellery shop owners in Rajasthan. We have formed a special team to arrest all those involved and we will book them,” said a senior forest official.']
+
+
+Karnataka----LOC.STATE
+
+Forest squad----AUTH.SEIZE
+
+arrests----CRIME.CAT
+
+two----SUS.NUMBER
+
+tiger----SP.COMMON
+
+illegal trade----CRIME.CAT
+
+Mysuru----LOC.DISTRICT
+
+Mysuru forest mobile squad----AUTH.SEIZE
+
+two----SUS.NUMBER
+
+10----QTY
+
+tiger----SP.COMMON
+
+claws----ITEM
+
+claws----ITEM
+
+nails----ITEM
+
+Mysuru forest mobile squad----AUTH.SEIZE
+
+two----SUS.NUMBER
+
+10----QTY
+
+tiger----SP.COMMON
+
+claws----ITEM
+
+nails----ITEM

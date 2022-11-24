@@ -1,0 +1,73 @@
+
+["Komaram Bheem Asifabad: Tiger poaching case solved; 8 held, skin, jaws seized\nKomaram Bheem Asifabad: Forest officials have solved the one-year-old tiger poaching case and arrested eight people. A tiger skin, jaws, and bones were also recovered from their possession. The case came to light when forest officials apprehended Kotnaka Dev Rao and Godugu Avinash near Kagaznagar on October 30. A tiger skin was seized from their possession. Investigations revealed that tiger skin was being smuggled from Wadgaon village of Adilabad district. Special teams led by DFO Adilabad, FDO Utnoor, FDO Asifabad, and FRO Kagaznagar later raided the village and arrested Mesram Manku, Mesram Deepak, Mesram Chandrakanth, Mesram Eeshwer and Mesram Laxman. Investigations revealed that the tiger was caught in a snare laid to trap wild boars. It was also revealed that the tiger was skinned by Athram Krishna. During the raid, the teams found the lower jaw and other bones of the tiger inside Penduru Mukund Rao's house. Later eight accused were bought to the Kagaznagar forest division office. They will be produced before the JFCM court at Sirpur. Tension prevailed at Velgonda on Sunday when forest officials raided the houses of the culprits. This is the second case of tiger poaching that came to the fore in the last one month. It may be recalled, forest officials in Mulugu apprehended five Guttikoyas involved in the killing of a tiger in Mulugu forest on September 21 A tiger was allegedly killed by an inter\xadstate gang of poachers using an electric trap in the forest area of Mulugu district on September 21. The incident came to light after a joint team of police and the forest staff nabbed four poachers during a vehicle checking drive."]
+
+
+Tiger----SP.COMMON
+
+8----SUS.NUMBER
+
+skin----ITEM
+
+jaws----ITEM
+
+seized----CRIME.CAT
+
+Forest officials----AUTH.SEIZE
+
+eight----SUS.NUMBER
+
+A----QTY
+
+tiger----SP.COMMON
+
+skin----ITEM
+
+jaws----ITEM
+
+bones----ITEM
+
+Kotnaka Dev Rao----SUS.NAME
+
+Godugu Avinash----SUS.NAME
+
+October 30----DATE
+
+skin----ITEM
+
+Wadgaon village of Adilabad district----ROUTE.SRC
+
+DFO----OFF.DESIG
+
+Adilabad----OFF.NAME
+
+FDO----OFF.DESIG
+
+Utnoor----OFF.NAME
+
+FDO----OFF.DESIG
+
+Asifabad----OFF.NAME
+
+FRO----OFF.DESIG
+
+Mesram Manku----SUS.NAME
+
+Mesram Deepak----SUS.NAME
+
+Mesram Chandrakanth----SUS.NAME
+
+Mesram Eeshwer----SUS.NAME
+
+Mesram Laxman----SUS.NAME
+
+accused were bought to the Kagaznagar forest division office. They will be produced before the JFCM court at Sirpur----OUTCOME
+
+inter­state gang of poachers----SUS.AFFIL
+
+police----AUTH.SEIZE
+
+forest staff----AUTH.SEIZE
+
+four----SUS.NUMBER
+
+poachers----SUS.AFFIL

@@ -1,0 +1,33 @@
+
+['Drowning leopard rescued from 50-feet-deep well\nNagpur: A leopard escaped a narrow brush with death after falling into a 50-feet-deep open well in Alkuti village in Parner subdivision of Ahmednagar. Timely intervention by Wildlife SOS and the forest department helped save the big cat’s life.A local farmer was shocked to find a leopard paddling helplessly to stay afloat in a well in Alkuti on Monday morning. Fearing that the feline may not survive much longer in the waist-deep water, he immediately alerted the forest department.The Wildlife SOS team operating out of Manikdoh Leopard Rescue Centre was also called in. A four-member team from the NGO, led by veterinary assistant Mahendra Dhore, was sent immediately and it drove nearly 60km to reach the spot.Meanwhile, with help from villagers, a team of forest officers had lowered a metal crate into the well so that the leopard could clamber onto it for temporary support. Once the Wildlife SOS team arrived at the scene, the rescue operation was set in motion and a trap cage was lowered into the well to safely extricate the leopard.Sensing help, the leopard leaped into the trap cage and was carefully pulled out. The leopard was taken into a nearby forest nursery, where it was examined for injuries and later released back into the wild.Dhore said, “The leopard was a 7-year-old male. The entire exercise had to be quickly executed. We are grateful to the forest department and villagers for making this rescue a success.”Kartick Satyanarayan, CEO & co-founder of Wildlife SOS said, “Wildlife SOS has saved over 30 leopards from open wells and is mulling ways to cover these wells or give wildlife ways to escape on their own if they fall in. We are glad to see that people are becoming more compassionate and making it their priority to reach out to our team and the forest department in such emergencies.”Pratap Jagtap, range forest officer (RFO), Parner, said, “Leopards adapt to surviving around human-dominated landscapes, bringing them into close contact with humans leading to such situations. We are glad the animal was unhurt and was able to return to its natural habitat.”A rapidly growing population, coupled with the unchecked expansion of farmlands in the region has severely compromised not just the jungle territory of the leopards of Maharashtra, but also their water sources. Consequently, these big cats wander into villages in search for water and often fall victim to uncovered wells.']
+
+
+leopard----SP.COMMON
+
+rescued----CRIME.CAT
+
+Nagpur----LOC.DISTRICT
+
+leopard----SP.COMMON
+
+Alkuti village----LOC.EXACT
+
+Wildlife SOS----AUTH.SEIZE
+
+forest department----AUTH.SEIZE
+
+leopard----SP.COMMON
+
+Monday----DATE
+
+morning. Fearing----TIME
+
+forest department.The----AUTH.SEIZE
+
+veterinary assistant----OFF.DESIG
+
+Mahendra Dhore----OFF.NAME
+
+trap cage----CONCEALMENT_METHOD
+
+forest department----AUTH.SEIZE

@@ -1,0 +1,51 @@
+
+['Shocking! Four people gang-rape Bengal monitor lizard at Sahydari Tiger Reserve; video of abhorrent crime recovered\nRepresentative Pic Photo : iStock Maharashtra: In an utterly heinous act, a : In an utterly heinous act, a Bengal monitor lizard was allegedly gang raped by four men in Sahydari Tiger Reserve (STR) in near Gothane village in Ratnagiri district of Maharashthra. The video footage of the abhorrent crime has been recovered by the forest officials. The four persons identified as Sandeep Tukaram Pawar, Mangesh Kamtekar, Akshay Kamtekar and Ramesh Ghag, all of them hunters, have been arrested, an official from Maharashtra Forest department informed on Wednesday. Though the incident took place in Sahydari Tiger Reserve, the matter came to light few days after the four accused were held while attempting to enter the restricted zone of Chandoli National Park, which falls under the STR, in Sangli district for hunting. The forest officials also found a gun from their possession, the forest officer added. The STR is spread over four districts-- Satara, Sangli, Kolhapur and Ratnagiri of Maharashtra. Related News Huge brawl erupts between two drunk groups at private restaurant in Jalandhar Related News Mumbai: Woman falls off running local train while trying to stop robber who stole her phone The investigation against the four accused was underway after they were booked on March 31 on charges of illegally entering the forest when the horrific crime came to light, reported the PTI. While checking the mobile phones of the accused persons, as part of the probe, the forest department came to know about the incident. The officials found a video recording in one of the phones of the four accused. The video footage showed the accused persons gang-raping the monitor lizard. The forest officials posted at Sangli forest reserve inspected the CCTV footage of the area and found the presence of the four accused. The forest officials further informed that the accused persons had come from Konkan to Kolhapur\'s Chandoli National Park for hunting. “All the evidence related to the incident have been collected and the four accused have been handed over to the forest department for further investigation. Though they are out on bail now, the accused have been summoned to appear before the investigating forest officer every Monday, said the forest official as reported by PTI. “The four accused have been booked under various sections of the Wild Life (Protection) Act, 1972," informed the field director of Sahyadri Tiger Reserve (STR), Nanasaheb Ladkat. Related News Rivalry shapes up between Kaushal & Lawrence Bishnoi gang over control of lucrative liquor business in Gurugram The accused will be produced in a court soon and appropriate legal action will be taken against them. It may be noted that the Bengal monitor lizard is a reserved species under the Wildlife Protection Act 1972 and if one is found guilty, the accused could be sentenced to seven years of imprisonment.']
+
+
+Four----SUS.NUMBER
+
+gang-rape----CRIME.CAT
+
+Bengal monitor lizard----SP.SPECIFIC
+
+Sahydari Tiger Reserve----LOC.EXACT
+
+Bengal monitor lizard----SP.SPECIFIC
+
+gang----CRIME.CAT
+
+raped----CRIME.CAT
+
+four----SUS.NUMBER
+
+men----SUS.GENDER
+
+Sahydari Tiger Reserve (STR)----LOC.EXACT
+
+Gothane village----LOC.EXACT
+
+Ratnagiri district----LOC.DISTRICT
+
+Maharashthra----LOC.DISTRICT
+
+four----SUS.NUMBER
+
+Sandeep Tukaram Pawar----SUS.NAME
+
+Mangesh Kamtekar----SUS.NAME
+
+Akshay Kamtekar----SUS.NAME
+
+Ramesh Ghag----SUS.NAME
+
+hunters----SUS.AFFIL
+
+arrested----OUTCOME
+
+Sahydari Tiger Reserve----LOC.EXACT
+
+gun----ITEM
+
+All the evidence related to the incident have been collected and the four accused have been handed over to the forest department for further investigation. Though they are out on bail now----OUTCOME
+
+accused will be produced in a court----OUTCOME

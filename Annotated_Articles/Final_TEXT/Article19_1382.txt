@@ -1,0 +1,31 @@
+
+['Leopard beaten to death by villagers in Bihar\nA leopard was beaten to death by locals after it injured four persons in Teghwara village of Bihar\'s Muzaffarpur district, according to officials. By Press Trust of India: A leopard was beaten to death by local people on Monday (April 15) morning after it attacked and injured four persons in Teghwara village of Bihar\'s Muzaffarpur district, an official said. The injured have been have been sent to a primary health centre for first-aid, Sub-Divisional Magistrate (SDM) (East) Kundan Kumar said. Kumar, however, could not give details about the nature of their injuries. advertisement "Villagers came out in large numbers after four people were attacked by the leopard. They gheraoed the animal, and hurled stones at it, before beating it to death," Kumar added. Principal Chief Conservator of Forests (PCCF) DK Shukla said the animal might have strayed into the village from nearby Valmikinagar sanctuary, along the Gandak river, or from Nepal. "We got information around 8:30 am that a leopard has been sighted in Teghwara village. By the time our forest department team reached the village, it was dead," Shukla said. The team has taken the leopard\'s body into custody and sent it to a veterinary hospital in the district for post-mortem, the PCCF said. "As the leopard belongs to Schedule-I category of Wildlife Protection Act, 1972, police have lodged an FIR against unnamed persons in connection with the incident," he said, adding that officials are trying to ascertain why the animal strayed into the village. --- ENDS ---']
+
+
+Leopard----SP.COMMON
+
+beaten to death----CRIME.CAT
+
+Bihar----LOC.STATE
+
+leopard----SP.COMMON
+
+Teghwara village----ROUTE.SRC
+
+Muzaffarpur----LOC.DISTRICT
+
+leopard----SP.COMMON
+
+Monday----DATE
+
+April 15----DATE
+
+morning----TIME
+
+Teghwara village----ROUTE.SRC
+
+Muzaffarpur----LOC.DISTRICT
+
+sent to a primary health centre for first-aid----OUTCOME
+
+sent it to a veterinary hospital in the district----OUTCOME

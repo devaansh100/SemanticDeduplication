@@ -1,0 +1,41 @@
+
+['11 kg of ambergris seized, four held\n11 kg of ambergris seized, four held Staff Reporter September 09, 2021 01:08 IST Staff Reporter September 09, 2021 01:08 IST This is third such case reported in city in three months This is third such case reported in city in three months Acting on a tip-off, the Chikkajala Police conducted a surprise raid on Tuesday night and arrested four persons who were allegedly trading ambergris. Around 11 kg of the whale product was seized during the raid. The solid, waxy substance from the intestine of the sperm whale commands exorbitant rates with the Bengaluru police putting its cost at ₹1 crore per kilo globally. It is often referred to as floating gold, as it is usually found floating in the sea. Ambergris is extensively used in the perfume industry to make fragrances and has high demand in West Asian countries, sources said. This is the third such case reported in the city in three months. In August, the Central Crime Branch police arrested five persons and recovered 80 kg of ambergris worth around ₹80 crore. In June, the K.G. Halli police recovered 6.7 kg of ambergris from four dealers.  Our code of editorial values']
+
+
+11 kg----QTY
+
+ambergris----ITEM
+
+seized----CRIME.CAT
+
+four----SUS.NUMBER
+
+11 kg----QTY
+
+ambergris----ITEM
+
+four----SUS.NUMBER
+
+tip-off----DETECTION_METHOD
+
+Chikkajala Police----AUTH.SEIZE
+
+Tuesday----DATE
+
+night----TIME
+
+four----SUS.NUMBER
+
+11 kg----QTY
+
+seized----CRIME.CAT
+
+five----SUS.NUMBER
+
+80 kg----QTY
+
+ambergris----ITEM
+
+6.7 kg----QTY
+
+ambergris----ITEM

@@ -1,0 +1,15 @@
+
+['Nizamabad: Fear grips people as leopard with cubs roams about in fields\nNizamabad: A leopard with two cubs was spotted by people going for farm work in Mokanpally village under Navipet Mandal of Nizamabad district on Wednesday. "The leopard teaches its two cubs to hunt animals in the mokanpally suburb. As part of the sequence, a dog belonging to the owner of a brick kiln was killed by a leopard hunting with his two cubs" people said. Farmers are in a state of panic as three leopards are hunting a dog in a brick kiln next to the Reddy Farm. Workers at brick kilns have been watching a leopard teaching its cubs how to hunt for the past two days. All the workers ran away when a leopard attacked a dog in a brick kiln right before their eyes on Wednesday. The leopard was resting on the Mokanpally-Kamalapur road with his two cubs when people did not dare to go there. People were frightened when they saw the leopard with his cubs walking from Mokanpally Kasturi Ba Girls Ashram School into the hills of Kamalapur suburb. Kasturi Ba school students should be vigilant as the leopard is roaming, officials said. Similarly the villagers provided information about the leopard wandering to the forest authorities. The villagers demanded that a cage should be set up to capture the leopard. Livestock department officials said that the leopard would have come to the village to hunt animals for water.']
+
+
+leopard----SP.SPECIFIC
+
+leopard----SP.SPECIFIC
+
+two----QTY
+
+Mokanpally village under Navipet Mandal----LOC.EXACT
+
+Wednesday----DATE
+
+Wednesday----DATE

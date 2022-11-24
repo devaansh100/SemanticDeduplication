@@ -1,0 +1,29 @@
+
+["Man-animal conflict: Farmer carried for over 100 feet by elephant in West Bengal’s Purulia\nOften, awareness campaigns are being held in the area to aware people to use toilets at home instead of relieving themselves in the fields. (Representative Pic) | Photo Credit: Getty Images Purulia: A shocking incident of man-animal conflict was reported from Purulia district in West Bengal. An elephant on Wednesday carried a farmer away, wrapped in his trunk and ran for hundreds of feet throughout a field. The elephant then dropped the man to the ground and disappeared into the forest. The incident took place around 4 AM. The farmer was identified as 55-year-old Niranjan Sahish who suffered injuries on his legs and back. He is a resident of Ghatbera village, near the Ayodhya Hills in Purulia. After the perturbing incident, the helpless farmer was found lying in the field by forest department officials. They took him to a primary health care centre and later he was taken to a hospital. According to a report in The Times Of India, the doctor treating the shocked man said that the farmer's back did not suffer severe injuries but the ones on his legs would take time to heal. Reportedly, the elephant may have entered the village in search of food but panicked when it came near the farmer who was relieving himself in the fields. Sahish told officials that just before the elephant had wrapped him around its trunk, he could hear the jumbo approaching him but everything happened in the blink of an eye. He further mentioned that he could not believe in his luck when the elephant dropped him on the ground, as he thought that he was going to die. Meanwhile, Subinoy Panda, district administration official of Balaram forest range told TOI that the villagers have been warned several times to avoid going near the forest as the village is on an elephant route and might result in man-animal conflict. Often, awareness campaigns are being held in the area to aware people to use toilets at home instead of relieving themselves in the fields."]
+
+
+Farmer----SUS.AFFIL
+
+elephant----SP.COMMON
+
+West Bengal’s----LOC.STATE
+
+Purulia----LOC.DISTRICT
+
+Purulia district----LOC.DISTRICT
+
+West Bengal----LOC.STATE
+
+elephant----SP.COMMON
+
+Wednesday----DATE
+
+4 AM----TIME
+
+55-year-old----SUS.AGE
+
+Niranjan Sahish----SUS.NAME
+
+Ghatbera village, near the Ayodhya Hills in Purulia----SUS.LOC
+
+forest department officials----AUTH.SEIZE

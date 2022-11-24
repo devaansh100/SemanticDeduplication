@@ -1,0 +1,19 @@
+
+["Madhya Pradesh: Tiger's carcass found under suspicious circumstances on Panna-Katni highway\nBhopal (Madhya Pradesh): The body of a P-111 tiger was found lying on the roadside near Panna Tiger Reserve, Akola Gate. The officials are inspecting the site closely and will be conducting a post-mortem inside the Rajbaria Gate. Uttam Kumar Sharma, Field Director of Panna Tiger Reserve said that the age of the tiger P-111 was about 13 years old and had been seen crossing the road by the passersby just a few days ago. Prima facie the death of the tiger seems natural. No injury marks have been found on the body. , The death of a tiger has caused a stir in the area. Not to mention, the death of tigers in the Panna Tiger Reserve is often reported. This is the second death on Panna-Katni Highway. Last year a tiger cub was killed in a road accident, Read Also Bhopal: Campaign to be launched for DPT and TD vaccines in Madhya Pradesh"]
+
+
+Madhya Pradesh----LOC.STATE
+
+Tiger's----SP.COMMON
+
+carcass----ITEM
+
+Panna-Katni highway----LOC.EXACT
+
+Madhya Pradesh----LOC.STATE
+
+body----ITEM
+
+P-111 tiger----SP.SPECIFIC
+
+Panna Tiger Reserve, Akola Gate----LOC.EXACT

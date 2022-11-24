@@ -1,0 +1,41 @@
+
+['Rajkot: 2 labourers held for beating stray dog to death\nTWO DAYS after they allegedly beat a stray dog to death in Jetpur town of Rajkot district, two casual labourers were arrested by police for subjecting the animal to cruelty. A third accused remains on the run. Jetpur town police had booked three unidentified men after footage recorded by a CCTV camera at a petrol pump on Derdi Road went viral on social media. The purported footage showed three men allegedly beating a dog to death in front of the petrol pump on June 2. Police booked them under the Prevention of Cruelty to Animals Act as well as under IPC Sections 428 (mischief by killing, poisoning, maiming or rendering useless any animal) and 114 (abetter present when offence is committed) Friday . Two of the accused were later identified as Bavku Charola (40) and Naja Vaghela (50). The duo, who are casual labourers and residents of Deradi Road, were arrested by police Saturday. 🚨 Limited Time Offer | Express Premium with ad-lite for just Rs 2/ day 👉🏽 Click here to subscribe 🚨 “The two accused claimed that the dog was rabid and it had bitten five persons in the area on June 1. Hospitals in the town did report cases of dog bites that day. But even if the dog had turned rabid, the accused could have reported it to the Jetpur municipality. Instead, they chose to beat it to death and committed an offence in the process,” Majanu Manat, assistant sub-inspector (ASI) of Jetpur town police, said.']
+
+
+2----SUS.NUMBER
+
+stray dog----SP.COMMON
+
+stray dog----SP.COMMON
+
+Jetpur town----LOC.CITY
+
+two----SUS.NUMBER
+
+casual labourers----SUS.AFFIL
+
+arrested----CRIME.CAT
+
+three----SUS.NUMBER
+
+three----SUS.NUMBER
+
+dog----SP.COMMON
+
+June 2----DATE
+
+Friday----DATE
+
+Bavku Charola----SUS.NAME
+
+40----SUS.AGE
+
+Naja Vaghela----SUS.NAME
+
+50----SUS.AGE
+
+Deradi Road----SUS.LOC
+
+Majanu Manat----OFF.NAME
+
+assistant sub-inspector (ASI)----OFF.DESIG

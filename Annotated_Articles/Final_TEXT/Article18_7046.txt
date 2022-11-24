@@ -1,0 +1,21 @@
+
+['Lioness Mauls Zookeeper To Death In Iran\nA lioness killed a zookeeper as he was feeding her lunch then escaped with her male partner before the pair was captured again in Iran. The 40-year-old victim, identified only by his family name, Esfandani, had been feeding a lioness when she and another lion managed to open their cage and attack him, state-run IRNA news agency said. IRIB/AFP Police and guards captured the couple a few hours later at the zoo in the central city of Arak, some 200 kilometres southwest of the capital, Tehran.  "The lioness, which has been in the zoo for several years, managed to open a door of the cage, get out and then attack the 40-year-old guard who had just brought food to the pair of felines," a zoo employee told state broadcaster IRIB.  He said "the two animals managed to escape" Sunday from their cage in the zoo in the city of Arak. IRIB/AFP "Immediately after the incident, security forces took control of the zoo", Amir Hadi, the governor of the province was quoted as saying by state news agency IRNA.  He added that "efforts to capture the two felines alive have been successful".  The tragic incident is now being investigated by the authorities.  Such incidents are rare in Iran and are often blamed on poor safety measures and inadequate emergency services.  In 2020, a zookeeper in China was mauled to death by bears at the Shanghai Wild Animals Park. The staff member was attacked while working in the "wild area", where dangerous animals such as bears and tigers roam around relatively freely. According to the Washington Post, the park activated emergency protocols and temporarily closed the area as officials attempted to find out what happened to the worker inside the zoo’s beast-of-prey zone, which is accessible to tourists who remain inside designated vehicles. PETA Asia As per Shanghai Wildlife Park\'s website, bears allegedly roam freely in the drive-through area, which was designed to mimic their original habitat.  The Shanghai Zoo is one of the best ecological gardens in China. The zoo houses and exhibits more than 6,000 animals. It consists of a walking area where visitors observe various species on foot and a bus-riding section where tourists enjoy close contact with wild animals while onboard a vehicle. For more from trending, click here. ']
+
+
+Lioness----SP.COMMON
+
+Mauls----CRIME.CAT
+
+Zookeeper----SP.COMMON
+
+Iran----LOC.STATE
+
+lioness----SP.COMMON
+
+escaped----OUTCOME
+
+40-year-old----SUS.AGE
+
+Police and guards----AUTH.SEIZE
+
+40-year-old----SUS.AGE

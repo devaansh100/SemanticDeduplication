@@ -1,0 +1,97 @@
+
+['Karnataka police arrest gang of hunters for shooting tiger, stealing claws and teeth\nKarnataka police arrest gang of hunters for shooting tiger, stealing claws and teeth The tiger was killed in Nagarahole Tiger Reserve in August this year. news Crime Karnataka forest department officials have arrested a venison hunting gang of five people in Kodagu district for shooting at a tiger and decamping with its claws and canines from Nagarahole Tiger Reserve, an official said on Friday. "We have arrested five people for shooting at a tiger and decamping with its claws and canines," D. Mahesh Kumar, Deputy Conservator of Forests (DCF) and Director of Rajiv Gandhi National Park told IANS. The main accused is Santosh, followed by Sashi, Sharanu, Ranjit and Raju. All of them come from a village which abuts the national park. They used a licensed double barrel gun to shoot the wild animals. Santosh, Sashi and Ranjit are from wealthy families who own coffee estates while Raju is a labourer. All the accused have been arrested under multiple acts such as the Wildlife Protection Act, hunting, collection of animal parts, illegally entering a national park, using a firearm and others. The accused have been produced in the court and are currently in judicial custody. Incidentally, forest officials noticed the unnatural death of a 4-5 year old male tiger on August 25 with its paws and canines missing, they were chopped off. "We had no clue about the unnatural death because the tiger\'s nails and canines were removed though its skin was intact. Next day, on August 26 we conducted a post mortem on the animal to find a gunshot," said Kumar. Guided by some leads on the same day, officials arrested one person but could not recover any of the stolen tiger parts. "Subsequently, from August 28, a series of arrests have happened because we got a lead that some tiger nails were hidden in one of the coffee estates and succeeded in recovering seven nails," he said. Following this development, Kumar set multiple forest teams in motion to go after a chain of additional leads in search of the remaining tiger parts and the accused in places as far as Bengaluru and some other towns, leading to the arrest of another person in Ramanagara. Consequently, a total of five people have been arrested in the tiger death and mutilation case. "We have recovered 13 tiger nails. A tiger has 18 claws and four canines. Out of these, we recovered 13 claws and two canines," said the Indian Forest Service (IFoS) official. Every tiger has five toes on its fore paws with five nails each and four toes on its hind paws with four nails each, totalling 18 nails. All the nails are retractable and can stretch up to four inches forward for grip and preying. The first arrested person misled the forest officials that he did not have any tiger parts with him but on arresting four others from the gang, they had confessing that the first person had some parts with him. Officials are still searching for the reaming five nails as they continue their investigation. Of the four canines, the forest department managed to seize two of them. During post mortem, one canine got shattered even as the officials are on the lookout for the last canine. Tigers have two big canines on the upper jaw, measuring up to three inches and two more on the lower one, altogether four. "The accused used sharp knives to cut the tiger\'s canines as they are very strong. They used knives similar to the ones used in the meat shops," he said. To extract the nails, they chopped off the paws of the big cat and shared the tiger\'s spoils among themselves. The accused extracted some nails at the spot of the wildlife crime itself while others were taken to their homes to be extracted later. Curiously, the five accused spared the tiger\'s skin because they are not professionals and do not how to deskin a tiger. "If they were professionals, they would have deskinned the entire tiger," said Kumar, considering a tiger\'s skin is a sought after prize. Astonishingly, officials have corroborated that the five did not come hunting for a tiger but in search of venison, deer meat. "They had come looking for deer meat and also succeeded in killing a deer, taking its flesh and also managed to pull out the tigers claws and canines, resulting in a double hunting case," said the official. According to Kumar, Coorg or Kodagu district people are exempted from the Arms Act as they have a tradition of owning guns and showcasing them, it is a privilege enjoyed by them. They showcase their guns for functions like marriages and other events. Though people are allowed to keep guns, Kumar said they are not exempted from entering a national park illegally and with a gun. Explaining how the accused laid their hands on the big cat, they told the officials that the tiger was lying by a water body and did not move even after the five people were near it. "So they thought it was already injured or dead and shot it on the back. After approaching the tiger, they realized that the tiger was already smelling, indicating it could have died earlier from unknown reasons," he said. Officials are yet to determine the exact cause of the tiger\'s death which is still being probed whether it was poisoned or indulged in any territorial war with another tiger and so on. Other than the gunshot injury, there was no other injury on the animal. In addition to the tiger parts, two kg venison was also confiscated from one of the accused homes while the balance amount of the deer meat was already consumed. "We could not retrieve more than two kg meat nor acertain if the deer was male of female but managed to seize its hooves. We also confiscated the firearm," said Kumar. Some of them accused are from quite well to do families and had committed the crime in an inebriated condition near a place called Thattekere. On interrogation, the accused told that they wanted to use the nails to craft pendants for flaunting around the neck and also as ornaments for their children Officials are investigating whether they also had any intention to sell the tiger trophies. Nagarahole Tiger Reserve (NGT), which stretches between Kodagu and Mysuru districts and was a protected reserve from the time of the Wodeyar dynasty, rulers of the erstwhile kingdom of Mysuru. Nagarhole, which served as an exclusive hunting reserve of the Wodeyars, was made a wildlife sanctuary in 1955, covering an area of 284 square km - later stretched up to 643 square km. It was upgraded to a national park in 1988 and was brought into the fold of Project Tiger after being declared a tiger reserve in 1999. NGT has three sub-divisions, and eight ranges. Some of the animals which thrive in the reserve include tigers, panthers, wild dogs, elephants, bisons, sambar, spotted deer, barking deer, sloth bears, wild boars, common langurs, bonnet macaque and a variety of reptiles and birds.']
+
+
+Karnataka police----AUTH.SEIZE
+
+gang of hunters----SUS.AFFIL
+
+tiger----SP.COMMON
+
+Karnataka police----AUTH.SEIZE
+
+gang of hunters----SUS.AFFIL
+
+tiger----SP.COMMON
+
+Karnataka forest department----AUTH.SEIZE
+
+venison hunting gang----SUS.AFFIL
+
+five----SUS.NUMBER
+
+Kodagu district----LOC.DISTRICT
+
+tiger----SP.COMMON
+
+Nagarahole Tiger Reserve----LOC.EXACT
+
+five----SUS.NUMBER
+
+tiger----SP.COMMON
+
+Deputy Conservator of Forests (DCF)----OFF.DESIG
+
+Santosh----SUS.NAME
+
+Sashi----SUS.NAME
+
+Sharanu----SUS.NAME
+
+Ranjit----SUS.NAME
+
+Raju----SUS.NAME
+
+Santosh----SUS.NAME
+
+Sashi----SUS.NAME
+
+Ranjit----SUS.NAME
+
+arrested----OUTCOME
+
+one----SUS.NUMBER
+
+lead----DETECTION_METHOD
+
+five people----SUS.NUMBER
+
+13----QTY
+
+tiger----SP.COMMON
+
+nails----ITEM
+
+18----QTY
+
+claws----ITEM
+
+four----QTY
+
+canines----ITEM
+
+13----QTY
+
+claws----ITEM
+
+two----QTY
+
+canines----ITEM
+
+deer----SP.COMMON
+
+claws----ITEM
+
+tiger parts----ITEM
+
+two kg----QTY
+
+venison----ITEM
+
+deer----SP.COMMON
+
+meat----ITEM
+
+hooves----ITEM
+
+firearm----ITEM

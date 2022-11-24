@@ -1,0 +1,25 @@
+
+['Striped hyena found dead on Ggn-Fbd road\nGurgaon: A striped hyena was found dead on the Gurgaon-Faridabad road on Tuesday morning after it was hit by a speeding vehicle. Residents in the area informed the wildlife department about the dead animal. According to the wildlife officials , the animal suffered multiple injuries and died on the spot.Immediately after getting information about the hyena, a wildlife team rushed to the spot. According to wildlife officials, the illegal dumping of waste attracts animals to the area who in search of food often attempt to cross the highway and venture into the human territory. In the process, many get killed or hurt by speeding vehicles or humans.“I saw the hyena and informed the police and the wildlife department. The officials from the wildlife department immediately removed the carcass,” said Mukesh Bhadana , a villager.According to environmentalists, the stretch is known to have a large number of Hyena species and it is crucial that the forest department creates water pits in Aravalis for these animals. “These animals need protection from waste dumping, mining, and real estate,” said Sunil Harsana , an environmentalist.The region needs underpasses along these highways which the wildlife department is yet to come up with. “We are in the process of issuing a tender for cleaning the existing underpasses to make them functional,” said ML Mallik, conservator of wildlife, south Haryana.The hyena is commonly seen in the region and is protected under Schedule-III of the Wildlife Protection Act. As per the Wildlife Institute of India study, which was released in 2017, the Aravalis in south Haryana have a hyena population of 126, in addition to 31 leopards, 26 jungle cats, 91 porcupines, 50 mongoose, 166 jackals, three wolves, four foxes and 61 civets. According to the International Union for Conservation of Nature red list, striped hyenas are labelled as “near threatened” species.']
+
+
+Striped hyena----SP.SPECIFIC
+
+found dead----CRIME.CAT
+
+Ggn-Fbd road----LOC.EXACT
+
+striped hyena----SP.SPECIFIC
+
+found dead----CRIME.CAT
+
+Gurgaon-Faridabad road----LOC.EXACT
+
+Tuesday----DATE
+
+morning----TIME
+
+informed----DETECTION_METHOD
+
+wildlife department----AUTH.SEIZE
+
+wildlife department----AUTH.SEIZE

@@ -1,0 +1,77 @@
+
+['Tamil Nadu: Two held with whale vomit worth Rs 8 crore in Tiruvarur\nTRICHY: Forest department officials in Tiruvarur seized 8 kilograms of ambergris or whale vomit worth Rs 8 crore from two people near Muthupettai on Saturday night.Ambergris is a waxy substance secreted from the intestine of sperm whale and is used in perfume manufacture, but its possession and sale are banned in India under the Wildlife Protection Act.District forest officials said they laid a trap based on a tip that a gang was trying to sell the banned substance in local as well as international markets.District forest officer Arivoli formed a special forest special investigative team comprising assistant forest officer Radhakrishnan, forest range officer Jayachandran and foresters Manimaran, Periyasamy and Sivanesan.They fanned out looking for any movement of people attempting to sell the substance.That was when they approached some people in and around Muthupettai under the guise of buyers of ambergris.Two people walked into the trap and offered to sell them the substance weighing 8 kilograms.They were later identified as S Nijamudeen, 53, a resident of South Street, and Y Zahir Hussain, 52, a native of North Nagar, Muthupettai.The team gleefully secured the duo who had the shock of their lives and arrested them.The substance recovered from the two was valued at Rs 8 crore, the officials said.The two have been remanded at Nannilam prison.']
+
+
+Tamil Nadu----LOC.STATE
+
+Two----SUS.NUMBER
+
+whale----SP.COMMON
+
+vomit----ITEM
+
+Rs 8 crore----VALUE
+
+Tiruvarur----LOC.DISTRICT
+
+Forest department----AUTH.SEIZE
+
+Tiruvarur----LOC.CITY
+
+seized----CRIME.CAT
+
+8 kilograms----QTY
+
+ambergris----ITEM
+
+whale----SP.COMMON
+
+vomit----ITEM
+
+Rs 8 crore----VALUE
+
+two----SUS.NUMBER
+
+Muthupettai----LOC.EXACT
+
+Saturday----DATE
+
+night.Ambergris----TIME
+
+sperm whale----SP.SPECIFIC
+
+tip----DETECTION_METHOD
+
+assistant forest officer----OFF.DESIG
+
+Radhakrishnan----OFF.NAME
+
+forest range officer----OFF.DESIG
+
+Jayachandran----OFF.NAME
+
+foresters----OFF.DESIG
+
+Manimaran----OFF.NAME
+
+Periyasamy----OFF.NAME
+
+Sivanesan----OFF.NAME
+
+Muthupettai----LOC.EXACT
+
+8 kilograms.They----QTY
+
+S Nijamudeen----SUS.NAME
+
+53----SUS.AGE
+
+South Street----SUS.LOC
+
+Y Zahir Hussain----SUS.NAME
+
+52----SUS.AGE
+
+North Nagar, Muthupettai.The----SUS.LOC
+
+Rs 8 crore----VALUE

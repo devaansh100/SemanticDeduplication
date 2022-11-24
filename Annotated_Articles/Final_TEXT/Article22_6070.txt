@@ -1,0 +1,21 @@
+
+["Leopard attacks pet dog in Maharashtra village, viral video sparks conversation on human-animal conflict\nIn the footage caught by CCTV cameras installed outside the house, a black dog is seen sitting at the entrance. Spotting the leopard coming its way, the canine tries to run away. After a short chase, the leopard catches hold of the dog, The video ends with the predator walking away with the dog. Also Watch | Dog vs leopard: Video of a canine scaring away a big cat goes viral The shocking moment was caught on camera in Mungsare village of Nashik on Monday after midnight. Watch the video here: #WATCH | Leopard entered a residential area in Mungsare village of Nashik, attacked a pet dog yesterday (Source: CCTV) pic.twitter.com/OznDoeQvHR — ANI (@ANI) June 6, 2022 Personnel from the forest department rushed to the area and asked the villagers to remain alert, an official told news agency PTI, adding that traps will be laid in the area to catch the predator. Pankaj Garg, Deputy Conservator of Forest, Nashik told ANI: “We appeal to the people of Mungsare village to remain indoors at night as leopard activity has increased in this area.” As the video went viral, it also started a conversation about human-animal conflict due to diminishing spaces for wildlife. Many also argued that given the situation of wild animals lurking around, even guard dogs should be sheltered inside. Even though netizens were saddened by the plight of the dog, many said that the leopard might have ventured into residential areas, desperate for food. This is natural food cycle. We have destroyed many wildlife habitats. — Diptesh Dewoolkar (@Diptesh16) June 7, 2022 Humans have vanished their natural habitats now where will they survive… These dogs will be their natural food — Aditya Khatri (@AdityaK96057076) June 7, 2022 Leopards are so dangerous animals bcz it can jump, climb and run faster than other animals. Leopards already started eating pets rather than wild animals. In future leopards will take lives of many if not controlled now. — ದರ್ಶನ್ (DARSHAN) (@Darshan_Bagur) June 7, 2022 Because lack of jungals all jungli animals have had no freedom of cheerful behaviour {muft sanchar} in most of the areas! And they couldn't find any water and eating for daily survive of their own lives!So they are entering in villages and again in cities! — Narayan Pandit Surse (@PanditSurse) June 7, 2022 First Take action against this Family who left their dog outside to die Even after several warnings — विदूषक🚩 (@yeragi_deep) June 7, 2022 Poor doggy! 😥 jab pata hai leopard attack ho sakta hai, toh pets ko bahar kyu nikal dete hai raat ko!?! 😡 — Moupiya (@imoupiya01) June 7, 2022 In every village dogs are kept outside to guard, only rich and city folks keep dogs inside house. — Parth Shevatekar (@ParthShevatekar) June 6, 2022 What a scary moment that was when leopard holding dog in jaws. — Ayush Tomar🇮🇳 (@AyushTomar27) June 6, 2022 Nowadays leopards 🐆 real pray is dog's….gone r old days when leopard survived on their natural habitant 🦌🦓\U0001f9ac — raised_by_wolves (@raisedb49195246) June 6, 2022 Simple solution to protect life of brave guard dog is to fix metallic neck belt with sharp nails. Leopards stays away from dog. — Sudam Avhad (@SudamAvhad4) June 7, 2022 A similar incident happened last year in Nashik outside a home in Bhuse village, where the wildcat was seen stealthily entering the fenced yard of the house and walking away with a sleeping dog."]
+
+
+Leopard----SP.COMMON
+
+attacks----CRIME.CAT
+
+Maharashtra village----LOC.EXACT
+
+black dog----SP.SPECIFIC
+
+Mungsare village----LOC.EXACT
+
+Nashik----LOC.CITY
+
+Monday----DATE
+
+midnight----TIME
+
+forest department----AUTH.SEIZE

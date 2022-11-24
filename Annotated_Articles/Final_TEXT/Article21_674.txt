@@ -1,0 +1,63 @@
+
+['Red sander logs seized\nTHOOTHUKUDI Officials attached to the Directorate of Revenue Intelligence have seized ₹ 2.27-crore worth 5.69 tonnes of red sanders logs when the timber concealed in a container was about to be smuggled to Colombo. Sources in the DRI said intensive vehicle check was conducted at the toll plaza on Thoothukudi – Madurai 4-lane national highway on Monday night by its personnel, led by Assistant Director Karthikeyan, following information about the smuggling of red sanders logs in containers. When a container lorry was intercepted in the early hours of Tuesday, the officials found cotton bales stuffed in the container. On suspicion, the officials entered the container and checked to find the red sanders logs concealed beneath the bales. Besides seizing the lorry with the logs weighing about 5.69 tonnes, driver George, 35, of Thoothukudi was arrested. Upon questioning him, the DRI personnel found that the red sanders logs were being smuggled from Andhra Pradesh and were about to be shipped to Colombo from where they would be taken to some other country where the timber would be sold for a premium. The lorry has now been parked in a private godown in Thoothukudi and further investigations are on.']
+
+
+Red sander----SP.COMMON
+
+logs----ITEM
+
+seized----CRIME.CAT
+
+Directorate of Revenue Intelligence----AUTH.SEIZE
+
+seized----CRIME.CAT
+
+5.69 tonnes----QTY
+
+red sanders----SP.COMMON
+
+logs----ITEM
+
+timber----ITEM
+
+container----CONCEALMENT_METHOD
+
+Colombo----ROUTE.DEST
+
+Monday----DATE
+
+night----TIME
+
+Assistant Director----OFF.DESIG
+
+Karthikeyan,----OFF.NAME
+
+information----DETECTION_METHOD
+
+Tuesday----DATE
+
+cotton bales----CONCEALMENT_METHOD
+
+red sanders----SP.COMMON
+
+logs----ITEM
+
+logs----ITEM
+
+5.69 tonnes----QTY
+
+George----SUS.NAME
+
+35----SUS.AGE
+
+Thoothukudi----SUS.LOC
+
+DRI----AUTH.SEIZE
+
+red sanders----SP.COMMON
+
+logs----ITEM
+
+Andhra Pradesh----ROUTE.SRC
+
+Colombo----ROUTE.DEST

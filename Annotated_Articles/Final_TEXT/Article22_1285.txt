@@ -1,0 +1,47 @@
+
+['Gujarat: 6 sentenced to 3 years in prison for possession of wildlife species\nAhmedabad: A court in Gujarat’s Valsad has sentenced six people to three-year imprisonment in two separate cases of illegal possession of species protected under the Wildlife Protection Act. In one of the cases, Arshad Khan Iliyaskhan was found guilty of possession of a pair of blackbucks, an endangered species, at his farmhouse at Babarkhadak village in the Valsad district. The court did not find any evidence of any harm to the blackbucks. “In this case, it seems that an animal lover is likely to get tempted to raise such a lovely animal and fulfil his hobby. He might not be aware of the law and may be ignorant of the crime he may have committed. Law may be hard, but the law is law,” said district magistrate D V Savalia on Monday. The court also slapped a fine of ₹10,000 on Iliyaskhan Abhijitsinh Rathod, a forest officer who filed the charge sheet in the two cases, said two blackbucks were rescued and released in the Vansda National Park in Navsari. In the second case, Jyotindra Pandya, Chirayu Patel, Ashok Baria, Bapubhai Ozaria. and Indrajit Vaghela were sentenced for illegal possession of Smooth-Coated Otter. The five were caught while attempting to sell the animal. “The accused struck a deal for selling the animal for Tantrik purpose,” the court said in its order. The five were also slapped ₹20,000 fine each. Rathod said the five were trying to lure people that the Otter would bring them a fortune if a religious ritual was performed in its presence.']
+
+
+Gujarat----LOC.STATE
+
+6----SUS.NUMBER
+
+3 years in prison----OUTCOME
+
+possession----CRIME.CAT
+
+court in Gujarat’s Valsad----AUTH.SEIZE
+
+six----SUS.NUMBER
+
+three-year imprisonment----OUTCOME
+
+illegal possession----CRIME.CAT
+
+Arshad Khan Iliyaskhan----SUS.NAME
+
+possession----CRIME.CAT
+
+pair----QTY
+
+blackbucks----SP.COMMON
+
+Babarkhadak village in the Valsad----LOC.EXACT
+
+a fine of ₹10,000----OUTCOME
+
+Iliyaskhan Abhijitsinh Rathod----SUS.NAME
+
+Jyotindra Pandya----SUS.NAME
+
+Chirayu Patel----SUS.NAME
+
+Ashok Baria----SUS.NAME
+
+Bapubhai Ozaria----SUS.NAME
+
+Indrajit Vaghela----SUS.NAME
+
+sentenced----CRIME.CAT
+
+Smooth-Coated Otter----SP.SPECIFIC

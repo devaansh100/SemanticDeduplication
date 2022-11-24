@@ -1,0 +1,33 @@
+
+['Endangered Great Indian Hornbill Tortured And Killed In Nagaland, 3 Accused Nabbed\nIn a terrible occurrence, three persons were arrested for torturing and killing a Great Indian Hornbill in Bhandari town of Wokha district of Nagaland. The arrested people have been turned over to the wildlife division team for further investigation. Time8 A video of a Hornbill being tortured and killed was widely circulated on social media, causing outrage among the public, animal rights activits and netizens. In the video, a local can be seen hitting and stepping on the bird’s neck with his foot. The Nagaland police arrested three people under the Wildlife and Arms Act for torturing and killing the bird. The weapon used has been seized, and parts of the hornbill have been recovered, an official said. Unsplash The Great Indian Hornbill has been listed as vulnerable on the IUCN Red List since 2018. The Wild Life (Protection) Amendment Bill 2021 regulates the protection of wild animals, birds and plants and also seeks to increase the species protected under the law. The three arrested will not be released on bail. The forest department and Wildlife Division have been carrying out various programmes for rejuvenating local biodiversity. However, public ignorance remains a major concern, and killing, hunting and capturing of wild animals continues in many parts of the district.']
+
+
+Great Indian Hornbill----SP.SPECIFIC
+
+Tortured And Killed----CRIME.CAT
+
+Nagaland----LOC.STATE
+
+3----SUS.NUMBER
+
+three----SUS.NUMBER
+
+arrested----OUTCOME
+
+Great Indian Hornbill----SP.SPECIFIC
+
+Bhandari town----LOC.EXACT
+
+Wokha----LOC.DISTRICT
+
+Nagaland----LOC.STATE
+
+arrested people have been turned over to the wildlife division team----OUTCOME
+
+Hornbill----SP.COMMON
+
+tortured and killed----CRIME.CAT
+
+three----SUS.NUMBER
+
+hornbill----SP.COMMON

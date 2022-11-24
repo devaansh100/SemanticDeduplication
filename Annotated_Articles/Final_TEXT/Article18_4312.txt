@@ -1,0 +1,45 @@
+
+['Odisha STF Seizes Leopard Hide, 1 Held\nThe Special Task Force (STF) of Odisha Police has seized a leopard hide and held one person on charge of smuggling wildlife body parts, police said. The seizure was made during a raid near Daberi village under Daringbadi police limits in Kandhamal district under a special drive against wildlife criminals. One person, identified as Bipin Nayak of Kandhamal. was held in this connection and later handed over to Daringbadi forest officials for necessary legal action, an official release said. Since 2020, the STF has seized 27 leopard skin, 15 elephant tusk, 7 deer skin, 12 pangolin, 23.5 kg of pangolin scales, 2 leopard teeth, 29 leopard claws, 46 live wild parrot and arrested 64 wildlife criminals, the release added. (Disclaimer: This story is auto-generated from a syndicated feed; only the image & headline may have been reworked by www.republicworld.com)']
+
+
+Odisha----LOC.STATE
+
+STF----AUTH.SEIZE
+
+Seizes----CRIME.CAT
+
+Leopard----SP.COMMON
+
+Hide----ITEM
+
+1----SUS.NUMBER
+
+Special Task Force (STF)----AUTH.SEIZE
+
+seized----CRIME.CAT
+
+a----QTY
+
+leopard----SP.COMMON
+
+hide----ITEM
+
+one----SUS.NUMBER
+
+smuggling----CRIME.CAT
+
+seizure----CRIME.CAT
+
+raid----DETECTION_METHOD
+
+Daberi village----LOC.EXACT
+
+Kandhamal district----LOC.DISTRICT
+
+special drive----DETECTION_METHOD
+
+Bipin Nayak----SUS.NAME
+
+Kandhamal----SUS.LOC
+
+teeth----ITEM

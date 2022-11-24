@@ -1,0 +1,67 @@
+
+['Three arrested with 11kg ambergris in Madurai; Probe on\nMADURAI: Forest officials seized 11kg of ambergris from a house at Madurai on Friday. Three people have been arrested for possessing the ambergris (whale vomit) and further investigation is underway to find out from where they smuggled such a rare substance.Sleuths from the wildlife protection department received a tip off that some people are trying to sell ambergris in the black market and the substance is hoarded in a shop at Chinnakadai Theru in South Masi street. The sleuths raided the shop and seized 11kg of ambergris.It is estimated to be 10 crore in the black market. But the wildlife officials are yet to estimate its commercial value. Three people, Rajaram , 36, from Manjanakara Street, Sundarapandi, 36, from Villapuram Housing Board and Kavi, 48, from Keeranur in Sivaganga district were arrested.District forest official, Gurusamy Dabala said that ambergris is a costly contraband in the black market. The price is fixed based on the demand, he said.Forest officials said that the smugglers are estimating its worth at 45 to 55 lakh and it is likely that they are not aware of the real worth.Ambergris is a solid waxy substance produced in the gut of the sperm whale. Though the fresh ambergris has fecal odour, it turns a pleasant smell once it ages.It has a huge commercial value in the perfume market since the perfume makers use it as a fixative to endure the fragrance longer. The wildlife product is banned by the Indian government.']
+
+
+Three----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+11kg----QTY
+
+ambergris----ITEM
+
+Madurai----LOC.CITY
+
+Forest officials----AUTH.SEIZE
+
+seized----CRIME.CAT
+
+11kg----QTY
+
+ambergris----ITEM
+
+Madurai----LOC.CITY
+
+Friday----DATE
+
+Three----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+possessing----CRIME.CAT
+
+ambergris----ITEM
+
+whale vomit----ITEM
+
+further investigation is underway----OUTCOME
+
+wildlife protection department----AUTH.SEIZE
+
+tip off----DETECTION_METHOD
+
+Chinnakadai Theru in South Masi street----LOC.EXACT
+
+11kg----QTY
+
+ambergris.It----ITEM
+
+10 crore----VALUE
+
+Rajaram----SUS.NAME
+
+36----SUS.AGE
+
+Manjanakara Street----SUS.LOC
+
+Sundarapandi----SUS.NAME
+
+36----SUS.AGE
+
+Villapuram Housing Board----SUS.LOC
+
+Kavi----SUS.NAME
+
+48----SUS.AGE
+
+Keeranur----SUS.LOC

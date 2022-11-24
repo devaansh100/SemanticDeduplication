@@ -1,0 +1,59 @@
+
+['MM Hills wildlife officers seize deer meat, arrest two : Welcome to Mysooru News\nChamarajanagar: Forest personnel seized 6.5 kg meat of wild animal and arrested two accused in the case on Monday. Acting on a tip off, about deer meat being transported on a two-wheeler, Male Mahadeshwara Wildlife division officers led by ACF R Vanitha stopped the vehicle on Lokkanahalli stretch which connects to Gundal village in Kollegala sub-division. The accused Nagesh and Madevi were found transporting meat to Gundal village and were apprehended soon after the inspection. While another accused Somu ran away. MM Hills wildlife division DCF V Yedukondalu has appreciated the personnel in checking wildlife crime. -Team Mysoorunews ']
+
+
+MM Hills wildlife officers----AUTH.SEIZE
+
+seize----CRIME.CAT
+
+deer----SP.COMMON
+
+meat----ITEM
+
+arrest----CRIME.CAT
+
+two----SUS.NUMBER
+
+seized----CRIME.CAT
+
+6.5 kg----QTY
+
+meat----ITEM
+
+arrested----CRIME.CAT
+
+two----SUS.NUMBER
+
+Monday----DATE
+
+tip off----DETECTION_METHOD
+
+deer----SP.COMMON
+
+meat----ITEM
+
+two-wheeler----TRANSPORT_MODE
+
+Male Mahadeshwara Wildlife division officers----AUTH.SEIZE
+
+ACF----OFF.DESIG
+
+R Vanitha----OFF.NAME
+
+Lokkanahalli stretch which connects to Gundal village in Kollegala sub-division----LOC.EXACT
+
+Nagesh----SUS.NAME
+
+Madevi----SUS.NAME
+
+meat----ITEM
+
+Gundal village----ROUTE.SRC
+
+Somu----SUS.NAME
+
+MM Hills wildlife division----AUTH.SEIZE
+
+DCF----OFF.DESIG
+
+V Yedukondalu----OFF.NAME

@@ -1,0 +1,41 @@
+
+['Hyderabad: Meat shop owner held for selling meat of wild animals\nHyderabad: The East Zone Task Force sleuths on Tuesday arrested a meat shop owner for selling the meat of wild animals. The police seized meat of two deers, three rabbits and 22 quails from his possession. According to police, the accused Syed Zameer (32), has been running a meat shop at Murgi Chowk for the past 10 years. About two years back, he came in contact with one Mohammed Ali of Bahadurpura, who encouraged the accused to assist him in selling meat of wild animals in Hyderabad and lured him with huge profits. As his earnings were not sufficient to meet his family expenditure, the accused agreed to the offer and since then started selling the meat of wild animals from his house, which was supplied to him by Ali clandestinely to the known and needy customers and earned easy money illegally. Police said efforts are being made to apprehend Mohammed Ali (25). The accused along with the meat of wild animals was handed over to the Forest Department for further investigation. ']
+
+
+selling----CRIME.CAT
+
+meat----ITEM
+
+East Zone Task Force----AUTH.SEIZE
+
+Tuesday----DATE
+
+arrested----CRIME.CAT
+
+meat shop owner----SUS.AFFIL
+
+seized----CRIME.CAT
+
+meat----ITEM
+
+two----QTY
+
+deers----SP.COMMON
+
+three----QTY
+
+rabbits----SP.COMMON
+
+22----QTY
+
+quails----SP.COMMON
+
+Syed Zameer----SUS.NAME
+
+32----SUS.AGE
+
+Mohammed Ali----SUS.NAME
+
+25----SUS.AGE
+
+The accused along with the meat of wild animals was handed over to the Forest Department for further investigation.----OUTCOME

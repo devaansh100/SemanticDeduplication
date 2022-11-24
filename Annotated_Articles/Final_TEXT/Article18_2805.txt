@@ -1,0 +1,21 @@
+
+['Sloth bear enters two houses, eat food items in The Nilgiris\nCOIMBATORE: A sloth bear broke into two houses and devoured rice and other commodities in The Nilgiris on Sunday night. According to the Forest Department, Durai, a resident of Manjur was fast asleep with his family members, when he woke up on hearing a noise in the kitchen during past midnight. He was shocked to find a sloth bear consuming rice, oil and other food items in the kitchen. As he raised an alarm, the neighbours turned up and chased away the bear. In a short while, the sloth bear again entered another house of an elderly woman in the same locality. The villagers then lit up fire and made loud noises to drive away the bear.']
+
+
+Sloth bear----SP.COMMON
+
+sloth bear----SP.COMMON
+
+rice----SP.COMMON
+
+Sunday----DATE
+
+night----TIME
+
+Durai----SUS.NAME
+
+Manjur----SUS.LOC
+
+midnight----TIME
+
+sloth bear----SP.COMMON

@@ -1,0 +1,23 @@
+
+['Lizard found in Chole Bhature at Chandigarh\'s food outlet. Users say \'ye bhi non-vegetarian hogya?\'\nFollow us on Image Source : TWITTER/@KROSHAN4MOBILE Lizard in Chole Bhature In a shocking incident, a lizard was reportedly found in a meal of a famous food outlet in Chandigarh. Following this, a team of food and safety officials visited the outlet in Nexus Elante Mall and collected samples from the meal. The reptile was found in a plate of \'Chhole Bhature.\' The video shared on social media has the lizard lying in the plate, under the bhatura in a \'semi-conscious state.\' Dropping the video, the user by the name Ravi Rai Rana #RWorld, wrote, "Had a very horrible experience on 14.6.22, at Sagar Ratan, food court, Elante Mall, Chandigarh. A live Lizard was found in semi-conscious state under the Bhatura. Complaint given to @DgpChdPolice they made sample seized by food health Dept. Chd. @KirronKherBJP." Further, he claimed that the incident happened with one of his friends. "This was a friend who had gone to eat there," he added. ALSO READ: Viral video of lioness getting disturbed by her cubs prove that mothers and patience go hand-in-hand | WATCH Hours after the video went viral, Tweeple chimed in the comment section with hilarious reactions. A user wrote, "Non veg bhature bhi dene lag gye ye log." Another said, "Ab Lizard ka kisi ke pet mein jaane ka mann bhi toh ho sakta hai na." A third comment read, "Exotic non veg order kiya that?" And here comes the epic one, "Aisa bhi toh jo sakta hai ki chhole bhature itne tasty ho uske ki chhipakali ne bhi socha iske liye jaan de dungi lekin kha kar rahungi." ALSO READ: Meme fest on Twitter after heavy rain lashes Delhi-NCR: \'Mind & window blown away\' Read More Trending News']
+
+
+Lizard----SP.COMMON
+
+Chole Bhature----LOC.EXACT
+
+Lizard----SP.COMMON
+
+Chole Bhature----LOC.EXACT
+
+lizard----SP.COMMON
+
+Chandigarh----LOC.DISTRICT
+
+food and safety officials----AUTH.SEIZE
+
+plate----CONCEALMENT_METHOD
+
+Chhole Bhature----LOC.EXACT
+
+Sagar Ratan, food court, Elante Mall, Chandigarh----LOC.EXACT

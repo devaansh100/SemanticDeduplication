@@ -1,0 +1,33 @@
+
+['Siliguri ‘corridor’ for timber smuggling\nThe frequent seizure of teak wood in and around Siliguri has proved that the area has become a corridor for timber smugglers, forest officials have said. The Sarugara forest range under the Baikunthapur forest division seized teak timber worth Rs 20 lakh from Fulbari near Siliguri today. The timber was being smuggled from Arunachal Pradesh and was being taken to Bihar, it is learnt. However, the accused persons travelling in a lorry were able to manage to give the foresters the slip, sources said. “The logs were hidden among old furniture so that no one doubted it when giving it a quick watch,” the sources said. The forest range had seized Burmese teak worth Rs 40 lakh and arrested two Haryana residents from the same area on 1 October. The consignment was loaded in Northeastern states and as headed for Nagpur, sources had then said. The foresters of the same range had seized Burmese teak worth around Rs 50 lakh last month too. The timber was being smuggled to Rajasthan from Manipur, they said. “Siliguri is being used as a corridor to smuggle timber to other parts of the country. We act and take necessary action based on information,” said a senior forest officer. Timber is smuggled from Myanmar and Northeastern states, including Nagaland, Meghalaya and Assam, to Kolkata, Delhi, Mumbai, Bihar, Uttar Pradesh and Rajasthan via Siliguri, forest officials said. The Burma teakwood is in huge demand for its quality, and is expensive than general teak. In 2019, the forest department had seized Burma teak and other teak wood worth several crores of rupees.']
+
+
+Siliguri----LOC.EXACT
+
+Siliguri----LOC.EXACT
+
+Sarugara forest range----AUTH.SEIZE
+
+teak----SP.COMMON
+
+timber----ITEM
+
+Rs 20 lakh----VALUE
+
+Fulbari----LOC.EXACT
+
+Siliguri----LOC.CITY
+
+today----DATE
+
+timber----SP.COMMON
+
+Arunachal Pradesh----ROUTE.SRC
+
+Bihar----ROUTE.DEST
+
+Rs 40 lakh----VALUE
+
+Rajasthan----ROUTE.DEST
+
+Manipur----ROUTE.SRC

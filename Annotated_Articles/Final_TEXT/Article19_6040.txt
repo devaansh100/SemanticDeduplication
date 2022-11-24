@@ -1,0 +1,15 @@
+
+['Picture of Dutch ‘jailbird’ sparks social media storm\nA picture of a small parrot “locked up” in a Dutch police cell is giving new meaning to jailbird -- and on Monday attracted a flurry of chirpy comments on social media. When police arrested the bird’s owner on suspicion of shoplifting in the central Dutch city of Utrecht on Thursday, they found the little bird nestled on the suspect’s shoulder. Local law enforcement did not have a bird cage on hand while processing the man, so the feathered felon was promptly put in a Dutch police cell with a sandwich and water. Police posted the picture of the lonely bird on Instagram. It was then reworked by a local news station which placed a black bar over its eyes “to protect its identity.” “We recently arrested a suspect in shoplifting case,” police said in the post. “During the arrest we found a secret witness with feathers and a beak on the suspect’s shoulder,” police said. “We then realised to our shock that we did not have a bird cell or cage,” the police said tongue-in-cheek, adding that the little creature was “well cared for.” But as in some criminal cases, there was even confusion over the winged suspect’s identity. Police called it a parakeet, but many people who saw the picture say it’s actually a dwarf parrot. The picture was soon picked up and has since sparked a wave of pithy remarks on social media. These included comments that the bird “won’t sing like a canary” and was “denied bail because he’s a flight risk.” Some have even offered the parrot legal assistance should it be dragged before a court of law. Police released the suspect the same day and his pet promptly took up position on his shoulder, RTV Utrecht reported. “The bird called upon its right to remain silent,” the station quoted police as saying.']
+
+
+Dutch ‘----SP.COMMON
+
+Monday----DATE
+
+arrested----CRIME.CAT
+
+shoplifting----CRIME.CAT
+
+Utrecht----LOC.CITY
+
+Thursday----DATE

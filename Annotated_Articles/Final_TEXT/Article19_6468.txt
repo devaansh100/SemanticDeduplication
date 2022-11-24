@@ -1,0 +1,67 @@
+
+["Cambodian national detained at Bengaluru airport with wild boar teeth\nAirport security personnel with the apprehended Cambodian national | Photo Credit: People Key Highlights The detained foreign national was headed to Varanasi in Uttar Pradesh Body parts of wild boars are used for black magic rituals Wild boars have been declared vermin in Bihar and a few other states where they are culled Bengaluru: Personnel with the Central Industrial Security Force (CISF) at the Kempegowda International Airport in Bengaluru seized three wild boar teeth from the possession of a Cambodian national on Wednesday. The passenger was slated to board a flight from the state capital of Karnataka to Varanasi in Uttar Pradesh when he was detained. At about 1.40 pm on December 25, Cambodian national Sopheap Chan was apprehended during the Pre-Embarkation Security Check (PESC) after CISF personnel detected three animal teeth in his hand baggage through the X-BIS machine. Chan told the officers that the teeth belonged to a wild boar, however, he was unable to produce any documents regarding the ownership of the teeth. A Cambodian national bound to board an Indigo Airlines Flight to Varanasi at 3.20 pm, Chan was handed over to Bengaluru City Police along with the teeth. The local forest department was also informed about the incident and further investigation into the matter is underway. Body parts of animals such as wild boars, deer, tiger and other big cats are in demand in India. These are used by self-proclaimed godmen for black magic rituals across the country even in this day and age. The nails of deer, the claws of leopards and tiger carry are priced exorbitantly high in the black market and are considered lucrative deals by poachers who continue to hunt these animals despite some of them being covered under the safeguard of the Wildlife Protection Act, 1972. In 2016, the Supreme Court of India refused to stay the central government's notification allowing the culling of nilgai and wild boar in Bihar. The boar is considered vermin in Bihar, Goa, Odisha and Uttarakhand. This makes it easier for the civic bodies or forest department to cull the species. Some states have also included monkeys in the list of vermin."]
+
+
+Cambodian----SUS.NAT
+
+detained----CRIME.CAT
+
+wild boar----SP.COMMON
+
+teeth----ITEM
+
+Cambodian----SUS.NAT
+
+Varanasi----ROUTE.DEST
+
+Central Industrial Security Force----AUTH.SEIZE
+
+CISF----AUTH.SEIZE
+
+Kempegowda International Airport----LOC.EXACT
+
+Bengaluru----LOC.CITY
+
+seized----CRIME.CAT
+
+three----QTY
+
+wild boar----SP.COMMON
+
+teeth----ITEM
+
+Cambodian----SUS.NAT
+
+Wednesday----DATE
+
+flight----TRANSPORT_MODE
+
+Varanasi----ROUTE.DEST
+
+1.40 pm----TIME
+
+December 25----DATE
+
+Cambodian----SUS.NAT
+
+Sopheap Chan----SUS.NAME
+
+CISF----AUTH.SEIZE
+
+three----QTY
+
+animal teeth----ITEM
+
+hand baggage----CONCEALMENT_METHOD
+
+wild boar----SP.SPECIFIC
+
+teeth----ITEM
+
+Cambodian----SUS.NAT
+
+Bengaluru City Police----AUTH.MISC
+
+local forest department----AUTH.MISC
+
+further investigation into the matter is underway----OUTCOME

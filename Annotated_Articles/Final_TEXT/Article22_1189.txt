@@ -1,0 +1,39 @@
+
+['Exotic monkeys, wallaby rescued in Assam\nFive exotic monkeys and a wallaby were rescued from two smugglers on Wednesday night in Assam’s North Kamrup. In a statement, the state forest department said the animals were recovered from six cages from a vehicle following a tip-off. An alleged smuggler from Maharashtra was arrested while another from Assam fled from the spot. Divisional forest officer Sunnydeo Choudhary, said the monkeys belong to four species. “We have been able to identify two species. One is a northern white-cheeked gibbon and another is a tufted capuchin [both critically endangered]. Among the other three, two belong to one species and one is from a separate species. They are yet to be identified,” he said. He said the arrested person told them the animals were being taken to Hyderabad, but he claimed to have no idea about their origin. “The other person from Assam was the one who had knowledge about where the animals were brought from.” Tufted capuchins are found in South America and the Caribbean islands of Trinidad and Margarita. Northern white-cheeked gibbons are found in South East Asia. The species of the monkeys are believed to have been smuggled via Myanmar. Five caged primates were rescued earlier this month from Assam’s Karbi Anglong district and two Manipur residents were arrested for allegedly smuggling them. The rescued animals were thought to be chimpanzees but they were later found to be siamang gibbons, a species found primarily in Thailand, Indonesia, and Malaysia. SHARE THIS ARTICLE ON ABOUT THE AUTHOR Utpal Parashar Utpal is a Senior Assistant Editor based in Guwahati. He covers seven states of North-East India and heads the editorial team for the region. He was previously based in Kathmandu, Dehradun and Delhi with Hindustan Times. ...view detail']
+
+
+monkeys----SP.COMMON
+
+wallaby----SP.COMMON
+
+rescued----CRIME.CAT
+
+Assam----LOC.STATE
+
+Five----QTY
+
+monkeys----SP.COMMON
+
+a----QTY
+
+wallaby----SP.COMMON
+
+rescued----CRIME.CAT
+
+two----SUS.NUMBER
+
+Wednesday----DATE
+
+night----TIME
+
+North Kamrup----LOC.EXACT
+
+state forest department----AUTH.SEIZE
+
+six cages----CONCEALMENT_METHOD
+
+vehicle----TRANSPORT_MODE
+
+tip-off----DETECTION_METHOD
+
+arrested----CRIME.CAT

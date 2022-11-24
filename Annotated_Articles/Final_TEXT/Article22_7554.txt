@@ -1,0 +1,35 @@
+
+['Four injured in bear attack in J&K’s Pulwama\nSrinagar, June 24 – Four persons were injured on Friday in bear attack in J&K’s Pulwama district. Police sources said that a bear attacked and injured two persons in Tahab village. “Later, the same bear attacked 2 persons in adjacent Maloora village. The injured were shifted to hospital while one of them was shifted for specialised treatment to Srinagar. ADVERTISEMENT “Meanwhile, officials of the wildlife protection department have rushed to the area to re-locate the bear”, the sources said. — sq/svn/']
+
+
+Four----SUS.NUMBER
+
+bear----SP.COMMON
+
+attack----CRIME.CAT
+
+J&K’s----LOC.STATE
+
+Pulwama----LOC.DISTRICT
+
+June 24----DATE
+
+Four----SUS.NUMBER
+
+Friday----DATE
+
+bear----SP.COMMON
+
+attack----CRIME.CAT
+
+J&K’s----LOC.STATE
+
+Pulwama----LOC.DISTRICT
+
+bear----SP.COMMON
+
+attacked and injured two persons----CRIME.CAT
+
+Tahab village----ROUTE.SRC
+
+wildlife protection department----AUTH.MISC

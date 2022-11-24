@@ -1,0 +1,11 @@
+
+['Indian Gaur dies in road mishap near Kavalkaranpatti\nAccording to sources, on Wednesday, while a herd of Indian Gaur were coming out of the forest area near Kakkireddypatti village and attempted to cross the national highway. An unknown speeding vehicle rammed on a calf, sustaining severe fracture injuries during the collision. The calf fell unconscious, later, the onlookers informed the forest department officials about the incident. Based on the information a special team rushed to the spot and started treatment, it was found that the calf sustained back bone fracture and also some internal injuries. Despite treatment, the calf died.']
+
+
+Indian Gaur----SP.SPECIFIC
+
+Wednesday----DATE
+
+Indian Gaur----SP.COMMON
+
+forest department officials----AUTH.SEIZE

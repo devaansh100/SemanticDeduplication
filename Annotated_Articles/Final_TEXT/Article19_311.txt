@@ -1,0 +1,18 @@
+
+['Madhya Pradesh: \'Cannibal\' tiger kills, eats two more tigers inside Kanha National Park\nA patrolling squad had spotted the carcasses at Kanhari area around 9.20am on Tuesday BHOPAL: Two more tigers were killed and eaten by another tiger inside Kanha National Park prompting Madhya Pradesh wildlife officials to study thriving cannibalistic behaviour among big cats within protected areas.A tigress was killed and eaten by the same tiger on January 19 this year.Officials say tigers killing tigers is natural, but one tiger killing and eating only tigers is something strange – that too when the park.“It’s a natural process through which they (tiger) control population. It is not possible to monitor the tiger 24x7, but we are observing it. Yesterday our patrolling squad had seen the tiger feeding on its kill,” says Kanha’s field director L Krishnamurthy.“Yes, it’s the same time that it had killed and eaten a tigress last month,” he said.Two sub-adult tigers were found dead in Kanha National Park on Tuesday. According to an official release, a patrolling squad had spotted the carcasses at Kanhari area around 9.20am. An adult tiger was found sitting over the two carcasses that had been ripped to shreds, said officials.“Cannibalism in tigers are not uncommon but the circumstances under which a tiger is feeding on its own species needs to be studied thoroughly. In Kanha, the prey base is adequate, territory is also good. Most compelling thing would be to examine the male female ratio,” says Dilip Kumar, APCCF (wildlife).In the previous cases reported from Kanha, a tigress was killed by cannibal tiger. The partial remains of the tigress, including its skull and paws, were found by a patrol team at Mundidadar and the viscera sent for further analysis. The forest guards who were on elephants had seen the scattered parts of the tigress and informed senior officials.Officials had expressed surprise over the behaviour even though the area has a good prey base.The forest officials and experts from the WWF and Wildlife Trust of India (WTI) surveyed the area and have submitted their preliminary report."The hunting tiger did not mean to satiate its hunger by eating the tigress, it is an extension of the territorial fight,” said an expert, while refuting the claims that the instance was connected to declining prey-base in the forests.Kanha in-fighting could be explained as it has a good population of tigers.Experts say most of the tiger population in well-established tiger reserves has reached its carrying capacity, posing fresh challenge to deal with dispersals and conflicts.']
+
+
+Cannibal' tiger kills, eats two more tigers inside Kanha National Park
+A patrolling squad had spotted the carcasses at Kanhari area around 9.20am on Tuesday BHOPAL: Two more tigers were killed and eaten by another tiger inside Kanha National Park prompting Madhya Pradesh wildlife officials to study thriving cannibalistic behaviour among big cats within protected areas.A tigress was killed and eaten by the same tiger on January 19 this year.Officials say tigers killing tigers is natural, but one tiger killing and eating only tigers is something strange – that too when the park.“It’s a natural process through which they (tiger) control population. It is not possible to monitor the tiger 24x7, but we are observing it. Yesterday our patrolling squad had seen the tiger feeding on its kill,” says Kanha’s field director L Krishnamurthy.“Yes, it’s the same time that it had killed and eaten a tigress last month,” he said.Two sub-adult tigers were found dead----SUS.AFFIL
+
+Kanha National Park----LOC.EXACT
+
+Tuesday----DATE
+
+carcasses----ITEM
+
+Kanhari area----LOC.EXACT
+
+9.20am.----TIME
+
+tiger----SP.COMMON

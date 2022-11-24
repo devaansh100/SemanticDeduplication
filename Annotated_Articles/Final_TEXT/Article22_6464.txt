@@ -1,0 +1,85 @@
+
+['Two Indian women arrested after getting caught with 109 wild animals in their luggage at Bangkok airport\nTwo Indian women arrested after getting caught with 109 wild animals in their luggage at Bangkok airport (Pic: Department of National Parks, Wildlife and Plant Conservation) Photo : Mirror Now Digital New Delhi: The : The Thailand officials on Monday arrested two Indian women at Bangkok airport for carrying 109 wild animals in their luggage. As per a Facebook post of the Thailand Department of National Parks, Wildlife and Plant Conservation, the two women were planning to smuggle the animals, including white porcupines, turtles, lizards, and snakes, on a Thai Airways flight to the Chennai airport. The two women have been identified as 38-year-old Nithya Raja and 24-year-old Zakia Sulthana Ebrahim. According to reports, Suvarnabhumi airport patrol officials found two suspicious objects in the bags of the two women while conducting an X-ray examination. Subsequently, the officials inspected their suitcases and discovered two white porcupines, two armadillos, 35 turtles, 50 lizards, and 20 snakes. The women have been charged with violating the Wildlife Conservation and Protection Act of 2019, the Animal Act of 2015, and the Customs Act of 2017 and subsequently arrested, as per Bangkok Post. An official statement issued by the Department of National Parks, Wildlife and Plant Conservation in the Thai language said while two iguanas were found dead, all other reptiles were in a dehydrated state. They have been provided with vitamin supplements, and proper care and sent to a wildlife rescue centre, said sources as reported by The Indian Express. As per a report of CNN, several incidents of animal trafficking have been reported in the past through airports in Thailand. In 2019, custom officers detained a man who arrived at the Chennai airport from Bangkok after they found a month-old leopard cub in his luggage.']
+
+
+Two----SUS.NUMBER
+
+Indian women----SUS.GENDER
+
+arrested----CRIME.CAT
+
+109----QTY
+
+wild animals----SP.COMMON
+
+Bangkok airport----LOC.EXACT
+
+Two----SUS.NUMBER
+
+Indian women----SUS.GENDER
+
+arrested----CRIME.CAT
+
+109----QTY
+
+wild animals----SP.COMMON
+
+Bangkok airport----LOC.EXACT
+
+Thailand officials----AUTH.SEIZE
+
+Monday----DATE
+
+arrested----CRIME.CAT
+
+two----SUS.NUMBER
+
+Indian women----SUS.GENDER
+
+Bangkok airport----LOC.EXACT
+
+109----QTY
+
+wild animals----SP.COMMON
+
+white porcupines----SP.SPECIFIC
+
+turtles----SP.COMMON
+
+lizards----SP.COMMON
+
+snakes----SP.COMMON
+
+Thai Airways flight----TRANSPORT_MODE
+
+Chennai airport----ROUTE.DEST
+
+38-year-old----SUS.AGE
+
+Nithya Raja----SUS.NAME
+
+24-year-old----SUS.AGE
+
+Zakia Sulthana Ebrahim----SUS.NAME
+
+X-ray examination----DETECTION_METHOD
+
+two----QTY
+
+white porcupines----SP.SPECIFIC
+
+two----QTY
+
+armadillos----SP.SPECIFIC
+
+35----QTY
+
+turtles----SP.COMMON
+
+50----QTY
+
+lizards----SP.COMMON
+
+20----QTY
+
+snakes----SP.COMMON

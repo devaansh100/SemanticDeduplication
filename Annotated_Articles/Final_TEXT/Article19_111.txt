@@ -1,0 +1,29 @@
+
+['Elephant found dead near in Contour canal near Tirupur\nTIRUPUR: A seven-year-old male elephant was found dead at Thirumoorthy reservoir in Tirupur district of Tamil Nadu on Friday.The carcass of the elephant from Anamalai Tiger Reserve (ATR) was found floating in the Contour canal , which drains into the reservoir.“We think that the elephant could have slipped into Contour canal while drinking water and sustained injuries on its head and died. It could be confirmed after postmortem,” said a senior forest official.The discovery of the carcass has diverted attention of the Udumalpet range forest personnel who had been busy in the past few days monitoring crop-raiding elephant Chinna Thambi, which was roaming in Madathukulam area near Udumalpet.']
+
+
+Elephant----SP.COMMON
+
+found dead----CRIME.CAT
+
+Contour canal----LOC.EXACT
+
+elephant----SP.COMMON
+
+found dead----CRIME.CAT
+
+Thirumoorthy reservoir----LOC.EXACT
+
+Tirupur----LOC.DISTRICT
+
+Tamil Nadu----LOC.STATE
+
+Friday----DATE
+
+carcass----ITEM
+
+elephant----SP.COMMON
+
+Anamalai Tiger Reserve (ATR)----ROUTE.SRC
+
+Contour canal----LOC.EXACT

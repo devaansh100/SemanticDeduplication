@@ -1,0 +1,25 @@
+
+['Swimmer Mauled to Death by 14-foot Great White Shark in Australia\nIn a spine-chilling incident captured on camera, a swimmer was mauled to death by a great white shark at a beach in Sydney, Australia. According to a report by Daily Mail, local fishermen witnessed the horrifying incident but could not help as the shark attacked the swimmer. The locals recalled hearing the screams of the man before he fell prey to the aquatic animal. Reportedly, in the footage, one of the fishermen can be heard saying that “someone just got eaten by a shark.” According to the eyewitnesses, they saw a four to five-metre long great white shark appear on the surface and attack the swimmer. After attacking the man, the shark came back and began feeding on his body. “It came back and swallowed parts of his body and that was it. It disappeared,” said a fisherman. Bystanders even recalled seeing the man being ripped apart by the sea predator and then getting devoured by it later. The incident caused panic at the Little Bay Beach in east Sydney which was packed with people. Following the attack, swimmers were ordered out of the water and rescue helicopters and lifesavers began to search for the victim. Reportedly, parts of the swimmer’s body and his wetsuit were later found in the water. According to NSW Ambulance Inspector Lucy Phrachanh, the swimmer had sustained severe injuries in the attack and could not make it. “There was not a lot paramedics could do when we arrived,” he added. The Little Bay Beach was closed and other beaches in the Randwick council area were also shut for the next 24 hours following the incident. According to Randwick mayor Dylan Parker, the beach is a calm place that is often thronged by families. It is being said that it was the first fatal attack in Sydney since 1963. The police will now open an investigation and liaise with the Department of Primary Industries (DPI) to look into the circumstances which led to the death of the swimmer. Read all the Latest News, Breaking News and Assembly Elections Live Updates here.']
+
+
+Swimmer----SP.COMMON
+
+Mauled----CRIME.CAT
+
+14-foot----QTY
+
+Great White Shark----SP.SPECIFIC
+
+Australia----LOC.STATE
+
+swimmer----SP.COMMON
+
+great white shark----SP.SPECIFIC
+
+Sydney----LOC.DISTRICT
+
+Australia----LOC.STATE
+
+great white shark----SP.SPECIFIC
+
+wetsuit----ITEM

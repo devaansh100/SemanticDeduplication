@@ -1,0 +1,25 @@
+
+['Andhra Pradesh: Notorious red sanders smuggler booked under PD Act by Kadapa police\nTIRUPATI: Kadapa police booked a notorious red sanders smuggler identified as Shaik Masthan (39) under the preventive detention (PD) Act on Thursday.According to Kadapa police, Shaik Masthan who was an accused in two murder cases and a theft case managed to establish links with international red sanders smugglers operating from the neighbouring states of Tamil Nadu and Karnataka and has been resorting to smuggling activities since 2018.He is an accused in as many as 10 red sanders smuggling cases registered at various police stations across the district. Following the orders issued by Kadapa district collector CH Hari Kiran , local police invoked the PD Act against Shaik Masthan to bring his smuggling activities to a complete naught.']
+
+
+red sanders----SP.COMMON
+
+booked under PD Act----OUTCOME
+
+Kadapa police----AUTH.SEIZE
+
+Kadapa police----AUTH.SEIZE
+
+booked----CRIME.CAT
+
+Shaik Masthan----SUS.NAME
+
+39----SUS.AGE
+
+Thursday.According----DATE
+
+Shaik Masthan----SUS.NAME
+
+international red sanders smugglers----SUS.AFFIL
+
+local police invoked the PD Act against Shaik Masthan----OUTCOME

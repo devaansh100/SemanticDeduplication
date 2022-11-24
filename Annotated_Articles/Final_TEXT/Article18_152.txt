@@ -1,0 +1,11 @@
+
+['Lion trapped on hippo carcass as crocodiles surround it: Viral video shows great escape\nInternet is a strange place as it carries some of the most unbelievable things. In one such dramatic video going viral, a lion can be seen stuck on the carcass (dead body) of a Hippopotamus in a stream while a bunch of ferocious alligators surround it. ADVERTISEMENT The video is from Maasai Mara National Park of Kenya. Shared on YouTube, the video will make you sit on the edge of your seat. Netizens were left awe-struck at the clip. Originally recorded by Antony Pesi, the video was shot in Kenya. In the video, the lion can be seen standing atop the carcass of a dead hippo. After a few seconds, the lion gets surrounded by several crocodiles. The animal then tries to jump off the carcass and dramatically swims past the ferocious reptiles to safety. “This is the incredible moment a lion stranded on top of a hippo carcass managed to escape by running straight through 40 crocodiles surrounding it. Antony Pesi was on a game drive in the Masai Mara National Reserve, Kenya, on May 23 when he spotted the giant carcass floating in a river surrounded by hungry predators. Amazing footage shows that on closer inspection, a scavenging lion also sensing a quick meal was stood on top of the body seemingly unable to escape from the approaching animals,” read the caption. Take a look: ADVERTISEMENT The video has over 14k views and tons of reactions. People were stunned to see the clip. Many wrote about how intelligently the lion handled the situation.']
+
+
+Lion----SP.COMMON
+
+hippo----SP.COMMON
+
+carcass----ITEM
+
+May 23----DATE

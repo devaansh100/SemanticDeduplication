@@ -1,0 +1,31 @@
+
+["Bhopal: Bear kills couple in forest, eats body parts\nRepresentative Photo | BHOPAL (Madhya Pradesh): A bear attacked and killed a couple on Sunday morning and kept devouring the corpses for over five hours in Panna district, an official of Panna Tiger Reserve (PTR) said. The man-eater bear was caught only after forest department personnel managed to tranquilise it, the official said. 'The incident occurred in Khermai area, some one-and-a-half kilometre from the district headquarters, at around 6.30 am. The couple, identified as Mukesh Thakur (50) and Indira Thakur (45) from Raniganj area, had gone to offer prayers at a temple. Staff who reached the spot found the bear eating the corpses part by part over a period of time. PTR field director KS Bhadoria, while talking to Free Press, said, 'Panna Tiger Reserve team reached there and caught it after tranquilisation and the bodies of the couple have been recovered. The man-eater also died as it had developed rabies infection. It was kept in an enclosure after transquilisation but later on it died. He said financial assistance of Rs 4 lakh each will be provided to the kin of the deceased. Meanwhile, the kin of the deceased claimed that police and forest teams arrived at the site two to three hours after the incident."]
+
+
+Bear----SP.COMMON
+
+kills----CRIME.CAT
+
+couple----SUS.NUMBER
+
+bear----SP.COMMON
+
+couple----SUS.NUMBER
+
+Sunday----DATE
+
+morning----TIME
+
+Khermai area----LOC.EXACT
+
+6.30 am----TIME
+
+Mukesh Thakur----SUS.NAME
+
+50----SUS.AGE
+
+Indira Thakur----SUS.NAME
+
+45----SUS.AGE
+
+Raniganj area----SUS.LOC

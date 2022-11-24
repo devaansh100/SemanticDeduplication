@@ -1,0 +1,45 @@
+
+['10.64 lakh worth sea cucumbers seized in Tamil Nadu, man arrested\nMADURAI: Marine police and forest department personnel seized 152kg of processed sea cucumber from M Gopu, 40, of Manangudi in Ramanathapuram district. Preliminary inquiries revealed that the accused had been booked and arrested earlier for a similar offence.Forest department sources said the seizure was made by the Pudumadam marine police on the Thalaithoppu seashore and that the accused was smuggling it to Sri Lanka . Officials said the seized sea cucumber was caught in the Gulf of Mannar area that houses a few species of sea cucumber.The value of the ‘Holothuria scabra’ (commonly known as sea cucumber or sandfish) seized is Rs 10.64 lakh at Rs 7,000 per kg. “Holothuria scabra is a species protected under Schedule I of the Wildlife Protection Act, 1972,” said forest range officer of Mandapam S Sathish.Gopu was taken to the Rameswaram court late in the evening on Friday. Officials said the seized sea cucumber would be destroyed on Saturday.']
+
+
+10.64 lakh----VALUE
+
+sea cucumbers----SP.COMMON
+
+Tamil Nadu----LOC.STATE
+
+man----SUS.GENDER
+
+arrested----CRIME.CAT
+
+Marine police----AUTH.SEIZE
+
+forest department----AUTH.SEIZE
+
+152kg----QTY
+
+processed sea cucumber----ITEM
+
+M Gopu----SUS.NAME
+
+40----SUS.AGE
+
+Manangudi----SUS.LOC
+
+Ramanathapuram----SUS.LOC
+
+seizure----CRIME.CAT
+
+Pudumadam marine police----AUTH.SEIZE
+
+Thalaithoppu seashore----ROUTE.SRC
+
+Sri Lanka----ROUTE.DEST
+
+Holothuria scabra----SP.SPECIFIC
+
+Rs 10.64 lakh----VALUE
+
+evening----TIME
+
+Friday----DATE

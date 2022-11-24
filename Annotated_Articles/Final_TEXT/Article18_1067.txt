@@ -1,0 +1,17 @@
+
+['Assam: Elephant attacked for the second time in Tamil Nadu temple\nGuwahati: A captive elephant has been the topic of discussion as a video of it being abused by its handler in Tamil Nadu’s Virudhunagar district has gone viral. The elephant being treated in such a way has raised concerns about the safety of elephants being kept captive. Also Read: Assam Floods: Situation improves, 3498 people still affected across four districts The elephant has been identified as Joymala which is originally from Assam. Joymala was reported to have been abused even earlier by its handlers. She was taken to Tamil Nadu’s Srivilliputhur temple in Virudhunagar district many years ago on lease as per some reports. In 2021, a video of her handler, Raja, brutally attacking the elephant went viral. This led to his removal. However, the latest video has been going viral which as per reports, is of the replaced handler attacking Joymala with a stick. Also Read: Assam: Hima Das makes a comeback, bags gold at National Athletics Championship 2022 many have raised questions and concerns over the safety of temple elephants across the country. Some reports further state that the elephant is being kept without legal or adequate documents. The wildlife authorities might soon seize the elephant and keep it somewhere safe. An India Today report stated that environmentalists who’ve been closely monitoring Joymala claim that she is not capable of listening to her handler’s commands due to extensive abuse in the past.']
+
+
+Assam----LOC.STATE
+
+Elephant----SP.COMMON
+
+attacked----CRIME.CAT
+
+elephant----SP.COMMON
+
+Virudhunagar----LOC.DISTRICT
+
+elephant----SP.COMMON
+
+Joymala----SP.SPECIFIC

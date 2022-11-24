@@ -1,0 +1,15 @@
+
+['Wildlife Smuggling Busted In Mayurbhanj\nMayurbhanj: Continuing the crackdown against the wildlife, the forest officials have seized a huge cache of wildlife items from a poacher who was earlier in Jasipur old bus stand under Karanjia forest of Mayurbhanj district. Reportedly, earlier on April 7, a joint team of Wildlife Crime Control Bureau (WCCB) and the Forest Department caught a wildlife poacher who was earlier caught red-handed while selling leopard skin in Jasipur old bus stand. Subsequently, the officials conducted a search at the residence of the prime accused and seized two leopard teeth, nails, and bones from his possession. Further investigation into the matter is underway.']
+
+
+Wildlife Smuggling Busted----SUS.AFFIL
+
+Mayurbhanj----LOC.DISTRICT
+
+seized----CRIME.CAT
+
+teeth----ITEM
+
+nails----ITEM
+
+bones----ITEM

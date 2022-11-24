@@ -1,0 +1,21 @@
+
+['Five leopard cubs found in sugarcane field in Pilibhit reunited with their mother\nApr 26, 2022, 10:27PM IST Source: TOI.in 5 leopard cubs were found in a sugarcane field in Pilibhit while the crop was being harvested. The WTI and forest department along with help from local residents ensured that the cubs were not disturbed and were protected from the scorching heat.']
+
+
+Five----QTY
+
+leopard----SP.COMMON
+
+sugarcane field----LOC.EXACT
+
+Pilibhit----LOC.CITY
+
+5----QTY
+
+leopard----SP.COMMON
+
+Pilibhit----LOC.CITY
+
+WTI----AUTH.SEIZE
+
+forest department----AUTH.SEIZE

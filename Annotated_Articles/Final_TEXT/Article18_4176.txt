@@ -1,0 +1,25 @@
+
+['Another tiger dies in "Tiger state" Madhya Pradesh\nYet another tiger was found dead in Madhya Pradesh pushing the total number of big cats to have died in different wildlife habitats of the state so far this year to 15. A tiger was found dead at Pench Tiger Reserve (PTR) located in Seoni district of the state on Sunday. The officials are suspecting that it was killed by another feline during a territorial fight. This was the fourth tiger to be reported dead in PTR so far, this year, whereas this is the fifth in the state in a fortnight. The carcass was spotted by a forest patrolling team on Sunday in Kurai range of the PTR, a wildlife officer told IANS on Monday. "It appears the tiger was killed in a fight with another adult tiger. The attacking carnivore ate most of the carcass and blood stains were found nearby," officer said, adding that the dead tiger\'s front legs and teeth were intact, while its tail and hind legs along with nails were found nearby. A thorough investigation was conducted with the help of a dog squad and there was no evidence of any suspicious activity at the spot, the official said. On April 9, a patrolling team had spotted the presence of an adult big cat in the area and it is suspected that the tiger was killed by the same feline, he said. Tiger state Madhya Pradesh has lost as many 15 tigers in the last four months in different wildlife habitats of the state, including five between April 1 to 11. Of the total tigers reported dead, 11 had lost their lives within the earmarked area of tiger reserves, while four were reported dead outside the area. On April 5, IANS had exclusively reported that as per the NTCA\'s data, overall, 39 tigers were reported dead across the country in the last four months (till April 4). Madhya Pradesh, like in the previous years, led with 14 tiger deaths, followed by Maharashtra with 10, while Karnataka was at third place with 6 tiger deaths.']
+
+
+tiger----SP.COMMON
+
+Madhya Pradesh----LOC.STATE
+
+tiger----SP.COMMON
+
+Madhya Pradesh----LOC.STATE
+
+tiger----SP.COMMON
+
+found dead----CRIME.CAT
+
+Pench Tiger Reserve (PTR----LOC.EXACT
+
+Seoni district----LOC.DISTRICT
+
+Sunday----DATE
+
+killed----CRIME.CAT
+
+carcass----ITEM

@@ -1,0 +1,15 @@
+
+['New Zealand: Alpine Parrot Flies Away With GoPro; Captures Aerial Escape | Watch\nAnyone who has visited New Zealand\'s Fiordlands will be familiar with the Kea, the country\'s native parrot. It\'s known for its intelligence and curiosity, and it can now add \'avid drone pilot\' to its resume after fleeing with a GoPro. After grabbing a GoPro digital camera and taking it on a wide tour of remote Fiordland, a kleptomaniac parrot has become the most recent contributor to New Zealand movies. The Kea, Aotearoa\'s native alpine parrot, is known for its curious and mischievous behaviour, as well as for stealing wallets, jewellery, packed lunches, windscreen wipers, and other items from unwary tourists and visitors. After a day of hiking in the remote Fiordland National Park, the Verheul family from the South Island city of Dunedin left their GoPro filming on a balcony at their hut along the Kepler Track last week. They put the GoPro out to take shots of the birds, but one of them grabbed the camera and flew away, documenting its flight down the hillside. GoPro captures Kea\'s aerial escape Everything was going fine until one particularly daring bird decided to test its filming abilities. The Kea dashed down the ledge, grabbed the camera, and flew away before anyone could react. The kea then flew down a forested slope before landing on a rocky outcrop to inspect the camera, as seen in the video. The GoPro captures the kea\'s aerial escape, as well as its touchdown and brief, frenzied assault on the camera – eventually filming a closeup of the bird\'s face as it strips off chunks of plastic. "We just followed the sound down there, we could see them hanging out in a tree – they’d obviously heard us coming and abandoned the GoPro…My son decided to go check the rocks where it looked like a good place for a bird to land, and there it was still sitting there, still filming," Alex Verheul told local TV show, Seven Sharp. Watch the video below: (With agency inputs, Image: Unsplash)']
+
+
+New Zealand----LOC.STATE
+
+Alpine Parrot----SP.SPECIFIC
+
+Flies Away----CRIME.CAT
+
+GoPro----ITEM
+
+Kea----SP.SPECIFIC
+
+Kea----SP.SPECIFIC

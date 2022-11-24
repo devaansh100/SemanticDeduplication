@@ -1,0 +1,53 @@
+
+['Elephants kill 5 people including 3 women in Madhya Pradesh’s Shahdol\nBHOPAL: A herd of elephants has killed three villagers, who had gone to collect Mahua in a forest of Jaisingh Nagar in Shahdol district, 500km from state capital Bhopal, on Wednesday morning, a forest department official said. Earlier on Tuesday, a couple was trampled to death by a herd of nine wild elephants in Jaisingh Nagar of the district. “On Wednesday morning, Balle Singh Kanwar, 50, his wife Lalita Kanwar, 48, and his sister-in-law Devi Singh, 38, all residents of Bansa village went to collect Mahua in the forest of Jaisingh Nagar when a herd of elephants trampled them and damaged a warehouse in the area. All three died on the spot,” said Dashrath Prajapati, deputy ranger, Jaisingh Nagar. Their bodies have been sent for post mortem. Forest guards are tracking the movement of elephants. Now, the herd of elephants has moved towards Semra village. Police and forest officers are trying to alert the villagers and also released a warning not to enter the forest due to the movement of elephants. On Tuesday, the herd of elephants killed Moti Lal Basor, 32, and his wife Mulia Bai, 30, residents of Chitrao village, who had gone to a forest of Jaisingh Nagar to collect Mahua. Madhya Pradesh principal chief conservator of forest JS Chauhan asked the forest officers to stay alert and to chase the elephants away to Chhattisgarh. In April 2020, the herds of elephants trampled a couple and their grandson in Anuppur district. After Chhattisgarh was carved out of Madhya Pradesh, the state had only seven elephants, according to state government estimate. However, in 2018 close to 140 elephants from Chhattisgarh reached southern districts of MP and never returned. By 2020, the number of elephants rose to close to 200. Most of them are in forests of Annupur, Umaria, Dindoria, Shahdol and Sidhi districts. MP state government also formed a special committee of 10 people to prepare a roadmap to reduce human-elephant conflict and the committee submitted the report. Now forest officials are preparing a plan to reduce elephant-human conflict, officials said. SHARE THIS ARTICLE ON']
+
+
+Elephants----SP.COMMON
+
+kill----CRIME.CAT
+
+5----SUS.NUMBER
+
+3----SUS.NUMBER
+
+Madhya Pradesh’s----LOC.STATE
+
+Shahdol----LOC.DISTRICT
+
+elephants----SP.COMMON
+
+killed----CRIME.CAT
+
+three----SUS.NUMBER
+
+Wednesday----DATE
+
+morning----TIME
+
+Wednesday----DATE
+
+morning----TIME
+
+Balle Singh Kanwar----SUS.NAME
+
+50----SUS.AGE
+
+Lalita Kanwar----SUS.NAME
+
+48----SUS.AGE
+
+Devi Singh----SUS.NAME
+
+38----SUS.AGE
+
+Bansa village----SUS.LOC
+
+Moti Lal Basor----SUS.NAME
+
+32----SUS.AGE
+
+Mulia Bai----SUS.NAME
+
+30----SUS.AGE
+
+Chitrao village----SUS.LOC

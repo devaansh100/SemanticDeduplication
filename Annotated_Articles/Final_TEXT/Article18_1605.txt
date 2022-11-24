@@ -1,0 +1,7 @@
+
+['Mahuva: Latest News, Videos and Photos of Mahuva\nSurat: Car rams into tree near Aangaldhara village; three dead, two injured TNN / Dec 13, 2021, 19:59 (IST) The five friends from different villages met each other in Bhinar village and were going to Tarkani village to participate in a marriage function when the driver lost control over the vehicle and crashed into a tree on the side of the road. From the crash, police suspect the car must be over 80 kmph.']
+
+
+Car----TRANSPORT_MODE
+
+Bhinar village----LOC.EXACT

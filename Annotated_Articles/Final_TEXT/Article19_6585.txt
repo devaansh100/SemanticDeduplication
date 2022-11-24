@@ -1,0 +1,13 @@
+
+['Night traffic ban on 3 roads through Koka sanctuary\nNagpur: In a bid to prevent wild animals from being killed in road-hits, Bhandara collector MJ Pradeep Chandran has issued orders to close three roads passing through Koka wildlife sanctuary between 6pm and 6am. Also, vehicle speed has been restricted to 20 kmph on these roads during the day.The order, however, exempts emergency vehicles like fire tenders and ambulances from the ban. The restrictions will not be applicable to local villagers and transportation of their farm produce.TOI was first to report on May 5, 2019, about a proposal forwarded by Navegaon-Nagzira Tiger Reserve (NNTR) to Bhandara collector highlighting frequent wild animal deaths in road-hit incidents on the patches passing through the sanctuary.The roads include Sakoli-Tumsar state highway, 6km of which passes through five reserve forest compartments of Koka, while Bhandara-Kardi via Paladi and Bhandara-Kardi via Salehetti passes 12km and 1.54km, respectively, through six and one sanctuary compartments.“Now these roads will be closed for traffic from 6pm to 6am. Orders to this effect were issued by the collector on December 12. Prior to this, both Bhandara and Sakoli tehsildars had submitted a positive report in August to close these roads,” said Poonam Pate, deputy director of NNTR.Forest officials said the sanctuary roads in the above patches were mostly used as shortcut during the night by heavy vehicles and dumpers to transport illegally procured sand and other mineral resources towards which state government is losing royalty worth crores.Koka forest connects New Nagzira and Nagzira wildlife sanctuaries and long dispersing animals like gaurs and tigers frequent these roads during night. The sanctuary also acts as a corridor between Navegaon-Nagzira and Umred-Karhandla wildlife sanctuary.Earlier, on July 16, 2015, Buldhana collector, under Section 25 of Indian Forest Act, 1927, and Section 33 of the Mumbai Police Act, 1951, had banned night traffic from 10pm to 5am between Buldhana-Warvand-Botha-Khamgaon road passing through Dnyanganga wildlife sanctuary.The decision was taken after frequent wild animal deaths were witnessed on the section. The NNTR officials too had referred to Buldhana collector’s decision and urged Bhandara collector to take a similar stand on roads passing through Koka to save wildlife. In Bandipur tiger reserve (Karnataka) and Melghat (Amravati) also, similar restrictions have been imposed.']
+
+
+Koka sanctuary----LOC.EXACT
+
+collector----OFF.DESIG
+
+MJ Pradeep Chandran----OFF.NAME
+
+Koka wildlife sanctuary----LOC.EXACT
+
+6am----TIME

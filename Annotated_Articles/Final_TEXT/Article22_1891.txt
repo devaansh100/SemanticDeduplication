@@ -1,0 +1,53 @@
+
+['Alipurduar: Unwell rhino dies at Jaldapara National Park\nDeepak M, the divisional forest officer of Jaldapara wildlife division, said they had spotted the animal around a week ago in a weak physical state Deepak M, the divisional forest officer of Jaldapara wildlife division, said they had spotted the animal around a week ago in a weak physical state. An adult male rhino that was unwell for some time died at the Jaldapara National Park of Alipurduar district on Friday morning. “We were monitoring its activities and today (Friday) morning, its carcass was found in the Jaldapara East Range area. Even though it seems that the rhino has died a natural death, we will conduct a post mortem,” said the forester. Smugglers arrested Troops of the 148 battalion of the Border Security Force (BSF) posted at Changrabandha border outpost in Cooch Behar district apprehended five Bangladeshi women from the bordering area while they were illegally trying to enter their country on Thursday. It was learnt that the quartet had arrived from Mumbai and wanted to go to Bangladesh. The women were later handed over to police at the Mekhliganj police station in Cooch Behar. Also, the BSF carried out anti-smuggling drives in different areas under north Bengal frontier on Thursday and Friday and seized various contraband items including cattle and cough syrup bottles. The BSF said the seized items were about to be smuggled to Bangladesh. The cost of the seized items is around Rs 9 lakh, the BSF sources said.']
+
+
+rhino----SP.COMMON
+
+Jaldapara National Park----LOC.EXACT
+
+Deepak M----OFF.NAME
+
+divisional forest officer----OFF.DESIG
+
+Deepak M----OFF.NAME
+
+divisional forest officer----OFF.DESIG
+
+Jaldapara wildlife division----AUTH.SEIZE
+
+Friday----DATE
+
+morning----TIME
+
+Friday----DATE
+
+morning----TIME
+
+carcass----ITEM
+
+Smugglers----SUS.AFFIL
+
+arrested----CRIME.CAT
+
+Troops of the 148 battalion of the Border Security Force (BSF)----AUTH.SEIZE
+
+five----SUS.NUMBER
+
+Bangladeshi----SUS.NAT
+
+women----SUS.GENDER
+
+Thursday----DATE
+
+BSF----AUTH.SEIZE
+
+Friday----DATE
+
+cattle----ITEM
+
+cough syrup bottles----ITEM
+
+Bangladesh----ROUTE.DEST
+
+Rs 9 lakh----VALUE

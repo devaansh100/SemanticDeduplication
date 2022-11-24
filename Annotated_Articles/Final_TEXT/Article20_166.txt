@@ -1,0 +1,35 @@
+
+["Six poachers arrested from national park in Odisha\nA poaching gang has been busted in Odisha's Kendrapara district and six persons, including a woman, arrested with wild boar meat in their possession, a senior forest official said on Thursday. Acting on a tip-off, a team of officials from Rajnagar forest division raided the park on Wednesday, and nabbed the poachers, who were then booked under various sections of Wildlife Protection Act, 1972, he said. Some other members of the racket, who had accompanied the six to the forest, however, fled the spot, and efforts were underway to nab them, the official said. The gang had been active in the area of late, he said, adding that poaching activities have picked up since the imposition of the lockdown. Last week, too, four persons were arrested in Bhitarkanika on the charge of killing a spotted deer.. (This story has not been edited by Devdiscourse staff and is auto-generated from a syndicated feed.)"]
+
+
+Six----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+Odisha----LOC.STATE
+
+poaching gang----SUS.AFFIL
+
+Odisha's----LOC.STATE
+
+Kendrapara----LOC.DISTRICT
+
+six----SUS.NUMBER
+
+woman----SUS.GENDER
+
+arrested----CRIME.CAT
+
+wild boar----SP.COMMON
+
+meat----ITEM
+
+tip-off----DETECTION_METHOD
+
+Rajnagar forest division----AUTH.SEIZE
+
+raided----DETECTION_METHOD
+
+Wednesday----DATE
+
+booked under various sections of Wildlife Protection Act, 1972----OUTCOME

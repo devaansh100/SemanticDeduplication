@@ -1,0 +1,13 @@
+
+['Monkey Falls: Latest News, Videos and Photos of Monkey Falls\nUttar Pradesh: Man revives 3 monkeys knocked out by electric shock in Shahjahanpur TNN / Dec 08, 2021, 04:43 (IST) The three monkeys lay senseless on the ground after falling off the electric pole. People saw and walked past assuming the simians were dead after coming in contact with overhead high voltage cables. But Moed Khan, a local resident and medical support staff at a community health centre, decided to take a chance and try and resuscitate the trio after sprinkling some water on them. The monkeys lived.']
+
+
+Monkey----SP.COMMON
+
+Uttar Pradesh----LOC.STATE
+
+3----QTY
+
+monkeys----SP.COMMON
+
+Moed Khan----OFF.NAME

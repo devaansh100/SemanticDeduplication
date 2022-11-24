@@ -1,0 +1,41 @@
+
+['Anantapur: Three poachers held with deer meat in Tadimarri\nAnantapur: The district forest department has swung into action to check poaching and smuggling of wildlife animals and arrested three persons at Tadimarri reserve forest in the district on Tuesday when they indulging in poaching of wild animals including spotted deer, black buck, hare, snakes and wild boar in the reserve forests of the district.  According to DFO R Jaganath Singh, the smugglers and poachers of wildlife had formed a nexus with others in the Rayalaseema districts and were on the hunt for wild animals keeping in view the lockdown time. They were not only poaching wildlife animals including spotted deer and hares for personal consumption but also indulging in selling of deer and other wildlife meat. The forest rangers took into custody 3 persons at Tadimarri reserve forest in the district with deer meat and captured deers. The reserve forest guards during the lockdown period had taken a total of 46 persons engaged in meat smuggling activities and poaching of wildlife and filed cases against them under the Wildlife Conservation Act. Conservation Teams have been pressed into action to nab wildlife meat smugglers and poachers. Vigilance has been stepped up throughout the forest ranges in the district with the help of informers who are in touch with the officials. Many in the Rayalaseema region have taken to poaching of wild animals to overcome poverty and loss of livelihood caused by Covid-19 challenges. DFO Singh told The Hans India that action has been taken against 4 others for indulging in cruelty towards animals and the videos of which were posted by them in TikTok. They were arrested by the forest officers.']
+
+
+Three----SUS.NUMBER
+
+poachers----SUS.AFFIL
+
+deer----SP.COMMON
+
+meat----ITEM
+
+Tadimarri----LOC.EXACT
+
+district forest department----AUTH.SEIZE
+
+three----SUS.NUMBER
+
+Tadimarri reserve forest----LOC.EXACT
+
+Tuesday----DATE
+
+poaching----CRIME.CAT
+
+spotted deer----SP.SPECIFIC
+
+black buck----SP.SPECIFIC
+
+hare----SP.COMMON
+
+snakes----SP.COMMON
+
+wild boar----SP.COMMON
+
+3----SUS.NUMBER
+
+Tadimarri reserve forest----LOC.EXACT
+
+deer----SP.COMMON
+
+meat----ITEM

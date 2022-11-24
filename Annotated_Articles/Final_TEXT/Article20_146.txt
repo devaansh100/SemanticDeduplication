@@ -1,0 +1,47 @@
+
+['Bengaluru: Red sanders worth Rs 16 lakh seized\nSulibele police have seized 14 red sander logs worth Rs 16 lakh while it was being smuggled in the early hours of Tuesday. According to the police, they got credible information that the red sanders logs were being smuggled in an SUV on the Sulibele-Jangamakote road. A team headed by police sub-inspector R Madhusoodhan swung into action. They rushed to the Gollahalli forest area to lay in wait for the smugglers. Around 5 am, they saw the Toyota Innova coming from Hoskote and asked the driver to stop. He attempted to speed away, but he stopped a few meters from where the police was standing and got down and fled. “We found 14 logs of red sanders concealed beneath a plastic sheet inside the SUV. The driver ran into the forest area. As it was dark, we were unable to chase him. A case has been registered,” a policeman said.']
+
+
+Red sanders----SP.COMMON
+
+Rs 16 lakh----VALUE
+
+seized----CRIME.CAT
+
+Sulibele police----AUTH.SEIZE
+
+seized----CRIME.CAT
+
+14----QTY
+
+red sander----SP.COMMON
+
+logs----ITEM
+
+Rs 16 lakh----VALUE
+
+early hours----TIME
+
+Tuesday----DATE
+
+information----DETECTION_METHOD
+
+red sanders----SP.COMMON
+
+logs----ITEM
+
+SUV----TRANSPORT_MODE
+
+Sulibele-Jangamakote road----ROUTE.TRANSIT
+
+police sub-inspector----OFF.DESIG
+
+R Madhusoodhan----OFF.NAME
+
+Toyota Innova----TRANSPORT_MODE
+
+14----QTY
+
+logs----ITEM
+
+red sanders----SP.SPECIFIC

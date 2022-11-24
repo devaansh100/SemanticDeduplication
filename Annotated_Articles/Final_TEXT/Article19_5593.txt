@@ -1,0 +1,49 @@
+
+['Sal logs worth Rs 70 K seized\nPatna: A vehicle loaded with smuggled logs worth Rs 70 thousand was seized by forest department officials on Turumunga-Keonjhar road at Bhalughara village under Patna forest range in Keonjhar district Tuesday morning. According to officials, several timber smuggling groups have been highly active in the last couple of months in Patna forest division which is situated in a remote area of this district. In a bid to curb smuggling, forest administration official Pabitra Mohan Nayak, Khireitangiri forester Amulya Kumar Senapati, forest guard Akshya Kumat Mohanty conducted a surprise raid Tuesday morning acting on a tip-off. In the process, they seized the vehicle containing a large quantity of timber. That said, two accused involved in this illegal transportation of logs fled from the spot. PNN']
+
+
+Sal----ITEM
+
+logs----ITEM
+
+Rs 70 K----VALUE
+
+seized----CRIME.CAT
+
+vehicle----TRANSPORT_MODE
+
+logs----ITEM
+
+Rs 70 thousand----VALUE
+
+seized----CRIME.CAT
+
+forest department----AUTH.SEIZE
+
+Turumunga-Keonjhar road----LOC.EXACT
+
+Bhalughara village under Patna forest range----LOC.EXACT
+
+Tuesday----DATE
+
+morning----TIME
+
+forester----OFF.DESIG
+
+Amulya Kumar Senapati----OFF.NAME
+
+forest guard----OFF.DESIG
+
+Akshya Kumat Mohanty----OFF.NAME
+
+Tuesday----DATE
+
+morning----TIME
+
+tip-off----DETECTION_METHOD
+
+seized----CRIME.CAT
+
+vehicle----TRANSPORT_MODE
+
+timber----SP.COMMON

@@ -1,0 +1,51 @@
+
+['Three arrested with pangolin\nThree persons were arrested on Sunday in Basna in Chhattisgarh with a three-year-old pangolin, an endangered species and the world’s most trafficked mammal. Mahasamund Superintendent of Police Prafulla Kumar Thakur said that police got a tip that some people were looking for customers to sell the pangolin. A police team near Chanachat and Daldali village spotted a Maruti van CG 22 K 1557. There were two motorcycles too whose riders tried to escape but were caught. The accused identified themselves as Govind Bariha of Pirda Tedhidipa (Balodabazar), Kritilal Patel of Bhanwarpur (Mahasamund) and Uttra Yadav. Police seized the pangolin from the Maruti van, Thakur said. “Govind Bariha said they caught the pangolin from a forest using nets and were searching for a buyer. Police have handed over the case to the Forest Department,” he said. Divisional Forest Officer Mayank Pandey said: “The pangolin is around three years of age and weighs around 14 kg. Its length is 40 inches. It has been sent for medical check-up. It will then be sent to Raipur based Jungle Safari." He said action has been initiated against the accused under the Wildlife Act 1972 Sections 9, 39(1)(b), 20, 50 (a,b) and 51.']
+
+
+Three----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+pangolin----SP.COMMON
+
+Three----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+Sunday----DATE
+
+Basna----LOC.EXACT
+
+Chhattisgarh----LOC.DISTRICT
+
+pangolin----SP.COMMON
+
+Prafulla Kumar Thakur----OFF.NAME
+
+a tip----DETECTION_METHOD
+
+pangolin----SP.COMMON
+
+Maruti van CG 22 K 1557----TRANSPORT_MODE
+
+two----QTY
+
+motorcycles----TRANSPORT_MODE
+
+Govind Bariha----SUS.NAME
+
+Pirda Tedhidipa (Balodabazar----SUS.LOC
+
+Kritilal Patel----SUS.NAME
+
+Bhanwarpur----SUS.LOC
+
+Mahasamund----SUS.LOC
+
+Uttra Yadav----SUS.NAME
+
+seized----CRIME.CAT
+
+pangolin----SP.COMMON
+
+Maruti van----TRANSPORT_MODE

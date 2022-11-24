@@ -1,0 +1,69 @@
+
+['Maha: 7 men try to smuggle pangolin in ambulance; arrested\nSeven people were arrested on Thursday in neighbouring Navi Mumbai for allegedly smuggling a pangolin in an ambulance for illegal sale, police said. Acting on a tip-off, a car and ambulance were stopped on Mumbra-Panvel Road by Kalamboli police, after which seizure of the pangolin, weighing over 7 kilograms, was made, an official said. "It was kept in a steel tank covered with a blanket which was placed between the rear seats. It was unconscious at the time," he added. He identified the seven as Ramesh Datey, Sunil Datey, Mukesh Mohite, Umesh Pawar, Pandurang Chavan, Vijay More and Bhawan Mane, all from Pune, Ratnagiri and Satara. "We have taken a case under the Wildlife Protection Act and probe is underway to find out where they got the pangolin and to whom they intended to sell it," said Assistant Commissioner of Police (Panvel) Ravindra Gidde. Pangolins, or scaly ant-eaters, are hunted for their scales due to a misconception that they cure a wide variety of diseases. (This story has not been edited by Business Standard staff and is auto-generated from a syndicated feed.)']
+
+
+7----SUS.NUMBER
+
+men----SUS.GENDER
+
+smuggle----CRIME.CAT
+
+pangolin----SP.COMMON
+
+ambulance----TRANSPORT_MODE
+
+arrested----CRIME.CAT
+
+Seven----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+Thursday----DATE
+
+Navi Mumbai----LOC.CITY
+
+pangolin----SP.COMMON
+
+ambulance----TRANSPORT_MODE
+
+tip-off----DETECTION_METHOD
+
+car----TRANSPORT_MODE
+
+ambulance----TRANSPORT_MODE
+
+Mumbra-Panvel Road----LOC.EXACT
+
+seizure----CRIME.CAT
+
+pangolin----SP.COMMON
+
+7 kilograms----QTY
+
+steel tank----CONCEALMENT_METHOD
+
+seven----SUS.NUMBER
+
+Ramesh Datey----SUS.NAME
+
+Sunil Datey----SUS.NAME
+
+Mukesh Mohite----SUS.NAME
+
+Umesh Pawar----SUS.NAME
+
+Pandurang Chavan----SUS.NAME
+
+Vijay More----SUS.NAME
+
+Bhawan Mane----SUS.NAME
+
+Pune----SUS.LOC
+
+Ratnagiri----SUS.LOC
+
+Satara----SUS.LOC
+
+case under the Wildlife Protection Act----OUTCOME
+
+pangolin----SP.COMMON

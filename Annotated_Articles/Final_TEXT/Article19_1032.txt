@@ -1,0 +1,17 @@
+
+["Reptile Deathmatch: Adult alligator battles giant python at Florida National Park, video goes viral - Watch\nRich Kruger | Photo Credit: Facebook A video has gone viral on social media that shows an adult alligator chomping down on a giant python at Florida’s Everglades National Park. The deathmatch was captured on camera by Richard Kruger who was out on the Shark Valley bike trail, off the Tamiami Trail in Miami-Dade. He later shared the video on social media. It has now gone viral on Facebook, Twitter, and Instagram. According to Kruger's social media posts, the python was at least 10-feet tall. Check it out: In the video, an adult alligator can be seen chomping on a python in Everglade National Park ’s marshy reptile complex. Moments later, the alligator goes for the kill by biting on the snake’s head in full-force. The alligator lifts the python in the air for a violent shake and then slowly rests on top of the snake in the water. Reptile duels are a common sight at Everglades National Park. More often then not, it’s the snakes that come out as the winner. This time, however, it was an alligator. But in June 2018, an alligator was almost defeated by a giant python but timely intervention by zookeepers saved the reptile’s life."]
+
+
+alligator----SP.COMMON
+
+python----SP.COMMON
+
+Florida National Park----LOC.EXACT
+
+python----SP.COMMON
+
+Everglades National Park----LOC.EXACT
+
+Richard Kruger----SUS.NAME
+
+Shark Valley bike trail----ROUTE.SRC

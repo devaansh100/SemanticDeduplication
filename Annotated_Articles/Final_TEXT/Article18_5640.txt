@@ -1,0 +1,53 @@
+
+['318 Indian softshell turtles recovered in Lucknow, 1 held\nLUCKNOW: The forest department on Monday rescued 318 Indian softshell turtles, an endangered species, from Mohan Road and arrested one smuggler in this connection while others managed to flee. Divisional forest officer, Ravi K Singh, said that acting on a tip-off about smuggling of turtles via Lucknow-Sitapur road, a team of officers was formed and deployed at Mohan Road. “A pick-up vehicle with registration number- UP-36 9217 was stopped on suspicion. Upon checking, 318 Indian softshell turtles (Lissemys punctata) were recovered from six bags kept in the vehicle,” said Singh. He said that one Michel, a resident of Amethi district, was arrested while others managed to flee. He said that the turtles were being brought from Unnao district and being taken to Sultanpur. “Indian softshell turtles are protected species under the Schedule-1, Section -2 of the Wildlife Act. They are chiefly found in rivers Gomti and Sai,” he added.']
+
+
+318----QTY
+
+Indian softshell turtles----SP.SPECIFIC
+
+recovered----CRIME.CAT
+
+Lucknow----LOC.CITY
+
+1----SUS.NUMBER
+
+LUCKNOW----LOC.CITY
+
+forest department----AUTH.SEIZE
+
+Monday----DATE
+
+rescued----CRIME.CAT
+
+318----QTY
+
+Indian softshell turtles----SP.SPECIFIC
+
+Mohan Road----LOC.EXACT
+
+arrested----CRIME.CAT
+
+one----SUS.NUMBER
+
+tip-off----DETECTION_METHOD
+
+turtles----SP.COMMON
+
+Lucknow-Sitapur road----ROUTE.SRC
+
+pick-up vehicle----TRANSPORT_MODE
+
+318----QTY
+
+Indian softshell turtles----SP.SPECIFIC
+
+Lissemys punctata)----SP.SPECIFIC
+
+bags----CONCEALMENT_METHOD
+
+Amethi district----SUS.LOC
+
+Unnao district----ROUTE.SRC
+
+Sultanpur----ROUTE.DEST

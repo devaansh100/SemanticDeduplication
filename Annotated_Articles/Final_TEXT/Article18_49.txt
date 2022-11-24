@@ -1,0 +1,27 @@
+
+['Wildlife SOS captures snake preying on crow in Delhi farmhouse pool\nPUNE: Conservation organisation Wildlife SOS recently rescued a venomous snake from the pool of a Delhi-based farmhouse after the latter was spotted preying on a crow .The snake is currently under the NGO’s care.The snake, called the Common Krait snake, was spotted preying on a crow in the swimming pool of a farmhouse in the Bijwasan area, New Delhi.Residents of Pushpanjali Farms in Delhi spotted the snake in their swimming pool. Fearing for their safety, the family contacted Wildlife SOS for help.When the NGO’s Rapid Response Unit arrived at the location, the rescuers carefully extricated the krait from the pool and transferred it to a transit facility for temporary observation.This particular species is commonly found in proximity to water and they feed primarily on other snakes, rodents, frogs, toads, lizards and also birds. While seeking out shelter in cooler places or easily available prey , kraits often find their way into houses, leading to conflict with humans.Kartick Satyanarayan, Co-founder and CEO, Wildlife SOS, said, “The Common Krait is one of the ‘Big 4’ venomous snake species found in India and our team is well-equipped and highly trained to handle such dangerous rescue operations. We are thankful to the concerned residents who alerted Wildlife SOS and showed compassion towards the reptile.”The NGO also came to the rescue of a massive Monitor Lizard and an Indian Rat Snake in two separate instances.The Monitor Lizard entered a shop in the Delhi Cantonment area and upon spotting the reptile, the shop owner immediately informed Wildlife SOS.The rescue of a five-foot-long Rat Snake from the bathroom of an office of a gas company in Rohini Sector 19 rounded off the busy day dominated by reptile rescues.']
+
+
+snake----SP.COMMON
+
+crow----SP.COMMON
+
+Wildlife SOS----AUTH.SEIZE
+
+venomous snake----SP.COMMON
+
+snake----SP.COMMON
+
+Common Krait snake----SP.SPECIFIC
+
+Pushpanjali Farms----LOC.EXACT
+
+Monitor Lizard----SP.COMMON
+
+Indian Rat Snake----SP.SPECIFIC
+
+Monitor Lizard----SP.COMMON
+
+Delhi Cantonment area----LOC.EXACT
+
+Rat Snake----SP.COMMON

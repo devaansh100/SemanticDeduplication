@@ -1,0 +1,41 @@
+
+['STF Rescues Live Pangolin In Boudh, Nabs One\nBhubaneswar: The Special Task Force (STF) of Odisha Crime Branch along with Forest officials of Boudh apprehended a person with an alive pangolin alive. According to STF officials, a raid was carried out near Khuntigura village between Kantamal-Baliguda Road under Kantamala police limits in Boudh by the STF and district forest sleuths. During the search a pangolin weighing 12.4 kg and other incriminating materials were recovered from one Biseswar Bagarti of Tentuliamand under Tarava police limits in Sonepur, officials said. The accused person could not produce any authority in support of the possession of the animal, for which he has been detained and handed over to Kantamal Forest Officials under Boudh Forest Division for necessary legal action. The pangolin was handed over to DFO, Boudh for safe custody. An inquiry is underway, the STF stated.']
+
+
+STF----AUTH.SEIZE
+
+Pangolin----SP.COMMON
+
+Boudh----LOC.DISTRICT
+
+Nabs----CRIME.CAT
+
+One----SUS.NUMBER
+
+Special Task Force (STF)----AUTH.SEIZE
+
+Forest officials of Boudh----AUTH.SEIZE
+
+apprehended----CRIME.CAT
+
+pangolin----SP.COMMON
+
+raid----DETECTION_METHOD
+
+Khuntigura village----LOC.EXACT
+
+STF----AUTH.SEIZE
+
+district forest sleuths----AUTH.SEIZE
+
+a----QTY
+
+pangolin----SP.COMMON
+
+12.4 kg----QTY
+
+Biseswar Bagarti----SUS.NAME
+
+Tentuliamand----SUS.LOC
+
+Sonepur----LOC.DISTRICT

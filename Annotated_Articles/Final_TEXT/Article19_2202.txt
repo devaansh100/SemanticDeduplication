@@ -1,0 +1,21 @@
+
+['Man Goes For A Leak In Open, Pissed Elephant Takes Him For A Ride In His Trunk For 50 Metres\nStrength and affinity for rage makes elephants one of the most dangerous animals in the world. Yet, they can be a man’s best friend also. Elephants are now also appearing to be friendly towards social causes. In an amusing incident, an elephant in Purulia district of West Bengal was offended at the sight of a farmer defecating in the open. He became so furious that he wrapped the man around his trunk before running for almost 50 metres through the field. The incident took place on Wednesday morning. After running through the field, the pachyderm dropped the panicking farmer to the ground and escaped into the forest, TOI reported. Forest department officials then rescued the 55-year-old Niranjan Sahish and took him to a primary health care centre. A doctor informed the publication that he received injuries to his leg and back though, he is out of danger. Photo: Safaribookings/ Representational Department officials allege that the elephant might have entered the forest in search of food but panicked upon seeing the farmer. Sahish went to relieve himself at around 4 in the morning from his home in Ghatbera village. He heard the elephant approaching but before he could run away, the mammal covered him in his trunk. "I thought I was going to die and kept praying to God. When the elephant dropped me to the ground, I could not believe my luck," Sahish told officials. The incident is a lesson for villagers to use toilets at home rather than relieving themselves in the field. The district administration said that they often hold awareness campaigns in the village to urge people to use lavatories than open fields.']
+
+
+Man----SUS.GENDER
+
+Elephant----SP.COMMON
+
+elephant----SP.COMMON
+
+Wednesday----DATE
+
+morning----TIME
+
+Forest department officials----AUTH.SEIZE
+
+55-year-old----SUS.AGE
+
+Niranjan Sahish----SUS.NAME
+
+4 in the morning----TIME

@@ -1,0 +1,13 @@
+
+['1 of 2 jumbos stuck in Mahanadi river swims to safety, another not as lucky\nOne of the two elephants who had got stuck mid-water while crossing the Mahanadi river near Bhagipur in Banki area of Cuttack reportedly swam across the river and reached the bank safely. However, the other elephant has been still stranded in the river. As per sources, a herd of jumbos had gone to Sukasen forest from Chandaka sanctuary by crossing the river a couple of days earlier. However, two among them got trapped in the river when the pair tried to return. The local residents spotted the wild animals after hearing their trumpeting and immediately informed the forest officials. The forest department officials reached the spot immediately and mounted a rescue operation. As per the forest officials, the water level was very high near the spot and they were trying their best to rescue the pachyderms without any damage to their lives and properties of the local people. They are hopeful that both the wild animals will be able to cross the river safely. A large number of people have reportedly gathered on the bank of the river to catch a glimpse of the stranded elephants in the river and as a result, the elephants got intimidated and remained inside the river for a long time. However, one of them crossed the river at last. Earlier, an injured tusker was found lying near a rivulet in Narasinghapur forest range under Athagarh forest division in Cuttack district. The cause of its illness is said to be bullet injuries. The wild animal, which is writhing in pain, has bullets stuck on its trunk. A decomposed body of a tusker had been recovered from Badamba forest two days ago. In September last year, an elephant stuck at Mundali barrage in the Mahanadi river for hours had died later and its carcass was found near Jobra barrage. ']
+
+
+1----QTY
+
+2----QTY
+
+jumbos----SP.SPECIFIC
+
+Mahanadi river----LOC.EXACT
+
+elephants----SP.COMMON

@@ -1,0 +1,45 @@
+
+['Big sandalwood haul, seizure worth two crore\nBig sandalwood haul, seizure worth two crore Kasaragod, Oct. 6 (UNI) In an unprecedented move early on Tuesday morning, the District Collector and the Divisional Forest Officer here has seized over 850 kilograms of sandalwood from Vidyanagar near here. Forest sources put the value of the seizure at two crore rupees. According to sources, the sandalwood logs were stored in about 30 sacks and were seen loaded in five vehicles including a lorry. The vehicles were parked in a house near the DC’s official residence. The gunmen and driver of the district collector noticed movement of vehicles and loading of sacks early in the morning, they said.']
+
+
+sandalwood----SP.COMMON
+
+seizure----CRIME.CAT
+
+two crore----VALUE
+
+sandalwood----SP.COMMON
+
+seizure----CRIME.CAT
+
+two crore----VALUE
+
+Tuesday----DATE
+
+morning----TIME
+
+District Collector----OFF.DESIG
+
+Divisional Forest Officer----OFF.DESIG
+
+seized----CRIME.CAT
+
+850 kilograms----QTY
+
+sandalwood----SP.COMMON
+
+Vidyanagar----LOC.CITY
+
+seizure----CRIME.CAT
+
+two crore rupees----VALUE
+
+sandalwood----SP.COMMON
+
+logs----ITEM
+
+30 sacks----CONCEALMENT_METHOD
+
+five vehicles----TRANSPORT_MODE
+
+lorry----TRANSPORT_MODE

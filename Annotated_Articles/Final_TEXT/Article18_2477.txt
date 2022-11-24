@@ -1,0 +1,21 @@
+
+['Forest Officials Nab Two Poachers In Odisha\nMayurbhanj: Forest officials have arrested two poachers near Chandanchaturi on behalf of the Pithabata Wildlife Range under the Simlipal Tiger Conservation Project (South). According to reports, the cops arrested the accused while they were entering into Simlipal for hunting. The officials have also seized firearms, ammunition, and gun powder from their possession and have forwarded them to the court. Following this, an investigation has been launched after Ranger Senapati made another complaint about the possession of illegal firearms and explosives at Badasahi police station.']
+
+
+Nab----CRIME.CAT
+
+Two----SUS.NUMBER
+
+Odisha----LOC.STATE
+
+arrested----CRIME.CAT
+
+two----SUS.NUMBER
+
+Chandanchaturi----LOC.EXACT
+
+firearms----ITEM
+
+ammunition----ITEM
+
+gun powder----ITEM

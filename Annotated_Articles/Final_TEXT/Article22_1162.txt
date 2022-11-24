@@ -1,0 +1,17 @@
+
+['Bear Mauls Trainer to Death During Stunt, Horrifying Video Resurfaces\nA staged animal act went horribly wrong as a bear named Rocky killed his trainer by ripping out his neck. The incident took place back in 2008 and was captured in a chilling video. Now, the clip has resurfaced on the 14th anniversary of the mishap. According to a report in The Sun, the trainer, Stephen Miller, was preparing to shoot for a commercial with the grizzly bear when the attack happened. The shoot involved a staged wrestling match between the duo at the Predators in Action facility in West Virginia. Although Rocky was a trained animal, he reportedly got disoriented during the act and went on to attack Stephen. The bear bit the trainer on his neck and pinned him down. Here is the video: Warning: the content in this video may be disturbing to some viewers. Viewers discretion is advised. Witnessing the horrific incident, onlookers rushed to help Stephen and tried to distract the bear. Stephen’s cousin Randy Miller, who was also present at the scene, struck Rocky with a cane in an attempt to rescue him from the attack. Other crew members doused Rocky in pepper spray to stop him. According to the video, Stephen managed to free himself and then stumbled out of the frame. However, he died just minutes after the attack due to a pierced jugular artery and vein. Having witnessed his close cousin being mauled to death by a bear, Randy was left shocked after the accident. “It happened so fast. We did what we had to do to stop the bear,” Randy had said. He added that they quickly got the bear off Stephen but it was still too late. “It’s killing me. We were brothers,” Randy added. Surprisingly, even after the terrible attack, Randy did not hold any grudge against Rocky and said that he was a “loving affectionate, friendly, safe bear.” Being a trained bear, this wasn’t Rocky’s first performance on camera. He had earlier appeared in Will Ferell’s film Semi-Pro as ‘Dewey the Killer Bear.” An investigation was launched by The California Department of Fish and Game into the accident. It concluded that Stephen’s death was just an accident. Later, Rocky was spared euthanasia but was sent to live under tight restriction and without any human contact for the rest of his days. Read all the Latest Buzz News and Breaking News here']
+
+
+Bear----SP.COMMON
+
+Mauls----CRIME.CAT
+
+bear----SP.COMMON
+
+Rocky----SUS.NAME
+
+2008----DATE
+
+grizzly bear----SP.SPECIFIC
+
+Randy Miller----SUS.NAME

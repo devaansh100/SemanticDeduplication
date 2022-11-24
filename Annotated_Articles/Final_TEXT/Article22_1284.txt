@@ -1,0 +1,53 @@
+
+['Pune customs recovers 466 live corals from 2 air passengers arriving from Dubai; probe initiated\n(Representational Image) Photo : iStock Pune : In a good win for the : In a good win for the Pune customs authorities, two passengers from Dubai, who were in possession of 466 live corals, were intercepted at the Pune airport on April 5 (Saturday), according to the officials. Furnishing more information on the incident, the officials stated that it is the first case when live corals have been seized at the airport. As per the statement released by the Pune customs, the passengers were intercepted when they tried to pass through the Green channel, according to reports. "On thorough search of their bags, 466 specimens of live corals (Order- Scleractinia with various Subfamilies) covered under Schedule I of Wildlife Protection Act and Appendix II of CITES were seized. The passengers admitted that these were procured for commercial purposes. The specimens seized are under rehabilitation at the Taraporevala Aquarium, Mumbai. Further investigation is on, according to the report published by the Times of India. This comes months after the Customs officials at Pune International airport seized gold worth Rs 34.8 lakh from an air passenger on February 7. Reportedly, the officials received a tip-off about the suspicious passenger who travelled from Dubai to Ahmedabad and hid the gold in his shoes while travelling from Pune to Ahmedabad. Meanwhile, the man was arrested in connection with the gold smuggling case and the officers of the Air Intelligence Unit of Pune Customs seized 705 grams of gold bars and pieces from his possession, stated the Indian Express report.']
+
+
+Pune customs----AUTH.SEIZE
+
+recovers----CRIME.CAT
+
+466----QTY
+
+live corals----SP.COMMON
+
+2----SUS.NUMBER
+
+Dubai----ROUTE.SRC
+
+two----SUS.NUMBER
+
+Dubai----ROUTE.SRC
+
+466----QTY
+
+corals----SP.COMMON
+
+intercepted----CRIME.CAT
+
+Pune airport----LOC.EXACT
+
+April 5----DATE
+
+Saturday----DATE
+
+466----QTY
+
+corals----ITEM
+
+seized----CRIME.CAT
+
+Rs 34.8 lakh----VALUE
+
+tip-off----DETECTION_METHOD
+
+Dubai----ROUTE.SRC
+
+Ahmedabad----ROUTE.DEST
+
+man----SUS.GENDER
+
+Air Intelligence Unit of Pune Customs----AUTH.SEIZE
+
+705 grams----QTY
+
+gold bars and pieces----ITEM

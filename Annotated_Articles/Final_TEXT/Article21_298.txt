@@ -1,0 +1,17 @@
+
+['Wildlife Welfare Association on Instagram: "Two men trying to sell two Indian black spotted turtles were nabbed by the Thane forest department (territorial) along with WWA on Thursday. A trap was set \n']
+
+
+Two----SUS.NUMBER
+
+men----SUS.GENDER
+
+Indian black spotted turtles----SP.SPECIFIC
+
+nabbed----CRIME.CAT
+
+Thane forest department (territorial)----AUTH.SEIZE
+
+WWA----AUTH.SEIZE
+
+Thursday----DATE

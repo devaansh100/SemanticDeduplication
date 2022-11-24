@@ -1,0 +1,49 @@
+
+['Two Poachers Arrested In Deogarh, Pistol Seized\nDeogarh: The forest department personnel today arrested two poachers at Taranga Proposed Reserved Forest under Reamal forest range in Deogarh Forest Division. The arrested persons have been identified as Bishnu Charan Pradhan (50) and Kabi Charan (48). As per reports, a team led by Reamal Forester Tushar Ranjan Pradhan was patrolling in the area when they spotted two persons roaming with a gun. After seeing cops, the poachers attempted to escape from the spot. However, the forest personnel managed to outrun them. The cops also confiscated a country-made pistol, live bullets, gun powder, and potash powder from their possession. A case has been registered under relevant Sections of the IPC and the accused persons have been forwarded to court, sources said.']
+
+
+Two----SUS.NUMBER
+
+Arrested----CRIME.CAT
+
+Deogarh----LOC.CITY
+
+Pistol----ITEM
+
+Seized----CRIME.CAT
+
+forest department----AUTH.SEIZE
+
+today----DATE
+
+arrested----CRIME.CAT
+
+two----SUS.NUMBER
+
+Taranga Proposed Reserved Forest----LOC.EXACT
+
+Bishnu Charan Pradhan----SUS.NAME
+
+50----SUS.AGE
+
+Kabi Charan----SUS.NAME
+
+48----SUS.AGE
+
+Forester----OFF.DESIG
+
+Tushar Ranjan Pradhan----OFF.NAME
+
+patrolling----DETECTION_METHOD
+
+a----QTY
+
+country-made pistol----ITEM
+
+bullets----ITEM
+
+gun powder----ITEM
+
+potash powder----ITEM
+
+case has been registered----OUTCOME

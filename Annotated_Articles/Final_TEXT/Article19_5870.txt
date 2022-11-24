@@ -1,0 +1,27 @@
+
+['Police arrest notorious red-sanders smuggler in Kadapa\nKadapa: In a major breakthrough, Proddaturu Rural Police have arrested a notorious smuggler Kandaswamy of Tamil Nadu and recovered 38 red sander logs from him on Thursday. According to the police, the accused was one of the most important followers of international smuggler Sahul Bhai. Police said they have arrested the accused at Khadarvalli village of Chapadu mandal while he was moving under suspicious circumstances. He tried to flee away to escape from the police. However, police chased and nabbed him at Khadarvalli village. The accused has indulged in several cases in Kadapa and in Chittoor district. A case has been registered by Proddaturu Rural police.']
+
+
+Police----AUTH.SEIZE
+
+arrest----CRIME.CAT
+
+red-sanders smuggler----SUS.AFFIL
+
+Kadapa----LOC.DISTRICT
+
+Proddaturu Rural Police----AUTH.SEIZE
+
+arrested----CRIME.CAT
+
+Kandaswamy----SUS.NAME
+
+38----QTY
+
+red sander----SP.COMMON
+
+logs----ITEM
+
+Thursday----DATE
+
+Khadarvalli village of Chapadu mandal----LOC.EXACT

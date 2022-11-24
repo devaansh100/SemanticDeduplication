@@ -1,0 +1,49 @@
+
+["HP police seizes leopard skin, two held\nTruck crushes car, 3 die 01 Oct 2022 | 12:02 PM Shimla, Oct 1 (UNI) An apple-loaded truck tripped over a car carrying four people at Green Valley near Chharbara on the outskirts of Shimla on Saturday, killing three people and injuring the fourth person, police said. see more.. Avalanche occurred near Kedarnath Dham 01 Oct 2022 | 11:17 AM Dehradun, Oct 1 (UNI) A huge avalanche occurred on Saturday morning near Kedarnath Dham, the fifth Jyotirlinga of Lord Shiva located in Rudraprayag district of Uttarakhand. see more.. Two JeM militants killed in Baramulla encounter 30 Sep 2022 | 11:20 PM Srinagar, Sep 30 (UNI) Security forces shot dead two local Jaish-e-Mohammad (JeM) militants, who were planning to attack an Army’s recruitment rally, in an encounter in Baramulla district of Jammu and Kashmir, police said The encounter took place days ahead of Union Home Minister Amit Shah's visit to Jammu and Kashmir. see more.."]
+
+
+HP police----AUTH.SEIZE
+
+seizes----CRIME.CAT
+
+leopard----SP.COMMON
+
+skin----ITEM
+
+two----SUS.NUMBER
+
+Truck----TRANSPORT_MODE
+
+3----SUS.NUMBER
+
+truck----TRANSPORT_MODE
+
+four----SUS.NUMBER
+
+Green Valley near Chharbara----LOC.EXACT
+
+Saturday----DATE
+
+killing----CRIME.CAT
+
+Saturday----DATE
+
+morning----TIME
+
+Kedarnath Dham----LOC.EXACT
+
+Two----SUS.NUMBER
+
+JeM militants----SUS.AFFIL
+
+Security forces----AUTH.SEIZE
+
+shot dead----CRIME.CAT
+
+two----SUS.NUMBER
+
+Jaish-e-Mohammad (JeM)----SUS.AFFIL
+
+Baramulla district----LOC.DISTRICT
+
+Jammu and----LOC.STATE

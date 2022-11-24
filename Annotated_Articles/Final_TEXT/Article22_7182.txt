@@ -1,0 +1,9 @@
+
+['Cuttack: Bullet-hit elephant of Narsinghpur succumbs to injury\nCuttack: In a sad incident, the bullet-hit wounded elephant that had been witnessed in Narasingpur forest of this district in Odisha succumbed to the injury on Tuesday. It is to be noted that few days back the injured elephant was seen roaming around the forest while it was groaning in pain. Later, it also entered the village area for shelter. As if the pachyderm pleaded in front of the forest officers for help but in vain. After being informed about the incident MLA Debi Mishra informed the forest Department about it. Accordingly, later, the forest department made attempt to save the tiger. However, after battling for life for 8 days, the wounded elephant died today. Following death of the elephant Narasinghpur locals are deeply saddened. They have demanded through probe towards the reason of its death.']
+
+
+elephant----SP.COMMON
+
+elephant----SP.COMMON
+
+Tuesday----DATE

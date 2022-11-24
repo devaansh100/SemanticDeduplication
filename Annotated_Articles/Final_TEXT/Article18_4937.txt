@@ -1,0 +1,21 @@
+
+['Wild boar menace affects diverse crop cultivation in Sangareddy villages\nWild boar menace affects diverse crop cultivation in Sangareddy villages By T.Karnakar Reddy Published: Updated On - 10:39 PM, Sat - 30 April 22 Farmers of Basvapur village are being educated on farm mechanisation at Agricultural Engineering College Sangareddy. Sangareddy: When students of Agricultural Engineering in Sangareddy went for a week days stay in Basvapur village as part of their NSS camp, they found a peculiar reason for the reluctance of farmers to go for diverse crop cultivation. During the week-long interaction with the farmers in the village, students found to their surprise that the reason for why farmers were cultivating only paddy and cotton was the wild boars and to some extent peacocks. Around sixty students adopted 60 farmers in the village and interacted with them every day and collected details of cropping patterns, cattle rearing and other details. They found that the farmers were opted for just two major crops – paddy and cotton. When the students attempted to educate them to diversify the cultivation to reap rich benefits when they came across the wild-boar menace in the village. Speaking to Telangana Today, one of the students G Venkatesh has said that many farmers were just cultivating paddy and cotton crops over the years due to which the soils will lose fertility. Though a few farmers were cultivating sugarcane, Venkatesh has said that the farmers were forced to stay in the fields during the night to keep the wild boars away. Despite the farmers adapting to different technologies to prevent the entry of wild boars into fields, he said the wild boars were getting habituated to these technics and continued to damage the crops without any fear. Another student N Aniktha found that farmers sought intervention of the government to control the wild-boar menace. A farmer Chakalai Mogulamma complained that peacocks were also damaging their crops because they were overpopulated. During the seven-day stay at the village, the students and faculty of the Engineering College also took the farmers to Engineering College in Kandi to educate them on various agriculture implements they have developed. The faculty members Dr Balachand, Dr Padma, and Dr Jawharlal have underlined the importance of adopting mechanisation in agriculture to address the shortage of labour in the villages. The students, who cleaned the roads and drains, sensitised the villagers on hygiene and sanitation. MPDO Madhulatha, Agriculture Officer D Vaidynath, NSS Coordinators Dr Anil Kumar and Dr Ramesh were supporting the student’s stay. The students have also invited experts from various aspects of agriculture to sensitise the farmers on different issues. The students said that they stay in contact with the adopted farmers forever to guide them in farming. NSS Cordinator Ramesh has said that staying in a village for seven days every year is mandatory for their students to understand the issues of farmers. Now you can get handpicked stories from Telangana Today on Telegram everyday. Click the link to subscribe. Click to follow Telangana Today Facebook page and Twitter .']
+
+
+Wild boar----SP.COMMON
+
+Sangareddy villages----LOC.EXACT
+
+Sangareddy villages----LOC.EXACT
+
+MPDO----AUTH.SEIZE
+
+Agriculture Officer----AUTH.SEIZE
+
+D Vaidynath----OFF.NAME
+
+NSS Coordinators----OFF.DESIG
+
+Dr Anil Kumar----OFF.NAME
+
+Dr Ramesh----OFF.NAME

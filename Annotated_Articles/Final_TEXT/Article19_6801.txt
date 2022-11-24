@@ -1,0 +1,9 @@
+
+['G903 Vs. Basilisk Ultimate\nG903 The G903 by Logitech uses an Optical sensor from Pixart, specifically the PMW3366, providing a DPI/CPI range of 200 - 12,000 dpi. This is combined with a 32-bit ARM. This results in a tracking speed of 400+ IPS, and a maximum acceleration of 40+G. It uses a USB, wireless connection with a 1.83 m cable. The G903 is considered to be an ambidextrous mouse. It weighs in at 110 g without the cable, has Yes, 10g weights and is approximately 130.3 x 66.5 x 40.4 mm (LxWxH). Basilisk Ultimate The Basilisk Ultimate by Razer uses an Optical sensor, specifically the Focus+, providing a DPI/CPI range of 20,000 DPI. This results in a tracking speed of 650 ips, and a maximum acceleration of 50 G. It uses a Wired, Wireless connection with a 1.8 m cable. It weighs in at 107g without battery or cable and is approximately 130 x 60 x 42 mm (LxWxH).']
+
+
+G903----SP.SPECIFIC
+
+Basilisk----SP.COMMON
+
+Basilisk----SP.COMMON

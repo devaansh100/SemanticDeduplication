@@ -1,0 +1,67 @@
+
+["Madhya Pradesh: Three held for poaching barking deer in Mandla district\nRepresentative Photo | Mandla (Madhya Pradesh): Three persons were arrested for allegedly killing a barking deer and eating its meat at a village in Madhya Pradesh's Mandla district, an official said on Saturday. The forest department received information about poaching in Dhanaura village of Bahmani forest area, 20 km from the district headquarters, on the intervening night of Thursday and Friday, the official said. A team of forest official rushed to the village and found the accused, Lakhan Lal Khelu, Gudram and Pillu, all in their 20s, eating deer meat, said Kamal Arora, divisional forest officer of Mandla West Region. The trio were nabbed and cooked deer meat, a noose and utensils were recovered from them, he said. The accused have been arrested under the Wildlife Protection Act and further probe is underway, he added."]
+
+
+Madhya Pradesh----LOC.STATE
+
+Three----SUS.NUMBER
+
+poaching----CRIME.CAT
+
+barking----SP.SPECIFIC
+
+deer----SP.COMMON
+
+Mandla district----LOC.DISTRICT
+
+Madhya Pradesh----LOC.STATE
+
+Three----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+killing----CRIME.CAT
+
+barking----SP.SPECIFIC
+
+deer----SP.COMMON
+
+meat----ITEM
+
+Madhya Pradesh's----LOC.STATE
+
+Mandla district----LOC.DISTRICT
+
+information----DETECTION_METHOD
+
+Dhanaura village of Bahmani forest area----LOC.EXACT
+
+night----TIME
+
+Thursday and Friday----DATE
+
+Lakhan Lal Khelu----SUS.NAME
+
+Gudram----SUS.NAME
+
+Pillu----SUS.NAME
+
+deer----SP.COMMON
+
+meat----ITEM
+
+divisional forest officer----OFF.DESIG
+
+deer----SP.COMMON
+
+meat----ITEM
+
+a----QTY
+
+noose----ITEM
+
+utensils----ITEM
+
+accused have been arrested under the Wildlife Protection Act----OUTCOME
+
+further probe is underway----OUTCOME

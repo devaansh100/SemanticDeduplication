@@ -1,0 +1,25 @@
+
+['Protection assistant shot at by poachers in Odisha’s Similipal Tiger Reserve, injured\nSunaram Singh consequently suffered two bullet injuries to his right leg as he and other guards tried to nab armed poachers Sunaram Singh, who was injured by armed poachers while on patrol in Similipal Tiger Reserve, Odisha. Photo: Ashis Senapati Unidentified poachers fired at a forest protection assistant in Odisha’s Similipal Tiger Reserve (STR) on the night of April 21, 2022, leaving him grievously injured. Sunaram Singh, along with six forest guards, had seen some poachers armed with country-made guns, bows and arrows, while on patrol in the Talabandh forest beat under the Dukura forest range of the reserve. They tried to nab them but the poachers opened fire. Singh consequently suffered two bullet injuries to his right leg. He was taken to the Community Health Centre (CHC) at Udala. Singh was later shifted to Pandit Raghunath Murmu Medical College and Hospital at Baripada. Police and forest officials are investigating the case, Samaresh Biswal, assistant conservator of forest, STR, said. Read: Similipal fires threaten fauna, could cause human-wildlife conflicts: Experts STR was ravaged by devastating forest fires last year in February-March. Forest officials deployed many forest guards, protection assistants and two trained dogs to curb the fires and poaching. “We also intensified surveillance to stop Akhand Shikar that involves ritualistic hunting of wild animals in the month of April in the forest,” Biswal said. A forest guard was shot dead by suspected poachers while on patrol in the Rangali Bahal area under the Saintala Forest Range in Odisha’s Balangir district on May 22, 2021. Three forest guards of Gahirmatha Marine Sanctuary, known as the world’s largest rookery of sea turtles in Odisha, were injured when a group of fishermen attacked them 10 kilometres off the coast on the evening of November 27, 2021. The fishermen also damaged a patrolling vessel belonging to the forest department. Read: Illegal fishing in Gahirmatha: 3 forest guards allege injury in mid-sea assault In 2002, a forest guard, Shyamasundar Singh was killed within the Gahirmatha sanctuary when he, along with three forest guards, was trying to nab some fishermen. The Supreme Court in 2021 asked the Centre to consult states and consider arming lathi-wielding forest guards to meet the challenges posed by heavily-armed poachers. A bench headed by Chief Justice of India SA Bobde also pointed to the need for a separate wildlife division of the Enforcement Directorate (ED) to deal with proceeds of crimes committed against environment and wildlife. Biswajit Mohanty, an environmentalist and the secretary of the non-profit, Wildlife Society of Odisha said many poachers of the villages around Similipal are well-equipped with guns whereas most forest guards perform their duties without any firearms. The shortage of protection staff in the forest department is also posing a hurdle for checking poaching.']
+
+
+Similipal Tiger Reserve----LOC.EXACT
+
+Sunaram Singh----SUS.NAME
+
+Similipal Tiger Reserve----LOC.EXACT
+
+Odisha----LOC.STATE
+
+Similipal Tiger Reserve (STR)----LOC.EXACT
+
+night----TIME
+
+April 21, 2022----DATE
+
+country-made guns, bows and arrows----ITEM
+
+Rangali Bahal area----LOC.EXACT
+
+May 22, 2021----DATE
+
+November 27, 2021----DATE

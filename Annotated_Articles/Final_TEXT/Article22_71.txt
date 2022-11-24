@@ -1,0 +1,43 @@
+
+['The Bad Guys releases today! Plot focuses on notorious criminal animals\nToday is the release date of DreamWorks Animation\'s The Bad Guys. The animated aficionados have been passionately waiting for this day for The Bad Guys\' premiere as they are really in love with DreamWorks Animation. The reason is simple – they can\'t forget the level of entertainment achieved through DreamWorks\' animated feature films like How to Train Your Dragon, Shrek, Kung Fu Panda, The Boss Baby to name a few. The French filmmaker Pierre Perifel-directed The Bad Guys movie is adapted from the children\'s book series of the same name and New York Times best-selling book series by Aaron Blabey. The Bad Guys had its world premiere at the Ace Hotel Los Angeles on April 12, 2022. The film was described as having "a similar twist on the heist genre that Shrek did on fairy tales, and what Kung Fu Panda did for the kung fu genre." Here are the voice cast of The Bad Guys – Sam Rockwell (as Mr. Wolf), Marc Maron (Mr. Snake), Anthony Ramos (Mr. Piranha), Craig Robinson (Mr. Shark), Awkwafina (Ms. Tarantula), Richard Ayoade (Prof. Rupert Marmalade IV), Zazie Beetz (Diane Foxington), Lilly Singh (Tiffany Fluffit), and Alex Borstein (Misty Luggins). This animated movie will surely entertain adults, children and kids with the story of a gang of fun-loving criminals. The plot for The Bad Guys says – In Los Angeles, California, in a world of humans and anthropomorphic animals co-existing, the Bad Guys, a gang of notorious criminal animals led by the cool-headed Mr. Wolf and known for their brazen thefts while eluding the authorities, attempt to steal the Golden Dolphin award from guinea pig philanthropist Professor Rupert Marmalade IV after being insulted by Governor Diane Foxington on-air. More we will see in the movie. Here\'s the synopsis of The Bad Guys: Nobody has ever failed so hard at trying to be good as The Bad Guys. In the new action comedy from DreamWorks Animation, based on the New York Times best-selling book series, a crackerjack criminal crew of animal outlaws are about to attempt their most challenging con yet—becoming model citizens. Never have there been five friends as infamous as The Bad Guys—dashing pickpocket Mr. Wolf (Academy Award® winner Sam Rockwell, Three Billboards Outside Ebbing, Missouri), seen-it-all safecracker Mr. Snake (Marc Maron, GLOW), chill master-of-disguise Mr. Shark (Craig Robinson, Hot Tub Time Machine franchise), short-fused "muscle" Mr. Piranha (Anthony Ramos, In the Heights) and sharp-tongued expert hacker Ms. Tarantula (Awkwafina, Crazy Rich Asians), aka "Webs." But when, after years of countless heists and being the world\'s most-wanted villains, the gang is finally caught, Mr. Wolf brokers a deal (that he has no intention of keeping) to save them all from prison: The Bad Guys will go good. Under the tutelage of their mentor Professor Marmalade (Richard Ayoade, Paddington 2), an arrogant (but adorable!) guinea pig, The Bad Guys set out to fool the world that they\'ve been transformed. Along the way, though, Mr. Wolf begins to suspect that doing good for real may give him what he\'s always secretly longed for: acceptance. So when a new villain threatens the city, can Mr. Wolf persuade the rest of the gang to become … The Good Guys? The Bad Guys contains 34 music and all music is composed by Daniel Pemberton, the Emmy winning English composer and song writer. The director Pierre Perifel, producer Damon Ross and composer Daniel Pemberton recorded backup vocals on the song Brand New Day. The movie already holds an approval rating of 88 percent based on 57 reviews on Rotten Tomatoes, with an average rating of 6.90/10. The Bad Guys premieres on Friday, April 22, 2022. Stay tuned to Devdiscourse to get the latest updates on animated films. Also Read: Indiana Jones 5: Mads Mikkelsen shared his shooting experience with Harrison Ford']
+
+
+Bad Guys----SP.COMMON
+
+today----DATE
+
+Bad Guys----SP.COMMON
+
+Sam Rockwell----SUS.NAME
+
+Marc Maron----SUS.NAME
+
+Anthony Ramos----SUS.NAME
+
+Piranha----SUS.LOC
+
+Craig Robinson----SUS.NAME
+
+Awkwafina----SUS.NAME
+
+Richard Ayoade----SUS.NAME
+
+Rupert Marmalade IV----SUS.NAME
+
+Zazie Beetz----SUS.NAME
+
+Diane Foxington----SUS.NAME
+
+Lilly Singh----SUS.NAME
+
+Tiffany Fluffit----SUS.NAME
+
+Alex Borstein----SUS.NAME
+
+Misty Luggins----SUS.NAME
+
+crackerjack criminal crew of animal outlaws are about to attempt their most challenging con yet—becoming model citizens. Never have there been five friends as infamous as The Bad Guys—dashing pickpocket Mr. Wolf (Academy Award® winner Sam Rockwell, Three Billboards Outside Ebbing, Missouri), seen-it-all safecracker Mr. Snake (Marc Maron, GLOW), chill master-of-disguise Mr. Shark (Craig Robinson, Hot Tub Time Machine franchise), short-fused "muscle" Mr. Piranha (Anthony Ramos, In the Heights) and sharp-tongued expert hacker Ms. Tarantula (Awkwafina, Crazy Rich Asians), aka "Webs." But when, after years of countless heists and being the world's most-wanted villains, the gang is finally caught, Mr. Wolf brokers a deal (that he has no intention of keeping) to save them all from prison: The Bad Guys will go good. Under the tutelage of their mentor Professor Marmalade----SUS.AFFIL
+
+producer----OFF.DESIG
+
+composer----OFF.DESIG

@@ -1,0 +1,89 @@
+
+['Leopard hide trade on the rise: 10 skins seized in Odisha in 10 days\nAll five accused arrested At least 10 leopard skins were seized five persons across three districts in Odisha in the last past 10 days by different enforcement agencies, including Odisha forest department and Special Task Force (STF) wing of the state police. Two of the skins were seized on July 21, 2021 from Boudh and Deogarh districts. The police have arrested all five accused, including a suspected poacher. In the first case, the STF personnel seized a leopard from one accused from Kapasira under Manmunda police station in Boudh district. A country-made gun and ammunition, gunpowder and other incriminating materials were also seized from him, STF officials said. The leopard whose skin was seized is a Schedule I animal under the Wildlife Protection Act, 1972. The accused was booked under Section 51 of the Act. The seized skin will be sent to the Wildlife Institute of India, Dehradun, for a chemical examination, said Deputy Inspector General of Police, STF, Jai Narayan Pankaj. In the second case, forest department officials seized the leopard skin from Sidurakali forest road under Riamala forest range from four persons. Officials alleged the leopard was killed in a jungle in Redhakhol forest division in Sambalpur district. At least eight leopard skins were seized and seven wildlife smugglers arrested in M Rampur and Junagarh in Kalahandi on July 10, 2021 by a joint team from Wildlife Crime Control Bureau and forest officials of Odisha and Chhattisgarh. In the last one year, as many as 26 leopard skins have been seized from the state by enforcement wings. The STF has alone seized 15 leopard skins, they claimed. The arrests have point to rampant poaching of leopards in the state, said Biswajit Mohanty, environmentalist and secretary of Wildlife Society of Odisha, a non-profit organisation. The hides of these protected animals are in demand in the international market, he said. Over 150 leopards have been poached across Odisha in the last decade. The population of leopards in the state was 760, according to the Status of Leopards in India, 2018 report by the central government. Most leopards are caught and killed by poachers when they venture into human habitats close to forests for prey. They are primarily hunted for their skins, bones and other parts for use in traditional medicine in the international market, Mohanty said.']
+
+
+Leopard----SP.COMMON
+
+hide----ITEM
+
+10----QTY
+
+skins----ITEM
+
+seized----CRIME.CAT
+
+Odisha----LOC.STATE
+
+five----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+10----QTY
+
+leopard----SP.COMMON
+
+skins----ITEM
+
+five----SUS.NUMBER
+
+Odisha forest department----AUTH.SEIZE
+
+Special Task Force----AUTH.SEIZE
+
+Two----QTY
+
+skins----ITEM
+
+seized----CRIME.CAT
+
+July 21, 2021----DATE
+
+Boudh and Deogarh----LOC.DISTRICT
+
+Kapasira----LOC.EXACT
+
+country-made gun and ammunition----ITEM
+
+gunpowder----ITEM
+
+incriminating materials----ITEM
+
+chemical examination----OUTCOME
+
+Deputy Inspector General of Police----OFF.DESIG
+
+STF----AUTH.SEIZE
+
+Jai Narayan Pankaj----OFF.NAME
+
+forest department officials----AUTH.SEIZE
+
+seized----CRIME.CAT
+
+leopard----SP.COMMON
+
+skin----ITEM
+
+Sidurakali forest road----LOC.EXACT
+
+Riamala forest range----LOC.EXACT
+
+four----SUS.NUMBER
+
+Redhakhol forest division----ROUTE.SRC
+
+eight----QTY
+
+leopard skins----ITEM
+
+seven----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+Kalahandi----LOC.CITY
+
+July 10, 2021----DATE
+
+Wildlife Crime Control Bureau----AUTH.SEIZE
+
+forest officials of Odisha and Chhattisgarh----AUTH.SEIZE

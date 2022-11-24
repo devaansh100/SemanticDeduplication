@@ -1,0 +1,37 @@
+
+['All about Great Indian Hornbill, the ‘vulnerable’ bird tortured to death in Nagaland\nA disturbing video posted on social media shows locals from Nagaland’s Wokha district torturing a Great Indian Hornbill . According to reports, the Nagaland Police have arrested three people under the Wildlife and Arms Act for torturing and killing the protected bird. “A video of an Endangered Great Indian Hornbill being tortured in Wokha District, Nagaland went viral. After PFA’s intervention, the Chief Wildlife Warden Mr Vedpal Singh arrested the 3 accused under the Wildlife and Arms Act. They will not be released on bail,” People For Animals India tweeted. A video of an Endangered Great Indian Hornbill being tortured in Wokha District, Nagaland went viral. After PFA’s intervention, the Chief Wildlife Warden Mr. Vedpal Singh arrested the 3 accused under the Wildlife and Arms Act. They will not be released on bail. #wildlife pic.twitter.com/YwDCf6YSp4 — People For Animals India (@pfaindia) June 15, 2022 The video, which created outrage on social media, showed people hitting the bird by holding its feathers. Buy Now | Our best subscription plan now has a special price The Great Indian Hornbill, a member of the hornbill family, is found in the Indian subcontinent and Southeast Asia. Since the species is declining in numbers and its distribution is fragmented, it was listed as ‘Vulnerable’ on the IUCN Red List of Threatened Species in 2018. The vulnerable (VU) category lists those species which possess a very high risk of global extinction. According to IUCN, forest loss has had a detrimental impact on this species throughout its range as the Great Indian Hornbill shows a preference for forest areas with large trees. “Because of its exceptionally large home range, the species requires extensive tracts of undisturbed forest and is unable to persist in areas where lowland forest has been reduced to small fragments,” it stated. ALSO READ | In Bali, bird sellers help endangered mynah make a comeback Hunting poses another substantial threat to the species as it displays a predictable behaviour when regularly visiting the same feeding sites and is easily targeted by local hunters. “A survey in north-eastern India found that the species is mainly hunted for food as well as for its casque and tail feathers, which are used as adornments by local communities (R Naniwadekar and A Datta in litt 2016, A Datta and R Naniwadekar in litt 2018),” IUCN said. Advertisement Its fat is used for a variety of things — from medical treatments to gun polish. In many tribal cultures, its meat, feathers and casque are also used for ornamental purposes. 📣 For more lifestyle news, follow us on Instagram | Twitter | Facebook and don’t miss out on the latest updates!']
+
+
+Great Indian Hornbill----SP.SPECIFIC
+
+Nagaland----LOC.STATE
+
+Great Indian Hornbill----SP.SPECIFIC
+
+Nagaland Police----AUTH.SEIZE
+
+arrested----CRIME.CAT
+
+three----SUS.NUMBER
+
+torturing and killing----CRIME.CAT
+
+Great Indian Hornbill----SP.SPECIFIC
+
+Chief Wildlife Warden----OFF.DESIG
+
+Vedpal Singh----OFF.NAME
+
+arrested----OUTCOME
+
+3----SUS.NUMBER
+
+PFA----AUTH.SEIZE
+
+Chief Wildlife Warden----OFF.DESIG
+
+Mr. Vedpal Singh----OFF.NAME
+
+arrested----OUTCOME
+
+3----SUS.NUMBER

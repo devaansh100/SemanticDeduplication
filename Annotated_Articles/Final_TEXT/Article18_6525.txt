@@ -1,0 +1,19 @@
+
+['Animal cruelty in Assam: Leopard dragged on ground by its tail\nA leopard was dragged by its tail in a tea garden in Assam Photo : Times Now Dispur: A leopard has been manhandled and dragged by its tail at a tea garden in Assam on February 24. The leopard was dragged by locals after they found the leopard near a drain at the Heelikha tea estate in Mariani, Jorhat in upper Assam. The leopard was injured in the process of being captured by the locals. Environmentalists have shown concern regarding the matter in which the animal was captured. However, the locals have alleged that they were forced to capture the animal as the forest authorities were late to respond. "The forest department was late to respond. We had informed them hours before but they did not take any action," said a local. The locals have further questioned the forest department about their actions. As per locals, forest officials and police personnel were on the spot, they could not intervene. The animal was allegedly dragged in front of a few of the officials. "We have returned the animal to the forest department and we don\'t know what happens to it," added a local. Man-animal conflicts have been on the rise in Assam, especially in the tea gardens of upper Assam. Elephants have been repeatedly seen to be in conflict with humans in the tea gardens leading to casualties and heavy damage of property. Human-wildlife conflict is when encounters between humans and wildlife lead to negative results, such as loss of property, livelihoods, and even life, as per world wildlife. The loss of forest cover has aided in the rise of conflicts in Assam. Few animal NGOs have strongly condemned the incident and the apathy of forest officials and the people involved in it.']
+
+
+Assam----LOC.STATE
+
+Leopard----SP.COMMON
+
+leopard----SP.COMMON
+
+Assam----LOC.STATE
+
+leopard----SP.COMMON
+
+Assam----LOC.STATE
+
+February 24----DATE
+
+leopard----SP.COMMON

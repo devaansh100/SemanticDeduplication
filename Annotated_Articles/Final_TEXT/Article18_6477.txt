@@ -1,0 +1,33 @@
+
+['Five-year-old killed in elephant attack in Kerala\nThirssur (Ker), Feb 8 (PTI) A five-year-old girl was killed and two others were injured in a wild elephant attack in a village in this district, police said on Tuesday. The incident was reported from Athirappally forest region on Monday evening. The girl, her father and a relative were travelling on a motorbike when the animal attacked them on Chalakudy-Athirappally road around 7 pm on Monday, they said. The trio tried to run away when it noticed the elephant emerging from an oil-palm estate after stopping the bike. However, the girl fell down and the jumbo allegedly trampled her to death. The girl’s father was injured when he tried to save her from the attack of the tusker, they added. The relative also sustained injuries when he fell down while trying to flee the spot. The injured have been admitted to a private hospital in Chalakkudy. The girl and father, hailing from Mala area in Thrissur district, had come to Kannamkuzhi in Athirappally area to attend the post death rituals of their relative who died on Monday, police said. PTI TGB ROH ROH This report is auto-generated from PTI news service. ThePrint holds no responsibility for its content.']
+
+
+Five-year-old----SUS.AGE
+
+elephant----SP.COMMON
+
+attack----CRIME.CAT
+
+Kerala----LOC.STATE
+
+five-year-old----SUS.AGE
+
+girl----SUS.GENDER
+
+killed----CRIME.CAT
+
+Athirappally forest region----ROUTE.SRC
+
+Monday----DATE
+
+evening----TIME
+
+girl----SUS.GENDER
+
+motorbike----TRANSPORT_MODE
+
+Chalakudy-Athirappally road----LOC.EXACT
+
+7 pm----TIME
+
+Monday----DATE

@@ -1,0 +1,11 @@
+
+['Lizard In Kachori: Cops Probe ‘twists’ From Every Angle\nJAIPUR: The saga of an alleged lizard in a kachori continued to see strange new twists, with police now claiming that a probe is underway to examine the claims of both sides.DCP (South) Mridul Kachawa told TOI that police are conducting a probe to ascertain if there indeed was a lizard in the snack and whether allegations about the customers using the story to extort money from the shopkeeper were true.The two men who had levelled the allegations were arrested on Tuesday after the kachori shop filed an FIR at Shyam Nagar police station against them, alleging they were blackmailing the shop owners and demanding money from them.The two men were held under preventive sections, but the FIR filed against them by the shop owner claimed that the duo had demanded Rs 1 lakh and that Rs 50,000 was already paid.The police said the cash allegedly paid to the two men was yet to be recovered. “We are investigating the case from all angles, albeit no case has been filed yet by the customers. The probe will reveal the truth,” said Kachawa.']
+
+
+Lizard----SP.COMMON
+
+Kachori----LOC.EXACT
+
+lizard----SP.COMMON
+
+men----SUS.GENDER

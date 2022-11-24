@@ -1,0 +1,55 @@
+
+['Gujarat: Python Burnt Alive In Banaskantha, Four Persons Booked\nFour persons from Bodal village in Gujarat have been booked for burning alive a python on Friday. The accused circulated the video of the incident on the social media platform TikTok. The Forest Department is conducting an investigation in the matter on the basis of the video. Two out of the four accused in the case have been identified. The department conducted a raid on the house of the accused. However, they fled from the site when they got to know about the raid. The forest department has deployed five teams to trace the accused. Assistant District Forest Officer Bindu Patel said, "A video of a python being burnt alive went viral on social media. The two persons who committed the offence have escaped from Bodal village. Python is a Schedule 1 animal under Forest Wildlife Protection Act. An FIR has been registered under section 9 of the aforementioned Act." READ | Three Women Held For Performing Garba Holding Snakes "If the crime committed by the offenders is proved in the court, they will then be imprisoned for 3 to 7 years and they will have to pay a fine of Rs 10,000 to Rs 25,000," she added. Garba with snakes Earlier, two women and a girl were held along with two others after a video showed them performing Garba dance with snakes in their hands in the Junagadh district of Gujarat, a forest department official said on October 12. All of them were booked under the Wildlife (Protection) Act and held on Thursday, the official said. READ | Snakehead Fish Of East Asia Found In Gwinnett County Pond, Georgia "The video that has gone viral on social media shows the two women and the girl holding a cobra and two non- venomous snakes while performing traditional Garba dance during the recently-concluded Navratri festival," Deputy Conservator of Forests, Junagadh, Sunil Berwal, said. READ | Karnataka: Visitors Spot Snakeskin With 7 Heads, Picture Goes Viral The event was held on October 6 at Shil village in Junagadh district, he said. "After the video was brought to our notice, we probed the incident. We booked five persons, including two women and a girl. The other two are organiser of the event and supplier of snakes. All of them were arrested on Thursday," Berwal said. They were produced before a local court, which granted them bail, he added. According to him, the probe revealed that the cobra had been defanged, while the other two snakes were non- poisonous. READ | Man Pulls \'snake\' From Grass In Video, Wait For \'oddly Satisfying\' End (With ANI inputs)']
+
+
+Gujarat----LOC.STATE
+
+Python----SP.COMMON
+
+Burnt Alive----CRIME.CAT
+
+Banaskantha----LOC.DISTRICT
+
+Four----SUS.NUMBER
+
+Four----SUS.NUMBER
+
+Bodal village----SUS.LOC
+
+Gujarat----LOC.STATE
+
+burning alive----CRIME.CAT
+
+python----SP.COMMON
+
+Friday----DATE
+
+TikTok.----DETECTION_METHOD
+
+raid----DETECTION_METHOD
+
+Three----SUS.NUMBER
+
+girl----SUS.GENDER
+
+booked under the Wildlife (Protection) Act----OUTCOME
+
+women----SUS.GENDER
+
+girl----SUS.GENDER
+
+a----QTY
+
+cobra----SP.COMMON
+
+two----QTY
+
+Snakeskin----SP.COMMON
+
+October 6----DATE
+
+Shil village----LOC.EXACT
+
+five----SUS.NUMBER
+
+women----SUS.GENDER

@@ -1,0 +1,41 @@
+
+['Karnataka forest department nabs accused within 24 hours for poisoning leopard- The New Indian Express\nBosky Khanna By Express News Service BENGALURU: Soon after a two-three year old female leopard was poisoned to death in Nagarhole Tiger Reserve (NTR), the forest department officials plunged to action and nabbed the accused within 24 hours. The incident happened on Friday in DP Kuppe range of NTR, when the forest officials found the young leopard dead in an agricultural land. And just out of a crime TV series, the forest officers, divided in teams, conducted intensive quick search, raids and nabbed the accused. "We were informed by locals of a dead leopard in the leased out land, primary investigation showed it was poisoning, the carcass was immediately sent for postmortem and inquiry started. Investigation gave leads to the house of the neighbouring property. On searching the house, chemicals and poisonous substances were found. Also most importantly the house inmates were absconding," NTR Director Mahesh told The New Indian Express. In 1960-70s, the state government had leased out land in the buffers of forest areas to locals for cultivation. The farmers annually pay a lease amount to the department and continue cultivation on the land which legally is owned by forest department. Mahesh added that search for the accused intensified and the staffers in the mean time found the carcass of the dog which the leopard had consumed and died. It was burried in the land of the accused. Prima facia investigation revealed the dog was laced with poison. "In the meantime the accused- Machegowda (65 years)- was caught in the village itself. On inquiry, he said tried to come up with some false stories. He has been arrested under Wildlife Protection Act and hunt for his son Krishna is still on," he added. The visceral samples of the dog and the leopard have been sent for analysis. Since the lockdown was imposed seven such cases have been reported in NTR alone of which six were of Spotted Deer and one of a Sambar deer. This was the first incident where a schedule-1 carnivore was poisoned to death, which amounts to hunting under Wildlife Protection Act 1972. BENGALURU: Soon after a two-three year old female leopard was poisoned to death in Nagarhole Tiger Reserve (NTR), the forest department officials plunged to action and nabbed the accused within 24 hours. The incident happened on Friday in DP Kuppe range of NTR, when the forest officials found the young leopard dead in an agricultural land. And just out of a crime TV series, the forest officers, divided in teams, conducted intensive quick search, raids and nabbed the accused. "We were informed by locals of a dead leopard in the leased out land, primary investigation showed it was poisoning, the carcass was immediately sent for postmortem and inquiry started. Investigation gave leads to the house of the neighbouring property. On searching the house, chemicals and poisonous substances were found. Also most importantly the house inmates were absconding," NTR Director Mahesh told The New Indian Express. In 1960-70s, the state government had leased out land in the buffers of forest areas to locals for cultivation. The farmers annually pay a lease amount to the department and continue cultivation on the land which legally is owned by forest department. Mahesh added that search for the accused intensified and the staffers in the mean time found the carcass of the dog which the leopard had consumed and died. It was burried in the land of the accused. Prima facia investigation revealed the dog was laced with poison. "In the meantime the accused- Machegowda (65 years)- was caught in the village itself. On inquiry, he said tried to come up with some false stories. He has been arrested under Wildlife Protection Act and hunt for his son Krishna is still on," he added. The visceral samples of the dog and the leopard have been sent for analysis. Since the lockdown was imposed seven such cases have been reported in NTR alone of which six were of Spotted Deer and one of a Sambar deer. This was the first incident where a schedule-1 carnivore was poisoned to death, which amounts to hunting under Wildlife Protection Act 1972.']
+
+
+Karnataka forest department----AUTH.SEIZE
+
+nabs----CRIME.CAT
+
+poisoning----CRIME.CAT
+
+leopard-----SP.COMMON
+
+Nagarhole Tiger Reserve (NTR)----ROUTE.SRC
+
+forest department----AUTH.SEIZE
+
+nabbed----CRIME.CAT
+
+Friday----DATE
+
+DP Kuppe range of NTR----LOC.EXACT
+
+forest officials----AUTH.SEIZE
+
+leopard----SP.COMMON
+
+visceral samples of the dog and the----OUTCOME
+
+leopard----SP.COMMON
+
+sent for analysis----OUTCOME
+
+Friday----DATE
+
+DP Kuppe range of NTR----LOC.EXACT
+
+forest officials----AUTH.SEIZE
+
+leopard----SP.COMMON
+
+visceral samples of the dog and the leopard----OUTCOME

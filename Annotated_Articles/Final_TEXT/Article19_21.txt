@@ -1,0 +1,47 @@
+
+['Leopard kills 5 cheetals, 3 blackbucks, one 4-horned antelope in Gorewada Zoo\nNagpur: Ina startling incident that came to the fore on Wednesday, a strayed leopard sneaked into Gorewada Zoo and Wildlife Rescue Centre and killed five cheetals (deer), three kalvits (blackbucks) and one chousingha (four horned antelope). The killer big cat reportedly came from Gorewada jungle situated on Katol Road. Although the Gorewada Zoo and Wildlife Rescue Centre is protected by in an enclosure having solar fencing, the leopard, it seems, jumped the enclosure, around 12 feet high, or sneaked through a possible gap and made a kill of the animals in horrific manner. The killing came to the notice of Forest Department men on Wednesday morning. According a Forest Department official, the cheetals, blackbucks and other animal species were brought to the Gorewada Zoo in 2015 or 2016. The big cat must be very hungry and searching for an easy prey. The Zoo and Rescue Centre hosts 21 leopards, five tigers and 8 bears in well caged enclosures apart from deer species. In the nearby jungle, around seven leopards roam freely. The enclosure was equipped with solar fencing 20 days back. Advertisement The International Standard Zoo and Rescue Centre at Gorewada is spread over 2000 acres. The Zoo has many features such as Indian Safari, African Safari, Night Safari, Bio Park, Deep Time Trail, Trail of senses, Tribal Village Trail, River Ride, Gorewada Reserve, Entrance Plaza, Bird Walking Aviary, Rescue Centre, and other related attractions. Advertisement Advertisement Advertisement Advertisement Advertisement Advertisement Advertisement Advertisement Advertisementss Advertisement Advertisement Advertisement']
+
+
+Leopard----SP.SPECIFIC
+
+kills----CRIME.CAT
+
+5----QTY
+
+cheetals----SP.SPECIFIC
+
+3----QTY
+
+blackbucks----SP.SPECIFIC
+
+one----QTY
+
+4-horned antelope----SP.SPECIFIC
+
+Gorewada Zoo----LOC.EXACT
+
+Wednesday----DATE
+
+strayed leopard----SP.SPECIFIC
+
+Gorewada Zoo and Wildlife Rescue Centre----LOC.EXACT
+
+five----QTY
+
+cheetals----SP.SPECIFIC
+
+deer----SP.SPECIFIC
+
+three----QTY
+
+kalvits----SP.SPECIFIC
+
+blackbucks----SP.SPECIFIC
+
+one----QTY
+
+chousingha----SP.SPECIFIC
+
+four horned antelope----SP.SPECIFIC
+
+killer big cat reportedly came from Gorewada jungle situated on Katol Road. Although the Gorewada Zoo and Wildlife Rescue Centre is protected by in an enclosure having solar fencing, the leopard, it seems, jumped the enclosure, around 12 feet high, or sneaked through a possible gap and made a kill of the animals in horrific manner. The killing came to the notice of Forest Department men on Wednesday morning. According a Forest Department official, the cheetals, blackbucks and other animal species were brought to the Gorewada Zoo in 2015 or 2016. The big cat must be very hungry and searching for an easy prey. The Zoo and Rescue Centre hosts 21 leopards, five tigers and 8 bears in well caged enclosures apart from deer species. In the nearby jungle, around seven leopards roam freely. The enclosure was equipped with solar fencing 20 days back. Advertisement The International Standard Zoo and Rescue Centre at Gorewada is spread over 2000 acres. The Zoo has many features such as Indian Safari, African Safari, Night Safari, Bio Park, Deep Time Trail, Trail of senses, Tribal Village Trail, River Ride, Gorewada Reserve, Entrance Plaza, Bird Walking Aviary, Rescue Centre, and other related attractions. Advertisement Advertisement Advertisement Advertisement Advertisement Advertisement Advertisement Advertisement Advertisementss Advertisement Advertisement Advertisement----SUS.AFFIL

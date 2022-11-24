@@ -1,0 +1,33 @@
+
+['Monkey in tiny bullet-proof vest found dead after cartel shootout in Mexico\nMexican narcos fascination with exotic animals was on display this week after a spider monkey dressed up as a drug gang mascot was killed in a shootout, a 450-pound (200 kilogram) tiger wandered the streets in the Pacific coast state of Nayarit, and a man died after trying to pet a captive tiger in a cartel-dominated area of western Michoacan state. Like scenes out of a narco television series, exotic animals have been long been part of the Mexican criminal underworld. Photos from the scene of a shootout Tuesday with police in which 11 drug gang members died, showed a small monkey dressed in a tiny camouflage jacket and a tiny bullet-proof vest sprawled across the body of a dead gunman who was apparently his owner. Authorities in the State of Mexico confirmed the authenticity of the photos, and said it was unclear whether the monkey which was also wearing a diaper died in the hail of bullets that killed his owner. A primate was killed at the scene, which was presumably owned by a criminal who was also killed at the scene, state prosecutors said in a statement, adding An autopsy will be carried out on the animal by a veterinarian specialized in the species and animal-trafficking charges would be considered against the suspects who survived the shootout. Then on Wednesday, the Attorney General for Environmental Protection said it had seized a tiger in Tecuala, in the Pacific coast state of Nayarit, near the border with Sinaloa, which is home to the cartel of the same name. The office said it acted after receiving reports about a Bengal tiger that was wandering the streets of Tecuala, and found that the animal was being illegally kept there. Those reports were based on a video posted on social media earlier this week, showing a young woman shrieking as she came across the tiger on the street in a residential neighborhood. Be quiet, it might come close, a woman can be heard saying on the video. Authorities said the tigers claws and fangs had been removed, and a man can be seen later in the video casually tossing a rope over the tigers neck and leading him away. Perhaps the most tragic story came out of the western state of Michoacan, which has long been dominated by the Carteles Unidos gang and the Jalisco cartel. On Sunday, authorities confirmed that a man was seriously wounded by a tiger in Periban, Michoacan, a town in the states avocado-growing region, where gangs have long extorted protection payments from the lucrative avocado trade. In a video posted on social media, whose authenticity could not be confirmed, the man is seen calling the tiger to the side of a fenced enclosure. Come on, come, the man can be heard entreating. The man stands outside the enclosure, apparently feeding the tiger with one hand, while he stretches his other arm through the chain-link fence to stroke the animals neck. The man then shrieks in pain after the tiger quickly wheels and bites the extended arm and refuses to let go. Eventually the tiger mauled both the mans arms. Michoacan state law enforcement authorities confirmed that the man was taken to a hospital, where he died a few days later from his injuries. Mexican law allows private citizens to keep exotic animals if they register them under strictly supervised conditions. But Security analyst David Saucedo said criminals sometimes go to the length of getting such permits. Saucedo said drug traffickers often keep exotic animals as a symbol of status and power, imitating the Colombian drug lords of the 1980s and 90s. Mexican drug traffickers copied from the narcos of the Medellin cartel the custom of acquiring exotic animals and setting up private zoos, said Saucedo. According to the code of the drug trafficking aristocracy, having a private zoo was a prerequisite for being part of the circle of big-time drug traffickers. In some cases, the animals had a more sinister use. Some drug cartel capos, like Zetas leader Heriberto Lazcano, acquired exotic animals to torture or disappear their victims, Saucedo said. Several of his enemies were devoured by the tigers or the crocodiles that the Zetas kept in their pens or cages. Lazcano himself was killed in a shootout with Mexican military personnel in 2012.']
+
+
+Monkey----SP.COMMON
+
+found dead----CRIME.CAT
+
+Mexico----LOC.STATE
+
+spider----SP.SPECIFIC
+
+450-pound----QTY
+
+tiger----SP.COMMON
+
+man----SUS.GENDER
+
+tiger----SP.COMMON
+
+Wednesday----DATE
+
+Attorney General for Environmental Protection----AUTH.SEIZE
+
+seized----CRIME.CAT
+
+tiger----SP.COMMON
+
+Tecuala----LOC.EXACT
+
+Bengal tiger----SP.SPECIFIC
+
+video posted on social media earlier this week----DETECTION_METHOD

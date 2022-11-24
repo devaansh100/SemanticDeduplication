@@ -1,0 +1,23 @@
+
+['Spotted after 30 years tiger found dead in Gujarat forest\nThe epic 300 km-long journey of a Madhya Pradesh tiger to Gujarat ended on Tuesday as tiger was found dead near Lunavada in Mahisagar district. It is called Tiger was spotted in Gujarat for 1st time in 30 yrs. Last week, MP forest officials had written to Gujarat to “take care of it”. Sources in MP forest department suspect the tiger was poisoned. The animal, aged 4 to 5 years, was photographed near Lunavada in the first week of this month. Despite confirming its presence, the department failed to protect the tiger believed to have lived in and around Kantar village for over six months. The decaying carcass was found by the forest department 7 km from where the animal was first spotted by a school teacher. A post-mortem is being carried out as per protocol, confirmed sources. The animal is believed to have walked into Gujarat around a year ago, but an official confirmation had come in from the forest department on February 14.']
+
+
+tiger----SP.COMMON
+
+found dead----CRIME.CAT
+
+Gujarat----LOC.STATE
+
+Tuesday----DATE
+
+tiger----SP.COMMON
+
+found dead----CRIME.CAT
+
+Lunavada----LOC.EXACT
+
+Mahisagar----LOC.DISTRICT
+
+poisoned----CRIME.CAT
+
+forest department----AUTH.SEIZE

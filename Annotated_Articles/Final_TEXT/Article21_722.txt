@@ -1,0 +1,33 @@
+
+['Ambergris worth ₹50 lakh seized at Vyttila\nThe Forest Department on Wednesday seized about 1.4 kg of ambergris worth ₹50 lakh in the market from a room at Vyttila in Ernakulam. Ambergris is a waxy substance secreted by sperm whales which has a high demand in the perfume market. Three natives of Lakshadweep were also taken into custody in a joint operation led by the Forest Vigilance DFO and comprising members of the flying squads in Perumbavoor, Thrissur and Wildlife Crime Control Bureau. Those in custody were handed over to the Mekkapala station under Kodanad range. Officers said that it was an advertisement on social media targeted at prospective buyers of the substance that attracted their attention following which they laid a trap for the sellers.']
+
+
+Ambergris----ITEM
+
+seized----CRIME.CAT
+
+Vyttila----LOC.EXACT
+
+Forest Department----AUTH.SEIZE
+
+Wednesday----DATE
+
+seized----CRIME.CAT
+
+1.4 kg----QTY
+
+ambergris----ITEM
+
+sperm whales----SP.SPECIFIC
+
+Three----SUS.NUMBER
+
+Forest Vigilance DFO----AUTH.SEIZE
+
+flying squads in Perumbavoor, Thrissur----AUTH.SEIZE
+
+Wildlife Crime Control Bureau----AUTH.SEIZE
+
+in custody were handed over to the Mekkapala station under Kodanad range.----OUTCOME
+
+advertisement on social media----DETECTION_METHOD

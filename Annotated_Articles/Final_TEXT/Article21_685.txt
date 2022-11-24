@@ -1,0 +1,59 @@
+
+['Border Force Seizes Snake Venom Worth Rs 57 Crore From Bangladesh Border\nIn international black market, the seized quantity of venom is worth Rs 57 crore. (Representational) Border Security Force (BSF) seized snake venom worth Rs 57 crore from the India-Bangladesh border in Dakshin Dinajpur district of West Bengal on Friday. As per a statement from BSF, the snake venom was stored in three crystal jars in the form of powder, crystal and liquid. In the international black market, the seized quantity of snake venom weighing approximately 12 Lbs and 56 ounces is worth Rs 57 crore and the jars were marked as MADE IN FRANCE. "A special search party of BOP Chakgopal of 137 Bn BSF carried out search operation in an unattended house which was under construction in the village Dongi. During a thorough search of the house and 1 sack containing 3 Jars containing suspected Snake venom was recovered which was buried under the sand," the BSF stated. "The jars had markings Cobra SP - Red Dragon -Made in France - Code No- 6097," they added. According to information available with the BSF, the venom may have been brought from France to Bangladesh and further, the smugglers might have attempted to push the product into India from where it was meant to be sent to China where it is reportedly used in traditional medicines.']
+
+
+Border Force----AUTH.SEIZE
+
+Seizes----CRIME.CAT
+
+Snake----SP.COMMON
+
+Venom----ITEM
+
+Rs 57 Crore----VALUE
+
+venom----ITEM
+
+Rs 57 crore----VALUE
+
+Border Security Force----AUTH.SEIZE
+
+BSF----AUTH.SEIZE
+
+seized----CRIME.CAT
+
+snake----SP.COMMON
+
+venom----ITEM
+
+Rs 57 crore----VALUE
+
+Dakshin----LOC.DISTRICT
+
+Dinajpur----LOC.DISTRICT
+
+West Bengal----LOC.STATE
+
+Friday----DATE
+
+BSF----AUTH.SEIZE
+
+snake----SP.COMMON
+
+venom----ITEM
+
+powder, crystal and liquid----CONCEALMENT_METHOD
+
+venom----ITEM
+
+Rs 57 crore----VALUE
+
+search operation----DETECTION_METHOD
+
+Dongi----LOC.EXACT
+
+3 Jars----QTY
+
+Snake----SP.COMMON
+
+venom----ITEM

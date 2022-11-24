@@ -1,0 +1,7 @@
+
+['Leopard cubs saved from Thalavadi farm\n “The cubs were barely around 20 days old. The adult leopard might have left behind the cubs in the farm, which had well grown sugarcane crops and had gone in search of prey,” said a Forest Department staff. The foresters said that they are yet to decide whether to leave the cubs in the forest area or in a sanctuary. Meanwhile, a large number of local villagers turned up to see the rescued cubs.']
+
+
+Leopard----SP.COMMON
+
+Thalavadi farm----LOC.EXACT

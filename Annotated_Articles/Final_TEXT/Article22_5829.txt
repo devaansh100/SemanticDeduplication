@@ -1,0 +1,11 @@
+
+["Leopard hit by car, gets stuck under it in distressing video shared by IFS officer\nLeopard stuck at car bonnet A video circulating over the internet shows a leopard got stuck under the bonnet of a car after being hit by the vehicle. Although the location of the happening is still unknown bu the video is circulating over social media platforms. Bollywood actress Raveena Tandon shared a clip of the video that shows the leopard fleeing after the accident. A wildlife activist also shared another clip, where the leopard is seen stuck under the bonnet of the vehicle. Prayers for this beautiful leopard. hope he survives,even though he’s badly wounded , he escapes into the jungle . @WildLense_India I hope our politicians wake to the fact that linear development can happen hand in hand with well thought of conservation methods. pic.twitter.com/KbdhgRoaZS — Raveena Tandon (@TandonRaveena) June 20, 202 As the driver pulled the car back to save the wild beast, the leopard is seen being dragged by the vehicle for a second, before attacking it back to express its anger. Moments later, the wounded leopard is then seen fleeing the scene. This is what we are doing to our wildlife. It's a simple case of bad planning. More importantly we are building unsafe roads for citizens. @OfficeOfNG @MORTHIndia @MORTHRoadSafety @nitin_gadkari @RoadkillsIndia Warning: Gruesome video...source social media roadkills pic.twitter.com/dwls5tdzp8 June 20, 2022 The video has gathered a lot of attention from viewers over social media. In the past, leopard deaths have been reported from across the nation after allegedly being hit by vehicles. Last year, a two-year-old leopard was found dead on Pali-Surajkund road near Gurugram with autopsy reports suggesting it may have been hit by a vehicle. In 2019, a one and half-year-old female leopard were reportedly also killed by a truck on NH-48 in Manesar. Read: Giant Indian Cobra preys on 5-foot-long Russell's Viper, leaves netizens in awe"]
+
+
+Leopard----SP.COMMON
+
+car----TRANSPORT_MODE
+
+Leopard----SP.COMMON
+
+leopard----SP.COMMON

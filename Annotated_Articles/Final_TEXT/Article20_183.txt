@@ -1,0 +1,95 @@
+
+['Athagarh FD busts another pangolin racket, nabs three\nBy Express News Service BHUBANESWAR: Illegal trade of pangolin and its scales continues unabated in Odisha as Athagarh Forest division officials on Thursday arrested three poachers and recovered 19 scales and two loaded country riffles from their possession. The poachers, also smugglers, are identified as Bagun Laguri (48) from Paniama, Mangal Digi (40) and Lalmohan Chattar (55) from Musulia. They were arrested by an Athagarh forest team from Subasi Forest Reserve in Khuntuni range of the division. Athagarh Divisional Forest Officer Sasmita Lenka said the three arrested are from the tribal community. “They were apprehended while they were trying to sell the scales to traders in Subasi reserve forest,” she said. The poachers kill the pangolin, extract its scale and sell it to big smugglers who then export it outside the State. What surprises the forest officials is that the scaly anteater is still being smuggled though it has been linked to the spread of coronavirus to humans. Forest officials said, preventing the illegal trade has become a challenge during the lockdown as smugglers are taking advantage of restrictions and limited workforce on the field. Apart from illegal trade of pangolin, poachers are also targeting other wild animals during this time, the DFO said. Two persons set Ranibania Reserve Forest on fire killing wild boars, deer and other animals earlier this week before being arrested. The two are Rabindra Mohanty and Pabitra Pradhan. To prevent recurrence of such incidents, forest patrolling has been enhanced. As maintaining social distancing is essential, forest staff are conducing patrolling in different groups, each having four personnel. BHUBANESWAR: Illegal trade of pangolin and its scales continues unabated in Odisha as Athagarh Forest division officials on Thursday arrested three poachers and recovered 19 scales and two loaded country riffles from their possession. The poachers, also smugglers, are identified as Bagun Laguri (48) from Paniama, Mangal Digi (40) and Lalmohan Chattar (55) from Musulia. They were arrested by an Athagarh forest team from Subasi Forest Reserve in Khuntuni range of the division. Athagarh Divisional Forest Officer Sasmita Lenka said the three arrested are from the tribal community. “They were apprehended while they were trying to sell the scales to traders in Subasi reserve forest,” she said. The poachers kill the pangolin, extract its scale and sell it to big smugglers who then export it outside the State. What surprises the forest officials is that the scaly anteater is still being smuggled though it has been linked to the spread of coronavirus to humans. Forest officials said, preventing the illegal trade has become a challenge during the lockdown as smugglers are taking advantage of restrictions and limited workforce on the field. Apart from illegal trade of pangolin, poachers are also targeting other wild animals during this time, the DFO said. Two persons set Ranibania Reserve Forest on fire killing wild boars, deer and other animals earlier this week before being arrested. The two are Rabindra Mohanty and Pabitra Pradhan. To prevent recurrence of such incidents, forest patrolling has been enhanced. As maintaining social distancing is essential, forest staff are conducing patrolling in different groups, each having four personnel.']
+
+
+FD----AUTH.SEIZE
+
+pangolin----SP.COMMON
+
+nabs----CRIME.CAT
+
+three----SUS.NUMBER
+
+pangolin----SP.COMMON
+
+Odisha----LOC.STATE
+
+Athagarh Forest division----AUTH.SEIZE
+
+Thursday----DATE
+
+arrested----CRIME.CAT
+
+three----SUS.NUMBER
+
+poachers----SUS.AFFIL
+
+19----QTY
+
+scales----ITEM
+
+two----QTY
+
+loaded country riffles----ITEM
+
+poachers----SUS.AFFIL
+
+Bagun Laguri----SUS.NAME
+
+48----SUS.AGE
+
+Paniama----SUS.LOC
+
+Mangal Digi----SUS.NAME
+
+40----SUS.AGE
+
+Lalmohan Chattar----SUS.NAME
+
+55----SUS.AGE
+
+Musulia----SUS.LOC
+
+three----SUS.NUMBER
+
+Illegal trade----CRIME.CAT
+
+pangolin----SP.COMMON
+
+Odisha----LOC.STATE
+
+Athagarh Forest division----AUTH.SEIZE
+
+Thursday----DATE
+
+arrested----CRIME.CAT
+
+three----SUS.NUMBER
+
+poachers----SUS.AFFIL
+
+19----QTY
+
+scales----ITEM
+
+two----QTY
+
+loaded country riffles----ITEM
+
+poachers----SUS.AFFIL
+
+Bagun Laguri----SUS.NAME
+
+48----SUS.AGE
+
+Paniama----SUS.LOC
+
+Mangal Digi----SUS.NAME
+
+40----SUS.AGE
+
+Lalmohan Chattar----SUS.NAME
+
+55----SUS.AGE
+
+Musulia----SUS.LOC

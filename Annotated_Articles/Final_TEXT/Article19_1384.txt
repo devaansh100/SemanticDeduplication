@@ -1,0 +1,27 @@
+
+['Two-Year-Old Baby Leopard Crushed To Death By A Truck Near Kalesar National Park In Yamunanagar\nA two-year-old leopard died in a road accident in Yamunanagar, officials of the Kalesar National Park in the district said on Monday. The baby leopard was crushed to death by an unknown truck driver on the national highway 907 on Saturday. The incident took place at around 8:15 pm near the rest house of the Kalesar park forest range. Kalesar range inspector, Rajesh Chahal said, “The animal had come out of the dense forest and was crossing the highway from a location having a sharp turn on the road when she was hit by a truck. We received the information from a passerby and reached the spot within 10 minutes as the accident took place near the our rest house." Times Of India He added, “The face of the leopard was crushed severely and it died on the spot. A veterinary team conducted a post-mortem on Sunday evening. As the animal died due to a road accident, no case was registered in this regard.” The NH-907 starts from the Paonta Sahib in Himachal Pradesh, passes through the Kalesar forest range and ends at the Yamunanagar. Villagers who were living near the Kalesar forest said that the leopards often come out of the forest to drink water or to prey on other animals.']
+
+
+Leopard----SP.COMMON
+
+Crushed To Death----CRIME.CAT
+
+Truck----TRANSPORT_MODE
+
+Kalesar National Park----LOC.EXACT
+
+Yamunanagar----LOC.DISTRICT
+
+leopard----SP.COMMON
+
+Yamunanagar----LOC.DISTRICT
+
+crushed to death----CRIME.CAT
+
+national highway 907----ROUTE.TRANSIT
+
+Saturday----DATE
+
+8:15 pm----TIME
+
+received the information----DETECTION_METHOD

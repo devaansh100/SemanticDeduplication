@@ -1,0 +1,35 @@
+
+["Panchayat executes wild boar that fell into well\nKADAKKAL: After the government permitted local bodies to exterminate wild boars destroying crops, a wild boar that fell into a well in Ittiva was shot down. A three-year-old wild boar that fell into a useless 20-foot-deep well in Thudayannoor ward was killed as per the directions of Ittiva Grama Panchayat President C Amrita. Thudayannoor is the president's own ward. Kottarakkara native Prasad Samuel, who holds a license from the Forest Department to shoot wild boars apart from a gun license, carried out the 'execution' by firing two rounds. The action was taken with the help of the Forest Department's Rapid Response Team. The wild boar was seen trapped in the well at around 10 am yesterday. The wild boar was violent in a well where water was scarce. Forest officials, who arrived at the scene, concluded that if the wild boar was rescued alive, it might attack the locals. With this, the Gram Panchayat president gave permission for the shooting. Prasad Samuel reached the spot at 1.30 pm after receiving a call from the President and a request from the Forest Department officials. He killed the pig by firing two rounds. Later, the forest officials brought the animal out of the well and buried it at a nearby spot. Wild boar infestation is severe in Ittiva Grama Panchayat."]
+
+
+Panchayat----AUTH.SEIZE
+
+executes----CRIME.CAT
+
+wild boar----SP.SPECIFIC
+
+wild boar----SP.SPECIFIC
+
+shot down----CRIME.CAT
+
+wild boar----SP.SPECIFIC
+
+Thudayannoor ward----LOC.EXACT
+
+killed----CRIME.CAT
+
+C Amrita.----OFF.NAME
+
+Kottarakkara----SUS.LOC
+
+Prasad Samuel----SUS.NAME
+
+execution----CRIME.CAT
+
+Forest Department's Rapid Response Team----AUTH.SEIZE
+
+10 am----TIME
+
+yesterday----DATE
+
+1.30 pm----TIME

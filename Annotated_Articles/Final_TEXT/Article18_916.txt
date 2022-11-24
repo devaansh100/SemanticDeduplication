@@ -1,0 +1,27 @@
+
+['Hundreds Of Cockroaches Released in Albany Courtroom During Hearing\nA courthouse in upstate New York was closed for fumigation Tuesday after hundreds of cockroaches were released during an altercation that broke out at an arraignment, according to court officials. The clash broke out during proceedings in Albany City Court for four people for an arrest at the state Capitol. A defendant who started to film the courtroom proceedings was told to stop. In the altercation that followed, hundreds of cockroaches brought into the courthouse in plastic containers were released, according to the state court system. The bug release was being investigated while the courthouse was closed for the rest of the day for fumigation. Court officers arrested a 34-year-old woman in the audience for charges related to the altercation, including disorderly conduct, obstructing governmental administration and tampering with physical evidence. She was released, and it was not immediately clear whether she had an attorney to speak on her behalf. “What transpired is not advocacy or activism, it is criminal behavior with the intent to disrupt a proceeding and cause damage,” read a statement from the Office of Court Administration. Read all the Latest News , Breaking News and IPL 2022 Live Updates here.']
+
+
+Hundreds----QTY
+
+Cockroaches----SP.COMMON
+
+Tuesday----DATE
+
+hundreds----QTY
+
+cockroaches----SP.COMMON
+
+Albany City Court----LOC.EXACT
+
+hundreds----QTY
+
+cockroaches----SP.COMMON
+
+plastic containers----CONCEALMENT_METHOD
+
+arrested----CRIME.CAT
+
+34----SUS.AGE
+
+woman----SUS.GENDER

@@ -1,0 +1,41 @@
+
+['Are sea cucumbers being smuggled in the Agatti islands of Lakshadweep?\n26 May 2020 10:18 AM GMT Hyderabad: Conservationists fear ‘threat to sea cucumbers’ at the Agatti Islands in Lakshadweep, may have turned real. The Central Bureau of Investigation (CBI) has taken up the case of alleged smuggling of the endangered species, after 3 dried highly protected sea cucumbers, weighing 540 gm, were found during waste segregation. The facts of the case are, on February 14, 2020, during segregation of non-biodegradable wastes collected from various part of the Agatti island, the sanitization staff found 3 dried sea cucumbers. The staff alerted members of Sea Cucumber Protection Task Force, who seized the consignment. The worth of the dry cucumber could be around Rs 2 crore in the international market. The highly protected species, is relished in South Asia and China and is considered a taste enhancer in various cuisines. The sea cucumbers have high demand as food and traditional medicine. As part of process of recording circumstantial evidence, the dried cucumbers are now stored at Paryavaran Bhawan- Department of Environment and Forest – Kavaratti. “Sea cucumbers are listed under Schedule 1 of the Wildlife Protection Act, in the light of its vulnerability. Sea cucumbers play a crucial role in maintaining ecological balance. In prima facie, it is evident that a criminal offence occurred and need to be investigated properly,” the CBI statement read. Zoologist C. Srinivasulu, speaking on the threat to sea cucumbers, said, “ These highly protected species are traded in the international market. People in South Asia and China relish it. Many countries acted quickly to stop the illegal trade but India was laid back.” He further added, “Sea cucumbers play an integral role in marine eco-system. It feeds on the organic detritus, thereby cleaning the eco-system. Lakshadweep is known for having sea cucumber population since a long time. In early 2000, the Mumbai National History Society conducted a survey and pitched for reserving the area. It was years later that the area was declared a conservation zone.”']
+
+
+sea cucumbers----SP.SPECIFIC
+
+smuggled----CRIME.CAT
+
+Agatti islands----LOC.EXACT
+
+Lakshadweep----LOC.STATE
+
+Agatti Islands----LOC.EXACT
+
+Lakshadweep----LOC.STATE
+
+Central Bureau of Investigation----AUTH.MISC
+
+CBI----AUTH.MISC
+
+smuggling----CRIME.CAT
+
+3----QTY
+
+sea cucumbers----SP.SPECIFIC
+
+540 gm----QTY
+
+February 14, 2020----DATE
+
+segregation of non-biodegradable wastes collected from various part of the Agatti island----DETECTION_METHOD
+
+3----QTY
+
+dried sea cucumbers----SP.SPECIFIC
+
+Sea Cucumber Protection Task Force----AUTH.MISC
+
+dry cucumber----SP.SPECIFIC
+
+Rs 2 crore----VALUE

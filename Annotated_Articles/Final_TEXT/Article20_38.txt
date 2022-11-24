@@ -1,0 +1,71 @@
+
+['Rhino horn, ivory seized; three arrested from north Bengal\nA rhino horn and a portion of an elephant tusk were seized by forest officials and three persons including a resident of Bhutan, were arrested in this connection from north Bengal on Friday, a top official said. “We received a tip off that a gang of poachers were coming to Siliguri in north Bengal from Bhutan to sell some parts of wild animals. We managed to intercept two vehicles, while another vehicle managed to flee. We seized a rhino horn and a portion of an elephant tusk. Three persons have been arrested,” said Sanjay Dutta, head of the special task force (STF) in north Bengal. The horn and the tusk were hidden inside two school bags in the vehicles. While two of the arrested persons are residents of north Bengal, one hails from Bhutan. Forest officials also said that the vehicle, which fled, had a number plate written in Bhutanese. Both Indian Elephant and Rhino enjoy the highest level of protection in India and are listed in Part 1 and Schedule 1 of the Wildlife (Protection) Act 1972. A senior forest official said that trading parts of rhino and elephants could earn a jail term not less than three years which may extend up to seven years. Bengal has seen rampant smuggling in wildlife and animal parts in recent times. Earlier this month, the Wildlife Crime Control Bureau (Eastern Region) of the Union ministry of environment, forest and climate change and West Bengal forest department personnel busted a racket with the seizure of about a thousand endangered turtles and three facilities to store them in Bengal’s North 24 Parganas district. In June last year, the Wildlife Crime Control Bureau personnel seized a lion cub and three baby langurs after apprehending an SUV in a Bengal expressway. Three persons were also apprehended.']
+
+
+Rhino----SP.COMMON
+
+horn----ITEM
+
+ivory----ITEM
+
+seized----CRIME.CAT
+
+three----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+north Bengal----LOC.STATE
+
+A----QTY
+
+rhino----SP.COMMON
+
+horn----ITEM
+
+elephant----SP.COMMON
+
+tusk----ITEM
+
+seized----CRIME.CAT
+
+forest officials----AUTH.SEIZE
+
+three----SUS.NUMBER
+
+Bhutan----SUS.LOC
+
+arrested----CRIME.CAT
+
+Bengal----LOC.STATE
+
+Friday----DATE
+
+tip off----DETECTION_METHOD
+
+gang of poachers----SUS.AFFIL
+
+Siliguri----LOC.CITY
+
+Bhutan----ROUTE.SRC
+
+a----QTY
+
+rhino----SP.COMMON
+
+horn----ITEM
+
+elephant----SP.COMMON
+
+tusk----ITEM
+
+Three----SUS.NUMBER
+
+special task force (STF)----AUTH.SEIZE
+
+horn----ITEM
+
+tusk----ITEM
+
+hidden inside two school bags----CONCEALMENT_METHOD
+
+Bhutan----SUS.LOC

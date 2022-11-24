@@ -1,0 +1,31 @@
+
+["Tigress strangled by poachers in Madhya Pradesh's Bandhavgarh reserve forest\nBhopal: A tigress in the Bandhavgarh reserve forest in Madhya Pradesh’s Umaria district, very popular among tourists and locals, was killed by poachers who stuffed her body in a gunny bag and threw it in a well inside the Bandhavgarh tiger reserve (BTR), a senior forest officer said on Tuesday. The body was retrieved early on Tuesday morning, he added. Sources said a metallic wire was found tied around the neck of the tigress, indicating that she was strangled to death before being dumped in the well. “Samples of the tigress, aged 14, were sent for forensic tests. Prima facie, it appears it may not be a case of commercial poaching. We have begun a probe into the incident and we will nab the killers of the tigress,” BTR field director Wincent Rahim told this newspaper. The tigress, code named T-32, was known among the locals as ‘Amanalabali Baghin’ since she was sighted frequently in the Amanalabali area inside the tiger reserve. She had delivered her cubs in 2011, 2013 and 2015. T-32, which has so far delivered nine cubs in three litters, was also very popular among the tourists visiting BTR for her casual and elegant strides. Sources suspected that the poachers might have thrown the body into the well after strangulating it for being unable to chop off its body parts for some reason. “No body parts of the tigress were missing. This indicates that it may not be a case of commercial poaching. A probe can only unravel why the tigress was killed”, Rahim said. “The brutal manner in which the tigress was killed was shocking. Lack of accountability was the key reason for the alarming rise in tiger mortalities in BTR,” conservationist Ajey Dubey said."]
+
+
+Tigress----SP.COMMON
+
+strangled----CRIME.CAT
+
+poachers----SUS.AFFIL
+
+Madhya Pradesh's----LOC.STATE
+
+Bandhavgarh reserve forest----LOC.EXACT
+
+tigress----SP.COMMON
+
+Madhya Pradesh’s----LOC.STATE
+
+Umaria district----LOC.DISTRICT
+
+poachers----SUS.AFFIL
+
+gunny bag----CONCEALMENT_METHOD
+
+Bandhavgarh tiger reserve (BTR----LOC.EXACT
+
+Tuesday----DATE
+
+morning----TIME
+
+Samples of the tigress----OUTCOME

@@ -1,0 +1,23 @@
+
+['Elephants Trample Farmer to Death in Andhra\'s Chittoor District; Villagers Protest Against Forest Department\'s Inaction\nRepresentative image (TOI Kochi) A herd of wild elephants trampled a farmer to death in Andhra Pradesh\'s Chittoor district on Wednesday, the latest casualty in the growing man-animal conflict near the forest bordering Tamil Nadu and Karnataka. Subrahmanyam was killed when the tuskers attacked him in his field at Indira Nagar area in Palamaner Mandal early morning. The farmer died on the spot. The incident triggered protests by villagers, who alleged that the forest department failed to take action despite several wild elephants foraying into the area. The protestors staged a sit-in on the highway, leading to a traffic jam. They wanted the district collector to come there and give them assurance. They, however, dispersed after senior police officials pacified them. Villagers claimed that as many as 150 elephants have entered Andhra Pradesh from the forests of Tamil Nadu and Karnataka during the last few months but no action was taken to control the menace. They said the jumbos were not only destroying their crops but also attacking and killing them. The protestors said there was information about the movement of a herd of elephants for the last 15 days but the officials took no action. They said neither the forest department was doing anything nor allowing them to install electric fencing. "If an animal dies in our fields, the forest officials register a case and even snatch our lands but now when the animals are killing us, they are silent," said a farmer. This is the third such incident in the district in the last two months. On March 31, a herd of wild elephants trampled a 52-year-old farmer to death at Tanjavur village of Yadamarri Mandal near the Tamil Nadu border Advertisement A speech and hearing impaired farmer, who was relieving himself at a pond near his fields after finishing night vigil, was killed in the attack. Earlier, a 38-year-old farmer was killed in an attack by a herd at a remote village in Sadum Mandal. A herd is said to be on the prowl across the Paradarami-Yadamarri forest belt. The incidents of wild elephants from Koundinya wildlife sanctuary straying into Palamaner and Kuppam ranges sandwiched by Tamil Nadu and Karnataka have increased during the last two years. According to wildlife experts, the lack of fodder in the reserve forests and sanctuary is driving the tuskers to stray far away from their habitats. The incidents of pachyderms reaching the plain areas even about 200 km away from the tri-state junction have created concern among people. Villagers alleged that despite repeated appeals, the authorities have not taken any action but whenever elephants die they are being blamed. Elephants are dying of electrocution in the region. Last month, a 20-year-old elephant was electrocuted in the Punganoor forest range near the Cherukuvaripalle area in Sadum Mandal. The female elephant was killed when it accidentally bit a power cable while grazing a ragi crop on a farm. Forest officials blamed the farmer, who raised ragi crop, for running the cable close to the ground for motor connection. In February, a young tusker was electrocuted near Madhavapuram village abutting a forest area while trying to uproot an electric pole. ** The above article has been published from a wire agency with minimal modifications to the headline and text.']
+
+
+Elephants----SP.COMMON
+
+Trample----CRIME.CAT
+
+Andhra's Chittoor District----LOC.DISTRICT
+
+Forest Department----AUTH.SEIZE
+
+wild elephants----SP.SPECIFIC
+
+Andhra Pradesh's----LOC.STATE
+
+Chittoor----LOC.DISTRICT
+
+Wednesday----DATE
+
+early morning----TIME
+
+Tanjavur village of Yadamarri Mandal----LOC.EXACT

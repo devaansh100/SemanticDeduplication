@@ -1,0 +1,17 @@
+
+['Video Of 2 Tigers Chasing Deer At Pench National Park Breaks The Internet\nA video has surfaced on the internet which shows two tigers chase a deer in the Pench National Park, Madhya Pradesh. It has left the citizens shocked. The 13-second long video clip was shared on Twitter by Indian Forest Service officer Susanta Nanda on December 29. The video shows a very rare sight of two aggressive tigers chasing down a deer. READ: Video Of Fight Between Lion And Tiger Breaks Internet, Netizens Take Sides Tiger never hunts in pscks. But video from Pench shows 2 tigers in hot pursuit of a spotted deer. Can you guess why ? pic.twitter.com/dfJ5lXgm9B — Susanta Nanda IFS (@susantananda3) December 29, 2019 Netizens shocked In the video clip, it can be seen that two tigers chasing the deer and on the other hand, the deer runs as faster as it can to save its life. The video went viral as soon as it was shared on Twitter. The video managed to garner 12.5K views with 166 retweets and 756 likes. Netizens have reacted to the video and came up with amazing comments in the comments section. Let\'s take a look. READ: 4 Months After Counting Big Cats, NTCA Seeks More Of Tiger Cells Are they twins?? Wild guess!!🤣😂😅 — Lt Gen K J Singh (@kayjay34350) December 29, 2019 Survival or Lack of experience in hunting can lead to tiger hunting in packs, though very rare..best example is 4 Tiger sisters of Chandrapur Tiger Reserve!! — Siddharth Sharma (@sidduu96) December 29, 2019 One reason is the size and the other is quantity available the deer persuade is a male stag it\'s not a easy catch. The weight of deer is not less than 90-100 kg for sure so not that easy catch.  Now RBT\'S have to share their territory due to land squeezing also. I hope so. — Abhrankash🇮🇳 (@abhrankashdas) December 29, 2019 IFS officer Susanta Nanda further added in the comments section that, "It\'s sub adult tiger cubs which are hunting together and is rare. They learn to stalk the prey and hunt alone by about 18 months of age. Stay with mother till 2.5 years old after which they establish their own territory. This clip near a fire line is rare." READ: Tiger Reserves: Places Where One Can Spot Tigers In India READ: Thailand: Tigers In A Buddhist Temple Rescued With Weak Immune Systems']
+
+
+2----SUS.NUMBER
+
+Tigers----SP.COMMON
+
+Deer----SP.COMMON
+
+Pench National Park----LOC.EXACT
+
+deer----SP.COMMON
+
+Pench National Park----LOC.EXACT
+
+Madhya Pradesh----LOC.STATE

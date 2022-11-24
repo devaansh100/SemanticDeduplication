@@ -1,0 +1,77 @@
+
+['Cooch Behar: Four arrested for smuggling macaws\nOn Friday, the BSF first apprehended Somnath Chakraborty, a resident of Kuchlibari under Cooch Behar district while he was carrying the birds, which were kept in cages, in an SUV The quartet arrested with the macaws and the vehicles in Cooch Behar on Friday. The exotic birds had been smuggled from Bangladesh to India, BSF sources said. Acting on a tip-off, the Border Security Force (BSF) arrested four persons and recovered 15 macaws on Friday. On Friday, the BSF first apprehended Somnath Chakraborty, a resident of Kuchlibari under Cooch Behar district while he was carrying the birds, which were kept in cages, in an SUV. They interrogated Chakraborty. Based on the information revealed by him, three others were arrested near Changrabandha Bypass of the same district. The trio were waiting in another SUV and were supposed to receive the birds from Chakraborty. They have been identified as Apurva Haldar and Amit Bhunia from Kalyani of Nadia district and Nitai Sarkar, who is from Gazole of Malda district. Both the vehicles have been seized. The BSF also carried out anti-smuggling drives in various locations under north Bengal frontier and to seize different items worth around Rs 2 lakh, said sources.']
+
+
+Four----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+macaws----SP.COMMON
+
+Friday----DATE
+
+BSF----AUTH.SEIZE
+
+Somnath Chakraborty----SUS.NAME
+
+Kuchlibari----SUS.LOC
+
+SUV----TRANSPORT_MODE
+
+quartet----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+macaws----SP.COMMON
+
+vehicles----ITEM
+
+Friday----DATE
+
+exotic birds----SP.COMMON
+
+Bangladesh----ROUTE.SRC
+
+India----ROUTE.DEST
+
+tip-off----DETECTION_METHOD
+
+Border Security Force----AUTH.SEIZE
+
+BSF----AUTH.SEIZE
+
+arrested----CRIME.CAT
+
+four----SUS.NUMBER
+
+15----QTY
+
+macaws----SP.COMMON
+
+Friday----DATE
+
+Friday----DATE
+
+BSF----AUTH.SEIZE
+
+Somnath Chakraborty----SUS.NAME
+
+Kuchlibari----SUS.LOC
+
+SUV----TRANSPORT_MODE
+
+Apurva Haldar----SUS.NAME
+
+Amit Bhunia----SUS.NAME
+
+Kalyani----SUS.LOC
+
+Nadia district----SUS.LOC
+
+Nitai Sarkar----SUS.NAME
+
+Gazole----SUS.LOC
+
+anti-smuggling drives----DETECTION_METHOD
+
+Rs 2 lakh----VALUE

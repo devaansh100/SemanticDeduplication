@@ -1,0 +1,31 @@
+
+['54-yr-old woman injured in leopard attack at Gbl\n720 total views, 2 views today Raja Syed Rather Ganderbal, Feb 15 : A 54-year-old woman was injured after she was attacked by a leopard in Wakura area of Central Kashmir’s Ganderbal district on Tuesday evening. Locals told the news agency—Kashmir News Observer (KNO) that a leopard attacked an elderly women Asha, wife of Bashir Ahmad of Wakura village, resulting in injuries to her. Soon after the incident he was soon rushed to a nearby hospital for advanced treatment where doctors referred her to SMHS hospital for advanced treatment. Wildlife Ranger Feroz Nazir told KNO that they have launched search after people spotted a leopard roaming. “A team has been rushed to the area that will take all the measures for necessary intervention,” he said—(KNO)']
+
+
+54-yr-old----SUS.AGE
+
+woman----SUS.GENDER
+
+leopard----SP.COMMON
+
+attack----CRIME.CAT
+
+54-year-old----SUS.AGE
+
+woman----SUS.GENDER
+
+leopard----SP.COMMON
+
+Wakura area----LOC.EXACT
+
+Ganderbal----LOC.DISTRICT
+
+Tuesday----DATE
+
+evening----TIME
+
+leopard----SP.COMMON
+
+Asha----SUS.NAME
+
+Wakura village----SUS.LOC

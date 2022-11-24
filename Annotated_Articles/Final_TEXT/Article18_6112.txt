@@ -1,0 +1,27 @@
+
+['Mumbai: Malad woman feeds biscuit to monkey, it rips her mouth apart\nLocal residents say the animal that lost its baby has created panic in the area in Malad with several attacks for over six months; they allege inaction by the forest department The monkey has allegedly been attacking people in the Malad area for the past six months A 59-year-old Malad resident had to pay a big price for taking pity on a monkey and feeding it a biscuit as the money attacked her face, leading to 10 stitches. Locals from Appapada in Malad East, on the outskirts of Sanjay Gandhi National Park, claimed the monkey recently lost its baby and has been attacking people frequently. The latest incident took place on Thursday afternoon when Saroj Shukla was at her ice-cream and soda shop. Eyewitnesses said the monkey came and sat on the ice-cream fridge, following which Shukla offered it biscuits. However, the monkey attacked her on the face leaving her with gaping wounds and left. Shukla was taken to a hospital where she received 10 stitches. Doctors said her condition was improving and there was no danger. Another local said that the monkey had also tried to attack a child on Friday, but failed. Locals have raised the issue with forest officials several times but to no avail. Narendra Shukla, the victim’s son, said, “The police have complained about this to the Forest Department. A team came to catch him today but the monkey ran away. Locals are terrified of this monkey.” “After Kurar police informed Forest Department officials about Thursday’s incident, a couple of forest staff came. But they went back saying the monkey was not found. However, if the monkey is not caught soon, there might even be a major accident,” said a local resident']
+
+
+Mumbai----LOC.CITY
+
+Malad----SUS.LOC
+
+woman----SUS.GENDER
+
+biscuit----ITEM
+
+monkey----SP.COMMON
+
+forest department----AUTH.SEIZE
+
+59-year-old----SUS.AGE
+
+Malad----SUS.LOC
+
+biscuit----CONCEALMENT_METHOD
+
+Thursday----DATE
+
+afternoon----TIME
+
+Saroj Shukla----SUS.NAME

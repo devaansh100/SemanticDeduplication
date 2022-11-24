@@ -1,0 +1,59 @@
+
+['5 caged siamangs rescued in Assam’s Karbi Anglong; 2 smugglers arrested\nSILCHAR: Five caged siamangs were rescued from a four-wheeler vehicle in Assam’s Karbi Anglong district, police said on Wednesday adding that two Manipur residents were arrested in this connection and they are being interrogated by forest officials. While initially forest officials believed the rescued primates to be chimpanzees, on closer inspection they were found to be other species of apes. Karbi Anglong East forest division official Vipin Bansal said wildlife experts from Guwahati found that one of the rescued primates is a Siamang Gibbon, a species found primarily in Thailand, Indonesia and Malaysia. Efforts are on to identify the species of the other four primates. "I have seen photo of one of the rescued animals and it appears to be a Siamang Gibbon and not a chimpanzee as initially assumed," said Rathin Barman, joint director of Wildlife Trust of India. The five caged animals were kept inside a Maruti Ecco Van, registered in Manipur and carrying a MN number plate (MN-01-AG-5829), said John Das, sub-divisional police officer (SDPO) West Karbi Anglong’s Bokajan. The vehicle was coming from Dimapur and was heading towards Guwahati. “At around 5.30pm on Tuesday, officials from Dilai police station stopped the vehicle at naka checking and found that there were some caged animals inside. The two persons inside the vehicle attempted to flee but our officials managed to catch them,” SDPO said. After that, police officials informed the forest department and a team from the department rushed to the spot. The animals are believed to be transported from Myanmar through Manipur to Assam. “The vehicle was heading towards Guwahati and it is believed that there were chances of selling them. In the past, skins of rare animals were found in such vehicles but these five animals were found in unharmed condition,” SDPO said. According to officials of Dilai police station, the arrested persons have been identified as Habibur Rahman (46) and Janab Khan (50). Both are residents of Sangaiyumpham village under Thoubal district of Manipur. The apprehended persons along with all the seized items were handed over to the assistant conservator of forest department in the presence of officer in-charge of Manja range of Karbi Anglong East forest division for taking necessary action, the police said. An official from Karbi Anglong East forest division Vipin Bansal said that these are basically African species but now found in various parts of the world. One amongst the rescued animals is adult, while the rest four are juveniles. “The persons arrested in connection with smuggling the animals are being interrogated. We are yet to find the exact route through which the smuggling is taking place. Since these two and their vehicle belongs to Manipur, we are sure that they took route from Manipur through Nagaland to Assam,” Bansal said. In a similar case, four Kangaroos were found caged in a vehicle on National Highway 31 along Assam-West Bengal border in the second week of March. Three were severely injured and one was dead. Two persons were arrested in that connection. They were trying to smuggle the kangaroos into West Bengal’s Alipurduar district, according to local police. Weeks after that, on April 1, two injured kangaroos were rescued from near Gajoldoba in West Bengal’s Jalpaiguri district. They were severely weak and malnourished. Doctors gave them treatment and saline water was injected to strengthen them. An international syndicate of exotic wildlife smugglers whose kingpin was based in Mizoram was busted by Directorate of Revenue Intelligence (DRI) in October 2018. Following that, several operations were conducted and many animals and birds were rescued at the borders of North-eastern states. In July 2020, several animals and birds including Brazilian exotic blue macaws were rescued in Assam’s Cachar district. Two persons were arrested and they confessed that they picked the consignment from Mizoram to deliver in Guwahati.']
+
+
+5----QTY
+
+siamangs----SP.SPECIFIC
+
+rescued----CRIME.CAT
+
+Assam----LOC.STATE
+
+Karbi Anglong----LOC.DISTRICT
+
+2----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+Five----QTY
+
+siamangs----SP.SPECIFIC
+
+rescued----CRIME.CAT
+
+Assam----LOC.STATE
+
+Karbi Anglong district----LOC.DISTRICT
+
+police----AUTH.SEIZE
+
+two----SUS.NUMBER
+
+chimpanzees----SP.COMMON
+
+Siamang Gibbon----SP.SPECIFIC
+
+chimpanzee----SP.COMMON
+
+5.30pm on----TIME
+
+Tuesday----DATE
+
+Dilai police station----AUTH.SEIZE
+
+vehicle----TRANSPORT_MODE
+
+vehicle----TRANSPORT_MODE
+
+Habibur Rahman----SUS.NAME
+
+46----SUS.AGE
+
+Janab Khan----SUS.NAME
+
+50----SUS.AGE
+
+Sangaiyumpham village----SUS.LOC
+
+Mizoram----ROUTE.SRC

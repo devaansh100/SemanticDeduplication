@@ -1,0 +1,79 @@
+
+['‘Poacher’ held with arms in Alipurduar\n‘Poacher’ held with arms in Alipurduar The foresters first nabbed Parimal Barman from his house at Bonchukamari village and then seized two .315 rifles, three silencers and 20-odd rounds of live cartridges On Friday, Parimal was produced at a local court here and remanded in judicial custody for 14 days. Shutterstock | Alipurduar | Published 15.05.21, 02:55 AM A suspected member of poaching gang was arrested by a team of the state forest department on Thursday night after a cache of arms was seized from near his house at a village in Alipurduar district. The foresters first nabbed Parimal Barman from his house at Bonchukamari village and then seized two .315 rifles, three silencers and 20-odd rounds of live cartridges which were concealed in a bamboo plantation near his home. Deepak M, the divisional forest officer of Jaldapara wildlife division, said: “Parimal has been arrested following a tip-off a from three other suspected poachers who are behind the bars for killing a rhino in April and stealing its horn. The arms and ammunition seized from Parimal has left us suspecting that the group had plans to kill more animals. Searches are on to nab the remaining members of the gang as the arrested trio claimed during interrogation that they were a group of six persons.” On Friday, Parimal was produced at a local court here and remanded in judicial custody for 14 days. Leopard found dead The carcass of a female leopard was recovered from a well at Milan More located on the outskirts of Siliguri on Friday morning. Foresters from Sukna wildlife rushed to the spot and fished it out the body. The animal had strayed into the area and somehow fell into the well, forest sources said.']
+
+
+Poacher----SUS.AFFIL
+
+Alipurduar----LOC.DISTRICT
+
+Alipurduar----LOC.DISTRICT
+
+Parimal Barman----SUS.NAME
+
+Bonchukamari village----SUS.LOC
+
+two----QTY
+
+.315 rifles----ITEM
+
+three----QTY
+
+silencers----ITEM
+
+20-odd rounds----QTY
+
+live cartridges----ITEM
+
+poaching gang----SUS.AFFIL
+
+arrested----CRIME.CAT
+
+state forest department----AUTH.SEIZE
+
+Thursday----DATE
+
+night----TIME
+
+Alipurduar----LOC.DISTRICT
+
+Parimal Barman----SUS.NAME
+
+Bonchukamari village----SUS.LOC
+
+.315 rifles----ITEM
+
+three----QTY
+
+silencers----ITEM
+
+20-odd rounds----QTY
+
+live cartridges----ITEM
+
+Deepak M----OFF.NAME
+
+divisional forest officer----OFF.DESIG
+
+arrested----OUTCOME
+
+tip-off----DETECTION_METHOD
+
+gang----SUS.AFFIL
+
+Leopard----SP.COMMON
+
+found dead----CRIME.CAT
+
+carcass----ITEM
+
+leopard----SP.COMMON
+
+well at Milan More----CONCEALMENT_METHOD
+
+Friday----DATE
+
+morning----TIME
+
+Foresters----AUTH.SEIZE
+
+Sukna wildlife----AUTH.SEIZE

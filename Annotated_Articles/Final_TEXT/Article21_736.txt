@@ -1,0 +1,125 @@
+
+['Three poachers arrested in Odisha\'s Bhitarkanika National Park- The New Indian Express\nBy Express News Service KENDRAPARA: Forest officials arrested three poachers for laying traps to kill spotted deer in the Patikhara mangrove forest within Bhitarkanika National Park on Friday night. Acting on a tip-off, forest officials raided a spot in the forest and arrested Shibashambhu Tarai, Madhu Mahalik and Niranjan Mandal of Iswarapur village. "We also seized 15 traps, two nets and as many sharp weapons from the accused who during interrogation admitted to have laid the traps to kill spotted deer in the mangrove forest. The poachers have been booked under sections 9, 27, 29 and 35 of Wildlife Protection Act, 1972," said range officer of the park, Manas Kumar Das. On Saturday. the accused were produced in the court of Judicial Magistrate First Class (JMFC) at Rajnagar where their bail plea was rejected. Around 450 poachers have been arrested in the last two decades for killing around 250 spotted deer, scores of birds and 10 crocodiles. Despite the high incidence of poaching of spotted deer, the conviction rate of arrested poachers continues to be minimal due to the alleged slipshod attitude of the forest officials and agencies concerned. Female elephant\'s carcass found BHAWANIPATNA: The carcass of a female elephant was found in a mango orchard in Betalkhaman village within Biswanathpur forest range on Friday. The carcass was spotted by some locals who informed the forest officials. The postmortem on the carcass was conducted on Saturday. DFO Kalahandi South Division Gajanan Lede said the samples collected from the carcass will be sent to a laboratory to ascertain the cause of the elephant\'s death. KENDRAPARA: Forest officials arrested three poachers for laying traps to kill spotted deer in the Patikhara mangrove forest within Bhitarkanika National Park on Friday night. Acting on a tip-off, forest officials raided a spot in the forest and arrested Shibashambhu Tarai, Madhu Mahalik and Niranjan Mandal of Iswarapur village. "We also seized 15 traps, two nets and as many sharp weapons from the accused who during interrogation admitted to have laid the traps to kill spotted deer in the mangrove forest. The poachers have been booked under sections 9, 27, 29 and 35 of Wildlife Protection Act, 1972," said range officer of the park, Manas Kumar Das. On Saturday. the accused were produced in the court of Judicial Magistrate First Class (JMFC) at Rajnagar where their bail plea was rejected. Around 450 poachers have been arrested in the last two decades for killing around 250 spotted deer, scores of birds and 10 crocodiles. Despite the high incidence of poaching of spotted deer, the conviction rate of arrested poachers continues to be minimal due to the alleged slipshod attitude of the forest officials and agencies concerned. Female elephant\'s carcass found BHAWANIPATNA: The carcass of a female elephant was found in a mango orchard in Betalkhaman village within Biswanathpur forest range on Friday. The carcass was spotted by some locals who informed the forest officials. The postmortem on the carcass was conducted on Saturday. DFO Kalahandi South Division Gajanan Lede said the samples collected from the carcass will be sent to a laboratory to ascertain the cause of the elephant\'s death.']
+
+
+Three----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+Odisha's----LOC.STATE
+
+Bhitarkanika National Park-----LOC.EXACT
+
+Forest officials----AUTH.SEIZE
+
+three----SUS.NUMBER
+
+poachers----SUS.AFFIL
+
+spotted deer----SP.SPECIFIC
+
+Patikhara mangrove forest within Bhitarkanika National Park----ROUTE.SRC
+
+Friday----DATE
+
+night----TIME
+
+tip-off----DETECTION_METHOD
+
+forest officials----AUTH.SEIZE
+
+raided----DETECTION_METHOD
+
+Shibashambhu Tarai----SUS.NAME
+
+Madhu Mahalik----SUS.NAME
+
+Niranjan Mandal----SUS.NAME
+
+Iswarapur village----SUS.LOC
+
+15----QTY
+
+traps----ITEM
+
+two----QTY
+
+nets----ITEM
+
+sharp weapons----ITEM
+
+spotted deer----SP.SPECIFIC
+
+poachers have been booked under sections 9, 27, 29 and 35 of Wildlife Protection Act, 1972----OUTCOME
+
+Female elephant----SP.COMMON
+
+carcass----ITEM
+
+carcass----ITEM
+
+elephant----SP.COMMON
+
+Betalkhaman village----LOC.EXACT
+
+Friday----DATE
+
+postmortem on the carcass----OUTCOME
+
+samples collected from the carcass will be sent to a laboratory to ascertain the cause of the elephant's death----OUTCOME
+
+three----SUS.NUMBER
+
+poachers----SUS.AFFIL
+
+spotted deer----SP.SPECIFIC
+
+Patikhara mangrove forest within Bhitarkanika National Park----LOC.EXACT
+
+Friday----DATE
+
+night----TIME
+
+tip-off----DETECTION_METHOD
+
+forest officials----AUTH.SEIZE
+
+raided----DETECTION_METHOD
+
+Shibashambhu Tarai----SUS.NAME
+
+Madhu Mahalik----SUS.NAME
+
+Niranjan Mandal----SUS.NAME
+
+Iswarapur village----SUS.LOC
+
+15----QTY
+
+traps----ITEM
+
+two----QTY
+
+nets----ITEM
+
+sharp weapons----ITEM
+
+poachers have been booked under sections 9, 27, 29 and 35 of Wildlife Protection Act, 1972----OUTCOME
+
+Female elephant----SP.COMMON
+
+carcass----ITEM
+
+BHAWANIPATNA----LOC.CITY
+
+carcass----ITEM
+
+elephant----SP.COMMON
+
+Betalkhaman village----LOC.EXACT
+
+Friday----DATE
+
+postmortem on the carcass----OUTCOME
+
+samples collected from the carcass will be sent to a laboratory----OUTCOME

@@ -1,0 +1,23 @@
+
+['Navi Mumbai: Indian monitor lizard poached near PCMC head office\nNAVI MUMBAI: A Navi Mumbai activist has recently complained to the forest officials about an incident of poaching of an Indian monitor lizard near the head office in . Talking to TOI, activist Anarjit Chauhan said, "At around 11.15am on Friday, while I was standing outside the (PCMC) office, I was shocked to see a 1.5 metre long Indian monitor lizard being tied up and taken in an autorickshaw by two men. I followed the auto till , where I told the men that it is illegal to capture and transport a scheduled wildlife species like this one, but they refused to release the big lizard." By then, a mob had gathered around the activist who was not allowed to take a photo of the \'ghorpad\' as the species is locally known. "I have asked the Panvel range forest officials to get the CCTV footage of the route on which the Indian monitor lizard was being taken away in the autorickshaw. This will help to lodge an offence since I am a witness to it," said Chauhan. The Panvel range forest officer (RFO) said, "We will seek the CCTV footage from PCMC, since the auto with the Indian monitor lizard passed from the front of the head office building. At times, these wildlife species are noticed in areas close to the forest. It is illegal to hunt or capture Indian monitor lizards under the Wildlife (Protection) Act, 1972." The PCMC additional municipal commissioner Sujata Sandbhor said, "We can give our CCTV footage if the police or any other relevant authority asks for it."']
+
+
+Indian monitor lizard----SP.SPECIFIC
+
+poached----CRIME.CAT
+
+PCMC head office----LOC.EXACT
+
+poaching----CRIME.CAT
+
+Indian monitor lizard----SP.SPECIFIC
+
+11.15am on----TIME
+
+Friday----DATE
+
+Indian monitor lizard----SP.SPECIFIC
+
+two----SUS.NUMBER
+
+men----SUS.GENDER

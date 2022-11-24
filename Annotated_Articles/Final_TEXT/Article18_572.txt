@@ -1,0 +1,57 @@
+
+['Tiger kills 30-year-old man in UP’s Lakhimpur Kheri; 3rd incident in June\nA stray tiger killed a 30-year-old man in UP’s Lakhimpur Kheri. This was the third human killing since June 18 and fifth since May 21. The incident happened on Sunday night in Narendranagar Beli village close to Manjhra Purab forests under Dudhwa buffer zone, about 12 km away from Khairatiya in Tikunia Kotwali limits. The man, identified as Nagendra Singh was mauled by the tiger late on Sunday night. The big cat is reportedly the same tigress that had killed a local priest Mohan Das (52) on June 18 and a 13-year-old boy Suraj Singh on June 23, both in Khairatiya area. Deputy director, Dudhwa buffer zone Sundaresh confirmed the killing of the man in the tiger’s attack on Sunday night. However, he said pugmarks were being collected to identify if the tigress is the same that was responsible for the earlier incidents. Sundaresh added that the forest teams had been deployed in Beli village to keep away the big cat while villagers were issued fresh advisory not to visit their cane crops or agricultural fields particularly during evening and night hours. Also Read:Tiger strikes again in Lakhimpur Kheri, kills 13-yr-old boy Terror of big cats has intensified in Manjhra Purab forest area since June 18 when a tiger- later identified to be a tigress- killed a local priest Mohan Das in his temple compound in Khairatiya, close to Manjhra Purab forest area in Dudhwa buffer zone. Forest authorities said it was unusual in nature of the big cats to not only kill but also eat up the entire human body. Assuming the tigress to be a threat to human lives, senior forest authorities including chief wildlife warden KP Dubey, PCCF, wildlife Kamlesh Kumar, chief conservator of forest and field director Dudhwa Sanjay Kumar Pathak, deputy director, Dudhwa buffer zone Sundaresh camped in Khairatiya area to neutralise the big cats’ terror. UP chief wildlife warden KP Dubey permitted the Dudhwa authorities to trace and tranquilise the big cat. Four patrolling teams, drone teams, cameras, elephant combing teams were deployed while cages with baits were set up to catch the errant big cats. Last week, a similar incident had occurred in Nayapind- Khairatiya village, a few kilometres from the previous killing spot where a 13-year-old boy was mauled to death by the tiger. FD Sanjay Kumar Pathak told HT that a thorough analysis of the tiger images captured in cameras, it appeared that two big cats were on the move in the area. “By their head size, hind part and genitals, they turned out to be tigresses, and probably mother and daughter as they were sharing each other’s territory”, he added. Pathak appealed to the local villagers to cooperate with forest authorities in tackling the tiger menace and restricting their movements towards their fields and forest areas.']
+
+
+Tiger----SP.COMMON
+
+kills----CRIME.CAT
+
+30-year-old----SUS.AGE
+
+man----SUS.GENDER
+
+Lakhimpur Kheri----LOC.EXACT
+
+tiger----SP.COMMON
+
+killed----CRIME.CAT
+
+30-year-old----SUS.AGE
+
+man----SUS.GENDER
+
+Lakhimpur----LOC.DISTRICT
+
+Sunday----DATE
+
+night----TIME
+
+Narendranagar Beli village----LOC.EXACT
+
+man----SUS.GENDER
+
+Nagendra Singh----SUS.NAME
+
+tiger----SP.COMMON
+
+Sunday----DATE
+
+night----TIME
+
+52----SUS.AGE
+
+Suraj Singh----SUS.NAME
+
+chief wildlife warden----OFF.DESIG
+
+KP Dubey----OFF.NAME
+
+PCCF----AUTH.SEIZE
+
+wildlife Kamlesh Kumar----OFF.DESIG
+
+chief conservator of forest and field director----OFF.DESIG
+
+Sanjay Kumar Pathak----OFF.NAME
+
+deputy director----OFF.DESIG

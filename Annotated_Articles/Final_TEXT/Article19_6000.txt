@@ -1,0 +1,17 @@
+
+['Netizens reminded of ‘Raja Aur Rancho’ after video of monkey sitting on cop’s shoulder goes viral\nIn the viral clip, the police officer can be seen focussing on his work while the monkey fidgets around with the cop’s hair. A video of a monkey comfortably sitting on the shoulder of an inspector at Pilibhit police station, while giving him what seems like a head massage, has gone viral on social media, leaving many amused. The 53-second clip was shared by many including Additional Superintendent of Police, Uttar Pradesh Rahul Srivastav. In the viral clip, Inspector Shrikant Dwivedi can be seen focussing on his work while the monkey fidgets around with the cop’s hair. Though the officer seems unfazed by the monkey’s presence, people can be heard giggling while watching the uncommon scenario. Watch the video here: Though it is not clear who shot the video, the post has generated quite a buzz on social media. While some found the clip amusing, others compared the scene with 1997 Television series Raja Aur Rancho, that featured a detective and a monkey. Inspector sahab is totally unfazed though. No monkey business this 😁 — Pramod Kumar Singh (@SinghPramod2784) October 9, 2019 Coexistence 👏🏻👏🏻 — G M (@g_111000) October 8, 2019']
+
+
+monkey----SP.COMMON
+
+monkey----SP.COMMON
+
+Pilibhit police station----LOC.EXACT
+
+Additional Superintendent of Police, Uttar----OFF.DESIG
+
+Rahul Srivastav----OFF.NAME
+
+Inspector----OFF.DESIG
+
+Shrikant Dwivedi----OFF.NAME

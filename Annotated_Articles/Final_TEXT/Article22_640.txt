@@ -1,0 +1,61 @@
+
+['Disgusting: 4 arrested in Maharashtra for allegedly raping a Monitor Lizard, forest officials recovered video of the incident\nRaping a Monitor Lizard: The Maharashtra Forest Department has arrested four men for allegedly raping a four and a half feet tall Monitor Lizard in the Sahyadri Tiger Project. Giving details of the incident in Gabha area at Gothane on Thursday, Sangli forest officials said a CCTV footage showed four armed men roaming the forest. Forest officials then reached the spot and managed to arrest one of them, while the rest fled. When the mobile of the detained person was checked, the forest officials came to know about the shocking incident. This ‘inhuman and despicable’ act was shot from the same mobile. One of the four was seen doing the act in the video. There was a recording of rape on a four and a half feet long Monitor Lizard from this mobile. The officials also found photos of rabbits, porcupines, deer in the mobile. Seized bikes Following a tip-off, the remaining three were picked up from Hativ village in Ratnagiri district and two pistols, two motorcycles were recovered from them. The four have been identified as Sandeep Tukaram Pawar, Mangesh Kamtekar, Akshay Kamtekar, Ramesh Tukaram Ghag. raping a Monitor Lizard/Arrested accused Divisional Forest Officer Vishal Mali said that we will present them (accused) in the court and will take all possible help from law experts. Since Monitor Lizard is a reserve species like tiger and lion under the Wildlife Protection Act 1972. If found guilty, they could be sentenced to seven years in prison.']
+
+
+4----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+Maharashtra----LOC.STATE
+
+raping----CRIME.CAT
+
+Monitor Lizard----SP.COMMON
+
+Raping----CRIME.CAT
+
+Monitor Lizard----SP.COMMON
+
+Maharashtra Forest Department----AUTH.SEIZE
+
+arrested----CRIME.CAT
+
+four----SUS.NUMBER
+
+men----SUS.GENDER
+
+raping----CRIME.CAT
+
+Monitor Lizard----SP.COMMON
+
+Sahyadri Tiger Project----LOC.EXACT
+
+Gabha area at Gothane----LOC.EXACT
+
+Thursday----DATE
+
+four armed men roaming the forest. Forest officials then reached the spot and managed to arrest one of them, while the rest fled. When the mobile of the detained person was checked, the forest officials came to know about the shocking incident. This ‘inhuman and despicable’ act----DETECTION_METHOD
+
+tip-off----DETECTION_METHOD
+
+three----SUS.NUMBER
+
+Hativ village in Ratnagiri district----LOC.EXACT
+
+two----QTY
+
+two----QTY
+
+motorcycles----ITEM
+
+Sandeep Tukaram Pawar----SUS.NAME
+
+Mangesh Kamtekar----SUS.NAME
+
+Akshay Kamtekar----SUS.NAME
+
+Ramesh Tukaram Ghag----SUS.NAME
+
+Divisional Forest Officer----OFF.DESIG
+
+Vishal Mali----OFF.NAME

@@ -1,0 +1,25 @@
+
+['Male elephant found dead in Odisha, probe ordered\nSambalpur (Odisha) [India], Aug 13 (ANI): A male elephant, aged between 2.5 to 3 years, was found dead near Elbow Keshapali village under Dhama Forest Range in Sambalpur, Odisha on Wednesday. His cause of death would be ascertained after post-mortem, an officer said. "The elephant\'s cause of death would be ascertained after post-mortem. A probe has been ordered," District Forest Officer Sanjeet Kumar said. In June, an elephant was found dead with a bullet injury in Mundeswar reserve forest under Madhapur forest range in Boudh.  According to forest officials, locals saw the carcass and informed the forest department after which it was sent for a post mortem.  "Tusks of the elephant were found intact. Bullet injuries were found on the carcass and it was sent for post mortem," Divisional Forest Officer Jasobanta Sethi said. (ANI)  Disclaimer: The views expressed in the article above are those of the authors\' and do not necessarily represent or reflect the views of this publishing house. Unless otherwise noted, the author is writing in his/her personal capacity. They are not intended and should not be thought to represent official ideas, attitudes, or policies of any agency or institution.']
+
+
+elephant----SP.COMMON
+
+found dead----CRIME.CAT
+
+Odisha----LOC.STATE
+
+elephant----SP.COMMON
+
+found dead----CRIME.CAT
+
+Elbow Keshapali village----LOC.EXACT
+
+Sambalpur----LOC.DISTRICT
+
+Odisha----LOC.STATE
+
+Wednesday----DATE
+
+District Forest Officer----OFF.DESIG
+
+Sanjeet Kumar----OFF.NAME

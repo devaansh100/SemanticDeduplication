@@ -1,0 +1,25 @@
+
+['Kerala: ED attaches assets in money-laundering case linked to ivory smuggling\nNew Delhi, Apr 27 (PTI) Assets worth Rs 79.23 lakh of some people allegedly involved in hunting wild elephants in Kerala and smuggling ivory in 2015 have been attached under the anti-money laundering law, the ED said on Wednesday. A provisional order has been issued by the federal agency under the criminal sections of the Prevention of Money Laundering Act (PMLA) against the accused — Umesh Aggarwal and his wife, D Rajan and his wife, the wife of Aji Bright and the wife of Preston Silva. The ED case stems from the Kerala forest police complaints lodged against the accused at the Edamalayar and Karimpani stations under the Thundathil forest range in accordance with the provisions of the Wildlife Protection Act, 1972 and the Kerala Forest Act, 1961. The accused were charged with “trespassing into reserve forest, hunting of wild elephants and removing of tusk and illegal trading of ivory and ivory products during the year 2015”, the Enforcement Directorate (ED) said in a statement. Of the attached assets, immovable properties are worth Rs 53.97 lakh, it said. PTI NES RC This report is auto-generated from PTI news service. ThePrint holds no responsibility for its content.']
+
+
+Kerala----LOC.STATE
+
+ED----AUTH.SEIZE
+
+assets----ITEM
+
+Assets----ITEM
+
+Rs 79.23 lakh----VALUE
+
+elephants----SP.COMMON
+
+Kerala----LOC.STATE
+
+provisional order----OUTCOME
+
+Umesh Aggarwal----SUS.NAME
+
+D Rajan----SUS.NAME
+
+Preston Silva----SUS.NAME

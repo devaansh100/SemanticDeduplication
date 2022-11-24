@@ -1,0 +1,21 @@
+
+['Rare Pangolin caught in Jamtara\nRare Pangolin caught in Jamtara Jamtara, Apr 18 (UNI) Villagers of Rangachapd village under Kundhit block of this district today caught a rare Pangolin. The animal was caught by the villagers after they found him in the field. DFO Sushil Soren said that the animal has been rescued by the forest department and would be once again released in the forest areas of Kundhit. He said, Pangolin which is found in Asia and Africa has been kept in the list of endangered species of animals by the World Wildlife Fund and there is a complete ban on its catching and smuggling. He said that the skin and flesh of the animal is in great demand in the International markets and fetches huge sums of money.']
+
+
+Pangolin----SP.COMMON
+
+Jamtara----LOC.EXACT
+
+Pangolin----SP.COMMON
+
+Jamtara----LOC.EXACT
+
+Rangachapd village----LOC.EXACT
+
+today----DATE
+
+Pangolin----SP.COMMON
+
+rescued by the----OUTCOME
+
+forest department----AUTH.SEIZE

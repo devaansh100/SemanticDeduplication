@@ -1,0 +1,45 @@
+
+['Sale of Shahtoosh: CBI Files Cases Against Two Firms\nSale of Shahtoosh: CBI Files Cases Against Two Firms Srinagar: The Central Bureau of Investigation (CBI) on Thursday claimed to have registered two separate cases against two private firms and others on the allegations of illegal export of shawls. According to a statement issued here, two separate cases have been registered on the complaints from customs departments against two private firms based at Srinagar and Delhi and others including a proprietor of a private firm based at Srinagar. “The cases have been registered on the allegations of illegal export of 32 (26+6) shawls containing Guard hair of Tibetan Antelope (Shahtoosh). The export of such wildlife material is prohibited under the provisions of Wildlife (Protection) Act, 1972,” the statement reads. “Searches were conducted in the premises of both the firms in New Delhi and Srinagar which led to recovery of 4 shawls and incriminating documents,” it said, adding that investigation of both the cases is in progress. Follow this link to join our WhatsApp group: Join Now Be Part of Quality Journalism Quality journalism takes a lot of time, money and hard work to produce and despite all the hardships we still do it. Our reporters and editors are working overtime in Kashmir and beyond to cover what you care about, break big stories, and expose injustices that can change lives. Today more people are reading Kashmir Observer than ever, but only a handful are paying while advertising revenues are falling fast. ACT NOW CLICK FOR DETAILS']
+
+
+Sale----CRIME.CAT
+
+Shahtoosh----ITEM
+
+CBI----AUTH.SEIZE
+
+Sale----CRIME.CAT
+
+Shahtoosh----ITEM
+
+CBI----AUTH.SEIZE
+
+Srinagar----LOC.CITY
+
+Central Bureau of Investigation (CBI)----AUTH.SEIZE
+
+Thursday----DATE
+
+registered two separate cases----OUTCOME
+
+illegal export----CRIME.CAT
+
+shawls----ITEM
+
+customs departments----AUTH.SEIZE
+
+Srinagar----SUS.LOC
+
+Delhi----SUS.LOC
+
+Srinagar----SUS.LOC
+
+illegal export----DETECTION_METHOD
+
+32----QTY
+
+shawls----ITEM
+
+Guard hair----ITEM
+
+Tibetan Antelope----SP.SPECIFIC

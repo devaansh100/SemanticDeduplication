@@ -1,0 +1,83 @@
+
+['Telangana: Leopard skin seized, six held in Mancherial district- The New Indian Express\nBy Express News Service ADILABAD: Ramagundam task force police caught nine people smuggling leopard skin during a vehicle check near Gramagundamondguda village in Mancherial district. While six of them were arrested, three of them - including the prime accused - fled the scene. The arrested accused were identified as Gopathi Vamshi, Sikrum Gangu, Durgaprasad, SK Jameel, Md Wajeed Khan and Avulla Sai Krishna. The leopard was killed in Mangi forest area, said the police. The accused had smuggled its skin to Gondguda for sale. "We are in the process of identifying how they caught and killed the leopard. It is around 2-years-old," said the police. ADILABAD: Ramagundam task force police caught nine people smuggling leopard skin during a vehicle check near Gramagundamondguda village in Mancherial district. While six of them were arrested, three of them - including the prime accused - fled the scene. The arrested accused were identified as Gopathi Vamshi, Sikrum Gangu, Durgaprasad, SK Jameel, Md Wajeed Khan and Avulla Sai Krishna. The leopard was killed in Mangi forest area, said the police. The accused had smuggled its skin to Gondguda for sale. "We are in the process of identifying how they caught and killed the leopard. It is around 2-years-old," said the police.']
+
+
+Telangana----LOC.STATE
+
+Leopard----SP.COMMON
+
+skin----ITEM
+
+seized----CRIME.CAT
+
+six----SUS.NUMBER
+
+Mancherial----LOC.DISTRICT
+
+Ramagundam task force----AUTH.SEIZE
+
+police----AUTH.SEIZE
+
+nine----SUS.NUMBER
+
+leopard----SP.COMMON
+
+skin----ITEM
+
+Mancherial----LOC.DISTRICT
+
+six----SUS.NUMBER
+
+arrested----OUTCOME
+
+Gopathi Vamshi----SUS.NAME
+
+Sikrum Gangu----SUS.NAME
+
+Durgaprasad----SUS.NAME
+
+SK Jameel----SUS.NAME
+
+Md Wajeed Khan----SUS.NAME
+
+Avulla Sai Krishna----SUS.NAME
+
+leopard----SP.COMMON
+
+Mangi forest area----LOC.EXACT
+
+skin----ITEM
+
+Ramagundam task force----AUTH.SEIZE
+
+police----AUTH.SEIZE
+
+nine----SUS.NUMBER
+
+leopard----SP.COMMON
+
+skin----ITEM
+
+vehicle check----DETECTION_METHOD
+
+Gramagundamondguda village----LOC.EXACT
+
+Mancherial----LOC.DISTRICT
+
+six----SUS.NUMBER
+
+Gopathi Vamshi----SUS.NAME
+
+Sikrum Gangu----SUS.NAME
+
+Durgaprasad----SUS.NAME
+
+SK Jameel----SUS.NAME
+
+Md Wajeed Khan----SUS.NAME
+
+Avulla Sai Krishna----SUS.NAME
+
+Mangi forest area----LOC.EXACT
+
+skin----ITEM

@@ -1,0 +1,79 @@
+
+['Andhra police arrest 5 people, seize 20 red sanders logs\nChittoor, Aug 19 (IANS) The Andhra Pradesh police on Thursday seized 20 red sanders logs and arrested five smugglers in Chittoor district.  As per information, the accused have been identified as A. Santosh Kumar (27), A. Shiva Kumar (40), M. Harish (19), S. Anwar Basha (24) and S. Imran Basha (24).  Shiva Kumar and Harish hail from Tamil Nadu while the rest are from Chittoor town.  According to police, the accused were illegally felling red sanders trees in Talakona and Seshachalam forest areas and transporting them to Vellore in Tamil Nadu.  They were arrested while the police were carrying out a vehicle search at Kanakaneri check post in Gudipala mandalam on Thursday morning.  The gang was transporting 290 kg red sanders logs in a car and five two-wheelers.  "Some more people linked to the case have escaped," said a police official.  Police seized 20 logs of red sanders, the two-wheelers and the car, valued at Rs 25 lakh.']
+
+
+Andhra police----SP.COMMON
+
+arrest----CRIME.CAT
+
+5----SUS.NUMBER
+
+20----QTY
+
+red sanders----SP.COMMON
+
+logs----ITEM
+
+Andhra Pradesh police----AUTH.SEIZE
+
+Thursday----DATE
+
+20----QTY
+
+red sanders----SP.COMMON
+
+logs----ITEM
+
+five----SUS.NUMBER
+
+Chittoor----LOC.DISTRICT
+
+A. Santosh Kumar----SUS.NAME
+
+27----SUS.AGE
+
+A. Shiva Kumar----SUS.NAME
+
+40----SUS.AGE
+
+M. Harish----SUS.NAME
+
+19----SUS.AGE
+
+S. Anwar Basha----SUS.NAME
+
+24----SUS.AGE
+
+S. Imran Basha----SUS.NAME
+
+24----SUS.AGE
+
+Tamil Nadu----SUS.LOC
+
+Chittoor town----SUS.LOC
+
+Thursday----DATE
+
+morning----TIME
+
+290 kg----QTY
+
+red sanders logs----ITEM
+
+car----TRANSPORT_MODE
+
+five----QTY
+
+two-wheelers----ITEM
+
+20----QTY
+
+logs----ITEM
+
+red sanders----SP.COMMON
+
+two-wheelers----ITEM
+
+car----ITEM
+
+Rs 25 lakh----VALUE

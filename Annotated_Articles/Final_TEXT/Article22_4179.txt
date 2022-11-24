@@ -1,0 +1,89 @@
+
+['Mangaluru: Six held while trying to sell ambergris worth Rs 3.48 Crore\nMangaluru: Six held while trying to sell ambergris worth Rs 3.48 Crore  Vartha Bharati | 08-02-2022 | 19:27:00 IST  Mangaluru, Feb 8: Police here on Tuesday arrested six persons while they were trying to sell 3.480 kg of ambergris (sperm whale vomit) worth Rs 3.48 crore from Bantwal in Dakshina Kannada district of Karnataka. The arrested have been identified as Prashanth (24) from Kundapur, Sathyaraj (32) of Bengaluru, Rohit (27) of Thenkapadav, Rajesh (37) of Addur, Virupaksha (37) of Thenkayedapadav and Nagaraj (31), a resident of Kaup.  Police sources said they were found selling the ambergris, a high-valued, banned substance under the forest and environmental laws, near the Navodaya school at Balepuni in Bantwal taluk.  On being questioned, they told the police that the ambergris was given by Sedhu Manikya, a fisherman hailing from Tamil Nadu, the sources said. One Kg of ambergris costs Rs 1 crore in the international market and smugglers target whales for the substance.  The operation was carried out under the guidance of ACP Dinaker Shetty and a police team led by Konaje inspector Prakash Devadiga, the sources said. Let the Truth be known. If you read VB and like VB, please be a VB Supporter and Help us deliver the Truth to one and all.']
+
+
+Six----SUS.NUMBER
+
+sell----CRIME.CAT
+
+ambergris----ITEM
+
+Rs 3.48 Crore----VALUE
+
+Six----SUS.NUMBER
+
+ambergris----ITEM
+
+Rs 3.48 Crore----VALUE
+
+Police----AUTH.SEIZE
+
+Tuesday----DATE
+
+six----SUS.NUMBER
+
+3.480 kg----QTY
+
+ambergris----ITEM
+
+sperm whale----SP.COMMON
+
+vomit----ITEM
+
+Rs 3.48 crore----VALUE
+
+Bantwal----LOC.EXACT
+
+Dakshina Kannada district----LOC.DISTRICT
+
+Karnataka.----LOC.STATE
+
+Prashanth----SUS.NAME
+
+24----SUS.AGE
+
+Kundapur----SUS.LOC
+
+Sathyaraj----SUS.NAME
+
+32----SUS.AGE
+
+Bengaluru----SUS.LOC
+
+Rohit----SUS.NAME
+
+27----SUS.AGE
+
+Thenkapadav----SUS.LOC
+
+Rajesh----SUS.NAME
+
+37----SUS.AGE
+
+Addur----SUS.LOC
+
+Virupaksha----SUS.NAME
+
+37----SUS.AGE
+
+Thenkayedapadav----SUS.LOC
+
+Nagaraj----SUS.NAME
+
+31----SUS.AGE
+
+Kaup----SUS.LOC
+
+ambergris----ITEM
+
+Sedhu Manikya----SUS.NAME
+
+Rs 1 crore----VALUE
+
+ACP----OFF.DESIG
+
+Dinaker Shetty----OFF.NAME
+
+inspector----OFF.DESIG
+
+Prakash Devadiga----OFF.NAME

@@ -1,0 +1,45 @@
+
+['Gujarat: Pangolin smuggling racket busted, one held\nPALANPUR: The forest department of Aravalli district busted a major wild animal trafficking racket and arrested one person with two pangolin carcasses and scales weighing over 10kg. The accused Mohammad Nadim was sent to seven-day custody of the forest department by a local court on Saturday.Pangolin is protected under the Schedule I of the Wildlife Protection Act.Two of Nadim’s associates had managed to escape when the forest officials tried to apprehend them near Ratanpur check post near Shyamlaji town in Aravalli district on Friday said assistant conservator of forest Shreyan Patel.“Three men from Haldwani in Uttarakhand were stopped based on a tip-off that they were smuggling wild animal carcasses. They were driving a Santro car. However, two of them managed to escape, while Nadim got nabbed,” added Patel. He said that the car in which the accused were travelling was registered in Uttarakhand.“The pangolin carcasses and the scales were destroyed after post mortem and due process. Nadim has admitted that they had brought the pangolin carcasses and the scales from Uttarakhand and were on their way to Maharashtra to sell it,” Patel said. Pangolin scales though does not have any proven medicinal value , yet it is used in traditional Chinese medicine to help with ailments ranging from lactation difficulties to arthritis.']
+
+
+Pangolin----SP.COMMON
+
+one----SUS.NUMBER
+
+forest department of Aravalli district----AUTH.SEIZE
+
+wild animal trafficking----SP.COMMON
+
+arrested----CRIME.CAT
+
+one----SUS.NUMBER
+
+two----QTY
+
+pangolin----SP.COMMON
+
+carcasses----ITEM
+
+scales----ITEM
+
+10kg----QTY
+
+Mohammad Nadim----SUS.NAME
+
+sent to seven-day custody of the forest department----OUTCOME
+
+Ratanpur check post near Shyamlaji town in Aravalli district----LOC.EXACT
+
+Friday----DATE
+
+“Three----SUS.NUMBER
+
+men----SUS.GENDER
+
+Haldwani----SUS.LOC
+
+tip-off----DETECTION_METHOD
+
+wild animal carcasses----SP.COMMON
+
+Santro car----TRANSPORT_MODE

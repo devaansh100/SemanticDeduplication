@@ -1,0 +1,23 @@
+
+["Wild elephant electrocuted in Chittoor district\nThe electrocuted female wild elephant is seen lying on a farm near Cherukuvaripalle in Chittoor district on Saturday. (Photo:DC) Nellore: A 20-year-old lactating elephant was electrocuted in Punganoor forest range near Cherukuvaripalle area in Sadum mandal of Chittoor district during the early hours of Saturday. This is the second such incident in two months. A young tusker was electrocuted near ST Colony, a small habitation near Madhavapuram village abutting forest area in Tavanampalle mandal in Chittoor district in the second week of February this year, while trying to uproot an electric pole. In Saturday’s incident, a fully grown female elephant was killed when it accidentally bit a power cable while grazing ragi crop in a farm near Cherukuvaripalle village in Sadum mandal. Forest officials blamed the farmer, who raised ragi crop, for running the cable close to the ground for motor connection. Officials also believe that the elephant is one among a herd of 14 elephants which trampled a farmer Nallagasula Yellappa in a nearby village K. Gollapalle in Sadum mandal two days ago. Panchayat raj and mines minister Peddireddy Ramachandra Reddy inspected the farm where the elephant was electrocuted on Saturday. He also visited the house of the farmer killed in the elephants' attack and consoled his family members. The minister directed forest officials to pay Rs 5 lakh as compensation to the deceased family. He promised another Rs 5 lakh from the state government. Ramachandra Reddy directed the forest officials to keep a tab on the movement of elephants’ herd destroying crops when locals expressed fear about their safety and that of the crops. Meanwhile, district forest officer (Chittoor West) S. Ravisankar said they had deputed animal trackers to the area to divert the herd into the forest and protect the crops. Speaking to this newspaper, he said the target of the herd was fodder raised in the farms for cattle apart from a jaggery plant near Cherukuvaripalle. The trackers were already stationed in the location expecting the herd to attack the plant since it is in operation using harvested sugarcane, the DFO said. He said their men managed to drive away the herd when they came to attack the jaggery unit on Friday night."]
+
+
+Wild elephant----SP.SPECIFIC
+
+electrocuted----CRIME.CAT
+
+Chittoor----LOC.DISTRICT
+
+Chittoor----LOC.DISTRICT
+
+Saturday----DATE
+
+Punganoor forest range----LOC.EXACT
+
+Chittoor----LOC.DISTRICT
+
+Saturday----DATE
+
+ST Colony----LOC.EXACT
+
+night----TIME

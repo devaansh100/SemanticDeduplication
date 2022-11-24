@@ -1,0 +1,53 @@
+
+['Odisha STF seizes elephant tusks, 1 arrested in Angul\nAngul: The Special Task Force (STF) of Odisha police on Thursday arrested a wildlife criminal on charges of possessing elephant tusks in Angul. The arrested accused has been identified as Duryadhan Pradhan of Betara, Kandhakoili under Purunakote police limits. On basis of reliable information regarding dealing/possession of wildlife products, the STF officials conducted a raid along with the help of Angul Forest Officials near Kandhakoili village. During the search two elephant tusks weighing 04 kg, 500 gram, and other incriminating materials were recovered from his possession. The accused person could not produce any authority in support of the possession of such Elephant Tusks, for which he has been detained and handed over to Angul Forest Officials for necessary legal action on their end. Special drive against the wildlife criminals/poachers is continuing. Since 2020, STF has seized as many as 26 elephant tusks.']
+
+
+STF----AUTH.SEIZE
+
+seizes----CRIME.CAT
+
+elephant----SP.COMMON
+
+tusks----ITEM
+
+1----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+Angul----LOC.DISTRICT
+
+Special Task Force (STF)----AUTH.SEIZE
+
+Thursday----DATE
+
+arrested----CRIME.CAT
+
+elephant----SP.COMMON
+
+tusks----ITEM
+
+Angul----LOC.DISTRICT
+
+Duryadhan Pradhan----SUS.NAME
+
+Betara----SUS.LOC
+
+reliable information----DETECTION_METHOD
+
+STF officials----AUTH.SEIZE
+
+raid----DETECTION_METHOD
+
+Angul Forest Officials----AUTH.SEIZE
+
+Kandhakoili village----LOC.EXACT
+
+two----QTY
+
+elephant----SP.COMMON
+
+tusks----ITEM
+
+04 kg----QTY
+
+500 gram----QTY

@@ -1,0 +1,19 @@
+
+['Tiger Found Dead in Gujarat is the One Caught on Cam: Forest Dept\nSrivastava said the exact cause of its death is yet to be ascertained as no external injury was found on the animal. "We have collected three sets of samples for investigation, which will be sent to Gujarat Forensic Sciences Laboratory in Gandhinagar, Anand Veterinary Hospital and LaCONES in Hyderabad for examination," he said. The post-mortem panel comprises senior forest department officials, a representative of the National Tiger Conservation Authority (NCTA), veterinary doctors, and district representative of the Animal Welfare Board of India, Srivastava said. "The carcass was burnt as per the protocol of the National Tiger Conservation Authority (NTCA) in the presence of a panel, villagers and mediapersons," he added.']
+
+
+Tiger----SP.COMMON
+
+Found Dead----CRIME.CAT
+
+Gujarat----LOC.STATE
+
+three sets of samples for investigation, which will be sent to----OUTCOME
+
+Gujarat Forensic Sciences Laboratory in Gandhinagar----AUTH.MISC
+
+Anand Veterinary Hospital----AUTH.MISC
+
+LaCONES----AUTH.MISC
+
+National Tiger Conservation Authority (NCTA----AUTH.MISC

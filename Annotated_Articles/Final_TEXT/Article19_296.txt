@@ -1,0 +1,29 @@
+
+['Leopard spotted in Bhubaneswar again!\nBhubaneswar: A couple of days after capturing a leopard that had entered the residential area in the state capital city, another leopard was reportedly spotted in Rangamatia area here late on Thursday night. According to one Keshab, he saw the leopard prancing around when he was out to attend nature’s call at around 9 to 9.30 pm yesterday. He claimed the leopard to be about 3ft height and 5ft length. Scared after spotting the wild animal, Keshab called the family and neighbours. But, by that time the leopard had already left the scene. They immediately informed the Forest Department Officials. While panic gripped the area when locals heard the news, two teams of Forest Department rushed to the spot for investigation. They are verifying the pug marks to ascertain the veracity of Keshab’s claims. Besides, they have put the entire area on high alert and have also asked the locals to be careful. Notably, a leopard was spotted in Palaspalli area here on February 18. The visuals of the wild animal captured by a CCTV camera. Later the forest officials managed to capture it on February 22 and safely shifted to Nandankanan Zoological Park on the outskirt of the city. Also Read: Tempo Carrying 200 Litres Illicit Liquor Seized, Driver Held']
+
+
+Leopard----SP.COMMON
+
+Bhubaneswar----LOC.CITY
+
+leopard----SP.COMMON
+
+Rangamatia area----LOC.EXACT
+
+Thursday----DATE
+
+night----TIME
+
+leopard----SP.COMMON
+
+9 to 9.30----TIME
+
+yesterday----DATE
+
+leopard----SP.COMMON
+
+Forest Department----AUTH.SEIZE
+
+Palaspalli area----LOC.EXACT
+
+February 18----DATE

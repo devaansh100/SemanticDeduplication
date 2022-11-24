@@ -1,0 +1,11 @@
+
+['Actors eat living goat, hen during the show!\nAlthough it seems unbelievable this is true that here an actor eats goat and hen on the stage during the show when they are alive. The show is witnessed by hundreds of people including children and women. As per the report, this heart-stirring episode has been witnessed in the Ganjam district of Odisha. It can be seen in the video that the actor, essaying the role of Kumbhakarna is eating goats and hens when they are still alive. Hundreds of people witness the actor peeling and eating the living bird and animal on the stage during the show. He rips off the feathers and eats the flesh of the live chicken. https://www.facebook.com/knewsodisha/videos/370519783734733/ In the drama that is based on a religious subject, Kumbhakarna eats the living goats and hens after he wakes up. It is heard that some actors also consume snakes on stage. Director of the play is of the opinion that they need to showcase some thrilling events to get the attention of the audience. Besides, the actors also showcase some daredevil exhibits that include entry of the Monkey God to the stage by jumping from a tall tree with the help of a rope, breaking stone on the chest of hanuman, rotating a bullock cartwheel around the neck and breaking beer bottles in the thigh. Also read: Death Toll Rises To 120 In Hooch Tragedy In UP, Uttarakhand']
+
+
+Actors----SUS.AFFIL
+
+eat----CRIME.CAT
+
+goat----SP.COMMON
+
+hen----SP.COMMON

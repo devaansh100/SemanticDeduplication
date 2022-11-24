@@ -1,0 +1,53 @@
+
+['Tamil Nadu: Two men arrested for poisoning tiger to death\nUDHAGAMANDALAM: The state forest department arrested two men on Tuesday for poisoning a tigress to death in the Singara forest range of Mudumalai Tiger Reserve (MTR) in the Nilgiris in November 2020.A tigress was found dead at Seemarkuli Odai near Aachakarai on November 20. Though foresters did not suspect any foul play initially, tissue samples sent to three different labs for examination showed poisoning as cause of death.A special intelligence team conducted a meeting with cattle owners and herders in the area and found that four people were involved in the poisoning. A Ahamed Kabir, 26, and P Karian, 25, both from villages hamlet near Masinagudi , were nabbed and remanded in judicial custody. A search is on for the other two.“Three of the accused reared cattle and the fourth grazed the cattle in the forest. After some milch animals were killed by wild animals, they left a poisoned carcass of a cow in the forest. The tiger ate the meat and died,” L C S Srikanth, deputy director of MTR buffer zone said.']
+
+
+Tamil Nadu----LOC.STATE
+
+Two----SUS.NUMBER
+
+men----SUS.GENDER
+
+arrested----CRIME.CAT
+
+tiger----SP.COMMON
+
+state forest department----AUTH.SEIZE
+
+two----SUS.NUMBER
+
+men----SUS.GENDER
+
+Tuesday----DATE
+
+a----QTY
+
+tigress----SP.COMMON
+
+Singara forest range of Mudumalai Tiger Reserve (MTR)----ROUTE.SRC
+
+Nilgiris----LOC.DISTRICT
+
+November 2020.A----DATE
+
+tigress----SP.COMMON
+
+November 20----DATE
+
+Ahamed Kabir----SUS.NAME
+
+26----SUS.AGE
+
+P Karian----SUS.NAME
+
+25----SUS.AGE
+
+hamlet near Masinagudi----SUS.LOC
+
+nabbed----CRIME.CAT
+
+remanded in judicial custody----OUTCOME
+
+C S Srikanth----OFF.NAME
+
+deputy director----OFF.NAME

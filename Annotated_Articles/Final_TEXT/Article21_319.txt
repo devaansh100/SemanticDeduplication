@@ -1,0 +1,19 @@
+
+['Carcass of Indian Ocean humpback dolphin found near Mumbai beach\nMUMBAI: A carcass of a 7 feet Indian Ocean humpback dolphin was found at Cuffe Parade beach on Monday afternoon, the second such incident on southern coasts of Mumbai after a dead whale shark was spotted at Sasoon dock in August last year.Primarily, the death of dolphin appears to have occurred due to suffocation after it was trapped in the fishermen\'s nets or ropes and the rocks somewhere deep inside the coast a few days ago, forest officials said."The body washed ashore today. We don\'t see any deliberate attempt to kill it. If there is any other reason, then it will be cleared only after the necropsy," the sources with the forest department said.']
+
+
+Carcass----ITEM
+
+Indian Ocean humpback dolphin----SP.SPECIFIC
+
+Mumbai beach----LOC.EXACT
+
+carcass----ITEM
+
+Indian Ocean humpback dolphin----SP.SPECIFIC
+
+Cuffe Parade beach----LOC.EXACT
+
+Monday----DATE
+
+afternoon----TIME

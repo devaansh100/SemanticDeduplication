@@ -1,0 +1,71 @@
+
+['Indore: In past 20 days, third death of leopard in Manpur range\nLeopard found dead in Janapav | Indore/Mhow (Madhya Pradesh): A possible case of leopard poaching and hunting has been reported at Janapav, in the Indore forest division. Two persons, including a temple priest, were arrested on the suspicion of killing the leopard on Thursday. This is the fourth leopard death reported in Indore division in the past 20 days. This was not a natural death and, perhaps, the leopard had been attacked as some of his body parts were found missing on Thursday. Even three nails on the leopard’s paws and its whiskers were missing. The skin of the animal, however, was intact. Upon seeing the carcass, forest officials expressed fears that it had been hunted down. The Manpur range forest team and State Tiger Strike Force (STSF) team have caught three suspects. Manpur range officials were performing the last rites of the leopard. It was later stopped and the carcass has been sent for a post-mortem examination. During interrogation, it was found that a goat had been hunted in the area on Saturday. Forest officials suspect that the villagers had beaten the leopard to death. The doctors have reported that it was definitely not a normal death. Some villagers who had gone to graze their goats in the forest saw the carcass of the leopard and informed the forest department. This leopard death in the Janapav forest comes after Ashapura and Kalikirae in a span of roughly 20 days. After the villagers informed and forest officials about the missing whiskers and nails, the officers immediately swung into action. Chief conservator of forests (CCF) HS Mohanta and divisional forest officer (DFO) Narendra Pandwa also reached the spot. The STSF was also informed and asked to remain on alert. With the help of a dog squad, the STSF searched the entire area. According to the doctor who will do the post-mortem examination, the leopard had died three days ago. On Thursday from 5 am, a team of the STSF and Manpur range forest investigated the case. Forest ranger PS Chauhan said that the age of the leopard was estimated to be 7-8 years. Who are the two arrested accused? Sharing details of two accused that were arrested on Thursday, CCF HS Mohanta said, ‘Hukum Babariya Bhuriya, aged 43 years, is the prime accused as he was found in possession of leopard nails and whiskers.’ Bhuriya is a resident of Badakua village, Mhow tehsil, Indore division. ‘Bhuriya is a priest of the Panchmukhi Hanuman temple at Janpav,’ Mohanta said. Another accused, Santosh Badrilal Choudhury, is from the same village and is aged 25. ‘Forest guard among 3 taken into custody’ ‘A forest guard of the area, along with two others, was taken into custody. The guard allegedly knew about the incident and chances of it happening, but didn’t inform the department’ — DFO Narendra Pandwa']
+
+
+leopard----SP.COMMON
+
+Leopard----SP.COMMON
+
+found dead----CRIME.CAT
+
+Janapav----LOC.EXACT
+
+Madhya Pradesh----LOC.STATE
+
+leopard----SP.COMMON
+
+poaching and hunting----CRIME.CAT
+
+Janapav----LOC.EXACT
+
+Two----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+killing----CRIME.CAT
+
+leopard----SP.COMMON
+
+Thursday----DATE
+
+Thursday----DATE
+
+nails----ITEM
+
+Manpur range forest team----AUTH.SEIZE
+
+State Tiger Strike Force----AUTH.SEIZE
+
+STSF)----AUTH.SEIZE
+
+three----SUS.NUMBER
+
+Chief conservator of forests (CCF)----OFF.DESIG
+
+HS Mohanta----OFF.NAME
+
+divisional forest officer (DFO)----OFF.DESIG
+
+Narendra Pandwa----OFF.NAME
+
+STSF----AUTH.SEIZE
+
+Manpur range forest----AUTH.SEIZE
+
+Hukum Babariya Bhuriya----SUS.NAME
+
+43----SUS.AGE
+
+leopard----SP.COMMON
+
+nails----ITEM
+
+whiskers----ITEM
+
+Badakua village, Mhow tehsil, Indore division----SUS.LOC
+
+Santosh Badrilal Choudhury----SUS.NAME
+
+25----SUS.AGE
+
+3----SUS.NUMBER

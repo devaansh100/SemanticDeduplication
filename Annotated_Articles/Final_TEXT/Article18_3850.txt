@@ -1,0 +1,17 @@
+
+['Elephant goes berserk, kills mahout in TVM\nThiruvananthapuram: An elephant brought to carry timber went berserk and gored the mahout to death. The shocking incident happened at Kappamula in Kallambalam by around 10.45 am on Monday. The elephant that ran amok swirled the mahout with its trunk and killed him while picking up the logs. The efforts to bring the elephant under control are proceeding.']
+
+
+Elephant----SP.COMMON
+
+kills----CRIME.CAT
+
+mahout----SP.COMMON
+
+elephant----SP.COMMON
+
+Kappamula in Kallambalam----LOC.EXACT
+
+10.45 am----TIME
+
+Monday----DATE

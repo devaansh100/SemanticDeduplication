@@ -1,0 +1,17 @@
+
+['Assam: Rescued leopard dies in CWRC Bokakhat\nGuwahati: A leopard that was rescued by forest officials from a mob in Mariani on February 24 died during treatment at the Centre for Wildlife Rehabilitation and Conservation (CWRC) in Bokakhat. On February 24, it was reported that a stray leopard was manhandled and dragged by its tail at a tea garden in Mariani. The incident took place at the Heelikha Tea Estate in Mariani. Also Read: Assam: Unidentified dead body recovered from Dighalipukuri The leopard was injured during the process of capturing it by the locals who claimed that the big cat had been attacking their livestock and people as well over the past few days. Several environmentalists have shown concern about the process that was used to capture the big cat. The locals claimed that they decided to capture the leopard all by themselves because the forest officials did not show appropriate measures in containing the animal. They claimed that they had informed that forest department several hours before acting on their own to capture the leopard. Some locals also claimed that the animal was manhandled in presence of police and forest personnel. Also Read: Four more Assam youths reach New Delhi from war-hit Ukraine However, the animal was later handed over to the forest department. It was taken to the CWRC in Bokakhat for treatment and rehabilitation but on Monday it was reported that the leopard died during treatment.']
+
+
+Assam----LOC.STATE\
+
+leopard----SP.COMMON
+
+Bokakhat----LOC.DISTRICT
+
+leopard----SP.COMMON
+
+forest officials----AUTH.SEIZE
+
+Mariani----LOC.CITY
+
+February 24----DATE

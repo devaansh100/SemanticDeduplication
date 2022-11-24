@@ -1,0 +1,37 @@
+
+['550 protected Indian birds rescued from Kolkata’s illegal pet market\nAs reported by Hindustan Times: More than 550 exotic birds were rescued from illegal pet trade market in central Kolkata, in a number of consecutive raids, early this week. The raids were jointly organised and conducted by the Wildlife Crime Control Bureau (WCCB) belonging to the Union ministry of environment, forest and climate change (MoEFCC) and the West Bengal forest department. The first raid in Galiff Street in Central Kolkata led to the discovery of 250 illegally imprisoned parakeets, and led to the arrest of 6 people, while the second raid led to the rescue of another 300 or more birds and chicks. The hundreds of birds as well as some new born chicks, were found locked inside sorry conditions and cramped cages. Nine people have been arrested so far, aged between 18 and 32 years. Among the birds rescued were protected Indian birds such as parakeet, Asian koel and hill myna.']
+
+
+550----QTY
+
+Indian birds----SP.SPECIFIC
+
+rescued----CRIME.CAT
+
+550----QTY
+
+exotic birds----SP.COMMON
+
+rescued----CRIME.CAT
+
+early this week----TIME
+
+raids----CRIME.CAT
+
+Wildlife Crime Control Bureau (WCCB)----AUTH.SEIZE
+
+Union ministry of environment, forest and climate change (MoEFCC)----AUTH.SEIZE
+
+West Bengal forest department----AUTH.SEIZE
+
+raid----DETECTION_METHOD
+
+Galiff Street----LOC.EXACT
+
+250----QTY
+
+parakeets----SP.SPECIFIC
+
+6----SUS.NUMBER
+
+300 or more----QTY

@@ -1,0 +1,11 @@
+
+['Finally, ‘killer tiger’ caught at Nagarhole\nBy Express News Service MYSURU: A day after the shoot at sight orders were issued to catch a tiger that had created a havoc after claiming lives of three tribals in D B Kuppe range at H D Kote taluk in the recent past, the forest personnel on Friday succeeded in capturing the big cat. In an operation that lasted three days, the striped cat was caught much to the relief of villagers living in the fringes of forest using ‘zero down’ (without injuring the animal or personnel involved in operation) method. The animal was later shifted to Sri Chamarajendra Zoological Gardens (Mysuru Zoo) for treatment. Principal chief conservator of forest and chief wildlife warden C Jayaram told The New Indian Express that the tiger is aged about five-and-a-half years and was successfully captured using tranquilisers near Machur village, where the animal had killed a person on Thursday. MYSURU: A day after the shoot at sight orders were issued to catch a tiger that had created a havoc after claiming lives of three tribals in D B Kuppe range at H D Kote taluk in the recent past, the forest personnel on Friday succeeded in capturing the big cat. In an operation that lasted three days, the striped cat was caught much to the relief of villagers living in the fringes of forest using ‘zero down’ (without injuring the animal or personnel involved in operation) method. The animal was later shifted to Sri Chamarajendra Zoological Gardens (Mysuru Zoo) for treatment. Principal chief conservator of forest and chief wildlife warden C Jayaram told The New Indian Express that the tiger is aged about five-and-a-half years and was successfully captured using tranquilisers near Machur village, where the animal had killed a person on Thursday.']
+
+
+Nagarhole----LOC.EXACT
+
+Friday----DATE
+
+striped cat----SP.SPECIFIC
+
+Thursday----DATE

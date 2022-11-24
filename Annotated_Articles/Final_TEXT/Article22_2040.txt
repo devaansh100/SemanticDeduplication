@@ -1,0 +1,23 @@
+
+["CCI raids on Amazon sellers Cloudtail, Appario: Sources\n(Representational image) The Competition Commission of India (CCI) launched raids at two top sellers of Amazon.com Inc over violations of domestic competition laws, two sources with direct knowledge of the matter said. Wednesday's raids targeted Cloudtail and Appario, the sources told Reuters on condition of anonymity, as the details were not public. Amazon, which has an indirect equity stake in both sellers, did not immeditately respond to a request for comment."]
+
+
+CCI----AUTH.SEIZE
+
+raids----CRIME.CAT
+
+Cloudtail----LOC.EXACT
+
+Appario----LOC.EXACT
+
+Competition Commission of India (CCI)----AUTH.SEIZE
+
+raids----CRIME.CAT
+
+Wednesday----DATE
+
+raids----CRIME.CAT
+
+Cloudtail----LOC.EXACT
+
+Appario----LOC.EXACT

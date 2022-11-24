@@ -1,0 +1,35 @@
+
+['Man Held For Smuggling Exotic Birds\nKOLKATA: The Bengal Special Task Force and Kalyani police have arrested a man on charges of smuggling exotic birds like Toco Toucan, Macaw, Galah (Rose-breasted) Cockatoo in the state. Cops suspect that the birds were being smuggled to the state from Bangladesh.According to the police, the accused, Soumen Biswas , a resident of Kalyani, had been involved in the illegal business for the last six years.Cops also came across a warehouse where these birds were kept in unhealthy conditions, sources said. Koushik Ghosh , a sub-inspector of STF, had lodged a complaint, stating that on May 28, he had been informed about a large number of exotic birds on the verge of being smuggled to Biswas from Bangladesh. Following this complaint, the STF and Kalyani police formed a team to raid the warehouse.“We found multiple cages full of different exotic birds. During questioning, Biswas could not produce valid documents or papers required to handle such birds. We are trying to ascertain his supply line,” said an officer.']
+
+
+Man----SUS.GENDER
+
+Smuggling----CRIME.CAT
+
+Exotic Birds----SP.COMMON
+
+KOLKATA----LOC.CITY
+
+Bengal Special Task Force----AUTH.SEIZE
+
+Kalyani police----AUTH.SEIZE
+
+a----SUS.NUMBER
+
+man----SUS.GENDER
+
+exotic birds----SP.COMMON
+
+Toco Toucan----SP.SPECIFIC
+
+Macaw----SP.SPECIFIC
+
+Galah (Rose-breasted) Cockatoo----SP.SPECIFIC
+
+Bangladesh.According----ROUTE.SRC
+
+Soumen Biswas----SUS.NAME
+
+Kalyani----SUS.LOC
+
+STF and Kalyani police----AUTH.SEIZE

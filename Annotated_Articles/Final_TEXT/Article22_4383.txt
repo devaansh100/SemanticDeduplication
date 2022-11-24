@@ -1,0 +1,23 @@
+
+['Video: Now, Sloth Bear sighted in Nagpur!\nNagpur: While the novel Coronavirus (Covid-19) has curbed the footfalls of tourists across the country; the pandemic, on the contrary, is blooming tourism in Second Capital of the State as yet another tourist from the Forest paid a visit to Nagpur city in the early hours of Friday. A Sloth Bear is reportedly sighted near Ladu Ka Dhabha on Outer Ring Road under Hudkeshwar Police Station. Advertisement Some locals reportedly sighted the wild animal who subsequently alerted Hudkeshwar Police Station and Forest Department. Acting swiftly on the inputs, officials of Hudkeshwar Police and Forest Department rushed to the spot. However, their rescue attempt ended in vain and the Sloth Bear managed to vanish in the dark. Advertisement Notably, from Leopard, to Crocodiles and now Sloth Bear; the tourism of Nagpur is blooming! Advertisement Advertisement Advertisement Advertisement Advertisement Advertisement Advertisement Advertisementss Advertisement Advertisement Advertisement']
+
+
+Sloth Bear----SP.SPECIFIC
+
+Nagpur----LOC.CITY
+
+Nagpur----LOC.CITY
+
+Friday----DATE
+
+Sloth Bear----SP.SPECIFIC
+
+Outer Ring Road----LOC.EXACT
+
+Forest Department----AUTH.SEIZE
+
+Hudkeshwar Police----AUTH.SEIZE
+
+Forest Department----AUTH.SEIZE
+
+Sloth Bear----SP.SPECIFIC

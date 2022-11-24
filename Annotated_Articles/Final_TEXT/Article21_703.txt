@@ -1,0 +1,99 @@
+
+['Eight Men Arrested For Tiger And Leopard Skin Smuggling In Pune\nShare this News: Mubarak Ansari Pune, 16th September 2021: In a joint operation, the Forest department of the Pune division and Wildlife Crime Control Bureau (WCCB) has arrested eight persons for allegedly smuggling tiger and leopard skin. Acting on a tip-off received by the Wildlife Crime Control Bureau’s western regional office in Navi Mumbai, a trap was laid and three persons were nabbed in Warje on September 14. A leopard skin was seized from their possession. Deputy Forest Conservator (Pune) Rahul Patil said that during further investigation, five more persons were nabbed in the Saswad area on September 15. Tiger and leopard skin have been seized from their possession. Now a case has been registered against all eight accused for smuggling of leopard and tiger skin. Further investigation is going on to find out from where they got the skins. The action was taken under the guidance of DCF Rahul Patil and Regional Deputy Director of Wildlife Crime Control Bureau Yogesh Warkad. The team included Bhamburda Range Forest Officer Pradip Sankpal, Vanpal Vaibhav Babar and Raees Momin, Parmeshwar Waghmare, Yogesh Koli, Amol Sathe, Amol Gurav and Wildlife Inspector Doki Adimalaya and Hawaldar Vijay Nandeshwar, Sopan Mohan.']
+
+
+Eight----SUS.NUMBER
+
+Men----SUS.GENDER
+
+Arrested----CRIME.CAT
+
+Tiger----SP.COMMON
+
+Leopard----SP.COMMON
+
+Skin----ITEM
+
+Pune----LOC.CITY
+
+Forest department of the Pune division----AUTH.SEIZE
+
+Wildlife Crime Control Bureau----AUTH.SEIZE
+
+WCCB----AUTH.SEIZE
+
+eight----SUS.NUMBER
+
+tiger----SP.COMMON
+
+leopard----SP.COMMON
+
+skin----ITEM
+
+tip-off----DETECTION_METHOD
+
+Wildlife Crime Control Bureau’s western regional office----AUTH.SEIZE
+
+trap was laid----DETECTION_METHOD
+
+three----SUS.NUMBER
+
+Warje----LOC.EXACT
+
+September 14----DATE
+
+leopard----SP.COMMON
+
+skin----ITEM
+
+September 15----DATE
+
+Tiger----SP.COMMON
+
+leopard----SP.COMMON
+
+skin----ITEM
+
+case has been registered against all----OUTCOME
+
+eight----SUS.NUMBER
+
+smuggling----CRIME.CAT
+
+leopard----SP.COMMON
+
+tiger----SP.COMMON
+
+skin----ITEM
+
+DCF----OFF.DESIG
+
+Rahul Patil----OFF.NAME
+
+Regional Deputy Director of Wildlife Crime Control Bureau----OFF.DESIG
+
+Yogesh Warkad----OFF.NAME
+
+Bhamburda Range Forest Officer----AUTH.SEIZE
+
+Pradip Sankpal----OFF.NAME
+
+Vanpal Vaibhav Babar----OFF.NAME
+
+Raees Momin----OFF.NAME
+
+Parmeshwar Waghmare----OFF.NAME
+
+Yogesh Koli----OFF.NAME
+
+Amol Sathe----OFF.NAME
+
+Amol Gurav----OFF.NAME
+
+Wildlife Inspector----OFF.DESIG
+
+Doki Adimalaya----OFF.NAME
+
+Hawaldar Vijay Nandeshwar----OFF.DESIG
+
+Sopan Mohan----OFF.NAME

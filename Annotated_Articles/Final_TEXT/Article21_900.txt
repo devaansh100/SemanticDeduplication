@@ -1,0 +1,47 @@
+
+['Forest officials seize 750 kg sea cucumbers in South TN\nForest officials seize 750 kg sea cucumbers in South TN Thoothukudi, Dec 09 (UNI) The Forest department personnel attached to the Gulf of Mannar Biosphere Reserve Trust seized 750 kilograms of sea cucumbers, an endangered marine species at Gomezpuram locality here on Thursday. Police said the forest personnel on noticing foul smell emanating from a godown belonging to a sea food making company, conducted a raid leading to the seizure of processed and semi processed sea cucumbers. Three persons, identified as K.Senthil Kumar (48), A.Sathik Pasha (37) and Nandakumar (21) were found engaged in boiling the sea cucumbers in the godown and all them were arrested under various sections of the Wildlife Protection Act, 1972.']
+
+
+Forest officials----AUTH.SEIZE
+
+seize----CRIME.CAT
+
+750 kg----QTY
+
+sea cucumbers----SP.COMMON
+
+seize----CRIME.CAT
+
+750 kg----QTY
+
+sea cucumbers----SP.COMMON
+
+Thoothukudi----LOC.CITY
+
+Forest department----AUTH.SEIZE
+
+750 kilograms----QTY
+
+sea cucumbers----SP.COMMON
+
+Gomezpuram locality----LOC.EXACT
+
+Thursday----DATE
+
+godown belonging to a sea food making----ROUTE.SRC
+
+Three----SUS.NUMBER
+
+K.Senthil Kumar----SUS.NAME
+
+48----SUS.AGE
+
+A.Sathik Pasha----SUS.NAME
+
+37----SUS.AGE
+
+Nandakumar----SUS.NAME
+
+21----SUS.AGE
+
+sea cucumbers----SP.COMMON

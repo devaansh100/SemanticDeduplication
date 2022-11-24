@@ -1,0 +1,69 @@
+
+['53 red sanders logs worth Rs. 1 crore seized\nBased on information that he provided, the team seized 27 logs in the Sadasivakona forest. — Representational image/DC Nellore: The Red Sanders Anti-Smuggling Task Force (RSASTF) seized 53 logs, worth Rs 1 crore in the open market, in two different incidents on Tuesday and arrested one person. According to Task Force SP Meda Sundara Rao, a team under the supervision of DSP D. Muralidhar (pperations), led by reserve inspectors Suresh, Kumar Reddy and Krupananda noticed a group of smugglers at the Jangamala hill near Srivari Mettu during a combing operation in the Seshachalam forest early on Tuesday. The smugglers fled after dumping the 26 logs they were carrying when they noticed the Task Force. The logs weighing 800 kg were seized, said Sundara Rao. In another incident, reserve sub inspector Ali Basha and his team detained a 53-year-old person moving in a suspicious manner in a moped at Gollapalli Timmarajukandriga road close to Taduku. On being stopped and questioned, he to helping smugglers by dumping chopped red sanders logs in the forests. Based on information that he provided, the team seized 27 logs in the Sadasivakona forest. Circle inspectors Chandrasekhar and Mohan Naik have registered cases on the incidents and are investigating.']
+
+
+53----QTY
+
+red sanders----SP.COMMON
+
+logs----ITEM
+
+Rs. 1 crore----VALUE
+
+seized----CRIME.CAT
+
+27----QTY
+
+logs----ITEM
+
+Sadasivakona forest----LOC.EXACT
+
+Red Sanders Anti-Smuggling Task Force (RSASTF)----AUTH.SEIZE
+
+53----QTY
+
+logs----ITEM
+
+Rs 1 crore----VALUE
+
+Tuesday----DATE
+
+arrested----CRIME.CAT
+
+one----SUS.NUMBER
+
+SP----OFF.DESIG
+
+Meda Sundara Rao----OFF.NAME
+
+DSP----OFF.DESIG
+
+D. Muralidhar----OFF.NAME
+
+reserve inspectors----OFF.DESIG
+
+Suresh----OFF.NAME
+
+Kumar Reddy----OFF.NAME
+
+Krupananda----OFF.NAME
+
+Jangamala hill near Srivari Mettu----LOC.EXACT
+
+Tuesday----DATE
+
+seized----CRIME.CAT
+
+reserve sub inspector----OFF.DESIG
+
+Ali Basha----OFF.NAME
+
+53-year-old----SUS.AGE
+
+Gollapalli Timmarajukandriga road close to Taduku----LOC.EXACT
+
+27----QTY
+
+Mohan Naik----OFF.NAME
+
+registered cases on the incidents----OUTCOME

@@ -1,0 +1,45 @@
+
+['1 red sanders smuggler held, 18 logs seized\nTirupati: Sleuths of red sanders anti-smuggling task force arrested a smuggler and seized 18 logs near Nagapatla East Beat forest, near Tirupati on Sunday. The smuggler, identified as Silambarasan (25), is of Vellore in Tamil Nadu.Speaking to reporters in Tirupati, Task force SP P Ravi Shankar said, sleuths were conducting combing operations inside the Seshachalam forest area under the Nagapatla East Beat forest, in the early hours on Sunday, when they found a vehicle parked inside the forest area. The approached it only to find Silambarasan loading red sanders logs into the vehicle. tnn']
+
+
+1----SUS.NUMBER
+
+red sanders----SP.COMMON
+
+18----QTY
+
+logs----ITEM
+
+seized----CRIME.CAT
+
+red sanders----SP.COMMON
+
+anti-smuggling task force----AUTH.SEIZE
+
+arrested----CRIME.CAT
+
+smuggler----SUS.AFFIL
+
+18----QTY
+
+logs----ITEM
+
+Nagapatla East Beat forest----LOC.EXACT
+
+Sunday----DATE
+
+Silambarasan----SUS.NAME
+
+25----SUS.AGE
+
+Vellore----SUS.LOC
+
+early hours----TIME
+
+Sunday----DATE
+
+vehicle----TRANSPORT_MODE
+
+red sanders----SP.SPECIFIC
+
+logs----ITEM

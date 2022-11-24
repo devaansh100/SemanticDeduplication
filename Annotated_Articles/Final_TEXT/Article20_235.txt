@@ -1,0 +1,35 @@
+
+['Endangered helmeted curassow birds seized at Indo-Bangla border in south Bengal\nEight helmeted curassows – an endangered species of bird found in South America – were seized by the Border Security Force (BSF) from along the Indo-Bangla border in south Bengal on Tuesday while they were being smuggled into India. The accused persons, however, managed to flee when they saw patrolling teams of the BSF, leaving behind two wooden boxes. “There were at least eight helmeted curassows birds in two boxes. These are exotic and endangered species. Earlier too we have seized helmeted curassows,” said Satosh Kumar Singh, deputy commandant of BSF’s south Bengal frontier. According to the IUCN Red List of Threatened Species, helmeted curassows are endangered species and are found in the forests of Columbia and Venezuela. It is estimated that less than 3000 mature individuals can be found. Their population is one the decline because of habitat loss and hunting. BSF officials said that they are in touch with officials of the state forest department and the birds would be handed over to officials from Alipore Zoo in Kolkata. “We believe they are smuggled into India to be kept as pets,” said a senior BSF officer.']
+
+
+helmeted curassow birds----SP.SPECIFIC
+
+Indo-Bangla border----LOC.EXACT
+
+Bengal----LOC.STATE
+
+Eight----QTY
+
+helmeted curassows----SP.SPECIFIC
+
+seized----CRIME.CAT
+
+Border Security Force (BSF)----AUTH.SEIZE
+
+Indo-Bangla border----LOC.EXACT
+
+Bengal----LOC.STATE
+
+Tuesday----DATE
+
+BSF----AUTH.SEIZE
+
+wooden boxes----CONCEALMENT_METHOD
+
+eight----QTY
+
+helmeted curassows birds----SP.SPECIFIC
+
+state forest department----AUTH.MISC
+
+BSF----AUTH.SEIZE

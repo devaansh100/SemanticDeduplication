@@ -1,0 +1,27 @@
+
+['Tiger found dead near Ramtek\nNagpur: A tiger’s carcass was found at Bihada near Ramtek on Saturday. According to Prabhunath Shukla, deputy conservator of forest, the carcass was floating in around 55 feet deep ditch which was half-filled with water. Local forest workers informed higher authorities after sighting the carcass, following which forest official Sandeep Giri and wildlife warden Kundan Hate visited the site.The area being uneven, it seems that the tiger must have slipped and fallen into the ditch. Forest officials said that prima facie it seems that the tiger died due to drowning.Officials are making arrangements to pull out the carcass. Shukla added that the reason behind the tiger’s death will be clear only after the post mortem report.']
+
+
+Tiger----SP.COMMON
+
+found dead----CRIME.CAT
+
+Ramtek----LOC.EXACT
+
+Nagpur----LOC.CITY
+
+tiger----SP.COMMON
+
+carcass----ITEM
+
+Bihada near Ramtek----LOC.EXACT
+
+Saturday----DATE
+
+forest official----AUTH.SEIZE
+
+Sandeep Giri----OFF.NAME
+
+wildlife warden----OFF.DESIG
+
+Kundan Hate----OFF.NAME

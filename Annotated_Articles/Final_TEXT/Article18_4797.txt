@@ -1,0 +1,9 @@
+
+["Kali And The Rat Snake\nKali hates school. And school hates him, he thinks, for he has no friends. The children there find him strange. He wishes his father were an ‘ordinary' bus-conductor or postman instead of a snake-catcher, even if one of the most celebrated in the Irula tribe. He worries that others will see him eating fried termites (his favourite snack!) and laugh. And then one day, a large rat snake creates havoc in the classroom . . . and Kali becomes a hero! A simple, sensitive story crafted by a writer deeply involved with environmental issues. Zai Whitaker works closely with the Irulas, and her empathy with them is as evident in this book as it was with the Jarawas in Andamans Boy, also published by Tulika. The watercolour illustrations are evocative and detailed, suffusing the story with many hues of mood."]
+
+
+Kali----SUS.NAME
+
+Rat Snake----SP.COMMON
+
+Kali----SUS.NAME

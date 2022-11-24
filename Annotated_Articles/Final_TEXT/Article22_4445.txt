@@ -1,0 +1,7 @@
+
+["Watch video: Woman climbs chair, screams and cries in fear after seeing monitor lizard at Thailand eatery\nYouTube Fear is a common thing, experienced by us in different scenarios and circumstances. Some might fear height or tall places (Acrophobia) while some would run off a bird (ornithophobia), however this female faced high level of anxiety at a Thailand restaurant after encountering a monitor lizard. Footage from the eatery at Narathiwat, Thailand was uploaded on Youtube, in it we see a woman climbing on the chair and screaming having spotted the scary reptile. An employee of the food outlet tries to rescue the animal from the place via his footwear. However, bystanders were heard making fun of the female's fear-followed actions, they giggled and laughed while the video was getting filmed. In the 56-second clip, the monitor lizard was carefully handled with the help of a pole. It was pinned down and dragged away by the employee, bringing relief to the scared lady. Watch the video, right here:"]
+
+
+Woman----SUS.GENDER
+
+monitor lizard----SP.COMMON

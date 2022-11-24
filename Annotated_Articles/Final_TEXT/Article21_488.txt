@@ -1,0 +1,77 @@
+
+['Warangal: Forest officials raid shops, seize star tortoise, softshell turtles\nWarangal: Forest officials raid shops, seize star tortoise, softshell turtles By Telangana Today Published: Published Date - 07:07 PM, Sun - 18 July 21 Four shopkeepers were arrested in connection with the sale of turtles and produced them before a court on July 15, Warangal DFO Arpana Syal Warangal: The Forest officials raided eight shops under the Greater Warangal Municipal Corporation (GWMC) and seized three soft-shell turtles and one star tortoise. They also arrested four persons (shopkeepers) in connection with the sale of turtles and produced them before a court on July 15, Warangal District Forest Officer (DFO) Arpana Syal. In a press note here on Sunday, she said: “On receipt of information that some shops in Warangal urban are selling star tortoise and softshell turtles illegally. As per the instructions of Chief Conservator of Forests (CCF), Warangal, SJ Asha, two teams were formed. While the first team was headed by DFO Warangal Urban consisting Warangal Rural and urban raided the four shops in Hanamkonda and seized three softshell turtles, the second team headed by Forest Divisional Officer, Flying Squad Party(FSP) M Nagabhushanam staff of FSP, Warangal, raided four shops in Warangal and seized one-star tortoise on July 14,” she said adding that the softshell turtle is a schedule – I ( part II) specie and star tortoise is a schedule IV species. “As per wildlife protection Act, 1972 and selling and buying of these species is a crime,” she said. “The accused were arrested and produced before a judicial magistrate. The magistrate sent them to judicial remand for 14 days,” Arpana Syal added. Now you can get handpicked stories from Telangana Today on Telegram everyday. Click the link to subscribe. Click to follow Telangana Today Facebook page and Twitter .']
+
+
+Forest officials----AUTH.SEIZE
+
+raid----CRIME.CAT
+
+seize----CRIME.CAT
+
+star tortoise----SP.COMMON
+
+softshell turtles----SP.COMMON
+
+Forest officials----AUTH.SEIZE
+
+raid----CRIME.CAT
+
+seize----CRIME.CAT
+
+star tortoise----SP.COMMON
+
+softshell turtles----SP.COMMON
+
+Four----SUS.NUMBER
+
+sale----DETECTION_METHOD
+
+turtles----SP.COMMON
+
+produced them before a court----OUTCOME
+
+July 15----DATE
+
+DFO----OFF.DESIG
+
+Arpana Syal----OFF.NAME
+
+three----QTY
+
+soft-shell turtles----SP.COMMON
+
+one----QTY
+
+star tortoise----SP.COMMON
+
+four----SUS.NUMBER
+
+sale----DETECTION_METHOD
+
+turtles----SP.COMMON
+
+produced them before a court----OUTCOME
+
+Warangal District Forest Officer (DFO)----AUTH.SEIZE
+
+Chief Conservator of Forests (CCF), Warangal----AUTH.SEIZE
+
+SJ Asha,----OFF.NAME
+
+DFO Warangal Urban----AUTH.SEIZE
+
+Hanamkonda----LOC.EXACT
+
+three----QTY
+
+softshell turtles----SP.COMMON
+
+Forest Divisional Officer, Flying Squad Party(FSP)----AUTH.SEIZE
+
+M Nagabhushanam----OFF.NAME
+
+one-star----QTY
+
+tortoise----SP.COMMON
+
+July 14----DATE

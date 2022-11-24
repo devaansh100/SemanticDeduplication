@@ -1,0 +1,47 @@
+
+['Operation Turtshield: Thousand endangered turtles seized from Bengal market\nOperation Turtshield, a Central programme, saw the year’s first great success on Sunday, following the seizure of about a thousand endangered turtles and three facilities to store them in Bengal’s North 24 Parganas district. Wildlife Crime Control Bureau (Eastern Region) of the Union ministry of environment, forest and climate change and West Bengal forest department personnel, seized 983 Indian flapshell turtles and two Indian peacock softshell turtles from a Bongaon market. The latter figures in the Red List of the International Union for Conservation of Nature (IUCN) as ‘threatened species’. The flapshell turtle, which is smaller in size, is killed for its meat which is considered a delicacy in both Bengal and Bangladesh. Sunday’s seizure was the biggest since June 2019. Agni Mitra, deputy director, WCCB (eastern region), said raids were conducted early on Sunday. Sanjay Biswas (32) and Ajay Biswas (23) were arrested and charged under different sections of the Wildlife Act. After obtaining permission from the court, the turtles will be released in their natural habitat, said Mitra. In January 2019, more than 1,700 Indian flapshell turtles were seized in back to back raids in Bengal while being smuggled from Uttar Pradesh and Andhra Pradesh. These turtles, too, were seized in the North 24 Parganas. The raids resulted in the fourth seizure of endangered freshwater turtles in Bengal since October 2018. SHARE THIS ARTICLE ON']
+
+
+Thousand----QTY
+
+turtles----SP.COMMON
+
+seized----CRIME.CAT
+
+Sunday----DATE
+
+a thousand----QTY
+
+turtles----SP.COMMON
+
+Wildlife Crime Control Bureau (Eastern Region)----AUTH.SEIZE
+
+West Bengal forest department----AUTH.SEIZE
+
+983----QTY
+
+flapshell turtles----SP.SPECIFIC
+
+two----QTY
+
+peacock softshell turtles----SP.SPECIFIC
+
+Bongaon market----LOC.EXACT
+
+Sunday----DATE
+
+seizure----CRIME.CAT
+
+raids----CRIME.CAT
+
+Sunday----DATE
+
+Sanjay Biswas----SUS.NAME
+
+32----SUS.AGE
+
+Ajay Biswas----SUS.NAME
+
+23----SUS.AGE
+
+arrested----CRIME.CAT

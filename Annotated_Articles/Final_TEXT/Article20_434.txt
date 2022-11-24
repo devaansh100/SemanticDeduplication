@@ -1,0 +1,35 @@
+
+['8 held for smuggling Red Sanders of worth Rs. 3.5 crore in Kadapa\nKadapa: In a major operation, police had seized Rs 3.5 crores worth Red sandalwood logs by arresting eight smugglers at Rollamadugu village in Rajampet Mandal in the wee hours on Tuesday. According to the sources, police and taskforce officials upon the information conducted combing operations for the last three days in Rollamadugu dense forest identified eight smugglers belongs to Tamilnadu state illegally transporting red sandalwood logs and nabbed them red handedly. Officials said there are eighty smugglers have gain entry into the Rollamadugu forest performing smuggling activities for some days. They said smugglers were divided in to three groups and continuing the activities. It is learnt that police shifted the arrested smugglers to isolation rooms to conduct Coronavirus tests.']
+
+
+8----SUS.NUMBER
+
+smuggling----CRIME.CAT
+
+Red Sanders----SP.COMMON
+
+Rs. 3.5 crore----VALUE
+
+Kadapa----LOC.EXACT
+
+police----AUTH.SEIZE
+
+seized----CRIME.CAT
+
+Rs 3.5 crores----VALUE
+
+Red sandalwood----SP.SPECIFIC
+
+logs----ITEM
+
+eight----SUS.NUMBER
+
+Rollamadugu village----LOC.EXACT
+
+wee hours----TIME
+
+Tuesday----DATE
+
+police----AUTH.SEIZE
+
+eight----SUS.NUMBER

@@ -1,0 +1,49 @@
+
+["28-Year-Old Man, Trying To Sell 7 Baby Crocodiles, Arrested In Maharashtra's Thane\nThe value of the seizure is estimated Rs 2.87 lakh, police said (Representational) Seven baby crocodiles were rescued from the possession of a 28-year-old man who was trying to sell them at Mumbra in Thane district of Maharashtra, police said on Monday. The accused, Saklen Sirazuddin Khatib, was arrested on Saturday evening in the Mumbra retibunder area on a tip-off, an official said, adding the police rescued seven baby crocodiles (crocodylus palustris) also known as mugger or marsh crocodile. An FIR was registered under the Wildlife Protection Act against the accused who was remanded in police custody till July 15. The value of the seizure is estimated Rs 2.87 lakh, the official said. (Except for the headline, this story has not been edited by NDTV staff and is published from a syndicated feed.)"]
+
+
+28-Year-Old----SUS.AGE
+
+Man----SUS.GENDER
+
+7----QTY
+
+Crocodiles----SP.COMMON
+
+Arrested----CRIME.CAT
+
+Maharashtra's----LOC.STATE
+
+Thane----LOC.CITY
+
+2.87 lakh----VALUE
+
+28-year-old----SUS.AGE
+
+man----SUS.GENDER
+
+Mumbra----LOC.DISTRICT
+
+Maharashtra----LOC.STATE
+
+Saklen Sirazuddin Khatib----SUS.NAME
+
+Saturday----DATE
+
+evening----TIME
+
+Mumbra retibunder area----LOC.EXACT
+
+tip-off----DETECTION_METHOD
+
+seven----QTY
+
+crocodiles----SP.COMMON
+
+crocodylus palustris----SP.SPECIFIC
+
+marsh crocodile----SP.SPECIFIC
+
+remanded in police custody----OUTCOME
+
+2.87 lakh----VALUE

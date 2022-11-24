@@ -1,0 +1,8 @@
+
+['Mangaluru: 8-ft-long king cobra rescued from house at Ulaibettu\nThe mysterious appearance of the snake is being investigated by the Pilikula authorities to determine its origin.']
+
+
+king cobra----SP.COMMON
+
+Ulaibettu
+----LOC.EXACT

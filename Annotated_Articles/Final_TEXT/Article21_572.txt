@@ -1,0 +1,11 @@
+
+['The... - Kaziranga Rhino Anti-Poaching awareness Campaign\nThe Forest Department and police have arrested Md Rahimuddin S/ o Lt Jalaluddin Nilbagan, Hojai in an operation in connection with rhino horn trading /Case No. KR/23/2020 for illegal Rhino horn trade. There are two cases of similar nature against him and he has been absconded for long time. However he managed to obtain pre arrest bail for case no.KR/22/2020. He has been arrested for several times in connection with Rhino Horn Trade. Great job done by Kaziranga National Park & Tiger Reserve authority. #rhinopoacher #rhinopoaching #RhinoHornTrade #wildlifetrade #KazirangaNation alPark']
+
+
+Forest Department----AUTH.SEIZE
+
+police----AUTH.SEIZE
+
+arrested----CRIME.CAT
+
+Md Rahimuddin----SUS.NAME

@@ -1,0 +1,51 @@
+
+['Snake charmer arrested in Odisha for performing in baraat\nBy Express News Service BARIPADA: Forest officials on Thursday arrested a snake charmer for allegedly displaying poisonous snakes in a performance during a marriage procession in Karanjia town.As many as three captive snakes were seized from his possession. The accused was identified as Ram Singh(40) of Korai area in Jajpur district. Sources said someone from the groom’s side had hired Singh to perform with his snakes during the procession. As the marriage procession neared the heart of the town at around 8 pm, Singh started entertaining the members of the baraat by taking out the snakes from his boxes and performing on the song ‘Naagin” One of the onlookers informed the Forest department and a team of personnel rushed to the spot. The officials seized the snakes and took five persons, including the snake charmer, into their custody. ACF Falguni Behera said of the five, four persons were allowed to return while the snake charmer was arrested after interrogation. He was produced in Karanjia SDJM Court and remanded in judicial custodyd. The snakes were released in Similipal forest. BARIPADA: Forest officials on Thursday arrested a snake charmer for allegedly displaying poisonous snakes in a performance during a marriage procession in Karanjia town.As many as three captive snakes were seized from his possession. The accused was identified as Ram Singh(40) of Korai area in Jajpur district. Sources said someone from the groom’s side had hired Singh to perform with his snakes during the procession. As the marriage procession neared the heart of the town at around 8 pm, Singh started entertaining the members of the baraat by taking out the snakes from his boxes and performing on the song ‘Naagin” One of the onlookers informed the Forest department and a team of personnel rushed to the spot. The officials seized the snakes and took five persons, including the snake charmer, into their custody. ACF Falguni Behera said of the five, four persons were allowed to return while the snake charmer was arrested after interrogation. He was produced in Karanjia SDJM Court and remanded in judicial custodyd. The snakes were released in Similipal forest.']
+
+
+Snake----SP.COMMON
+
+arrested----CRIME.CAT
+
+Odisha----LOC.STATE
+
+Forest officials----AUTH.SEIZE
+
+Thursday----DATE
+
+arrested----CRIME.CAT
+
+snake charmer----SUS.AFFIL
+
+snakes----SP.COMMON
+
+snakes----SP.COMMON
+
+Ram Singh(40----SUS.NAME
+
+Korai area in Jajpur district. Sources----SUS.LOC
+
+8 pm----TIME
+
+five----SUS.NUMBER
+
+snake charmer----SUS.AFFIL
+
+snake charmer was arrested after interrogation----OUTCOME
+
+Forest officials----AUTH.SEIZE
+
+Thursday----DATE
+
+arrested----CRIME.CAT
+
+snake charmer----SUS.AFFIL
+
+Ram Singh(40----SUS.NAME
+
+Korai area in Jajpur district. Sources----SUS.LOC
+
+8 pm----TIME
+
+Forest department----AUTH.SEIZE
+
+five----SUS.NUMBER

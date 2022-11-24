@@ -1,0 +1,47 @@
+
+['Male elephant electrocuted, farmer held\nCoimbatore: Forest officials on Monday morning arrested a farmer in connection with the electrocution of a male elephant at Varappalayam near Coimbatore on February 12.The arrested farmer is M Manoharan , 57, of Varappalayam, and his son Naresh is yet to be traced.The elephant, aged between 12 and 15 years, was found dead in a banana plantation belonging to Manoharan on February 12. The trunk of the elephant came in contact with an iron cable installed around the plantation for solar fencing. Manoharan and his son allegedly connected a livewire to the fencing, which claimed the life of the tusker.Subsequently, Coimbatore forest range officer Arun Kumar booked the father-son duo under Section 9 (Prohibition of hunting) of the Wildlife (Protection) Act. However, the duo absconded. Recently, range officer Arun Kumar received a tip that Manoharan was returning to Coimbatore from Bengaluru on Monday. Kumar and team arrested him around 6.30am.']
+
+
+elephant----SP.COMMON
+
+electrocuted----CRIME.CAT
+
+Forest officials----AUTH.SEIZE
+
+Monday----DATE
+
+morning----CRIME.CAT
+
+arrested----CRIME.CAT
+
+a----SUS.NUMBER
+
+farmer----SUS.AFFIL
+
+elephant----SP.COMMON
+
+Varappalayam----LOC.EXACT
+
+February 12.The arrested farmer is----DATE
+
+M Manoharan----SUS.NAME
+
+57----SUS.AGE
+
+Varappalayam----SUS.LOC
+
+Naresh----SUS.NAME
+
+elephant----SP.COMMON
+
+February 12----DATE
+
+Arun Kumar----OFF.NAME
+
+tip----DETECTION_METHOD
+
+Bengaluru----ROUTE.SRC
+
+Monday----DATE
+
+6.30am.----TIME

@@ -1,0 +1,45 @@
+
+['955kg sea cucumber seized\nTuticorin: The Soorankudi police seized 955kg of dead sea cucumbers from a vehicle near Vembar, about 55km from Tuticorin city, in the early hours of Tuesday. Police detained a man and were on the lookout for five others who managed to flee the spot on seeing the cops.Soorankudi police inspector S Gurusamy said they received specific information about smuggling of sea cucumbers – a Schedule I species under The Wildlife Protection Act, 1972. A team conducted a vehicle check in the locality. “We spotted a passenger-cum-goods carrier and managed to catch hold of one of the occupants while others fled,” he added.The sea cucumbers were found in 46 small cement bags. Preliminary inquiries with the accused revealed that sea cucumbers were caught off Vembar and were to be sold to someone in Tuticorin. A search is on for another person based on information received by the arrested person K Aulmaitheen, 43, of Naripaiur.In most cases, sea cucumbers are smuggled to other international destinations through Sri Lanka. The seized sea cucumbers and the vehicle were taken to the Soorankudi police station. Forest range officer for Gulf of Mannar in Tuticorin district, R Raghuvaran said that a parallel inquiry is on into the incident and the accused would be taken in custody. tnn']
+
+
+955kg----QTY
+
+sea cucumber----SP.COMMON
+
+seized----CRIME.CAT
+
+Tuticorin----LOC.CITY
+
+Soorankudi police----AUTH.SEIZE
+
+seized----CRIME.CAT
+
+955kg----QTY
+
+sea cucumbers----SP.COMMON
+
+vehicle----TRANSPORT_MODE
+
+early hours----TIME
+
+Tuesday----DATE
+
+detained----CRIME.CAT
+
+a----SUS.NUMBER
+
+man----SUS.GENDER
+
+specific information----DETECTION_METHOD
+
+vehicle check----DETECTION_METHOD
+
+sea cucumbers----SP.COMMON
+
+46 small cement bags----CONCEALMENT_METHOD
+
+K Aulmaitheen----SUS.NAME
+
+43----SUS.AGE
+
+Naripaiur----SUS.LOC

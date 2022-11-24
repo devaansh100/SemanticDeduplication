@@ -1,0 +1,55 @@
+
+['One more arrested from Bengaluru for smuggling wildlife\nThane The Thane forest department arrested one more accused in wildlife smuggling racket. “Shahid Iqbal Ahmed, 26, was handed over to Thane forest department on January 7. He was produced in court on Wednesday and has been remanded to one day police custody,” said an official from forest department. “Ahmed was arrested from his home at Bengaluru. We seized three monitor lizards, one parrot and 13 Scaly Breasted Munia,” said the forest official. Last month, six people from Hyderabad were arrested for the crime and released on bail. On December 10, Mohammad Khalid Riyaz Ahmed, 24, was arrested at Thane station with birds and animals. Three more were arrested later. “Hyderabad resident Mohammad Ahmed was arrested by Thane forest officials with three falcons, one black-shouldered kite and one Eagle owl which was kept in a box. He was travelling in Coimbatore-LTT (Lokmanya Tilak Terminus) to sell them in Mumbai when he was arrested at Thane station ,” said one of the forest officials from Thane forest department. On December 11, one more accused was arrested from Bengaluru. “All the accused were arrested under Schedule I of the Wildlife Protection Act, 1972,” said the official.']
+
+
+One----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+Bengaluru----LOC.CITY
+
+Thane forest department----AUTH.SEIZE
+
+arrested----CRIME.CAT
+
+Shahid Iqbal Ahmed----SUS.NAME
+
+26----SUS.AGE
+
+Bengaluru----SUS.LOC
+
+three----QTY
+
+monitor lizards----SP.SPECIFIC
+
+one----QTY
+
+parrot----SP.COMMON
+
+13----QTY
+
+Mohammad Khalid Riyaz Ahmed----SUS.NAME
+
+24----SUS.AGE
+
+Hyderabad----SUS.LOC
+
+Mohammad Ahmed----SUS.NAME
+
+Thane forest officials----AUTH.SEIZE
+
+three----QTY
+
+falcons----SP.COMMON
+
+one----QTY
+
+black-shouldered kite----SP.SPECIFIC
+
+one----QTY
+
+Eagle owl----SP.SPECIFIC
+
+box----CONCEALMENT_METHOD
+
+Mumbai----ROUTE.DEST

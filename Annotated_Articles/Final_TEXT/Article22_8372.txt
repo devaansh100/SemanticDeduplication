@@ -1,0 +1,27 @@
+
+['Bengal fishermen catch gigantic Telia Bhola in Digha, fish sold for 13 lakh\nA group of fishermen recently got lucky after they caught a gigantic Telia Bhola fish (colloquially called) near Digha in East Midnapore, West Bengal. The locals were surprised to know that the massive fish weighed about 55 kgs. Shibaji Kabir, a South 24 Parganas local, transported the fish to Digha for auction. After three hours of bargaining and bidding, the fish was then sold for Rs 26,000 per kg which brought in a total of Rs 13 lakh. Reports suggest that a foreign corporation bought the huge Telia Bhola fish and also paid a big sum for it. The main characteristic of this fish is that it contains a lot of maw from which drugs are made. While speaking to local media, a businessman said that these fish have immense medicinal value which is why it is so expensive. “This fish maw can be used to manufacture medicines that save lives. Therefore, a foreign corporation paid a big sum to purchase this giant fish,” the businessman noted. For the unversed, fish maw is the dried swim bladders of large fish which are present in the stomach. It is also one of the most expensive body part of the fish. People consume it as an anti-aging healthy food due to its high collagen content. It is also sold abroad for its medicinal purpose. However, this massive fish was a female and it was carrying eggs. So, the maw in it will be less when compared to a male fish. Days ago, a male Telia Bhola was caught and sold for Rs 9 lakh in the same market. Nabakumar Payra, a member of the Digha Fisherman and Fish Traders Association informed that the Telia Bhola fish are usually found twice or thrice a year. Whoever gets hold of this fish, turns rich overnight in a single catch, he added. Read all the Latest News, Trending News, Cricket News, Bollywood News, India News and Entertainment News here. Follow us on Facebook, Twitter and Instagram.']
+
+
+Bengal fishermen----AUTH.SEIZE
+
+Telia Bhola----SP.SPECIFIC
+
+Digha----LOC.EXACT
+
+13 lakh----VALUE
+
+Telia Bhola fish----SP.SPECIFIC
+
+Digha----LOC.EXACT
+
+West Bengal----LOC.STATE
+
+55 kgs----QTY
+
+Shibaji Kabir----OFF.NAME
+
+Digha----ROUTE.DEST
+
+Rs 26,000 per kg----VALUE
+
+Rs 13 lakh----VALUE

@@ -1,0 +1,27 @@
+
+['Bankura farmer trampled to death by wild elephant\nBankura, Apr 29 (PTI) A 51-year-old farmer was trampled to death by a wild elephant in West Bengal’s Bankura district on Friday, police said. Tilak Sarkar, a resident of Baro Manchar in Barjora, went to the field at the daybreak to water his peanut crops, they said. At that time, the tusker attacked him from behind and trampled him, police said. Sarkar’s neighbours woke up on hearing dog barks, and found him lying in a pool of blood. They took him to the Barjora hospital where doctors declared him dead. “It is a very sad incident. The elephant most likely came to the area in search of food from Paschim Bardhaman district after crossing the Damodar river,” said a forest officer of Barjora range. “The elephant probably went to the Kanksha after the incident. The family will be compensated as per the government norms,” he said. PTI CORR SOM SOM This report is auto-generated from PTI news service. ThePrint holds no responsibility for its content.']
+
+
+Bankura----SUS.LOC
+
+trampled----CRIME.CAT
+
+wild elephant----SP.COMMON
+
+51-year-old----SUS.AGE
+
+trampled to death----CRIME.CAT
+
+wild elephant----SP.COMMON
+
+West Bengal’s----LOC.STATE
+
+Bankura----LOC.DISTRICT
+
+Friday----DATE
+
+Tilak Sarkar----SUS.NAME
+
+Baro Manchar in Barjora----SUS.LOC
+
+daybreak----TIME

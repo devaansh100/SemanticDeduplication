@@ -1,0 +1,11 @@
+
+['Man’s magic trick baffles monkey in zoo, ‘priceless reaction’ delights all online\nThe reaction of a monkey to Maximiliano Ibarra’s magic tricks at a zoo in Mexico has left netizens laughing out loud online. In a TikTok video, a man showed off some tricks to the animals through the glass window of the exhibit. The clip posted by TikTok user @pedro14mx showed that the magician caught the attention of the animal using what appeared to be a small leaf. Then using some hand gestures, he magically vanishes! The monkey’s reaction of being amazed by the impromptu magic show soon went viral, amassing nearly 10 million views. The man made the leaf reappear and disappear, leading to the monkey running up and down and putting its hand to its face. Watch the video here: The animal’s human-like expression to the magic trick struck a chord with many online. “The reaction of the monkey is priceless! Animals in zoos spend their entire life in captivity. Your tricks must have cheered them a lot. Thank you!” wrote one person, while commenting on the YouTube video. “He was like don’t show me this human witchcraft of yours,” joked another user.']
+
+
+baffles----CRIME.CAT
+
+monkey----SP.COMMON
+
+Maximiliano Ibarra----SUS.NAME
+
+TikTok video----DETECTION_METHOD

@@ -1,0 +1,27 @@
+
+['Elephant, Which Trampled Woman To Death In Odisha, Returns To Attack Her Body At Funeral\nElephant, Which Trampled Woman To Death In Odisha, Returns To Attack Her Body At Funeral Baripada: In an unusual incident, an elephant, which trampled a 70-year-old woman to death in a village in Odisha’s Mayurbhanj district, returned hours later to attack her body at the funeral. The incident took place in Raipal village. Maya Murmu was collecting water from a tubewell on Thursday morning when she was attacked by the elephant which had strayed from the Dalma Wildlife Sanctuary. In the evening, when Maya’s last rites were being performed, the elephant appeared suddenly, dragged the body from the pyre and attacked it again.']
+
+
+Elephant----SP.COMMON
+
+Woman----SUS.GENDER
+
+Odisha----LOC.STATE
+
+Elephant----SP.COMMON
+
+Odisha----LOC.STATE
+
+elephant----SP.COMMON
+
+Raipal village----LOC.EXACT
+
+Maya Murmu----SUS.NAME
+
+Thursday----DATE
+
+morning----TIME
+
+elephant----SP.COMMON
+
+evening----TIME

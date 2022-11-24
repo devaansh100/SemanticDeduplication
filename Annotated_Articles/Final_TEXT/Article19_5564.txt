@@ -1,0 +1,19 @@
+
+["Man Jumps Inside Lion Enclosure in Delhi Zoo; Rescued\nA man, identified as Rehan Khan, jumped inside the lion enclosure at the Delhi Zoo on Thursday, 17 October, but escaped unhurt as the zoo staff rescued him after tranquillising the wild animal. According to the staff, Rehan Khan, a native of Bihar's East Champaran district, said he wanted to die and asked them to not rescue him, ANI reported."]
+
+
+Man----SUS.GENDER
+
+Lion----SP.COMMON
+
+man----SUS.GENDER
+
+Rehan Khan----SUS.NAME
+
+Thursday----DATE
+
+17 October----DATE
+
+Rehan Khan----SUS.NAME
+
+Bihar's East Champaran district----SUS.LOC

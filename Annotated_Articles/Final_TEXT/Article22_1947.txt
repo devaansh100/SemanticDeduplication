@@ -1,0 +1,43 @@
+
+['Six cow smugglers caught after 22 km chase, accused kept running on the rim even after the tire of the truck burst\nIn Gurugram, the police and cow protection team have once again succeeded in catching six cow smugglers. For this, the police and the cow guard team had to chase the cow smugglers for about 22 kilometers in the early hours of Saturday and after going to Bhondsi, the accused came under arrest. The accused were identified as Yahya, Ballu, Taslim, Khalid alias Bhainsa, Shahid and Sokin alias Sunda. All the accused are residents of Nuh. The special thing is that even after the tire of the truck burst, the accused kept running it on the road with the help of only the rim. On the complaint of the Gau Rakshak Dal, the Bhondsi police have registered a case against the accused.Mohit alias Monu, a resident of Manesar, told in the complaint to the police that he is a worker of Bajrang Dal. In the early hours of Saturday, he and other cow guards had received information that smugglers were coming from Delhi side after stuffing cow progeny in a truck. After this, Monu, along with his other teammates, blocked the Ambience Mall located on the Sarhaul border.Meanwhile, a truck came in which was full of cows, signaled to stop it, then the driver instead of stopping, increased the speed of the truck. After this the cow guards started chasing him. During this, the smugglers started throwing cows from the running truck to stop the cow protectors. During this, the tire of the truck also burst due to the truck climbing on a sharp stone, but the accused did not stop the truck. The accused kept driving the truck on the rim itself.Meanwhile, the cow guard team also informed the police, due to which the police also went after the accused. Finally, the police caught the cow smugglers on the flyover located about 22 kms before Ghamroj. To escape from the police, many cow smugglers jumped down from the flyover, in which they suffered a lot, while the hand of a cow smuggler was also broken due to coming in front of the moving vehicles.']
+
+
+Six----SUS.NUMBER
+
+Gurugram----LOC.CITY
+
+police----AUTH.SEIZE
+
+cow protection team----AUTH.SEIZE
+
+six----SUS.NUMBER
+
+Saturday----DATE
+
+Yahya----SUS.NAME
+
+Ballu----SUS.NAME
+
+Taslim----SUS.NAME
+
+Khalid alias Bhainsa----SUS.NAME
+
+Shahid----SUS.NAME
+
+Sokin----SUS.NAME
+
+Nuh----SUS.LOC
+
+registered a case----OUTCOME
+
+Mohit alias Monu----SUS.NAME
+
+Manesar----SUS.LOC
+
+information----DETECTION_METHOD
+
+truck----TRANSPORT_MODE
+
+cow smugglers----SUS.AFFIL
+
+flyover located about 22 kms before Ghamroj----LOC.EXACT

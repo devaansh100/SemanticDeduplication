@@ -1,0 +1,27 @@
+
+['Leopard gets trapped inside school bathroom in western India, rescued – Newslions Media Network\nLeopard gets trapped inside school bathroom in western India, rescued by Suryaprakash A leopard was rescued after being trapped inside a school bathroom in western India’s Maharashtra. The incident happened at a Bombay Municipal Corporation (BMC) school in Bimbisar Nagar, Goregaon East, Mumbai Suburban district on June 29. Visuals show the rescue team carrying the tranquilised leopard out of the building. The animal had its face and neck covered. The big feline was spotted jumping over the gate at around 12:30-1:00 am by the watchman, who reported this to the forest department immediately. It was later learnt that it had snuck into the toilet from a small space but remained stuck as it was unable to get out. The forest department decided to tranquilise the animal and rescue it, with the area being a residential one, approximately 100-200 metres away from the western express highway. The rescue team shut down all the exit points using nets to prevent the animal from escaping. The leopard was then captured, tranquilised and safely rescued. All this while, police controlled the crowd at the spot. Officials from the Sanjay Gandhi National Park (SGNP), Mumbai forest department and Wildlife Welfare Association were involved in the rescue operation, which was about three hours long. The leopard would be taken to SGNP where medical tests would be conducted on it. Doctors would also check if there’s a microchip on its body which would indicate if it had been rescued earlier. The animal would then reportedly be kept in solitary confinement under observation. If fit, it would be released into the wild.']
+
+
+Leopard----SP.COMMON
+
+Leopard----SP.COMMON
+
+leopard----SP.COMMON
+
+Maharashtra----LOC.STATE
+
+Bombay Municipal Corporation (BMC) school----LOC.EXACT
+
+Bimbisar Nagar, Goregaon East, Mumbai Suburban district----LOC.EXACT
+
+June 29.----DATE
+
+leopard----SP.COMMON
+
+Sanjay Gandhi National Park (SGNP)----AUTH.SEIZE
+
+Mumbai forest department----AUTH.SEIZE
+
+Wildlife Welfare Association----AUTH.SEIZE
+
+medical tests would be conducted on it----OUTCOME

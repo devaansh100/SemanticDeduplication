@@ -1,0 +1,67 @@
+
+['Two Indian Women Arrested In Thai Airport While Trying To Smuggle 109 Live Animals To Chennai\nA routine baggage x-ray at the Suvarnabhumi airport in Thailand has led to the arrest of two Indian women for illegal wildlife trafficking. Nithya Raja and Zakia Sulthana Ebrahim who were to leave Suvarnabhumi airport on a Thai Airways flight to Chennai were arrested on Monday after airport officials found a total of 109 live animals hidden in their two suitcases. AFP Animals worth Rs 4.5 lakhs According to the authorities, the recovered animals include two white porcupines, two armadillos, 35 turtles, 50 lizards and 20 snakes.  Two dead iguanas were also found, while all of the reptiles were suffering from dehydration. The animals are estimated to be worth around Rs 4.5 lakhs in the international illegal wildlife market. AFP The two women have been arrested under Thailand\'s Wildlife Conservation and Protection Act of 2019, the Animal Disease Act of 2015 and the Customs Act of 2017.  "This kind of case has happened many times because the animals have expensive price tags in India," Sathon Konggoen, chief of the airport\'s wildlife inspection office, told AFP. Wildlife trafficking in Thailand Thailand is a major transit hub for wildlife smugglers, with the animals often bound for Vietnam or China where they are used in traditional medicines. AFP Other than their use in traditional Chinese medicine, several animal species are also smuggled and traded illegally around the world as exotic pets. India is a member of the CITES (Convention on International Trade in Endangered Species of Fauna and Flora), an international agreement between governments that aims to ensure that international trade in specimens of wild animals and plants does not threaten their survival. Wildlife trafficking in India In India, pangolins are the most trafficked animal, followed by the Indian Star Tortoise. Almost 100,000 Pangolins are captured every year in India for illegal trade. AFP Pangolins are in high demand in countries like China and Vietnam. Their meat is considered a delicacy and pangolin scales are used in Pangolins are in high demand in countries like China and Vietnam. Their meat is considered a delicacy and pangolin scales are used in traditional medicine. On the other hand, the star turtles are smuggled as exotic pets. Many people believe that they bring good luck and are in high demand in the illegal wildlife trade in Southeast Asia. In March this year, in one of the biggest illegal wildlife trade busts in Delhi, over 1700 native birds were recovered from the Kabutar Market near Jama Masjid. The birds including hatchlings were found crammed into suffocating cages and kept in rooms with no ventilation. For more on news, sports and current affairs from around the world, please visit Indiatimes News.']
+
+
+Two----SUS.NUMBER
+
+Indian----SUS.NAT
+
+Women----SUS.GENDER
+
+Arrested----CRIME.CAT
+
+109----QTY
+
+Live Animals----SP.COMMON
+
+Chennai----ROUTE.DEST
+
+routine baggage x-ray----DETECTION_METHOD
+
+Suvarnabhumi airport----LOC.EXACT
+
+Thailand----LOC.STATE
+
+arrest----CRIME.CAT
+
+two----SUS.NUMBER
+
+Indian women----SUS.GENDER
+
+Nithya Raja----SUS.NAME
+
+Zakia Sulthana Ebrahim----SUS.NAME
+
+Chennai----ROUTE.DEST
+
+arrested----CRIME.CAT
+
+Monday----DATE
+
+109----QTY
+
+live animals----SP.COMMON
+
+Rs 4.5 lakhs----VALUE
+
+two----QTY
+
+two----QTY
+
+armadillos----SP.SPECIFIC
+
+35----QTY
+
+turtles----SP.COMMON
+
+50----QTY
+
+lizards----SP.COMMON
+
+20----QTY
+
+snakes----SP.COMMON
+
+iguanas----SP.COMMON
+
+Rs 4.5 lakhs----VALUE

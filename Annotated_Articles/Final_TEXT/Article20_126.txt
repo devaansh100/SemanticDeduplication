@@ -1,0 +1,63 @@
+
+['122 red sanders logs seized, 2 arrested\nTIRUPATI: Chittoor sub-division police arrested two red sanders smugglers and seized 1.3 tonnes of logs on Friday as part of efforts to curb red sanders smuggling in the region.According to Chittoor additional SP K Krishnarjuna Rao , police teams led by DSP K Eswar Reddy conducted vehicle checks near Gollamadugu checkpost along Gudipala road early on Friday morning. During the check, police teams chased a truck that slowed down before the checkpost, turned around and sped away. The vehicle was intercepted some kilometres from the checkpost.Police seized the truck and upon inspection, found 122 red sanders logs weighing approximately 1.3 tonnes concealed inside it. The arrested were identified as Balaji of Renigunta in Chittoor district and GR Mahesh of Uppalavadi village in Nagpur district in Maharashtra.']
+
+
+122----QTY
+
+red sanders----SP.COMMON
+
+logs----ITEM
+
+seized----CRIME.CAT
+
+2----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+TIRUPATI----LOC.CITY
+
+police----AUTH.SEIZE
+
+arrested----CRIME.CAT
+
+red sanders----SP.COMMON
+
+seized----CRIME.CAT
+
+1.3 tonnes----QTY
+
+logs----ITEM
+
+Friday----DATE
+
+red sanders----SP.COMMON
+
+DSP----OFF.DESIG
+
+K Eswar Reddy----OFF.NAME
+
+Friday----DATE
+
+morning----TIME
+
+truck----TRANSPORT_MODE
+
+seized----CRIME.CAT
+
+truck----CONCEALMENT_METHOD
+
+122----QTY
+
+red sanders----SP.COMMON
+
+logs----ITEM
+
+1.3 tonnes----QTY
+
+Balaji----SUS.NAME
+
+Renigunta----SUS.LOC
+
+GR Mahesh----SUS.NAME
+
+Uppalavadi----SUS.LOC

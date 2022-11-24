@@ -1,0 +1,15 @@
+
+['Jackal cub strays into lion’s den, comes out alive\nIndore: A jackal ’s cub, which was already suffering from hunger and thirst, on Wednesday afternoon found itself in a situation of life and death as it entered the enclosure of a five-member pride of lions.The 8-months-old wild animal somehow managed to save itself after a two-and-a-half hours of hide-and-seek with the big cats. Many visitors recorded the incident in their mobile phone’s cameras that soon went viral on the social-media platforms.According to Indore’s zoo in-charge Dr Uttam Yadav, the incident was reported around 3 PM when some visitors saw the jackal’s cub running madly in an enclosure of five lions/lionesses while two big cats were behind it. “The cub was seen running madly by frequently changing its direction in its bid to dodge the attack before it finally found a hole to get into and save its life” he said, adding that the zoo’s staff managed to rescue the cub from the hideout by around 5.30 PM.“The cub has some injuries including some old and a few new ones, which it had possibly sustained while entering into the enclosure. Treatment of the Jackal, which is not an inmate of the zoo, is underway” Dr Yadav said, adding that the cub is around 10-inches in height and 1.5 feet in length and there are possibilities of its entering the lion’s enclosure through an iron-net that has 3-4 inches of gap.“It is most likely that the jackal would have entered the zoo, in search of something to eat and drink, through a nullah passing through the campus before entering the lion’s enclosure from the 3-4 inches of gap in the iron-net installed there or by climbing a tree erected nearby the enclosure and jumping inside” he said, adding that when rescued, the cub was highly dehydrated and hungry while the zoo staff is taking best care of it. TNN']
+
+
+Jackal----SP.COMMON
+
+jackal----SP.COMMON
+
+Wednesday----DATE
+
+afternoon----TIME
+
+3 PM----TIME
+
+jackal’s cub----SP.SPECIFIC

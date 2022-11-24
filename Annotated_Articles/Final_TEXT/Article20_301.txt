@@ -1,0 +1,29 @@
+
+['Bird poaching gang busted in Sunderbans\nKolkata: Five villagers in the Sunderbans were arrested on Wednesday, the last day of lockdown in July, for allegedly hunting birds protected under the country’s Wildlife Protection Act on the fringes of the tiger reserve area.A forester said that at least 15 dead birds — mostly egrets and little cormorants — were seized from them. Both the birds are protected under Schedule IV of Wildlife Protection Act, 1972, said Sunderbans Tiger Reserve field director, Tapas Das.“We have booked them under relevant sections of the act and handed them over to the police,” he added. A source, though, said that the five, all residents of Basanti-Jharkhali coastal area, later secured a bail. They had been reportedly arrested from Amlamethi Netaji Char near Bally islands.']
+
+
+Bird poaching gang----SUS.AFFIL
+
+Sunderbans----LOC.EXACT
+
+Kolkata----LOC.DISTRICT
+
+Five----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+Wednesday----DATE
+
+birds----SP.COMMON
+
+15----QTY
+
+birds----SP.COMMON
+
+egrets----SP.SPECIFIC
+
+cormorants----SP.SPECIFIC
+
+seized----CRIME.CAT
+
+Basanti-Jharkhali coastal area----SUS.LOC

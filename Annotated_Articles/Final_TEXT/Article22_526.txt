@@ -1,0 +1,11 @@
+
+['Jataka Tales – A Deer And His Friends\nNarration: Deep in the forest, there were three friends, a deer, a tortoise, and a woodpecker. They were always seen together. They spent most of their time chatting or playing by a lake. One day a hunter came to the forest and laid a trap behind the bush near the lake. The deer who happened to be returning from the lake stepped on the trap and was caught. He cried out in pain, calling for his friends yelling… Deer: I have been trapped! Please come and help me. Narration: Hearing his cries for help, the woodpecker and the tortoise rushed to his help. They were horrified to see their friend in the trap. They thought of a plan. The tortoise went and called a mouse that lived in a nearby hole. The mouse and the tortoise started cutting the trap. In the meantime, the woodpecker flew to the hunter’s camp. The hunter was just coming out of the tent. He had heard the cries of the deer and was anxious to catch him. The woodpecker acted quickly and sat on his head. He pecked twice on his head. The hunter cried out in pain and went back to his tent to get some rest. The woodpecker’s purpose was solved and he flew back to the deer. By then, the mouse and the tortoise had cut open the trap and the deer was free. The three friends were united again and lived happily in the forest. Advertisement Moral : So my dear friends, what did you learn from this story? It is indeed very nice to have a lot of friends with you. The moral of the story is “A friend in need is a friend indeed.”']
+
+
+Deer----SP.COMMON
+
+deer----SP.COMMON
+
+tortoise----SP.COMMON
+
+woodpecker----SP.COMMON

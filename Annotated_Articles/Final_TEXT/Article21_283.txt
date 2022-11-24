@@ -1,0 +1,85 @@
+
+['Forest dept collects Rs 49K fine from 10 for poaching wild boar\nCoimbatore: The forest department has collected a fine of Rs 49,000 from 10 people for hunting a wild boar and having its meat.A forester said A Thirumoorthy, 26, and V Marisamy, 25, both residents of Kuzhikkadu village near Kalampalayam in Periyanaickenpalayam forest range, had poached a wild boar, which had strayed into a non-cultivatable land near their village on the night of April 22, by using country made bombs.“They shared the meat with their relatives V Kumar, 27, K Vellingiri, 37, M Prasanth, 22, K Velusamy, 50, P Moorthy, 45, A Aravindhkumar, 19, V Kathirvel, 22 and M Gopal, 21, all residents of Kuzhikkadu village, and cooked the same,” the forester said.Periyanaickenpalayam forest range officials and anti-poaching watchers picked up the 10 based on a tip that they had poached a wild boar and shared its meat and registered a case against them on Sunday.“We imposed a fine of Rs 12,500 each on Thirumoorthy and Marisamy, and Rs 3,000 on the remaining eight. We have handed over Thirumoorthy and Marisamy to the Periyanaickenpalayam police to take action against them under the Explosives Act, as they were in possession of three country made bombs. The remaining eight were let off,” the forester said.']
+
+
+Forest dept----AUTH.SEIZE
+
+Rs 49K----VALUE
+
+10----SUS.NUMBER
+
+wild boar----SP.COMMON
+
+Coimbatore----LOC.DISTRICT
+
+a fine of Rs 49,000----OUTCOME
+
+10 people----SUS.NUMBER
+
+a----QTY
+
+wild boar----SP.COMMON
+
+meat.A----ITEM
+
+A Thirumoorthy----SUS.NAME
+
+26----SUS.AGE
+
+V Marisamy----SUS.NAME
+
+25----SUS.AGE
+
+Kuzhikkadu village near Kalampalayam in Periyanaickenpalayam forest range----SUS.LOC
+
+poached----CRIME.CAT
+
+a----QTY
+
+wild boar----SP.SPECIFIC
+
+night----TIME
+
+April 22----DATE
+
+V Kumar----SUS.NAME
+
+27----SUS.AGE
+
+K Vellingiri----SUS.NAME
+
+37----SUS.AGE
+
+M Prasanth----SUS.NAME
+
+22----SUS.AGE
+
+K Velusamy----SUS.NAME
+
+50----SUS.AGE
+
+P Moorthy----SUS.NAME
+
+45----SUS.AGE
+
+A Aravindhkumar----SUS.NAME
+
+19----SUS.AGE
+
+V Kathirvel----SUS.NAME
+
+22----SUS.AGE
+
+M Gopal----SUS.NAME
+
+21----SUS.AGE
+
+Kuzhikkadu village----SUS.LOC
+
+10----SUS.NUMBER
+
+tip----DETECTION_METHOD
+
+a----QTY
+
+wild boar----SP.SPECIFIC

@@ -1,0 +1,49 @@
+
+['45 kg ivory seized in Mayurbhanj district of Odisha, 2 poachers arrested\nIn the biggest ever seizure of ivory in Odisha in recent years, a team of forest officials in Mayurbhanj district carried out an undercover operation to recover eight ivories weighing around 45 kg from two people on Wednesday. Divisional forest officer (DFO) of Baripada, Santosh Kumar Joshi said an undercover team posing as customers conducted raids at Angarpada village under Udala forest range and nabbed Paghuram Hansda and Ramachandra Hansda for illegal possession of ivories. “A team led by the Assistant Conservator of Forest (ACF) was formed to investigate an elephant poaching incident that took place on February 6. During the probe, we got some vital clues and carried out raids accordingly,” Joshi said. “We laid a trap and caught the two, who are known poachers. We made a deal with them to buy eight pieces of ivory at ₹18 lakh.” Also Read: Odisha MLA arrested in job scam gets bail, but will remain in jail The weight of the seized ivories is 44.9 kg. These will be sent to the Wildlife Institute of India (WII) in Dehradun for chemical examination. Two elephants were poached in Udala and Kaptipada range a few days ago while the carcass of a 25-year-old tusker, with missing tusks, was found in Mayurbhanj in January this year. Investigation will tell whether the ivories are that of these poached elephants.']
+
+
+45 kg----QTY
+
+ivory----ITEM
+
+seized----CRIME.CAT
+
+Mayurbhanj----LOC.DISTRICT
+
+Odisha----LOC.STATE
+
+2----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+forest officials----AUTH.SEIZE
+
+Mayurbhanj----LOC.DISTRICT
+
+undercover operation----DETECTION_METHOD
+
+eight----QTY
+
+ivories----ITEM
+
+45 kg----QTY
+
+two----SUS.NUMBER
+
+Wednesday----DATE
+
+raids----CRIME.CAT
+
+Angarpada village----LOC.EXACT
+
+Paghuram Hansda----SUS.NAME
+
+Ramachandra Hansda----SUS.NAME
+
+ivories----ITEM
+
+raids----CRIME.CAT
+
+will be sent to the Wildlife Institute of India (WII) in Dehradun----OUTCOME
+
+chemical examination----OUTCOME

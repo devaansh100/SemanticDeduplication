@@ -1,0 +1,35 @@
+
+['25 parakeets rescued, one held for poaching\ndarjeeling: A person was arrested from Phansidewa in the Darjeeling district for poaching parakeets.  Local residents stated that a group of youths had been poaching parakeets in the paddy fields of Phansidewa. The locals chased the poachers and managed to catch one. They then informed the Forest Department. Forest personnel rushed to the spot and rescued the parakeets. They handed over the poacher to the police. He was produced before a Siliguri court on Wednesday. "We rescued around 25 parakeets. Most of the birds were injured. We will release these birds in the wild. Investigations are on and we hope to nab the others soon. Locals claim that they have been trapping then for the past few days and have trapped more than 150 Parakeets," stated a forest personnel. "The accused persons claim that their names are Sundar Singh and Vishnu Singh residence of Atal Bridge near Biharipatti," said a resident. "These are false names and addresses. We request the forest department and police to investigate the matter thoroughly," stated the resident. In another incident, local residents of North Samsing, Block 1 of Alipurduar district rescued a Sambar deer was rescued from the banks of Kurmai River. The forest department was informed. They rescued the deer and released it in the Chilapata forest.']
+
+
+25----QTY
+
+parakeets----SP.COMMON
+
+rescued----CRIME.CAT
+
+one----SUS.NUMBER
+
+A----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+Phansidewa----LOC.EXACT
+
+parakeets----SP.COMMON
+
+Forest Department----AUTH.SEIZE
+
+Forest personnel----AUTH.SEIZE
+
+parakeets----SP.COMMON
+
+25----QTY
+
+parakeets----SP.COMMON
+
+Sundar Singh----SUS.NAME
+
+Vishnu Singh----SUS.NAME
+
+Atal Bridge near Biharipatti----SUS.LOC

@@ -1,0 +1,23 @@
+
+['Assam: Rs 2 lakh reward for leads on three suspected rhino poachers\nGuwahati: The Assam Police has released photographs of three suspected poachers announcing a cash reward of Rs 2 lakh for any leads on the suspects. Taking the matter on Twitter, Special DGP of Assam Police, GP Singh said that the three are wanted for rhino poaching. WANTED FOR RHINO POACHING REWARD OF Rs 2 Lacs – for information leading to arrest of each of them. 1/4 — GP Singh (@gpsinghips) February 2, 2022 People who would give any information leading to the arrest of the wanted persons will be given a cash reward of Rs 2 lakh. Also Read: Assam: Expert team reaches Majuli to tranquillize rhino He also added that apart from the three persons, there will be a reward of Rs 5 lakh for any information that may lead to the recovery of the poached rhino horn. The wanted persons have been identified as Abdul Matin, Ataur Rahman and Asmat Ali. All the wanted persons are residents of Biswanath district. A police source informed that they have been identified to be behind the recent rhino killing that took place in Kohora range of Kaziranga.']
+
+
+Assam----LOC.STATE
+
+Rs 2 lakh----VALUE
+
+three----SUS.NUMBER
+
+three----SUS.NUMBER
+
+Special DGP of Assam Police----OFF.DESIG
+
+GP Singh----OFF.NAME
+
+Abdul Matin----SUS.NAME
+
+Ataur Rahman----SUS.NAME
+
+Asmat Ali----SUS.NAME
+
+Biswanath----SUS.LOC

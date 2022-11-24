@@ -1,0 +1,37 @@
+
+['Two elephants stranded in Mahanadi river in Odisha\nBhubaneswar, Jun 8 (PTI) Two elephants got stuck in the Mahanadi river on Wednesday while crossing the waterbody in Banki area of Cuttack district, a forest official said. The incident happened near Bhagipur while the jumbos were attempting to reach Chandaka sanctuary from Sukasen forest. The water level was very high near the spot and the forest officials were trying their best to rescue the elephants, the official said. The animals were still stranded as they were hesitating to cross the water body because the river bank is overcrowded with people, the official said. In a separate incident, wildlife experts and veterinary doctors rushed to Atagarh forest range in Cuttack district to treat another jumbo after the animal allegedly sustained gunshot wounds in the district on Tuesday. The matter came to light when senior BJD leader and the Athagarh MLA Debi Prasad Mishra drew the attention of the newly appointed Forest and Environment Minister P K Amat. The MLA said he has requested the minister to rush veterinary experts from Nandankanan Zoological Park near Bhubaneswar to the spot for the tusker’s treatment. “I have also told Cuttack district collector Bhabani Shankar Chayani for his intervention into the matter,” the MLA said. As the animal was found writhing in pain near a forest in Narasinghapur, a team of veterinary doctors rushed to the spot. “We are doing our best to treat the injured elephant. The government is monitoring the incident,” the minister said. Principal Chief Conservator of Forests (Wildlife), Shashi Paul, who rushed to the spot said that the elephant was fired 5-6 times from a gun following which the animal sustained injuries in its trunk, legs, and ear. “The jumbo has developed septicemia and has been administered antibiotic. The animal has become very weak and we hope it will overcome the infection in 5 to 6 days,” the official said. Meanwhile, in another incident, a leopard, which had fallen into a well near Hindol Ghat under Charamala range in Sambalpur district, was rescued by range staff with the help of police and fire personnel on Wednesday. A wooden plank tied to a rope at both ends was lowered into the well to help the animal stay afloat. A ladder was then lowered down and the leopard hopped on it and climbed out of the well, the report said. Local people said that the leopard might have fallen into the well on Tuesday night and the matter came to the fore after some people heard its grunting roar in the morning. The condition of the leopard is now stable, a forest official said. PTI AAM MM MM This report is auto-generated from PTI news service. ThePrint holds no responsibility for its content.']
+
+
+Two----QTY
+
+elephants----SP.COMMON
+
+Mahanadi river----LOC.EXACT
+
+Odisha----LOC.STATE
+
+Bhubaneswar----LOC.CITY
+
+elephants----SP.COMMON
+
+Mahanadi river----ROUTE.SRC
+
+Wednesday----DATE
+
+forest officials----AUTH.SEIZE
+
+Principal Chief Conservator of Forests (Wildlife)----OFF.DESIG
+
+Shashi Paul----OFF.NAME
+
+leopard----SP.COMMON
+
+Sambalpur----LOC.DISTRICT
+
+range staff----AUTH.SEIZE
+
+police and fire personnel----AUTH.SEIZE
+
+Wednesday----DATE
+
+night----TIME

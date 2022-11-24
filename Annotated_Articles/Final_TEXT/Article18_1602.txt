@@ -1,0 +1,17 @@
+
+['BIKER NARROWLY ESCAPES LEOPARD ATTACK AT TUEM\nIn a shocking incident, a young was attacked by a Leopard near the Tuem Panchayat road on Friday night. Dnyaneshwar Polji was travelling on his motorcycle when the animal jumped and bit his leg. Dnyaneshwar, scared for his life somehow managed to reach the hospital and get treatment. After the incident, Forest Department was alerted.']
+
+
+TUEM----LOC.DISTRICT
+
+Leopard----SP.COMMON
+
+Tuem Panchayat road----LOC.EXACT
+
+Friday----DATE
+
+night----TIME
+
+Dnyaneshwar Polji----SUS.NAME
+
+Forest Department----AUTH.SEIZE

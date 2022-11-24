@@ -1,0 +1,77 @@
+
+['At least five injured in leopard attack in Pune city\nAccording to the information given by local police, a leopard was spotted in Keshavnagar area in Mundhwa around 6.30 am. (Representational Image) As many as five people were injured after being attacked by a leopard which had entered the premises of an under construction building in the residential area in Mundhwa suburb of Pune on Monday morning. Officials from the forest department, police and staff from local zoo with the help of fire brigade personnel captured the leopard after a 2 two-hour long operation. The under-construction building where the leopard was hiding. (Express Photo) The under-construction building where the leopard was hiding. (Express Photo) Among the injured are two persons who were initially attacked and a forest guard, a cop and Pune zoo staffer who were attacked during the operation to trap the animal. As per the information given by local police, a leopard was spotted in Keshavnagar area in Mundhwa around 6.30 am. Traps were laid to capture the animal. (Express Photo) Traps were laid to capture the animal. (Express Photo) As per the initial reports, an elderly woman and man were attacked by the animal after which the police were informed. Senior inspector Anil Patrudkar of Mundhwa police station said, “Teams from forest department and fire brigade and those from the local zoo were called to trap the animal which after injuring some persons hid inside the building. Traps were laid to catch the animal and police teams were deployed for crowd control. The leopard was caught after an hour-long operation.” Range forest officer for Pune, VJ Gaikwad said, “A forest guard, policeman and staffer from zoo sustained injuries as the animal was being trapped. Earlier it has attacked an elderly woman and a man. After the capture, it has been currently kept in animal rescue centre in Katraj and will be later released in the wild after sometime.” Avinash Abhange who injured in the leopard attack near a construction site in Mundhwa on Monday. (Express photo by Arul Horizon) Avinash Abhange who injured in the leopard attack near a construction site in Mundhwa on Monday. (Express photo by Arul Horizon) In the first week of January, National Defence Academy located in Khadakwasla area in Pune had issued a cautionary note to its staff, their families and cadets after a leopard was sited at various locations in and around the campus of the institute in the recent past. Advertisement Sumitra Tharu who injured in the leopard attack near a construction site in Mundhwa on Monday. (Express photo by Arul Horizon) Sumitra Tharu who injured in the leopard attack near a construction site in Mundhwa on Monday. (Express photo by Arul Horizon) The forest department officials had called it a worrying development considering the proximity of the institute to the city limits. The area where the incident on Monday morning has taken place, is located within the municipal limits of Pune city.']
+
+
+five----SUS.NUMBER
+
+leopard----SP.COMMON
+
+attack----CRIME.CAT
+
+Pune----LOC.CITY
+
+leopard----SP.COMMON
+
+Keshavnagar area in Mundhwa----LOC.EXACT
+
+6.30 am----TIME
+
+leopard----SP.COMMON
+
+Monday----DATE
+
+morning----TIME
+
+forest department----AUTH.SEIZE
+
+police----AUTH.SEIZE
+
+local zoo----AUTH.MISC
+
+fire brigade personnel----AUTH.SEIZE
+
+leopard----SP.COMMON
+
+two persons----SUS.NUMBER
+
+forest guard----OFF.DESIG
+
+cop----OFF.DESIG
+
+leopard----SP.SPECIFIC
+
+Mundhwa----LOC.EXACT
+
+6.30 am----TIME
+
+forest department----AUTH.SEIZE
+
+fire brigade----AUTH.SEIZE
+
+Avinash Abhange----SUS.NAME
+
+leopard----SP.COMMON
+
+attack----CRIME.CAT
+
+Mundhwa----LOC.EXACT
+
+Monday----DATE
+
+Avinash Abhange----SUS.NAME
+
+leopard----SP.COMMON
+
+Mundhwa----LOC.EXACT
+
+Monday----DATE
+
+Sumitra Tharu----SUS.NAME
+
+Mundhwa----LOC.EXACT
+
+Monday----DATE
+
+Sumitra Tharu----SUS.NAME
+
+Monday----DATE

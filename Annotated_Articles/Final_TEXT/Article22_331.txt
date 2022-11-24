@@ -1,0 +1,19 @@
+
+['Gaur City: Latest News, Videos and Photos of Gaur City\nForest department captures gaur roaming around Coimbatore, releases it into forest TNN / Sep 20, 2022, 08:33 (IST) A three-year-old male gaur that strayed out of the forest and was roaming around the city was captured and released in a forest near Anaikatti on Monday.A forest department official said the gaur was first spotted near Keeranatham around 8am on Saturday.']
+
+
+Gaur----SP.COMMON
+
+Forest department----AUTH.SEIZE
+
+gaur----SP.COMMON
+
+Coimbatore----LOC.EXACT
+
+releases it into forest----OUTCOME
+
+gaur----SP.COMMON
+
+8am----TIME
+
+Saturday----DATE

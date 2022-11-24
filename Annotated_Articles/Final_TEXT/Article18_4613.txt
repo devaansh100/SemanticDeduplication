@@ -1,0 +1,33 @@
+
+['Day after outrage, PCCF issues capture leopard order\nChandrapur: With mounting pressure from people’s representatives, PCCF (wildlife) on Friday issued order to capture the problem leopard of Durgapur responsible for at least two human kills.Former forest minister and local MLA Sudhir Mungantiwar had on Thursday demanded immediate capturing of the leopard and undertaking other mitigation measures to curb man-animal conflict in Durgapur and Chandrapur Super Thermal Power Station area.Following 8-year-old boy’s death in leopard attack, NCP leader Nitin Bhatarkar had on Thursday vandalised WCL office in Durgapur demanding clearing of the shrubby patches in the area which shelter leopards and tigers.Sources said as per standard operating procedure, forest officials held an express meeting on Friday and a proposal seeking permission for tranquillizing the problem leopard was forwarded to the PCCF. The proposal was immediately okayed in the light of seriousness of the conflict and aggressive reaction of Durgapur residents, said the sources.The problem leopard residing in the shrubby stretches of WCL plantation had earlier killed a 16-year old boy on February 17. The same leopard had made its second kill — 8-year-old boy on Wednesday night in the residential area of Neri ward of the village. The villagers reacted aggressively and did not allow forest officials to lift the body till late in the night.Now that the capture order has been issued, search operation to track and sedate the beast is likely to be started from Saturday. A team of veterinary doctor along with trackers and tranquillizing gun shooter will be deployed in the area to hunt down the problem feline. While camera traps have been laid all over the area to locate the position of the problem leopard, 4 cages with baits have also been installed at strategic locations.A senior forest official also informed that a proposal seeking extension to the orders to capture tigers in CSTPS has also been sent to the PCCF. The permission for capturing of the three tigers — a tigress and two grown up cubs — sheltering on the mega power plant premises was issued in the third week of February.While the forest department was successful in capturing only one cub, the deadline of capturing permission expired on March 31. Sources said the extension is likely to be granted soon.']
+
+
+PCCF----AUTH.SEIZE
+
+PCCF (wildlife)----AUTH.SEIZE
+
+Friday----DATE
+
+leopard----SP.COMMON
+
+16-year old----SUS.AGE
+
+boy----SUS.GENDER
+
+February 17----DATE
+
+8-year-old----SUS.AGE
+
+boy----SUS.GENDER
+
+Wednesday----DATE
+
+night----TIME
+
+search operation----DETECTION_METHOD
+
+Saturday----DATE
+
+tigers----SP.COMMON
+
+tigress----SP.COMMON

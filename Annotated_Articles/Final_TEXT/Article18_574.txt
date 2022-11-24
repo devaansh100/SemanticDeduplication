@@ -1,0 +1,17 @@
+
+['Man-eater Tiger That Killed Two, Including Forest Staff In Corbett Still Elusive, Search On\nForest officials are continuing their attempts to tranquillise and cage a tiger which is blamed for the death of two people and injuring another person in recent days in Corbett Tiger Reserve. The first incident was on June 15, when a bike-borne labourer was killed in a tiger attack. This was followed by a third strike, on June 17 when two bike-borne forest personnel were attacked by the tiger, killing one and seriously injuring the other. BCCL/ Representational Image In February this year also there was a similar tiger attack in the area killing one person.  Efforts continue to tranquillise and cage the tiger All the three incidents happened on the fringe of the reserve\'s Sarpduli range, leading to suspicion that one big cat could be behind it. Following last week\'s twin attacks, camera traps were installed in the area to monitor the movements of the tiger. On Monday, Chief Wildlife Warden Parag Madhukar Dhakate gave his consent to tranquillise and cage the tiger. BCCL/ Representational Image According to CTR Director Naresh Kumar patrolling has been stepped up to catch the big cat and two elephants have also been brought from Dhikala to help in the effort. Officials have been asked to maintain extreme caution in the exercise, Kumar said. Villagers living on the fringe of Corbett have been asked not to go to the forest. Another alleged man-eater tiger caught Last week Forest officials in Terai area of Uttarakhand had captured an eight-year-old tiger that allegedly killed two people in Udham Singh Nagar\'s Khatima town. It was tranquilised and captured from a dense forest area near Jhau Parsa village in the Surayi range of Terai forest. The tiger is believed to be behind two human kills on May 13 and May 25 in the area. BCCL Following the twin attacks that caused panic among the villagers, the forest department had started using drones to monitor and locate the tiger. According to forest officials, it was important to catch it and release it back into the wild to avoid further man-animal conflict. "Tiger is an important species. So, we need to monitor it constantly. Drone was used for remote monitoring earlier. But this time, we wanted to ascertain if we have hit the target right and effectively," Sandeep Kumar, DFO, Tarai (East) Forest Division, Uttarakhand had told IANS. This was the first time drones were used for tranquillising a tiger. For more on news, sports and current affairs from around the world, please visit Indiatimes News.']
+
+
+Tiger----SP.COMMON
+
+Two----SUS.NUMBER
+
+Corbett----LOC.EXACT
+
+June 15----DATE
+
+May 13----DATE
+
+May 25----DATE
+
+drones----DETECTION_METHOD

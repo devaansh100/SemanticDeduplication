@@ -1,0 +1,87 @@
+
+['Inquiry ordered after after Corbett Tiger Reserve staff\'s involvement found in deer poaching- The New Indian Express\nVineet Upadhyay By Express News Service DEHRADUN: After alleged involvement of two employees of Corbett Tiger Reserve (CTR) in the poaching of Chital (spotted deer) inside the area, that Uttarakhand forest department on Friday ordered a high-level inquiry into the matter. The state\'s principal chief conservator of forests (PCCF) Jai Raj said, "An inquiry has already been ordered into the matter and report submitted. The CTR administration has apprised me that a senior officer of the rank of sub-divisional officer (SDO) forests is being sent to UP to get details of the case." Chital (Axis axis) which is also known as spotted deer is protected species under Schedule III of the Indian Wildlife (Protection) Act 1972. The inquiry was ordered after Uttar Pradesh police caught Pokhar Singh, a suspected poacher at CTR border in Afzalgarh area with the hide and meat of Chital deer. The involvement in the poaching incident comes after a report of two damaged camera traps emerged near the border area which the renowned tiger reserve shares with Uttar Pradesh. The officials of the reserve told The New Indian Express that they are investigating if camera traps was intentionally damaged by the poachers or the staff of the reserve. CTR director Rahul said that strict action will be taken against those responsible for damaging the camera traps and endangering the security of wildlife. Mahesh Kumar, circle officer Afzalpur, who caught Pokhar Singh with weapons such as draggers and net told that the arrested person confessed to killing the deer with the help of two CTR employees- Bhagga and Kinda. "The poacher also told us that they took Chital meat too. We have recovered more than 10 kg of deer meat from their houses. They are on the run and an search is being conducted to arrest them. All the three accused have been charged under relevant sections of Wildlife Protection Act 1972," said Kumar. Last month, the Wildlife Crime Control Bureau issued an alert asking the state government to increase surveillance after members of the notorious Bawaria gang were missing from their original spots in Haryana and Punjab. The gang is infamous for anti-wildife activities including poaching wild animals such as tigers, elephants and leopards. In February 2017, shoot-at-sight orders were issued within the reserve after movement of suspected poachers was reported near the southern boundary of the park. DEHRADUN: After alleged involvement of two employees of Corbett Tiger Reserve (CTR) in the poaching of Chital (spotted deer) inside the area, that Uttarakhand forest department on Friday ordered a high-level inquiry into the matter. The state\'s principal chief conservator of forests (PCCF) Jai Raj said, "An inquiry has already been ordered into the matter and report submitted. The CTR administration has apprised me that a senior officer of the rank of sub-divisional officer (SDO) forests is being sent to UP to get details of the case." Chital (Axis axis) which is also known as spotted deer is protected species under Schedule III of the Indian Wildlife (Protection) Act 1972. The inquiry was ordered after Uttar Pradesh police caught Pokhar Singh, a suspected poacher at CTR border in Afzalgarh area with the hide and meat of Chital deer. The involvement in the poaching incident comes after a report of two damaged camera traps emerged near the border area which the renowned tiger reserve shares with Uttar Pradesh. The officials of the reserve told The New Indian Express that they are investigating if camera traps was intentionally damaged by the poachers or the staff of the reserve. CTR director Rahul said that strict action will be taken against those responsible for damaging the camera traps and endangering the security of wildlife. Mahesh Kumar, circle officer Afzalpur, who caught Pokhar Singh with weapons such as draggers and net told that the arrested person confessed to killing the deer with the help of two CTR employees- Bhagga and Kinda. "The poacher also told us that they took Chital meat too. We have recovered more than 10 kg of deer meat from their houses. They are on the run and an search is being conducted to arrest them. All the three accused have been charged under relevant sections of Wildlife Protection Act 1972," said Kumar. Last month, the Wildlife Crime Control Bureau issued an alert asking the state government to increase surveillance after members of the notorious Bawaria gang were missing from their original spots in Haryana and Punjab. The gang is infamous for anti-wildife activities including poaching wild animals such as tigers, elephants and leopards. In February 2017, shoot-at-sight orders were issued within the reserve after movement of suspected poachers was reported near the southern boundary of the park.']
+
+
+Corbett Tiger Reserve----LOC.EXACT
+
+deer----SP.COMMON
+
+poaching-----CRIME.CAT
+
+two----SUS.NUMBER
+
+Corbett Tiger Reserve (CTR----LOC.EXACT
+
+poaching----CRIME.CAT
+
+Chital----SP.SPECIFIC
+
+(spotted deer----SP.SPECIFIC
+
+Uttarakhand forest department----AUTH.SEIZE
+
+Friday----DATE
+
+Uttar Pradesh police----AUTH.SEIZE
+
+Pokhar Singh----SUS.NAME
+
+CTR border in Afzalgarh area----LOC.EXACT
+
+hide----ITEM
+
+meat----ITEM
+
+Chital deer----SP.SPECIFIC
+
+draggers----ITEM
+
+net----ITEM
+
+deer----SP.COMMON
+
+more than 10 kg----QTY
+
+All the three accused have been charged under relevant sections of Wildlife Protection Act 1972----OUTCOME
+
+two----SUS.NUMBER
+
+Corbett Tiger Reserve----LOC.EXACT
+
+poaching----CRIME.CAT
+
+Chital----SP.SPECIFIC
+
+spotted deer----SP.SPECIFIC
+
+Uttarakhand forest department----AUTH.MISC
+
+Friday----DATE
+
+Pokhar Singh----SUS.NAME
+
+CTR border in Afzalgarh area----LOC.EXACT
+
+hide----ITEM
+
+meat----ITEM
+
+Chital deer----SP.SPECIFIC
+
+Mahesh Kumar----OFF.NAME
+
+circle officer----OFF.DESIG
+
+Pokhar Singh----SUS.NAME
+
+draggers and net----ITEM
+
+Bhagga----SUS.NAME
+
+Kinda----SUS.NAME
+
+more than 10 kg----QTY
+
+deer----SP.COMMON
+
+meat----ITEM

@@ -1,0 +1,43 @@
+
+['3 Held With Contraband Worth Rs 1.43 Cr in Nagaland\nNET Web Desk Recently, the security forces arrested three individuals, and retrieved Contraband worth Rs 1.43 Cr. A press release issued by the PRO, asserted to have seized these substances from a vehicle at 4th Mile, Dimapur. For further investigation, the 3 held along with recovered substance were handed over to the Customs Officials Dimapur Division. Meanwhile, based on a specific input, security forces in a joint operation with the State Police seized 1296 logs of smuggled Burma Teak, worth approx. Rs 5 crores at Thilixu, Dimapur District. For further investigation, the teaks retrieved were handed over to Forest Department, Dimapur District.']
+
+
+3----SUS.NUMBER
+
+Contraband----ITEM
+
+Rs 1.43 Cr----VALUE
+
+Nagaland----LOC.STATE
+
+security forces----AUTH.SEIZE
+
+arrested----CRIME.CAT
+
+three----SUS.NUMBER
+
+Contraband----ITEM
+
+Rs 1.43 Cr----VALUE
+
+vehicle----TRANSPORT_MODE
+
+4th Mile, Dimapur----LOC.EXACT
+
+3----SUS.NUMBER
+
+Customs Officials Dimapur Division----AUTH.MISC
+
+State Police----AUTH.SEIZE
+
+1296----QTY
+
+logs----ITEM
+
+Burma Teak----SP.SPECIFIC
+
+Rs 5 crores----VALUE
+
+Thilixu----LOC.EXACT
+
+Forest Department, Dimapur District----AUTH.MISC

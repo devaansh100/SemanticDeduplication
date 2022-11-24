@@ -1,0 +1,29 @@
+
+['Sidhu Moose Wala murder: Killer arrested from Pune\nAMRITSAR: The police have arrested shooter Santhosh Jadhav in connection with the murder case of Punjabi singer and Congress leader Sidhu Moose Wala. Santhosh Jadhav was nabbed by the rural police from Pune. This is the first arrest recorded from the killer gang. According to Delhi police, Jadhav, a member of Lawrence Bishnoi gang, is the mastermind behind the murder. Sidhu Moose Wala was killed on May 29. The state government had cut the security of more than 400 VVIPs, including Moose Wala, on May 28. The move was prompted by the need for additional officials for maintenance of law and order in the state.']
+
+
+Sidhu Moose----SP.SPECIFIC
+
+arrested----CRIME.CAT
+
+Pune----LOC.CITY
+
+police----AUTH.SEIZE
+
+arrested----CRIME.CAT
+
+shooter----SUS.AFFIL
+
+Santhosh Jadhav----SUS.NAME
+
+Santhosh Jadhav----SUS.NAME
+
+nabbed----OUTCOME
+
+rural police----AUTH.SEIZE
+
+Pune----LOC.CITY
+
+Lawrence Bishnoi gang----SUS.AFFIL
+
+May 29----DATE

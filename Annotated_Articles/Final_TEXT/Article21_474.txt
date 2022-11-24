@@ -1,0 +1,9 @@
+
+['Driver arrested with smuggled timber in Pulwama – Kashmir Reader\n________________________________ Support free and fair journalism Our endeavour to pursue free and fair journalism is possible only when we are both editorially and financially sound. We are the organisation that has dreamt of becoming a voice of the voiceless and has pledged to be with the truth. We will never give up; we will persevere to the last drop of our ink. MORE']
+
+
+arrested----CRIME.CAT
+
+timber----ITEM
+
+Pulwama----LOC.EXACT

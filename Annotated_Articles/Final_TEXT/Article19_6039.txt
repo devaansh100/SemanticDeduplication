@@ -1,0 +1,31 @@
+
+["Netherlands: Dutch Police Took A Bird In Their Custody For Shoplifting\nTo what is deemed uncanny, the Dutch police have arrested a bird and placed it in custody on September 29. The tiny parakeet bird was charged with charges of shoplifting and was kept in a jail cell in the Netherlands. The feathery friend accompanied the man when he violated the law while sitting on his shoulder and therefore, both 'partners in crime' have been arrested. This unusual case has made the netizens post hilarious comments after the police authorities shared a picture of the yellow and green bird behind bars with bread by its side. The sneaky witness The police officials arrested a suspect for shoplifting and during the arrest, they also found a “sneaky witness” with feathers and beak on the suspect's shoulder. Since the local law enforcement did not have a bird a cage while questioning the man, the feathered felon was quickly put in a Dutch police cell with a sandwich and water. After the picture was posted on Instagram, it was later reworked by a local news station by placing a black bar over its eyes in order to protect its identity. The police officials further assured that it was well cared for. Thinking about how the Dutch police arrested a bird for taking part in a robbery, put it in a jail cell with bread and water & when the media reported on it they put a little black bar over the face to protect its identity pic.twitter.com/2ly0zsoAw6 — Emma (@CampbellxEmma) September 29, 2019 Read - Margot Robbie To Play Harley Quinn In Her Upcoming Film Birds Of Prey Confused identity While the suspect was unusual, its identity became real confusing for the people on the internet. Some of them called the winged animal a parakeet, while others thought it is a dwarf parrot. According to the police, the bird called upon its right to remain silent and is by far not guilty of any crimes. This post sparked many funny comments. One of the internet users also called the feathery felon as a “gangster bird” and others straightforwardly asked the authorities to release him. Most of the internet users were also commenting “no words” as this particular case left them speechless. Read - One Of World's Oldest Bird Species Discovered In New Zealand Read - Flailing Purple Bird 'Trash Doves' Becomes A Cautionary Tale For Fame Read - Captain Hailed Hero After Bird Strike Disables Russian Plane "]
+
+
+Netherlands----LOC.STATE
+
+Dutch Police----AUTH.SEIZE
+
+A----QTY
+
+Bird----SP.COMMON
+
+Dutch police----AUTH.SEIZE
+
+arrested----CRIME.CAT
+
+a----QTY
+
+bird----SP.COMMON
+
+September 29----DATE
+
+arrested----CRIME.CAT
+
+feathers----ITEM
+
+beak----ITEM
+
+parakeet----SP.SPECIFIC
+
+dwarf parrot----SP.SPECIFIC

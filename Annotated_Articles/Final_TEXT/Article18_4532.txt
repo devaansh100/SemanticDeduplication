@@ -1,0 +1,59 @@
+
+['Tiger found dead in Madhya Pradesh’s Pench Reserve; officials suspect territorial fight with another feline\nRepresentative image Photo : iStock Bhopal : A carcass of a tiger, suspected to have been killed by another feline during a territorial fight, was recovered by the forest officials from A carcass of a tiger, suspected to have been killed by another feline during a territorial fight, was recovered by the forest officials from Pench Tiger Reserve (PTR) in Seoni district of Madhya Pradesh. With this, the number of deaths of the tigers in the State rose to five in the last 15 days, as reported by PTI. The deputy director of PTR, Rajneesh Kumar Singh said a forest patrolling team spotted the carcass of the big cat, which is around two years old, on Sunday in Kurai range. Singh stated following an inspection of the spot, it appears the tiger must have been killed by another adult tiger. The forest officer further said while blood stains were found on the spot, the attacking tiger ate most of the carcass of the dead animal after killing it. The front legs and teeth of the dead tiger were intact while the tail and hind legs along with nails of the big cat were found scattered in the surrounding area, Singh told the PTI. The forest department has started a thorough investigation into the incident and also engaged a dog squad. However, there is no evidence of suspicious activities like wildlife poaching at the spot, said the official. Earlier on April 9, a patrolling team of the forest department had spotted an adult tiger in the reserve area and it is being suspected that the same cat might have killed the feline. Singh said, the carcass of the big animal was disposed as per the guidelines laid down by the National Tiger Conservation Authority while the viscera was sent to a laboratory for detailed examination. At least four tigers have died in Seoni district of Madhya Pradesh since January. The last death reported in Seoni was on March 29, reported PTI. On April 3, a tiger was found dead in Lalbarra area of Balaghat district while on April 2 and April 3, carcasses of a tiger cub and an adult tiger were found in Satpura Tiger Reserve of Narmadapuram district, respectively. As per a data released by the All India Tiger Estimation Report-2018, Madhya Pradesh has a population of 526 tigers, the highest in any state in the country. MP has many tiger reserves which include Kanha Bandhavgarh , Pench, Satpura and Panna. Worth mentioning here is the Pench Tiger Reserves has been been conferred with the Conservation Assured Tiger Standards (CA|TS) international accreditation certificates, the Union Ministry of Environment, Forest & Climate Change recently announced.']
+
+
+Tiger----SP.COMMON
+
+found dead----CRIME.CAT
+
+Madhya Pradesh’s----LOC.STATE
+
+Pench Reserve----LOC.EXACT
+
+territorial fight with another feline----SP.COMMON
+
+carcass----ITEM
+
+tiger----SP.COMMON
+
+forest officials----AUTH.SEIZE
+
+carcass----ITEM
+
+tiger----SP.COMMON
+
+forest officials----AUTH.SEIZE
+
+Pench Tiger Reserve (PTR)----AUTH.SEIZE
+
+Seoni district----LOC.DISTRICT
+
+Madhya Pradesh----LOC.STATE
+
+carcass----ITEM
+
+big cat----SP.COMMON
+
+Sunday----DATE
+
+Kurai range----LOC.EXACT
+
+tail----ITEM
+
+nails----ITEM
+
+viscera was sent to a laboratory for detailed examination----OUTCOME
+
+Lalbarra area----LOC.EXACT
+
+April 2----DATE
+
+April 3----DATE
+
+carcasses----ITEM
+
+tiger----SP.COMMON
+
+Satpura Tiger Reserve----LOC.EXACT
+
+Narmadapuram----LOC.DISTRICT

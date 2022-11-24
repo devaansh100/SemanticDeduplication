@@ -1,0 +1,37 @@
+
+['BMC to set up culverts in Aarey for safe passage of wild animals\nThe cement concretisation work of the road in Aarey will be done at a cost of Rs 47cr with 26 wildlife underpasses in the 8-km stretch Officials and corporators discussed a total of 35 pending public interest issues in P-South ward in the meeting on Wednesday In what can be termed as good news for wildlife, Aarey Milk Colony roads will be made wildlife friendly with water culverts facilitating their movement. The cement concretisation work of the main road in Aarey will be done at a cost of Rs 47 crore with 26 wildlife underpasses in the 8-km stretch. The decision comes following a meeting in P-South ward on Wednesday. MLA Ravindra Waikar, senior BMC officials, officials from the Roads Department and Aarey CEO office as well as the traffic police and cops from Aarey Police station, SGNP Range Forest Officer Dinesh Desale and biologist Nikit Surve took part in the meeting. A total of 35 pending public interest issues in P-South ward were discussed in the meeting. Waikar said the bhoomi poojan ceremony of the cement concretisation work will soon be done at the hands of Environment Minister Aaditya Thackeray. A BMC official who was a part of the meeting said, “The committee appointed to suggest mitigation measures has submitted the report along with GPS coordinates. Based on their suggestions, the BMC will construct 19 culverts which will act as wildlife underpasses. The culverts will be designed in such a manner that it will help wild animals, reptiles and other creatures to cross the road safely. Once the CC road is made, speed breakers will be installed at important locations along with signages on speed limit and wildlife crossings so that motorists don’t accelerate while passing through the forested patch.” The contract for construction of CC road has been given to two contractors—one will construct the road from Western Express Highway at Goregaon to Filter Pada near S ward boundary, and the other will construct the stretch from Marol side to the picnic point. It may be noted that the civic body plans to shut the main road for traffic once the work starts. The traffic will be diverted via internal roads. Traffic department officials who were present in the meeting pointed out that the internal roads through which the traffic will be diverted are in bad condition, and added that these will have to be made motorable before the work starts.']
+
+
+BMC----AUTH.SEIZE
+
+Aarey----LOC.EXACT
+
+Aarey----LOC.CITY
+
+Rs 47cr with----VALUE
+
+Wednesday----DATE
+
+Rs 47 crore----VALUE
+
+MLA----OFF.DESIG
+
+Ravindra Waikar----OFF.NAME
+
+BMC officials----AUTH.SEIZE
+
+Roads Department----AUTH.SEIZE
+
+Aarey CEO office----AUTH.SEIZE
+
+traffic police----AUTH.SEIZE
+
+Aarey Police station----AUTH.SEIZE
+
+SGNP Range Forest Officer----OFF.DESIG
+
+Dinesh Desale----OFF.NAME
+
+biologist----OFF.DESIG
+
+Nikit Surve----OFF.NAME

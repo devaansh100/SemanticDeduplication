@@ -1,0 +1,49 @@
+
+['Leopard ensnared in deadly \'jaw-trap\' saved in Maharashtra\nA team of Maharashtra Forest Department and Wildlife SOS rescued a 3-year old female Leopard ensnared in a deadly \'jaw-trap\' outside a farmland. Image Source: IANS News A team of Maharashtra Forest Department and Wildlife SOS rescued a 3-year old female Leopard ensnared in a deadly \'jaw-trap\' outside a farmland. Image Source: IANS News A team of Maharashtra Forest Department and Wildlife SOS rescued a 3-year old female Leopard ensnared in a deadly \'jaw-trap\' outside a farmland. Image Source: IANS News A team of Maharashtra Forest Department and Wildlife SOS rescued a 3-year old female Leopard ensnared in a deadly \'jaw-trap\' outside a farmland. Image Source: IANS News A team of Maharashtra Forest Department and Wildlife SOS rescued a 3-year old female Leopard ensnared in a deadly \'jaw-trap\' outside a farmland. Image Source: IANS News Pune, Jan 7 : A team of forest officers and wildlife activists managed to rescue a 3-year-old female leopard ensnared in a deadly \'jaw-trap\' near Kuruli village in Pune district, officials said here on Thursday. The incident happened late on Monday and prompt intervention by the Maharashtra Forest Department and Wildlife SOS helped save the big cat\'s life. The Wildlife SOS at the Leopard Rescue Centre, Junnar got a call from Forest Department on the plight of the leopard stuck in the \'jaw-trap\' in a sugarcane field outside Kuruli. \'Jaw-traps\', though illegal, are lethal hunting devices that can cause severe injuries, fractures or even death of the wild animals trapped in it. In view of the gravity of the situation, a four-member team with safety nets, tranquilisers and other protective gear rushed to assist the forest officials in the rescue operation. They saw that the female leopard\'s left forelimb was caught in the steel teeth of the jaw-trap and it was desperately struggling to break free. After securing the field with safety nets, Wildlife SOS veterinary doctor Nikhil Bangar used a sedative injection to immobilise the big cat. They carefully removed the entrapped paw, checked for the visible injuries and administered first-aid before shifting her to the Junnar centre for further treatment. "She was in immense pain. Any further delays could have caused severe or permanent damage to her forelimb. We disinfected the wound, administering topical treatment before taking up a more detail examination," Bangar said. Wildlife SOS CEO Kartick Satyanarayan said that while timely help helped save the leopard\'s life, the threats posed by \'jaw-traps\' and \'snares\' is very real. "Despite being banned, they are used to trap of kill wild animals In the past few years, we have rescued several leopards, sloth bears, jackals, hyenas, wild boars and other from this heinous form of illegal hunting," Satyanarayan said. Regional Forest Officer (Shirur) Manohar R. Mhasekar said farmers set up such traps around their farmlands to prevent herbivorous animals from raiding or destroying their crops. "Unfortunately, even bigger and carnivorous animals get accidentally caught in these traps. There is a need to educate the people on the dangers and illegality of such actions," he said.']
+
+
+Leopard----SP.COMMON
+
+jaw-trap'----SP.COMMON
+
+Maharashtra----LOC.STATE
+
+Maharashtra Forest Department----AUTH.SEIZE
+
+Wildlife SOS----AUTH.SEIZE
+
+Maharashtra Forest Department----AUTH.SEIZE
+
+Wildlife SOS----AUTH.SEIZE
+
+Maharashtra Forest Department----AUTH.SEIZE
+
+Wildlife SOS----AUTH.SEIZE
+
+a----QTY
+
+3-year old female Leopard----SP.SPECIFIC
+
+Maharashtra Forest Department----AUTH.SEIZE
+
+Wildlife SOS----AUTH.SEIZE
+
+Maharashtra Forest Department----AUTH.SEIZE
+
+Wildlife SOS----AUTH.SEIZE
+
+forest officers----AUTH.SEIZE
+
+Kuruli village----LOC.EXACT
+
+Pune----LOC.DISTRICT
+
+Monday----DATE
+
+Maharashtra Forest Department----AUTH.SEIZE
+
+Wildlife SOS----AUTH.SEIZE
+
+safety nets----ITEM
+
+tranquilisers----ITEM

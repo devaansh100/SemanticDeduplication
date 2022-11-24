@@ -1,0 +1,39 @@
+
+['Ludhiana man held for smuggling leopard skin\nA Ludhiana man was arrested on Tuesday for animal skin smuggling after a joint team of local police, forest department and Wildlife Crime Control Bureau, New Delhi, recovered three leopard skins from his house at Prem Vihar. The accused has been identified as Sanjiv Kumar, who was under the Delhi bureau’s radar for some time. A complaint in this regard was made at the Tibba police station, said station house officer (SHO) inspector Ranbir Singh. A raid was conducted and Sanjiv was held following recoveries from his house, said the SHO. The suspect reportedly confessed that he used to get leopard skin from a resident of Jammu and Kashmir, and sell it further. The forest department suspects he was involved in the smuggling of other wild animals’ skin too. He will be produced in court on Wednesday, where police will seek his remand for questioning to trace the illegal trade chain. Leopard is listed under Schedule 1 (highest protection) of the Wildlife Protection Act. Its nails, teeth and bones are also in demand in the illegal wildlife market.']
+
+
+Ludhiana----SUS.LOC
+
+man----SUS.GENDER
+
+smuggling----CRIME.CAT
+
+leopard----SP.COMMON
+
+skin----ITEM
+
+Ludhiana----SUS.LOC
+
+man----SUS.GENDER
+
+arrested----CRIME.CAT
+
+Tuesday----DATE
+
+local police----AUTH.SEIZE
+
+forest department----AUTH.SEIZE
+
+Wildlife Crime Control Bureau, New Delhi----AUTH.SEIZE
+
+three----QTY
+
+leopard----SP.COMMON
+
+skins----ITEM
+
+Prem Vihar.----LOC.EXACT
+
+Sanjiv Kumar----SUS.NAME
+
+Jammu----SUS.LOC

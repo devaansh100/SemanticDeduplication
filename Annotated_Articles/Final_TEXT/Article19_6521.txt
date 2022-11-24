@@ -1,0 +1,29 @@
+
+["MP: Tiger Found Dead At Kanha Reserve\n  Mandla (MP), Dec 5 (PTI) The carcass of a tiger, who is suspected to have died of electrocution, was found at Madhya Pradesh's Kanha Tiger Reserve, a forest official said on Thursday. READ | Maharashtra: Tiger Walks 1,300 Km In Tipeshwar wildlife Sanctuary, Sets New Record  A patrolling team of the forest department found the one-week-old carcass in Mangli beat under Motinala buffer zone of the reserve on Wednesday evening, KTR's field director L Krishnamurthy said.  Wildlife veterinarians suspect that the tiger may have died due to electrocution, an official said. READ | Tiger Chases Tourist Safari Jeep At Ranthambore National Park  A post-mortem was conducted and the big cat was cremated on Thursday, as per the protocol of the National Tiger Conservation Authority (NTCA), he added."]
+
+
+MP----LOC.STATE
+
+Tiger----SP.COMMON
+
+Found Dead----CRIME.CAT
+
+Kanha Reserve----LOC.EXACT
+
+carcass----ITEM
+
+tiger----SP.COMMON
+
+electrocution----CRIME.CAT
+
+Madhya Pradesh's----LOC.STATE
+
+Kanha Tiger Reserve----LOC.EXACT
+
+Wednesday----DATE
+
+evening----TIME
+
+electrocution----CRIME.CAT
+
+post-mortem----OUTCOME

@@ -1,0 +1,25 @@
+
+['Another Leopard Electrocuted By Illegal Wire Fence\nJABALPUR: A leopard was killed by an electrified fence put up illegally by some villagers in Jabalpur to keep out wild animals from a farm. The carcass was found in the Indrana forest beat on Monday evening, district forest officer Anjana Shuchtia Tirki said. “It was sent to the veterinary hospital for autopsy, which was done on Tuesday. Prima facie , vets suspect electrocution was the cause of death,” she added.The site is around 40km north of Jabalpur city.“The animal was aged around 7 years. Locals had probably put up wires to shoo away animals from the farm and the leopard came in contact with them and died. We are carrying out a detailed investigation,” the DFO said. Many tigers and leopards have died this way.']
+
+
+Leopard----SP.COMMON
+
+Electrocuted----CRIME.CAT
+
+leopard----SP.COMMON
+
+Jabalpur----LOC.DISTRICT
+
+carcass----ITEM
+
+Indrana forest beat----LOC.EXACT
+
+Monday----DATE
+
+evening----TIME
+
+sent to the veterinary hospital----OUTCOME
+
+for autopsy----OUTCOME
+
+electrocution----CRIME.CAT

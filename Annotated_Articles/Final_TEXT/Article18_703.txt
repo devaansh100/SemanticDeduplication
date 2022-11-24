@@ -1,0 +1,23 @@
+
+['Forest officials alerted locals over tiger movement in Peddapalli district\nForest officials alerted locals over tiger movement in Peddapalli district By Telangana Today Published: Updated On - 07:51 PM, Mon - 27 June 22 File Photo. Peddapalli: In the wake of a reported sighting of tiger in adjacent Jayashankar-Bhupalapalli district, district forest officials on Monday alerted the people staying in villages located on the bank of Manair river in Manthani, Mutharam and Ramagiri mandals. It is learnt that an RTC driver from Bhupalapalli depot found the tiger crossing Bambulagadda Thigalavagu bridge in Jayashankar-Bhupalapalli district on Saturday night. Peddapalli forest officials alerted the residents of villages located on the bank of Manair river anticipating the possible entry of tiger into the district since the big cat had earlier toured in the district. Speaking to Telangana Today, district forest officer Ch Shivaiah said that there was a chance for the tiger to revisit the areas where it had moved earlier. So, they alerted the people staying in villages located on the bank of Manair river. It may be recalled here that the big cat, which reportedly entered the Telangana state from adjacent Chhattisgarh in the month of August 2020, moved in Mahamutharam, Malhar and Chityal mandals of Jayashankar-Bhupalapalli district. Moving 30 kilo meter distance per day in Bhupalapalli district, the tiger killed a cow in Yamanpur of Mahadevpur mandal on August 30, 2020. Later, it entered into Peddapalli district by crossing the Manair river near Chityal mandal of Jayashankar-Bhupalapalli district. First time, the pugmarks of Tiger were found near Koyyagutta of Adavisrirampur of Mutharam mandal in the month of September 2020. On September 7, the tiger killed a cow at Bagullagutta hillocks in the outskrits of Machupeta of Mutharam mandal and dragged the carcass about 100 meters away from the spot and ate the head. Forest officials had fixed four CC cameras to capture the movement of the tiger but in vain as the big cat did not revisit the spot again. After a gap of 15 months, the movement of the tiger was again found. On December 3, 2021, local people reportedly saw the big cat entering Adavisomanapalli of Manthani mandal by crossing the river near Koyyur of Bhupalapalli district.']
+
+
+Forest officials----AUTH.SEIZE
+
+tiger----SP.COMMON
+
+Peddapalli district----LOC.EXACT
+
+Peddapalli district----LOC.EXACT
+
+Jayashankar-Bhupalapalli district----LOC.DISTRICT
+
+district forest officials----AUTH.SEIZE
+
+Monday----DATE
+
+night----TIME
+
+pugmarks of Tiger----SP.COMMON
+
+September 2020----DATE

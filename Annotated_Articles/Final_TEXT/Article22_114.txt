@@ -1,0 +1,11 @@
+
+['Four leopard cubs rescued from sugarcane field in Maharashtra, reunited with mom. Watch\nThe videos that show people rescuing animals from unfavorable conditions are absolutely heartwarming to watch. Just like this clip posted on Twitter that shows rescuers helping four leopard cubs stuck in a sugarcane field in Maharashtra. Not just that, the video also shows the little ones getting reunited with their mom. Wildlife SOS, an organisation that “combats poaching, conflicts and rescue elephants, leopards and other wild animals”, posted the video on their official Twitter handle. “Recently, farmers welcomed a few unusual guests while harvesting sugarcane in Kabadwadi village in Junnar, #Maharashtra. Much to their surprise, four 2-month-old #leopard cubs were found huddled amidst the dense thicket! Watch the heartwarming video of the #rescue & reunion!” they wrote while posting the video. The video shows the rescuers taking the cubs to a medical centre to make sure that are healthy enough to be released into the wild. The wonderful clip also shows the rescuers setting up a reunion operation for the mom and the cubs. Take a look at the video: Recently, farmers welcomed a few unusual guests while harvesting sugarcane in Kabadwadi village in Junnar, #Maharashtra. Much to their surprise, four 2-month-old #leopard cubs were found huddled amidst the dense thicket!  Watch the heartwarming video of the #rescue & reunion! pic.twitter.com/l408Ybg5mQ — Wildlife SOS (@WildlifeSOS) April 6, 2022 The video has been posted a few days ago. Since being shared, the clip has accumulated more than 1,100 views. The share has also gathered nearly 250 likes. People also took to the comments section to showcase their reactions. “Heartwarming reunion, nothing like uniting with your lost family. All have the same emotions of longing and happiness,” posted a Twitter user. “Beautiful cubs and happy mama! Heartwarming when people care for wildlife. Thank you for the rescue and reunion!” posted another. “Beautiful. Thank you wildlife SOS,” wrote a third. What are your thoughts on the video?']
+
+
+Four----QTY
+
+leopard----SP.COMMON
+
+sugarcane field----LOC.EXACT
+
+Maharashtra----LOC.STATE

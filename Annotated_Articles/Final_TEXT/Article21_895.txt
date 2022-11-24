@@ -1,0 +1,61 @@
+
+['STF Seizes One Elephant Tusk In Bolangir, One Held\nBhubaneswar: The Special Task Force (STF) of Odisha Crime Branch on Tuesday seized one elephant tusk with the arrest of one wildlife criminal near Gudvela village under Tusura Police Station in Bolangir district. On the basis of reliable information regarding illegal possession of elephant tusk by wildlife criminals, the STF team had conducted a raid with the help of Deogoan Territorial Forest Range officials under Bolangir Forest Division yesterday. As a result of which, the accused person namely Bipul Bag of Nimusingh under Tusura police limits of Bolangir district was apprehended. During the search, one elephant tusk and other incriminating materials were seized from his possession. On measurement, the weight of the tusk was around 9 kg. The accused person could not produce any valid authority in support of the possession of such elephant tusk, for which he was detained and handed over to Bolangir forest officials for necessary legal action at their end. Since 2020, the STF has launched a special drive against wildlife criminals/poachers and has seized as many as 21 leopard skins, 12 elephant tusks, two deer skins, eight live pangolins, and 15 kg pangolin scales and arrested 48 wildlife criminals.']
+
+
+STF----AUTH.SEIZE
+
+Seizes----CRIME.CAT
+
+One----QTY
+
+Elephant----SP.COMMON
+
+Tusk----ITEM
+
+Bolangir----LOC.DISTRICT
+
+One----SUS.NUMBER
+
+Special Task Force (STF)----AUTH.SEIZE
+
+Tuesday----DATE
+
+seized----CRIME.CAT
+
+one----QTY
+
+elephant----SP.COMMON
+
+tusk----ITEM
+
+one----SUS.NUMBER
+
+Gudvela village----LOC.EXACT
+
+Bolangir----LOC.DISTRICT
+
+reliable information----DETECTION_METHOD
+
+illegal possession----CRIME.CAT
+
+tusk----ITEM
+
+STF----AUTH.SEIZE
+
+raid----DETECTION_METHOD
+
+Deogoan Territorial Forest Range officials----AUTH.SEIZE
+
+yesterday----DATE
+
+Bipul Bag----SUS.NAME
+
+Nimusingh----SUS.LOC
+
+one----QTY
+
+elephant----SP.COMMON
+
+tusk----ITEM
+
+9 kg----QTY

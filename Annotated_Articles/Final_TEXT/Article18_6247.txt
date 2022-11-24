@@ -1,0 +1,19 @@
+
+['Mice, frogs and beetles ride on snake’s back to escape Queensland floods\nA snake has gone viral on TikTok after apparently rescuing a posse of mice, frogs and beetles from the floods currently hammering Queensland in northeastern Australia. A clip was uploaded to the app by “carleen2332” of the snake floating in a rainwater tank and bearing the creatures to safety on its back like an incident from a child’s book of fables. Interestingly, the reptile has been identified by 9 News as an eastern brown snake, a species that is indeed native to the region but which ordinarily feeds on mice, frogs and beetles, suggesting this particular snake either really is a selfless hero or, alternatively, just deeply cunning, playing the long game and saving the creatures now with a view to devouring them later. An initial attempt to retreive the animals with a pole reportedly failed, only causing the snake to become agitated, traverse the tank and lose one mouse overboard. However, the poster of the video assured her followers that all parties were subsequently rescued and returned to dry land. “The most Australian thing I’ve seen today,” one commentator responded, with many agreeing that the whole affair represented an admirable display of teamwork. Queensland has been hit by torrential downpours since Friday, with Brisbane suffering 677mm of rainfall in three days and flash flooding hitting the south east of the state along the Gold Coast. “The Brisbane River is expected to peak around 4 metres with the high tide on Monday morning and should see…']
+
+
+Mice----SP.COMMON
+
+frogs----SP.COMMON
+
+beetles----SP.COMMON
+
+snake’s----AUTH.SEIZE
+
+snake----SP.COMMON
+
+mice----SP.COMMON
+
+frogs----SP.COMMON
+
+beetles----SP.COMMON

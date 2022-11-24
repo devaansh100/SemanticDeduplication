@@ -1,0 +1,49 @@
+
+['Tiger skin, paws seized from MP village; one arrested\nA team of the Nagpur forest division recovered a tiger skin and four paws of the wild animal from a village in adjoining Madhya Pradesh and arrested one person, a senior official of the Maharashtra forest department said on Friday. In a statement here, DCF (Deputy Conservator of Forests) Nagpur Dr Bharat Singh Hada said the team conducted a raid at a farm in Bichhawasani village in Madhya Pradesh on Thursday night and seized the tiger skin and the paws. The farm owner, Motilal Salame (55), was arrested, he said. Salame is suspected to be involved in the smuggling of tiger body parts, the official said, adding further investigation was on. (This story has not been edited by Devdiscourse staff and is auto-generated from a syndicated feed.)']
+
+
+Tiger----SP.COMMON
+
+skin----ITEM
+
+paws----ITEM
+
+seized----CRIME.CAT
+
+MP----LOC.STATE
+
+one----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+Nagpur forest division----AUTH.SEIZE
+
+a----QTY
+
+tiger----SP.COMMON
+
+skin----ITEM
+
+four----QTY
+
+paws----ITEM
+
+Madhya Pradesh----LOC.STATE
+
+one----SUS.NUMBER
+
+DCF (Deputy Conservator of Forests) Nagpur----OFF.DESIG
+
+Dr Bharat Singh Hada----OFF.NAME
+
+raid----DETECTION_METHOD
+
+Bichhawasani village in Madhya Pradesh----LOC.EXACT
+
+Thursday----DATE
+
+night----TIME
+
+Motilal Salame----SUS.NAME
+
+55----SUS.AGE

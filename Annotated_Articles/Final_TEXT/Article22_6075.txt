@@ -1,0 +1,21 @@
+
+['Bear Electrocuted To Death\nSRINAGAR: A wild bear was electrocuted to death in Cheshmashahi area of Srinagar on Saturday late night. Quoting official sources news agency KNO reported that a wild bear was killed by electric shock when it climbed a utility pole in outdoor yard on 33KV line in Cheshmashahi area of Srinagar. They said that the Wild life department officials reached the spot and took the bear into their custody.']
+
+
+Bear----SP.COMMON
+
+Electrocuted To Death----CRIME.CAT
+
+wild bear----SP.SPECIFIC
+
+electrocuted to death----CRIME.CAT
+
+Cheshmashahi area----LOC.EXACT
+
+Srinagar----LOC.CITY
+
+Saturday----DATE
+
+late night----TIME
+
+Wild life department officials----AUTH.SEIZE

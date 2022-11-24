@@ -1,0 +1,39 @@
+
+['Migratory bird hunter arrested in Khurda, seven bird carcasses recovered\nKhurda: Officials of Tangi Wildlife Division Sunday arrested a person on the charge of poaching migratory birds in Chilika. As many as seven carcasses of migratory birds were also recovered from him. The accused has been identified as Gopal Sahu. The ongoing lockdown has proved to be a boon for bird hunters. Since the police administration’s focus has been on enforcing COVID guidelines on roads, the poachers cashing in on the situation are hunting birds in Chilika. Like many others, Gopal had been in the illegal trade of purveying hunted birds to customers for past several days. He had a well-settled territory in Chilika where he used to hunt birds fearlessly. Dhabas, hotels and some influential persons were his permanent customers. He used to sell these birds at an exorbitant price, a source said. According to Tangi Wildlife Division ranger Sushree Chudamani Murmu, the division had been tipped off about the presence of Gopal at a place near Bidharpur near Bhushandpur area in Khurda district. A team of the division conducted a raid at the place and arrested the poacher. “Due process has been initiated to produce him in a court Sunday,” informed the ranger. PNN']
+
+
+Migratory bird hunter----SUS.AFFIL
+
+arrested----CRIME.CAT
+
+Khurda----LOC.DISTRICT
+
+seven----QTY
+
+bird carcasses----ITEM
+
+Tangi Wildlife Division----AUTH.SEIZE
+
+Sunday----DATE
+
+arrested----CRIME.CAT
+
+a----SUS.NUMBER
+
+Chilika----ROUTE.SRC
+
+seven----QTY
+
+carcasses of migratory birds----ITEM
+
+Gopal Sahu----SUS.NAME
+
+Gopal----SUS.NAME
+
+tipped off----DETECTION_METHOD
+
+Gopal----SUS.NAME
+
+near Bidharpur near Bhushandpur area----LOC.EXACT
+
+Khurda district----LOC.DISTRICT

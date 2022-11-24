@@ -1,0 +1,39 @@
+
+['11 migratory birds found dead in Koderma, poisoning suspected\nKoderma: As many as 11 migratory birds were found dead in Jamukhari under Chandwara police station limits in Koderma , officials said on Monday. “We found a bottle of poison beside the carcasses and we suspect that the birds were poisoned to death by some unidentified poachers ,” divisional forest officer Suraj Kumar Singh said. He added, “The dead birds were identified as Eurasian coot, a member of the Rallidae bird family. The carcasses have been sent for a post mortem.”This is the second incident of bird poaching in Jamukhari in the recent past. Earlier, the forest department found carcasses of 40 birds there. “We have set up an anti-poaching team and our crackdown on poachers will be strengthened further,” Singh said.Every year migratory birds flock to Jamukhari — which falls in the catchment area of Telaiya dam, an ‘Important Bird Area’ as per International Union for Conservation of Nature in 2017. However, according to locals, there has been a decline in the number of migratory birds visiting the dam recently.']
+
+
+11----QTY
+
+migratory birds----SP.COMMON
+
+Koderma----LOC.EXACT
+
+poisoning----CRIME.CAT
+
+11----QTY
+
+migratory birds----SP.COMMON
+
+Jamukhari----LOC.DISTRICT
+
+bottle of poison----ITEM
+
+carcasses----ITEM
+
+poisoned to death----CRIME.CAT
+
+poachers----SUS.AFFIL
+
+Eurasian coot----SP.SPECIFIC
+
+carcasses have been sent for a post mortem----OUTCOME
+
+bird poaching----CRIME.CAT
+
+Jamukhari----LOC.EXACT
+
+forest department----AUTH.SEIZE
+
+carcasses----ITEM
+
+40----QTY

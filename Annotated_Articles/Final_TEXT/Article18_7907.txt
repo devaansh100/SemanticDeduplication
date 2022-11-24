@@ -1,0 +1,31 @@
+
+['Rescued Indian pangolin released to its habitat on World Pangolin Day\nThane: \u200bThe forest officials on Saturday- which also happened to be the World Pangolin Day- released an Indian pangolin to its natural habitat after rescuing it from an illegal wildlife trade. According to the wildlife officials, on February 16, the Turbhe police intercepted a car near Shiravane MIDC, after conducting a search, they found a live Indian pangolin stuffed in the black cloth bag. Police immediately arrested four accused, native of Ratnagiri district and registered offences under relevant sections of Wildlife Protection act 1972. Though this pangolin was lucky to live, several in the same situation do not survive. They are captured and sold for their scales and meat, which many believe have medicinal properties and due to this, rampant trade of this species is pushing pangolins towards extinction. Aditya Patil, president of Wildlife Welfare Association (WWA) shared, “The police informed the WWA and Thane Forest department of the development. Upon reaching the spot, we found that the pangolin was completely dehydrated and traumatised due to captivity and stressed by travelling. We took the animal to a local clinic, where it was given fluids for hydration. After some time, it started showing improvement and accepted the feed of mealworms.” Patil further informed, “The pangolin was kept under observation for two days to stabilise and show signs of improvement and increase in activity. After doing the final round of fitness checks, on Saturday, the pangolin was released at a safe place in the presence of forest officials and police.” Animal rights activists stress on the need to create awareness aggressively among people on the illegal trade of pangolins, especially tribals/farmers who share their landscape with them. An officer from Thane forest department shared, “With the alertness of the police, the pangolin was rescued on time. The forest officials and the members of WWA also managed to look after its health. We are glad we could release the pangolin on the special occasion of World Pangolin Day.” SHARE THIS ARTICLE ON']
+
+
+Indian pangolin----SP.SPECIFIC
+
+forest officials----AUTH.SEIZE
+
+Indian pangolin----SP.SPECIFIC
+
+February 16----DATE
+
+Turbhe police----AUTH.SEIZE
+
+intercepted----DETECTION_METHOD
+
+car----TRANSPORT_MODE
+
+Indian pangolin----SP.SPECIFIC
+
+black cloth bag----CONCEALMENT_METHOD
+
+four----SUS.NUMBER
+
+Ratnagiri----SUS.LOC
+
+registered offences under relevant sections of Wildlife Protection act 1972----OUTCOME
+
+WWA and Thane Forest department----AUTH.SEIZE
+
+WWA----AUTH.SEIZE

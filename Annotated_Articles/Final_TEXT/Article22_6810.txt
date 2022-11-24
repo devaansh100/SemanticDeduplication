@@ -1,0 +1,27 @@
+
+['Wild boar attack at poultry farm shatters hopes of Malappuram couple\nMalappuram: Rajesh and Leena, a couple at Illikatt here are staring at a bleak future as 50 chickens in their small poultry farm were killed in wild boar attack.The wild boar attack was took place on Saturday night. The couple who was earning a livelihood from this farm is completely shattered with this incident. The wild boars destroyed the coop and killed the chickens. According to locals, these wild boars strayed into the village from Kariyamuriyam forest. While, it may be noted that the region where the incident happened is 5km away from the forest. The people here have switched from agriculture and found solace in activities like poultry as wild animals rampantly damage their crop. The plight of the couple has sent shockwave across the households involved in similar occupations.']
+
+
+Wild boar----SP.COMMON
+
+attack----CRIME.CAT
+
+Malappuram----LOC.STATE
+
+Rajesh----SUS.NAME
+
+Leena----SUS.NAME
+
+Illikatt----LOC.EXACT
+
+50----QTY
+
+chickens----SP.COMMON
+
+wild boar attack----SP.COMMON
+
+Saturday----DATE
+
+night----TIME
+
+wild boars----SP.COMMON

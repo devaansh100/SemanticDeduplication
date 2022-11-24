@@ -1,0 +1,89 @@
+
+['Hunters hired to kill elephants in Boudh\nBy Express News Service BERHAMPUR: Recovery of carcasses of two tuskers during last week in Baghiapada and Bankamundi reserve forests in Boudh district has brought the focus back on the safety of the gentle giants with rampant poaching continuing unabated due to alleged inaction of the Forest department. While three forest personnel were suspended and as many villagers were arrested in this connection, the spate of elephant deaths has put the spotlight on the Forest Department which is already under the scanner following the recent Athagarh tragedy where two jumbo carcasses were exhumed from Baramba range. Following the incident, a forester and guard had been suspended amid allegations of suppression of information being levelled against officials at the divisional level. Sources said on May 23, forest staff recovered the carcass of a tuskless elephant while patrolling in Bankamundi section. The postmortem indicated that poachers had killed the jumbo for ivory and buried its body in a hurry after removing the tusks. A day later, another tuskless elephant carcass was recovered from Bhurkipada forest under Baghiapada section. The recovery of two carcasses in a span of three days brought forest officials on their toes and an investigation started. On May 29, Boudh DFO suspended three forest officials for negligence in tracking the elephants’ movement and their safety. Investigation revealed that hunters hired by the ganja mafia had poached the two tuskers for ivory. It is believed they took the tusks along with `50,000 for each tusker. Official sources said alongside growing paddy, villagers across Boudh take up cannabis cultivation with support from ganja mafia as police or forest officials seldom visit the dense forest areas. As jumbo herds were causing extensive damage to the hemp crops and impeding their thriving business for a few years, the ganja mafia had hired hunters to kill the elephants. On June 3, forest sleuths also arrested three persons of Brigada village for their alleged involvement. Boudh DFO Debapriya Kampha confirmed the suspension of three forest personnel and said the locals arrested were produced in court. “We got the information about presence of hunters from other places but other details will be ascertained only after completion of the investigation,” he said. BERHAMPUR: Recovery of carcasses of two tuskers during last week in Baghiapada and Bankamundi reserve forests in Boudh district has brought the focus back on the safety of the gentle giants with rampant poaching continuing unabated due to alleged inaction of the Forest department. While three forest personnel were suspended and as many villagers were arrested in this connection, the spate of elephant deaths has put the spotlight on the Forest Department which is already under the scanner following the recent Athagarh tragedy where two jumbo carcasses were exhumed from Baramba range. Following the incident, a forester and guard had been suspended amid allegations of suppression of information being levelled against officials at the divisional level. Sources said on May 23, forest staff recovered the carcass of a tuskless elephant while patrolling in Bankamundi section. The postmortem indicated that poachers had killed the jumbo for ivory and buried its body in a hurry after removing the tusks. A day later, another tuskless elephant carcass was recovered from Bhurkipada forest under Baghiapada section. The recovery of two carcasses in a span of three days brought forest officials on their toes and an investigation started. On May 29, Boudh DFO suspended three forest officials for negligence in tracking the elephants’ movement and their safety. Investigation revealed that hunters hired by the ganja mafia had poached the two tuskers for ivory. It is believed they took the tusks along with `50,000 for each tusker. Official sources said alongside growing paddy, villagers across Boudh take up cannabis cultivation with support from ganja mafia as police or forest officials seldom visit the dense forest areas. As jumbo herds were causing extensive damage to the hemp crops and impeding their thriving business for a few years, the ganja mafia had hired hunters to kill the elephants. On June 3, forest sleuths also arrested three persons of Brigada village for their alleged involvement. Boudh DFO Debapriya Kampha confirmed the suspension of three forest personnel and said the locals arrested were produced in court. “We got the information about presence of hunters from other places but other details will be ascertained only after completion of the investigation,” he said.']
+
+
+Hunters----SUS.AFFIL
+
+kill----CRIME.CAT
+
+elephants----SP.COMMON
+
+Boudh----LOC.DISTRICT
+
+carcasses----ITEM
+
+last week----DATE
+
+Baghiapada----LOC.EXACT
+
+Bankamundi reserve forests----LOC.EXACT
+
+poaching----CRIME.CAT
+
+Forest department----AUTH.SEIZE
+
+three----SUS.NUMBER
+
+May 23----DATE
+
+forest staff----AUTH.SEIZE
+
+carcass----ITEM
+
+patrolling----DETECTION_METHOD
+
+carcass----ITEM
+
+Bhurkipada forest----LOC.EXACT
+
+two----QTY
+
+carcasses----ITEM
+
+three----SUS.NUMBER
+
+June 3----DATE
+
+forest sleuths----AUTH.SEIZE
+
+three----SUS.NUMBER
+
+Brigada village----SUS.LOC
+
+carcasses----ITEM
+
+last week----DATE
+
+Baghiapada----LOC.EXACT
+
+poaching----CRIME.CAT
+
+Forest department----AUTH.SEIZE
+
+May 23----DATE
+
+forest staff----AUTH.SEIZE
+
+carcass----ITEM
+
+elephant----SP.COMMON
+
+patrolling----DETECTION_METHOD
+
+carcass----ITEM
+
+Bhurkipada forest----LOC.EXACT
+
+two----QTY
+
+carcasses----ITEM
+
+three----SUS.NUMBER
+
+June 3----DATE
+
+forest sleuths----AUTH.SEIZE
+
+three----SUS.NUMBER
+
+Brigada village----SUS.LOC

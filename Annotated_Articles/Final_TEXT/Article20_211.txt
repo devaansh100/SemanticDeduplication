@@ -1,0 +1,39 @@
+
+['Leopard’s body found in Nainital, poaching suspected\nNainital: A leopard ’s body was found dead in the Jeolikote area of Nainital district on Tuesday. The leopard’s body was decaying and is predicted to be at least a month old. Locals also found a trap wire around its neck which raises suspicion of poaching.A local Paras Raj Bora spotted the leopard’s remains while he was on a stroll in the area and informed the forest department. “I found that the remains of leopard were trapped in a wire. The remains were decaying and it seems that the body is at least a month old. I immediately informed the forest department and then, the officials took the body,” Bora told TOI. He lives around 300 metres away from the spot where the leopard’s body was found.Bora added that this is the third such incident in the area. “In June 2018, a leopard was found trapped just a few metres away from the spot. Later, he was rescued by the forest department and sent to Ranibagh’s rescue centre. Similarly, in July 2019, another leopard was trapped in the wire and it died in the forest fire just around 200 metres from here,” Bora added.Meanwhile, the forest department officials who visited the spot said that they have taken the body and a forensic analysis will reveal the cause of the leopard’s death. “We have taken the remains into custody and a forensic analysis will be conducted to ascertain the cause of the leopard’s death. Anything conclusive can only be said after the analysis,” said the official present on the spot.']
+
+
+Leopard----SP.COMMON
+
+body----ITEM
+
+Nainital----LOC.DISTRICT
+
+poaching----CRIME.CAT
+
+leopard----SP.COMMON
+
+body----ITEM
+
+Jeolikote area----LOC.EXACT
+
+Tuesday----DATE
+
+leopard----SP.COMMON
+
+trap wire----CONCEALMENT_METHOD
+
+poaching.A----SUS.AFFIL
+
+Paras Raj Bora----OFF.NAME
+
+leopard----SP.COMMON
+
+stroll----DETECTION_METHOD
+
+forest department----AUTH.SEIZE
+
+leopard----SP.COMMON
+
+forensic analysis----OUTCOME
+
+forensic analysis will be conducted----OUTCOME

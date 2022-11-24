@@ -1,0 +1,39 @@
+
+['Leopard found dead in MP’s Jabalpur district; electrocution suspected\nJabalpur (MP), Feb 16 (PTI) The carcass of a leopard was found in Madhya Pradesh’s Jabalpur district, an official said on Wednesday and added that electrocution could be the prima facie cause behind the death of the feline. Divisional Forest Officer (DFO) Anjana Tirkey said that Forest officials had received the information about the carcass of a leopard, aged around seven years, lying in the Indrana forest area on Monday evening. Veterinarians who conducted a postmortem of the carcass have informed that the leopard might have been died due to electrocution, the DFO told reporters. “It is possible that this leopard might have come in contact with electric wires laid by farmers to protect their crops from wild animals,” Tirkey said. A case has been registered and further investigation is underway, she added. PTI COR ADU NSK NSK This report is auto-generated from PTI news service. ThePrint holds no responsibility for its content.']
+
+
+Leopard----SP.COMMON
+
+found dead----CRIME.CAT
+
+MP’s----LOC.STATE
+
+Jabalpur----LOC.DISTRICT
+
+electrocution----CRIME.CAT
+
+carcass----ITEM
+
+leopard----SP.COMMON
+
+Madhya Pradesh’s----LOC.STATE
+
+Jabalpur----LOC.DISTRICT
+
+electrocution----CRIME.CAT
+
+carcass----ITEM
+
+leopard----SP.COMMON
+
+Indrana forest area----LOC.EXACT
+
+Monday----DATE
+
+evening----TIME
+
+electrocution----CRIME.CAT
+
+case has been registered----OUTCOME
+
+further investigation is underway----OUTCOME

@@ -1,0 +1,55 @@
+
+['Forest Guards Seize 2 Tusks, 6 From Tn And Kerala Arrested\nMANGALURU: Officials from the Puttur sub-division of Mangaluru forest division seized two elephant tusks and arrested six persons on Saturday.Department officials said their personnel intercepted a vehicle on the Mani-Mysuru bypass road and seized two tusks and arrested Shashikumar,35, Sathish,30, Vijnesh,34, Vinith,35, Sampath Kumar,33, and Rathish,35, from Tamil Nadu and Kerala. The accused have been remanded in judicial custody till July 1.The four accused had got the tusks from Mamalapuram in Tamil Nadu, and had been to Thiruvananthapuram via Coimbatore.']
+
+
+Forest Guards----AUTH.SEIZE
+
+Seize----CRIME.CAT
+
+2----QTY
+
+Tusks----ITEM
+
+6----SUS.NUMBER
+
+Kerala----LOC.STATE
+
+Arrested----CRIME.CAT
+
+Puttur sub-division of Mangaluru forest division----AUTH.SEIZE
+
+seized----CRIME.CAT
+
+two----QTY
+
+elephant----SP.COMMON
+
+tusks----ITEM
+
+six----SUS.NUMBER
+
+Saturday.Department----DATE
+
+vehicle----TRANSPORT_MODE
+
+two----QTY
+
+tusks----ITEM
+
+Shashikumar,35----SUS.NAME
+
+Sathish,30----SUS.NAME
+
+Vijnesh,34----SUS.NAME
+
+Vinith,35----SUS.NAME
+
+Sampath Kumar,33----SUS.NAME
+
+Rathish,35----SUS.NAME
+
+Tamil Nadu----SUS.LOC
+
+remanded in judicial custody----OUTCOME
+
+Mamalapuram in Tamil Nadu----ROUTE.SRC

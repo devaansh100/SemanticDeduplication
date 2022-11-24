@@ -1,0 +1,17 @@
+
+["Mizoram : Sixteen More Pigs Died Due To 'African Swine Fever (ASF)'\nNET Web Desk Atleast 16 more pigs died of African Swine Fever (ASF) in Mizoram, bringing the total number of pigs killed by the disease to 770 in just over two months. Since February of this year, at least 124 pigs have been slaughtered to prevent the spread of the disease, he added. “In addition, 205 pigs are believed to have perished of African Swine Fever. The outbreak has hit at least 17 villages in the Aizawl, Champhai, Lunglei, and Saitual districts,” according to animal husbandry and veterinary department joint director Dr Lalhmingthanga. As per the ‘National Action Plan for Control, Containment, and Eradication of African Swine Fever,’ the state government is striving to avert the spread of the pig disease. Following the outbreak of ASF this year, Mizoram has already banned the import of pigs and pork products from other states. Last year, 33,417 pigs perished as a result of the ASF outbreak, resulting in monetary losses of Rs 60.82 crores. Its worthy to note that the African Swine Fever (ASF) is a highly contagious haemorrhagic viral disease of domestic and wild pigs."]
+
+
+Sixteen More----SUS.NUMBER
+
+Pigs----SP.COMMON
+
+African Swine Fever (ASF----SP.SPECIFIC
+
+16----QTY
+
+pigs----SP.COMMON
+
+African Swine Fever (ASF)----SP.SPECIFIC
+
+Mizoram----LOC.STATE

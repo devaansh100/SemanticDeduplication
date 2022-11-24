@@ -1,0 +1,39 @@
+
+['Man held for poaching seahorses, sea cucumbers\nForest officials have arrested a 36-year-old man on the charge of poaching seahorses and sea cucumbers at Palakkudi fish landing point in Manamelkudi taluk in the district. Thirty-five seahorses and eight sea cucumbers were seized from S. Vellaisamy of Ayyampattinam village in Manamelkudi taluk on Wednesday. The accused was involved in the sale of conch shells, a press release from the Forest Department said. Vellaisamy was produced before a court at Aranthangi and remanded to judicial custody. He was lodged in Tirumayam sub jail. A case was registered against him under the The Wildlife (Protection) Act, 1972.']
+
+
+Man----SUS.GENDER
+
+poaching----CRIME.CAT
+
+seahorses----SP.COMMON
+
+sea cucumbers----SP.COMMON
+
+Forest officials----AUTH.SEIZE
+
+arrested----CRIME.CAT
+
+36-year-old----SUS.AGE
+
+man----SUS.GENDER
+
+seahorses----SP.COMMON
+
+sea cucumbers----SP.COMMON
+
+Palakkudi fish landing point in Manamelkudi taluk----LOC.EXACT
+
+Thirty-five----QTY
+
+seahorses----SP.COMMON
+
+eight----QTY
+
+sea cucumbers----SP.COMMON
+
+S. Vellaisamy----SUS.NAME
+
+Ayyampattinam village----SUS.LOC
+
+Wednesday----DATE

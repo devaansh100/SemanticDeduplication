@@ -1,0 +1,15 @@
+
+["Nagaland: Shocking Video Shows Great Indian Hornbill Tortured To Death; Accused Arrested\nIn a shocking incident from Nagaland, a horrifying video has surfaced showing a man torturing a Great Indian Hornbill to death as bystanders remain mere spectators. The incident which took place in Nagaland's Wokha district triggered massive outrage as the viral video spread across social media platforms. This comes from a state which is known for celebrating the Hornbill Festival, named after the hornbill, one of the most respected bird species in Nagaland. In the meantime, after the video went viral, police also took action and arrested the accused under various non-bailable sections including the Wildlife and Arms Act for torturing and killing the endangered bird. In the video, a man can be seen mercilessly thrashing the bird with a stick while it continues to scream in pain. Later, he steps on the bird's neck with his foot leading to its death while bystanders do nothing to intervene. The video has not only garnered the attention of netizens but also animal rights activists who have called out the district administration for taking stern actions against the offenders. The Green Succession of Nagaland State (Green SONS) through a press release has appreciated the wildlife and the police departments for taking speedy action taken against the perpetrators. The government's appeal to stop hunting hornbills Notably, Hornbill is considered very significant in Naga tribes and its importance can be seen in the folklore and songs sung during the entire Hornbill Festival. Not just that, the feathers and beak of the bird are also used to decorate the head gears of the tribals as it is known as a status symbol. The people also believe that oil extracted from a hornbill helps in curing pain. However, as the hunting of these birds has grown in the past few years making it an endangered species, the government has repeatedly asked people to refrain from hunting hornbills and instead appealed to save them. Also, the Great Indian Hornbill has been listed as a vulnerable species on the IUCN Red List since 2018. (Image: Shutterstock)"]
+
+
+Great Indian Hornbill----SP.SPECIFIC
+
+Tortured----CRIME.CAT
+
+Arrested----CRIME.CAT
+
+man----SUS.GENDER
+
+Great Indian Hornbill----SP.SPECIFIC
+
+Wokha district----LOC.DISTRICT

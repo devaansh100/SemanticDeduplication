@@ -1,0 +1,27 @@
+
+['Snake on a plane: Python travels from Queensland to Glasglow in a shoe\nAlthough the snake was non-venomous, it was enough to scare the woman. Imagine opening your suitcase to find a python curled up inside. That’s exactly what happened to a Scottish woman who opened her bag in her Glasglow home after returning from a vacation in Queensland, Australia. Moira Boxall found that a small spotted python had hitchhiked 15000 km coiled up in a shoe. Shocked to discover a live snake in her shoe, Boxall quickly alerted an animal protection agency in Scotland to rescue the tourist. According to her son-in-law, Paul Airlie, Boxall had claimed she saw a snake in her room when she was preparing to leave, but resumed packing after a search yielded nothing. “She was not at all expecting to find the snake when she was unpacking a bag when she got back to Scotland,” he told ABC Australia. “Obviously she just picked the shoe up and stuck it in the bag and then it was there. Somehow or other it got from Mackay to Glasgow without being detected,” he said. The Scottish SPCA, who were contacted by Boxall, quickly reached her home to rescue the snake. “When I arrived, the snake had been contained by the caller, so I safely removed the snake from the property. Upon examination, the snake was found to be a spotted python which is not venomous,” animal rescue officer Taylor Johnstone told the Evening Times. The snake shed its skin during the course of the long journey with stopovers in Brisbane and Dubai, and Boxall initially thought it was a toy her family had planted as a joke! The 72-year-old told The Telegraph, “I honestly thought it was toy and my family were playing a joke on me. But then it started moving, I saw its head and its fangs were going. I got the biggest shock of my life.” Advertisement The reptile is presently in quarantine at the SPCA’s rescue and re-homing centre in Edinburgh.']
+
+
+Snake----SP.COMMON
+
+plane----TRANSPORT_MODE
+
+Python----SP.COMMON
+
+Queensland----ROUTE.SRC
+
+Glasglow----LOC.CITY
+
+suitcase----CONCEALMENT_METHOD
+
+Scottish woman----SP.SPECIFIC
+
+bag----CONCEALMENT_METHOD
+
+Glasglow----LOC.CITY
+
+Queensland, Australia----ROUTE.SRC
+
+Moira Boxall----SUS.NAME
+
+spotted python----SP.SPECIFIC

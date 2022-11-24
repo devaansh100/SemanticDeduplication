@@ -1,0 +1,9 @@
+
+['Over 300 deer died at University of Hyderabad in last 5 years\nHyderabad: More than 300 deer have during the last five years at the University of Hyderabad (UoH), after being chased and attacked by packs of stray dogs, according to Wild Lens, a biodiversity conservation group run by UoH students. A member of the group and a PhD student from UoH was quoted by the Times of India as saying, “The figure would be much higher if we take into account the data of the last 10 years of deer deaths into consideration.” Apart from deer, dogs also frequently kill monitor lizards and mammals like wild boars. The group also alleged that after making several requests to the Greater Hyderabad Municipal Corporation (GHMC) very little action has been taken to resolve the issue. Further, they said, “Most of the dogs try to protect the scarce water resources from wild animals in the dense forest area within the campus.” However, the GHMC officials rejected the allegation made by students and said that they acted whenever a complaint was filed and the dogs were taken away. Chief veterinary officer of GHMC, Dr. David Wilson, was quoted by the TOI as saying, “We regularly take up their complaints, pick up feral dogs, conduct birth control surgery, and bring them back near the campus. We have also spoken to NGOs that have set up water bowls for the dogs. Such instances of killing deer have now reduced over the years.” However, it is illegal for a person, or estate management to remove or relocate dogs, under Section 38 of the Prevention of Cruelty to Animals Act, 1960. Hence, the dogs were just released outside.']
+
+
+300----QTY
+
+deer----SP.COMMON
+
+University of Hyderabad----LOC.EXACT

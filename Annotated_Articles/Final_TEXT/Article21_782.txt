@@ -1,0 +1,59 @@
+
+["Forest officials rescue pangolin from smugglers, 4 arrested in Odisha\nOne pangolin was rescued by forest officials in Odisha. (Photo: India Today/ Mohammad Suffian) Busting a poaching racket, forest officials rescued a pangolin and arrested four persons in Odisha’s Nabrangpur. Acting on the intelligence input, forest officials and police personnel intercepted four persons at Chikri Chawk en route from Paparandi to Nabarangpur. The accused were reportedly going to sell the pangolin to a trader. The four accused have been arrested, and the joint team has seized two bikes and weapons from their possession. Forest officials with a rescued pangolin in Odisha. (Photo: India Today/ Mohammad Suffian) Assistant Conservator of Forest Officer (ACFO) Dhananjay Mohapatra told India Today, “All four accused have been arrested. We will keep the pangolin under observation under a veterinarian and leave it in forest after that.” Notably, in July this year, a joint team of Odisha forest and Wildlife Crime Control Bureau (WCCB) of Jabalpur confiscated 14.2 kg pangolin scales in Dhenkanal district from two people. ALSO READ: Foresters help baby elephant reunite with mother in viral video from Tamil Nadu. Watch ALSO READ: Assam govt burns 2,500 seized rhino horns in special ceremony. Here's why"]
+
+
+Forest officials----AUTH.SEIZE
+
+rescue----CRIME.CAT
+
+pangolin----SP.COMMON
+
+4----SUS.NUMBER
+
+arrested----OUTCOME
+
+Odisha----LOC.STATE
+
+One----QTY
+
+pangolin----SP.COMMON
+
+forest officials----AUTH.SEIZE
+
+Odisha----LOC.STATE
+
+poaching racket----SUS.AFFIL
+
+forest officials----AUTH.SEIZE
+
+a----QTY
+
+pangolin----SP.COMMON
+
+four----SUS.NUMBER
+
+Odisha----LOC.STATE
+
+Nabrangpur----LOC.EXACT
+
+intelligence input----DETECTION_METHOD
+
+forest officials----AUTH.SEIZE
+
+police personnel----AUTH.SEIZE
+
+four----SUS.NUMBER
+
+Chikri Chawk----LOC.EXACT
+
+Paparandi----ROUTE.SRC
+
+two----QTY
+
+bikes----ITEM
+
+weapons----ITEM
+
+pangolin----SP.COMMON
+
+Odisha----LOC.STATE

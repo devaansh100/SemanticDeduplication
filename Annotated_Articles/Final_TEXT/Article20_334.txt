@@ -1,0 +1,81 @@
+
+['Tiger body parts seized from tribal poachers in Karnataka\nChamarajanagar: Four tiger nails and bones, a pair of leopard nails, deer skins, and skin of flying squirrel among others animal parts were seized in a coordinated operation conducted by officials concerned of Male Mahadeshwara Wildlife Sanctuary, Biligiriranga Hills, a tiger reserve and Cauvery Wildlife Sanctuary along with the members of Wildlife Crime Control Bureau (WCCB) in Chamarajanagar on Friday. Four persons split into two groups were intercepted by waiting forest personnel at Kollegal and Gundal area in Hanur and nabbed them with wild animal parts. They were on two-wheelers to sell the parts to a third party before they were gathered by forest personnel. Disclosing the details of the operation made by forest officials, MM Hills Deputy Conservator of Forests V. Yedukondalu said that four persons have been nabbed. The names of the culprit have been identified as Mahadev (28), Kumar (20), Mahadev (22) and Rangaswamy (23), all residents of Hanur taluk of Chamarajanagar district and belonging to Soliga, a tribal community. According to Yedukondalu, Mahadeva and Rangaswamy are brothers. While the police were able to recover tiger parts from the duo, skin and canine tooth from the tiger were already sold to persons. However, there was no immediate information available on the value fixed by tribal men for the wild animal parts. The DCF said that these men were into animal part trading since quite some time and said that they will be produced before the Court in order to seek their custody for interrogation to gather more details on the trade conducted by them.']
+
+
+Tiger----SP.COMMON
+
+body parts----ITEM
+
+seized----CRIME.CAT
+
+tribal poachers----SUS.AFFIL
+
+Karnataka----LOC.STATE
+
+Four----QTY
+
+tiger----SP.COMMON
+
+nails----ITEM
+
+bones----ITEM
+
+a pair----QTY
+
+leopard----SP.COMMON
+
+nails----ITEM
+
+deer----SP.COMMON
+
+skins----ITEM
+
+skin----ITEM
+
+flying squirrel----SP.COMMON
+
+animal parts----ITEM
+
+seized----CRIME.CAT
+
+Male Mahadeshwara Wildlife Sanctuary, Biligiriranga Hills----AUTH.SEIZE
+
+Wildlife Crime Control Bureau (WCCB)----AUTH.SEIZE
+
+Friday----DATE
+
+Four----SUS.NUMBER
+
+Hanur----LOC.EXACT
+
+wild animal parts----ITEM
+
+four----SUS.NUMBER
+
+Mahadev----SUS.NAME
+
+28----SUS.AGE
+
+Kumar----SUS.NAME
+
+20----SUS.AGE
+
+Mahadev----SUS.NAME
+
+22----SUS.AGE
+
+Rangaswamy----SUS.NAME
+
+23----SUS.AGE
+
+Hanur----SUS.LOC
+
+Chamarajanagar----SUS.LOC
+
+Soliga----SUS.LOC
+
+Mahadeva----SUS.NAME
+
+skin----ITEM
+
+canine tooth----ITEM

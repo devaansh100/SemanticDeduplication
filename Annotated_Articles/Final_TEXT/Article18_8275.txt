@@ -1,0 +1,11 @@
+
+['Kerala’s renowned snake catcher Vava Suresh bitten by Cobra\nAdvertisement Prayers pour in for the much loved snake catcher of Kerala This is not the first time this famous snake catcher has been bitten by a Cobra. Vava Suresh, who rescues snakes and lets them out into the wild with the help of the Forest Department, has been bitten by snakes over 300 times. He has faced very risky situations before when there was no hope of survival. He has been in and out of the ventilator several times. On January 31st, he was bitten by a cobra when he was trying to capture the snake from a house in Kurichy village near Changanassery in Kottayam district. Videos taken by the people gathered around show that he was trying to get the Cobra into the bag when it attacked him on the right thigh. Though he managed to capture it, he lost consciousness as he was being rushed to the hospital. His situation has been critical but he is showing signs of recovery. Health Minister Veena George has assured his family that all expenses will be met by the Government. Related']
+
+
+Vava Suresh----SUS.NAME
+
+bitten----CRIME.CAT
+
+Cobra----SP.COMMON
+
+Kurichy village near Changanassery in Kottayam district. Videos----LOC.EXACT

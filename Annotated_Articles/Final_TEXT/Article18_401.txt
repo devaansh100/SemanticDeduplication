@@ -1,0 +1,57 @@
+
+['‘Pushpa’ style red sanders smuggler caught in Andhra Pradesh\nTIRUPATI: The most-wanted interstate smuggler, involved in more than 15 cases of illegal transportation of red sanders logs from Andhra Pradesh’s Seshachalam forests to Tamil Nadu, has been caught. Like Allu Arjun’s ‘Pushpa’ character, M. Perumal (33) used to smuggle red sanders in ambulances and other vehicles. However, the luck that ‘Pushpa’ had did not last in case of Perumal. Police nabbed him and his accomplice C. Velu (38) and seized ₹2.5 crore worth red sanders and ₹50 lakh worth of four-wheelers from them. Disclosing case details to reporters in Chittoor on Wednesday, SP Y. Rishanth Reddy said police had seized ₹1 crore worth red sanders logs being smuggled in an ambulance and an auto-rickshaw on May 25. While police arrested 15 smugglers in the case, Perumal, the kingpin, and three others managed to escape. Following this, police launched a manhunt to nab Perumal and his accomplices Ajith, Sarath and Vinod. Acting on a tip-off, a team led by CI K. Balaiah and SI V. Rama Krishna organised vehicle checking at Cherlopalli cross on the Tirupati-Bengaluru highway on Wednesday. “The accused were moving towards Vellore from Tirupati when they realised vehicles are being checked at Cherlopalli. They tried to turn their vehicles. However, our teams managed to block their vehicles, which were carrying 100 red sanders logs worth ₹2.5 crore. We also caught Perumal and his accomplice,” the Chittoor SP said. Investigations reveal that Perumal hails from Koppam post in Polur taluk of Tiruvannamalai district in Tamil Nadu. He has godowns near Chennai, where he hides the red sander logs smuggled from Seshachalam forests before exporting them to other countries. Police have taken up the process of attaching properties Perumal has acquired by illegally transporting red sanders.']
+
+
+red sanders----SP.COMMON
+
+Andhra Pradesh----LOC.STATE
+
+Andhra Pradesh’s Seshachalam forests----ROUTE.SRC
+
+Tamil Nadu----ROUTE.DEST
+
+M. Perumal----SUS.NAME
+
+33----SUS.AGE
+
+nabbed----CRIME.CAT
+
+C. Velu----SUS.NAME
+
+38----SUS.AGE
+
+red sanders----SP.SPECIFIC
+
+four-wheelers----ITEM
+
+red sanders logs----SP.SPECIFIC
+
+ambulance----TRANSPORT_MODE
+
+auto-rickshaw----TRANSPORT_MODE
+
+May 25----DATE
+
+15----SUS.NUMBER
+
+Ajith----SUS.NAME
+
+Sarath----SUS.NAME
+
+Vinod----SUS.NAME
+
+tip-off----DETECTION_METHOD
+
+CI----OFF.DESIG
+
+K. Balaiah----OFF.NAME
+
+SI----OFF.DESIG
+
+V. Rama Krishna----OFF.NAME
+
+vehicle checking at Cherlopalli cross on the Tirupati-Bengaluru highway on Wednesday. “The accused were moving towards Vellore from Tirupati when they realised vehicles are being checked at Cherlopalli. They tried to turn their vehicles. However, our teams managed to block their vehicles, which were carrying 100 red sanders----DETECTION_METHOD
+
+Perumal----SUS.NAME
+
+Koppam post in Polur taluk of Tiruvannamalai district in Tamil Nadu----SUS.LOC

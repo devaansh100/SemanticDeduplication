@@ -1,0 +1,151 @@
+
+['Coimbatore: Two arrested as officials crack down on poachers, deer horns seized\nBy Express News Service COIMBATORE: In an attempt to crack down on poachers, two teams of Coimbatore forest division on Saturday conducted raids in various villages falling under its ambit. In Karadimadai in Boluvampatti, a team led by Assistant Conservator of Forest M Senthil Kumar seized a country bomb (Avuttukai) from the house of a daily wager with the help of police. The team seized horns of two-spotted deer, an air rifle, four snares, a net, and a knife from the house. The same team conducted raids in Devarayapuram and seized explosive materials and horns of seven spotted deer from the houses of M Selvam (75) and N Duraisamy (45). Both were arrested. Snares and nets used for poaching were also seized, sources said. In the house of N Chinnasamy (45), the team seized explosives and snares. COIMBATORE: In an attempt to crack down on poachers, two teams of Coimbatore forest division on Saturday conducted raids in various villages falling under its ambit. In Karadimadai in Boluvampatti, a team led by Assistant Conservator of Forest M Senthil Kumar seized a country bomb (Avuttukai) from the house of a daily wager with the help of police. The team seized horns of two-spotted deer, an air rifle, four snares, a net, and a knife from the house. The same team conducted raids in Devarayapuram and seized explosive materials and horns of seven spotted deer from the houses of M Selvam (75) and N Duraisamy (45). Both were arrested. Snares and nets used for poaching were also seized, sources said. In the house of N Chinnasamy (45), the team seized explosives and snares.']
+
+
+Two----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+poachers----SUS.AFFIL
+
+deer----SP.COMMON
+
+horns----ITEM
+
+seized----CRIME.CAT
+
+poachers----SUS.AFFIL
+
+Saturday----DATE
+
+raids----DETECTION_METHOD
+
+Karadimadai----LOC.EXACT
+
+Assistant Conservator of Forest----OFF.DESIG
+
+M Senthil Kumar----OFF.NAME
+
+seized----CRIME.CAT
+
+country bomb (Avuttukai)----ITEM
+
+police----AUTH.SEIZE
+
+horns----ITEM
+
+two-spotted deer----SP.SPECIFIC
+
+an----QTY
+
+air rifle----ITEM
+
+four----QTY
+
+snares----ITEM
+
+a----QTY
+
+net----ITEM
+
+knife----ITEM
+
+raids----DETECTION_METHOD
+
+Devarayapuram----LOC.DISTRICT
+
+horns----ITEM
+
+seven----QTY
+
+spotted deer----SP.SPECIFIC
+
+M Selvam----SUS.NAME
+
+75----SUS.AGE
+
+N Duraisamy----SUS.NAME
+
+45----SUS.AGE
+
+arrested----CRIME.CAT
+
+Snares----ITEM
+
+nets----ITEM
+
+N Chinnasamy----SUS.NAME
+
+45----SUS.AGE
+
+explosives----ITEM
+
+snares----ITEM
+
+poachers----SUS.AFFIL
+
+Saturday----DATE
+
+raids----DETECTION_METHOD
+
+Karadimadai----LOC.EXACT
+
+Assistant Conservator of Forest----OFF.DESIG
+
+M Senthil Kumar----OFF.NAME
+
+seized----CRIME.CAT
+
+country bomb (Avuttukai)----ITEM
+
+police----AUTH.SEIZE
+
+horns----ITEM
+
+two-spotted deer----SP.SPECIFIC
+
+an----QTY
+
+air rifle----ITEM
+
+four----QTY
+
+snares----ITEM
+
+a----QTY
+
+net----ITEM
+
+a----QTY
+
+knife----ITEM
+
+raids----DETECTION_METHOD
+
+Devarayapuram----LOC.EXACT
+
+horns----ITEM
+
+seven----QTY
+
+spotted deer----SP.SPECIFIC
+
+M Selvam----SUS.NAME
+
+75----SUS.AGE
+
+N Duraisamy----SUS.NAME
+
+45----SUS.AGE
+
+Snares----ITEM
+
+nets----ITEM
+
+N Chinnasamy----SUS.NAME
+
+45----SUS.AGE
+
+explosives----ITEM
+
+snares----ITEM

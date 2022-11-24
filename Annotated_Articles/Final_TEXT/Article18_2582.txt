@@ -1,0 +1,27 @@
+
+['Buffalo hunter tiger found dead: Death due to eating poison found in meat, two people taken into custody\nKorea. A tiger has died in Chhattisgarh’s Koriya district on Monday. This caused a stir in the area. It is alleged that a buffalo was made his prey by the tiger, after which the angry villagers poisoned the tiger to death. As soon as the information about the incident was received, the forest staff reached the spot. Police is interrogating two people in the matter by taking them into custody. According to the information received, a tiger has died today in Salgwa Khurd located in Ramgarh range. It is alleged that a buffalo was made a victim by the tiger, after which the angry villagers sprinkled poison on the dead buffalo, which killed the tiger. On getting the information, a large number of forest staff reached the spot. Along with this, two accused are being taken into custody and interrogated. At the same time, the gross negligence of the top officials of the Forest Department has also come to the fore in this whole matter, which is raising many questions. It is being told that the forensic team from Raipur has left for Korea regarding the death of the tiger. Coming here will do post-mortem and investigate the matter.']
+
+
+Buffalo hunter tiger found dead----SUS.AFFIL
+
+meat----ITEM
+
+two----SUS.NUMBER
+
+tiger----SP.COMMON
+
+Chhattisgarh----LOC.DISTRICT
+
+Koriya district----LOC.DISTRICT
+
+Monday----DATE
+
+buffalo----SP.COMMON
+
+two----SUS.NUMBER
+
+tiger----SP.COMMON
+
+Salgwa Khurd----LOC.EXACT
+
+two----SUS.NUMBER

@@ -1,0 +1,49 @@
+
+['Forest officials rescue leopard from open well in Maharashtra. Video is viral\nShared on Twitter by IFS officer Susanta Nanda, the video of forest officials rescuing a leopard has gone viral. A leopard was rescued from an open well in Maharashtra. By Srimoyee Chowdhury: In a shocking video, forest officials were seen rescuing a male leopard from an open well in Maharashtra. Shared on Twitter by IFS officer Susanta Nanda, the video has gone viral on the internet. The clip shows the officials lowering a cage into the well and trapping the leopard inside. After that, with the help of ropes and a pulley, the staff managed to pull the cage up from the well. Meanwhile, the scared leopard can be seen trying hard to claw its way out of the cage. advertisement “Forest staff rescuing a male leopard from an open well in Maharashtra. Please cover open wells to avoid such trauma for the wild animals. Spread the word,” Nanda requested in the caption. Take a look: Forest staff rescuing a male leopard from an open well in Maharashtra. Please cover open wells to avoid such trauma for the wild animals. Spread the ward pic.twitter.com/JTFE4JlYIe — Susanta Nanda IFS (@susantananda3) June 18, 2022 The clip has been viewed over 18k times and garnered several reactions. People were shocked to see the video. Many rebuked the people responsible for the disaster. Others commented on how such open wells should get banned in forest areas. Why is there no law against such open wells? Is it so difficult to maintain covered wells?@moefcc — #justicefornoorie (@justice4noorie) June 19, 2022 Super work. The forest staff are really dedicated to their work. — Jatish Shah (@JatishShah4) June 19, 2022 Thank God he is safe — Simran Kakkar (@SimranKakkar9) June 18, 2022 Nice job by forest department staff. Kudos. We should start educating the people about closing open wells or fencing it. — KANNAN S (@KANNANS98336530) June 19, 2022 To the forest staff. — sc (@sreechau) June 18, 2022 Well done — Alok J B (@aloka8585) June 18, 2022 What do you think of this video? Also Read | Tamil Nadu man buys car worth Rs 6 lakh with Rs 10 coins. The reason will surprise you --- ENDS ---']
+
+
+Forest officials----AUTH.SEIZE
+
+rescue----CRIME.CAT
+
+leopard----SP.COMMON
+
+Maharashtra----LOC.STATE
+
+IFS officer----OFF.DESIG
+
+Susanta Nanda----OFF.NAME
+
+forest officials----AUTH.SEIZE
+
+leopard----SP.COMMON
+
+leopard----SP.COMMON
+
+Maharashtra----LOC.STATE
+
+forest officials----AUTH.SEIZE
+
+leopard----SP.COMMON
+
+Maharashtra----LOC.STATE
+
+IFS officer----OFF.DESIG
+
+Susanta Nanda----OFF.NAME
+
+cage----CONCEALMENT_METHOD
+
+leopard----SP.COMMON
+
+Forest staff----AUTH.SEIZE
+
+rescuing----CRIME.CAT
+
+leopard----SP.COMMON
+
+Maharashtra----LOC.STATE
+
+Maharashtra----LOC.STATE
+
+forest department staff----AUTH.SEIZE

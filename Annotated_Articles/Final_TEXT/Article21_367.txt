@@ -1,0 +1,53 @@
+
+['Arunachal: Covid warriors, ABSU intercepts bird hunters with 54 birds hunted birds\nPASIGHAT( By Maksam Tayeng )- In a crackdown on illegal hunting of birds in the region, the Covid Warriors team of East Siang district which have been coordinating the district administration and police in tackling the covid appropriate behavior law enforcement during this pandemic including members of All Bogong Student’s Union (ABSU) intercepted a car near Raneghat check-gate on Tuesday evening wherein two persons were found carrying of 54 hunted birds. Informing about the incident of large scale killing of birds, ABSU General Secretary Siang Moyong and Covid warrior led by Manning Moyong informed that they came across the killed birds while checking the car in their routine check to regulate movement of cars due to curfew in place after 2 PM. Siang Moyong informed that the incident was reported to the Divisional Forest Officer, Pasighat Forest Division who also rushed to the spot after getting the information and seized the gun, cartridges and killed birds. When contacted, Tashi Mize, DFO, Pasighat Forest Division said that he was on the spot that night and seized the gun and killed birds. “The place of occurrence is under Yingkiong Forest Division but the bird hunters were booked as per Wildlife Protection Act 1972 while seizing their weapons and complaint letter has been processed for Chief Judicial Magistrate for justice”, added Mize who is said to have visited the place of hunting near Regging village today. While, Rengging village Gaon Burah, Tamak Tamuk when contacted, informed them that they had nabbed the same two persons who originally hail from Upper Siang District. The Rengging village Kebang has already imposed a fine of Rs. 50,000 to the hunters and warned not to repeat the illegalities. Tamuk also informed that the bird hunters duo had hunted the birds from a Rock salt area in the mountain that falls under the jurisdiction of Rengging village which is around some 10 KM away from the village. ADVERTISEMENT This rock salt area which is called ‘Bitlong’ by Regging village not only attracts birds, but it also attracts wild animals like deer including the Mithun, the semi-domesticated animals. And as per conservation efforts of the villagers, the Rengging village has banned hunting of birds and animals in the Bitlong area, informed the Gaon Burah of Rengging. Meanwhile, Tasang Taga, Wildlife DFO, D. Ering Wildlife Sanctuary Division, Pasighat has appreciated the nice initiative of Covid warriors, ABSU and Rengging village Kebang for nabbing such hunters. Taga also said that when the state government has banned massive hunting of wildlife and birds wherein Air-gun surrender were also initiated, the killing of birds in large numbers shows non-compliance from the general public in stopping the protection of wildlife and birds. “I would like to appeal to each and every civil society to come forward and support the forest and wildlife department in protecting the wildlife and forest resources of the state”, added Taga.']
+
+
+Covid warriors----AUTH.SEIZE
+
+ABSU----AUTH.SEIZE
+
+bird hunters----SUS.AFFIL
+
+54----QTY
+
+Covid Warriors team----AUTH.SEIZE
+
+All Bogong Student’s Union (ABSU)----AUTH.SEIZE
+
+car----TRANSPORT_MODE
+
+Raneghat check-gate----LOC.EXACT
+
+Tuesday----DATE
+
+evening----TIME
+
+two----SUS.NUMBER
+
+54----QTY
+
+hunted birds----SP.COMMON
+
+ABSU----AUTH.SEIZE
+
+General Secretary----OFF.DESIG
+
+Siang Moyong----OFF.NAME
+
+Divisional Forest Officer----OFF.DESIG
+
+gun----ITEM
+
+cartridges----ITEM
+
+complaint letter has been processed for Chief Judicial Magistrate for justice----OUTCOME
+
+bird hunters duo----SUS.AFFIL
+
+hunted----CRIME.CAT
+
+Rock salt area----ROUTE.SRC
+
+Covid warriors----AUTH.SEIZE
+
+ABSU----AUTH.SEIZE

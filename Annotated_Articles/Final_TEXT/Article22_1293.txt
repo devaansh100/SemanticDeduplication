@@ -1,0 +1,23 @@
+
+['Two persons dead, one injured in bear attack\nLack of enough water in natural streams inside the jungles are probably forcing animals to venture out of forces resulting into man-animal conflicts. Confirming the incident Gumla divisional forest officer (DFO) Shrikant said that the ongoing heat wave conditions and lack of enough water in natural streams inside the jungles are probably forcing animals to venture out of forces resulting into man-animal conflicts. “We have initiated the compensation to the next of kin of the deceased and the person who is injured,” he told reporters. Two persons died and another of the same family sustained grievious injuries after they were attacked by a wild bear in Ambera village in Bharno block in Jharkhand’s Gumla district. Among the deceased is 60-year-old Lalit Kishan, his younger son Mangleshwar Kishan (35) and Lalit’s grandson Subhash (17), said local sources. Quoting the locals, an official of Karanj police station under whose jurisdiction the area falls, said that Subhash was first attacked by bear near a pond in the village when he had gone to defecate early in the morning. The others too, who were working in the nearby field, rushed for help when they too were attacked. Lalit died on the spot as he couldn’t run because of his age, and Subhash died on way to Rims in Ranchi. “Mangleshwar is currently under treatment at Rims in Ranchi,” said an official. Incidents of bear attack aren’t uncommon in Jharkhand. In June last year, three persons of a family were killed and three others sustained injuries when a wild bear attack them in the night while they were returning home through a patch of jungle in Garhwa district. Adjoining Lohardaga district too witnessed a similar incident in November last year when a wild bear attacked a 45 year old cattle grazer Shivshankar Oraon leading to his casualty at hospital later on.']
+
+
+Two persons----SUS.NUMBER
+
+bear----SP.COMMON
+
+attack----CRIME.CAT
+
+60-year-old----SUS.AGE
+
+Lalit Kishan----SUS.NAME
+
+Mangleshwar Kishan----SUS.NAME
+
+35----SUS.AGE
+
+Lalit----SUS.NAME
+
+Subhash----SUS.NAME
+
+17----SUS.AGE

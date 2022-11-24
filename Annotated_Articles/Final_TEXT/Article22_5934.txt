@@ -1,0 +1,31 @@
+
+["Uttarakhand: Hunt on for tiger that killed two in Corbett Reserve\nChief Wildlife Warden Parag Madhukar Dhakate gave his consent on Monday to tranquillise and cage a tiger that has killed two persons and injured one in Corbett Tiger Reserve so far. One person has been injured so far. (Image: PTI) By India Today Web Desk: Consent was given by Chief Wildlife Warden Parag Madhukar Dhakate on Monday to tranquillize and cage a tiger that has killed two persons in Corbett Tiger Reserve so far. One person has been injured so far. Patrolling has been stepped up to catch the big cat, he said. Two elephants have also been brought from Dhikala to help in the effort. The tiger had assaulted these persons on the fringe of the reserve's Sarpduli range, CTR Director Naresh Kumar said. Officials have been asked to maintain extreme caution in the exercise, Kumar said. Villagers living on the fringe of Corbett have been asked not to go to the forest. The tiger had claimed its first victim in Corbett in February this year. It claimed its second victim at the reserve on June 15 and injured another person seriously on June 17. ALSO READ | Yashwant Sinha selected as joint Opposition candidate for presidential polls advertisement --- ENDS ---"]
+
+
+tiger----SP.COMMON
+
+killed----CRIME.CAT
+
+two----SUS.NUMBER
+
+Corbett Reserve----LOC.EXACT
+
+Chief Wildlife Warden----OFF.DESIG
+
+Parag Madhukar Dhakate----OFF.NAME
+
+Monday----DATE
+
+tiger----SP.COMMON
+
+Corbett Tiger Reserve----LOC.EXACT
+
+Chief Wildlife Warden----OFF.DESIG
+
+Parag Madhukar Dhakate----OFF.NAME
+
+Monday----DATE
+
+tiger----SP.COMMON
+
+Corbett Tiger Reserve----LOC.EXACT

@@ -1,0 +1,59 @@
+
+['STF, forest officials seize 2 leopard skins in Odisha, arrest poacher\nBhubaneshwar (Odisha) [India], October 19 (ANI): The Special Task Force (STF) and forest officials arrested a poacher and seized two leopard skins in Boudh district. On the basis of reliable information about a deal for the sale of leopard skins by wildlife criminals, the STF team conducted a raid with the help of Boudh forest officials near village Kapasira under Manmunda Forest Range in Boudh District and arrested accused Jibardhan Bhoi on Monday. According to a press release issued by the STF crime branch, during the search two leopard skins and other incriminating materials were seized from his possession.  The accused could not produce any documents for possession of leopard skin, so he was detained and handed over to forest officials for legal action. Further investigation is underway, the release said. During the last year, special drives against wildlife criminals/poachers have been launched. STF has seized as many as 18 leopard skins, nine elephant tusks, two deerskin, five live pangolins and 15 kg pangolin scales and arrested 36 wildlife criminals. STF is the specialised wing of Odisha Police to curb organised crime in the State. Wildlife crimes remain one of the focus areas of STF and STF will continue its drive against wildlife crime and criminals. (ANI) ']
+
+
+STF----AUTH.SEIZE
+
+forest officials----AUTH.SEIZE
+
+seize----CRIME.CAT
+
+2----QTY
+
+leopard----SP.COMMON
+
+skins----ITEM
+
+Odisha----LOC.STATE
+
+arrest----CRIME.CAT
+
+Special Task Force----AUTH.SEIZE
+
+STF----AUTH.SEIZE
+
+forest officials----AUTH.SEIZE
+
+arrested----OUTCOME
+
+a----SUS.NUMBER
+
+two----QTY
+
+leopard----SP.COMMON
+
+skins----ITEM
+
+Boudh district----LOC.DISTRICT
+
+reliable information----DETECTION_METHOD
+
+skins----ITEM
+
+STF----AUTH.SEIZE
+
+raid----DETECTION_METHOD
+
+Boudh forest officials----AUTH.SEIZE
+
+Jibardhan Bhoi----SUS.NAME
+
+Monday----DATE
+
+STF crime branch----AUTH.SEIZE
+
+two----QTY
+
+leopard----SP.COMMON
+
+skins----ITEM

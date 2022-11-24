@@ -1,0 +1,45 @@
+
+['Maha: Man killed in tiger attack, leopard found dead in Gadchiroli\nGadchiroli, Jun 27 (PTI) A 30-year-old man was killed in a tiger attack in Gadchiroli in Maharashtra, while the carcass of a leopard, which may have died in a fight with a big cat, was also found in another part of the district, officials said on Monday. The body of Kishor Mamidwar (30) was found at 9am on Sunday in compartment number 6 in Porla Beat in Wadsa forest division, an official said. “He had gone to collect flowers when he was attacked by a tiger. His kin has been given Rs 30,000 as compensation and further amounts will be disbursed on completion of more formalities,” he said. “Forest teams are at the spot and villagers living near the forests have been instructed accordingly. Preliminary probe has revealed tiger CT1 may have caused the death,” he added. Meanwhile, a leopard was found dead on Sunday morning in compartment number 171 in Jhulpi forest range. “It had serious injuries and may have been killed in a fight with a tiger. We suspect the tiger is also injured. Villagers have been asked not to venture into the forests,” another official said. PTI COR CLS BNM BNM This report is auto-generated from PTI news service. ThePrint holds no responsibility for its content.']
+
+
+Man----SUS.GENDER
+
+tiger----SP.COMMON
+
+leopard----SP.COMMON
+
+Gadchiroli----LOC.DISTRICT
+
+30-year-old----SUS.AGE
+
+man----SUS.GENDER
+
+tiger attack----CRIME.CAT
+
+Gadchiroli----LOC.DISTRICT
+
+Maharashtra----LOC.STATE
+
+carcass----ITEM
+
+leopard----SP.COMMON
+
+body----ITEM
+
+Kishor Mamidwar----SUS.NAME
+
+30----SUS.AGE
+
+9am----TIME
+
+Sunday----DATE
+
+compartment number 6 in Porla Beat----LOC.EXACT
+
+leopard----SP.COMMON
+
+Sunday----DATE
+
+morning----TIME
+
+compartment number 171 in Jhulpi forest range----LOC.EXACT

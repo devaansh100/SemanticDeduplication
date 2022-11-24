@@ -1,0 +1,73 @@
+
+['Maharashtra: Man, family booked for ‘demanding tortoise with 21 toenails, black Labrador as dowry’\nApart from the tortoise, the family allegedly demanded a Buddha statue, a samai lamp stand and Rs 10 lakh. (Photo for representation: Wikimedia Commons) An FIR was registered Tuesday against an Aurangabad man and his family for demanding a tortoise with 21 toenails and a black Labrador as dowry. The family has been booked for cheating and criminal breach of trust. Already have an account? Sign In You have exhausted your monthly limit of free stories. You need a subscription to read on. Now available starting just Rs 2.75/ day. Already have an account? Sign In This premium article is free for now. Subscribe to get unlimited access to The Indian Express exclusive and premium stories. This content is exclusive for our subscribers. Subscribe now to get unlimited access to The Indian Express exclusive and premium stories. This content is exclusive for our subscribers. According to the local Osmanpura police, the man got engaged to a woman on February 10 this year at a hall in Ramanagar area, which falls in their jurisdiction. Before the engagement, the bride’s family had given Rs 2 lakh cash and 10 grams of gold as dowry to the groom’s family, the police said. However, after the engagement, the groom’s family allegedly started demanding a tortoise with 21 toenails, one black Labrador dog, a Buddha statue, a samai lamp stand and Rs 10 lakh, which they said would be used to get her a job after marriage. “The bride’s family expressed helplessness to meet the demands, after which the groom’s family called off the marriage. The bride’s 55-year-old father approached us and we lodged an FIR under section 420, 406 and 34 of IPC for criminal breach of trust and cheating against the groom and his family members. We may add more sections after investigation,” said Sadhna Avhad, police sub-inspector investigating the case.']
+
+
+Man----SUS.GENDER
+
+tortoise----SP.COMMON
+
+21----QTY
+
+toenails----ITEM
+
+black Labrador----SP.SPECIFIC
+
+tortoise----SP.COMMON
+
+Buddha----SP.COMMON
+
+statue----ITEM
+
+a----QTY
+
+samai lamp stand----ITEM
+
+Rs 10 lakh----VALUE
+
+FIR was registered----OUTCOME
+
+Tuesday----DATE
+
+Aurangabad----SUS.LOC
+
+man----SUS.GENDER
+
+tortoise----SP.COMMON
+
+21----QTY
+
+toenails----ITEM
+
+a----QTY
+
+black Labrador----SP.SPECIFIC
+
+cheating and criminal breach of trust----CRIME.CAT
+
+woman----SUS.GENDER
+
+February 10----DATE
+
+hall in Ramanagar area----LOC.EXACT
+
+cash----ITEM
+
+gold----ITEM
+
+tortoise----SP.COMMON
+
+21 toenails----ITEM
+
+one----QTY
+
+black Labrador dog----SP.SPECIFIC
+
+a----QTY
+
+Buddha statue----ITEM
+
+a----QTY
+
+samai lamp stand----ITEM
+
+Rs 10 lakh----VALUE

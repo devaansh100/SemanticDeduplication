@@ -1,0 +1,29 @@
+
+["'Naagin dance' with live cobra at wedding procession in Odisha's Mayurbhanj, 5 booked\nRepresentational Image Photo : iStock Odisha : As many as five persons have been taken into police custody for using a live cobra while dancing on the song ‘Main Naagin’ at a marriage procession in Odisha’s Mayurbhanj district, said police. The incident took place on Wednesday night while the video of the incident has been doing rounds on social media since Thursday. The video showed the Baraatis dancing to the tune of ‘Main Naagin’ on the streets of Karanjia town in Mayurbhanj district while a snake charmer, hired by the bridgegroom’s family, could be seen displaying the cobra in a bamboo basket with its lid open. Terrified locals who witnessed the scene reported the matter to the Forest Department. A team of forest officials rushed to the spot and rescued the reptile. Five people, including four band party owners and the snake charmer were detained for using the snake, said police as reported by The Indian Express. Srikant Naik, Karanjia Forest Range DFO informed the TOI that after receiving a video clip of a person dancing with a snake at a wedding procession from a local resident on Wednesday evening, they immediately rushed to the spot and caught them red-handed. However, the band party owners fled from the spot. Forest officials said that the snake charmer was arrested and forwarded to the court on Thursday. “He was booked under section 9, 12, 80 and 51 of the Wildlife Protection Act (1972), which was for prohibition of hunting, grant of permit for special purpose, wild animals to be government property, and the violations will be punishable for three years imprisonment and penalty of Rs 25,000 or both,” said a forest official as reported by TOI. However, the wildlife experts are of the opinion that those who engaged the snake charmers should also be booked as per the law. “Those who hired the snake charmer must also be arrested under section 52 (attempts and abetment) for encouraging the crime,” said Subhendu Mallik, honorary wildlife warden of Khurda district."]
+
+
+Naagin----SP.SPECIFIC
+
+cobra----SP.COMMON
+
+Odisha's----LOC.STATE
+
+Mayurbhanj----LOC.DISTRICT
+
+5----SUS.NUMBER
+
+five----SUS.NUMBER
+
+cobra----SP.COMMON
+
+Mayurbhanj----LOC.DISTRICT
+
+Wednesday----DATE
+
+night----TIME
+
+Baraatis----SUS.NAME
+
+forest officials----AUTH.SEIZE
+
+Five----SUS.NUMBER

@@ -1,0 +1,9 @@
+
+['Dr. Mos Mosquito Liquid Vaporizer at Best Price in Delhi\nProduct Description Dr. MOS 100% herbal mosquito repellent is a mix of herbal extracts available in mother nature. This mosquito vaporizer is a blend of extracts from plants such as Eucalypta Alba, Cymbopogon, Citronella, Azadirachta Indica, Pongamia pinnata, and a unique combination of Himalayan herbs. This repellent not only prevents from mosquito bites but also keeps domestic flies and other household insects away.  It is absolutely natural, safe for all age group, kids and pets too. It does not contain any poisonous chemicals which are normally used by other common brands in the industry causing asthma attacks, weakening of eyesight, breathing problems, severe headache and many other diseases.  This product is a must for a healthy family and happy pets']
+
+
+Mosquito----SP.COMMON
+
+Liquid Vaporizer----ITEM
+
+Eucalypta Alba,----ROUTE.SRC

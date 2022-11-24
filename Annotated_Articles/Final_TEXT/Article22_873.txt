@@ -1,0 +1,21 @@
+
+['PETA felicitating TN forest dept\nCHENNAI: People for the Ethical Treatment of Animals ( PETA ) India is felicitating the Chengalpet division of the Tamil Nadu forest department with A Hero to Animals Award for rescuing four parrots that were being sold online illegally for parrot astrology scams and for aiding in the arrest of two men allegedly involved in it.“PETA India commends the forest department for saving these beautiful parakeets, who should never have been caught and who deserve to fly free again. Buying or selling Indian birds is illegal and can result in a seven-year jail term and a Rs 25,000 fine,” said PETA India CEO and veterinarian Dr Manilal Valliyate.“Caged birds have nothing to sing about. Birds belong in the sky, never in cages, and we urge anyone who is keeping a bird in this way to turn them in for rehabilitation and to be reunited with a flock.”Countless birds are torn away from their families and sold as “pets” or to bogus “fortune tellers” in India’s black market bird trade. Fledglings are often snatched from their nests, while other birds panic as they are caught in traps or nets that can seriously injure or kill them as they struggle to break free. Captured birds are packed into small boxes, and an estimated 60% of them die in transit from broken wings and legs, thirst, or sheer panic. Those who survive face a bleak, lonely life in captivity, suffering from malnutrition, loneliness, depression, and stress.']
+
+
+PETA----AUTH.MISC
+
+TN forest dept----AUTH.SEIZE
+
+People for the Ethical Treatment of Animals----AUTH.MISC
+
+PETA----AUTH.MISC
+
+four----QTY
+
+parrots----SP.COMMON
+
+two----SUS.NUMBER
+
+men----SUS.GENDER
+
+parakeets----SP.SPECIFIC

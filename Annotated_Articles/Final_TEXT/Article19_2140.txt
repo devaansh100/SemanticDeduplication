@@ -1,0 +1,37 @@
+
+['Two held for killing bear\nBy Express News Service ONGOLE: Two persons were taken into custody by forest officials for allegedly killing a wild bear at Uyyalavada on Friday. On credible information, forest officials rushed to forest area in Uyyalavada and found two persons cutting the carcass of the bear into pieces. The wild animal was shot dead with a country-made weapon, ONGOLE: Two persons were taken into custody by forest officials for allegedly killing a wild bear at Uyyalavada on Friday. On credible information, forest officials rushed to forest area in Uyyalavada and found two persons cutting the carcass of the bear into pieces. The wild animal was shot dead with a country-made weapon,']
+
+
+Two----SUS.NUMBER
+
+killing----CRIME.CAT
+
+bear----SP.COMMON
+
+Two----SUS.NUMBER
+
+forest officials----AUTH.SEIZE
+
+killing----CRIME.CAT
+
+wild bear----SP.COMMON
+
+Uyyalavada----LOC.EXACT
+
+Friday----DATE
+
+forest officials----AUTH.SEIZE
+
+shot dead----CRIME.CAT
+
+Two----SUS.NUMBER
+
+forest officials----AUTH.SEIZE
+
+killing----CRIME.CAT
+
+wild bear----SP.COMMON
+
+Uyyalavada----LOC.EXACT
+
+Friday----DATE

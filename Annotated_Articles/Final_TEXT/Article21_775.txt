@@ -1,0 +1,15 @@
+
+['Ampere Launches New Electric 2-Wheeler For Rs 68,999\nChennai: Electric vehicle major Ampere Electric expanded its two-wheeler product range launching a new model Magnus EX priced at Rs 68,999 (ex-showroom Pune). The lithium battery powered scooter price will further go down when one takes into account the state government incentives for buying an electric vehicle. The model comes with a detachable lightweight and portable advanced lithium battery for easy charge in any five amp socket at home, office, coffee shop, or any plug-on-the-wall charge point. The vehicle comes with a three year warranty covering major aggregates. “Customers are looking for more affordable ways to travel as petrol prices heavily dent savings of everyday 2W commuters. Magnus EX with its long distance per charge enables users to do multiple trips and complete their work and life goals easily,” Roy Kurian, COO, Ampere Electric said. The 13-year-old Ampere Vehicles — a subsidiary of listed and diversified engineering company Greaves Cotton Ltd — is setting up an electric two-wheeler plant in Ranipet in Tamil Nadu. The new plant is expected to roll out vehicles by the end of this year. Over a period of 10 years, the capacity will go up to one million and the total outlay will be about Rs 700 crore. “We will be going for platform-based vehicle production which would reduce our costs. Further, the electric two-wheeler production currently done in Coimbatore will be moved to Ranipet,” Nagesh A. Basavanalli, Managing Director and Group CEO told IANS. Simply put, a platform-based approach means having a common frame/chassis on which different capacity motors/batteries can be mounted and sold. With Ampere Vehicles two-wheeler capacity set to touch about one lakh units by the end of this year from the current 60,000 per year, a platform-based approach would mean having many common components for different models. Recently Ampere Electric had signed an agreement to buy 26 per cent stake in electric three-wheeler maker MLR Auto Ltd, Hyderabad on or before Nov 12, 2021. The company has the option to increase its stakes by another 25 per cent (fully diluted basis) within a period of 12 months from the date of closing of the initial acquisition of 26 per cent. In 2020 Ampere Vehicles bought 74 per cent stake in the Noida-based electric rickshaw maker Bestway Agencies rolling out Ele brand vehicles. The balance 26 per cent in Bestway will be acquired in 2022. (IANS)']
+
+
+Ampere Launches----AUTH.SEIZE
+
+Rs 68,999----VALUE
+
+Ampere Electric----AUTH.SEIZE
+
+Magnus EX----ITEM
+
+Rs 68,999----VALUE
+
+Rs 700 crore----VALUE

@@ -1,0 +1,23 @@
+
+['Leopard walks into Mumbai school, trapped inside toilet\nMUMBAI: Curiosity took this wild cat to the toilet. And it got trapped there. A leopard was rescued from the toilet of a BMC school at Bimbisar Nagar , Goregaon (east), on the fringes of Aarey forest in the early hours of Wednesday.The male spotted cat, said to be around 3 or 4 years young, was spotted by a guard on duty at the BMC school a little past midnight. The leopard slid into a toilet as the door was ajar. The guard sprung on his feet and latched the toilet door from the outside before informing the forest department, said a forest official.Word started to spread and a few onlookers gathered despite the drizzle. The police helped control the thin crowd of people that had started to assemble, said Rohit Mohite, honorary wildlife warden for Thane district. "The leopard was possibly scouting for some stray dogs, said Mohite who was part of the rescue operation. A tranquiliser dart was shot from a small window to the toilet," said Aditya Patil of Wildlife Welfare Association.Forest officials reached the place around 4.30am. The leopard was still holed up in the toilet. "It was tranquillized and has been brought to Sanjay Gandhi National Park," said Dr Shailesh Pethe , deputy commissioner, animal husbandry, Mumbai. He said the leopard has been examined and could be released soon.Mohite pointed out that the leopard could have sneaked out as the forested patch gets too soggy for them to remain there. "Typically, leopards do not like to be in water-logged places and so this one could have come out looking for a dry place," Mohite pointed out.A microchip found in the leopard points out that the same leopard had been rescued from Yeoor forest , Thane, in March 2020, said forest officials.']
+
+
+Leopard----SP.COMMON
+
+Curiosity took this wild cat----DETECTION_METHOD
+
+leopard----SP.COMMON
+
+Aarey forest----LOC.EXACT
+
+Wednesday.The----DATE
+
+spotted cat----SP.SPECIFIC
+
+midnight----TIME
+
+scouting----DETECTION_METHOD
+
+4.30am.----TIME
+
+leopard----SP.COMMON

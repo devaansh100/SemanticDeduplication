@@ -1,0 +1,25 @@
+
+["Tigress Found Dead in Madhya Pradesh's Kanha Tiger Reserve, Poaching Suspected\nA tigress has died after getting stuck in a wire trap allegedly laid by poachers in Madhya Pradesh’s Kanha Tiger Reserve, an official said on Wednesday. The feline, around two years’ old, was found dead on Tuesday by some beat guards in Khapa forest range of the Kanha Tiger Reserve (KTR) here, he said. “The tigress died after getting entangled in a wire trap used by poachers,” a forest official said. “It was a clutch wire (used in vehicles). A case has been registered against unidentified persons under the Wildlife Protection Act and search is underway for culprits,” KTR’s deputy director Naresh Singh Yadav said. An autopsy was conducted on Wednesday as per rules of the National Tiger Conservation Authority, he said. According to the 2018 tiger census, Madhya Pradesh is home to highest number of tigers in the country, giving it the tag of “tiger state”, an official earlier said. The state has a number of tiger reserves, including Kanha, Bandhavgarh, Pench, Satpura and Panna. Read all the Latest News, Breaking News and Coronavirus News here"]
+
+
+Tigress----SP.COMMON
+
+Found Dead----CRIME.CAT
+
+Madhya Pradesh's----LOC.STATE
+
+Kanha Tiger Reserve----LOC.EXACT
+
+tigress----SP.COMMON
+
+a wire trap----CRIME.CAT
+
+Madhya Pradesh’s----LOC.STATE
+
+Kanha Tiger Reserve----LOC.EXACT
+
+Tuesday----DATE
+
+beat guards----AUTH.SEIZE
+
+A case has been registered against unidentified persons under the Wildlife Protection Act----OUTCOME

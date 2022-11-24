@@ -1,0 +1,15 @@
+
+['Actor Booked For Wildlife Act Breach\nKOLKATA: The state forest department has issued a notice to actor Srabanti Chatterjee for allegedly shooting with a chained mongoose and flaunting its photographs on social media.Chatterjee has been booked under sections 9, 11, 39, 48A, 49 and 49A of the Wildlife Protection Act 1972 for illegal wildlife capture, transport and possession of the animals in violation of the act and has been asked to appear before the office of Wildlife Crime Control Cell and Data Management Unit in Salt Lake. If proven guilty, she can be jailed for up to seven years.The notice was sent to her on February 15 and she was asked to appear before the investigating officers within three days.Forest officials said Chatterjee has allegedly pleaded her ignorance about the act but she has not appeared before the officers yet.Responding to a text message by TOI, Chatterjee said: “The thing is under investigation and hence I can’t comment anything.”Chatterjee’s counsel Sk Habib Uddin said they are yet to visit the officers and will only be able to give a clear picture once they meet them. “We will meet the officers soon to know the exact allegations,” said the counsel.Chatterjee was a BJP candidate from Behala west, who was fielded against Partha Chatterjee for the 2021 assembly elections. After her loss, she quit her affiliation with the party. Over the last few weeks, she was spotted campaigning for several Trinamool Congress candidates for the municipality polls across Bengal.“It is not only a crime to capture scheduled and protected wild animals but a public personality like her indulging in such act can also influence others to commit the mistake. She should cooperate with us in the investigation and help us in our fight against the protection of wildlife,” said a senior forest department official.']
+
+
+Actor----SUS.AFFIL
+
+state forest department----AUTH.SEIZE
+
+actor----SUS.AFFIL
+
+Srabanti Chatterjee----SUS.NAME
+
+mongoose----SP.COMMON
+
+booked under sections 9, 11, 39, 48A, 49 and 49A of the Wildlife Protection Act 1972----OUTCOME

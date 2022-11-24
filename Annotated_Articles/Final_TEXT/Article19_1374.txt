@@ -1,0 +1,49 @@
+
+['Woman dies after leopard attack near Gir forest, second such incident in two days\nEfforts are on to track down the leopard involved in the attack. (File photo) A woman died after being attacked by a leopard in Hasnapur forest settlement village in Gir forest division (west) near Visavadar town in Junagadh district of Gujarat on Sunday. This is a second such incident in as many days in the area. Forest officials said that efforts were on to cage the wild animal. As per officials, the incident took place when the victim, identified as Prabha Jadav, was asleep in the verandah of her house in Hasnapur. “The attack took place at 1.15 am. Our staff reached the spot at 1.45 am, arranged for an ambulance and shifted the victim to a government hospital in Visavadar. From there she was referred to Junagadh for further treatment, but she succumbed to her injuries while on way to Junagadh,” Dushyant Vasavada, chief conservator of forests of Junagadh wildlife circle told Indian Express. The village of Hasnapur is located on the border of Gir National Park and Sanctuary, the largest natural habitat of Asiatic lions in India. The village is administered by the forest department, with most of the settlers earning their livelihood by farming on land owned by the department itself. Dheeraj Mittal, Deputy Conservator of Forests (DCF) of Gir forest division (West) said the victim belonged to one such farmer family. This is the second incident of a leopard attack in the region. On Saturday night, a leopard had attacked and injured a 12-year-old girl in nearby Ambala village. The girl is still undergoing treatment. The DCF said efforts were on to track down the leopard involved in the attack. “We have placed three cages to rescue the leopard and staff is trying to track down the leopard. This is second such incident in the area and our staff is doing all they can to cage the animal at the earliest,” said Mittal. Ambala and Hasnapur area around two kilometers apart. Advertisement The Gir Forest and other protected areas spread across Junagadh, Gir Somnath, Amreli and Bhavnagar districts in Saurashtra region of Gujarat are the last abode of Asiatic lions in the world. The forest is also home to a growing population of leopards. The density of leopard population in Gir forest is one of the highest in the entire state.']
+
+
+Woman----SUS.GENDER
+
+leopard----SP.COMMON
+
+attack----CRIME.CAT
+
+Gir forest----LOC.EXACT
+
+leopard----SP.COMMON
+
+woman----SUS.GENDER
+
+leopard----SP.COMMON
+
+Hasnapur forest settlement village in Gir forest division (west)----LOC.EXACT
+
+Visavadar----LOC.DISTRICT
+
+Junagadh district----LOC.DISTRICT
+
+Gujarat----LOC.STATE
+
+Sunday----DATE
+
+Prabha Jadav----SUS.NAME
+
+Hasnapur----SUS.LOC
+
+1.15 am----TIME
+
+ambulance----TRANSPORT_MODE
+
+Dheeraj Mittal----OFF.NAME
+
+Deputy Conservator of Forests (DCF)----OFF.DESIG
+
+Saturday----DATE
+
+night----TIME
+
+leopard----SP.COMMON
+
+12-year-old----SUS.AGE
+
+Ambala village----LOC.EXACT

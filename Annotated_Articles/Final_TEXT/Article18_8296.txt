@@ -1,0 +1,21 @@
+
+["Cobra Bites Snake-Catcher Vava Suresh: Watch Video of the Attack\n- Advertisement- In a shocking incident, famous snake-catcher Vava Suresh was bitten by a cobra while trying to capture it from a house at Kurichy in Kottayam, Kerala on Monday. The 48-year-old man, who is popular for his daredevil stunts of catching snakes alive, was immediately rushed to the hospital. His health condition is said to be stable now. Suresh was trying to catch the snake when he got bit on his right leg. He soon transported at Kottayam Medical College Hospital where doctors found out that not only he had serious wounds but also low pulse rates–in fact it dropped below 20! Watch Video! The moment when popular snake handler Vava Suresh got bit by a cobra in Kottayam, Kerala. He's currently in a critical condition.  Trigger warning. pic.twitter.com/Zp9vLf8uXY — Vishnu Varma (@VishKVarma) January 31, 2022 The Health Minister of Kerala has confirmed that Vava Suresh is still in a critical condition and they are covering his medical bills. The state also sent out an couple experts to check on the rescuer’s wellbeing, who have been visiting him at hospital every day since then-informally offering support. Also Read: Economic Survey projects 8-8.5 GDP growth for FY 2022-23 (With Agency Inputs)"]
+
+
+Cobra Bites----CRIME.CAT
+
+Snake-Catcher----SUS.AFFIL
+
+Vava Suresh----SUS.NAME
+
+Vava Suresh----SUS.NAME
+
+cobra----SP.COMMON
+
+Kurichy in Kottayam, Kerala----LOC.EXACT
+
+Monday----DATE
+
+48-year-old----SUS.AGE
+
+man----SUS.GENDER

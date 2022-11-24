@@ -1,0 +1,19 @@
+
+['Leopard stealthily attacks sleeping dog outside house in Gujarat, heart-stopping video goes viral\nLeopard pounces on sleeping dog outside house in Gujarat | Photo Credit: YouTube Key Highlights The video has received millions of views on social media and has been shared by several news outlets While many users asked if the dog was still alive, some said such incidents will only increase if steps to curb encroachment are not taken by authorities Amreli: Urban encroachment in forest areas has resulted in large-scale deforestation in many countries. This has become a growing concern in India as well. However, deforestation is not the only negative outcome of encroachment. The rapid expansion of urban land cover and manufacturing units has resulted in the invasion of homes that otherwise belong to diverse wildlife. So, it\'s only natural that if we invade their homes, they will push back and eventually enter our cities in search of food and shelter too. That’s exactly what was witnessed in Gujarat’s Amreli district where a leopard ventured into a private residence and pounced on a sleeping dog. Fortunately, it was just one leopard. The spine-chilling incident was caught on a CCTV camera and shared on social media. It has now gone viral on Twitter, Instagram, and Facebook. Check it out: The video shows a dog sleeping at the doorstep of a house while a leopard creeps in stealthily along the roofed area, next to a parked vehicle. A few seconds later, it pounces on the dog, leaving the canine stunned. The dog shrieks in fright but manages to free itself from the leopard. The leopard, unwilling to give up on his hunt, chases the dog through the portico. The video has received millions of views on social media and has been shared by several news outlets. While many users asked if the dog was still alive, some said such incidents will only increase if steps to curb encroachment are not taken by authorities. One user wrote, “Sad state of affairs for our country\'s wild animals. Human overpopulation has taken their land. Human fault.” “I feel really sorry for leopards. There\'s no natural pray or habitat left, this the result of it,” wrote another. "Can’t say the dog escaped...the leopard went after it. People need to keep their pets safe. I really hope the dog is okay. With all my heart," wrote a third user.']
+
+
+Leopard----SP.COMMON
+
+sleeping dog----SP.SPECIFIC
+
+Gujarat----LOC.STATE
+
+Leopard----SP.COMMON
+
+dog----SP.COMMON
+
+Gujarat----LOC.STATE
+
+Amreli----LOC.DISTRICT
+
+leopard----SP.COMMON

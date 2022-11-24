@@ -1,0 +1,25 @@
+
+['‘Naagin dance’ with Cobra at wedding procession in Odisha; 5 nabbed\nBaripada: 5 individuals have been detained for utilizing a stay cobra whereas dancing to the tune of ‘Primary Naagin‘ music at a marriage procession in Odisha’s Mayurbhanj district, police mentioned on Thursday. A purported video that has gone viral on social media confirmed ‘baraatis‘ (individuals from the bridegroom’s aspect) dancing on the streets of Karanjia city on Wednesday night time with a snake charmer employed by them displaying the reptile in his bamboo basket with its lid open. Terrified locals knowledgeable the Forest Division, and its personnel reached the spot and rescued the cobra. 5 individuals together with the snake charmer had been detained for misutilising the reptile, a police officer mentioned. Questioning is underway and motion will likely be taken underneath Wildlife Safety Act, 1982, he mentioned. Snake Helpline convenor Suvendu Mallick mentioned that within the video, the snake appeared frightened resulting from excessive decibel music performed within the procession. ‘The snake charmer will need to have eliminated the toxic tooth of the cobra, which can also be unlawful. I demand strict motion in opposition to the bridegroom and his father for permitting such a heinous act. This might be one of many first such circumstances within the nation’, he mentioned.']
+
+
+Naagin----SP.SPECIFIC
+
+Cobra----SP.COMMON
+
+Odisha----LOC.STATE
+
+5----SUS.NUMBER
+
+5----SUS.NUMBER
+
+Odisha----LOC.STATE
+
+Mayurbhanj----LOC.DISTRICT
+
+Karanjia----LOC.DISTRICT
+
+Wednesday----DATE
+
+night----TIME
+
+Forest Division----AUTH.SEIZE

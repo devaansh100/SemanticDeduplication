@@ -1,0 +1,39 @@
+
+['Two arrested for poaching pangolin\nThe police arrested two persons on the charges of poaching pangolin, at Hiregadde. The arrested are Dinesh and Shivappa. Acting on a tip-off, the police raided and arrested the duo. Other accused Ramesh and Ravi are still at large. According to police, the arrested had killed a pangolin weighing 12 kg. A case has been registered against the accused under the Wildlife Protection Act.']
+
+
+Two----SUS.NUMBER
+
+poaching----CRIME.CAT
+
+pangolin----SP.COMMON
+
+arrested----CRIME.CAT
+
+two----SUS.NUMBER
+
+pangolin----SP.COMMON
+
+Hiregadde----LOC.EXACT
+
+Dinesh----SUS.NAME
+
+Shivappa----SUS.NAME
+
+tip-off----DETECTION_METHOD
+
+raided----CRIME.CAT
+
+duo----SUS.NUMBER
+
+Ramesh----SUS.NAME
+
+Ravi----SUS.NAME
+
+a----QTY
+
+pangolin----SP.COMMON
+
+12 kg----QTY
+
+case has been registered against the accused under the Wildlife Protection Act----OUTCOME

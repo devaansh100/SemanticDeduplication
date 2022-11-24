@@ -1,0 +1,93 @@
+
+['Six held for trying to sell tiger skin near Pollachi\nBy Express News Service COIMBATORE: Anamalai Tiger Reserve (ATR) officials on Monday arrested six persons for allegedly trying to sell tiger skin for Rs 1 crore in Ashok Nagar near Pollachi. The suspects were identified as M Praveen from Anamalai, siblings M Udayakumar and M Rameshkumar from Sethumadai, P Manikandan and M Sabari Shankar from Odayakulam, and D Mayilsamy from Sethumadai. They have been booked under the provisions of the Wildlife Protection Act, 1972, and later remanded in judicial custody. Plan hatched untimely? A few days ago, Rameshkumar and Udayakumar, sons of Mayilsamy, tried to sell the tiger skin through their friends, sources said. The tiger skin, however, came in possession of Mayilsamy nearly 20 years ago, said ATR Deputy Director S Arokiyaraj Xaiver. "Then, Mayilsamy worked as a labourer in J Prasath Gounder\'s house near Vettaikaranpudur. The tiger skin stolen from Gounder\'s house was kept in the pooja room of Mayilsamy\'s house in Sethumadai." He added that Mayilsamy\'s sons hatched a plan to sell the skin recently while consuming liquor at a local bar. They had also discussed the same with the bar workers. Caught in the net Informed of this, a few forest officials posed as buyers and approached Praveen, who demanded `3 crore for the tiger skin by sharing its picture. After rounds of talks, they sealed the deal for `1 crore and asked the suspects to handover the skin near Alukkusamiyar Temple in Vettaikaranpudur. However, the suspects were caught red-handed. Assistant Conservator of Forest, ATR, S Selvam said that the skin would be sent to Arignar Anna Zoological Park to find the animal\'s age. “We suspect it to be three or four decades old. We conducted a search at Gounder\'s house, but found nothing,” he informed. \'Handover wildlife trophies\' Meanwhile, ATR Deputy Director requested people residing in Pollachi surroundings to hand over unlicensed animal trophies within a week. He also assured to take strict action against the violators. "Some people have been keeping the trophies that they received before 1972 with the permission of Chief Wildlife Warden, which should be renewed every year. The trophy owners should either renew their license or hand over the item to the forest department," he added. COIMBATORE: Anamalai Tiger Reserve (ATR) officials on Monday arrested six persons for allegedly trying to sell tiger skin for Rs 1 crore in Ashok Nagar near Pollachi. The suspects were identified as M Praveen from Anamalai, siblings M Udayakumar and M Rameshkumar from Sethumadai, P Manikandan and M Sabari Shankar from Odayakulam, and D Mayilsamy from Sethumadai. They have been booked under the provisions of the Wildlife Protection Act, 1972, and later remanded in judicial custody. Plan hatched untimely? A few days ago, Rameshkumar and Udayakumar, sons of Mayilsamy, tried to sell the tiger skin through their friends, sources said. The tiger skin, however, came in possession of Mayilsamy nearly 20 years ago, said ATR Deputy Director S Arokiyaraj Xaiver. "Then, Mayilsamy worked as a labourer in J Prasath Gounder\'s house near Vettaikaranpudur. The tiger skin stolen from Gounder\'s house was kept in the pooja room of Mayilsamy\'s house in Sethumadai." He added that Mayilsamy\'s sons hatched a plan to sell the skin recently while consuming liquor at a local bar. They had also discussed the same with the bar workers. Caught in the net Informed of this, a few forest officials posed as buyers and approached Praveen, who demanded `3 crore for the tiger skin by sharing its picture. After rounds of talks, they sealed the deal for `1 crore and asked the suspects to handover the skin near Alukkusamiyar Temple in Vettaikaranpudur. However, the suspects were caught red-handed. Assistant Conservator of Forest, ATR, S Selvam said that the skin would be sent to Arignar Anna Zoological Park to find the animal\'s age. “We suspect it to be three or four decades old. We conducted a search at Gounder\'s house, but found nothing,” he informed. \'Handover wildlife trophies\' Meanwhile, ATR Deputy Director requested people residing in Pollachi surroundings to hand over unlicensed animal trophies within a week. He also assured to take strict action against the violators. "Some people have been keeping the trophies that they received before 1972 with the permission of Chief Wildlife Warden, which should be renewed every year. The trophy owners should either renew their license or hand over the item to the forest department," he added.']
+
+
+Six----SUS.NUMBER
+
+sell----CRIME.CAT
+
+tiger----SP.COMMON
+
+skin----ITEM
+
+Pollachi----LOC.CITY
+
+Anamalai Tiger Reserve (ATR)----AUTH.SEIZE
+
+Monday----DATE
+
+six----SUS.NUMBER
+
+tiger----SP.COMMON
+
+skin----ITEM
+
+Rs 1 crore----VALUE
+
+Ashok Nagar----LOC.EXACT
+
+Pollachi----LOC.CITY
+
+M Praveen----SUS.NAME
+
+Anamalai----SUS.LOC
+
+M Udayakumar----SUS.NAME
+
+M Rameshkumar----SUS.NAME
+
+Sethumadai----SUS.LOC
+
+P Manikandan----SUS.NAME
+
+M Sabari Shankar----SUS.NAME
+
+Odayakulam----SUS.LOC
+
+D Mayilsamy----SUS.NAME
+
+Sethumadai----SUS.LOC
+
+booked under the provisions of the Wildlife Protection Act, 1972----OUTCOME
+
+Informed of this----DETECTION_METHOD
+
+Anamalai Tiger Reserve (ATR)----AUTH.SEIZE
+
+Monday----DATE
+
+six----SUS.NUMBER
+
+tiger----SP.COMMON
+
+skin----ITEM
+
+Rs 1 crore----VALUE
+
+Ashok Nagar----LOC.EXACT
+
+Pollachi----LOC.CITY
+
+M Praveen----SUS.NAME
+
+Anamalai----SUS.LOC
+
+M Udayakumar----SUS.NAME
+
+M Rameshkumar----SUS.NAME
+
+Sethumadai----SUS.LOC
+
+P Manikandan----SUS.NAME
+
+M Sabari Shankar----SUS.NAME
+
+Odayakulam----SUS.LOC
+
+D Mayilsamy----SUS.NAME
+
+Sethumadai----SUS.LOC
+
+booked under the provisions of the Wildlife Protection Act, 1972, and later remanded in judicial custody----OUTCOME
+
+Informed----DETECTION_METHOD

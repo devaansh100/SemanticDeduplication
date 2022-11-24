@@ -1,0 +1,35 @@
+
+["West Bengal: Little girl falls from scooter, wild elephant shields her from own herd\nViral: Video of angry elephant chasing off Safari jeep sure to send chills down your spine West Bengal: Little girl falls from scooter, wild elephant shields her from own herd Feature oi-Deepika S Kolkata, Feb 22: In a region fraught with man-animal conflict and bloodshed, here's a story that warms the heart. An elephant stood guard to protect a four-year-old girl, who had fallen down from a scooter, from other members of the herd in Jalpaiguri district on Thursday. The incident occurred on National Highway 31 near Garumara forest when a family of three was returning to Lataguri after offering puja at a temple inside the forest.The highway divides the forest into two parts. The incident On the way home, businessman Nitu Ghosh, who was with his wife Titli and daughter Ahana, stopped the two-wheeler after seeing that a herd of elephants was crossing the road. After a while, the elephants went into the other side of the jungle and Ghosh resumed his journey. However, some other members of the herd that were still inside the jungle appeared on the road and the scooter almost ran into them. Human-Elephant conflict a mammoth concern Ghosh applied the break suddenly and all the three fell down. Surprisingly, one of the jumbos came forward and stood still keeping the girl in the space between its legs, while other members of the group continued their journey. A tourist was killed and several others were injured by elephants during the past few months in this area. Sensing the trouble the family was in, a truck driver who was waiting behind Ghosh's scooter rushed to their rescue hooting the horn of his vehicle madly to scare away the tuskers. The elephants then quickly left the spot and Ahana was back on her mother's arms. The truck driver took the family to Lataguri. Ghosh and his wife were injured and were admitted to a nursing home in Jalpaiguri. Doctors in the private facility said the girl suffered no external injury but was traumatised. For Breaking News and Instant Updates Allow Notifications Story first published: Friday, February 22, 2019, 23:59 [IST]"]
+
+
+West Bengal----LOC.STATE
+
+girl----SUS.GENDER
+
+scooter----TRANSPORT_MODE
+
+wild elephant----SP.SPECIFIC
+
+girl----SUS.GENDER
+
+wild elephant----SP.COMMON
+
+elephant----SP.COMMON
+
+four-year-old----SUS.AGE
+
+girl----SUS.GENDER
+
+Jalpaiguri----LOC.DISTRICT
+
+Thursday----DATE
+
+National Highway 31 near Garumara forest----LOC.EXACT
+
+businessman----OFF.DESIG
+
+Nitu Ghosh----SUS.NAME
+
+Titli----SUS.NAME
+
+Ahana----SUS.NAME

@@ -1,0 +1,69 @@
+
+['Three arrested for smuggling red sandalwood worth Rs 27 lakh: Pune Police\nPune City Police have arrested three persons in connection with the smuggling of red sandalwood, which is a prohibited item for export and is also covered under the Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES) list. Police have identified the accused as Alen Waghmare (25), Rohit Rudrap (20) and Vicky Sabale (19). Acting on a tip-off, a Crime Branch team intercepted a tempo at the toll post in Loni Kalbhor on the Pune Solapur road. During searches, police recovered 270 kg of red sandalwood worth Rs 27 lakh from the vehicle. Police seized the red sandalwood along with the vehicle. Police arrested its driver Sabale and his aide Rudrap, who was also present in the vehicle. – Stay updated with the latest Pune news. Follow Express Pune on Twitter here and on Facebook here. You can also join our Express Pune Telegram channel here. During further probe, police arrested Waghmare, who allegedly provided the banned red sandalwood to Sabale and Rudrap. Police also informed the state Forest department about the seizure. Police suspect that the accused were planning to sell red sandalwood to some persons in the Loni Kalbhor area. The three men have been arrested under sections of the Indian Penal Code and sections of the Forest Conservation Rules and Forest Conservation Act. Probe is on to find out from where the seized red sandalwood was brought to Pune and if other persons were involved in this racket.']
+
+
+Three----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+smuggling----CRIME.CAT
+
+red sandalwood----SP.COMMON
+
+Rs 27 lakh----VALUE
+
+Pune Police----AUTH.SEIZE
+
+Pune City Police----AUTH.SEIZE
+
+arrested----CRIME.CAT
+
+three----SUS.NUMBER
+
+smuggling----CRIME.CAT
+
+red sandalwood----SP.COMMON
+
+Alen Waghmare----SUS.NAME
+
+25----SUS.AGE
+
+Rohit Rudrap----SUS.NAME
+
+20----SUS.AGE
+
+Vicky Sabale----SUS.NAME
+
+19----SUS.AGE
+
+tip-off----DETECTION_METHOD
+
+Crime Branch team----AUTH.SEIZE
+
+intercepted----DETECTION_METHOD
+
+tempo----TRANSPORT_MODE
+
+Loni Kalbhor on the Pune Solapur road----LOC.EXACT
+
+270 kg----QTY
+
+red sandalwood----SP.COMMON
+
+Rs 27 lakh----VALUE
+
+seized----CRIME.CAT
+
+red sandalwood----SP.COMMON
+
+arrested----CRIME.CAT
+
+red sandalwood----SP.COMMON
+
+state Forest department----AUTH.MISC
+
+red sandalwood----SP.COMMON
+
+Loni Kalbhor area----LOC.EXACT
+
+red sandalwood----SP.COMMON

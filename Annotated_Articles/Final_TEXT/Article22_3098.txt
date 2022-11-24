@@ -1,0 +1,47 @@
+
+['Leopard with head stuck in container rescued with help of 30 people, in 48 hours [WATCH]\nAdvertisement New Delhi: It took over 30 people in the Thane district of Maharashtra to rescue a leopard cub, who had its head stuck in a plastic water container. The search and rescue operations lasted for a whole 48 hours on Tuesday. The search operation was led by a team of forest department officials and some animal lovers. According to news agency PTI, the leopard cub, which is around a year old, had put its head inside the container to drink water and was unable to remove it. “The leopard was spotted running around in Goregaon area of Badlapur in distress on Sunday night”, a forest department official said on Tuesday. A video was captured by tourists who spotted the leopard desperately trying to free itself while passing near Badlapur. As the video surfaced online, it went viral on social media. Local animal welfare charities and other social media users tagged the forest department along with the video, while asking to take the appropriate actions in the matter. Officials from the forest department and the state’s Sanjay Gandhi National Park (SGNP), as well as representatives of the NGO Resqink Association for Wildlife Welfare (RAWW), launched a search operation to track down the big cat. As per the news daily Indian Express, the leopard cub was found near Badlapur village after a long search operation. The team transquilised the cub with a dart. “As the dart hit the leopard, it shuddered such exertion that that the container came loose”, informed a forest official. The leopard has been moved to the Sanjay Gandhi National Park rescue centre for treatment and will be released in the wild after full recovery.']
+
+
+Leopard----SP.COMMON
+
+head----ITEM
+
+container----CONCEALMENT_METHOD
+
+rescued----CRIME.CAT
+
+30----SUS.NUMBER
+
+30 people----SUS.NUMBER
+
+Thane----LOC.DISTRICT
+
+Maharashtra----LOC.STATE
+
+leopard cub----SP.COMMON
+
+head----ITEM
+
+plastic water container----CONCEALMENT_METHOD
+
+search and rescue operations----DETECTION_METHOD
+
+Tuesday----DATE
+
+forest department officials----AUTH.SEIZE
+
+leopard----SP.SPECIFIC
+
+leopard----SP.COMMON
+
+Sunday----DATE
+
+night----TIME
+
+RAWW----AUTH.MISC
+
+search operation----DETECTION_METHOD
+
+leopard cub----SP.COMMON
+
+Badlapur village----LOC.EXACT

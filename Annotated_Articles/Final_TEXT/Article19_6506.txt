@@ -1,0 +1,17 @@
+
+["SARISKA NATIONAL PARK GUIDE RAJU MEENA CONTACT 9680525872\nFirst of, I decided to go to Sariska because we only had very little time spend in India and knowing its a thing of a luck to spot wild animals, I booked a tickets via official India government website, which was quite straight forward and cheap. (I wouldn't recommend going there without a ticket in order to avoid disappointment)  We arrived to the gate on 8th of December and it was really cold morning, we had some great ginger tea for 10ruppies, which was more than welcomed. Local monkies stole part of my breakfast, which was fun to me, but beware that can happen.  We departed and knowing Sariska is over 200km2 and there's about 16tigers at the moment, I knew the chances were slim. Our driver and guide genuinly looked for any tracks or tiger foot prints, at that time I told my girl friend that it's nice that they at least put some effort into it, even though odds are against us.  About 45-60minutes into a drive, there was a jeep passing by and we were told there is a tiger spotted closeby in the area. In that moment our driver stepped on it and in about 2minutes we reached the place. Where we first thought it was a hoax and then I noticed huge head staring at us :-)). We were told later it was the alfa male of Sariska, he just killed a cow and he was dragging her away. So this was something amazing.  After next hour we saw a Hyena, which was again stroke of a luck, since you hard spot any during the day. Then we saw bunch of birds, crocodiles, deer, boar etc...  Overall, my hopes were very low and experience was really great.  Last but not least, seeing reaction of our guide how happy he was that we saw a tiger and hyena, you could see he was a real animal lover, so it made me apreciate this place isn't too comercialized. But you have to accept the fact that chances of seeing tigers are slim."]
+
+
+jeep----DETECTION_METHOD
+
+tiger----SP.COMMON
+
+Hyena----SP.SPECIFIC
+
+birds----SP.COMMON
+
+crocodiles----SP.COMMON
+
+deer----SP.COMMON
+
+boar----SP.COMMON

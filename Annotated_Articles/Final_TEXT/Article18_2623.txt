@@ -1,0 +1,11 @@
+
+['Snake at OGH finally caught after 4 mnths\nHyderabad: A rat snake that has been scaring doctors at the Osmania General Hospital ( OGH ) general surgery department for the last four months, was finally caught on Saturday after a staffer spotted it.A snake rescue team from an NGO was called. However, doctors working in the department can hardly relax, knowing that this is the second time a snake has been caught from the premises .“Since this is a very old building, during every rainy season, someone or the other spots a snake. A year and a half back too a snake was caught in department.,” said a doctor. tnn']
+
+
+Snake----SP.COMMON
+
+OGH----LOC.EXACT
+
+rat snake----SP.COMMON
+
+Saturday----DATE

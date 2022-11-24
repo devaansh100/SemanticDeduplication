@@ -1,0 +1,35 @@
+
+['Task Force seizes red sanders logs of worth Rs 2 Crore from a tank in Kadapa\nKadapa: In a major haul, Redsanders Anti smuggling Task Force (RSASTF) on Tuesday retrieved 100 red sander logs from Annssamudram Racha Cheruvu (tank) in Pullampeta Mandal of YSR Kadapa district. The smugglers dumped the logs in the tank canal near the forest so as to take them out later at a convenient time for smuggling them. A team of Task Force led by RSI Krupanandam after receiving an information on the red sanders dump took up combing in the area on the forest fringe leading to the recovery of the red sanders. Task Force senior officials including SP G Anjaneyulu reached the area where they inspected the logs recovery operation from the tank canal.  Later, speaking to media, task force SP said the logs weighing about three tons which were brought by the smugglers from the forest dumped it in the canal as they were not able to smuggle them during Covid time due to restriction on the vehicular movement. ']
+
+
+Task Force----AUTH.SEIZE
+
+seizes----CRIME.CAT
+
+red sanders----SP.COMMON
+
+logs----ITEM
+
+Rs 2 Crore----VALUE
+
+Kadapa----LOC.EXACT
+
+Redsanders Anti smuggling Task Force (RSASTF)----AUTH.SEIZE
+
+Tuesday----DATE
+
+100----QTY
+
+red sander----SP.COMMON
+
+logs----ITEM
+
+Annssamudram Racha Cheruvu (tank----LOC.EXACT
+
+RSI----OFF.DESIG
+
+Krupanandam----OFF.NAME
+
+information----DETECTION_METHOD
+
+SP----OFF.DESIG

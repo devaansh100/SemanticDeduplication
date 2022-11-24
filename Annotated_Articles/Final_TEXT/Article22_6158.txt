@@ -1,0 +1,31 @@
+
+["Uttarakhand: 'Man-eater' tiger caught by forest department in US Nagar\nRUDRAPUR: An eight-year-old male tiger that allegedly killed two people in Udham Singh Nagar's Khatima town last month was trapped by the forest department on Tuesday. The tiger was caught in a dense forest area near Jhau Parsa village in the Surayi range of Terai forests.The department used drone cameras -- a first in the Terai range of forests -- to capture the big cat. After being tranquilised, the feline was caged and subsequently, a team of officials moved it to the rescue centre in the Nainital district, said Sudhir Kumar , ranger of the Surayi forests.Veterinarians Dr Ayush Uniyal and Dr Himanshu Pangti were called on the spot to tranquilise the tiger. The special operation continued for eight hours.Earlier, on May 13, the tiger had triggered panic in the Jhau Parsa area in Khatima by killing a 52-year-old man from the village near the Sharda dam. A joint team of the police and the forest department recovered his severed body the next morning while searching through the woods. Later, on May 25, the same tiger killed a 40-year-old man, who was out to collect cattle fodder."]
+
+
+tiger----SP.COMMON
+
+forest department----AUTH.SEIZE
+
+Nagar----LOC.DISTRICT
+
+tiger----SP.COMMON
+
+forest department----AUTH.SEIZE
+
+Tuesday----DATE
+
+tiger----SP.COMMON
+
+Jhau Parsa village----LOC.EXACT
+
+drone cameras----DETECTION_METHOD
+
+big cat. After being----SP.COMMON
+
+May 13----DATE
+
+52-year-old----SUS.AGE
+
+man----SUS.GENDER
+
+May 25----DATE

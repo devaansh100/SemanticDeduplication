@@ -1,0 +1,35 @@
+
+['SHOCKER : Four Men Arrested For Raping A Monitor Lizard!!\nA shocking report about a group of men involving in raping a monitor lizard has sent shock waves to the entire country. The inhumane act took place in the Sahydari Tiger Reserve that is located in Maharashtra. The accused who are identified as hunters reportedly entered the core zone of the forest in the Gabha area of Gothane and committed the heinous crime. Identified as Sandeep Tukram, Pawar Mangesh, Janardhan Kamtekar and Akshay Sunil, the Maharashtra forest department accused them after checking their mobile phones. The officials, reportedly found the recording of the act in the mobile phone of one of the accused. The clip, reportedly showed the accused gang raping a monitor lizard. With the help of the CCTV footages, the forest officials who were posted at Sangli forest reserve, traced the accused. In the CCTV footages, they were found roaming in the forest. While inquiring about the details of the incident, authorities came to know that three of the accused came from Konkan to KolhpurKolhpur’s Chandoli village for hunting. The Forest officials had decided to take up the matter to the Indian Penal Code ti discuss the charges against the accused. Officials confirmed that the accused will the produced in a court and appropriate legal action will be taken against then. The report baffled the users of Internet who came up with questions asking where the world is heading to. Even lizards aren’t safe in India. — PandaNomica (@NomicaPanda) April 13, 2022 Animals to human in coming years…😶 pic.twitter.com/3elKDvV4hs — Raj (@Raj08_2) April 14, 2022 There should be strict laws In india like dubai have…how can we tolerate this 🤬…Only strictly imposition of law can stop these type of crimes — Pranav Deshmukh (@PranavD2003) April 14, 2022 Humanity is no longer in humans, such people cannot even be called animals because they have fallen more than them. @RVCJ_FB https://t.co/LA7sSsehho — satyam.ps IND🇮🇳 (@Satyams09_IND) April 14, 2022 On another episode of men sticking their dicks everywhere shall we victim blame the monitor Lizard too? What was the lizard wearing ? Must have wagged it’s tail provocatively to make them do that😟 https://t.co/MtR61SpJd6 — \u200e✧ ೃ\U0001faf6🏾bora hoodlum ibk ⟭⟬. semi ia 📚 *ੈ✩ (@joonieslily) April 14, 2022 K*ll them. Immediately. They’re gonna Start the next pandemic. https://t.co/neSmYjS2lC — Chad the white man (@Deedee_231) April 14, 2022 The Bengal monitor Lizard is a reserved species under the Wildlife Protection Act 1972. They are generally hunted for meat and could weight upto 7 kgs, according to media portals. Reports suggests that the accused could get seven years of imprisonment.']
+
+
+Four----SUS.NUMBER
+
+Men----SUS.GENDER
+
+Arrested----CRIME.CAT
+
+Raping----CRIME.CAT
+
+Monitor Lizard----SP.COMMON
+
+raping----CRIME.CAT
+
+monitor lizard----SP.COMMON
+
+Sahydari Tiger Reserve----LOC.EXACT
+
+Maharashtra----LOC.STATE
+
+hunters----SUS.AFFIL
+
+Sandeep Tukram----SUS.NAME
+
+Pawar Mangesh----SUS.NAME
+
+Janardhan Kamtekar----SUS.NAME
+
+Akshay Sunil----SUS.NAME
+
+CCTV footages----DETECTION_METHOD
+
+seven years of imprisonment----OUTCOME

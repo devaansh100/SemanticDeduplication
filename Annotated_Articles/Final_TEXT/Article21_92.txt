@@ -1,0 +1,59 @@
+
+['22 peafowls found dead near Trichy\nTrichy: As many as 16 peahens and six peacocks were found dead on a 1.5-acre agriculture field near Manapparai in Trichy district on Monday.The forest department suspects that it is a case of poisoning and booked Rasu, 60, and his wife Ponnammal alias Chinnaponnu, 55, the owners of the land on prima facie evidence under Section 9 of the Wildlife Protection Act 1972. The forest officials recovered traps from their agriculture field at Keela Poigaipatti village where the birds were found dead. While Rasu is absconding, Ponnammal was arrested and produced before Trichy district court. She was later released on condition bail by the court.On Monday, the Manapparai forest range office received information on the dead peafowls. A team of forest officials rushed to the spot and recovered carcasses of 22 peafowls, which include 16 peahens and six peacocks.According to A Maheshwaran, forest range officer, Manapparai range, the duo had set traps on their fields to capture wild hare, which is a punishable offence. “We suspect that some of the birds could have fallen prey to the traps. However, the major cause of death appears to be poisoning,” he said. The population of peafowl in Trichy forest has increased in recent years across Manapparai in the absence of predators such as fox and jackal. They often fall prey to road accidents and electrocution. Poaching too has been taking a toll on their numbers.Rasu had sown groundnut on his plot and the forest staff suspected that he could have poisoned the birds to save his crops. Speaking to TOI, Trichy district forest officer D Sujatha said such a number of peacocks dying at one place hints at poisoning. We have taken samples of the birds for forensic tests to ascertain the death cause, she said.The forest staff buried the birds after performing a postmortem. The officials said that death of at least 40 peafowls was reported in the last two months in Manapparai in separate incidents.']
+
+
+22----QTY
+
+peafowls----SP.COMMON
+
+found dead----CRIME.CAT
+
+16----QTY
+
+peahens----SP.COMMON
+
+six----QTY
+
+peacocks----SP.COMMON
+
+Manapparai----LOC.CITY
+
+Trichy district----LOC.DISTRICT
+
+Monday.The----DATE
+
+forest department----AUTH.SEIZE
+
+poisoning----CRIME.CAT
+
+Rasu----SUS.NAME
+
+60----SUS.AGE
+
+Ponnammal alias Chinnaponnu----SUS.NAME
+
+55----SUS.AGE
+
+birds----SP.COMMON
+
+Rasu is absconding, Ponnammal was arrested and produced before Trichy district court. She was later released on condition bail by the court.On----OUTCOME
+
+information----DETECTION_METHOD
+
+forest officials----AUTH.SEIZE
+
+carcasses----ITEM
+
+22----QTY
+
+peafowls----SP.COMMON
+
+16----QTY
+
+peahens----SP.COMMON
+
+six----QTY
+
+peacocks----SP.SPECIFIC
+
+taken samples of the birds for forensic tests to ascertain the death cause----OUTCOME

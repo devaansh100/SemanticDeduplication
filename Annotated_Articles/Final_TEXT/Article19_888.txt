@@ -1,0 +1,25 @@
+
+['Hawker dies while fleeing TMC team\nheart attack Thane Municipal Corporation illegal vendors Kasarvadavali junction Yashraj Park TMC 45-year-old, who had a chappal stall at the spot for 20 years, sufferedA 45-year-old hawker died after he allegedly suffered a heart attack while fleeing with his merchandise after thereached the spot to evictfrom a street in Kasarvadavali area.The incident happened at around 11.15 am on Wednesday. The police said Farid Ahmed Khan, 45, aresident of Vijay Park Road, Kasarvadavali, Thane West, had a chappal stall atnearAccording to the police, theofficials were on their way to carry out a survey under their anti-encroachment drive when Khan noticed them.“Seeing the TMC vehicle, the hawkers started running away. Khan also picked up his belongings, loaded them on a hand cart and ran away from the spot. About 100 metres from the spot, he felt uneasy. A 14-year-old boy who heard Khan’s shouts for help informed his wife, rushed him to a nearby hospital,” Datta Dhole, Senior Inspector of Kasarvadavali police station, told Mirror.“My uncle got scared as the TMC officials have been carrying out several drives against illegal hawkers. He had been sitting at the place for the past 20 years. He has two sons and four daughters,” said Amjad Khan a relative of Farid.“The post-mortem was carried out in Thane Civic Hospital in which, prima facie, heart attack was found to be the cause of death,” said Dhole.']
+
+
+Hawker----SUS.AFFIL
+
+Thane Municipal Corporation----AUTH.SEIZE
+
+45-year-old----SUS.AGE
+
+45-year-old----SUS.AGE
+
+hawker----SUS.AFFIL
+
+11.15 am on----TIME
+
+Wednesday----DATE
+
+Farid Ahmed Khan----SUS.NAME
+
+45----SUS.AGE
+
+Vijay Park Road, Kasarvadavali, Thane West----SUS.LOC
+
+14-year-old----SUS.AGE

@@ -1,0 +1,51 @@
+
+['300kg of sea cucumbers seized in Tuticorin\nTUTICORIN: The Thalamuthunagar police in Tuticorin seized 300 kg sea cucumbers and picked up a man for questioning.During patrolling on Monday night, the police spotted a mini goods carrier parked near a private godown at Lourthammalpuram. On checking the vehicle, they found sea cucumbers in eight cement bags.There was nobody in the vehicle. The police seized the vehicle and the sea cucumbers. Later, they picked up a man for questioning in connection with this.Sea cucumbers are protected under Schedule I of the Wildlife Protection Act, 1972.']
+
+
+300kg----QTY
+
+sea cucumbers----SP.COMMON
+
+seized----CRIME.CAT
+
+Tuticorin----LOC.CITY
+
+Thalamuthunagar police----AUTH.SEIZE
+
+Tuticorin----LOC.CITY
+
+seized----CRIME.CAT
+
+300 kg----QTY
+
+sea cucumbers----SP.COMMON
+
+a----SUS.NUMBER
+
+man----SUS.GENDER
+
+patrolling----DETECTION_METHOD
+
+Monday----DATE
+
+night----TIME
+
+mini goods carrier----TRANSPORT_MODE
+
+near a private godown at Lourthammalpuram----LOC.EXACT
+
+checking----DETECTION_METHOD
+
+vehicle----TRANSPORT_MODE
+
+sea cucumbers----SP.COMMON
+
+cement bags.There----CONCEALMENT_METHOD
+
+vehicle----TRANSPORT_MODE
+
+vehicle----TRANSPORT_MODE
+
+a----SUS.NUMBER
+
+man----SUS.GENDER

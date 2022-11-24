@@ -1,0 +1,51 @@
+
+['Rajasthan: Forest officials accused of cutting tiger\'s moustache for amulet; guard complains to Ashok Gehlot\nThe forest guard has demanded strict action against the guilty officials. Key Highlights The explosive letter has accused officials of Sariska Tiger Reserve of cutting an ill tiger\'s moustache for amulet Guard tells chief minister that he can confirm the incident by checking the moustache of the tiger. Jaipur: A purported letter written by a forest guard to Rajasthan Chief Minister Ashok Gehlot complaining about the misdemeanour of senior forest officials has gone viral in wildlife circles. The explosive letter has accused officials of Sariska Tiger Reserve of cutting an ill tiger\'s moustache for making an amulet. The unnamed guard alleged that officials cut off moustache of tiger ST-6 who is under treatment at the reserve. The letter details that ST-6 is lodged in an enclosure for treatment since January. This is when the hair from moustache of ST-6 was cut off. Body parts including nail and moustache of tiger are in high demand leading to animals poaching in large numbers. Now, the senior officials allegedly indulging in such acts demand a high-level inquiry. In the alleged letter, the guard stated, "I am posted as a forest guard at the Sariska Tiger Reserve for many years. The tiger ST-6 is lodged in an enclosure due for treatment. The tiger was given tranquiliser on Jan 10 2021. It was at this time when Conservator of Forests (CF) RN Meena asked other staff to go to a side and cut off its hair with a scissor. Forest Ranger Jitendra Chaudhary and doctor Meena were also involved in this act." The guard further added, "This \'information\' was slipped out from Forest Ranger when he was drunk. Later, the CF started threatening staff not to disclose this information." The forest guard has demanded strict action against the guilty officials. He also told the chief minister that he can confirm the incident by checking the moustache of the tiger. The complaint letter has also been marked to Rajasthan forest minister, National Tiger Conservation Authority in Delhi, Head of Forest Force (HoFF) Aranya Bhavan in Jaipur among others.']
+
+
+Forest officials----SUS.AFFIL
+
+tiger's----SP.COMMON
+
+moustache----ITEM
+
+guard complains----DETECTION_METHOD
+
+Sariska Tiger Reserve----LOC.EXACT
+
+tiger's----SP.COMMON
+
+moustache----ITEM
+
+senior forest officials----SUS.AFFIL
+
+Sariska Tiger Reserve----LOC.EXACT
+
+tiger's----SP.COMMON
+
+moustache----ITEM
+
+officials----SUS.AFFIL
+
+moustache----ITEM
+
+tiger ST-6 who----SP.SPECIFIC
+
+Sariska Tiger Reserve for----LOC.EXACT
+
+tiger ST-6 is----SP.SPECIFIC
+
+Forest Ranger----SUS.AFFIL
+
+Jitendra Chaudhary----SUS.NAME
+
+doctor----SUS.AFFIL
+
+Meena----SUS.NAME
+
+National Tiger Conservation Authority----AUTH.MISC
+
+Head of Forest Force----AUTH.MISC
+
+HoFF----AUTH.MISC
+
+Aranya Bhavan----AUTH.MISC

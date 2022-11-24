@@ -1,0 +1,51 @@
+
+['UP Police arrests 3 poachers, seizes 100 kg of boar meat\nBanda : , Dec 1 (IANS) The Banda police has arrested three wildlife poachers and seized 100 kg boar meat and an SUV from their possession, forest officials said on Tuesday. Raghvendra Pratap, Jamuna Prasad, and Raju Kushwaha of Tatam Maharajpur were trying to smuggle boar meat to Punjab and Kerala when they were apprehended. Forest Officer MP Gautam said: "The arrested men are professional poachers, who pickled meat of boars killed by using small bombs in food bait and smuggled it to Punjab and Kerala to sell for Rs 2,000 per kg. They hid countrymade bombs in buffalo carcass meat in forests and the boars were killed while biting into it." The poachers used to procure explosives from people involved in mining. Gautam said that a number of accomplices of the arrested accused were on the run. "We will arrest them soon. Going by the huge quantity of seized boar meat, it is clear that many others are involved in this illegal activity. More details will come to the fore after interrogation of the three arrested poachers." The boar or wild pig is a protected species under the Indian Wildlife Protection Act of 1972.']
+
+
+UP Police----AUTH.SEIZE
+
+arrests----CRIME.CAT
+
+3----SUS.NUMBER
+
+seizes----CRIME.CAT
+
+100 kg----QTY
+
+boar----SP.COMMON
+
+meat----ITEM
+
+Banda police----AUTH.SEIZE
+
+arrested----CRIME.CAT
+
+three----SUS.NUMBER
+
+wildlife poachers----SUS.AFFIL
+
+seized----CRIME.CAT
+
+100 kg----QTY
+
+boar----SP.COMMON
+
+meat----ITEM
+
+an SUV----ITEM
+
+Raghvendra Pratap----SUS.NAME
+
+Jamuna Prasad----SUS.NAME
+
+Raju Kushwaha----SUS.NAME
+
+Tatam Maharajpur----SUS.LOC
+
+boar----SP.COMMON
+
+meat----ITEM
+
+Punjab and Kerala----ROUTE.DEST
+
+Rs 2,000 per kg----VALUE

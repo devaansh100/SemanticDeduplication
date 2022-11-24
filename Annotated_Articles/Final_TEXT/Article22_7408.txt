@@ -1,0 +1,53 @@
+
+['4 poachers arrested in Similipal\nBhubaneswar: The anti-poaching squad of Similipal Tiger Reserve on Friday arrested four poachers for allegedly hunting a deer in Kendumundi range. The squad seized 12 kg of venison from them along with three country-made guns.Assistant conservator of forests (Similipal north) Pradip Dey said the four poachers belonged to Pahadpur, Ramjodi and Burudihi villages under Karanjia block. The poachers were identified as Keres Sinkhutia, Sudarshan Naik, Chakradhar Gagarai and Basudeb Naik.The poachers hunted the deer in Kendumundi range. The anti-poaching squad caught one of them first and then the rest three were arrested on his tip off. They have been booked under sections 25 and 27 of the Arms Act and Wildlife Protection Act 1972. Police are separately looking into illegal arms possession by them, said Dey.Meanwhile, a forester, Tarun Das (38), escaped unhurt after a herd of 24 elephants chased him while he was returning from field duty at Haldi under Chahala range in Similipal. While scurrying for cover, he broke his left leg. Tarun was shifted from Mayurbhanj district headquarters hospital to AIIMS, Bhubaneswar, for treatment.']
+
+
+4----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+Similipal----LOC.EXACT
+
+Bhubaneswar----LOC.CITY
+
+anti-poaching squad----AUTH.SEIZE
+
+Similipal Tiger Reserve----LOC.EXACT
+
+Friday----DATE
+
+arrested----CRIME.CAT
+
+four----SUS.NUMBER
+
+hunting----CRIME.CAT
+
+deer----SP.COMMON
+
+12 kg----QTY
+
+venison----ITEM
+
+three----QTY
+
+country-made guns----ITEM
+
+Keres Sinkhutia----SUS.NAME
+
+Sudarshan Naik----SUS.NAME
+
+Chakradhar Gagarai----SUS.NAME
+
+Basudeb Naik.The----SUS.NAME
+
+hunted----CRIME.CAT
+
+deer----SP.COMMON
+
+anti-poaching squad----AUTH.SEIZE
+
+tip off----DETECTION_METHOD
+
+Tarun Das----SUS.NAME
+
+38----SUS.AGE

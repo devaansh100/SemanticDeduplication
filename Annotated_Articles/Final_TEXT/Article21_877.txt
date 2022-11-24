@@ -1,0 +1,51 @@
+
+['Delhi: 5 Kashmiri men convicted for possessing Shahtoosh Shawls made from endangered Tibetian antelopes\nPremium The court said it will pass further orders after the submission of the preliminary inquiry report by the central agency. A Delhi court convicted five Kashmiri men for possessing Shahtoosh Shawls which is made from the fur of a Tibetan Antelope, an animal protected under the Wildlife Act. You need a subscription to read on. Now available starting just Rs 2.75/ day. Subscribe to get unlimited access to The Indian Express exclusive and premium stories. Subscribe now to get unlimited access to The Indian Express exclusive and premium stories. The Shahtoosh trade was banned globally in 1975 under the Convention on International Trade in Endangered Species (CITES). The antelope is provided protection under Schedule 1 of the Wildlife (Prevention) Act. This came into force after they were hunted and poached for their fine wool and then made into scarves and shawls which used to fetch exorbitant prices in affluent countries. Additional Chief Metropolitan Magistrate Pawan Kumar convicted accused Mohd Yaseen Wani alongwith his son Mohd Imtiaz, and Asif Hussain, Gowhar and Ashraf Mir for offences under section 120-B (Punishment of criminal conspiracy) and sections under the Wildlife (protection) Act, 1972. The court reached the conclusion after all the five men pleaded guilty without any pressure or force and after the court explained to them the consequences of pleading guilty. They have been facing trial for the past 16 years and have asked to be released on probation. The case was registered by the CBI on the information that Wani alongwith his son Imtiaz were involved in the trade of Shahtoosh shawls which they ran from their carpet company based at Mariott Hotel in Saket. After the raid and recovery of eight Shahtoosh shawls from them, the other accused persons were arrested by the agency on their disclosure statements and five more shawls were recovered. The prosecution argued that the accused persons should be given strict punishment for committing a serious offence. On the other hand, the defence counsels argued that the convicts have been facing trial for 16 years and did not have any previous criminal antecedents.']
+
+
+5----SUS.NUMBER
+
+Kashmiri----SUS.NAT
+
+men----SUS.GENDER
+
+Shahtoosh----SP.SPECIFIC
+
+Shawls----ITEM
+
+Tibetian antelopes----SP.SPECIFIC
+
+convicted----CRIME.CAT
+
+five----SUS.NUMBER
+
+Kashmiri----SUS.NAT
+
+men----SUS.GENDER
+
+Shahtoosh----SP.SPECIFIC
+
+Shawls----ITEM
+
+fur----ITEM
+
+Tibetan Antelope----SP.SPECIFIC
+
+Additional Chief Metropolitan Magistrate----OFF.DESIG
+
+Pawan Kumar----OFF.NAME
+
+convicted----OUTCOME
+
+Mohd Yaseen Wani----SUS.NAME
+
+Mohd Imtiaz----SUS.NAME
+
+Asif Hussain----SUS.NAME
+
+Gowhar----SUS.NAME
+
+Ashraf Mir----SUS.NAME
+
+offences under section 120-B (Punishment of criminal conspiracy) and sections under the Wildlife (protection) Act, 1972----OUTCOME
+
+Wani----SUS.NAME

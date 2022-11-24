@@ -1,0 +1,51 @@
+
+['4 Arrested for Stealing Pair of Squirrel Monkeys from Vandaloor Zoo in Chennai\nThe Vandaloor Zoo next to Chennai is home to several rare species of flora and fauna. In this case, these rare species of squirrel monkeys disappeared from the cage for public viewing last week. Park officials were immediately notified when they arrived at the scene that some persons had cut the iron cage and stolen the squirrel monkeys. Meanwhile, the park officials lodged a police complaint with the Otteri police station. Police investigating the complaint alerted the airports that there was a possibility of smuggling the two squirrel monkeys abroad. The railway stations and major bus stations were also alerted. The cops suspected that the squirrel monkeys cannot be easily removed from the cage by the general public, so the investigation was carried out on the angle that some of the staff may have committed the crime. Subsequently, four people, including the zoo staff has been arrested in connection with the theft. During the investigation, the 34-year-old Shakthivel, who is a contract employee in the zoo, along with his friend Janakiraman (21), stole the squirrel monkeys. It was later learned that the squirrel monkeys had been sold to a pet trader, Vinod (29) by a 21-year-old Loganathan for Rs 4 lakh. The police arrested the four men. Both of the monkeys have been rescued from a pet shop in Kolathur and safely relocked in the zoo. On the day of the incident, Janakiraman had bought a ticket to the zoo. Shakthivel along with Janakiraman waited till the visitors left the zoo and during dusk, they cut the wires of the cage and put the animals in a backpack with holes for ventilation. According to officials, there was no CCTV camera at the spot. Meanwhile, Tambaram police commissioner Ravi formed a team led by deputy commissioner Sibi Chakravarthy to carry out the investigation. When the cops enquired the CCTV camera footage at the gate, they came to know that Shakthivel handed over a backpack to a visitor. The two male squirrel monkeys had been handed over to the Vandaloor zoo during July 2020 by the Directorate of Revenue Intelligence in Chennai. According to the zoo officials, the squirrel monkeys are being kept in an enclosure and will be rehabilitated once the case gets closed. Read all the Latest News, Breaking News and Assembly Elections Live Updates here.']
+
+
+4----SUS.NUMBER
+
+Arrested----CRIME.CAT
+
+Pair----QTY
+
+Squirrel Monkeys----SP.COMMON
+
+Vandaloor Zoo----LOC.EXACT
+
+Chennai----LOC.CITY
+
+four----SUS.NUMBER
+
+arrested----OUTCOME
+
+34----SUS.AGE
+
+Shakthivel----SUS.NAME
+
+Janakiraman----SUS.NAME
+
+21----SUS.AGE
+
+Vinod----SUS.NAME
+
+29----SUS.AGE
+
+21-year-old----SUS.AGE
+
+Loganathan----SUS.NAME
+
+4 lakh----VALUE
+
+four----SUS.NUMBER
+
+men----SUS.GENDER
+
+backpack----CONCEALMENT_METHOD
+
+Tambaram police commissioner----AUTH.SEIZE
+
+Ravi----OFF.NAME
+
+deputy commissioner----OFF.DESIG
+
+Sibi Chakravarthy----OFF.NAME

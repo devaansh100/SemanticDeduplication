@@ -1,0 +1,33 @@
+
+['Odisha STF seizes leopard skin, arrests wildlife criminal\nIn the latest interception of wildlife offences, the Special Task Force (STF) wing of Odisha police seized a leopard skin and arrested a wildlife criminal in Kandhamal district, officials said on Sunday. The poaching of these protected animals has shot up in Odisha with the seizure of around 40 leopard skins in the last two years. Of the seizures, the STF alone has accounted for the seizure of 27 skins. The arrested person was identified as Bipin Nayak. The STF personnel nabbed the offender near Daberi village under the Daringbadi police station jurisdiction of the Kandhamal district. He was about to strike a deal to dispose of the skin when the STF arrested them on specific feedback provided from the ground level, said Deputy Inspector General of Police, STF, Mr. Jai Narayan Pankaj. Poaching of leopards, a Schedule I animal under the Wildlife Protection Act, 1972 that provides for absolute protection of the animals, has gone up in the State, posing threat to the protected wildlife species. The arrested person is being interrogated. It is being investigated to ascertain whether he was part of an organized wildlife trophy smuggling racket. During the last two years, the STF has intensified its special drive against the wildlife criminals and poachers and seized as many as 27 leopard skins, 15 elephant tusks, 7 deer skins, 12 live pangolins, and 23.5 kg pangolin scales, 2 leopard teeth, 29 leopard claws while 64 wildlife criminals were also arrested.']
+
+
+STF----AUTH.SEIZE
+
+seizes----CRIME.CAT
+
+leopard----SP.COMMON
+
+skin----ITEM
+
+Special Task Force (STF)----AUTH.SEIZE
+
+seized----CRIME.CAT
+
+a----QTY
+
+leopard----SP.COMMON
+
+skin----ITEM
+
+Kandhamal district----LOC.DISTRICT
+
+Bipin Nayak----SUS.NAME
+
+STF----AUTH.SEIZE
+
+Daberi village----LOC.EXACT
+
+Deputy Inspector General of Police, STF----OFF.DESIG
+
+Jai Narayan Pankaj----OFF.NAME

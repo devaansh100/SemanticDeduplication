@@ -1,0 +1,15 @@
+
+['Leopard caught in barbed wire dies near Ooty\nUDHAGAMANDALAM: A male sub-adult leopard, which got trapped in a snare placed in a barbed wire fence at Yellanhalli near Ooty , died soon after it was rescued on Thursday.Locals, who found the leopard caught in the fence on a farmland at Jothi Nagar , had informed the forest department. The animal, about three years old, might have got caught in a snare planted in the fence, assistant conservator of forests Saravanakumar said. “It would have struggled to release itself from the snare the whole night and thus it had hurt its hind legs badly. It took nearly eight hours for our team to release it from the snare. However, the animal died within half-an-hour after it was released,” he said.“We guess that stress was the main reason for the cause of death,” the official said.The carcass was brought to a forest rest house at Deer Park near the Ooty Lake for postmortem. Samples were collected for lab tests. Later, the carcass was burnt inside a reserve forest.“The snare was placed for poaching wild boar. An inquiry is underway,” Saravanakumar added.']
+
+
+Leopard----SP.COMMON
+
+Ooty----LOC.EXACT
+
+sub-adult leopard----SP.SPECIFIC
+
+Ooty----LOC.EXACT
+
+Thursday.Locals----DATE
+
+Samples were collected for lab tests. Later, the carcass was burnt inside a reserve forest.“The snare was placed for poaching wild boar----OUTCOME

@@ -1,0 +1,19 @@
+
+["Buy Tickles Jungle Babbar Sher Gir Gujrati Lion Stuffed Soft Plush Toy 20 Cm\nIt's too small for the price, description is as the seller has written. Head is made of plastic stuff inside, rest is all stuffed . Whiskers and fur, over all quality not suitable for my year old niece"]
+
+
+Tickles----ITEM
+
+Jungle Babbar----SP.COMMON
+
+Sher Gir----SP.SPECIFIC
+
+Lion----SP.COMMON
+
+Stuffed Soft Plush Toy----CONCEALMENT_METHOD
+
+20 Cm----QTY
+
+Whiskers----ITEM
+
+fur----ITEM

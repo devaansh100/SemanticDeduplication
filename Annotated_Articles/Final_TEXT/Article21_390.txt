@@ -1,0 +1,53 @@
+
+['Patna doctor among 4 held in big ivory haul\nA team of forest officials seized 35 kilograms of ivory (tusk) from a private hospital in Patna Tuesday evening and arrested four people, including a doctor. Divisional forest officer (DFO) of Patna, Ruchi Singh, said the raid was carried out on a tip-off and a team of Wildlife Crime Control Bureau (WCCB) had arrested Dr Jyoti Kumar, his driver Guddu Rai and two other accomplices, Bunty Patel and Ravi Ranjan, from the premises of Chirayu hospital near Zero Mile under Agamkuan police station area of the state capital. Dr Jyoti, a resident of Hajipur, is also BJP’s district unit president in Vaishali. The seized tusks were said to be worth an estimated ₹8.50 crore in the international market. The tusks will be sent to the Wildlife Institute of India (WII) in Dehradun for chemical examination to verify if it was of Asiatic elephant and other details. The DFO said the arrested doctor kept saying during questioning that tusks were from two elephants he owned and which had died four years back. However, he failed to produce a licence for owning elephants or a postmortem report. “Even if he had an elephant, the tusks were required to be submitted to the government as per Wildlife (Protection) Act, 1972,” the DFO said. SHARE THIS ARTICLE ON ABOUT THE AUTHOR Avinash Kumar Avinash, a senior correspondent, reports on crime, railways, defence and social sector, with specialisation in police, home department and other investigation agencies. ...view detail']
+
+
+4----SUS.NUMBER
+
+ivory----ITEM
+
+forest officials----AUTH.SEIZE
+
+seized----CRIME.CAT
+
+35 kilograms----QTY
+
+ivory (tusk)----ITEM
+
+Patna----LOC.DISTRICT
+
+Tuesday----DATE
+
+evening----TIME
+
+arrested----CRIME.CAT
+
+four----SUS.NUMBER
+
+raid----DETECTION_METHOD
+
+tip-off----DETECTION_METHOD
+
+Wildlife Crime Control Bureau (WCCB)----AUTH.SEIZE
+
+arrested----CRIME.CAT
+
+Dr Jyoti Kumar----SUS.NAME
+
+Guddu Rai----SUS.NAME
+
+Bunty Patel----SUS.NAME
+
+Ravi Ranjan----SUS.NAME
+
+Chirayu hospital near Zero Mile under Agamkuan police station area----LOC.EXACT
+
+Hajipur----SUS.LOC
+
+tusks----ITEM
+
+tusks----ITEM
+
+chemical examination to verify if it was of Asiatic elephant and other details.----OUTCOME
+
+tusks----ITEM

@@ -1,0 +1,61 @@
+
+['Bengaluru: Four held for trying to sell whale ambergris worth crores\nBengaluru: The north-east division police have nabbed four interstate miscreants involved in ambergris smuggling. Around 11 kg ambergris worth crores rupees was seized from them. The arrested are identified as Mustafa, Nadeem, Yuvaraj and R Karunanidhi, all from Tamil Nadu and Karnataka and are into different unskilled jobs. Based on specific information about the smuggling, Deputy Commissioner of Police (North-East), CK Baba informed a special team. The four accused persons were caught by the team when they were near Ganganagar Circle on VIT Road on Tuesday evening. The police found the accused had illegally sourced ambergris and brought it in a bag to the city to sell it to someone. DCP Baba said, "The accused were involved in the ambergris smuggling. They were trying to find a prospective customer to sell the banned substance."  "In ambergris smuggling the main problem is that the substance changes many hands by the time we catch a few persons involved in it. Zeroing in on the source of the substance is difficult as the accused we catch will not be knowing who is the main supplier or from where they got ambergris," said an investigating officer. Ambergris is a waxy substance produced in the intestine of Sperm Whale. It is used in the manufacture of perfume and in medicines. There is a huge demand for it in foreign countries, A case has been registered against the four accused persons under Wildlife Protection Act.']
+
+
+Four----SUS.NUMBER
+
+sell----CRIME.CAT
+
+whale----SP.COMMON
+
+ambergris----ITEM
+
+north-east division police----AUTH.SEIZE
+
+four----SUS.NUMBER
+
+interstate miscreants----SUS.AFFIL
+
+ambergris----ITEM
+
+smuggling----CRIME.CAT
+
+11 kg----QTY
+
+ambergris----ITEM
+
+crores rupees----VALUE
+
+seized----CRIME.CAT
+
+Mustafa----SUS.NAME
+
+Nadeem----SUS.NAME
+
+Yuvaraj----SUS.NAME
+
+R Karunanidhi----SUS.NAME
+
+Tamil Nadu and Karnataka----SUS.LOC
+
+Deputy Commissioner of Police (North-East----OFF.DESIG
+
+CK Baba----OFF.NAME
+
+four----SUS.NUMBER
+
+Ganganagar Circle on VIT Road----LOC.EXACT
+
+Tuesday----DATE
+
+evening----TIME
+
+ambergris----ITEM
+
+bag----CONCEALMENT_METHOD
+
+smuggling----CRIME.CAT
+
+ambergris----ITEM
+
+four----SUS.NUMBER

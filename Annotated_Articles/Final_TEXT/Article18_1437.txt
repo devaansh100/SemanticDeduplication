@@ -1,0 +1,63 @@
+
+['STF’s big success in Unnao, two traffickers caught red-handed, selling 20 monkeys in western UP\nYou must have heard so far about smuggling hemp and smuggling opium towards the wood, but you will be surprised to know today. One such case is Uttar Pradesh (Uttar PradeshThe incident of monkey trafficking has come to light in Unnao district. At the same time, the STF team has got great success. Where STF gets clues that monkeys are being trafficked. The STF has intensified investigations and conducted raids, arresting two people living in the wreckage of Unnao. UP STF team also rescued 20 trapped monkeys from the accused. This time, Unnao Police (FTF operation)Unnao police) Is aroused. In fact, in Unnao district, UP STF team has arrested two persons belonging to a special class who have been living in a rented ruined house in Patan town of Bihar for the last 6 years on charges of trafficking monkeys. This time, the STF team also rescued 20 trapped monkeys from the accused. According to the STF, the accused used to sell monkeys in Farrukhabad and western Uttar Pradesh districts. He lived in a rented house for 6 years At the same time, the UP Special Task Force received information from Unnao that the monkeys were being trafficked. Under such circumstances, a raid was carried out in Patan area of \u200b\u200bUnnao police station in Bihar. Where the STF conducted an operation and rescued 20 monkeys trapped in a trap lying in the rubble and arrested two monkey traffickers from a particular community. According to local sources, he has been living in this rented house for the last 8 years. Read this too   STF engaged in search of the original gangster We tell you that people in the area often saw people catching monkeys, the information of which was given to the Bihar police station. But there was no hearing. Someone gave information to a UP STF team. Then the campaign was carried out and they also got success. In this case, Dilip Tripathi, in-charge of the UP Special Task Force, said he received information from informants that two youths from the Muslim community had been living in the destroyed house of Rampayar, a resident of Patan town in Bihar police station, for the past six years. . Where two young men Saddam and Mohammad Nadim, residents of the village of Trilokipur in Fatehpur district. Those who smuggle black-faced monkeys. Based on the information, 20 black-faced monkeys were found trapped in a raid on a broken house late last night. The accused have been arrested and brought to Bihar police station along with the monkeys. At the same time, after apprehending two monkey traffickers, the UP STF has now started searching for the trafficker’s main gangster.']
+
+
+STF----AUTH.SEIZE
+
+Unnao----LOC.EXACT
+
+two----SUS.NUMBER
+
+20----QTY
+
+monkeys----SP.COMMON
+
+STF----AUTH.SEIZE
+
+20----QTY
+
+monkeys----SP.COMMON
+
+two----SUS.NUMBER
+
+Patan town of Bihar----ROUTE.SRC
+
+20----QTY
+
+monkeys----SP.COMMON
+
+UP Special Task Force----AUTH.SEIZE
+
+information----DETECTION_METHOD
+
+raid----DETECTION_METHOD
+
+Patan area----LOC.EXACT
+
+Bihar----LOC.STATE
+
+20----QTY
+
+two----SUS.NUMBER
+
+Rampayar----SUS.NAME
+
+Patan town in Bihar police station----SUS.LOC
+
+Saddam----SUS.NAME
+
+Mohammad Nadim----SUS.NAME
+
+Fatehpur----SUS.LOC
+
+black-faced monkeys----SP.SPECIFIC
+
+20----QTY
+
+black-faced monkeys----SP.SPECIFIC
+
+night----TIME
+
+accused have been arrested and brought to Bihar police station----OUTCOME
+
+two----SUS.NUMBER

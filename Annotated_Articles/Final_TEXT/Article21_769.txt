@@ -1,0 +1,49 @@
+
+['Live pangolin rescued in Balangir district, 2 arrested\nBalangir: The Balangir Forest Department on Friday seized a live pangolin Maharapadar in Balangir district of Odisha and arrested two persons in this connection. On basis of reliable information, the officials of forest department conducted a raid near a field at Maharpada and Banamal about a deal of sale live pangolin by wildlife criminals. The Khaprakhol and Lathor forest officials apprehended them by disguising themselves as customers. During the search one live pangolin and other incriminating materials have been seized from their possession. The arrested persons could not produce any valid authority in support of the possession of live Pangolin and were arrested. The live pangolin will be handed over to wildlife for safe custody. Earlier on Friday, two smugglers have been arrested for selling live pangolin in capital city by the Special Task Force on national highway 16. The accused were identified as Kailash and Chaitanya. A case was registered against the duo while the pangolin will be handed over to Divisional Forest Officer, Khordha Life Warden for safe custody. Also read: STF seizes live Pangolin in the capital city of Odisha, 3 arrested']
+
+
+pangolin----SP.COMMON
+
+rescued----CRIME.CAT
+
+Balangir district----LOC.DISTRICT
+
+2----SUS.NUMBER
+
+Balangir Forest Department----AUTH.SEIZE
+
+Friday----DATE
+
+seized----CRIME.CAT
+
+a----QTY
+
+pangolin----SP.COMMON
+
+Maharapadar----SUS.LOC
+
+Balangir district----LOC.DISTRICT
+
+Odisha----LOC.STATE
+
+arrested----CRIME.CAT
+
+two----SUS.NUMBER
+
+reliable information----DETECTION_METHOD
+
+forest department----AUTH.SEIZE
+
+raid----DETECTION_METHOD
+
+Maharpada and Banamal----LOC.EXACT
+
+pangolin----SP.COMMON
+
+pangolin----SP.COMMON
+
+Pangolin----SP.COMMON
+
+Kailash----SUS.NAME
+
+Chaitanya----SUS.NAME

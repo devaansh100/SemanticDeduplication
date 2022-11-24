@@ -1,0 +1,25 @@
+
+['Assam: Leopard that terrorised village in Golaghat district, caged\nA full-grown leopard that created terror in Betioni Kakoti village in Golaghat district of Assam over the past few days, has been caught and caged by the officials of the Assam forest department. The leopard was caged on Sunday morning by the Assam forest department with the help of the villagers. The leopard, over the past several days, had attacked livestock in the village killing many cattle in the area. “Altogether 14 leopards have been caught from this area thus far. One leopard was caged today,” an Assam forest department official informed. Also read: Assam boy designs sensor-enabled shoes for visually impaired people “We believe there are more leopards in the jungle area of Betioni Kakoti village,” the official added. The captured leopard has been shifted to the Centre for Wildlife Rehabilitation and Conservation (CWRC) at Panbari.']
+
+
+Assam----LOC.STATE
+
+Leopard----SP.COMMON
+
+Golaghat district----LOC.DISTRICT
+
+caged----CRIME.CAT
+
+Betioni Kakoti village----LOC.EXACT
+
+Assam forest department----AUTH.SEIZE
+
+leopard----SP.COMMON
+
+caged----CRIME.CAT
+
+Sunday----DATE
+
+morning----TIME
+
+Assam forest department----AUTH.SEIZE

@@ -1,0 +1,41 @@
+
+['CCTV catches leopard near Biju Patnaik International Airport in Bhubaneswar- The New Indian Express\nBy Express News Service BHUBANESWAR: Close circuit TV camera footage of a leopard entering commercial establishment premises near Biju Patnaik International Airport in the City sent the Forest Department into a tizzy on Monday. The big cat was seen scaling the perimeter wall of the airport before entering the establishment premises late on Sunday. However, its whereabouts was not known. Multiple teams of Forest Department were deployed to scan the Palaspalli and Bhimtangi areas for the wild animal. The animal was caught by the CCTV camera while a staff of the firm also claimed to have sighted it. However, it is yet to be identified even as experts said it resembled a leopard. Leopards once inhabited Chandaka Wildlife Sanctuary but were last seen in 2002 as poaching and poisoning led to a disappearance of the big cats from the sanctuary which abuts the State Capital. That is why its reappearance throws up many questions, though wildlife experts term it is as a welcome sign. After the CCTV footage went viral this evening, a team of Forest Department officials visited the site and launched search operation to trace the animal. CCTV catches leopard in city “We are yet to ascertain if it was a leopard or a wild cat,” Divisional Forest Officer of City Division Ashok Kumar Mishra told The Express. The forest officials urged locals not to panic. Mishra said chances are the animal could be a scavenger like a hyena which do not harm humans until they face any threat. “Search operation will be launched again on Tuesday morning as it is difficult to trace the animal in the dark,” the DFO said. Not long ago, report of a leopard sighting in Sundarpada area - not very far from Palaspalli - turned out to be unfounded. What to do Keep pet dogs under leash and inside the house. In case of unusual movements noticed around the house, dogs are likely to raise alert first. In such cases, do not venture outside. BHUBANESWAR: Close circuit TV camera footage of a leopard entering commercial establishment premises near Biju Patnaik International Airport in the City sent the Forest Department into a tizzy on Monday. The big cat was seen scaling the perimeter wall of the airport before entering the establishment premises late on Sunday. However, its whereabouts was not known. Multiple teams of Forest Department were deployed to scan the Palaspalli and Bhimtangi areas for the wild animal. The animal was caught by the CCTV camera while a staff of the firm also claimed to have sighted it. However, it is yet to be identified even as experts said it resembled a leopard. Leopards once inhabited Chandaka Wildlife Sanctuary but were last seen in 2002 as poaching and poisoning led to a disappearance of the big cats from the sanctuary which abuts the State Capital. That is why its reappearance throws up many questions, though wildlife experts term it is as a welcome sign. After the CCTV footage went viral this evening, a team of Forest Department officials visited the site and launched search operation to trace the animal. CCTV catches leopard in city “We are yet to ascertain if it was a leopard or a wild cat,” Divisional Forest Officer of City Division Ashok Kumar Mishra told The Express. The forest officials urged locals not to panic. Mishra said chances are the animal could be a scavenger like a hyena which do not harm humans until they face any threat. “Search operation will be launched again on Tuesday morning as it is difficult to trace the animal in the dark,” the DFO said. Not long ago, report of a leopard sighting in Sundarpada area - not very far from Palaspalli - turned out to be unfounded. What to do Keep pet dogs under leash and inside the house. In case of unusual movements noticed around the house, dogs are likely to raise alert first. In such cases, do not venture outside.']
+
+
+CCTV catches----DETECTION_METHOD
+
+leopard----SP.COMMON
+
+Biju Patnaik International Airport----LOC.EXACT
+
+Bhubaneswar-----LOC.CITY
+
+leopard----SP.COMMON
+
+Biju Patnaik International Airport----LOC.EXACT
+
+Forest Department----AUTH.SEIZE
+
+Monday----DATE
+
+Sunday----DATE
+
+Forest Department----AUTH.SEIZE
+
+Close circuit TV camera footage----DETECTION_METHOD
+
+leopard----SP.COMMON
+
+Biju Patnaik International Airport----LOC.EXACT
+
+Forest Department----AUTH.SEIZE
+
+Monday----DATE
+
+Sunday----DATE
+
+Forest Department----AUTH.SEIZE
+
+Forest Department officials----AUTH.SEIZE
+
+leopard----SP.COMMON

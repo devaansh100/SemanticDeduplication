@@ -1,0 +1,35 @@
+
+['KNS\nTasaduq Rashid Anantnag, Dec 11 (KNS): Forest Division Anantnag on Friday seized 139 ft illegal timber from a local band saw mill in Bindoo Kokernag area, officials said. Officials told KNS that on the directions of Divisional Forest Officer (DFO), a joint team comprising officials from Range Office Kokernag and Forest Range Kothhar led by Range Officer Kokernag of Anantnag Forest Division, conducted raid at local band saw owned by Bilal Ahmad Malik in Bindoo village of Kokernag area. During the raid, an illegal timber measuring 139 ft was recovered, officials said. "The consignment was ferried from Daksum range", Range Officer Kokernag said . He further said a case under Indian Forest Act (IFA) stand registered, however no arrest has been made. “The seized illegal timber will be shifted to RD Khanabal for further necessary actions”, he added. However as per reports reaching to KNS, the smuggling bids of timber from wooden areas of south Kashmir’s Anantnag district is being reported unabatedly. Sources within the department smell nexus between jungle smugglers and officials of the department.These officials class Fourth Employees and Forest Guards are posted in beats from last one decade and Forest officers Don\'t bother to shift them because of the reasons best known to them . A senior official told KNS that such raids were also conducted in past but due to no action was taken, the culprits escaped unpunished. Meanwhile civil society members and senior citizens of the district have expressed grave concern over such smuggling bids and impressed upon the higher authorities particularly Principal Chief Conservator to take tough action against the involved persons without succumbing to influence. “If smugglers would go unpunished despite perpetrating crime, the general masses will lose confidence on the department”, they said. (KNS)']
+
+
+Forest Division----AUTH.SEIZE
+
+Friday----DATE
+
+139 ft----QTY
+
+timber----ITEM
+
+Bindoo Kokernag area----LOC.EXACT
+
+Divisional Forest Officer (DFO)----OFF.DESIG
+
+Range Office Kokernag----AUTH.SEIZE
+
+Forest Range Kothhar----AUTH.SEIZE
+
+Range Officer----OFF.DESIG
+
+Anantnag Forest Division----AUTH.SEIZE
+
+raid----CRIME.CAT
+
+Bindoo village of Kokernag area----LOC.EXACT
+
+timber----ITEM
+
+139 ft----QTY
+
+Daksum range----ROUTE.SRC
+
+The seized illegal timber will be shifted to RD Khanabal for further necessary actions----OUTCOME

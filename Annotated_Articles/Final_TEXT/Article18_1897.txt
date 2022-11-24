@@ -1,0 +1,23 @@
+
+['Pet Dog Killed By Leopard In Maharashtra, Attack Caught On CCTV, Watch This Report For Details\nPet Dog Killed By Leopard In Maharashtra, Attack Caught On CCTV, Watch This Report For Details Zee Business Video Team | Updated: June 7, 2022 22:55 pm A village in Nashik, Maharashtra is living in fear of leopard. A leopard has been seen roaming in the village for the past few days. A CCTV footage of this leopard has also been released. Watch full news in this video.']
+
+
+Pet Dog----SP.COMMON
+
+Killed----CRIME.CAT
+
+Leopard----SP.COMMON
+
+Maharashtra----LOC.STATE
+
+Leopard----SP.COMMON
+
+Maharashtra----LOC.STATE
+
+Nashik----LOC.DISTRICT
+
+Maharashtra----LOC.STATE
+
+leopard----SP.COMMON
+
+leopard----SP.COMMON

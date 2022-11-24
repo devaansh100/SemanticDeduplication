@@ -1,0 +1,11 @@
+
+['Black-bucks run for life on Maha-highway as crazy motorist chases them down\nSusanta Nanda, an Indian Forest Service officer, shared a shocking video on Tuesday of a crazy motorist chasing two black-bucks who were sprinting down a highway to avoid danger. While the animals are undergoing extreme trauma and fleeing for their lives, the sadistic vehicle driver appears to be having a good time as he continues to film the chase. A Twitter user identified the road as Samruddhi Mahamarg in Maharashtra. This driver must be crazy chasing black bucks in their own territory. Driving wild animals amount to hunting under Wildlife Protection Act, punishable with a imprisonment of 3 yrs,which may extend to 7 years. Anyone knowing the details of the driver? VC:â\x81¦@MilindPariwakamâ\x81© pic.twitter.com/qmMIJ7vvML — Susanta Nanda IFS (@susantananda3) June 21, 2022 Mr Susant Nanda has pointed out that that chasing wild animals amounts to hunting under the Wildlife Protection Action and the act is punishable with imprisonment of three to seven years. â€œThis driver must be crazy chasing black bucks in their own territory. Driving wild animals amounts to hunting under the Wildlife Protection Act, punishable with a imprisonment of 3 yrs, which may extend to 7 years. Anyone knowing the details of the driver? VC:@MilindPariwakamâ€\x9d tweeted Nanda. Milind Pariwakam, a wildlife enthusiast, first shared the video on Twitter, where he also harshly criticised the motorist. The Wildlife Act protects blackbucks as an endangered species.']
+
+
+Black-----SP.SPECIFIC
+
+bucks----SP.COMMON
+
+Maha-highway----LOC.EXACT
+
+black-bucks----SP.SPECIFIC

@@ -1,0 +1,69 @@
+
+['Animal poaching: Forest department busts racket in Kothagudem\nHYDERABAD: A major poaching racket was busted on Tuesday at Bhadradri Kothagudem district by a large contingent of forest and police officials.In the three-hour long raid, officials seized over 300 weapons, mostly bows, arrows and spears, seven spotted deer skins, sloth bear skins, 28 antlers, horns of wild buffaloes, chowsingha, nilgai, sambar and spines of at least three porcupines. Authorities said all these animals that are protected under various categories of Wildlife Protection Act, 1972, were killed by Gothi Koya tribals."We conducted raids to identify people felling trees in the forests but stumbled upon animal parts and weapons used for poaching. These tribes are notorious when it comes to killing animals for their meat. They kill just any animal they find and that is a big threat to our forests. They have kept the parts like skin and bones as trophies," said district forest officer Rambabu, who led the operation. Vigilance wing of the forest department carried out the raid in Mulaklalapally range, where 13 poachers, including the tribal chief, who was spearheading the illegal activities in the Dhammapada reserve forest, were arrested.Foresters had a tip-off on tribals involved in destroying forests near Mulaklapally range. Accordingly, Rambabu visited the villages of Chintalapadu and Chalamannagar for an inspection at 9am.The range officer who had earlier questioned the tribals about the illegal activity in October was detained along with his staff and was threatened. After this, the officer did not inform the felling of trees to higher authorities.During the inspection, Rambabu\'s team stumbled upon the animal parts. According to the foresters, the Gothi Koya tribes are not recognised by the government and are encroaching the forest lands illegally.']
+
+
+Forest department----AUTH.SEIZE
+
+busts----CRIME.CAT
+
+Kothagudem----LOC.DISTRICT
+
+Tuesday----DATE
+
+Bhadradri Kothagudem----LOC.EXACT
+
+forest and----AUTH.SEIZE
+
+police----AUTH.SEIZE
+
+300----QTY
+
+weapons----ITEM
+
+bows, arrows and spears----ITEM
+
+seven----QTY
+
+spotted deer----SP.SPECIFIC
+
+skins----ITEM
+
+sloth bear----SP.COMMON
+
+skins----ITEM
+
+28----QTY
+
+antlers----ITEM
+
+horns----ITEM
+
+wild buffaloes----SP.SPECIFIC
+
+chowsingha----SP.SPECIFIC
+
+nilgai----SP.SPECIFIC
+
+sambar----SP.SPECIFIC
+
+spines----ITEM
+
+porcupines----SP.COMMON
+
+Gothi Koya tribals."We conducted raids to identify people felling trees in the forests but stumbled upon animal parts and weapons used for poaching. These tribes are notorious when it comes to killing animals for their meat. They kill just any animal they find and that is a big threat to our forests. They have kept the parts like skin and bones as trophies," said district forest officer----SUS.AFFIL
+
+Rambabu----OFF.NAME
+
+Vigilance wing of----AUTH.MISC
+
+Mulaklalapally range----LOC.EXACT
+
+13----SUS.NUMBER
+
+poachers----SUS.AFFIL
+
+tip-off----DETECTION_METHOD
+
+tribals----SUS.AFFIL
+
+9am.The----TIME

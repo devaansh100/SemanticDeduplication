@@ -1,0 +1,13 @@
+
+['‘Monkeyshines’: Police hunt for ‘Bandar’ which attacks single woman\nUttara Kannada: Karnataka’s Uttara Kannada district authorities are struggling to trap a monkey that has attacked more than 10 single women.  The menace has become unbearable for a week in Babruwada village near Ankola. Residents of the village are forced to walk with a stick in their hands to defend themselves from being attacked by the monkey.  The monkey has been carrying out sudden attacks on people, especially single women. It is biting and scratching people.  The villagers have lost their patience after the monkey attacked an elderly woman, Lakshmi, leaving her to bleed profusely.  Due to the menace, parents are terrified to leave their children outside their homes. People of the village have been forced to leave their work and instead concentrate on catching the monkey.  Officers from the forest department, anesthetic specialists, and a team of villagers are putting in all-out efforts to trap the monkey. ADVERTISEMENT']
+
+
+Monkeyshines----SP.COMMON
+
+Police----AUTH.SEIZE
+
+Bandar----SUS.NAME
+
+Babruwada village----LOC.EXACT
+
+forest department----AUTH.SEIZE

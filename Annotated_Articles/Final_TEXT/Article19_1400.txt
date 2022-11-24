@@ -1,0 +1,39 @@
+
+['Forest officials attacked in the Sundarbans\nA party of officials led by the Divisional Forest Officer in the South 24 Paraganas were attacked with sticks when they tried to arrest an accused in a suspected tiger poaching case A party of eight forest officials were attacked with bamboo sticks and stones on the evening of April 20, 2019, as they were trying to arrest an accused in a suspected tiger poaching case in the Sundarbans in West Bengal. The incident took place in the South 24 Paraganas district, in which, the Sundarbans Biosphere Reserve lies. The area is a recognised UNESCO World Heritage Site as well as a Ramsar Site. “Led by the Divisional Forest Officer (DFO) of South 24 Paraganas Forest Division, G R Santhosha, the party had gone to pick up a person against whom another accused had given evidence in the suspected tiger poaching case. The family of the accused resisted. They attacked the officials with bamboo sticks causing injuries. Four of the party are still hospitalised and under observation. The other four have been discharged,” Ravi Kant Sinha, Chief Wildlife Warden, West Bengal told Down To Earth (DTE). Janab Rashid Munir Khan, the Supreintendent of Police of Baruipur confirmed that the incident had taken place. But he had a slightly different story to tell. "The DFO went with his men after getting to know that two more men were involved in the alleged poaching case. They went to a spot that falls under the Maipith police station, which is just on the coast. It is a tribal area. They went without informing the police. When the locals attacked them, the DFO sent an SOS to me to rescue them. By the time we reached, most of the party had been able to leave. But two officers, who were made hostages, were rescued by us. We conducted raids in the area today and arrested the two accused, who, the DFO and his men had gone to arrest,"said Khan. On April 8, 2019, a tiger was found dead with a snare made of metal wire around its waist in Ajmalmari in the South 24 Paraganas forest division. According to media reports, it was the first reported tiger death in the Sundarbans in the last four years and the first unnatural death of a tiger in the area after 2008. The officials have not yet called it as a case of “poaching” since the body parts of the tiger were intact. “We have arrested five people in the case,” Sinha told DTE. “Commercial poaching is almost absent in the Sundarbans because of the unpredictability of the terrain,” said Former Chief Wildlife Warden, West Bengal, Pradeep Vyas. “But accidental poaching or poaching for meat with snares made of nylon or steel wire do happen,” he added. Vyas said that the tiger could have become a victim because of a snare set for Chital and wild boar. “Both animals are prized for their flesh in the Sundarbans. I remember a time, in 2001, when no wedding in the Sundarbans was complete without Chital or boar flesh being served. Today, it happens more covertly or clandestinely.” He then explained the modus operandi of the deer and boar hunters. “They pose as fishermen and sit in a creek on the other side of which is the forest. They then go inside the forest, set the snare and come back to the boat. Whenever a deer is caught in the snare, they kill it with an axe, quickly wolf down the meat and return to the boat.” Vyas said even if tigers are killed accidentally in this way, those who have set up the snare are not at all innocent. “Though they have not done commercial tiger poaching, they are guilty as well,” he said. SUPPORT US We are a voice to you; you have been a support to us. Together we build journalism that is independent, credible and fearless. You can further help us by making a donation. This will mean a lot for our ability to bring you news, perspectives and analysis from the ground so that we can make change together. Related Stories Wolf snapped in the Sundarbans for the first time India Environment Portal Resources :']
+
+
+attacked----CRIME.CAT
+
+Sundarbans----LOC.EXACT
+
+Divisional Forest Officer----OFF.DESIG
+
+forest officials----AUTH.SEIZE
+
+bamboo sticks----ITEM
+
+evening----TIME
+
+April 20, 2019----DATE
+
+Sundarbans----LOC.DISTRICT
+
+West Bengal----LOC.STATE
+
+South 24 Paraganas district----LOC.DISTRICT
+
+G R Santhosha----OFF.NAME
+
+Janab Rashid Munir Khan----OFF.NAME
+
+Supreintendent of Police----OFF.DESIG
+
+Maipith police station----LOC.EXACT
+
+raids----DETECTION_METHOD
+
+two----SUS.NUMBER
+
+five----SUS.NUMBER
+
+Wolf----SP.COMMON

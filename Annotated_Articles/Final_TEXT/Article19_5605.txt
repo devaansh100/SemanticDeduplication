@@ -1,0 +1,13 @@
+
+['QBengaluru: Elusive Bandipur Tiger Captured; Medical Seat Scam\nFive days after Karnataka Forest Department officials began a hunt for a maneater responsible for killing a farmer in Karnataka’s Bandipur area, the tiger was finally captured on Sunday afternoon, after being shot with tranquilizers. Department officials confirmed that the tiger is in a healthy condition and will be rehabilitated in accordance with the National Tiger Conservation guidelines. After a thorough medical check up, the tiger will be taken to Mysuru and be put in a rehabilitation centre meant for maneater-cats. Both Head of Forest Department Sridhar Punati and Assistant Conservator of Forests of Gopalswamy Betta Range Ravi Kumar confirmed that the tiger has been captured and is being kept in a mobile enclosure.']
+
+
+Bandipur Tiger----SP.COMMON
+
+Sunday----DATE
+
+Sridhar Punati----OFF.NAME
+
+Assistant Conservator of Forests of Gopalswamy Betta Range----OFF.DESIG
+
+Ravi Kumar----OFF.NAME

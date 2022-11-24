@@ -1,0 +1,25 @@
+
+["'Lizard in Cold Drink', Ahmedabad Civic Body Imposes Rs 1 Lakh Penalty on McDonald's\nOn Monday, the Ahmedabad Municipal Corporation (AMC) fined a McDonald’s in Ahmedabad’s Sola neighbourhood Rs 1 lakh, two weeks after images of a dead lizard in a cold drink given by them went popular on social media. Surprising checks will be conducted at the eatery for the next three months, according to the city body. “The eatery has been penalised with Rs 1 lakh today (Monday) after the said complaint and inspection of the facility by AMC health officials,” AMC’s additional medical officer of health, Dr Bhavin Joshi, informed the media. “After paying the fine, the restaurant will be given two days to clean up,” Dr Joshi added of the reopening requirements. Following that, the unit will be inspected, and if the team finds it adequate, it will be allowed to reopen.” On May 21, the AMC received a complaint from Bhargav Joshi, who had uploaded images of a dead lizard in a McDonald’s cold drink on Twitter. Devang Patel, an AMC food safety officer, took cold drink samples from the outlet for testing at the public health laboratory in Ahmedabad and immediately closed the restaurant for “larger public health safety.” “We follow very strong and extremely demanding food safety procedures and protocols, which include food safety checks and tests done at the supplier level right up to the restaurant,” McDonald’s said in a statement on Monday. In regards to the purported incident, we are convinced that this incident could not have occurred at our restaurant after conducting an internal investigation. As we said in our original response to the authorities, we have strong suspicions of foul play.”"]
+
+
+Lizard----SP.COMMON
+
+Ahmedabad Civic Body----AUTH.SEIZE
+
+Rs 1 Lakh----VALUE
+
+McDonald's----LOC.EXACT
+
+Monday----DATE
+
+Ahmedabad Municipal Corporation----AUTH.SEIZE
+
+AMC----AUTH.SEIZE
+
+fined----CRIME.CAT
+
+McDonald’s----LOC.EXACT
+
+Sola neighbourhood----LOC.EXACT
+
+lizard----SP.COMMON

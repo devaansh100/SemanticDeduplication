@@ -1,0 +1,81 @@
+
+['India Eco Watch: Major ecological happenings of the week (Apr 1-7)\nDown To Earth brings you the top happenings in the world of Indian ecology, botany and zoology Adult Sloth bear strays into Telangana town, creates mild scare An adult sloth bear strayed into the Telangana town of Jangaon in the wee hours of April 1, 2019, scaring locals, according to a media report. The bear was first spotted at 3 am on the premises of the residence of the Deputy Commissioner of Police. It then climbed a tree. But when a rescue team tried to tranquilise it, it went into a nearby RTC depot workshop, where it climbed another tree. It was finally caught by forest officials at 11 am and shifted to the Tadvai forest area in Mulugu district. Officials believe that the bear might have entered Jangaon from the nearby Champak hills in search of food and water. Bahraich village residents beat leopard to death with stick A leopard, around 3-4 years old, was beaten to death in a village in Uttar Pradesh’s Bahraich district on April 5, 2019, according to media reports. The incident happened at a village adjacent to the Kakraha range of Katarniaghat Wildlife Sanctuary. Locals claimed that they were forced to take matters into their own hands since the leopard had been attacking people in the area Since February. On April 5, it had attacked and injured about six people who were working in a sugarcane field in the village. The body of the dead animal has been sent for post-mortem. A FIR has been lodged against unnamed persons. Leopard cub smuggled from Thailand to Chennai to be repatriated The leopard cub that was found in the bag of a traveller coming on a flight from Bangkok to Chennai on February 2, 2019, will soon be taken back to Thailand, a media report says. The report quote officials of the Wildlife Crime Control Bureau (Southern Region) as saying that they were working with Thai officials to send the cub back. The cub, a female, was just 50 days old when it was found in the luggage of a 45-year-old passenger coming to Chennai from Bangkok, the report said. The cub, which was initially stressed, was now doing fine health-wise. In March, a rare African venomous snake, the horn pit viper, was found in the baggage of a passenger who was travelling by a Bangkok-Chennai flight, along with iguanas and some other exotic species. Tiger found dead in Tamil Nadu’s Theni district An adult male tiger has been found dead in the Meghamalai Hills, a sub-range of the Western Ghats in Tamil Nadu’s Theni district, according to a news report. According to the report, the animal, around 10-12 years of age, was found by patrolling field staff. Forest officials feel that the animal could have been killed most probably in a territorial fight with another tiger. Poaching has been ruled out since the body parts of the tiger including claws, teeth and bones are intact. Moreover, with the dead tiger showing puncture wounds, scratches as well as marks of canines all over its body, the killer could only have been another tiger, officials said. New wildlife division established near Gir Wildlife Sanctuary The Gujarat government has started the process of establishing a new wildlife division, Shetrunji and approved 104 posts for it to provide greater protection to Asiatic Lions outside the Gir Wildlife Sanctuary according to media reports. The two existing wildlife divisions — Gir East and Gir West —work under the Junagadh Wildlife Circle. The new division will also fall under the Junagadh Wildlife Circle which is headed by the chief conservator of forests. The decision has been prompted by the fact that many lions in recent years have been roaming outside the confines of Gir, which can’t hold the increasing population any more. The new division will cater to the Bhavnagar and Amreli districts, where most of these roaming animals are found and face harassment from people. SUPPORT US We are a voice to you; you have been a support to us. Together we build journalism that is independent, credible and fearless. You can further help us by making a donation. This will mean a lot for our ability to bring you news, perspectives and analysis from the ground so that we can make change together. India Environment Portal Resources :']
+
+
+Sloth bear----SP.SPECIFIC
+
+Telangana town----ROUTE.SRC
+
+sloth bear----SP.COMMON
+
+Telangana----LOC.STATE
+
+Jangaon----LOC.EXACT
+
+wee hours----TIME
+
+April 1, 2019----DATE
+
+3 am----TIME
+
+Deputy Commissioner of Police----OFF.DESIG
+
+Bahraich village----SUS.LOC
+
+leopard----SP.COMMON
+
+leopard----SP.COMMON
+
+beaten to death----CRIME.CAT
+
+Uttar Pradesh’s----LOC.STATE
+
+Bahraich----LOC.DISTRICT
+
+April 5, 2019----DATE
+
+leopard----SP.COMMON
+
+body of the dead animal has been sent for post-mortem----OUTCOME
+
+Leopard cub----SP.COMMON
+
+Thailand----ROUTE.SRC
+
+Chennai----ROUTE.DEST
+
+leopard----SP.COMMON
+
+bag----CONCEALMENT_METHOD
+
+flight----TRANSPORT_MODE
+
+Bangkok----ROUTE.SRC
+
+Chennai----ROUTE.DEST
+
+February 2, 2019----DATE
+
+Wildlife Crime Control Bureau (Southern Region)----AUTH.SEIZE
+
+Thai officials----AUTH.SEIZE
+
+cub----SP.COMMON
+
+Tiger----SP.COMMON
+
+found dead----CRIME.CAT
+
+Tamil Nadu’s----LOC.STATE
+
+Theni district----LOC.DISTRICT
+
+tiger----SP.COMMON
+
+found dead----CRIME.CAT
+
+Meghamalai Hills----ROUTE.SRC
+
+Theni district----LOC.DISTRICT
+
+patrolling field staff----DETECTION_METHOD

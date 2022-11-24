@@ -1,0 +1,29 @@
+
+["5-yr-old girl's death in wild elephant attack: Public outrage brings Athirappilly to standstill\nAthirappilly: Exasperated over the death of a 5-year-old girl in a wild elephant attack, the locals in Thrissur’s Athirappilly obstructed the traffic for over 10 hours to mark their protest against forest departments’ apathetic attitude in addressing human-wildlife conflict. The natives took to the streets and rallied to Aroormuzhy junction. People including politicians like Chalakudy MLA TJ Saneesh Kumar Joseph and activists laid a siege here. The district collector Haritha V Kumar visited the region and assured all support from the administration. Following this, the siege was concluded by 2 PM. A five-year-old girl was killed by a wild elephant on Monday evening at Kannankuzhy near Athirappilly. The deceased was identified as Agneemiya, daughter of Mala native Nikhil. Nikhil and father-in-law Jayan have also sustained injuries from the wild elephant attack. Following the tragic incident, the public started the protest on Monday night itself. It turned more intense by Tuesday morning. They marched to the streets and laid a siege. Though Irinjalakuda RDO and Chalakudy Tehsildar visited the region to pacify the protestors, the attempt failed. The locals demanded that the district collector must visit the spot and hold talks. Following this, the collector visited the place and assured that measures will be taken to resolve the wild animal attacks in the region. Rs 10 lakh ex-gratia to victim's family"]
+
+
+5-yr-old----SUS.AGE
+
+girl----SUS.GENDER
+
+Monday----DATE
+
+evening----TIME
+
+Agneemiya----SUS.NAME
+
+Mala----SUS.LOC
+
+Nikhil----SUS.NAME
+
+Nikhil----SUS.NAME
+
+Jayan----SUS.NAME
+
+Tuesday----DATE
+
+morning----TIME
+
+RDO----OFF.DESIG
+
+Rs 10 lakh----VALUE

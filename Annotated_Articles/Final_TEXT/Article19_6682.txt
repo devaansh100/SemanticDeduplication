@@ -1,0 +1,13 @@
+
+["Jumbo Invasion: Elephant walks into Hasimara Army canteen in Bengal, causes mayhem\nAnanya Bhattacharya @ananya116 | Photo Credit: Twitter Key Highlights The frightened canteen staff hid behind an enclosure while the elephant continued to wreak havoc When the animal walked further inside the canteen, one staff member walked out of the enclosure and tried to scare it with a burning torch It has been an eventful month for elephants. The tuskers have gone viral on social media almost every week for their playful antics. Earlier this month, an elephant managed to push a wooden pole down on the ground and then carefully walked over a fence without touching the electric wires to enter a forest. The incident was caught on camera and shared on Twitter by IFS officer Susanta Nanda. A few days before that, a tusker was spotted sitting on the top of a car at a national park in Thailand. The incident happened on Thanarat Road in the Khao Yai National Park. This week, an elephant was filmed walking into the Hasimara Army Canteen in Dooars, Bengal. The footage shows the mammal calmly entering an empty dining hall while swaying its trunk. But it soon causes mayhem by toppling chairs and tables. Watch video: From back home today. The jumbo just walked into the Hashimara Army Canteen... and it was complete madness. pic.twitter.com/4v8sgPjSbh — Ananya Bhattacharya (@ananya116) November 30, 2019 The frightened canteen staff hid behind an enclosure while the elephant continued to wreak havoc. They even tried to distract the jumbo but he just wasn't ready to cooperate. In order to distract the animal, a staff member even threw a flaming egg crate. But even that didn't work out well. When the animal walked further inside the canteen, one staff member walked out of the enclosure and tried to scare it with a burning torch. The elephant retreated and quickly began walking out of the canteen. The staff member, with the torch in his hand, chased it away from the canteen and into a lawn. The army canteen in Hasimara is barely a few meters away from the Chilapata forest. Due to the short distance, elephants frequently walk into canteens and residential areas."]
+
+
+Jumbo----SP.COMMON
+
+Elephant----SP.COMMON
+
+Hasimara Army canteen----LOC.EXACT
+
+Bengal----LOC.STATE
+
+Ananya Bhattacharya----SUS.NAME

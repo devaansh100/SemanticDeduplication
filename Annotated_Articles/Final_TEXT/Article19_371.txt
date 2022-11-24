@@ -1,0 +1,23 @@
+
+['VIRAL VIDEO: Venezuelan fitness model Michelle Lewin gets bitten by a wild pig in Bahamas, reveals booty bruise\nMichelle Lewin, Pig Island, Bahamas, Big Major Cay island, Pigs, Viral Video, Video, Viral, Instagram Venezuela-born Michelle Lewin, a bodybuilder and fitness instructor who has 13.4 million Instagram followers, recently shared a video on her account showing her being attacked and bitten by a feral pig. Bahamian pig is the most popular animal on Pig Island these days and social influencers have enjoyed posing and swimming with them in the past. Michelle was also probably hoping to get some adorable pictures for her instagram feed when she visited Big Major Cay island in Exuma, the Bahamas. While Lewin managed to share some footage of herself swimming and lounging in the sand with the pigs on her Instagram stories, the rest of the photoshoot didn\'t go as planned. In an unfortunate turn of events, one of the pigs walked up to her and bit her in the exposed backside. Since being shared online on Tuesday, the video featuring her screaming in shock has collected over 6 million views and thousands of comments. "Oh no!! This is the place I am going on a royal Caribbean cruise. And I wanted to do that. Maybe not anymore," wrote one commenter. "Oh my god so funny hHahahahahah," said another. The 32-year-old also posted a view of the bitten butt area, later. Showing off the black and blue welt, Lewin admitted the bite is gross, but also quite “remarkable.” In an interview to USA Today, Michelle\'s husband Jimmy said that she is doing fine after getting bit and did not receive any medical attention as the "bite didn\'t break the skin." He also added that Michelle has no desire to hang out with pigs anymore. "It\'s definitely off her bucket list," he said. "We understand that they are wild animals. And we\'re entering their territory. It\'s our own fault."']
+
+
+Michelle Lewin----SUS.NAME
+
+wild pig----SP.SPECIFIC
+
+Bahamas----LOC.STATE
+
+Michelle Lewin----SUS.NAME
+
+Bahamas----LOC.STATE
+
+Big Major Cay island----LOC.EXACT
+
+Pigs----SP.COMMON
+
+Michelle Lewin----SUS.NAME
+
+feral pig----SP.SPECIFIC
+
+32-year-old----SUS.AGE

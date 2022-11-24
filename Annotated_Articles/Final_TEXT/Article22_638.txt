@@ -1,0 +1,13 @@
+
+['Rescued Tiger Cub To Be Sent Back To Forest\nCHENNAI: Six months after being rescued from a private tea estate near Valparai in Coimbatore district and placed in a cage at Manamboly , a tiger cub is set to be shifted to a 10,000 sq ft enclosure in the Mandhirimattam area."We are awaiting clearance from the state chief wildlife warden to shift the cub," conservator of forests (Coimbatore circle) S Ramasubramanian told TOI. The enclosure at Mandhirimattam is in the core areas of the reserve where only anti-poaching watchers are allowed. Once the cub, a male, reaches adulthood in about two years, it will be released in the wild.The cub\'s present home at Manamboly is covered with foliage on one side and a plastic sheet on the other to prevent any disturbance. To avoid human imprint, only one forest foot soldier is allowed in, to place the feed.Every day, Ramasubramanian said, the cub is fed 8kg of meat. Recently, when the carcass of a sambar that died after being caught in a fence was left as feed, the cub was initially scared but finished it off over the next couple of days, he said. It then fed on the carcass of a spotted deer that had been the victim of a road kill in the Valparai area. A normal tiger needs to kill one animal a week, or around 50 animals of different sizes in a year. This is indicator that the animal has inherited healthy feline instincts, he said.']
+
+
+Tiger----SP.COMMON
+
+Sent Back To Forest----OUTCOME
+
+CHENNAI----LOC.DISTRICT
+
+Mandhirimattam area----LOC.EXACT
+
+state chief wildlife warden----AUTH.MISC

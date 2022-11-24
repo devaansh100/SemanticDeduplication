@@ -1,0 +1,39 @@
+
+['Bird flu detected in Shahapur: Animal husbandry department culls over 20,000 chickens in Vehloli\nThe state animal husbandry department culled 23,428 chickens, destroyed 1,603 eggs and 3,800 kilograms of poultry feed at Vehloli village near Shahapur in Thane district on Friday morning after 300 chicken and nine ducks died due to bird flu around four to five days back. Vehloli is just 69 kilometres away from Mumbai. Thane district collector Rajesh Narvekar said that around 300 chickens died all of a sudden at a poultry farm in Vehloli and their samples were sent to National Institute of High Security Animal Diseases Laboratory in Bhopal for testing on February 14. The results received late on February 16 showed that the samples from Shahapur were positive for H5N1 strain. “We have sealed the area within one kilometre radius of the poultry farm and as a precautionary measure culled chicken and destroyed the eggs. As of now, this illness is confined to this area,” Narvekar said. He added that they have declared the area within 1 km radius of the epicentre as “Infected Zone” to enforce the prescribed containment measures. A team of experts from Disease Investigation Section, Commissionerate of Animal Husbandry, Pune, have been deputed for supervising and monitoring the containment measures undertaken at the location. Work is on to disinfect the area. In connection with this, the Commissionerate of Animal Husbandry issued instructions to keep the field machinery on alert and stay vigilant for any suspicious death of birds, said an official. Vehloli is situated near the Mumbai Nashik Expressway. It has a population of 1,697 individuals staying in 296 families. Advertisement A year ago, bird flu had struck nearly six districts of Maharashtra. It was most prominent in Navapur area of Nandurbar district in western Maharashtra and it was caused by migratory birds. More than 10 lakh birds were culled in the state. Prior to that, a massive bird flu wave was reported in 2006.']
+
+
+Bird flu detected in Shahapur: Animal husbandry department----SUS.AFFIL
+
+culls----CRIME.CAT
+
+20,000----QTY
+
+chickens----SP.COMMON
+
+Vehloli----LOC.EXACT
+
+state animal husbandry department----AUTH.SEIZE
+
+culled----CRIME.CAT
+
+23,428----QTY
+
+chickens----SP.COMMON
+
+1,603----QTY
+
+eggs----ITEM
+
+3,800 kilograms----QTY
+
+poultry feed----ITEM
+
+Vehloli village----LOC.EXACT
+
+Friday----DATE
+
+morning----TIME
+
+National Institute of High Security Animal Diseases Laboratory in Bhopal----AUTH.MISC
+
+February 14----DATE

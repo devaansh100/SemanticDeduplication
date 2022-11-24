@@ -1,0 +1,53 @@
+
+['36 fishermen sent to jail for fishing in no fishing zone of Gahirmatha sanctuary\n36 fishermen sent to jail for fishing in no fishing zone of Gahirmatha sanctuary Kendrapara, Dec 12 (UNI) The Gahirmatha Marine Sanctuary personnel engaged in mid sea surveillance, on Saturday arrested 36 fishermen for "illegally" catching fish after trespassing into the "No Fishing zone". The forest personnel intercepted as many as five fishing vessels near Madali mouth inside the Gahirmatha Marine Sanctuary. They also seized 29 quintals of fish catch along with 47 trawler nets, one dead Olive Ridley sea turtle, 5 GPS, 5 fish finders and as many VHF sets from the arrested fishermen']
+
+
+36----SUS.NUMBER
+
+fishermen----SUS.AFFIL
+
+Gahirmatha sanctuary----LOC.EXACT
+
+36----SUS.NUMBER
+
+fishermen----SUS.AFFIL
+
+Gahirmatha sanctuary----LOC.EXACT
+
+Gahirmatha Marine Sanctuary personnel----AUTH.SEIZE
+
+surveillance----DETECTION_METHOD
+
+Saturday----DATE
+
+arrested----CRIME.CAT
+
+36----SUS.NUMBER
+
+fishermen----SUS.AFFIL
+
+29 quintals----QTY
+
+fish----SP.COMMON
+
+47----QTY
+
+trawler nets----ITEM
+
+one----QTY
+
+Olive Ridley sea----SP.SPECIFIC
+
+turtle----SP.COMMON
+
+5----QTY
+
+GPS----ITEM
+
+5----QTY
+
+fish finders----ITEM
+
+VHF sets----ITEM
+
+fishermen----SUS.AFFIL

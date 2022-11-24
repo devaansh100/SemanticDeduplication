@@ -1,0 +1,55 @@
+
+['Two held with 3.1 kg Pangolin scales in US Nagar\nRudrapur: The Special Task Force (STF) of the Kumaon region and the state forest department in a joint drive arrested two men from Kumrah road in Khatima town of Udham Singh Nagar district and recovered around 3.1 kg of pangolin scales from their possession.MP Singh, STF inspector, said that the accused were nabbed based on a tip-off. They have been identified as 39-year-old Tole Singh and 28-year-old Arun Kumar Singh -- both residents of the district\'s Nanakmatta town.“During inspection, Pangolin scales weighing 3.1 kg were recovered from their possession. The accused have confessed to killing the endangered animal that they found in the forests of Khatima town. Their vehicle has also been impounded," said Poornima Garg, circle officer, STF.The Indian pangolin has been listed in the International Union for Conservation of Nature (IUCN) Red List of threatened species. It is trafficked for its scales and meat which is much in demand in China, Vietnam and other south-east Asian countries.']
+
+
+Two----SUS.NUMBER
+
+3.1 kg----QTY
+
+Pangolin----SP.COMMON
+
+scales----ITEM
+
+Nagar----LOC.DISTRICT
+
+Special Task Force (STF)----AUTH.SEIZE
+
+state forest department----AUTH.SEIZE
+
+two----SUS.NUMBER
+
+men----SUS.GENDER
+
+Kumrah road in Khatima town----LOC.EXACT
+
+Udham Singh Nagar district----LOC.DISTRICT
+
+3.1 kg----QTY
+
+pangolin----SP.COMMON
+
+scales----ITEM
+
+tip-off----DETECTION_METHOD
+
+39----SUS.AGE
+
+Tole Singh----SUS.NAME
+
+28----SUS.AGE
+
+Arun Kumar Singh----SUS.NAME
+
+Nanakmatta town.“During----SUS.LOC
+
+Pangolin----SP.COMMON
+
+scales----ITEM
+
+3.1 kg----QTY
+
+killing----CRIME.CAT
+
+Khatima town----ROUTE.SRC
+
+vehicle----ITEM

@@ -1,0 +1,151 @@
+
+['Three arrested for trying to sell endangered star tortoises for Rs 50 lakh in Karnataka\nBy Express News Service MADIKERI: The Virajpet CID Forest Cell officers have arrested three accused for smuggling critically endangered star tortoises. They seized two star tortoises from the accused, who were allegedly trying to sell them for Rs 50 lakh. The incident was reported in Virajpet on Wednesday evening. Working on a tip-off, the Virajpet CID Forest Cell officials stopped an Etios vehicle at a check post and conducted a raid, which revealed that the three accused -- M Ramamurthy (20) and VK Ramesh (31) from Ramanagar and BN Yogesh (20) from KR Nagar -- had in their possession two star tortoises. The forest cell officials immediately took the three accused into custody and produced them before the Ponnampet court. The accused have been remanded to 15-day judicial custody. Meanwhile, investigations revealed that the three were transporting the star tortoises from Ramanagar and were looking to sell them for Rs 50 lakh in Virajpet. The raid was led by CID Forest Cell Superintendent Suresh Babu alongside Veena Nayak, KB Somanna, TP Manjunath, PB Monnappa, MB Ganesh and SM Yogesh. MADIKERI: The Virajpet CID Forest Cell officers have arrested three accused for smuggling critically endangered star tortoises. They seized two star tortoises from the accused, who were allegedly trying to sell them for Rs 50 lakh. The incident was reported in Virajpet on Wednesday evening. Working on a tip-off, the Virajpet CID Forest Cell officials stopped an Etios vehicle at a check post and conducted a raid, which revealed that the three accused -- M Ramamurthy (20) and VK Ramesh (31) from Ramanagar and BN Yogesh (20) from KR Nagar -- had in their possession two star tortoises. The forest cell officials immediately took the three accused into custody and produced them before the Ponnampet court. The accused have been remanded to 15-day judicial custody. Meanwhile, investigations revealed that the three were transporting the star tortoises from Ramanagar and were looking to sell them for Rs 50 lakh in Virajpet. The raid was led by CID Forest Cell Superintendent Suresh Babu alongside Veena Nayak, KB Somanna, TP Manjunath, PB Monnappa, MB Ganesh and SM Yogesh.']
+
+
+Three----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+star----SP.SPECIFIC
+
+tortoises----SP.COMMON
+
+Rs 50 lakh----VALUE
+
+Karnataka----LOC.STATE
+
+Virajpet CID Forest Cell----AUTH.SEIZE
+
+arrested----CRIME.CAT
+
+three----SUS.NUMBER
+
+smuggling----CRIME.CAT
+
+star----SP.SPECIFIC
+
+tortoises----SP.COMMON
+
+seized----CRIME.CAT
+
+two----QTY
+
+star----SP.SPECIFIC
+
+tortoises----SP.COMMON
+
+Rs 50 lakh----VALUE
+
+Wednesday----DATE
+
+evening----TIME
+
+tip-off----DETECTION_METHOD
+
+M Ramamurthy----SUS.NAME
+
+20----SUS.AGE
+
+VK Ramesh----SUS.NAME
+
+31----SUS.AGE
+
+Ramanagar----SUS.LOC
+
+BN Yogesh----SUS.NAME
+
+20----SUS.AGE
+
+KR Nagar----SUS.LOC
+
+two----QTY
+
+star----SP.SPECIFIC
+
+tortoises----SP.COMMON
+
+The accused have been remanded to 15-day judicial custody----OUTCOME
+
+CID Forest Cell----AUTH.SEIZE
+
+Superintendent----OFF.DESIG
+
+Suresh Babu----OFF.NAME
+
+Veena Nayak----OFF.NAME
+
+KB Somanna----OFF.NAME
+
+TP Manjunath----OFF.NAME
+
+PB Monnappa----OFF.NAME
+
+MB Ganesh----OFF.NAME
+
+SM Yogesh----OFF.NAME
+
+Virajpet CID Forest Cell----AUTH.SEIZE
+
+three----SUS.NUMBER
+
+star----SP.SPECIFIC
+
+tortoises----SP.COMMON
+
+seized----CRIME.CAT
+
+two----QTY
+
+star----SP.SPECIFIC
+
+tortoises----SP.COMMON
+
+Rs 50 lakh----VALUE
+
+Wednesday----DATE
+
+evening----TIME
+
+tip-off----DETECTION_METHOD
+
+M Ramamurthy----SUS.NAME
+
+20----SUS.AGE
+
+VK Ramesh----SUS.NAME
+
+31----SUS.AGE
+
+Ramanagar----SUS.LOC
+
+BN Yogesh----SUS.NAME
+
+20----SUS.AGE
+
+KR Nagar----SUS.LOC
+
+two----QTY
+
+star----SP.SPECIFIC
+
+tortoises----SP.COMMON
+
+The accused have been remanded to 15-day judicial custody----OUTCOME
+
+CID Forest Cell----AUTH.SEIZE
+
+Superintendent----OFF.DESIG
+
+Suresh Babu----OFF.NAME
+
+Veena Nayak----OFF.NAME
+
+KB Somanna----OFF.NAME
+
+TP Manjunath----OFF.NAME
+
+PB Monnappa----OFF.NAME
+
+MB Ganesh----OFF.NAME
+
+SM Yogesh----OFF.NAME

@@ -1,0 +1,19 @@
+
+["Exotic wildlife smuggling through NE into India on rise\nGUWAHATI: Smugglers in the wet markets of South East (SE) Asian countries are using the northeast as an active transit route to supply endangered wildlife to mainland India. The forest department rescued four endangered gibbon species on Wednesday and raided a stockyard in Hajo near Guwahati the next day, unearthing an international racket that has its roots upto South America and Australia.A brown tufted capuchin, endemic to South America, and a wallaby, found primarily in Australia and its nearby islands, were being smuggled to Hyderabad. Forest department officials said the consignment was a part of pet trade. Researchers pointed out that the sea routes connected to the SE Asian nations are being used to cater to the growing demand of exotic wildlife. Another consignment of five more primate species was rescued earlier this month in Assam 's Karbi Anglong district.“These exotic wild mammals were being transported to farm houses in Hyderabad. The driver of the vehicle fled the spot but one person from Maharashtra, who was accompanying the consignment, has been apprehended,” divisional forest officer (DFO) Sunnydeo Choudhary told TOI.He said the backward linkage could not be tracked as the local driver remains untraceable. “The consignment was going to be handed over to a dealer who would have supplied them to private farm houses,” he added.The stockyard, where the mammals were kept for a day, was in Singimari village near Hajo. Forest officials seized 20 empty cages where the mammals are halted en route to other states. “We are going to register a case against the person who allowed us to set up this stockyard,” Choudhary added.Sources in the state forest department said Mizoram is the probable route through which the consignment was brought in. “In the past, the maximum number of exotics rescued in Assam travelled through Mizoram, which shares a long porous border with Myanmar,” said the source.Researchers felt that frequent seizure of exotics indicates a big international trade and growing demand for wet markets in SE Asia . “The Myanmar route was once used to take wildlife out of India but nowadays it is the entry route,” said wildlife expert and assistant professor at Cotton University, Narayan Sharma . He also agreed that the primates are being smuggled to be kept as pets and not for meat or religious purposes.Sharma said the seizures indicate that the trend of keeping these as pets, which was earlier prevalent in the US, is now getting popular in India.The pileated gibbon is found in Thailand, Cambodia and Laos, while the yellow-cheeked gibbon is endemic to Vietnam, Laos and Cambodia. Lar gibbons live in Indonesia, Laos, Malaysia, Myanmar and Thailand. The Muller's gibbon is suspected to be smuggled from Indonesia, forest sources said."]
+
+
+forest department----AUTH.SEIZE
+
+four----QTY
+
+gibbon----SP.COMMON
+
+Wednesday----DATE
+
+Hyderabad----ROUTE.DEST
+
+Singimari village near Hajo----LOC.EXACT
+
+register a case against the person who allowed us to set up this stockyard,----OUTCOME
+
+Muller's gibbon----SP.SPECIFIC

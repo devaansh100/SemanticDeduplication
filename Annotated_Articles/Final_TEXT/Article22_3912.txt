@@ -1,0 +1,21 @@
+
+["Maharashtra: After a week, rescued leopard released into the wild\nKALYAN: The forest department has released a leopard into the jungle that they had recently rescued. The two-year-old wild cat had its head stuck inside a plastic container and was found near Badlapur a week ago.Locals from Goregaon village in Badlapur spotted the animal struggling to remove the plastic container from its head. They suspected that the cub may have come towards the village looking for water and may have tried to drink some from the container.They informed forest officials. However, the elusive anima had fled towards the forest.With the help of a video shot by a local, forest officials and animal activists formed teams and began searching for the leopard. The rescue operation lasted 48 hours and the animal was found on Tuesday. For est officials managed to remove the container from the cub’s head. They took the animal to a veterinarian to see if it had any internal injuries. Aforest official said the rescued leopard wa s severely dehydrated and famished from the lack of food or water for 48 hours. The rescue team provided it with both and later sent wild cat to Sanjay Gandhi National park to keep un der observation.An senior official from forest department, who did not wished to be named, said, “After the wild cat was rescued, we fed it chicken and we also gave water to ensure that the an imal does not remain dehydrated. ” A week after the cub was found, the forest officials deemed it healthy and fit to be released leopard cub again into the same forest area where it was initially spotted. Forest officials and the animal activists hope to reunite the cub with its parents as it is still premature and needs to remain kept under the care of its parents.Animal activists have appealed to citizens to not throw plastic bottles, containers and garbage inside the forest area. Raj Maroo , an animal activist told TOI, “We demand that locals living in these sensitive regions should not throw away garbage and plastic mindlessly. ” Maroo furt- her said, “Unfortunately rescue teams involved in the rescue operation of the leopard cub thr ew a lot of plastic garbage themselves. On Sunday, we visited the same spot and collected plastic waste and garbage. I appeal to all rescue teams to avoid such mistakes in the future. ”The leopard cub's presence in the Badlapur forest has revealed the existence of the wild animal in the forest area between Badlapur and Matheran section. However, forest officials said that villagers in these areas need not panic as leopards mostly stays deep in the forest area, hence chances of them attacking villagers is unlikely."]
+
+
+Maharashtra----LOC.STATE
+
+leopard----SP.COMMON
+
+forest department----AUTH.SEIZE
+
+leopard----SP.COMMON
+
+wild cat----SP.SPECIFIC
+
+plastic container----CONCEALMENT_METHOD
+
+Badlapur----LOC.EXACT
+
+Goregaon village in Badlapur----LOC.EXACT
+
+Tuesday----DATE

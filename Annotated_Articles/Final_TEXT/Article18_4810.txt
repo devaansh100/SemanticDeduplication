@@ -1,0 +1,33 @@
+
+['Maharashtra: Bengal monitor lizard raped, 4 arrested\nShare This: A Bengal monitor lizard was raped in the Sahyadri Tiger reserve near Gothane village in Maharashtra, for which four people have been arrested. The accused have been identified as hunters who allegedly came into the core zone of the Sahyadri Tiger Reserve and committed the crime. The accused have been identified as Sandeep Tukram, Pawar Mangesh, Janardhan Kamtekar and Akshay Sunil. The incident came to be known after the mobile phones of the accused were checked by the Maharashtra Forest Department. The officials from the department found the recording of the act in which the accused were allegedly gang-raping the monitor lizard. As per the officials, appropriate legal action will be taken against the accused and they will be produced in the court. Under the Wildlife Protection Act 1972, the Bengal Monitor Lizard is a reserved species and if convicted, the accused can be charged with an imprisonment of seven years.']
+
+
+Bengal monitor lizard----SP.SPECIFIC
+
+raped----CRIME.CAT
+
+4----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+Bengal monitor lizard----SP.SPECIFIC
+
+raped----CRIME.CAT
+
+Sahyadri Tiger reserve----LOC.EXACT
+
+Gothane village----LOC.EXACT
+
+Maharashtra----LOC.STATE
+
+four----SUS.NUMBER
+
+hunters----SUS.AFFIL
+
+Sandeep Tukram----SUS.NAME
+
+Pawar Mangesh----SUS.NAME
+
+Janardhan Kamtekar----SUS.NAME
+
+Akshay Sunil----SUS.NAME

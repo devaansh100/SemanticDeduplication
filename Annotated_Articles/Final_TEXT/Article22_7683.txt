@@ -1,0 +1,28 @@
+
+['Leopard Stuck In Poacher’s Trap Rescued From Satkosia\nAngul: A leopard trapped in a poacher’s trap was rescued by Forest personnel from Purunakot area under Satkosia widlife sanctuary on Monday. The wild cat was spotted by locals of Purunakot as it was struggling to escape from the metal trap. After being informed, RCCF, Angul Circle directed Satkosia DFO to carry out a rescue operation. The local DFO set up a team led by an Assistant Conservator of Forest which rushed to the spot and rescued the leopard. It was treated by a team of Veterinarians and was later released into the jungle, reports stated.']
+
+
+Leopard----SP.COMMON
+
+Rescued----CRIME.CAT
+
+Satkosia
+----LOC.EXACT
+
+leopard----SP.COMMON
+
+Forest personnel----AUTH.SEIZE
+
+Purunakot area----LOC.EXACT
+
+Monday----DATE
+
+wild cat----SP.COMMON
+
+RCCF, Angul Circle----AUTH.SEIZE
+
+DFO----OFF.DESIG
+
+Assistant Conservator of Forest----AUTH.SEIZE
+
+leopard----SP.COMMON

@@ -1,0 +1,25 @@
+
+["Sambar deer chased by dogs found shelter inside a house\nKOTHAMANGALAM: A Sambar deer(Mlavu) ran into a nearby house to escape attack of a domestic dog. The incident happened at Attikalam native Sabu's house on Wednesday morning. The animal was locked in a room and informed at Koovapara forest station. Forest officers arrived and took the animal, it was later released into the forest. This area is close to the Kuttampuzha forest border. Wild animal presence is rampant here. Farmers are in crisis as the animals constantly destroys the crops. RELATED NEWS general Kabali continues his ruckus by blocking vehicles CHALAKUDY: The male elephant Kabali, which is in musth, blocked vehicles. general Dogs to enjoy first-class train journey THIRUVANANTHAPURAM: The Indian Railways has laid out new guidelines to carry dogs and puppies on crime Tribal youth arrested in fake case and beaten up; one more officer suspended, action continues IDUKKI: One more officer under the Kizhukanam forest section in the Idukki Wildlife Sanctuary has general Tiger on the prowl in Cheeral caged, trapped in cage set up by forest department BATHERY: A tiger which was on the prowl at Cheeral in Wayanad has been caged. general Sterilization of stray dogs drags on; started only in two places in two months KOTTAYAM: Although stray dog \u200b\u200battacks remain rampant in the state, the sterilization project was restarted general Tribal couple turns entrepreneurs; delicious dishes from forest products THRISSUR: When tribal couple from Sastampoovam colony in Chalakudy joined hands with the Krishi Vigyan general Wayanad wildlife attack: Forest department to take more actions Minister AK Saseendran has said that the Forest Department will make more arrangements in Wayanad editorial When honey bee and wasp gets wildlife status It is welcome that the state government decided to give Rs.10 lakhs to the families general Sabarimala pilgrimage returning to normalcy after Covid restrictions are being removed THIRUVANANTHAPURAM: The restrictions in Sabarimala after the spread of Covid will be removed. general Super dogs came to Elanthoor for the search PATHANAMTHITTA: The police team probing the Elanthoor double human sacrifice case conducted a search at"]
+
+
+Sambar deer----SP.SPECIFIC
+
+Sambar deer(Mlavu----SP.SPECIFIC
+
+Attikalam native Sabu----SUS.LOC
+
+Wednesday----DATE
+
+morning----TIME
+
+Forest officers----AUTH.SEIZE
+
+Kabali----SUS.NAME
+
+Kabali----SUS.NAME
+
+Tribal youth arrested in fake case and beaten up; one more officer suspended, action continues IDUKKI: One more officer under the Kizhukanam forest section in the Idukki Wildlife Sanctuary has general Tiger on the prowl in Cheeral caged, trapped in cage set up by forest department BATHERY: A tiger which was on the prowl at Cheeral in Wayanad has been caged. general Sterilization of stray dogs drags on; started only in two places in two months KOTTAYAM: Although stray dog ​​attacks remain rampant in the state, the sterilization project was restarted general Tribal couple turns entrepreneurs; delicious dishes from forest products THRISSUR: When tribal couple from Sastampoovam colony in Chalakudy joined hands with the Krishi Vigyan general Wayanad wildlife attack: Forest department to take more actions Minister AK Saseendran has said that the Forest Department will make more arrangements in Wayanad editorial When honey bee and wasp gets wildlife status It is welcome that the state government decided to give Rs.10 lakhs to the families general Sabarimala pilgrimage returning to normalcy after Covid restrictions are being removed THIRUVANANTHAPURAM: The restrictions in Sabarimala after the spread of Covid will be removed. general Super dogs----SUS.AFFIL
+
+Elanthoor----ROUTE.SRC
+
+Elanthoor double human sacrifice case----LOC.EXACT

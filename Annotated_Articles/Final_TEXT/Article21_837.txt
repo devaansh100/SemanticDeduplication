@@ -1,0 +1,41 @@
+
+["BSF rescues exotic wild birds from smugglers in West Bengal\nThe BSF team had handed over the exotic black swans to the forest department in Ranaghat. The Border Security Force (BSF) in West Bengal on Monday rescued nine exotic wild swans which were being smuggled into India from Bangladesh. The BSF troops rescued birds of nine exotic species after receiving information about a smuggling attempt in the border area of Nadia district's Matiari area. According to the BSF, the troops at BOP Banpur and Matiyari noticed five suspected smugglers with plastic bags. The smugglers tried to flee and were chased down by the BSF troops till the International Border (IB). The smugglers then dropped the plastics bags, which contained the nine exotic wild swans, and fled towards Bangladesh, the BSF said. The exotic wild swans were seized by the BSF team and handed over to forest department in Ranaghat. ALSO READ: BSF opens fire at drone along Indo-Pak border in Punjab's Amritsar"]
+
+
+BSF----AUTH.SEIZE
+
+rescues----CRIME.CAT
+
+exotic wild birds----SP.COMMON
+
+West Bengal----LOC.STATE
+
+black swans----SP.COMMON
+
+Border Security Force (BSF)----AUTH.SEIZE
+
+West Bengal----LOC.STATE
+
+Monday----DATE
+
+nine----QTY
+
+wild swans----SP.SPECIFIC
+
+India----ROUTE.DEST
+
+Bangladesh----ROUTE.SRC
+
+receiving information----DETECTION_METHOD
+
+plastic bags----CONCEALMENT_METHOD
+
+nine----QTY
+
+exotic wild swans----SP.SPECIFIC
+
+exotic wild swans----SP.SPECIFIC
+
+BSF team----AUTH.SEIZE
+
+forest department----AUTH.MISC

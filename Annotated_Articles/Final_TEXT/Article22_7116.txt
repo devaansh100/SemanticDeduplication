@@ -1,0 +1,11 @@
+
+['Ramgarh: Latest News, Videos and Photos of Ramgarh\nJaipur: Man cheated of over Rs 1 lakh on being given job in Dubai TNN / Nov 05, 2022, 08:16 (IST) In a yet another case of cheating, cons duped a man of Rs 1.10 lakh on the pretext of sending him to Dubai for a job. The victim from ramgarh Shekhawati police station area has lodged an FIR.']
+
+
+Rs 1 lakh----VALUE
+
+Dubai----ROUTE.DEST
+
+1.10 lakh----VALUE
+
+Dubai----ROUTE.DEST

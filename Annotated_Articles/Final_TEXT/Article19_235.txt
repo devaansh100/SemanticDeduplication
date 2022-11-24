@@ -1,0 +1,57 @@
+
+['Hyderabad: Deer, rabbit meat seized, 1 arrested\nHyderabad (Telangana) [India], Feb 20 (ANI): Hyderabad Task Force police on Tuesday nabbed one person and seized a large quantity of wild animal meat of deer, rabbits and quails from him. The accused Syed Zameer, arrested with the banned meat has been running a meat shop at Murgi Chowk for the past 10 years. According to Radhakishan, DCP, Task Force, “The police have seized meat of two deers, three rabbits and 22 quails from the accused.” Sharing details of how the accused obtained the meat of wild animals, the DCP said, “About two years ago Zameer had come in contact with one Mohd Ali of Osmanbagh, Bahadurpura, Hyderabad who encouraged the accused to assist him in selling meat of wild animals in Hyderabad city and lured him with huge profits. Since then he has been selling the meat of wild animals from his house.” The person accused of supplying wild animal meat to Zameer is absconding and efforts are being continued to apprehend him. The accused person along with the meat of wild animals has been handed over to the Forest Department for further investigation. Previously also Zameer was arrested by Forest Department in a similar case on April 18, 2017. (ANI) ']
+
+
+Deer----SP.COMMON
+
+rabbit----SP.COMMON
+
+meat----ITEM
+
+seized----CRIME.CAT
+
+1----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+Hyderabad Task Force police----AUTH.SEIZE
+
+Tuesday----DATE
+
+nabbed----CRIME.CAT
+
+one----SUS.NUMBER
+
+seized----CRIME.CAT
+
+wild animal----ITEM
+
+meat----ITEM
+
+deer----SP.COMMON
+
+rabbits----SP.COMMON
+
+quails----SP.COMMON
+
+Syed Zameer----SUS.NAME
+
+arrested----CRIME.CAT
+
+Murgi Chowk----LOC.EXACT
+
+meat----ITEM
+
+deers----SP.COMMON
+
+three----QTY
+
+rabbits----SP.COMMON
+
+22----QTY
+
+quails----ITEM
+
+Mohd Ali----SUS.NAME
+
+Osmanbagh, Bahadurpura, Hyderabad----SUS.LOC

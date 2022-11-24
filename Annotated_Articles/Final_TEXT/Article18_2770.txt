@@ -1,0 +1,27 @@
+
+['Monday’s casualties: Gaur dragged by train, nilgai & wild boar in road hit\nNagpur: Linear projects sans any mitigation measures continue to take a toll on wildlife . A day after a full-grown tiger was run over between Wadegaon-Arunnagar on Gondia-Chandrapur broad gauge line, an Indian gaur was dragged over a kilometre by a speeding train. In another incident, a nilgai died after being hit by a speeding vehicle on NH6 near Borgaon Manju in the Akola forest division.The gaur death took place in the Junona forest area near Chandrapur under the jurisdiction of the Forest Development Corporation of Maharashtra (FDCM) early Monday morning when the animal was crossing the tracks.“The gaur was badly injured and its skin had completely peeled off due to the mishap. The section is highly sensitive and is a regular crossing of wild animals. We were informed by the station staff about the death,” said FDCM officials.The nilgai seemed to have been hit early in the morning but foresters learned about it around 1 pm when Satpuda Foundation president Kishor Rithe was passing by the spot. A little ahead in the same section, a wild boar was also found dead. He stopped and informed Akola deputy conservator (DyCF) Arjuna KR and Melghat field director Jayoti Banerjee about the incident.After expediting road work between Amravati-Akola including the Guinness Book record patch between Loni and Kurankhed, there is an increase in traffic. “When the said highway was in bad shape, travellers used to take the Daryapur route to reach Akola. Now they are back on this route,” said Rithe.“Considering the wild animal deaths on the highways, it seems the Akola forest officials concerned did not demand passage for wildlife it seems. On both sides of the road, there are forest patches and also PDKV land from where animals cross the highway. Lack of safety measures can also prove dangerous for humans,” said Rithe.Akola DyCF Arjuna KR failed to respond and did not confirm to TOI whether a preliminary offense report (POR) was registered and whether the nilgai carcass was disposed of as per norms.']
+
+
+Monday----DATE
+
+Gaur----SP.SPECIFIC
+
+train----TRANSPORT_MODE
+
+nilgai----SP.SPECIFIC
+
+wild boar----SP.COMMON
+
+gaur----SP.COMMON
+
+Junona forest area near Chandrapur----LOC.EXACT
+
+Monday----DATE
+
+morning----TIME
+
+gaur----SP.COMMON
+
+1 pm----TIME
+
+wild boar----SP.SPECIFIC

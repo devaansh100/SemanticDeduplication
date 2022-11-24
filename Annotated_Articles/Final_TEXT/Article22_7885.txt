@@ -1,0 +1,25 @@
+
+['Viral video: Cobra rescued from bike in Bhubaneswar, Odisha\nJun 28, 2022, 08:39PM IST Source: TOI.in A 3.5-feet-long deadly cobra was rescued from under the seat of a bike. The venomous snake was rescued at Satyabhamapur on the outskirts of Bhubaneswar, Odisha. The cobra took shelter under the seat of the bike. Snake helpline volunteer Biranchi Narayan rescued the cobra and released it into the wild.']
+
+
+Cobra----SP.COMMON
+
+rescued----CRIME.CAT
+
+bike----TRANSPORT_MODE
+
+Bhubaneswar----LOC.CITY
+
+Odisha----LOC.STATE
+
+Jun 28, 2022----DATE
+
+cobra----SP.COMMON
+
+rescued----CRIME.CAT
+
+bike----TRANSPORT_MODE
+
+Satyabhamapur----LOC.EXACT
+
+Biranchi Narayan----OFF.NAME

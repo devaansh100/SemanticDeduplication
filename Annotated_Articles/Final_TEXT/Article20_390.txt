@@ -1,0 +1,35 @@
+
+["14 lizards of rare species rescued while being smuggled from Bangladesh\nFourteen tokay gecko lizards were rescued by the BSF while being smuggled through the India- Bangladesh border in West Bengal's North 24 Paraganas district on Wednesday, officials said. The rare species of lizards, worth Rs 7 crore in the international market, were seized by the force from a man at the Pargumti border outpost while being smuggled into India, they said. As the man was chased by the Border Security Force (BSF) jawans, he managed to escape but left behind a plastic packet containing the lizards, they added. The lizards were handed over to the Wildlife Department, officials said. These lizards, which are nocturnal, live on trees and native to Asia and some Pacific Islands. It is illegal to keep or trade these lizards under the Wild Life (Protection) Act, 1972. The tokay gecko lizards are used as traditional medicines. Besides, they have some demand as pets and an aphrodisiac. (This story has not been edited by Devdiscourse staff and is auto-generated from a syndicated feed.)"]
+
+
+14----QTY
+
+lizards----SP.COMMON
+
+rescued----CRIME.CAT
+
+Bangladesh----ROUTE.SRC
+
+Fourteen----QTY
+
+tokay gecko lizards----SP.SPECIFIC
+
+BSF----AUTH.SEIZE
+
+West Bengal's----LOC.STATE
+
+North 24 Paraganas district----LOC.DISTRICT
+
+Wednesday----DATE
+
+lizards----SP.COMMON
+
+Rs 7 crore----VALUE
+
+man----SUS.GENDER
+
+Pargumti border outpost----LOC.EXACT
+
+Border Security Force (BSF) jawans----AUTH.SEIZE
+
+plastic packet----CONCEALMENT_METHOD

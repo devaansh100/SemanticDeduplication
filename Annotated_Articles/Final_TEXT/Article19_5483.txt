@@ -1,0 +1,13 @@
+
+['Lush greenery and Adventurous Gypsy ride\nWe visited the park on first week of October which is supposedly the start of the season. We stayed at the government guest houses pre-booked and it was good feeling as it has plenty of spaces to roam around. It will be nice if they have some kids play area like swings etc... Maybe adventure ones like climbing nets etc... for those who wants to stay more than a day to relax and enjoy nature.  We stayed at Vanashree which is nice but there are some cottages which are really close to the jungle side where your chances of seeing closeup wild animals is high. We saw tusker at a distance from where we stay but in the night the tusker came very close to the cottages I said above, it will be a super experiences to see him at closeup. But I got to see full grown leopard passes by our cottage hunting spotted deers in the early morning which is great feeling. You will see lots and lots of spotted deers also boars, peacocks around the cottages. Food in the government canteen will be as per expected in most camping area hot and OK to fill yourselves. You can order food for night and lunch. For breakfast, you will have to go to canteen as far as I was informed. Overall the stay was a good feeling as I got to see more animals than the safari tour...  Booking for safari can be done online at the Govt website but you will still have to go to online counter at the boarding area to collect your seat numbers (for buses) 30 mins before the schedule time. Offline tickets especially for gypsies, camper are first come first serve so go early around 1 for evening rounds, for morning I was told to come before 6am.  We went by the 4pm bus as we couldn\'t get the gypsy and it was definitely a boring trip as I said earlier we saw more type of animals in campus than on safari and considering the high cost (I think it is cheaper in Madumalai which is close by) it is a bad feeling going around forest seeing peacocks and spotted deer, no wild dogs, leopard, barking deers, bison etc...Oh yes we saw a tusker in the middle of the shrubs but am nite sure why there are wire fences around as far as my eyes can see it around, In fact we ourselves went around by car on the main road to ooty for few kms and we could see more animals. So the word "chances" which I heard alot is really true. To sum up, my 10 Yr old son slept... :-) we were unlucky I guess. Staffs are good and helpful. Overall a Mixed feeling trip for me.']
+
+
+Vanashree----LOC.EXACT
+
+tusker----SUS.NAME
+
+leopard----SP.COMMON
+
+spotted deers----SP.SPECIFIC
+
+early morning----TIME

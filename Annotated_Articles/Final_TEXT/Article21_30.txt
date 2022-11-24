@@ -1,0 +1,69 @@
+
+['Ivory seized; two smugglers arrested in Odisha\nSambalpur: A Special Task Force (STF) team of the State Crime Branch today arrested two smugglers and seized two elephant tusks from their possession following a raid under Ainthapalli Police Station area in Sambalpur district. The accused persons have been identified as Hrusikesh Kumbhar, a resident of Dipapali village under Ulunda PS in Sonepur district and Gopal Krushna Budak of Keutibahal village under Charmal police limits in Sambalpur district. Based on reliable information, the STF team conducted a raid near Bareipalli Chhak under Ainthapalli police limits to bust a wildlife smuggling racket in the district. During search, the team seized two elephant tusks and other incriminating articles from possession of accused persons. As the accused duo failed to produce any documents in support of possession of elephant tusks, they were arrested by the STF. A case has been registered in this connection under sections 379/411 IPC r/w. 51 of Wildlife (Protection) Act, 1972 and the arrested two persons will be forwarded to a local court. The elephant tusks seized during the raid will be sent to the Wildlife Institute of India, Dehradun for chemical examination, the STF stated in a release today.']
+
+
+Ivory----ITEM
+
+seized----CRIME.CAT
+
+two----SUS.NUMBER
+
+arrested----OUTCOME
+
+Odisha----LOC.STATE
+
+Special Task Force (STF)----AUTH.SEIZE
+
+State Crime Branch----AUTH.SEIZE
+
+today----DATE
+
+arrested----OUTCOME
+
+two----SUS.NUMBER
+
+seized----CRIME.CAT
+
+two----QTY
+
+elephant----SP.COMMON
+
+tusks----ITEM
+
+raid----CRIME.CAT
+
+Sambalpur district----LOC.DISTRICT
+
+Hrusikesh Kumbhar----SUS.NAME
+
+Dipapali village----SUS.LOC
+
+Gopal Krushna Budak----SUS.NAME
+
+Keutibahal village----SUS.LOC
+
+information----DETECTION_METHOD
+
+raid----CRIME.CAT
+
+near Bareipalli Chhak----LOC.EXACT
+
+seized----CRIME.CAT
+
+two----QTY
+
+elephant----SP.COMMON
+
+tusks----ITEM
+
+arrested----CRIME.CAT
+
+A case has been registered----OUTCOME
+
+arrested two persons will be forwarded to a local court----OUTCOME
+
+elephant tusks seized during the raid will be sent to the----OUTCOME
+
+Wildlife Institute of India, Dehradun----AUTH.MISC
+
+for chemical examination----OUTCOME

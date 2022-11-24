@@ -1,0 +1,29 @@
+
+['Madhya Pradesh: Another tiger found dead in Bandhavgarh Tiger Reserve\nBHOPAL: Yet another tiger was found dead inside Bandhavgarh Tiger Reserve on Thursday, taking the toll to 37 this year. Deputy director of the BTR informed the media that the carcass of a male tiger coded T37 was found near Dhamokar Tiger Reserve during a routine patrolling.Forest guard informed that they had seen another male tiger around the same spot indicating that it could have been killed over a territorial fight. The carcass was recovered and sent for autopsy and all the body parts were intact. Later, it was disposed of as per NTCA protocol.Earlier, a tiger was found dead on November 8 and the carcass was spotted during routine patrolling near Pathor range of the tiger reserve. Wildlife experts reached the spot and concluded that the tiger, aged around 5 years was killed in a territorial fight with another tiger.Wildlife activist Ajay Dubey expressed strong concern on the growing toll. “I have no option left than approaching the court for immediate remedy of dying tigers,” he said.Officials say that Bandhavgarh has recorded maximum tiger deaths this year – with most of the cases being attributed to territorial wars.Meanwhile, the forest department has also started a three-phase estimation exercise of tigers and it would continue till December 21.']
+
+
+Madhya Pradesh----LOC.STATE
+
+tiger----SP.COMMON
+
+found dead----CRIME.CAT
+
+Bandhavgarh Tiger Reserve----LOC.EXACT
+
+tiger----SP.COMMON
+
+found dead----CRIME.CAT
+
+Bandhavgarh Tiger Reserve----LOC.EXACT
+
+Thursday----DATE
+
+carcass----ITEM
+
+tiger----SP.COMMON
+
+Dhamokar Tiger Reserve----LOC.EXACT
+
+routine patrolling.Forest----DETECTION_METHOD
+
+carcass was recovered and sent for autopsy----OUTCOME

@@ -1,0 +1,15 @@
+
+['Korabandi forest denuded of sal trees\nRagadi: An active timber mafia gang has cut down and carted away a large number of sal trees from Korabandhi forest under Jajpur road forest range of Cuttack forest division, leaving the famous forest denuded of its valuable greenery. Spread on 184 hectare, the sal forest has been on the target of the mafia who cart away the valuable trees even in broad daylight, thanks to the failure of the Forest department in acting against the plunderers. Earlier, local villagers had taken a pledge to protect the trees. They had formed groups and guarded the forest. However, it was later handed over to the Jajpur road forest department. Now, locals have alleged that the mafia groups are hand in gloves with some forest officials who help them loot the valuable trees for a petty sum. “From cutting the trees in the forest to transporting and selling it for premium rates, the forest officials are in cahoots with the mafia,” a local stated. The forest has been losing its valuable trees every day. Locals and environmentalists expressed concern over the fast depletion of the sal forest as more than 400 trees worth lakhs of rupees have been smuggled in just one year. This has led to increase in human-animal conflict as wild animals are straying into villages due to lack of shelter in the forest. There have been several instances of bears and other wild animals straying into the villages. Moreover, many animals are killed due to accidents while crossing roads in bid to find a new habitat. To make the matter worse, the forest officials have no provision to facilitate drinking water for the wild animals. A few days ago, a deer in search of water fell prey to stray dogs and was killed. Similarly, two mother bears and a cub were crushed to death under a speeding truck in 2020. Locals alleged that timber mafia have been carrying out such loot in broad-daylight at different places in the range, but the Forest department is clueless. They alleged that inaction by the forest department has encouraged the mafia to go on looting trees. The Forest department and the administration should take effective steps to rein in illegal timber smuggling, they noted, demanding formation of a special squad to catch the mafia and save forests.']
+
+
+Korabandi forest----LOC.EXACT
+
+sal trees----SP.COMMON
+
+timber mafia gang----SUS.AFFIL
+
+sal trees----SP.COMMON
+
+Korabandhi forest----LOC.EXACT
+
+Forest department----AUTH.SEIZE

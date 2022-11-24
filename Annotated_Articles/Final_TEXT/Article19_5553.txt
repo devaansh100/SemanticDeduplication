@@ -1,0 +1,41 @@
+
+['Gujarat Girls, Who Performed Garba With Cobra, Booked Under Wildlife Protection Act\nNew Delhi: Two women and a 12-year-old minor girl from Gujarat\'s Junagadh district, who were seen performing Garba dance with snakes, have been booked under the Wildlife (Protection) Act, a forest department official said on Saturday. The action against them was taken after their dance video with snakes of cobra and other species went viral online. The girls had performed Garba during the recently concluded Navratri Festival. "The video that has gone viral on social media shows the two women and the girl holding a cobra and two non- venomous snakes while performing traditional garba dance during the recently-concluded Navratri festival," Deputy Conservator of Forests, Junagadh, Sunil Berwal, said. The forest department said that they probed the case after they came across the video and booked five people, including two women and a minor girl. They were produced before a local court, which granted them bail, he added. "After the video was brought to our notice, we probed the incident. We booked five persons, including two women and a girl. The other two are organiser of the event and supplier of snakes. All of them were arrested on Thursday," Berwal said. According to him, the probe revealed that the cobra had been defanged before the dance, while the other two snakes were non-poisonous. Devotees Perform Garba To Please Goddess Durga For all the Latest India News, Download News Nation Android and iOS Mobile Apps.']
+
+
+Gujarat----SUS.LOC
+
+Girls----SUS.GENDER
+
+Cobra----SP.COMMON
+
+Booked Under Wildlife Protection Act----OUTCOME
+
+Two----SUS.NUMBER
+
+women----SUS.GENDER
+
+12-year-old minor----SUS.AGE
+
+Junagadh----SUS.LOC
+
+booked under the Wildlife (Protection) Act----OUTCOME
+
+two----SUS.NUMBER
+
+women----SUS.GENDER
+
+girl----SUS.GENDER
+
+a----QTY
+
+cobra----SP.COMMON
+
+two----QTY
+
+five----SUS.NUMBER
+
+women----SUS.GENDER
+
+five----SUS.NUMBER
+
+girl----SUS.GENDER

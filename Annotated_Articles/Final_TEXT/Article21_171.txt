@@ -1,0 +1,41 @@
+
+['Endangered wildlife species smuggled from Amazon Rainforest seized in Golaghat in Upper Assam\nWildlife enforcement agencies on Tuesday morning seized three endangered wild animal species, suspected to be smuggled from Amazon Rainforest in Brazil in upper Assam’s Golaghat district. The forest officials rescued one pair of Macao, four Silvery Marmosets and one pair of Golden-headed Tamarin. The Silvery Marmoset (Mico argentatus) is a New World monkey that lives in the eastern Amazon Rainforest in Brazil. The Golden-headed Tamarin (Leontopithecus chrysomelas), is a Lion Tamarin found in Brazil. The species is found only in the lowland and premontane tropical forest fragments in the state of Bahia, and is considered to be an endangered animal. The seizure of the three endangered wild species from Brazil in Upper Assam’s Golaghat district has raised many eyebrows as it has exposed the existence of a trans-continental smuggling network in Northeast India. It is suspected that the smuggling network, which is based in Southeast Asia, must have smuggled in the consignment of the endangered wild species from Brazil to Upper Assam through the porous borders of Myanmar. Though the forest officials could not ascertain the destination of the endangered species of wild animals from Brazil, it is apparent that Golaghat in Upper Assam was being used as a transit point. The seized endangered wild animals from Brazil were handed over to the Assam State Zoo in Guwahati. “I don’t have any details on the seizure of the wild species. The animals are now under the care of the zoo veterinarians,” Tejas Mariswamy, divisional forest officer (DFO) of Assam State Zoo, said. While the Assam Forest officials are tight-lipped about the seizure and the international smuggling network, it is obvious that Northeast has turned into a major transit point of exotic wild animal smugglings. During the last few months, there has been multiple seizures of endangered exotic animals in Northeast India. Earlier on February 19 this year, a team of Assam Rifles troops and customs officials rescued 80 exotic animals in Mizoram along the Indo-Myanmar border. The team rescued 19 leopard tortoises, 38 red-footed tortoises; 17 yellow, orange and green iguanas; three bearded dragon and three albino iguana from the Champhai district of Mizoram. Before that, the Directorate of Revenue Intelligence (DRI) on January 27, rescued 30 exotic birds and a red-eared guenon, a primate species found in Africa in Kolasib district along the Mizoram-Assam border. In July last year, Assam forest department officials seized several exotic animals including a red kangaroo from Australia, six hyacinth macaws, two capuchin monkeys from South America and three Aldabra giant tortoises in Cachar district. The animals were brought from Mizoram. Transportation and possession of exotic animals – those that are not the habitat of the Indian subcontinent – or rare animals is an offence under the Protection of Wildlife Act, 1972.']
+
+
+Amazon Rainforest----ROUTE.SRC
+
+Golaghat----LOC.EXACT
+
+Wildlife enforcement agencies----AUTH.MISC
+
+Tuesday----DATE
+
+morning----CRIME.CAT
+
+seized----CRIME.CAT
+
+three----QTY
+
+Amazon Rainforest in Brazil----ROUTE.SRC
+
+upper Assam’s Golaghat district----ROUTE.DEST
+
+one pair----QTY
+
+Macao----SP.SPECIFIC
+
+four----QTY
+
+Silvery Marmosets----SP.SPECIFIC
+
+one pair----QTY
+
+Golden-headed Tamarin----SP.SPECIFIC
+
+Silvery Marmoset----SP.SPECIFIC
+
+Mico argentatus----SP.SPECIFIC
+
+Golden-headed Tamarin----SP.SPECIFIC
+
+Leontopithecus chrysomelas----SP.SPECIFIC

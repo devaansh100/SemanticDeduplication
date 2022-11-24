@@ -1,0 +1,56 @@
+
+['Two arrested in Goa for smuggling hippo teeth, tusks to Karnataka\nThe duo were on the radar of the Goa and Karnataka Forest Departments for the alleged smuggling of hippopotamus teeth and tusks This picture has been used for representational purpose only In a joint operation by the Goa and Karnataka authorities, two persons were arrested by the Crime Branch in connection with smuggling of hippopotamus teeth and passing them off as elephant tusks. The two persons Vishnu Harmalkar (24) and Anil Parsekar (30) both from Goa, were arrested on Thursday, Superintendent of Police (Crime Branch) Shobhit Saxena told reporters here. "Vishnu had procured the contraband and had paid Anil money to transport it across the border in Karnataka," the official said. The duo were on the radar of the Goa and Karnataka Forest Departments for the alleged smuggling of hippopotamus teeth and tusks, a racket which had been busted in Karnataka\'s Shivamogga district on August 25. Nine hippo teeth had been seized in the raid by the Karnataka Forest Department, which had also resulted in the arrest of three other persons, who were passing them off to buyers as elephant tusks. Keep scrolling to read more news Catch up on all the latest Crime, National, International and Hatke news here. Also download the new mid-day Android and iOS apps to get latest updates. Mid-Day is now on Telegram. Click here to join our channel (@middayinfomedialtd) and stay updated with the latest news This story has been sourced from a third party syndicated feed, agencies. Mid-day accepts no responsibility or liability for its dependability, trustworthiness, reliability and data of the text. Mid-day management/mid-day.com reserves the sole right to alter, delete or remove (without notice) the content in its absolute discretion for any reason whatsoever']
+
+
+Two----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+Goa----LOC.STATE
+
+hippo----SP.COMMON
+
+teeth----ITEM
+
+tusks----ITEM
+
+Karnataka
+The----ROUTE.DEST
+
+Karnataka Forest Departments----AUTH.SEIZE
+
+hippopotamus----SP.COMMON
+
+teeth----ITEM
+
+tusks----ITEM
+
+Goa and Karnataka authorities----AUTH.SEIZE
+
+two----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+Crime Branch----AUTH.SEIZE
+
+hippopotamus----SP.COMMON
+
+teeth----ITEM
+
+Vishnu Harmalkar----SUS.NAME
+
+24----SUS.AGE
+
+Anil Parsekar----SUS.NAME
+
+30----SUS.AGE
+
+Goa----SUS.LOC
+
+Thursday----DATE
+
+Vishnu----SUS.NAME
+
+Nine----QTY
+
+Karnataka Forest Department----AUTH.SEIZE

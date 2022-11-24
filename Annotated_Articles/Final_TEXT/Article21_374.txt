@@ -1,0 +1,29 @@
+
+['Tiger killed in Kaziranga National park by mistake\nGUWAHATI: A carcass of a male Royal Bengal Tiger was discovered near Japoripothar, Karuabari area (border area of Kaziranga National Park) at around 7.10 am. It was detected by Dinonath Phukan, Fgd, Jubraj Kutum, CW, and Amush Harrah Fgd (Bheroni Anti Poaching Camp). The incident led to an investigation and on an inquiry, it was found that the tiger died due to a bullet wound which is suspected to be a matter of accidental firing while trying to scare away the tiger from the public area.']
+
+
+Tiger----SP.COMMON
+
+killed----CRIME.CAT
+
+Kaziranga National park----LOC.EXACT
+
+carcass----ITEM
+
+Royal Bengal Tiger----SP.SPECIFIC
+
+Japoripothar, Karuabari area (border area of Kaziranga National Park----LOC.EXACT
+
+7.10 am----TIME
+
+Dinonath Phukan----OFF.NAME
+
+Fgd----OFF.DESIG
+
+Jubraj Kutum----OFF.NAME
+
+CW----OFF.DESIG
+
+Amush Harrah Fgd----OFF.NAME
+
+Bheroni Anti Poaching Camp----AUTH.SEIZE

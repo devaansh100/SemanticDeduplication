@@ -1,0 +1,105 @@
+
+["Poacher held, weapons seized in Odisha's Baripada\nBy Express News Service BARIPADA: Forest officials arrested a poacher from Kendujhari village within Baripada Sadar police limits on Monday night on charges of killing a leopard and selling its hide. The accused was identified as Laxman Murmu. Murmu was arrested on the basis of information provided by engineering student Vikas Vinay Singh of Uthaninuagaon village and his friend Vikas Bentakar of Khanua who were apprehended with the leopard hide earlier in the day. Forest officials seized two guns, bows, arrows, nets and other poaching instruments from Murmu's possession. Divisional forest officer of Baripada territorial division Santosh Joshi said Murmu had poached the leopard from Similipal National Park a couple of months back and recently sold the hide to Singh for Rs 5,000. Singh and Bentakar were caught red-handed by a joint team of the Wildlife Crime Control Bureau (WCCB), Madhya Pradesh and Special Task Force (STF) of Odisha Police while trying to sell the hide in a hotel of Baripada town. BARIPADA: Forest officials arrested a poacher from Kendujhari village within Baripada Sadar police limits on Monday night on charges of killing a leopard and selling its hide. The accused was identified as Laxman Murmu. Murmu was arrested on the basis of information provided by engineering student Vikas Vinay Singh of Uthaninuagaon village and his friend Vikas Bentakar of Khanua who were apprehended with the leopard hide earlier in the day. Forest officials seized two guns, bows, arrows, nets and other poaching instruments from Murmu's possession. Divisional forest officer of Baripada territorial division Santosh Joshi said Murmu had poached the leopard from Similipal National Park a couple of months back and recently sold the hide to Singh for Rs 5,000. Singh and Bentakar were caught red-handed by a joint team of the Wildlife Crime Control Bureau (WCCB), Madhya Pradesh and Special Task Force (STF) of Odisha Police while trying to sell the hide in a hotel of Baripada town."]
+
+
+Poacher----SUS.AFFIL
+
+weapons----ITEM
+
+seized----CRIME.CAT
+
+Odisha's----LOC.STATE
+
+Baripada----LOC.DISTRICT
+
+Forest officials----AUTH.SEIZE
+
+arrested----CRIME.CAT
+
+poacher----SUS.AFFIL
+
+Kendujhari village----SUS.LOC
+
+Monday----DATE
+
+night----TIME
+
+leopard----SP.COMMON
+
+hide----ITEM
+
+Laxman Murmu----SUS.NAME
+
+information----DETECTION_METHOD
+
+Vikas Vinay Singh----SUS.NAME
+
+Uthaninuagaon village----SUS.LOC
+
+Vikas Bentakar----SUS.NAME
+
+Khanua----SUS.LOC
+
+two----QTY
+
+guns----ITEM
+
+bows----ITEM
+
+arrows----ITEM
+
+nets----ITEM
+
+poaching instruments----ITEM
+
+Divisional forest officer of Baripada territorial division----OFF.DESIG
+
+Wildlife Crime Control Bureau (WCCB)----AUTH.SEIZE
+
+Madhya Pradesh----AUTH.SEIZE
+
+Special Task Force----AUTH.SEIZE
+
+STF----AUTH.SEIZE
+
+arrested----CRIME.CAT
+
+Kendujhari village----SUS.LOC
+
+Monday----DATE
+
+night----TIME
+
+leopard----SP.COMMON
+
+hide----ITEM
+
+Laxman Murmu----SUS.NAME
+
+information----DETECTION_METHOD
+
+Vikas Vinay Singh----SUS.NAME
+
+Uthaninuagaon village----SUS.LOC
+
+Vikas Bentakar----SUS.NAME
+
+Khanua----SUS.LOC
+
+two----QTY
+
+guns----ITEM
+
+bows----ITEM
+
+arrows----ITEM
+
+nets----ITEM
+
+poaching instruments----ITEM
+
+Wildlife Crime Control Bureau (WCCB), Madhya Pradesh----AUTH.SEIZE
+
+Special Task Force----AUTH.SEIZE
+
+STF----AUTH.SEIZE

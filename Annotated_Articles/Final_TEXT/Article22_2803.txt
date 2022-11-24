@@ -1,0 +1,69 @@
+
+['FPJ Legal: Indore Bench of MP high court rejects bail application in leopard poaching case\nIndore bench of Madhya Pradesh High Court building | Indore (Madhya Pradesh): The Indore Bench of Madhya Pradesh High Court rejected the bail applications of all the 8 accused arrested in the leopard poaching case. Trial Court, Indore has been directed to dispose of the matter within 9 months. Deputy Conservator of Forests (Wildlife) Rajneesh Singh informed that the leopard was hunted in the forest of Katthiwada of Alirajpur district by the accused residents of Alirajpur and Dhar districts. Among the arrested, two of them were found to be teachers by profession. They were suspended from their duties immediately. Components of the wild bear were also confiscated from the gang members. A forest crime case number 237/02 was registered on October 29, 2021 under various sections of the Wildlife Protection Act. The case mentions that the team seized one leopard skin, six nails, six mobile phones, one four wheeler vehicle (Tavera) and a two wheeler (HF Deluxe). Initially,six accused were arrested and later the remaining 2 accused who were absconding were also arrested. On the spot of these two accused, 12 bore guns, empty cartridges used in leopard hunt and sharp weapons used in removing leopard skin after hunting were also confiscated. State Tiger Strike Force, Wildlife Crime Control Bureau and Special Task Force (Police) had taken an action against illegal transport and illegal trade of wild animals by hunting them on the basis of secret information received by Madhya Pradesh Wildlife Headquarters. Taking joint action, the teams arrested some people around Bhainsola Chowpatty on Petlawad Rajod Marg. They were trying to sell the parts of the wild animals. The action was taken on the basis of the concrete information of the informer. Under the arrests, the team took six accused into custody. Further, wild leopard skins were confiscated from them. The arrested accused were from Alirajpur and Dhar. Four accused were hailing from Alirajpur. Another two hailed from Dhar.']
+
+
+leopard----SP.COMMON
+
+leopard----SP.COMMON
+
+Trial Court, Indore has been directed to dispose of the matter within 9 months.----OUTCOME
+
+Deputy Conservator of Forests (Wildlife)----OFF.DESIG
+
+Rajneesh Singh----OFF.NAME
+
+leopard----SP.COMMON
+
+Alirajpur----SUS.LOC
+
+one----QTY
+
+leopard----SP.COMMON
+
+skin----ITEM
+
+six----QTY
+
+nails----ITEM
+
+six----QTY
+
+mobile phones----ITEM
+
+one----QTY
+
+four wheeler vehicle----ITEM
+
+a----QTY
+
+two wheeler (HF Deluxe----ITEM
+
+12----QTY
+
+bore guns----ITEM
+
+cartridges----ITEM
+
+sharp weapons----ITEM
+
+State Tiger Strike Force----AUTH.SEIZE
+
+Wildlife Crime Control Bureau----AUTH.SEIZE
+
+Special Task Force (Police)----AUTH.SEIZE
+
+secret information----DETECTION_METHOD
+
+Bhainsola Chowpatty----LOC.EXACT
+
+six----SUS.NUMBER
+
+wild leopard skins----ITEM
+
+Alirajpur----SUS.LOC
+
+Dhar----SUS.LOC
+
+Alirajpur----SUS.LOC
+
+Dhar----SUS.LOC

@@ -1,0 +1,39 @@
+
+['17 northern pintails seized\nThe Forest Department officials seized 17 northern pintails, a rare species of duck, from two persons who were hunting the birds at the Big Tank here on Tuesday. Ramanathapuram Forest Range Officer S. Sathish said that a team of officials comprising Forester E. Rajasekaran, Forest Guard R. Gunasekaraan and anti-poaching officers found two persons hunting the northern pintails when they were patrolling the Big Tank. Out of the 17 northern pintails that were seized, two were dead. The two were buried. The remaining pintails were released into a bird sanctuary. The two accused were fined ₹ 25,000 under the Wildlife Protection Act, 1972, by A.S. Marimuthu, Wildlife Warden, Ramanathapuram. The northern pintails are native to northern Europe and nesting of this bird species happens in northern Europe. During the current season, they travel to India through North America for food. Mr. Sathish said that birds from other countries and various parts of the country come to the bird sanctuaries in the district during this season. “The public must cooperate with the forest department in protecting these rare bird species. The people can inform the forest department officials if they come to know about any poaching activity,” he added.']
+
+
+17----QTY
+
+northern pintails----SP.SPECIFIC
+
+seized----CRIME.CAT
+
+Forest Department----AUTH.SEIZE
+
+seized----CRIME.CAT
+
+17----QTY
+
+northern pintails----SP.SPECIFIC
+
+two----SUS.NUMBER
+
+Tuesday----DATE
+
+Forest Range Officer----OFF.DESIG
+
+S. Sathish----OFF.NAME
+
+Forester----OFF.DESIG
+
+E. Rajasekaran----OFF.NAME
+
+Forest Guard----OFF.DESIG
+
+R. Gunasekaraan----OFF.NAME
+
+northern pintails----SP.COMMON
+
+patrolling----DETECTION_METHOD
+
+fined ₹ 25,000----OUTCOME

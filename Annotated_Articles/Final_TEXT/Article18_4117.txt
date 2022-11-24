@@ -1,0 +1,27 @@
+
+['Leopard climbing tree with prey falls to death in MP’s Pench Tiger Reserve\nSeoni (MP), Apr 19 (PTI) A leopard fell to death while climbing a 25-feet tall tree with the prey- a monkey- in the Pench Tiger Reserve in Madhya Pradesh’s Seoni district, an official said on Tuesday. The carcasses of the adult female leopard and the langoor were spotted in the Gandatola area of the Kurai range under the Pench Tiger Reserve (PTR) on Monday morning, he said. PTR’s deputy director Rajnish Kumar Singh said that the ribs and backbone of the feline, aged around 8-10 years, were found broken while other body parts were intact. The marks of the leopard’s teeth were found on the neck of the langoor, he said. According to a team of veterinarians, the leopard possibly lost her balance and fell from the tree while climbing with the prey, the official said. He said that the dog squad and officials inspected the area and no suspected activity was found around the spot. Following an autopsy and other formalities, the carcass was disposed of as per the National Tiger Conservation Authority’s (NTCA) guidelines, the official added. PTI COR ADU NSK NSK This report is auto-generated from PTI news service. ThePrint holds no responsibility for its content.']
+
+
+Leopard----SP.COMMON
+
+MP’s----LOC.STATE
+
+Pench Tiger Reserve----LOC.EXACT
+
+leopard----SP.COMMON
+
+Pench Tiger Reserve----LOC.EXACT
+
+Madhya Pradesh’s----LOC.STATE
+
+Seoni district----LOC.DISTRICT
+
+carcasses----ITEM
+
+adult female leopard----SP.COMMON
+
+langoor----SP.COMMON
+
+Monday----DATE
+
+morning----TIME

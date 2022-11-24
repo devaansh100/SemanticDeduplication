@@ -1,0 +1,40 @@
+
+['Madhya Pradesh: Egyptian vulture smuggling racket linked to foreign shores\nInfluential people are involved: Officials BHOPAL: After tigers, turtles and pangolins, smuggling of globally threatened white scavenger vultures is ringing the alarm bells in Madhya Pradesh. Investigation to trace the end-consumers points towards Arabic and African countries, say sources.Officials say influential people with strong political backing are involved and the supply chain stretches beyond international borders, with clear evidence of a Dubai link.The investigation began after the rescue of seven Egyptian vultures -- also known as pharaoh\'s chicken -- from a train in Khandwa district of Madhya Pradesh. It was the first such seizure in these parts and opened up a new chapter of wildlife crime.Insiders say that they have clues to the involvement of some people living in Dubai. There is a possibility that these birds were being smuggled to Arabic and African countries where there is a high demand for its belief-based uses, said a forest officer.The carrier of these vultures, identified as 60-year-old Fareed Ahmad, a resident of Unnao in UP, was arrested from Khandwa station on January 18 following a tip from MP forest minister Vijay Shah. He was travelling in a sleeper coach of Sultanpur-Mumbai superfast express with Egyptian vultures, three of them female, stuffed in a large plastic bag. He had locked their wings systematically with pieces of saree. His son Shameem Ahmed was arrested later.During interrogation, Fareed said that he was paid Rs 10,000 per pair and they were to be delivered to Malegaon.The Khandwa forest department registered a case under sections 9, 39, 44, 48A, 49 and 51 of Wildlife (Protection) Act, 1972 and took him on remand. "He had been changing his statements. Our investigations are on," said Khandwa DFO Anil Shukla. Egyptian vultures, easily recognized by their yellow beaks, are classified as \'endangered\'. Analysis of their call details has led the forest department to some pet sellers in Malegaon and Mumbai. Four of them managed to escape before raid teams reached the spot. "Most of the suspects were living in rented accommodations, they had changed locations. We are looking for them," said an officer.Officials say influential people with strong political backing are involved and the supply chain will go beyond international borders. During interrogation, the accused said that these vultures were trapped using nets while squabbling at carcasses near a slaughterhouse in Unnao. Officials say that there is no clarity on buyers of these species. "This is the first case where smuggling of vultures has come to fore. There are studies which show that the trade of vulture bodies and parts especially in Africa where people believe their organs bestow intuitive abilities. Driven by superstition, this trade is pushing these birds toward extinction," said an officer. Sources informed that the syndicate operating vulture smuggling trade have ties in UAE as well as Africa. Their smuggling routes are being explored, he said.']
+
+
+Egyptian vulture smuggling racket linked to foreign shores
+Influential people are involved: Officials BHOPAL: After tigers, turtles and pangolins, smuggling of globally threatened white scavenger vultures is ringing the alarm bells in Madhya Pradesh. Investigation to trace the end-consumers points towards Arabic and African countries, say sources.Officials say influential people with strong political backing are involved and the supply chain stretches beyond international borders, with clear evidence of a Dubai link.The investigation began after the rescue of seven Egyptian vultures -- also known as pharaoh's chicken----SUS.AFFIL
+
+train----TRANSPORT_MODE
+
+Khandwa district----LOC.DISTRICT
+
+Madhya Pradesh----LOC.STATE
+
+Arabic and African countries----ROUTE.DEST
+
+60----SUS.AGE
+
+Fareed Ahmad----SUS.NAME
+
+Unnao in UP----SUS.LOC
+
+arrested----CRIME.CAT
+
+Khandwa station----LOC.EXACT
+
+January 18----DATE
+
+tip----DETECTION_METHOD
+
+MP forest minister----OFF.DESIG
+
+Vijay Shah----OFF.NAME
+
+sleeper coach----TRANSPORT_MODE
+
+Egyptian vultures----SP.SPECIFIC
+
+Shameem Ahmed----SUS.NAME
+
+registered a case----OUTCOME

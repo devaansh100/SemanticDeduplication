@@ -1,0 +1,31 @@
+
+['Leopard spotted at Thane mall, caught from basement of nearby hotel\nThe forest department officials on Wednesday managed to capture a leopard that was seen leaving the Korum Mall in Thane around 5.30 am. The leopard is believed to have entered the mall complex after scaling the perimeter wall. CCTV footage showed the wild cat leaving the mall premises around 5.30 am. A search operation was initiated after the leopard was seen moving towards the Vasant Vihar residential area in the vicinity. Also Watch: Leopard captured from Thane mall in five-hour long operation After searching the adjacent areas, the forest department officials managed to trace the leopard to the basement of the nearby Hotel Satkar Residency at Cadbury Junction in Thane. Also read: Runaway leopard keeps New Year crowd away at north Bengal safari park for second day “The leopard which was spotted moving towards the Vasant Vihar residential area in Thane was trapped by forest department in the basement of Satkar hotel. The leopard entered from the hotel’s rear entrance and was spotted by a member of the hotel’s security team,” said a police official from Vartak Nagar police station. The security officials informed the police who arrived and cordoned off the area. Following the same, forest officials then laid a trap around the basement. Gurudev Singh, 45, who works at the hotel as a driver, said he had spotted the leopard entering the hotel’s rear side. “I spotted the leopard entering from the backside of the hotel, which opens on the road towards Korum mall. The leopard came running from the backside of the hotel, and ran into basement,” Singh said. “The forest team that carried out the nearly 5-hour-long operation managed to catch it around 11:30 am after tranquilising it,” informed a police official. SHARE THIS ARTICLE ON']
+
+
+Leopard----SP.COMMON
+
+Thane mall----LOC.EXACT
+
+forest department----AUTH.SEIZE
+
+Wednesday----DATE
+
+leopard----SP.COMMON
+
+Korum Mall----LOC.EXACT
+
+Thane----LOC.CITY
+
+5.30 am----TIME
+
+leopard----SP.COMMON
+
+wild cat----SP.COMMON
+
+5.30 am----TIME
+
+search operation----DETECTION_METHOD
+
+Gurudev Singh----SUS.NAME
+
+45----SUS.AGE

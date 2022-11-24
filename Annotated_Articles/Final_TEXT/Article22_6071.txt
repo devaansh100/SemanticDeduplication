@@ -1,0 +1,35 @@
+
+['2 leopards rescued near Girnare\nNashik: The forest department rescued two leopards at two different locations near the Girnare village in the district on Monday.The forest department had set up cages about two to three weeks back at two different locations near the village after four people were injured in separate incidents of leopard attacks recently. The incident had created panic among villagers who had demanded the forest department put up cages to trap leopards.While one cage had been put up at Wadgaon , another was put up at Dugaon near Girnare in Nashik taluka of the district. On Monday, two leopards were trapped in these two cages. While one was a five-year-old fully grown up male leopard, another was a three-year-old female leopard. Forest officials rushed to the spot after they received information and conducted a medical check-up of both the leopards by a veterinary doctor.Forest officials said that the health of both the leopards is good and they will soon be released into the wild following official procedure. Leopards are mostly spotted near sugar cane farms. In the last five months, two people have succumbed to leopard attacks in Nashik district.']
+
+
+2----QTY
+
+leopards----SP.COMMON
+
+rescued----CRIME.CAT
+
+Girnare----LOC.EXACT
+
+forest department----AUTH.SEIZE
+
+two----QTY
+
+leopards----SP.COMMON
+
+Girnare village----LOC.EXACT
+
+Monday.The----DATE
+
+Wadgaon----LOC.EXACT
+
+Dugaon near Girnare----LOC.EXACT
+
+Monday----DATE
+
+two----QTY
+
+leopards----SP.COMMON
+
+information----DETECTION_METHOD
+
+medical check-up of both the leopards----OUTCOME

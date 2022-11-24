@@ -1,0 +1,19 @@
+
+['Assam: 18-month-old baby killed in elephant attack\nGuwahati: Man-elephant conflict is one of the major problems in Assam and often ends up in a horrific way. On Sunday, an 18-month-old child was trampled to death by a wild elephant in West Karbi Anglong. The child’s mother was severely injured in the attack. The incident was reported in the district’s Baithalangso while the woman was clearing bushes near her home. They were residents of the Umseret Ingti village and her child was with her when the elephant invaded. The elephant showed up all of a sudden at the village and attacked the woman and her child. The deceased was identified as Umjalin Ingti. While her mother identified as Kabon Rongpharpi. She was critically injured. The woman is going through treatment now.']
+
+
+Assam----LOC.STATE
+
+elephant----SP.COMMON
+
+Sunday----DATE
+
+wild elephant----SP.SPECIFIC
+
+West Karbi Anglong----LOC.DISTRICT
+
+Umseret Ingti village----LOC.EXACT
+
+Umjalin Ingti----SUS.NAME
+
+Kabon Rongpharpi----SUS.NAME

@@ -1,0 +1,23 @@
+
+['Red sanders logs worth ₹3 crore seized near Tamil Nadu border\nA special party of the Andhra Pradesh State Red Sanders Anti-Smuggling Task Force (APSRSASTF) on Saturday seized a lorry loaded with as many as 227 logs of B-grade red sanders, near Pichatur, on Chennai NH. The logs are said to be worth over ₹3 crore in the international market. Deputy SP (Task Force) K. Venkatiah told mediapersons at Tirupati that acting on reliable information that a gang of smugglers were on the job of dispatching a lorry with a huge consignment to Chennai, the task force had formed a special party five days ago which kept a thorough watch at the exit and entry points at vulnerable areas connected to the national highways towards Tamil Nadu. Sensing trouble, the smugglers too had delayed dispatching the lorry for four days and finally hit the road in the early hours of Saturday. The vehicle was seized on the NH along with the red sanders logs and brought to task force office at Tirupati. While the lorry driver was nabbed, some others in the vehicles had escaped under cover of darkness. Special parties were sent to search for the elusive accused in the border villages. The Deputy SP said that as per preliminary investigation, some more logs were still dumped in some hideouts in Seshachalam hills. The hand of local operators was also suspected. A case was registered and further investigation is on.']
+
+
+Red sanders logs----SP.SPECIFIC
+
+Andhra Pradesh State Red Sanders Anti-Smuggling Task Force (APSRSASTF)----AUTH.SEIZE
+
+Saturday----DATE
+
+227----QTY
+
+logs----ITEM
+
+logs----ITEM
+
+information----DETECTION_METHOD
+
+gang of smugglers----SUS.AFFIL
+
+Saturday----DATE
+
+nabbed----OUTCOME

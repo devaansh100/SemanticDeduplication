@@ -1,0 +1,47 @@
+
+['Leopard strays into Jaipur’s residential area, caught after 20 hours\nTwo personnel of the forest department were injured on Friday during a nearly 20-hour attempt to trap a leopard, which had strayed into a residential area in Rajasthan’s Jaipur on Thursday. The forest department’s team managed to tranquillise the big cat on the terrace of a house on Friday afternoon after it attacked forester Gaurav Rathi and guard Raj Kishore. Both have received minor injuries, officials said. “The leopard has been tranquillised and will be released in the forest after a medical examination,” Jaipur’s deputy conservator of forest, Sudharshan Sharma, said. The endangered animal was first spotted in a posh residential colony on Takhteshahi Road between Jawaharlal Nehru Road and Tonk Road on Thursday afternoon. The leopard, whose movement was captured on a closed-circuit television or CCTV cameras, was then seen crossing Tonk Road and going towards SMS Stadium. A search operation was launched and it continued in the night at SMS School but the leopard moved from the school to RBI Office across the road and then to Subodh College on Tonk road. It was then sighted at a restaurant behind the state assembly by a morning walker on Friday and the operation was restarted in the nearby colonies and SMS Stadium. Forest department officials then received information at around 10am that the leopard was hiding inside a storeroom on the terrace of a house in Greater Kailash Colony in Lal Kothi area. The rescue team surrounded the house and the leopard was tranquillised at 12.35pm, said Sharma. Hundreds of onlookers had moved to rooftops and had gathered on the road near the house to watch the leopard trapped on the roof. “Everyone was in a panic since yesterday as the news of leopard movement in the vicinity was flashed. The panic and tension doubled after learning that it was next to our lanes. But everything is fine and the leopard has been rescued safely,” Nandini, who was among the hundred to see the leopard, said. A forest department official said the leopard had probably come from the Jhalana forest area and could have crossed the University of Rajasthan campus into the residential area. A leopard was captured 10 days after he strayed into Smiriti Van, a public park on JLN Road, in September this year. The department had installed two cages and the leopard was trapped inside one of them. The park, which is very close to the Jhalana forest area, was closed for visitors during the operation. According to the Waterhole Census this year, there has been an increase in the leopard count by 12% in the Jhalana forest area. The census shows the number of leopards has gone up from 25 in 2018 to 28 in 2019. Official figures show that there has been an increase in the leopard count every year since 2014—from eight in 2014, 13 in 2015 and 12 in 2016—in Jhalana. Leopard are an endangered animal under schedule one of the Wildlife Protection Act, 1972. SHARE THIS ARTICLE ON']
+
+
+Leopard----SP.COMMON
+
+Two----SUS.NUMBER
+
+forest department----AUTH.SEIZE
+
+Friday----DATE
+
+leopard----SP.COMMON
+
+Thursday----DATE
+
+forest department’s team----AUTH.SEIZE
+
+Friday----DATE
+
+afternoon----TIME
+
+forester----OFF.DESIG
+
+Gaurav Rathi----OFF.NAME
+
+guard----OFF.DESIG
+
+Raj Kishore----OFF.NAME
+
+Thursday----DATE
+
+afternoon----TIME
+
+leopard----SP.COMMON
+
+search operation----DETECTION_METHOD
+
+SMS School----LOC.EXACT
+
+information----DETECTION_METHOD
+
+a storeroom on the terrace of a house in Greater Kailash Colony in Lal Kothi area----CONCEALMENT_METHOD
+
+12.35pm,----TIME
+
+leopard----SP.COMMON

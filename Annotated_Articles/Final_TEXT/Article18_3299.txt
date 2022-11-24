@@ -1,0 +1,19 @@
+
+['Dolphin Stranded On Texas Beach Dies After People Attempted to Ride It\nDolphin Stranded On Texas Beach Dies After People Attempted to Ride It The dolphin was found stranded on the Texas beach but was still alive. In a horrifying incident, a stranded alive dolphin on a Texas beach died after a crowd “harassed” the animal and attempted to ride it. Taking to Twitter, a nonprofit group, Texas Marine Mammal Stranding Network, informed that the incident took place on Sunday when a sick dolphin washed up onshore at Quintana Beach where beachgoers tried to swim with the animal and push it back to sea. The post said that the dolphin “was ultimately stranded and was further harassed by a crowd of people on the beach where she later died before rescuers could arrive on the scene”. As per the social media post, the female dolphin was found stranded on the Texas beach but was still alive. However, the beachgoers pushed the dolphin out to sea and tried to swim with and ride her. The nonprofit group said that this kind of harassment could have caused undue stress to the wild dolphin, which is also dangerous for the people who...']
+
+
+Dolphin----SP.COMMON
+
+Texas Beach----LOC.EXACT
+
+Dolphin----SP.COMMON
+
+dolphin----SP.COMMON
+
+dolphin----SP.COMMON
+
+Sunday----DATE
+
+dolphin----SP.COMMON
+
+Quintana Beach----LOC.EXACT

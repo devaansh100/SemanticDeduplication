@@ -1,0 +1,33 @@
+
+['Odisha: Turtle smuggling racket busted, 140 reptiles seized in Malkangiri\nMalkangiri (Odisha) Officials of the Odisha State Forest Department raided a van and busted a turtle smuggling racket in the Malkangiri district. They recovered a total of 140 Indian Flapshell turtles (Lissemys punctata) and arrested an alleged smuggler. "Many reptile smugglers collect live turtles from some local fishermen who catch the reptiles from the rivers and other water bodies in the district. We will release all the 140 turtles into the nearby river (Kolab). Many people in the district consume turtle meat and is one of the reasons as to why these reptiles are smuggled," Rashmi Ranjan Swain, the forest range officer of MV 79 forest range of Malkangiri forest division told Gaon Connection. The forest official also shared that in a similar raid carried out on November 3, around 40 such turtles were seized from Malkangiri\'s MV-65 village. Smuggling of turtles is a non-bailable offence under the Wildlife Protection Act, 1972. Also Read: Odisha: Zoological Survey of India tags 6,500 Olive ridley sea turtles to know more about the endangered species "Turtles are in great demand as they are used for manufacturing of rare medicines for the treatment of infertility diseases. People kill turtles for their supposed aphrodisiac properties, for livestock feed, to make leather from their skins, to make potions from their blood, and to use them as fishing bait," the forest official informed. Many reptile smugglers collect live turtles from some local fishermen who catch the reptiles from the rivers and other water bodies in the district. "Turtles are also sought for their shell trade," she added. Also Read: Odisha records 33% rise in dolphin population but numbers drop in Chilika lake The Indian flapshell turtle is a freshwater species which is found in the South Asian region. The \'flap-shell\' name stems from the presence of femoral flaps located on the plastron. These flaps of skin cover the limbs when they retract into the shell. Basudev Tripathy, a turtle researcher and scientist at the Zoological Survey of India\'s Western Regional Centre in Pune told Gaon Connection that it is a relatively small soft-shell turtle with a carapace length of up to 350 mm. "Poaching for meat and cartilage has been identified as a major direct threat to the freshwater turtles as many poachers are now active to kill the turtles. Gangs of poachers have been using stringing up lines with multiple hooks to catch turtles, whilst others lure turtles with dead cattle carcasses on the river banks," he said. Also Read: Record nesting of endangered turtles in Odisha underlines decades of conservation efforts "The fresh water turtle is a scavenger in the river and helps in maintaining aquatic hygiene but this unique animal faces a bleak future. Predators are taking their toll on the turtle population as well. Their nests are destroyed by feral pests such as foxes and wild dogs. It appears a few of the eggs are hatching and reaching adulthood. Once the adults are all gone the river turtle will fade from existence," Tripathy added.']
+
+
+Odisha----LOC.STATE
+
+Turtle----SP.COMMON
+
+140----QTY
+
+reptiles----SP.COMMON
+
+seized----CRIME.CAT
+
+Malkangiri----LOC.DISTRICT
+
+Odisha State Forest Department----AUTH.SEIZE
+
+raided----DETECTION_METHOD
+
+van----TRANSPORT_MODE
+
+Malkangiri district----LOC.DISTRICT
+
+140----QTY
+
+Indian Flapshell turtles----SP.SPECIFIC
+
+Lissemys punctata)----SP.SPECIFIC
+
+arrested----CRIME.CAT
+
+an----SUS.NUMBER

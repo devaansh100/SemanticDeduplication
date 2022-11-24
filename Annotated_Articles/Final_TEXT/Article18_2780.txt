@@ -1,0 +1,29 @@
+
+['Russia: Bear Mauls Hunter To Death After Being Shot\nA bear mauled a hunter to death in an apparent \'revenge attack\' after the man had shot and wounded the beast. The incident took place in the Tulun district of the Irkutsk region of Russia. An unnamed 62-year-old hunter shot the brown bear, who in return killed the man by crushing his skull. East2West News Graphic photos going viral show the man\'s body lying nearby the bear\'s carcass.  Bear kills hunter after being fatally wounded The hunter, who had been reported as missing, is understood to have shot and injured the wild animal from a platform in a tree. After shooting the beast, the man climbed down the tree to check on the bear, which he thought was dead, Interfax news agency reported. However, the beast which would have been wounded at the time attacked and killed the hunter. East2West News "When a 62-year-old man climbed down, the mortally wounded bear attacked and killed him. The carcass of the animal was found 50 metres from the place where the man died," as per Interfax.  Hunter had been reported missing As per local media, the hunter had been reported missing before officials managed to track him down. The gruesome scene was located after a search party had been organised in the Siberian region. Bear attacks in Russia are common. In 2021, a camper was eaten by a bear as his three friends watched in horror. The hungry predator lunged at the friends in a Russian national park and ended up killing one of them.  Earlier this year, a spine-chilling video went viral showing a man in Florida, U.S., fighting off a wild bear to save his pet dogs. Dramatic video taken from Walter Hickox’s Ring camera showed the man on the patio with his three dogs when a black bear crawled over a pet gate, coming dangerously close to the dogs, Inside Edition reported. That’s when Walter showed great courage and lunged toward the bear, shoving it back out of his home as it clawed at him. Walter managed to trap the bear back outside using a fence.  “Oh my God! I got attacked by a bear,” Walter yelled after successfully repelling the beast.  “Not a lot went through my head at the moment, other than what’s going to happen if he gets past me and into the house where the rest of my dogs and my wife were,” the man told WFTV. “The line of focus [was] between the bear’s eyes and my dog,” he told Inside Edition recalling the moment. “I wanted to break that focus, get my body into there to let the dog get back into the house,” he explained.  For more trending stories, follow us on Telegram. ']
+
+
+Bear----SP.COMMON
+
+Mauls----CRIME.CAT
+
+Hunter----SP.COMMON
+
+bear----SP.COMMON
+
+revenge attack----DETECTION_METHOD
+
+Tulun district----LOC.DISTRICT
+
+Irkutsk region of Russia----LOC.DISTRICT
+
+62-year-old----SUS.AGE
+
+hunter----SUS.AFFIL
+
+brown bear----SP.COMMON
+
+kills----CRIME.CAT
+
+62-year-old----SUS.AGE
+
+carcass----ITEM

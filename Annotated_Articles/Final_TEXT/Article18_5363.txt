@@ -1,0 +1,65 @@
+
+["Sydney Shark attack video: Swimmer dies after being eaten by predator in viral Little Bay footage\nA fatal shark attack in Sydney’s Little Bay region left one swimmer dead on Wednesday, February 16, 2022. The victim reportedly suffered from “catastrophic injuries” and succumbed to the wounds before paramedics arrived at the scene. The beach was filled with dozens of swimmers, paddle boarders and fishermen at the time of the attack, who were alerted by the horrifying screams of the swimmer. Police and emergency services were called to the scene at around 4:35 pm in the evening shortly after the attack. Trigger warning: This article describes a brutal attack. Tamsin Rose @tamsinroses Little Bay beach remains closed as police continue to search following a fatal shark attack this afternoon. @GuardianAus Little Bay beach remains closed as police continue to search following a fatal shark attack this afternoon. @GuardianAus https://t.co/1cR5yzMHum Officials launched an intense search operation for the victim and the predator using rescue boats, jets, and skis. They reportedly found human remains in the water around 6:00 pm that same day. The gruesome moment was also captured on video and widely circulated on social media. The latest incident was Sydney’s first shark attack in the last 60 years since TV actress Marcia Hathaway was killed in a similar manner during a boating trip in Middle Harbour’s Sugarloaf Bay in 1963. A look into the Sydney shark attack incident and video The brutal shark attack on Sydney's Little Bay Beach was captured on video and circulated online (Image via Getty Images) A video documenting a fatal shark attack on Little Bay beach in Sydney recently went viral online. The incident took place on Wednesday and claimed the life of a swimmer who was eaten alive by a nearly four-and-a-half meter long great white predator. The terrifying footage captured the exact moment the animal attacked the swimmer and thrashed him around the ocean before taking him underwater. The chilling video showed huge splashes in the sea before the water turned red and birds started circling above the area. A police officer later confirmed that the footage clearly displayed “half a [human] body being taken by a shark.” One man can be heard screaming in the video while witnessing the brutal tragedy in-person: “Someone just got eaten by a shark. Oh man! Oh no! That's insane. That's a great white shark. The person's still there! I just saw a four to five metre great white explode on the surface just here on a swimmer and it was like a car landing in the water.” The man further detailed the incident in the video and said: “I heard a scream and the predator was just chomping on his body and the body was in half just off the rocks here. It came back and swallowed parts of his body and that was it. It disappeared.” Several other onlookers could also be heard screaming and crying in horror in the background of the video. Meanwhile, police spent several hours interviewing witnesses present at the scene. According to Nine News, fisherman Kris Linto recalled: “Some guy was swimming and a shark came and attacked him vertically. We heard a yell and turned around it looked like a car had landed in the water, a big splash then the animal was chomping at the body and there was blood everywhere. It was really bad.” Another witness told ABC that the attack lasted for a few seconds but the predator continued to maul the victim: “He was yelling at first, and then when he went down there were so many splashes... It's very, very upsetting. He just went down for a swim, enjoying the day, but that shark took his life.” NSW Ambulance Inspector Lucky Phrachanh further confirmed the incident and said that the presence of paramedics would not have made much difference: “Unfortunately this person had suffered catastrophic injuries and there wasn't a lot paramedics could do when we arrived.” The incident left the local community at Randwick Council in complete shock. Randwick mayor Dylan Parker also issued an official statement addressing the tragedy: “The coast is our community's backyard. Little Bay is normally such a calm, beautiful place enjoyed by families. To lose someone to a shark attack like this is chilling. We are all in shock. Our entire community's hearts go out to the family of the victim.” Police authorities also told The Daily Mail that they will communicate with the Department of Primary Industries (DPI) to further investigate the circumstances surrounding the death of the victim: “DPI extends sincere condolences to the family and friends and first responders at this tragic. DPI will continue to work with NSW Police and SLS NSW to monitor the area and provide any technical advice and resources if required, including deploying SMART drumlines in the area.” Dylan Parker @RandwickMayor Randwick beaches including Little Bay, Malabar, Maroubra, Coogee, Clovelly and La Perouse will be closed for 24 hours following a fatal shark attack near Little Bay today. Council Lifeguards will patrol beaches over the next 24 hours looking for any further sightings of sharks. Randwick beaches including Little Bay, Malabar, Maroubra, Coogee, Clovelly and La Perouse will be closed for 24 hours following a fatal shark attack near Little Bay today. Council Lifeguards will patrol beaches over the next 24 hours looking for any further sightings of sharks. https://t.co/KVYcsfWnXJ Following the incident, several locals decided to avoid the waters for a while. All beaches in the Randwick council area, including Little Bay and the nearby Maroubra Beach, were closed for 24 hours in the wake of the tragedy. A search for the killer animal was also called off at night but is scheduled to resume from the break of the dawn on Thursday, February 17, 2022. Poll : 0 votes"]
+
+
+Shark----SP.COMMON
+
+shark----SP.COMMON
+
+Little Bay region----LOC.DISTRICT
+
+one----SUS.NUMBER
+
+Wednesday----DATE
+
+February 16, 2022----DATE
+
+4:35 pm----TIME
+
+evening----TIME
+
+shark----SP.COMMON
+
+afternoon----DATE
+
+shark----SP.COMMON
+
+Little Bay Beach----LOC.EXACT
+
+shark----SP.COMMON
+
+Little Bay beach----LOC.EXACT
+
+Wednesday----DATE
+
+great white predator----SP.SPECIFIC
+
+great white shark----SP.SPECIFIC
+
+great white----SP.SPECIFIC
+
+Little Bay----LOC.EXACT
+
+Malabar----LOC.EXACT
+
+Maroubra----LOC.EXACT
+
+Coogee----LOC.EXACT
+
+Clovelly----LOC.EXACT
+
+Little Bay----LOC.EXACT
+
+today----DATE
+
+Little Bay----LOC.EXACT
+
+Malabar----LOC.EXACT
+
+Maroubra----LOC.EXACT
+
+Coogee----LOC.EXACT
+
+Clovelly----LOC.EXACT
+
+Council Lifeguards----AUTH.SEIZE

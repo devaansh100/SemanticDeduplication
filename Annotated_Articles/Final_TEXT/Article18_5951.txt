@@ -1,0 +1,15 @@
+
+['Rat Poison Powder - Buy Baby Care Products in India\nUsage Instruction Pre-baiting: Pre bait with 5-10 grams (1-2 tea spoons) of untreated locally available food like cereals, grams and other eatables like bread etc. in each bait station, two or three days prior to baiting to increases acceptance of treated baits at various bait stations. Baiting: Prepare treated baits by mixing 2-3% Ratox with similar kind of food material along with 5% each of sugar and corn oil. Use all treated baits in one operation. Apply 5-10g of bait where most of pre-bait is eaten and only to areas where untreated bait was consumed. Treat only once. If rodent nuisance continues repeat pre-baiting. Do not treat the same area at less than 2-4 weeks. Collect and dispose of all dead animals and excess bait properly.']
+
+
+Rat----SP.COMMON
+
+Powder----ITEM
+
+5-10 grams----QTY
+
+cereals----ITEM
+
+grams----ITEM
+
+bread----ITEM

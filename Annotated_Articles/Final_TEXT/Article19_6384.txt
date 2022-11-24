@@ -1,0 +1,15 @@
+
+["Leopard enters house in Delhi's Ashok Vihar, triggers panic | Watch\nFollow us on Leopard enters house in Delhi's Ashok Vihar, triggers panic | Watch A leopard was seen entering a residential building in Delhi's Ashok Vihar Phase 2, triggering panic among residents. A video shot by locals show the leopard was trying to enter the house by jumping into another house. This is not the first case that a leopard had enetered a residential building, earlier in August, a two-and-a-half-year-old male leopard found its way into a residential neighbourhood along the busy Sohna Road, entered a house and then a salon as alarmed residents chased it with sticks, and was eventually rescued after nearly three hours by the forest department. ALSO READ | Leopard attacks on the rise in West Uttar Pradesh ALSO READ | Week after, leopardess that killed minor boy captured Latest India News"]
+
+
+Leopard----SP.COMMON
+
+Ashok Vihar----LOC.EXACT
+
+Leopard----SP.COMMON
+
+Ashok Vihar----LOC.EXACT
+
+leopard----SP.COMMON
+
+Ashok Vihar Phase----LOC.EXACT

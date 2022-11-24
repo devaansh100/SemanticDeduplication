@@ -1,0 +1,37 @@
+
+["Salem: Jumbo tramples mahout in zoo park\nSalem: Tragedy struck at the Kurumbapatti zoological park, a mini zoo situated in the foothills of Shervaroyan hills near Yercaud, about 10 km from here on Monday evening, when a female elephant trampled its mahout to death. The 68-year-old pachyderm, Aandal, brought to the park from Alagar Kovil near Madurai in 2009, had in a sudden fit of anger, when it was being examined by a veterinary doctor, lifted aloft mahout Kaliappan standing near it, thrashed him on the floor and trampled him underneath her massive feet, forest department sources said on Tuesday. As part of the routine medical check-up, veterinarian Dr Prakash had come with his team and was examining the elephant closely when she suddenly went uncontrollable. Shocked by its behaviour, the veterinarian and his team ran for cover even as the badly mauled mahout Kaliappan, who hails from Pollachi, lay dead near her feet. On information Forest department officials led by DFO A. Periyasamy rushed to the spot, tranquilized the elephant by administering an injection and slowly retrieved the mahout's body and sent it to Salem GH post-mortem. Poor Kaliappan is survived by wife, three sons and a daughter. Aandal has a history of throwing up violent tantrums and it had similarly killed a woman here, forest department sources said, adding, it was a problematic elephant even when it was in Alagar Kovil where three others had met with similar fate. The department now plans to shift Aandal to some other camp. The zoological park set up in 1981 and extending up to an area of 31.73 hectares, has a variety of flora and fauna including deer, reptiles, marine species like crocodiles, birds, etc and is a tourist attraction for visitors to Salem."]
+
+
+Jumbo----SP.SPECIFIC
+
+mahout----SP.COMMON
+
+Kurumbapatti zoological park----LOC.EXACT
+
+Monday----DATE
+
+evening----TIME
+
+elephant----SP.COMMON
+
+pachyderm----SP.COMMON
+
+Aandal----SUS.NAME
+
+Kaliappan----SUS.NAME
+
+routine medical check-up, veterinarian Dr----DETECTION_METHOD
+
+Kaliappan----SUS.NAME
+
+Pollachi----SUS.LOC
+
+information----DETECTION_METHOD
+
+Forest department officials----AUTH.SEIZE
+
+DFO----OFF.DESIG
+
+A. Periyasamy----OFF.NAME
+
+Kaliappan----SUS.NAME

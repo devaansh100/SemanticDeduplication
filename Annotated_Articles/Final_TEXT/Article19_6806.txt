@@ -1,0 +1,15 @@
+
+['Mumbai: Fishermen net reward for saving endangered mammals\nMumbai: State marine biodiversity conservation cell has rewarded 55 fishermen so far for rescuing rare and endangered marine mammals ensnared in fishing nets and releasing them back into the sea. Neenu Somaraj, Joint Director, Maharashtra Forest & Marine Biodiversity confirmed the details to the Free Press Journal. She further informed about Rs 4 lakh has been spent as compensation to fishermen who had to cut their fishing nets off to save the mammals. The state marine biodiversity conservation cell has made a budgetary provision of Rs 25 lakh for compensation in such cases alone. Marine mammals such as turtles, dolphins, and even protected fishes like saw fish and guitar fish, getting trapped in fishing nets are quite common. These are protected marine mammals under the Wildlife Protection Act, 1972. As per the provision of the Act, if anyone found catching these protected creatures can be sent to prison for up to six years or a fine of Rs 25,000 can be imposed on them. However, as several fishermen are unaware of the protected status of these fishes instead of taking legal action, the conservation cell is creating awareness. As per parts of its awareness initiative, the state government, from 2018 onwards, has started giving fishermen, who accidentally netted any rare endangered marine mammals a maximum of Rs 25,000 as reward for releasing them back in the sea. The fishermen usually have to share a photographic or videographic evidence of rare fish being released back into the sea. The compensation money is transferred directly into their bank account. This paper in July had reported about launching of mobile application by the marine biodiversity cell to make the compensation distribution process easier and faster, and also to encourage more fishermen to come forward in protecting the endangered marine mammals. However, the app has not been launched till date.']
+
+
+Fishermen----SUS.AFFIL
+
+55----SUS.NUMBER
+
+fishermen----SUS.AFFIL
+
+marine mammals----SP.COMMON
+
+Rs 4 lakh----VALUE
+
+fishermen----SUS.AFFIL

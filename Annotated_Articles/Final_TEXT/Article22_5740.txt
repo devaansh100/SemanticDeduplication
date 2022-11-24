@@ -1,0 +1,13 @@
+
+['Now bear haunting Chanda city ward, residents demand its capture\nChandrapur: While two of the three tigers in Chandrapur Super Thermal Power Station (CSTPS) remained elusive, a bear having cubs has started haunting Wadgaon ward area in the city. The residents have threatened to take to the streets if forest department fails to capture the bear.The bear accompanied by two cubs is being sighted time and again in Wadgaon ward during the last eight days. The beast is prowling through Ambedkar Sabhagruha, Laxmi Nagar, Sai Nagar, Shiv Nagar and old habitation of Wadgaon ward. The bear has even been caught in CCTV cameras installed in the houses as well as shops in the area.Wadgaon ward corporator Pappu alias Pradeep Deshmukh said presence of the bear poses threat to the people in the area. “It is necessary to capture the bear and its cubs before any unfortunate incident takes place. Forest department should also undertake measures to ensure that such wild animals do not enter residential areas,” said Deshmukh.A delegation of citizens led by Deshmukh submitted a memorandum to CCF, Chandrapur circle, NR Pravin, demanding capturing of the bear within three days. He has threatened to resort to agitation if the department fails to trap the bear within stipulated time.']
+
+
+bear----SP.COMMON
+
+Chanda city ward----LOC.EXACT
+
+bear----SP.COMMON
+
+Wadgaon ward area----LOC.EXACT
+
+Sai Nagar----LOC.EXACT

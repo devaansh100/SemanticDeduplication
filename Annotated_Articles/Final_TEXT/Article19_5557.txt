@@ -1,0 +1,73 @@
+
+['Exotic species of snakes and lizards seized at Chennai airport. See pics\nExotic species of juvenile pythons and lizards were seized on Thursday at Chennai International Airport by Customs officials who detained two men in this connection. Among the species seized include- a green tree python, one scrub python, two black tree monitor lizards, five emerald tree monitor lizards, two blue-spotted tree monitor lizards, one Reisinger tree monitor and four sailfin lizards. Here are some of the pictures of the wild reptiles: Custom officials detained two men in connection with smuggling of exotic species. A snake that was smuggled by two men who were detailed at Chennai airport. Based on information that wild animals were likely smuggled from Kuala Lumpur. Based on information that wild animals were likely smuggled from Kuala Lumpur, officers of the Customs Air Intelligence Unit (AIU) maintained a special alert and vigil to nab the smugglers according to a statement by Customs The news made its way onto Twitter too and people dropped all sorts of comments: Good sssssssssssssecurity — ToothbrushBristlesCanCauseAppendix (@722manish) October 10, 2019 How come these smugglers miss a basic point of being caught in airports with so much scanning and checks prevailing. Do they belittle capabilities of security ? — Krishna Vivek Vitta (@krishnavivek_v) October 10, 2019 Mere Dost log party krne ja rahe the.. — Víźźź🎶🌈 (@hn_vijy) October 10, 2019 What the fun they do think of scanning and checking at airports? These are full size animals! How they can even think of smuggling them 🤔. I had to throw my keychain resembling gun! — Adwait (@adwaitk007) October 10, 2019 “On questioning, the arrested persons informed that these bags were given to them by someone outside Kuala Lumpur airport with instructions to hand them over to someone outside the Chennai airport who would identify them,” said the Customs Department. The seized exotic species reptiles will be sent back to Kuala Lumpur in Malaysia. Further investigation is underway.']
+
+
+snakes----SP.COMMON
+
+lizards----SP.COMMON
+
+seized----CRIME.CAT
+
+Chennai airport----LOC.EXACT
+
+pythons----SP.COMMON
+
+lizards----SP.COMMON
+
+seized----CRIME.CAT
+
+Thursday----DATE
+
+Chennai International Airport----LOC.EXACT
+
+Customs officials----AUTH.SEIZE
+
+two----SUS.NUMBER
+
+men----SUS.GENDER
+
+a----QTY
+
+green tree python----SP.SPECIFIC
+
+one----QTY
+
+scrub python----SP.SPECIFIC
+
+two----QTY
+
+black tree monitor lizards----SP.SPECIFIC
+
+five----QTY
+
+emerald tree monitor lizards----SP.SPECIFIC
+
+two----QTY
+
+blue-spotted tree monitor lizards----SP.SPECIFIC
+
+one----QTY
+
+Reisinger tree monitor----SP.SPECIFIC
+
+four----QTY
+
+sailfin lizards----SP.SPECIFIC
+
+two----SUS.NUMBER
+
+men----SUS.GENDER
+
+smuggling----CRIME.CAT
+
+snake----SP.COMMON
+
+two----SUS.NUMBER
+
+Kuala Lumpur----ROUTE.SRC
+
+Customs Air Intelligence Unit----AUTH.SEIZE
+
+AIU----AUTH.SEIZE
+
+special alert and vigil----DETECTION_METHOD

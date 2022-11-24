@@ -1,0 +1,31 @@
+
+['Chennai shop fined Rs 50,000 for chopping tree on public land\nChennai shop fined Rs 50,000 for chopping tree on public land The matter came to light on Thursday, February 24 after a passerby alerted a city-based NGO about the incident. news News A commercial establishment in Chennai has been fined Rs 50,000 by the Tamil Nadu Green Committee for chopping a tree on public land. The matter came to light on Thursday, February 24 after a passerby alerted the city-based non-governmental organisation (NGO) Nizhal when he saw a truck and some men attempting to chop a tree on MG Road in Shashtri Nagar. The trustee of the NGO then informed the state environmental secretary about the incident. The Green Committee consisting of officials from the District Forest Officer and the Chennai Corporation visited the site where the tree was chopped and penalised the offender. The District Green Committees have been established in all the districts with officials of several government departments being part of it. TD Babu, the trustee of the NGO told the Times of India that this is not the first time they were doing this. “A few months ago, the same team, in the name of transplanting a tree, had chopped a neem tree, Later, they tried to concretise the entire area even encroaching upon the footpath,” he told TOI. He added that today, when they were chopping the tree’s branches without permission, he raised a complaint with the environmental secretary who immediately sent a team of forest officials to the spot. Supriya Sahu, who is the chairperson of the Tamil Nadu Green Committee said that as soon as she was informed, the district forest officer was alerted. They found that it was corporation land, and the corporation’s park overseer was accordingly informed. After due investigation, the private entity was penalised Rs 50,000. A meeting will be convened by the Green Committee shortly where steps to enhance the green cover, prevent unlawful cutting of trees, and mapping of standing trees would be considered. Meanwhile, Nizhal has been asking the state government to set up a dedicated tree helpline, as it has reportedly been receiving calls for safeguarding the trees from various parts of the state.']
+
+
+Chennai----LOC.CITY
+
+fined Rs 50,000----OUTCOME
+
+chopping tree on public land----CRIME.CAT
+
+Thursday, February 24----DATE
+
+passerby alerted----DETECTION_METHOD
+
+fined Rs 50,000----OUTCOME
+
+Thursday, February 24----DATE
+
+passerby alerted----DETECTION_METHOD
+
+truck----TRANSPORT_MODE
+
+men----SUS.GENDER
+
+MG Road in Shashtri Nagar----LOC.EXACT
+
+District Forest Officer----AUTH.SEIZE
+
+Chennai Corporation----AUTH.SEIZE
+
+penalised Rs 50,000----OUTCOME

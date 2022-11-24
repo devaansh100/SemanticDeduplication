@@ -1,0 +1,37 @@
+
+['Endangered mouse-deer rescued\nBICHOLIM: The Animal Rescue Squad (ARS), Bicholim , recently rescued a mouse deer at Karapur, Bicholim, and handed the endangered animal over to the forest department.Bicholim ARS chief Amrut Singh said the mousedeer ( Indian spotted Chevrotain ) was trapped in a canal in a kulagar at Kolamwada-Karapur village.After receiving the information from the owner of the kulagar, an ARS team comprising Singh, range forest officer of Keri-Sattari Vivek Gaonkar, forest guards Vishnu Amonkar and Bala Gosavi and wildlife rescuer Raj Majik rushed to the spot and rescued the deer.']
+
+
+mouse-deer----SP.SPECIFIC
+
+rescued----CRIME.CAT
+
+Animal Rescue Squad (ARS), Bicholim----AUTH.SEIZE
+
+mouse deer----SP.COMMON
+
+Karapur----LOC.EXACT
+
+forest department.Bicholim----AUTH.MISC
+
+mousedeer----SP.SPECIFIC
+
+ARS----AUTH.SEIZE
+
+Singh----OFF.NAME
+
+range forest officer of Keri-Sattari----OFF.DESIG
+
+Vivek Gaonkar----OFF.NAME
+
+forest guards----OFF.DESIG
+
+Vishnu Amonkar----OFF.NAME
+
+Bala Gosavi----OFF.NAME
+
+wildlife rescuer----OFF.DESIG
+
+Raj Majik----OFF.NAME
+
+deer.----SP.COMMON

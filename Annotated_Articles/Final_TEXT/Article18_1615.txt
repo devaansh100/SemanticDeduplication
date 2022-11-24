@@ -1,0 +1,23 @@
+
+['TN, K’taka foresters deploy drones to track tiger in border villages\nCOIMBATORE: Officials from Tamil Nadu and Karnataka forest departments have deployed drones to monitor a tiger, which continues to prey on cattle in Talavadi area in Sathyamangalam. “Two drones were used to monitor the animal for the second consecutive day on Friday. Two days ago, the tiger killed cattle and dogs at Seshan Nagar. The pug marks have confirmed the animal to be a tiger,” said an official from Talavadi Range in Hasanur division of Sathyamangalam Tiger Reserve (STR). Villagers have been claiming that the animal is venturing out of the forest area into their neighbourhood over the last two months. After the panic stricken villagers urged the Forest Department to either capture or prevent its entry into the villages, the department staff from both Tamil Nadu and Karnataka has plunged into joint action.Camera traps were also fixed in four spots to track the animal. The farm lands in these villages share borders with TN and Karnataka. “Leopard intrusions are common in villages located abutting the forest areas. But, it’s a rarity for tigers to come. Efforts have been taken to chase the tiger into the deep forests,” added the official.']
+
+
+K’taka foresters----AUTH.SEIZE
+
+drones----TRANSPORT_MODE
+
+tiger----SP.COMMON
+
+Tamil Nadu----AUTH.SEIZE
+
+Karnataka forest departments----AUTH.SEIZE
+
+drones----TRANSPORT_MODE
+
+tiger----SP.COMMON
+
+Talavadi area----LOC.EXACT
+
+Sathyamangalam----LOC.DISTRICT
+
+Friday----DATE

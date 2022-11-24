@@ -1,0 +1,53 @@
+
+['Assam forest officials seize kangaroo, exotic wildlife from smugglers near Mizoram border\nAssam forest department personnel seized a kangaroo, six macaws, three tortoises and two monkeys from wildlife smugglers at the Assam-Mizoram border on Tuesday night, officials said. Personnel of Cachar forest division in Silchar district of Assam intercepted a truck which was coming from Mizoram at the Lailapur forest sub beat around 11:30 pm on Tuesday. A search of the truck led to recovery of the exotic wild animals. Interrogation of the two persons in the truck, Narsimha Reddy and Navnath Tukaram Daigude revealed that the consignment was on its way to Guwahati. “The forest officials were carrying out a routine check of vehicles to detect smuggling of illegal timber when they noticed foul smell coming from the back of the truck. On being questioned, the two persons said that it was some rotten fruits. When the forest personnel investigated further, they found the animals,” said Sunnydeo Choudhary, DFO, Cachar forest division. The animals, a red kangaroo from Australia, six hyacinth macaws, two capuchin monkeys from South America, three Aldabra giant tortoises, were found packed in plastic and cartons. The two arrested persons told investigators that they had got the animals in Mizoram and were to hand the consignment to someone in Guwahati. The animals are being sent to the state zoo at Guwahati where they will be kept and health monitored. Investigations are on to find out how the exotic animals reached India. “Against the backdrop of Covid-19 pandemic and its connection to wet markets, it’s high time we put an end to practice of keeping these exotic species as pets, refrain from illegal wildlife trade and let these animals live in their natural habitat,” said D. Deori, forest range officer of Hawaithang range near the Mizoram border. In its first global report on illegal wildlife trade released a week ago, the Financial Action Task Force (FATF) had described wildlife trade as a global threat which has links with organized crimes like modern slavery, drug trafficking and arms trade. The illegal trade is estimated to generate revenue of up to $23 billion a year.']
+
+
+Assam forest officials----AUTH.SEIZE
+
+seize----CRIME.CAT
+
+kangaroo----SP.COMMON
+
+Assam forest department----AUTH.SEIZE
+
+seized----CRIME.CAT
+
+a----QTY
+
+kangaroo----SP.COMMON
+
+six----QTY
+
+macaws----SP.COMMON
+
+three----QTY
+
+tortoises----SP.COMMON
+
+two----QTY
+
+monkeys----SP.COMMON
+
+Tuesday----DATE
+
+night----TIME
+
+truck----TRANSPORT_MODE
+
+Mizoram----ROUTE.SRC
+
+11:30 pm----TIME
+
+Tuesday----DATE
+
+Narsimha Reddy----SUS.NAME
+
+Navnath Tukaram Daigude----SUS.NAME
+
+Guwahati----ROUTE.DEST
+
+routine check----DETECTION_METHOD
+
+plastic and cartons----CONCEALMENT_METHOD
+
+Guwahati----ROUTE.DEST

@@ -1,0 +1,113 @@
+
+['Poachers flee, leave behind wild meat\nExpress News Service BENGALURU: Amid speculations over a rise in poaching cases in Karnataka after the lockdown, foresters and police team confiscated a large haul of wild meat in Kadur of Chikkamagaluru on Tuesday. The poachers spotted the raiding party and managed to flee, leaving behind a Bolero pickup, 80kg of Sambar deer meat, a weighing machine and plastic bags for packing the meat. The local CCB team from Chikkamgaluru and forest sleuths of Kadur got information about Rangenahalli Shantakumar and his associates on a hunting spree near Kadur. Officials said that Shantakumar is a habitual offender. There was also pressure on the officials not to include his name in the forest offence case. Cases were booked against the hunters. “We had tried to catch the same gang thrice, but each time, they managed to escape. This time we could confiscate their vehicle, carcass and items used for packing the meat. There were plastic covers for packing and the entire operation was going on away from the poaching site,” said a forest official. In the past week, several parts of Karnataka have reported poaching cases. Forest sleuths have made arrests in Bandipur and Nagarahole tiger reserves for poaching after the lockdown was imposed. “The forest department staff is under pressure because it is the fire season and they have to work amid the lockdown. We are managing with skeletal staff and poaching cases are now posing a new challenge. Thankfully, anti-poaching camps are active and additional ration has been supplied to them for the time being. We are tightening our vigil to track and catch the poachers,” said a forest official. Another hunting incident took place on Monday in Bannerghatta, where a spotted deer was killed by poachers between Ragihalli and Urganadoddi, near a stream. Incidents are rising as a result of new roads criss-crossing the ESZ of Bannerghatta, said Vishnu Narayan, a naturalist. Bhanu Prakash, Bannerghatta Nature Conservation Trust, adds, “The ESZ Monitoring Committee has still not been formed. It’s free-for-all as neither is the department monitoring nor are they bothered. They are sticking only to the boundary of the national park. We have written to the chief secretary for formation of the ESZ monitoring committee.” In Gundlupet buffer range of Bandipur tiger reserve, forest officials arrested two offenders recently for hunting four wild cats and two hare. BENGALURU: Amid speculations over a rise in poaching cases in Karnataka after the lockdown, foresters and police team confiscated a large haul of wild meat in Kadur of Chikkamagaluru on Tuesday. The poachers spotted the raiding party and managed to flee, leaving behind a Bolero pickup, 80kg of Sambar deer meat, a weighing machine and plastic bags for packing the meat. The local CCB team from Chikkamgaluru and forest sleuths of Kadur got information about Rangenahalli Shantakumar and his associates on a hunting spree near Kadur. Officials said that Shantakumar is a habitual offender. There was also pressure on the officials not to include his name in the forest offence case. Cases were booked against the hunters. “We had tried to catch the same gang thrice, but each time, they managed to escape. This time we could confiscate their vehicle, carcass and items used for packing the meat. There were plastic covers for packing and the entire operation was going on away from the poaching site,” said a forest official. In the past week, several parts of Karnataka have reported poaching cases. Forest sleuths have made arrests in Bandipur and Nagarahole tiger reserves for poaching after the lockdown was imposed. “The forest department staff is under pressure because it is the fire season and they have to work amid the lockdown. We are managing with skeletal staff and poaching cases are now posing a new challenge. Thankfully, anti-poaching camps are active and additional ration has been supplied to them for the time being. We are tightening our vigil to track and catch the poachers,” said a forest official. Another hunting incident took place on Monday in Bannerghatta, where a spotted deer was killed by poachers between Ragihalli and Urganadoddi, near a stream. Incidents are rising as a result of new roads criss-crossing the ESZ of Bannerghatta, said Vishnu Narayan, a naturalist. Bhanu Prakash, Bannerghatta Nature Conservation Trust, adds, “The ESZ Monitoring Committee has still not been formed. It’s free-for-all as neither is the department monitoring nor are they bothered. They are sticking only to the boundary of the national park. We have written to the chief secretary for formation of the ESZ monitoring committee.” In Gundlupet buffer range of Bandipur tiger reserve, forest officials arrested two offenders recently for hunting four wild cats and two hare.']
+
+
+wild meat----SP.COMMON
+
+police team----AUTH.SEIZE
+
+confiscated----CRIME.CAT
+
+wild meat----SP.COMMON
+
+Kadur----LOC.EXACT
+
+Tuesday----DATE
+
+Bolero pickup----TRANSPORT_MODE
+
+80kg----QTY
+
+Sambar deer----SP.COMMON
+
+meat----ITEM
+
+weighing machine----ITEM
+
+plastic bags----CONCEALMENT_METHOD
+
+CCB----AUTH.SEIZE
+
+forest sleuths of Kadur----AUTH.SEIZE
+
+Rangenahalli Shantakumar----SUS.NAME
+
+vehicle----ITEM
+
+carcass----ITEM
+
+Monday----DATE
+
+Bannerghatta----LOC.EXACT
+
+deer----SP.COMMON
+
+poachers----SUS.AFFIL
+
+forest officials----AUTH.SEIZE
+
+arrested----CRIME.CAT
+
+two----SUS.NUMBER
+
+hunting----CRIME.CAT
+
+four----QTY
+
+wild cats----SP.COMMON
+
+two hare----QTY
+
+Karnataka----LOC.STATE
+
+police team----AUTH.SEIZE
+
+wild meat----ITEM
+
+Kadur----LOC.EXACT
+
+Chikkamagaluru----LOC.DISTRICT
+
+Tuesday----DATE
+
+Bolero pickup----TRANSPORT_MODE
+
+80kg----QTY
+
+Sambar deer----SP.COMMON
+
+meat----ITEM
+
+weighing machine----ITEM
+
+plastic bags----CONCEALMENT_METHOD
+
+local CCB team from Chikkamgaluru----AUTH.SEIZE
+
+forest sleuths of Kadur----AUTH.SEIZE
+
+Rangenahalli Shantakumar----SUS.NAME
+
+vehicle----ITEM
+
+carcass----ITEM
+
+Monday----DATE
+
+Bannerghatta----LOC.EXACT
+
+spotted deer----SP.SPECIFIC
+
+poachers----SUS.AFFIL
+
+arrested----CRIME.CAT
+
+two----SUS.NUMBER
+
+four----QTY
+
+wild cats----SP.COMMON
+
+two----QTY
+
+hare----SP.SPECIFIC

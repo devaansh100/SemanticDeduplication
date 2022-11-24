@@ -1,0 +1,63 @@
+
+['Forest officers arrest 5 poachers at BRT tiger reserve\nForest officers arrest 5 poachers at BRT tiger reserve Chamarajangara, Jul 29 (UNI) Forest department officials of Biligiri Ranganatha Temple Tiger Reserve have arrested five people for possessing guns and other equipment used for poaching. Forest officials said on Thursday, the arrested are Kishan Kumar, 34, Dhananjay, 30, and Ashik, 30, from Kodagu district, Govindaraju, 29, from Chamarajanagar taluk and Pramod, 27, of Malleshwaram, Bengaluru. While three of the arrested are from Somwarpet in Kodagu district, one is from Badagalapura in Chamarajanagar taluk and two are from Malleswaram in Bengaluru. Two guns, one of them without licence, six live cartridges, one knife, battery lights and other equipment were seized.']
+
+
+Forest officers----AUTH.SEIZE
+
+5----SUS.NUMBER
+
+BRT tiger reserve----LOC.EXACT
+
+Forest officers----AUTH.SEIZE
+
+5----SUS.NUMBER
+
+poachers----CRIME.CAT
+
+BRT tiger reserve----LOC.EXACT
+
+Chamarajangara----LOC.DISTRICT
+
+possessing----CRIME.CAT
+
+Kishan Kumar----SUS.NAME
+
+34----SUS.AGE
+
+Dhananjay----SUS.NAME
+
+30----SUS.AGE
+
+Ashik----SUS.NAME
+
+30----SUS.AGE
+
+Kodagu district----SUS.LOC
+
+Govindaraju----SUS.NAME
+
+29----SUS.AGE
+
+Chamarajanagar----SUS.LOC
+
+Pramod----SUS.NAME
+
+27----SUS.AGE
+
+Malleshwaram----SUS.LOC
+
+Two----QTY
+
+guns----ITEM
+
+six----QTY
+
+live cartridges----ITEM
+
+one----QTY
+
+knife----ITEM
+
+battery lights----ITEM
+
+seized----CRIME.CAT

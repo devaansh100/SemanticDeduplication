@@ -1,0 +1,55 @@
+
+['Red sanders seized on Chittoor-Nellore border\nPersonnel of the Red Sanders Anti Smuggling Task Force (RSASTF) nabbed two persons and seized 30 red sanders logs from their possession on Tuesday. Based on a tip-off, the personnel conducted vehicular check on the Puthalapattu-Naidupeta highway on Monday night and the duo was caught in the early hours of Tuesday near Chembadi village in Pellakuru mandal of SPSR Nellore district. Paluru Babu (29) and R. Manikantan (30) were allegedly moving in a suspicious manner and reportedly tried to flee on sighting the police, when they were nabbed. Upon questioning, they reportedly spilled the beans and led them to the nearby red sanders dump, from where the police seized the 30 logs weighing 399 kg.']
+
+
+Red sanders----SP.COMMON
+
+seized----CRIME.CAT
+
+Chittoor-Nellore border----LOC.EXACT
+
+Red Sanders Anti Smuggling Task Force (RSASTF)----AUTH.SEIZE
+
+nabbed----CRIME.CAT
+
+two----SUS.NUMBER
+
+seized----CRIME.CAT
+
+30----QTY
+
+red sanders----SP.COMMON
+
+logs----ITEM
+
+Tuesday----DATE
+
+tip-off----DETECTION_METHOD
+
+vehicular check----DETECTION_METHOD
+
+Monday----DATE
+
+night----TIME
+
+duo----SUS.NUMBER
+
+Tuesday----DATE
+
+Chembadi village in Pellakuru mandal----LOC.EXACT
+
+Nellore----LOC.DISTRICT
+
+Paluru Babu----SUS.NAME
+
+29----SUS.AGE
+
+R. Manikantan----SUS.NAME
+
+30----SUS.AGE
+
+30----QTY
+
+logs----ITEM
+
+399 kg----QTY

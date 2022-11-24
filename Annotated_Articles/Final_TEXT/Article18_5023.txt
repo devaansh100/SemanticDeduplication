@@ -1,0 +1,25 @@
+
+['Nagin dance with cobra: Marriage party members dance with deadly snake in Odisha, snake charmer held\nApr 29, 2022, 02:52PM IST Source: TOI.in A snake dance, a cobra, and a wedding. A scene straight out of a movie that came to life at Karanjia in Odisha on Wednesday, when a snake charmer was hired to perform at a wedding celebration. However, this was one performance that went wrong. The snake charmer first lured the snake out of its bamboo basket, by playing his flute-like clarinet known as the pangi. But he went a step further. He then picked up the basket itself to do the Nagin dance, a popular snake dance in India. Enthusiastic revellers joined him. The snake-charmer was booked under the Wildlife Protection Act and produced in court, which promptly ordered the man and his pet to be locked up.']
+
+
+Nagin----SP.SPECIFIC
+
+cobra----SP.COMMON
+
+snake----SP.COMMON
+
+Odisha----LOC.STATE
+
+charmer----SUS.AFFIL
+
+cobra----SP.COMMON
+
+wedding----LOC.CITY
+
+Odisha----LOC.STATE
+
+Wednesday----DATE
+
+snake----SP.COMMON
+
+booked under the Wildlife Protection Act and produced in court----OUTCOME

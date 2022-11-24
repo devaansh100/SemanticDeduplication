@@ -1,0 +1,21 @@
+
+['Carbide guns turn handy in chasing off gaurs and monkeys in Idukki\nMarayoor: Residents of Idukki is having relief from the attack of gaurs and monkeys which damage their crops as carbide guns distributed by the forest welfare committee turn handy. The peculiarity of the gun is that it won’t harm the wild animals, but chase them off due to the sound and fire it produces. A gun costs Rs 1,000. As many as 22 guns have been distributed by the committee. How does a carbide gun work? They are made of PVC pipes. The guns are filled with carbide flinders and water. This produces some smoke and when the trigger is pressed, the gun fires. It produces loud sounds and fire. It is also very easy to handle. Notably, carbide guns are also used for chasing away elephants. Relief for residents The carbide gun has come as an aid for the residents in Marayoor and Kanthalloor who were exasperated by the gaur-monkey menace. The locals said that they are finding the guns useful.']
+
+
+Carbide guns----ITEM
+
+gaurs----SP.COMMON
+
+monkeys----SP.COMMON
+
+Idukki----LOC.DISTRICT
+
+carbide guns----ITEM
+
+forest welfare committee----AUTH.SEIZE
+
+gun----ITEM
+
+Rs 1,000----VALUE
+
+22----QTY

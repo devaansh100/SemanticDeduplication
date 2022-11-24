@@ -1,0 +1,71 @@
+
+['Assam: 4 held for allegedly selling meat of poached hog deer\nGuwahati: Although the world has been turned upside down by numerous issues -- chiefest among them the ongoing coronavirus pandemic -- the heinous crime of poaching continues unabated in Assam. The story in Assam\'s Orang National Park cum Tiger Reserve is no different. A team of officials today led by the Range Officer of the Orang National Park cum Orang Tiger Reserve Assam, apprehended a hog deer poacher from Bagoribari village of Dalgaon Circle and they seized meat and the skin of the poached hog deer from his possession. Acting on a tip-off, a total of four people were apprehended by the Forest staff of the Katasali and Chandanpur Camps for selling hog deer meat on Tuesday morning. The apprehendees have been identified as Mohammad Nizamuddin Ali, Mohammad Abdur Rahman, Mohammad Ali Ahmed, and Mohammad Nekbar Ali. Three more people are reportedly absconding. Based on information received, the staff of the Katasali and Chandanpur Camps had gone to the place where the meat, which was reportedly cut at 4-5 am in the morning, was kept. The officials also seized the skin of the deer that had been kept aside by the miscreants. Expressing his distaste at the heinous crime, Assam\'s forest minister Parimal Suklabaidya wrote, "Killing of animals and such evil trades are highly discouraged. Assam Forests & Environment Dept from time to time has been taking all stringent actions against such persons involved in these heinous acts." It is to be noted that Hog deer is a protected species as per the Wildlife Protection Act, 1972. Poaching or killing of Hog deer is a criminal offense, and upon being convicted, one may have to serve imprisonment up to three years and a fine up to Rs 25,000. A mature hog deer stag stands about 70 cm at the shoulder and weighs approximately 50 kg while hinds are much smaller, standing about 61 cm and weighing in the vicinity of 30 kg. The animal is one of the most commonly poached deer species in India. Also Watch: Get Set Global: Assam for Rest of India: Views from Indians in the UK']
+
+
+Assam----LOC.STATE
+
+4----SUS.NUMBER
+
+selling----CRIME.CAT
+
+meat----ITEM
+
+hog----SP.COMMON
+
+deer----SP.COMMON
+
+Assam----LOC.STATE
+
+Assam's----LOC.STATE
+
+Orang National Park cum Tiger Reserve----LOC.EXACT
+
+Range Officer----OFF.DESIG
+
+Orang National Park cum Orang Tiger Reserve Assam----AUTH.SEIZE
+
+hog deer poacher----SUS.AFFIL
+
+Bagoribari village----LOC.EXACT
+
+meat----ITEM
+
+skin----ITEM
+
+hog deer----SP.COMMON
+
+tip-off----DETECTION_METHOD
+
+four----SUS.NUMBER
+
+Forest staff of the Katasali and Chandanpur Camps----AUTH.SEIZE
+
+selling----CRIME.CAT
+
+hog deer----SP.COMMON
+
+meat----ITEM
+
+Tuesday----DATE
+
+morning----TIME
+
+Mohammad Nizamuddin Ali----SUS.NAME
+
+Mohammad Abdur Rahman----SUS.NAME
+
+Mohammad Ali Ahmed----SUS.NAME
+
+Mohammad Nekbar Ali----SUS.NAME
+
+Three more people are reportedly absconding. Based on information received----OUTCOME
+
+meat----ITEM
+
+5 am----TIME
+
+morning----TIME
+
+skin----ITEM
+
+deer----SP.COMMON

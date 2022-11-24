@@ -1,0 +1,73 @@
+
+['6 Quelossim villagers nabbed for hunting 3 monitor lizards\nNT NETWORK Ponda Sleuths from the forest department on Saturday apprehended six villagers from Uddo-Quelossim, including a minor, for hunting and killing three monitor lizards in the forested area of Adpai-Durbhat village in Ponda taluka. Forest officials seized implements, a canoe and two dogs used for hunting the monitor lizards, which are an endangered species. Pedro Rock Xavier (52), Martin Josemari Silveira (62), Nazareth Xavier (42), Agnelo Caitano Gama (30), Francisco Salvador Colaco (32) and one minor were apprehended by the forest department sleuths. Sub-divisional forest officer Anand Jadhav told reporters that the accused were caught while carrying the three dead monitor lizards, which were hunted using dogs and implements. The hunters got into Adpai from Quelossim after crossing Zuari river on a canoe. The forest officials stated that they had been on a lookout for the group for long as sources had tipped the department off about the hunters regularly visiting Adpai for hunting. Sleuths were alerted about the hunting party coming to Adpai on Saturday. So, the sleuths led by RFO Deepak Betkikar conducted a raid and nabbed the six people. Monitor lizards are on the verge of extinction. They are included in Schedule 1 of the Wildlife Protection Act. Hunting this animal is a punishable offence and warrants a jail term of up to seven years, Jadhav explained.']
+
+
+6----SUS.NUMBER
+
+Quelossim----SUS.LOC
+
+nabbed----CRIME.CAT
+
+3----QTY
+
+monitor lizards----SP.COMMON
+
+forest department----AUTH.SEIZE
+
+Saturday----DATE
+
+six----SUS.NUMBER
+
+Uddo-Quelossim----SUS.LOC
+
+hunting and killing----CRIME.CAT
+
+three----QTY
+
+monitor lizards----SP.COMMON
+
+Adpai-Durbhat village in Ponda taluka----LOC.EXACT
+
+implements----ITEM
+
+a----QTY
+
+canoe----ITEM
+
+two----QTY
+
+dogs----ITEM
+
+Pedro Rock Xavier----SUS.NAME
+
+52----SUS.AGE
+
+Martin Josemari Silveira----SUS.NAME
+
+62----SUS.AGE
+
+Nazareth Xavier----SUS.NAME
+
+42----SUS.AGE
+
+Agnelo Caitano Gama----SUS.NAME
+
+30----SUS.AGE
+
+Francisco Salvador Colaco----SUS.NAME
+
+32----SUS.AGE
+
+one----SUS.NUMBER
+
+forest department----AUTH.SEIZE
+
+three----QTY
+
+monitor lizards----SP.COMMON
+
+RFO----OFF.DESIG
+
+Deepak Betkikar----OFF.NAME
+
+six----SUS.NUMBER

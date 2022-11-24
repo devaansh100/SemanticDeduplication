@@ -1,0 +1,17 @@
+
+["60161 Jungle Exploration Site\n60161 Jungle Exploration Site is a City set released in 2017. This is a description taken from LEGO.com. Please do not modify it. (visit this item's product page) Discover the secrets of the jungle with the LEGO® City explorers! Uncover amazing things at the Jungle Exploration Site, featuring a plane wreck with opening cockpit, amphibious helicopter with minifigure cockpit, spinning rotors and winch, heavy observation truck with minifigure cab, folding crane arm, observation room and space for the included motorbike on the back, plus an amphibious vehicle with minifigure cab, and cave and temple build. Includes 7 minifigures, plus leopard, crocodile, snake, frog and 2 spider figures."]
+
+
+60161 Jungle Exploration Site----LOC.EXACT
+
+7----QTY
+
+leopard----SP.COMMON
+
+crocodile----SP.COMMON
+
+snake----SP.COMMON
+
+2----QTY
+
+spider----SP.COMMON

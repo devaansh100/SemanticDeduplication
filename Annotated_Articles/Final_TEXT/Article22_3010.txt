@@ -1,0 +1,15 @@
+
+['Lion, female cub found dead in Gir\nAhmedabad: An adult male lion and a female cub were found dead in different parts of the Gir forest in Gujarat , an official said on Wednesday. The female cub was killed by another lion during infighting as per the postmortem report, DT Vasavada , chief conservator of forest ( CCF ), Junagadh Wildlife Division , said.The cause of death of the male lion will be known after postmortem, the CCF said. PTI']
+
+
+Lion----SP.COMMON
+
+found dead----CRIME.CAT
+
+Gir----LOC.EXACT
+
+lion----SP.COMMON
+
+found dead----CRIME.CAT
+
+Gujarat----LOC.STATE

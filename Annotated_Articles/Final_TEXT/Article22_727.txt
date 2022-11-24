@@ -1,0 +1,67 @@
+
+['Man held with 11 deer horns in Sambalpur\nSAMBALPUR: Police on Tuesday arrested a man and seized 11 deer horns from his possession at Thelkuli in Sambalpur district.Accused Bikash Jamudolia (35), of Kanika village under Hemgiri police station in Sundargarh district, was arrested while he was transporting the deer horns in a bus.After getting information about transportation of deer horns in a bus on the Biju Expressway, police searched the vehicle when it reached Thelkuli Chowk. During the search, the police found the 11 deer horns from a bag being carried by Bikash. During interrogation, he said he had procured the horns from his father-in-law, Lala Bisra , of Putiapali village under Dhama police station in Sambalpur district. He could not produce any document in support of the items, following which the police seized all the horns.Bikash and the seized horns were handed over to the divisional forest officer (DFO) for action as per the Wildlife Protection Act , the police said.Inspector in-charge (IIC) of Thelkuli police station, Bibhu Bhushan Mishra said the accused may have been planning to sell the horns. The value of the horns will be estimated by the forest department, he added.']
+
+
+Man----SUS.GENDER
+
+11----QTY
+
+deer----SP.COMMON
+
+horns----ITEM
+
+Sambalpur----LOC.CITY
+
+SAMBALPUR----LOC.CITY
+
+Police----AUTH.SEIZE
+
+Tuesday----DATE
+
+arrested----CRIME.CAT
+
+a----SUS.NUMBER
+
+man----SUS.GENDER
+
+seized----CRIME.CAT
+
+11----QTY
+
+deer----SP.COMMON
+
+horns----ITEM
+
+Thelkuli----LOC.EXACT
+
+Sambalpur district.Accused----LOC.DISTRICT
+
+Bikash Jamudolia----SUS.NAME
+
+35----SUS.AGE
+
+Kanika village under Hemgiri police station in Sundargarh district----SUS.LOC
+
+arrested----CRIME.CAT
+
+bus.After----TRANSPORT_MODE
+
+bus----TRANSPORT_MODE
+
+11----QTY
+
+deer----SP.COMMON
+
+horns----ITEM
+
+bag----CONCEALMENT_METHOD
+
+Bikash----SUS.NAME
+
+Lala Bisra----SUS.NAME
+
+Putiapali village----SUS.LOC
+
+Sambalpur----SUS.LOC
+
+divisional forest officer (DFO)----AUTH.MISC

@@ -1,0 +1,15 @@
+
+['Injured male leopard from Dindigul moved to Udumalpet, under treatment\nA male leopard, which was rescued with injuries from Kannivadi forest range in Dindugul district is under continuous medical observation by a team of veterinarians at Udumalpet in Tirupur district. The leopard, with injuries in one of its limbs, was spotted struggling to move and remained extremely weak in the Kombai area.']
+
+
+leopard----SP.COMMON
+
+Dindigul----LOC.EXACT
+
+Udumalpet----LOC.DISTRICT
+
+leopard----SP.COMMON
+
+Kannivadi forest range----LOC.EXACT
+
+leopard----SP.COMMON

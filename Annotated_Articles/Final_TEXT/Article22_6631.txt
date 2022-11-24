@@ -1,0 +1,27 @@
+
+['J-K: Leopard kills three children in Baramulla; admin directs to capture or eliminate big cat\nSrinagar, Jun 14 (PTI) Three children were killed by a leopard in Uri area of Jammu and Kashmir’s Baramulla district over the past few days, prompting the administration on Tuesday to issue directions for capturing or eliminating the big cat by mobilising all the available resources, officials said. They said the three incidents in which children have been killed by leopards took place in Kalsan ghati and Boniyar areas of Uri in the north Kashmir district. Acting swiftly to ensure the safety and security of human lives, Baramulla Deputy Commissioner (DC) Syed Sehrish Asgar on Tuesday directed the authorities to capture or eliminate the leopard by mobilizing all the available resources, an official spokesman said. Asgar issued these directions during a meeting convened in her office with the stakeholders concerned in order to discuss the immediate and necessary action plan to hunt the man-eater leopard for averting further any untoward incident, the spokesman said. Emphasizing upon the authorities concerned to work in coordination and cohesion, the DC directed to take assistance of military/paramilitary forces, if required, and ensure that the predator is controlled within the shortest possible time, he said. Asgar said necessary permission for hunting the leopard has been granted by the higher authorities. The DC said that safety of precious human lives as well as protection of wildlife resources is the utmost priority of district administration for which every possible initiative and endeavour shall be explored. Meanwhile, sub-divisional magistrate, Uri, issued a series of guidelines in the form of ‘dos and don’ts’ and appealed to the general public to adopt these advisories for their protection. He advised people not to let their children go to forests alone and unnecessarily. PTI SSB SSB KVK KVK This report is auto-generated from PTI news service. ThePrint holds no responsibility for its content.']
+
+
+J-K----LOC.STATE
+
+Leopard----SP.COMMON
+
+kills----CRIME.CAT
+
+three----SUS.NUMBER
+
+Baramulla----LOC.DISTRICT
+
+leopard----SP.COMMON
+
+Uri area----LOC.EXACT
+
+Jammu and Kashmir----LOC.STATE
+
+Baramulla----LOC.DISTRICT
+
+Tuesday----DATE
+
+Deputy Commissioner (DC)----OFF.DESIG
+
+Syed Sehrish Asgar----OFF.NAME

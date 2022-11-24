@@ -1,0 +1,11 @@
+
+['Meet Vava Suresh, The ‘snake man’ of Kerala who has saved more than 100 King Cobras\nBraving poisonous bites, the ‘snake-man’ of Kerala has caught several snakes, most of them cobras, from various parts of the state and put them back into forests.']
+
+
+Vava Suresh----SUS.NAME
+
+more than 100----QTY
+
+King Cobras----SP.COMMON
+
+snakes----SP.COMMON

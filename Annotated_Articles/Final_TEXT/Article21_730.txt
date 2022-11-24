@@ -1,0 +1,37 @@
+
+['Red sanders worth ₹40 lakh seized\nSmuggling operative from Tamil Nadu nabbed Smuggling operative from Tamil Nadu nabbed A combing party of the Andhra Pradesh State Red Sanders Anti-Smuggling Task Force (APSRSASTF) on Friday seized 18 logs worth over ₹40 lakh and nabbed a smuggling operative from Tamil Nadu, in the forests of Talakona in the Seshachalam Hills, 80 km from here. According to the task force officials, the combing party led by Deputy SP D. Murali Dhar was on patrol at Kokkirayi Kanuma in the Nerabailu forest in the early hours of Friday and they found smuggling operatives carrying the red sanders logs. Seeing the task force team, the operatives abandoned the logs and fled. The team nabbed one of the operatives identified as Sankar Govindan (36) from Thongamalai in Vellore district of Tamil Nadu. Task force SP M. Sundar Rao said additional forces had been deployed in the Talakona forests to flush out the smuggling operatives and track the movement of the elusive batch. “All vulnerable routes have been put under surveillance to prevent the operatives from entering the forest,” he said and announced a cash reward to the combing party.']
+
+
+Red sanders----SP.COMMON
+
+seized----CRIME.CAT
+
+Tamil Nadu----LOC.STATE
+
+nabbed----CRIME.CAT
+
+nabbed----CRIME.CAT
+
+Andhra Pradesh State Red Sanders Anti-Smuggling Task Force (APSRSASTF)----AUTH.SEIZE
+
+Friday----DATE
+
+18----QTY
+
+logs----ITEM
+
+Tamil Nadu----LOC.STATE
+
+Deputy SP----OFF.DESIG
+
+D. Murali Dhar----OFF.NAME
+
+patrol----DETECTION_METHOD
+
+Friday----DATE
+
+Sankar Govindan----SUS.NAME
+
+36----SUS.AGE
+
+Thongamalai----SUS.LOC

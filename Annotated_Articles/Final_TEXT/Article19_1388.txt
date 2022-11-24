@@ -1,0 +1,23 @@
+
+['Snow leapord carcass found in Lahaul\nMANALI: A carcass of a snow leaopard, suspected to have died in avalanches in tribal Lahaul-Spiti district this year, was found at Jasrath village on Tuesday. The forest department officials took possession of the carcass after they were informed about it.The officials said the animal may have become a victim of an avalanche that hit the area a few weeks back.Divisional forest officer Jai Ram said the villagers informed the department that a snow leopard could be seen buried in the avalanche debris. “We shall carry out the post-mortem of the body at Keylong, only then can we know the exact cause of its death. However, it appears that the animal became a victim of the avalanche and got buried in the debris.”Lahaul-Spiti district has become a hotspot for elusive big cat which is highly endangered species. Various programmes have been run for its preservation. Mostly snow leopard is frequently sighted in Spiti valley but it is now also being sighted in Lahaul. The animal prefers staying on hills away from human habitats.']
+
+
+Snow leapord----SP.COMMON
+
+carcass----ITEM
+
+Lahaul----LOC.DISTRICT
+
+carcass----ITEM
+
+snow leaopard----SP.COMMON
+
+Jasrath village----LOC.EXACT
+
+Tuesday----DATE
+
+forest department----AUTH.SEIZE
+
+carcass----ITEM
+
+post-mortem of the body at Keylong----OUTCOME

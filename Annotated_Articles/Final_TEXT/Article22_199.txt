@@ -1,0 +1,57 @@
+
+['Tiger cub found dead in Karhandla sanctuary\nNagpur: A six-month-old tiger cub was killed by a big carnivore, suspected to be a leopard, in the Paoni range of the Umred-Karhandla-Paoni Wildlife Sanctuary. The highly decomposed carcass of the cub was found on Monday.Pench field director and conservator of forests (CF) Sreelakshmi Annabathula said the cub was one among the three siblings of T6 (female tiger in Paoni) last sighted by a group of tourists on March 25. Since then, only two cubs were sighted with the mother.Sreelakshmi said, “An intensive search led to the carcass of the cub on Monday in compartment number 306. We cross-checked the camera trap pictures and have found that a leopard is also moving in the same area. We suspect the cub was killed by the leopard.”According to Bhandara veterinarian Gunwant Bhadke and Dr Sujit Kolangath from Wildlife Research and Training Centre, there were two puncture wounds on the neck of the cub, indicating that it was killed by a big carnivore.This is the 11th tiger death in Maharashtra this year. On March 31, a sub-adult tiger was electrocuted in Bapera (Tumsar) in Bhandara.The post-mortem was conducted as per the National Tiger Conservation Authority protocol in the presence of field director Sreelakshmi. DFO Pramod Panchbhai, RFOs Ravindra Ghadge and Komal Jadhav, honorary wildlife wardens Roheet Karu (Nagpur), Shahid Pervez Khan and Nadeem Khan (Bhandara), Save Ecosystem And Tiger Protection director Tejas Parshivnikar, NGO members Azhar Husain, Mangesh Maske, Subhash Kore and others.']
+
+
+Tiger----SP.COMMON
+
+found dead----CRIME.CAT
+
+Karhandla sanctuary----LOC.EXACT
+
+tiger----SP.COMMON
+
+leopard----SP.COMMON
+
+carcass----ITEM
+
+Wildlife Research and Training Centre----AUTH.MISC
+
+post-mortem----OUTCOME
+
+field director----OFF.DESIG
+
+Sreelakshmi.----OFF.NAME
+
+DFO----OFF.DESIG
+
+Pramod Panchbhai----OFF.NAME
+
+RFOs----OFF.DESIG
+
+Ravindra Ghadge----OFF.NAME
+
+Komal Jadhav----OFF.NAME
+
+honorary wildlife wardens----OFF.DESIG
+
+Roheet Karu----OFF.NAME
+
+Nagpur----SUS.LOC
+
+Shahid Pervez Khan----OFF.NAME
+
+Nadeem Khan----OFF.NAME
+
+Bhandara----SUS.LOC
+
+Save Ecosystem And Tiger Protection director----AUTH.MISC
+
+Tejas Parshivnikar----OFF.NAME
+
+NGO members----AUTH.MISC
+
+Azhar Husain----OFF.NAME
+
+Mangesh Maske----OFF.NAME
+
+Subhash Kore----OFF.NAME

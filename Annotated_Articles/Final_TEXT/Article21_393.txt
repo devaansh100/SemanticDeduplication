@@ -1,0 +1,11 @@
+
+['10,000 wood recovered in forest department raid operation : City Live Balaghat\n']
+
+
+10,000----QTY
+
+wood----ITEM
+
+forest department----AUTH.SEIZE
+
+raid----CRIME.CAT

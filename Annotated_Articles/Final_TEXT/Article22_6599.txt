@@ -1,0 +1,25 @@
+
+['Nagaland : Three Arrested For Killing Hornbill In Wokha\nNET Web Desk Three persons have been apprehended for gruesome killing of a Hornbill in Bhandari Town under Nagaland’s Wokha district. According to reports, the action was undertaken after the video of a Great Indian Hornbill being brutally killed sparked outrage among citizens. These arrested persons were handed-over to the wildlife division team for further investigation. Besides, the Wildlife Department placed a Preliminary Offence Report (POR) in the district court on Tuesday, before a final offence report is submitted. Wildlife protection proceedings will be initiated; subjected to medical examination and will remain in police custody for 24 hours; informed the authorities. Meanwhile, the weapon utilized to kill the endangered animal has been confiscated, and parts of the hornbill have been recovered.']
+
+
+Three----SUS.NUMBER
+
+Arrested----CRIME.CAT
+
+Hornbill----SP.COMMON
+
+Wokha----LOC.DISTRICT
+
+Three----SUS.NUMBER
+
+Hornbill----SP.COMMON
+
+Bhandari----LOC.DISTRICT
+
+Wokha----LOC.DISTRICT
+
+Great Indian Hornbill----SP.SPECIFIC
+
+wildlife division team----AUTH.MISC
+
+hornbill----ITEM

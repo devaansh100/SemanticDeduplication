@@ -1,0 +1,33 @@
+
+['Great Indian hornbill tortured to death in Nagaland, 3 arrested\nA video of locals in Nagaland torturing a Great Indian hornbill surfaced on social media, after which police arrested three people. By Pallav Bora: A video surfaced on social media on Wednesday showing locals in Nagaland’s Wokha district torturing a Great Indian Hornbill to death. The Nagaland police arrested three people under the Wildlife and Arms Act for torturing and killing the bird. In the video, a local can be seen hitting and stepping on the bird’s neck with his foot. The video has drawn severe criticism from netizens as well as animal rights activists. The three arrested have been handed over to the wildlife division team for further investigation. The weapon used has been seized, and parts of the hornbill have been recovered. advertisement The Great Indian Hornbill has been listed as vulnerable on the IUCN Red List since 2018. The Wild Life (Protection) Amendment Bill 2021 regulates the protection of wild animals, birds and plants and also seeks to increase the species protected under the law. The three arrested will not be released on bail. --- ENDS ---']
+
+
+Great Indian hornbill----SP.SPECIFIC
+
+tortured to death----CRIME.CAT
+
+Nagaland----LOC.STATE
+
+3----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+Nagaland----LOC.STATE
+
+Great Indian hornbill----SP.SPECIFIC
+
+arrested----CRIME.CAT
+
+three----SUS.NUMBER
+
+Wednesday----DATE
+
+Wokha----LOC.DISTRICT
+
+Great Indian Hornbill----SP.SPECIFIC
+
+Nagaland police----AUTH.SEIZE
+
+arrested----CRIME.CAT
+
+three----SUS.NUMBER

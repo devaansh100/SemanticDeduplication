@@ -1,0 +1,19 @@
+
+["WATCH: Snake Rescuer Vava Suresh Captures Cobra Even After Getting Bitten\nBe you an animal lover or not, it is safe to admit that snakes are creatures that most of us prefer to admire the beauty of from afar. Intriguing as they are, most of us have an instinctive fear of snakes. Then, there are people like Vava Suresh, who has spent a lifetime capturing and rescuing stray snakes. Suresh, who is a well-known wildlife conservationist and snake expert, recently had a little mishap while rescuing a cobra in the Kottayam district of Kerala. He was bit by the serpent, and although momentarily distracted, he managed to capture it anyways. Suresh’s perilous attempt to capture the cobra came to light after a video of the incident went viral. The moment when popular snake handler Vava Suresh got bit by a cobra in Kottayam, Kerala. He's currently in a critical condition. Trigger warning. pic.twitter.com/Zp9vLf8uXY — Vishnu Varma (@VishKVarma) January 31, 2022 On January 31, Suresh caught the reptile after two or three attempts, but it bit him near his right knee. The fearless man yanked the cobra from his body, and in order to examine the bite, he set the snake free for a while. The snake crawled through the road as Suresh examined the area where he had been bitten. As the snake tried to slither away, the people gathered in the area panicked, but Suresh caught it again. First aid treatment was performed by Suresh on himself on-site but later he had to be rushed to a private hospital in the city. He had gone unconscious 10 minutes before arriving at the hospital, and his pulse had dropped to 2. According to a report by Malayalam Manorama, Health Minister Veena George has promised to pay for Suresh’s medical expenses from the state fund. Suresh was also paid a visit by Minister VN Vasavan. The report by Manorama also says that the 48-year old has received bites from venomous snakes earlier as well during the course of his work. He has been in the ICU four times and on ventilator thrice. As of now, hospital authorities have informed us that Suresh’s condition is critical. Read all the Latest News, Breaking News and Coronavirus News here."]
+
+
+Cobra----SP.COMMON
+
+cobra----SP.COMMON
+
+Kottayam----LOC.DISTRICT
+
+Kerala----LOC.STATE
+
+Suresh----SUS.NAME
+
+January 31----DATE
+
+Minister----OFF.DESIG
+
+VN Vasavan----OFF.NAME

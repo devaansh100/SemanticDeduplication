@@ -1,0 +1,13 @@
+
+['Big cat to be kept in Nahargarh Biological Park\nJAIPUR: Tiger-104, a sub-adult male from Ranthambore Tiger Reserve (RTR), which was held responsible for killing three people within a month will not be released in jungle. It will be kept in a biological park.The tiger is considered as aggressive and forest administration is apprehensive that it could attack villagers again if released in wild. An official source at forest department said, “We have proposed to relocate the tiger to a biological park where proper food and medical facility is provided.”This will be second tiger from Ranthambore, after Ustad (T-24), which will lead a caged life. The tiger is likely to be transported to the Nahargarh Biological Park , around 160km away from its original territory, sources said.The forest department has constituted a committee comprising Ranthambore’s field director, deputy field director, a member from National Tiger Conservation Authority (NTCA) and an NGO to decide the fate of the big cat. A meeting has been called on Monday for the same. “We have closely observed the tiger’s behaviour and it appears that the young male doesn’t fear humans. Big cat’s relocation has become important after killing third human,” a committee member said on the condition of anonymity.The meeting to discuss the issue was scheduled on Sunday but was postponed. The case of Tiger-104 cannot be compared as the deaths attributed to male tiger Ustad took place over a period of five years. Also, all the kills happened in Ustad’s territory. However, the young big cat strayed out of the tiger reserve and killed humans in Sawai Madhopur and Karauli district, sources said.On September 19, forest department tranquillised and captured the tiger after it killed a 30-year-old man in Karauli district. A typical man-eater persistently stalks and hunts human beings, sources said.“T-104 made it a habit to venture out near the human settlements. The animal kept going back despite forest department’s efforts to take it back into the wild. Last time when this tiger was tranquilised, we had released it deep into the forest but it always found its way back to the same area. Therefore, it has been kept in an enclosure,” an official said.']
+
+
+Big cat----SP.COMMON
+
+Nahargarh Biological Park----LOC.EXACT
+
+Ranthambore Tiger Reserve----SUS.LOC
+
+RTR----LOC.EXACT
+
+National Tiger Conservation Authority (NTCA)----AUTH.MISC

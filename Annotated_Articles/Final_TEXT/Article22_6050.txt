@@ -1,0 +1,23 @@
+
+['Uttar Pradesh: In search of man-eater, forest officials trap wrong tiger near Dudhwa Reserve\nJun 29, 2022, 04:44PM IST Source: TOI Astrology UP forest department officials have failed yet again in their efforts to nab a man-eater tigress that has killed 21 people since 2020. While the officials had set up a cage at the site of the tigress’s latest kill near Dudhwa Tiger Reserve, it was another male tiger that ended up getting trapped. The male tiger and the tigress were seen together in the vicinity of the cage before the male tiger got trapped. The male tiger who got trapped has been now shifted to Katarniaghat wildlife sanctuary in Bahraich for a medical examination. The animal is likely to be then shifted to Lucknow zoo.']
+
+
+Uttar Pradesh----LOC.STATE
+
+man-eater----SP.COMMON
+
+forest officials----AUTH.SEIZE
+
+tiger----SP.COMMON
+
+Dudhwa Reserve----LOC.EXACT
+
+Jun 29, 2022----DATE
+
+forest department----AUTH.SEIZE
+
+man-eater tigress----SP.COMMON
+
+Dudhwa Tiger Reserve----LOC.EXACT
+
+shifted to Katarniaghat wildlife sanctuary in Bahraich----OUTCOME

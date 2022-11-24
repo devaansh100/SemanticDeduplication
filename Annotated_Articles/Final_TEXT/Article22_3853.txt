@@ -1,0 +1,23 @@
+
+['Five days since tusker death in Coimbatore\'s Varapalayam, little progress in the probe\nS Senthil Kumar By Express News Service COIMBATORE: Five days after a tusker was electrocuted in Varapalayam, Coimbatore forest division officials are still in search of Manokaran and Naresh, farm owners held responsible for the animal\'s death. Three teams are on the duo\'s trail, but they have made little progress. Sources said the teams, along with police personnel, looked for the two in the houses of their friends and relatives but without luck. Sources added that forest officials are facing stiff opposition from local politicians and it is delaying their arrest. According to an official involved in the investigation, "We are receiving calls from a few politicians telling us not to arrest them as the two are backed by a farmers association. We suspect that political parties need the support of farmers association to local body elections and that is why they are insisting us not to arrest them.” However, senior forest officials denied this. DFO TK Ashok Kumar told TNIE that they have registered a case and are on the lookout for the suspects. “We are not delaying the arrest of the accused considering the election. The investigation is progressing well and we cannot reveal details to media as it will help the accused escape.” On February 12, the tusker, believed to be 12-14 years was found dead on a farm at Varapalayam, a few kilometres from Thadagam reserve forest. Sources said the accused were present in the nearby farmland and the forest department did not arrest them as the members of the farmers’ association threatened to stage a protest. COIMBATORE: Five days after a tusker was electrocuted in Varapalayam, Coimbatore forest division officials are still in search of Manokaran and Naresh, farm owners held responsible for the animal\'s death. Three teams are on the duo\'s trail, but they have made little progress. Sources said the teams, along with police personnel, looked for the two in the houses of their friends and relatives but without luck. Sources added that forest officials are facing stiff opposition from local politicians and it is delaying their arrest. According to an official involved in the investigation, "We are receiving calls from a few politicians telling us not to arrest them as the two are backed by a farmers association. We suspect that political parties need the support of farmers association to local body elections and that is why they are insisting us not to arrest them.” However, senior forest officials denied this. DFO TK Ashok Kumar told TNIE that they have registered a case and are on the lookout for the suspects. “We are not delaying the arrest of the accused considering the election. The investigation is progressing well and we cannot reveal details to media as it will help the accused escape.” On February 12, the tusker, believed to be 12-14 years was found dead on a farm at Varapalayam, a few kilometres from Thadagam reserve forest. Sources said the accused were present in the nearby farmland and the forest department did not arrest them as the members of the farmers’ association threatened to stage a protest.']
+
+
+Five days since----DATE
+
+tusker----ITEM
+
+Varapalayam----LOC.DISTRICT
+
+Coimbatore forest division----AUTH.SEIZE
+
+Manokaran----SUS.NAME
+
+Naresh----SUS.NAME
+
+registered a case and are on the lookout for the suspects----OUTCOME
+
+Manokaran----SUS.NAME
+
+Naresh----SUS.NAME
+
+registered a case and are on the lookout for the suspects----OUTCOME

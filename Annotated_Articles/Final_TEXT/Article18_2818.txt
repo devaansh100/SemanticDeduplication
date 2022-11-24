@@ -1,0 +1,11 @@
+
+["Tony Tours - Yala safari and Galle Overnight Tour\nYala National Park Early morning start your safari at Yala National Park! Enjoy an exhilarating safari, located in the so-called dry zone where rain falls mainly during the monsoon period. It's home to wildlife such as leopards, elephants, and crocodiles as well as hundreds of bird species. The Yala National Park is especially famous for leopards, where it's said that there is no other place in this world where you would find these wild cats. It's also a great place to watch out for elephants that tend to stroll in herds. After your adventurous safari, drive back to your hotel and check out"]
+
+
+Yala safari----LOC.EXACT
+
+Yala National Park----LOC.EXACT
+
+Early morning----TIME
+
+Yala National Park----LOC.EXACT

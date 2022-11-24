@@ -1,0 +1,79 @@
+
+['Leopard skin seized from Boudh of Odisha, 1 Arrested\nBoudh: A leopard skin has been seized by the Special Task Force (STF) team in Boudh district and arrested one person in this connection. The arrested person has been identified as Hara Rana son of Late Lakeswar Rana of Ghuchingi village. On the basis of reliable information about a deal of sale of Leopard skin by wild life criminals today, the STF team conducted a raid near Kapasira village and apprehended the accused poacher. During the search, one leopard skin, one country made SBML Gun, 12 nos big size sisa ball ammunitions, 17 nos sisa , 25 nos small empty case, two nos plastic container containing black gun powder and other incriminating materials were seized from his possession. The accused person could not produce any valid authority in support of possession of such leopard skin , arms and ammunitions, hence he has been arrested. A case has been registered under section 379/411/120(B) IPC r/w.Sec.25 Arms Act r/w. 51 of Wild Life (Protection) Act, 1972. The seized leopard skin will be sent to Wild Life Institute of India, Deharadun for chemical examination. The team has initiated a probe into the matter.']
+
+
+Leopard----SP.COMMON
+
+skin----ITEM
+
+seized----CRIME.CAT
+
+Boudh----LOC.DISTRICT
+
+Odisha----LOC.STATE
+
+1----SUS.NUMBER
+
+Arrested----CRIME.CAT
+
+Boudh----LOC.DISTRICT
+
+A----QTY
+
+leopard----SP.COMMON
+
+skin----ITEM
+
+seized----CRIME.CAT
+
+Special Task Force (STF)----AUTH.SEIZE
+
+arrested----CRIME.CAT
+
+one----SUS.NUMBER
+
+Hara Rana----SUS.NAME
+
+Ghuchingi village----SUS.LOC
+
+reliable information----DETECTION_METHOD
+
+Leopard----SP.COMMON
+
+skin----ITEM
+
+near Kapasira village----LOC.EXACT
+
+one----QTY
+
+leopard skin----ITEM
+
+one----QTY
+
+country made SBML Gun----ITEM
+
+12----QTY
+
+nos big size sisa ball ammunitions----ITEM
+
+17----QTY
+
+nos sisa----ITEM
+
+25----QTY
+
+nos small empty case----ITEM
+
+two----QTY
+
+nos plastic container containing black gun powder----ITEM
+
+leopard skin----ITEM
+
+arms----ITEM
+
+ammunitions----ITEM
+
+Wild Life Institute of India, Deharadun----AUTH.MISC
+
+chemical examination----OUTCOME

@@ -1,0 +1,27 @@
+
+['6 BSF Jawans Injured In Elephant Attack During Training In Bhubaneswar Outskirts\nAt least 6 jawans of 88 battalion of Border Security Force (BSF) were injured after they were attacked by an elephant herd in Bhubaneswar outskirts late Thursday night. As per initial reports, the jawans were undergoing training on anti-naxal operations near Mundasahi at Chandaka area on the outskirts of the city when the incident occurred. Sources said the jawans also fired in the air after their colleagues were attacked by the elephant herd. Following the mishap, the jawans were initially rushed to SOG hospital and later shifted to the All India Institute of Medical Sciences (AIIMS), Bhubaneswar for advanced treatment. The condition of the injured jawans is said to be stable. (This is a breaking story. Refresh the page for updates).']
+
+
+6----QTY
+
+BSF----AUTH.SEIZE
+
+Jawans----ITEM
+
+Elephant----SP.COMMON
+
+Bhubaneswar----LOC.CITY
+
+6----QTY
+
+jawans----ITEM
+
+Border Security Force (BSF)----AUTH.SEIZE
+
+Bhubaneswar----LOC.CITY
+
+Thursday----DATE
+
+night----TIME
+
+training----DETECTION_METHOD

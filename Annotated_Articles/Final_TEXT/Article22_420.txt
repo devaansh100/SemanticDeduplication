@@ -1,0 +1,35 @@
+
+["Four-year-old in Andhra rescued from elephant habitat after 36 hours\nFour-year-old in Andhra rescued from elephant habitat after 36 hours Police teams along with a dog squad searched for Joshika for more than 36 hours before finding her in Kangundi reserve forest, known to be a habitat of elephants and other wild animals. news Human Interest A four-year-old girl, who went missing in a forest in Andhra Pradesh's Chittoor district, has been traced by the police after strenuous efforts for 36 hours. After a massive search operation by Chittoor police, four-year-old Joshika was traced at Ambapuram in Kangundi reserve forest, which is known to be a habitat of elephants and other wild animals. The girl had gone missing from her home in Nakkalagutta village in Kuppam mandal on the evening of Saturday, April 16. Joshika, the daughter of an employee of Dravidian University, went missing while playing with her friends near her house. Her anxious parents with the help of neighbours searched the entire village but could not find her. Other villagers also joined in the search. As the child remained untraced till the early hours of Sunday, the parents lodged a complaint with the police. Since the forest is infested with elephants and other wild animals, the family and villagers were worried about her safety. The police along with the villagers searched the area surrounding the village. They also searched water bodies on the forest fringes. Police also pressed into service a sniffer dog to trace the child. After sniffing some clothes and footwear belonging to the child, the dog picked up a scent trail and headed towards the forest. However, the dog stopped at the forest edge. Read: Jashith comes home: How quick action by police, media helped in 4-yr-old's kidnap case Not ruling out the kidnap angle, Chittoor Superintendent of Police Y Rishant Reddy had also alerted all police stations in Chittoor and neighbouring districts, including adjoining Tamil Nadu. The frantic search operation continued till late Sunday without any breakthrough. On Monday, police resumed searching deep in the forest. Around noon, a police team heard feeble sounds of a child from the bushes and they moved in to see the girl lying on the ground. The girl, who suffered minor bruises, was taken to a hospital in Kuppam and was handed over to her parents after receiving first aid. Police were continuing further investigation amid suspicions that the girl was kidnapped, as surviving in the forest for nearly 40 hours amid intense heat and without food or water on her own would have been too difficult. Local police officers were waiting for the girl to fully recover to narrate what had happened when she went missing. Meanwhile, Andhra Pradesh Director General of Police KV Rajendranath Reddy has appreciated the teams of Chittoor police for successfully tracing the missing child. Also read: How a 6-day-old baby in Andhra was rescued from her abductor within 24 hours"]
+
+
+Four-year-old----SP.SPECIFIC
+
+Andhra----LOC.STATE
+
+Four-year-old----SP.SPECIFIC
+
+Andhra----LOC.STATE
+
+Police teams----AUTH.SEIZE
+
+Joshika----SUS.NAME
+
+Kangundi reserve forest----LOC.EXACT
+
+four-year-old----SUS.AGE
+
+Chittoor----LOC.DISTRICT
+
+four-year-old----SUS.AGE
+
+Joshika----SUS.NAME
+
+Nakkalagutta village in Kuppam mandal----SUS.LOC
+
+evening----TIME
+
+Saturday, April 16----DATE
+
+Joshika----SUS.NAME
+
+Y Rishant Reddy----OFF.NAME

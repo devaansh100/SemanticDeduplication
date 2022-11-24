@@ -1,0 +1,15 @@
+
+["Trap cameras capture first images of elusive 'man-eating' tiger in Bandipur Tiger Reserve\nA picture of the elusive tiger captured on trap camera (Representative Image) | Photo Credit: BCCL Key Highlights Drones, elephants and even tribals have been asked to help with the rescue operation We have been asked to capture the tiger alive, said a forest department official Section 144 has been imposed in the Bandipur Tiger Reserve Bengaluru: Forest rangers conducting the largest rescue operation ever carried out in India for a big cat announced on Saturday morning that they are confident of capturing the alleged 'man-eater' tiger within 24 hours. The announcement came hours after a team of rangers found fresh pug marks they believe belong to the majestic cat which has reportedly attacked villagers and other animals. A fresh trail of pug marks was spotted on a trail between Makonahalli and Chowdalli on Saturday morning. The marks were found not far from where an elephant calf was killed by a predator. A senior official with the forest department claims that it is the 'man-eating' tiger that may have attacked and killed the baby jumbo. Meanwhile, the operation to capture the elusive tiger has been intensified. At least 2-4 elephants have been deployed in the Bandipur Tiger Reserve to track the big cat along with sniffer dogs and drones. It is harder to identify the exact location of the tiger since it could be in a resting position at the moment and not on the prowl when it is visible and easy to track and capture. Going by the most recent inputs, the Karnataka government is yet to officially declare the tiger a 'man-eater'. A senior officer with the forest department told Mirror Now that their orders are to capture the big cat alive which is why tranquiliser darts are being used during the rescue operation. We believe that the tiger is moving closer and closer to the base camp and we are confident of capturing him sometime in the next 48 hours, he added. In a major boost for those carrying out the operation, trap cameras on Friday night captured the first images of the elusive big cat. In addition to drones, elephants and hunting dogs, tribals have also been asked to lend a hand in the rescue operation since some tribes are experts at tracking wild animals and especially, predators. Deputy Commissioner (DC) of Chamrajanagar, BB Kaveri said that Section 144 has been imposed in Bandipur at the request of the Director of the Bandipur Tiger Reserve. This has been done to stop people from interrupting in the rescue operation, she added. More details are likely to emerge as forest rangers and locals continue combing through the Tiger Reserve to safely capture the elusive big cat which has ignited fear among locals in the district."]
+
+
+Trap cameras----AUTH.SEIZE
+
+Bandipur Tiger Reserve----LOC.EXACT
+
+tiger----SP.COMMON
+
+Drones, elephants----AUTH.MISC
+
+Saturday----DATE
+
+morning----TIME

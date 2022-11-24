@@ -1,0 +1,37 @@
+
+['Maharashtra: Leopard With Head Stuck In Plastic Water Container Rescued After Two Days\nThe search operation to find and rescue a leopard in Maharashtra, that was seen with its head stuck in a plastic water container has ended on a happy note as the animal was tracked down and freed. The leopard was spotted by a passerby near Badlapur village in the Thane district with the head stuck in the plastic water can on Sunday night. The man shot video clips of the leopard from his car which showed the feline was desperately trying to free its head from the container. One year old cub The cub, which is around a year old, is believed to have had put its head inside the container to drink water and was unable to remove it. However, before rescuers could reach the spot, the leopard had moved into a forest. Since then a 30-member search party comprising of officials of the Forest Department, Sanjay Gandhi National Park (SGNP), members of the Resqink Association for Wildlife Welfare (RAWW) and some villagers had been searching for the big cat. Screengrab While a ground team patrolled the area, volunteers asked villagers to alert officials if the big cat is spotted, a RAWW member, who was involved in the rescue operation in which 30 people had taken part, recalled. The official said the rescuers feared that the leopard might enter a human settlement as it was roaming in a very large area connecting urban and rural pockets and tracing the big cat was a big challenge. Finally, the search party spotted the leopard near Badlapur village on Tuesday night. RAWW founder Pawan Sharma said that a dart was fired at the leopard. After it became unconscious, rescuers removed the plastic can. Cub was severely exhausted According to him, the big cat was severely exhausted as it could neither breathe properly nor eat or drink for almost two days. Due to exhaustion, the leopard will be kept under the observation of veterinary experts and once it is determined to be healthy it will be released into the forest. "The male leopard is sub-adult. He will be kept under observation for the next 24 to 48 hours before being released in the wild,” he said.  Maharashtra is home to the third-largest leopard population in India, after Madhya Pradesh and Karnataka. Wildfact According to the MoEFCC\'s ‘Status of leopards in India’ report, there were 1,690 leopards in Maharashtra as of 2021. Melghat Tiger Reserve (MTR) had the highest number 150, followed by Tadoba-Andhari 91, Navegaon-Nagzira 76, Pench 67, Sahyadri 40, Bor 33, Painganga 22, Umred-Karhandla 11 and Tipeshwar 5. For more on news, sports and current affairs from around the world, please visit Indiatimes News.']
+
+
+Maharashtra----LOC.STATE
+
+Leopard----SP.COMMON
+
+Head----ITEM
+
+leopard----SP.COMMON
+
+Maharashtra----LOC.STATE
+
+leopard----SP.COMMON
+
+Thane----LOC.DISTRICT
+
+Sunday----DATE
+
+night----TIME
+
+leopard----SP.COMMON
+
+Forest Department----AUTH.SEIZE
+
+SGNP----AUTH.SEIZE
+
+RAWW----AUTH.MISC
+
+leopard----SP.COMMON
+
+Badlapur village----LOC.EXACT
+
+Tuesday----DATE
+
+night----TIME

@@ -1,0 +1,49 @@
+
+['Vadodara police avert alleged mass sacrifice of goats, 5 booked\nFive persons were booked for animal cruelty after a late-night raid Tuesday to rescue around 20 goats from an alleged mass sacrifice that was being planned as part of a superstitious ritual on Vasna Bhayli Road in Vadodara. The Vadodara city police have also initiated preventive action against 23 persons in the matter. The incident came to light when People for Animals—an organisation backed by BJP leader Maneka Gandhi—approached the Vadodara police with a tip-off that a group of persons was organising a mass sacrificial ritual involving around “50-60 goats” near Mali Mohalla on Vasna-Bhayli Road. When the police team accompanied the members of the animal organisation to the spot, there were several goats tied together in a “cruel” manner. “Several goats were tied close to each other and were without any food or water. The police teams and volunteers of our organisation began rescuing the goats. But taking advantage of the dark, the group of people, who had gathered to conduct the sacrifice rituals, created chaos. They managed to snatch and escape with around 15 of the rescued goats… We were able to save nine other goats from the sacrifice,” the complaint filed by Rajiv Shah of People for Animals reads. The complaint states that the police and the volunteers also searched for more goats in the fields nearby but did not find any. The JP Road police station has booked five accused under the Prevention of Cruelty to Animals Act, 1960, for torturing animals so as to subject to pain or suffering [Section 11(1)(a)], keeping animals chained or tethered upon an unreasonably short or heavy chain or cord for an unreasonable time [11(1)(f)] as well as the Gujarat Police Act for cruelty to animals (Section 119). Also Read | To stop animal slaughter during Bakrid, Vadodara group buys goats and sheep “We are yet to arrest the accused but the probe is on… We have identified five accused who were organising the ritual. Another 23 individuals, who were to partake in the ritual, have been identified through investigation and questioning… We have initiated a preventive action against them as per the Criminal Procedure Code for ensuring that they do not obstruct the probe,” Police inspector NP Patel told The Indian Express. Abhay Soni, Deputy Commissioner of Police, Zone-2, Vadodara city, told this newspaper that the police team had managed to reach the spot on time to avert the sacrifice. “We did not find any evidence to book the accused on the sacrifice as they had not begun the act when the police reached. The animals were successfully rescued. Some of the accused tried to resist the police action and there was a face-off between the police and the accused but no one was injured… Since it was dark, some of the people involved in the activity were able to escape with the goats,” said Soni. The Vadodara city police also deployed security in the area in order to maintain law and order Wednesday.']
+
+
+Vadodara police----AUTH.SEIZE
+
+mass sacrifice----CRIME.CAT
+
+goats----SP.COMMON
+
+5----SUS.NUMBER
+
+Five----SUS.NUMBER
+
+late-night----TIME
+
+Tuesday----DATE
+
+20----QTY
+
+goats----SP.COMMON
+
+mass sacrifice----CRIME.CAT
+
+Vasna Bhayli Road----LOC.EXACT
+
+Vadodara----LOC.CITY
+
+People for Animals----AUTH.MISC
+
+tip-off----DETECTION_METHOD
+
+50-60----QTY
+
+goats----SP.COMMON
+
+near Mali Mohalla----LOC.EXACT
+
+15----QTY
+
+goats----SP.COMMON
+
+goats----SP.COMMON
+
+five----SUS.NUMBER
+
+five----SUS.NUMBER
+
+23----SUS.NUMBER

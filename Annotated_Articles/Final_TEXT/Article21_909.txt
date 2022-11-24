@@ -1,0 +1,63 @@
+
+['Three held for possessing fake tiger skin in Adilabad\nThree held for possessing fake tiger skin in Adilabad By Telangana Today Published: Updated On - 09:25 PM, Mon - 13 December 21 Adilabad: In a joint operation by Forest department officials and sleuths of Special Branch, three persons were detained when they tried to sell a fake tiger skin at Bhela mandal on Sunday night. The incident came to light on Monday. The animal hide has been sent to a lab to establish the animal. Sources in the forest department said the accused were Bheem Rao, Manku and Manik Rao, tribals from different parts of the district. They were apprehended when they were trying to sell the skin to some buyers from Maharashtra, following a tip off. In the course of interrogation, the accused were giving contradictory statements with one of them saying they poisoned a tiger to death four months back. They clarified that the skin they seized was not of a big cat, but looked like that of a hyena. The foresters were trying to find out whether a tiger was killed or not. District Forest Officer P Rajasekhar told ‘Telangana Today’ that the skin was sent to the Centre for Cellular & Molecular Biology (CCMB), Hyderabad, for examination. He added that they were taking the issue seriously as it relates to the national animal and considering the recent arrest of poachers belonging to Indervelli mandal. On November 1, nine persons were arrested for allegedly trying to sell skin of a tiger in Kaghaznagar. The accused admitted that a tiger was electrocuted when it came into contact with an electrified snare at Wadgaon village in Indervelli mandal in 2020. A male carnivore inhabiting Tipeshwar Tiger Reserve of Yavatmal district in Maharashtra migrated to the wild of Adilabad district only to be electrocuted. Now you can get handpicked stories from Telangana Today on Telegram everyday. Click the link to subscribe. Click to follow Telangana Today Facebook page and Twitter .']
+
+
+Three----SUS.NUMBER
+
+possessing----CRIME.CAT
+
+tiger----SP.COMMON
+
+skin----ITEM
+
+Adilabad----LOC.CITY
+
+Three----SUS.NUMBER
+
+tiger----SP.COMMON
+
+skin----ITEM
+
+Adilabad----LOC.DISTRICT
+
+Forest department----AUTH.SEIZE
+
+Special Branch----AUTH.SEIZE
+
+three----SUS.NUMBER
+
+tiger----SP.COMMON
+
+skin----ITEM
+
+Bhela mandal----LOC.EXACT
+
+Sunday----DATE
+
+night----TIME
+
+Monday----DATE
+
+hide has been sent to a lab to establish the animal----OUTCOME
+
+Bheem Rao----SUS.NAME
+
+Manku----SUS.NAME
+
+Manik Rao----SUS.NAME
+
+tribals----SUS.AFFIL
+
+tip off----DETECTION_METHOD
+
+for examination----OUTCOME
+
+November 1----DATE
+
+nine----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+skin----ITEM
+
+tiger----SP.COMMON

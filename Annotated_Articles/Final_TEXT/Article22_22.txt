@@ -1,0 +1,43 @@
+
+['Hyena stalking Jamshedpur killed, sighting of second Hyena reported\n‘Missing’ Hyena dies jumps off from railway overbridge in Burmamines  Mail News Service Jamshedpur, April 4: The sighting of a Hyena at various locations in and around Kharangajhar in Telco since a fortnight, turned out to be true as on Monday morning, children playing cricket at the discarded NML Colony in Burmamines spotted the animal hiding in a nearby bush. The boys, armed with cricket bats and wickets chased the running Hyena and pelted stones at it. According to reports, some boys were playing cricket in the discarded NML Colony adjacent to Sidho-Kanhu Basti under Burmamines police station area at 9 am. While playing, one of the boys sighted a Hyena sitting in a nearby bush. Initially, the boy took the animal for a dog but on careful look, the size and face of the animal scared him. He reported the matter to the other kids playing cricket. When the boys advanced towards the bush, the Hyena started running away towards the old railway over-bridge next to the newly constructed one. The road ahead was blocked and the Hyena jumped down from the over-bridge on to the rail tracks. The boys reached the spot and started pelting stones at the injured animal. Later, they beat the animal with sticks and wickets resulting in the animal’s death. The news of the incident spread like wild fire. People started gathering at the spot to have a look at the animal. On getting information, the Burmamines police led by OC Raju arrived at the spot. The Forest department was informed whose personnel arrived at the spot and took away the carcass of the dead animal that had been dragged towards the Sidho Kanhu Basti in Burmamines. OC Raju confirmed that the animal was in fact a Hyena. The boys said that there were two Hyenas hiding in the bush. While one escaped towards the bush area, the second ran towards the old rail over-bridge and jumped off it. The news of a second Hyena being spotted by the boys had once again spread concern and fear among the residents. The sighting of a second Hyena has been reported to the Forest Department. Various video clippings of the hyena’s movement in Birsanagar and Telco areas had gone viral a week ago, the Jamshedpur division of the forest department had claimed it to be a rumour. The animal was first spotted in the Birsanagar area of the city a week ago. Panic gripped the city as the animal was spotted at various localities in the eastern parts of the city during this period. Today the wild animal was negotiating the railway overbridge towards Jugsalai in the morning. OC, Burmamines police station, Raju confirmed the hyena’s death. He informed that the police seized the caracas for handing it over to the forest department. “As per our probe we believe that the hyena was killed after it apparently jumped off the railway overbridge on Monday morning. We are trying to find out if anyone had chased the animal, compelling it to jump from the overbridge,” said Raju. The OC said that during the investigation they came to know from a group of children that there was another hyena that might have hidden somewhere in the Burmamines area. A forest official too confirmed the hyena’s death and said the forest department was carrying out an autopsy. “We have taken over the Caracas and are conducting an autopsy to determine whether the wild animal died due to a fall from the railway overbridge or was killed by the local residents, ” the official said. He said hyenas are nocturnal animals and move around in groups. He said the killed animal must have strayed into the city from Dalma hills. The official also informed that another hyena is probably still in the city, claiming that the forest department was carrying out a search operation.']
+
+
+Hyena----SP.COMMON
+
+Hyena----SP.COMMON
+
+Burmamines----LOC.EXACT
+
+Hyena----SP.COMMON
+
+Monday----DATE
+
+morning----TIME
+
+cricket bats----ITEM
+
+wickets----ITEM
+
+Hyena----SP.COMMON
+
+9 am----TIME
+
+Hyena----SP.SPECIFIC
+
+Burmamines police----AUTH.SEIZE
+
+OC----OFF.DESIG
+
+Raju----OFF.NAME
+
+Hyena----SP.SPECIFIC
+
+Hyenas----SP.SPECIFIC
+
+morning----TIME
+
+hyena----SP.COMMON
+
+forest department----AUTH.SEIZE
+
+search operation----DETECTION_METHOD

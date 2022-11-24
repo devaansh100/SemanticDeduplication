@@ -1,0 +1,19 @@
+
+["Mysuru: Forester invents gun to scare monkeys\nDeputy Range Forest Officer Shivakumar began to work on the gun after noticing a few ginger growers on the border of the park using a modified monkey scare gun to drive the wild animals away. Mysuru: With man -animal conflict on the rise, a forest officer of the Nagarahole National Park has come up with an alternative to crackers to scare elephants straying into villages. He has modified a gun used to scare monkeys, to help farmers keep the elephants at bay. Deputy Range Forest Officer Shivakumar began to work on the gun after noticing a few ginger growers on the border of the park using a modified monkey scare gun to drive the wild animals away. With an MSc. under his belt, the forest officer began to work on modifying the gun for jumbo operations and it has been successfully used in Nagarahole for about five months now. “Initially, I wasn't sure of its success, but the experiment succeeded,” says Mr Shivakumar, adding that any farmer, who wants to use it to keep wild animals away, can make it for about Rs 700 himself. The material used to modify the plastic gun includes a four inch wide, two feet long pipe, a 2 x1.5 inches reducer cap, a gas lighter, a 100ml gum and calcium carbide. The new gun is cost-effective and harmless and unlike the crackers, which become less effective in the monsoon, can be used in all seasons. Range Forest Officer H.K. Amith says the modified gun is louder than a double barrel gun. Seeing its success, director of the Nagarahole National Park, Narayanswamy, plans to soon extend its use to all its ranges."]
+
+
+Forester----AUTH.MISC
+
+gun----ITEM
+
+monkeys----SP.COMMON
+
+Deputy Range Forest Officer----OFF.DESIG
+
+ginger growers----SUS.AFFIL
+
+Nagarahole National Park----LOC.EXACT
+
+gun----ITEM
+
+gas lighter----ITEM

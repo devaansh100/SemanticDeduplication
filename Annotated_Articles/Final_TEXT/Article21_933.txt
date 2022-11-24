@@ -1,0 +1,31 @@
+
+['Greed lands two big cat killers in soup\nState Forest Department Siddapur Range Forest Ningani Usually, poachers would also take the leopard’s pelt – Shivanand S Ningani, Range Forest Officer Murthy Ganapathy Naik Keshav Govind Gowda Keshav They hid its paws in farmland after severing them from the bodyKarnatakaofficials recently nabbed two men who allegedly trapped a leopard, killed it and severed its paws. The arrests were made within 24 hours after forest officials found the leopard carcass.The incident took place in the forested area of Mathihalli village intaluk forest range in Sirsi. On December 16, a group of forest officials were on beat patrolling duty inside the forests when they sensed a decomposed smell emanating from a nearby waterspot. They followed the trail which led them to the dead leopard. “We observed that all the four paws of the leopard were missing and there were snare wire marks around the leopard’s neck and wounds on the body,”Officer (RFO) of Siddapur range, Shivanand Stold Bangalore Mirror.The officials collected all evidences to establish that the leopard was trapped and killed. “Usually, if it were professional poachers, they would take away the leopard’s pelt as well, but since the four paws were cut and taken, the forest officials believed that it was a handiwork of locals,” Ningani added.The Regional Forest Officer, who visited the spot, informed Assistant Conservator of Forests (ACF) CN Harish who in turn apprised Deputy Conservator of Forests (DCF) SG Hegde, and the two senior officials along with a veterinarian rushed to the spot and conducted on-spot autopsy. “The leopard was a female, around three years old,” Ningani said.The same evening, the forest officials formed teams and combed the crime spot, after which they visited nearby villages and started collecting information about recent hunting incidents. From a house in Doddanekudlu village, they stumbled upon similar wire snares which the family claimed were used to prevent wild boars from destroying their farm. However, the officials picked up a man identified as(42), a labourer and questioned him. He confessed that the act was carried out with the help of his friend(49). He said they had buried the paws at Keshav’s farmland and had plans to retrieve the nails later. The act was carried out so that they could sell the feline’s nails in the city to make some quick buck.The officials later picked upfrom his house in Kalmane village and also recovered the four buried paws.The two accused were booked under section 9 of the Indian Wildlife (Protection) Act 1972 which states - no person shall hunt any wild animal. The two accused were produced before a magistrate who remanded them in judicial custody.']
+
+
+Shivanand S Ningani----OFF.NAME
+
+Range Forest Officer----OFF.DESIG
+
+Murthy Ganapathy Naik Keshav----OFF.NAME
+
+two----SUS.NUMBER
+
+men----SUS.GENDER
+
+leopard----SP.COMMON
+
+Mathihalli village intaluk forest range----LOC.EXACT
+
+December 16----DATE
+
+leopard----SP.COMMON
+
+Assistant Conservator of Forests (ACF)----OFF.DESIG
+
+CN Harish----OFF.NAME
+
+Deputy Conservator of Forests (DCF)----AUTH.SEIZE
+
+man----SUS.GENDER
+
+booked under section 9 of the Indian Wildlife (Protection) Act 1972----OUTCOME

@@ -1,0 +1,19 @@
+
+["Smuggled, injured and rescued: Kangaroos in West Bengal\nSmuggled, injured and rescued: Kangaroos in West Bengal Miles away from their natural habitat, three kangaroos were rescued in West Bengal's Jalpaiguri."]
+
+
+Kangaroos----SP.COMMON
+
+West Bengal----LOC.STATE
+
+Kangaroos----SP.COMMON
+
+West Bengal----LOC.STATE
+
+three----QTY
+
+kangaroos----SP.COMMON
+
+West Bengal's----LOC.STATE
+
+Jalpaiguri----LOC.DISTRICT

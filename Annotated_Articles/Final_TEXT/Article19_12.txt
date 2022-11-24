@@ -1,0 +1,21 @@
+
+["Video: A leopard wanders into a Mumbai mall — and it's proof that the city has stretched too far\nKorum Mall Advertisement CCTV captures big cat roaming in the lift lobby of Korrum Mall https://t.co/8zoj3xy13R — TOI Mumbai (@TOIMumbai) 1550641684000 Advertisement A leopard strolled into thein Thane near Mumbai — India's financial capital— on Wednesday, according to media reports The leopard was caught on CCTV footage of the mall roaming around the lift lobby of the mall.The location of the leopard was unknown for the first few hours but was captured six hours later, according to media reports . However, the forest department and other local authorities were alerted immediately. it was captured after six hours in the storyIt is not the first time that leopards have wandered into the urban settlements around Mumbai, particularly areas which are just on the edge of a 'protected' national park in the outskirts of Mumbai.But the number of leopard sightings in human settlements have increased significantly in the past decades as rapid urbanisation has at times encroached upon protected areas. Environmentalists and activists have endlessly protested the indiscriminate and often illegal expansion by builders.Mumbai’s Sanjay Gandhi National Park, which is surrounded by apartments and slums, is said to be home to nearly 40 leopards that survive primarily by hunting dogs."]
+
+
+leopard----SP.COMMON
+
+Mumbai mall----LOC.EXACT
+
+Korrum Mall----LOC.EXACT
+
+leopard----SP.COMMON
+
+Thane----LOC.CITY
+
+Wednesday----DATE
+
+leopard----SP.COMMON
+
+CCTV footage----DETECTION_METHOD
+
+forest department----AUTH.SEIZE

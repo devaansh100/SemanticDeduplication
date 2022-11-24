@@ -1,0 +1,19 @@
+
+['An Adorable Baby Lion Plays With A Baby Bear And A Wolf\n3.4k SHARES Share Tweet Three unique animals, a baby lion, a baby bear, and a wolf, all play with each other. Their roughhousing is so cute it melts our hearts. Ready for a cute injection into your day? Then watch these 3 buddies, a baby lion, a baby bear, and a wolf, tumble and chase each other in one of the most cute roughhousing we’ve ever before seen. These animals live at Solitary Vision, a rehabilitation center for exotic animals. Single Vision gives a happy and healthy environment that meets the animals’ physical and psychological needs by enriching their lives with everyday interspecies play and human interaction.']
+
+
+A----QTY
+
+Bear----SP.COMMON
+
+A----QTY
+
+Wolf----SP.COMMON
+
+lion----SP.COMMON
+
+wolf----SP.COMMON
+
+bear----SP.COMMON
+
+wolf----SP.COMMON

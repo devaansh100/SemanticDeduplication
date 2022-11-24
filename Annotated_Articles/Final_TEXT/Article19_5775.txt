@@ -1,0 +1,39 @@
+
+['Assam: Over 300 caged birds at Durga Puja pandal freed after social media outrage\nA section of the population said caging birds in the name of ‘eco-friendly’ decorations is actually cruelty. As many as 300 exotic birds that were caged inside a Durga Puja pandal in Silchar were removed Saturday after the incident in Assam’s Barak Valley sparked social media outrage. The Kalibari Durga Puja committee of Udharbond near Silchar is the most popular Durga Puja here with a replica of Akshardham Temple and London bridge to attract visitors. To make the pandal look more “natural” they have also installed several cages with around three hundred exotic birds in them. Speaking to IndianExpress.com, Shankar Roy, secretary of the Udharbond Kalibari Durga Puja committee, also confirmed that DC has indeed asked them to remove the birds. Speaking to IndianExpress.com, Shankar Roy, secretary of the Udharbond Kalibari Durga Puja committee, also confirmed that DC has indeed asked them to remove the birds. Immediately after the inauguration of the pandal, netizens requested Cachar deputy commissioner Laya Madduri to intervene and release the birds. A section of the population said caging birds in the name of ‘eco-friendly’ decorations is actually cruelty. A video was uploaded on social media which featured dhakis playing dhak (traditional music instrument used during Durga Puja) with the birds nearby. Some also posted images of dead birds. The deputy commissioner on Friday evening asked the Puja committee members to remove the birds from the pandal premises. Laya Madduri said, “Though the Puja committee members have got clearances and the birds are allowed to be kept as pets, considering the loud and bright environment we have taken the decision to ask them to remove the birds from the pandal premises.” The organizers, however, refused to remove the birds as they are yet to get order copy from deputy commissioner. They are also confident that local MLA will ‘handle’ the situation. Local Local BJP MLA Mihir Kanti Shome, who inaugurated the pandal on Wednesday evening, however came up with a bizarre logic that these are birds are “imported and not Indian”. Local BJP MLA Mihir Kanti Shome, who inaugurated the pandal on Wednesday evening, however came up with a bizarre logic that these are birds are “imported and not Indian”. He said, “These birds are raised artificially and meant for entertaining people. They are exotic pets sold legally all around the world and are kept in many houses, so I don’t see anything wrong in using them as a part of decoration. We have laws for protecting Indian birds and animals but these are foreign breeds and I don’t think there is any existing guideline for them.” He also took a jibe at the people protesting against it. He said, “We have protesters for each cause now-a-days but people who are protesting against this idea of keeping live birds as props should first give up eating chicken and must immediately stop chaining dogs at home.” Advertisement Speaking to IndianExpress.com, Shankar Roy, secretary of the Udharbond Kalibari Durga Puja committee, also confirmed that DC has indeed asked them to remove the birds. Roy said this decision has landed them in trouble as the cages are placed in a manner that they cannot be removed while the pandal is open for the public. “The birds are here for the last 10 days and they are well-taken care of. The officials from the forest department also came and checked everything, we have all the necessary documents which allow us to transport and pet the birds. If we are forced to remove them now we will have to keep the pandal shut for two days which could create public outrage,” said Roy. He said the committee has spent close to Rs 4 lakh to transport the birds here and if the birds are removed in a hurry there is a possibility that they will get hurt. Shankar Roy mentioned that there are pet shops in Silchar selling these birds throughout the year and accused the protesters of being selective with their outrage. Advertisement Last year the same Puja committee installed multiple aquariums with live fish. Last year the same Puja committee installed multiple aquariums with live fish. It can be mentioned that 15 days back, the organisers announced that they will install cages inside the pandal premises which would filled by 300 exotic birds. The news was carried by local dailies and digital media platforms. The administration was indifferent and the deputy commissioner herself went to inaugurate the pandal along with local public representatives. Last year the same Puja committee installed multiple aquariums with live fish. The forest minister of Assam, Parimal Suklabaidya, requested the organisers to consider humanity over entertainment. He said, “I am aware of the fact that birds are being caged inside improper atmosphere but we cannot take any action because these birds are not scheduled under The Wild Life (Protection) Act, 1972. Officials of our department visited the pandal on Friday and we have requested the organisers to choose humanity over entertainment. I hope they will maintain this.”']
+
+
+Assam----LOC.STATE
+
+300----QTY
+
+birds----SP.COMMON
+
+Durga Puja pandal----LOC.EXACT
+
+freed----CRIME.CAT
+
+social media outrage----DETECTION_METHOD
+
+300----QTY
+
+exotic birds----SP.COMMON
+
+Durga Puja pandal----AUTH.SEIZE
+
+Silchar----LOC.CITY
+
+Saturday----DATE
+
+exotic birds----SP.COMMON
+
+secretary of the Udharbond Kalibari Durga Puja committee----OFF.DESIG
+
+Shankar Roy----OFF.NAME
+
+secretary----OFF.DESIG
+
+MLA----OFF.DESIG
+
+Mihir Kanti Shome----OFF.NAME
+
+forest department----AUTH.SEIZE

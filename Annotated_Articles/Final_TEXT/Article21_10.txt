@@ -1,0 +1,51 @@
+
+['Turtles in trucks\nCops seize over 3,000 turtles apparently meant to be smuggled to Bangladesh A part of the consignment of Indian softshell turtles seized by the police on Wednesday Titagarh police recovered 1,559 turtles hidden under potato sacks from a mini-truck at Chiria More on BT Road. Belgharia police found 1,837 more while checking a vehicle on Neelganj Feeder Road. Four persons — two in each case — were arrested. Probe is on. Police seized 3,396 Indian softshell turtles, apparently meant to be smuggled to Bangladesh, from two mini-trucks at two spots under the Barrackpore police commissionerate on Wednesday. Both vehicles have Uttar Pradesh registrations. “A probe has begun, but it is not yet clear where the turtles were scheduled to be supplied,” Mitra said. A Barrackpore Commissionerate official said that prima facie it appeared that the turtles were going to be handed over to members of a smuggling racket before heading to Bangladesh. All the turtles were handed over to the state forest department. However, 278 turtles were found dead. Barasat divisional forest officer Niranjita Mitra told The Telegraph that the Indian softshell turtle group is included under Schedule 1 of Wildlife Protection Act, 1972. The International Union for Conservation of Nature’s (IUCN) Red List also considers the Indian softshell turtle vulnerable because of the threats it faces such as shrinking habitat, poaching and illegal trade. However, smugglers find turtle trade lucrative as they are considered a delicacy in Bengal and Bangladesh.']
+
+
+Turtles----SP.COMMON
+
+trucks----TRANSPORT_MODE
+
+3,000----QTY
+
+turtles----SP.COMMON
+
+Bangladesh----ROUTE.DEST
+
+Indian softshell turtles----SP.SPECIFIC
+
+seized----CRIME.CAT
+
+Wednesday----DATE
+
+Titagarh police----AUTH.SEIZE
+
+recovered----OUTCOME
+
+1,559----QTY
+
+potato sacks----CONCEALMENT_METHOD
+
+mini-truck----TRANSPORT_MODE
+
+Chiria More on BT Road----LOC.EXACT
+
+Belgharia police----null
+
+Four----SUS.NUMBER
+
+3,396----QTY
+
+Indian softshell turtles----SP.SPECIFIC
+
+Bangladesh----ROUTE.DEST
+
+mini-trucks----TRANSPORT_MODE
+
+Barrackpore police commissionerate----AUTH.SEIZE
+
+Wednesday----DATE
+
+state forest department----AUTH.MISC
+
+Telegraph----DETECTION_METHOD

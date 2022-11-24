@@ -1,0 +1,23 @@
+
+['Karnataka: Man-eating tiger captured in Bandipur forest area, search operation concludes after 5 days\nRepresentational image After conducting a search operation for five days, a man-eating tiger was finally captured on Sunday afternoon at Bandipur forest area of Chamarajanagar district in Karnataka. A search team was conducting a combing operation to capture the animal alive or dead for the last five days. Aged between four and six years, the tiger had killed two men since last month, and a search operation for the wild cat began on October 9. The search team used different methods to locate the whereabouts of the tiger and finally nabbed him after being tranquilized. "The tiger was captured late in the afternoon with the help of Soliga tribals, who spotted it hiding in a bush," IANS quoted state Chief Wildlife Warden Sanjay Mohan as saying. "When the tiger was hit by a tranquilizer dart by forest guards atop on an elephant based on the Soligas` cues, it managed to escape into another bush. The Soligas proved crucial in spotting it again and hitting it with another darting to immobilise it," Mohan added. A thorough medical review is yet to be done on the tiger following which the animal would be sent to a rehabilitation centre in Mysore. The Bandipur tiger reserve, a popular tourist destination, is spread across 872 square kilometres in the Chamarajanagar district that borders Tamil Nadu. The forest is about 220 km southwest of Bengaluru.']
+
+
+Karnataka----LOC.STATE
+
+Man-eating tiger----SP.SPECIFIC
+
+Bandipur forest area----LOC.EXACT
+
+man-eating tiger----SP.SPECIFIC
+
+Sunday----DATE
+
+afternoon----TIME
+
+Bandipur forest area----LOC.EXACT
+
+Chamarajanagar----LOC.DISTRICT
+
+Karnataka----LOC.STATE
+
+afternoon----TIME

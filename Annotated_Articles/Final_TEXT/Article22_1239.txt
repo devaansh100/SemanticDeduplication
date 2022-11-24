@@ -1,0 +1,17 @@
+
+["Bird flu found in fox in Japan's first mammal infection\nTOKYO: A dead fox has been found infected with bird flu in Japan 's northern Hokkaido region, the environment ministry said on Tuesday, describing it as the country's first case of avian influenza being detected in a mammal. Akane Shoji , an environment ministry official, said that the fox was believed to have eaten an infected wild bird.The Hokkaido Prefecture raised its alert level on avian influenza in November, running regular checks on bird carcasses. On Monday, it reported five crows that previously tested positive for bird flu were found to have high levels of pathogens in second-stage testing.The ministry official said that in light of data on cases of infected mammals overseas, transmission between foxes is considered unlikely, but officials would continue to monitor the overall bird flu situation in the region."]
+
+
+Bird flu----SP.COMMON
+
+fox----SP.COMMON
+
+fox----SP.COMMON
+
+bird----SP.COMMON
+
+fox----SP.COMMON
+
+eaten----CRIME.CAT
+
+wild bird.The----SP.COMMON

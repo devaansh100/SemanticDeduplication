@@ -1,0 +1,9 @@
+
+['King Cobra comes across another snake, Watch what happens next\nKing Cobra comes across another snake, Watch what happens next King Cobra is the most dangerous snake. It is so dangerous that anyone can die with its poison. Apart from attacking human beings and other animals, at a time it also attacks other snakes. A video of a King cobra hunting for another snake is now becoming quite viral on social media. This video has been shared on Twitter from a page named @ManeeshAnand1. The caption accompanying the video reads – King Cobra is hunting another snake. In this viral video, you can see that a small snake is going on its way. In the meantime, a King Cobra comes across the snake and attacks it from behind. At first, the small snake also tries to fight with the King cobra. However, the King Cobra does not give any chance and goes on to bite it repeatedly. At the end of the video, you can see that the small snake is defeated and dies.']
+
+
+King Cobra----SP.COMMON
+
+snake----SP.COMMON
+
+snake----SP.COMMON

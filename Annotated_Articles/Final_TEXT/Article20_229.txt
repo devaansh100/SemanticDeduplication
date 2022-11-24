@@ -1,0 +1,43 @@
+
+['BSF intelligence leads to recovery of 2 elephant tusks in Meghalaya\nStaff CORRESPONDENT  SHILLONG: On a tip-off by the BSF Meghalaya, a joint operation was conducted by the Meghalaya Police and the Wildlife department on May 28 wherein a raid was conducted in the house of one Rason D Sangma at Baljori village. During the search of the house, the joint team recovered 2 elephant tusks measuring 3 feet and 2 and a half feet. During the raid, the accused, Sangma, was arrested and was interrogated for further leads. It is believed that the recovered elephant tusks were extracted from the elephant which was killed in the jungle of Belabore in West Garo Hills of Meghalaya on April 19. In the last five months, 3 carcasses of elephant have been recovered in the jungle area of Garo Hills adjoining the international boundary in Meghalaya with their tusk hacked off. It is suspected that a well-knit poaching syndicate is behind these killings. IG BSF Meghalaya, Kuldeep Saini lauded the achievement during the joint operation. He further said that BSF always works in close coordination with the district administration, the police and other sister agencies to prevent illegal activities along the international boundary.']
+
+
+BSF----AUTH.SEIZE
+
+intelligence----DETECTION_METHOD
+
+2----QTY
+
+elephant----SP.COMMON
+
+tusks----ITEM
+
+Meghalaya----LOC.STATE
+
+tip-off----DETECTION_METHOD
+
+BSF Meghalaya----AUTH.SEIZE
+
+Meghalaya Police----AUTH.SEIZE
+
+Wildlife department----AUTH.SEIZE
+
+May 28----DATE
+
+raid----DETECTION_METHOD
+
+Rason D Sangma----SUS.NAME
+
+Baljori village----SUS.LOC
+
+2----QTY
+
+elephant----SP.COMMON
+
+tusks----ITEM
+
+3 feet----QTY
+
+elephant----SP.COMMON
+
+Kuldeep Saini----OFF.NAME

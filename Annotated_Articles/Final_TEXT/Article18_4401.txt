@@ -1,0 +1,23 @@
+
+['Police arrest man for defeathering chicken alive in Palakkad\nParassala: Police arrested a barbarous butcherer for defeathering a chicken without killing it and slicing into pieces. Kollengode police arrested Kuzhivalakam Puthanveetil Manu (36) over the matter. Last week, a customer who came to buy chicken meat at the chicken stall in Kollengode captured the visuals of Manu defeathering and cutting the chicken heartlessly with a smile. The video went viral on social media. Following this Kollengode police arrested Manu.']
+
+
+Police----AUTH.SEIZE
+
+arrest----CRIME.CAT
+
+man----SUS.GENDER
+
+chicken----SP.COMMON
+
+Palakkad----LOC.DISTRICT
+
+arrested----CRIME.CAT
+
+Kollengode police----AUTH.SEIZE
+
+arrested----CRIME.CAT
+
+Kuzhivalakam Puthanveetil Manu----SUS.NAME
+
+36----SUS.AGE

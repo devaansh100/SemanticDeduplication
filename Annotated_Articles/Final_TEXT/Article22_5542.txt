@@ -1,0 +1,9 @@
+
+['A farmer has enough food for 144 ducks for 28 days. If he sells 32 ducks, how long will the food last?\nA farmer has enough food for 144 ducks for 28 days. If he sells 32 ducks, how long will the food last?']
+
+
+144----QTY
+
+32----QTY
+
+32----QTY

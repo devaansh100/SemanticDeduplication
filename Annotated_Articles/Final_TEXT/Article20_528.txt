@@ -1,0 +1,57 @@
+
+['Police arrest 3 poachers in Bargarh; seize leopard hide, nails\nBargarh: Acting on a tip-off, a team of the Special Task Force (STF) raided a place near Bhatli Chhak in Bargarh district and arrested three poachers Wednesday morning in connection with sale of a leopard hide and nails. Also read: Keonjhar minor boy alleges ‘third degree torture’ in police station; SP orders probe The arrested were identified as Satyaban Sahu (son of Jayadeb Sahu), Souki Thethua (son of Dulamani Thethua) and Maita Bhue (son of Lekru Bhue), all belonging to Khajuria village under Bhatli police limits in Bargarh district. Police recovered the animal hide and nails from their possession. Bhatli police have launched a probe to ascertain how the three came in possession of the leopard hide and nails. The three arrested will be forwarded to Bargarh SDJM Court Thursday morning, Bhatli police sources said. Police have registered a case (No 30/25.11.2020) in this connection, under Section 379/411 of the IPC and r/w 51 of Wild Life (Protection) Act, 1972. The seized leopard hide will be sent to Dehradun Wild Life Institute of India for chemical examination. PNN']
+
+
+Police----AUTH.SEIZE
+
+arrest----CRIME.CAT
+
+3----SUS.NUMBER
+
+Bargarh----LOC.DISTRICT
+
+seize----CRIME.CAT
+
+leopard----SP.COMMON
+
+hide----ITEM
+
+nails----ITEM
+
+tip-off----DETECTION_METHOD
+
+Special Task Force (STF)----AUTH.SEIZE
+
+raided----CRIME.CAT
+
+Bhatli Chhak in Bargarh----LOC.EXACT
+
+three----SUS.NUMBER
+
+Wednesday----DATE
+
+sale----DETECTION_METHOD
+
+a----QTY
+
+leopard----SP.COMMON
+
+hide----ITEM
+
+nails----ITEM
+
+Satyaban Sahu----SUS.NAME
+
+Souki Thethua----SUS.NAME
+
+Dulamani Thethua----SUS.NAME
+
+Maita Bhue----SUS.NAME
+
+Khajuria village----SUS.LOC
+
+nails----ITEM
+
+arrested will be forwarded to Bargarh SDJM Court Thursday morning----OUTCOME
+
+registered a case----OUTCOME

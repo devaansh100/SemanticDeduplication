@@ -1,0 +1,25 @@
+
+['3 critically endangered Sumatran tigers were found dead in snares in Indonesia\nJakarta: Three critically-endangered Sumatran tigers have been found dead after being caught in sling snares in a private oil palm plantation in Indonesia’s Aceh province, the Aceh Natural Resources Conservation Agency said. The agency’s head Agus Arianto on Monday said the tiger carcasses were found on Sunday by a member of a non-governmental organisation, who thought that the carnivores had died for days, Xinhua news agency reported. “We strongly condemn this incident. An investigation is underway,” Arianto told Xinhua. A medical team has taken the body parts of the tigers for necropsy, while the police are conducting a field investigation to uncover other factors causing the deaths.']
+
+
+3----QTY
+
+Sumatran tigers----SP.SPECIFIC
+
+found dead----CRIME.CAT
+
+Indonesia----LOC.STATE
+
+Three----QTY
+
+Sumatran tigers----SP.SPECIFIC
+
+found dead----CRIME.CAT
+
+Aceh----LOC.DISTRICT
+
+tiger----SP.COMMON
+
+carcasses----ITEM
+
+Sunday----DATE

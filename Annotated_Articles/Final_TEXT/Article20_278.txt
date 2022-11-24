@@ -1,0 +1,63 @@
+
+['Two held with ivory piece from Mungpoo in the Darjeeling hills\nThe consignment was to be smuggled to Nepal The arrested duo had earlier been involved in smuggling of different animal parts, including pangolin scales Sanjoy Dutta, the range officer of the special task force, said the elephant tusk weighed around 700 grams. The Bengal forest department said its special task force had arrested two men with an ivory piece from Mungpoo in the Darjeeling hills on Thursday. “The duo were planning to smuggle it to Nepal and had earlier been involved in smuggling of different animal parts, including pangolin scales,” said Dutta. The forester said the department had received a tip-off that the ivory would be handed over to a potential buyer in Mungpoo. “Accordingly, we conducted a raid at the hilly hamlet and found five persons at the spot, busy in a bargain. Three of them managed to escape but our men nabbed the remaining two,” said Dutta. The arrested were Sobha Tamang and Som Tshering, both residents of Batasia, on the outskirts of Darjeeling town. The foresters have also seized a car, ATM cards, cash and cellphones during the raid. “As we interrogated the two men, they admitted that the ivory piece had been concealed in a plastic packet and kept in the car. The duo were booked under the Wildlife (Protection) Act, 1972. The investigation is still in progress and we are trying to find out from where they had obtained the tusk,” said Dutta. Tamang and Tshering were produced in the chief judicial magistrate’s court in Jalpaiguri and remanded in judicial custody for 14 days.']
+
+
+Two----SUS.NUMBER
+
+ivory piece----ITEM
+
+Mungpoo----ROUTE.SRC
+
+Nepal----ROUTE.DEST
+
+pangolin----SP.COMMON
+
+scales----ITEM
+
+Sanjoy Dutta----OFF.NAME
+
+range officer----OFF.DESIG
+
+elephant----SP.COMMON
+
+tusk----ITEM
+
+700 grams----QTY
+
+special task force----AUTH.SEIZE
+
+two----SUS.NUMBER
+
+men----SUS.GENDER
+
+ivory piece----ITEM
+
+Mungpoo----ROUTE.SRC
+
+Thursday----DATE
+
+Nepal----ROUTE.DEST
+
+tip-off----DETECTION_METHOD
+
+raid----DETECTION_METHOD
+
+five----SUS.NUMBER
+
+Sobha Tamang----SUS.NAME
+
+Som Tshering----SUS.NAME
+
+Batasia----SUS.LOC
+
+car----ITEM
+
+ATM cards----ITEM
+
+cash----ITEM
+
+cellphones----ITEM
+
+plastic packet and kept in the car----CONCEALMENT_METHOD
+
+produced in the chief judicial magistrate’s court in Jalpaiguri and remanded in judicial custody for 14 days----OUTCOME

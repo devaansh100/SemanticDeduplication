@@ -1,0 +1,15 @@
+
+['Bandipur Tiger Reserve viral video: Youngsters somehow manage to escape as elephant charges at them; fined by forest dept for violating norms\nThe elephant chasing a youngster. (Screengrab) Photo : Times Now KEY HIGHLIGHTS As per rules, tourist vehicles are advised not to stop or get out of the vehicle while travelling through the forest reserve. The elephant runs across the road and chases one youngster, who somehow manages to get onto the car. Bandipur Tiger Reserve director said that the tourists have been identified and they have been fined for their actions. Bandipur : A group of youngsters who were travelling on a highway cutting through the forest reserves of Bandipur, somehow managed to escape as an elephant came charging at them. As per rules, tourist vehicles are advised not to stop or get out of the vehicle while travelling through the forest reserve. A verified viral video of the incident shows that the car of the tourist was almost trampled by the elephant. In the video, a group of tourists can be seen halting their car in the middle of the road and then getting out of the car. One of the youngsters can also be seen clicking pictures when the elephant slowly moves out of the forest. In the video clip, the elephant can be seen approaching towards them, but they are completely unaware. The elephant runs across the road and chases one youngster, who somehow manages to get onto the car. Bandipur Tiger Reserve director said that the tourists have been identified and they have been fined for their actions. Rajesh, who belongs from Kerala, has been identified as the tourist who was changed. Rajesh and his friends were returning to their home when they decided to stop their car inside the forest reserve highway, which is an offence. Shape Your Aspirations to Action at the India Economic Conclave on 21, 22 April. Visit www.indiaeconomicconclave.com']
+
+
+Youngsters----SUS.AFFIL
+
+fined by forest dept----OUTCOME
+
+tourists have been identified and they have been fined for their actions----OUTCOME
+
+youngsters----SUS.AFFIL
+
+elephant----SP.COMMON
+
+tourists----SUS.AFFIL

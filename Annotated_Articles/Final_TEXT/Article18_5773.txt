@@ -1,0 +1,37 @@
+
+['Assam: Suspected poacher arrested in Sarupathar\nGuwahati: A suspected person has been arrested from Sarupathar in Golaghat for allegedly poaching a rhino in January this year. Speaking on the matter, a police source said that the person was arrested based on specific inputs with the police from the Sarupathar. He has been suspected to be the gunman in the recent rhino poaching that took place in Kaziranga’s Kohora. Also Read: Assam: CM Himanta Biswa Sarma is another name for ‘chanda’, says AASU GS He was allegedly hiding in Nagaland but had recently moved to the Sarupathar area and based on inputs, the police arrested him from a designated location. The person has been identified as Uttam Khaklari of Uriamghat. However, the police are still investigating the matter and it is not yet clear if he is involved in the killing of the rhino. No weapons were recovered from him during his arrest. Also Read: Assam: Three arrested with 6.3 kg of pangolin scales in Tinsukia Earlier the Assam Police released photographs of three suspected poachers announcing a cash reward of Rs 2 lakh for any leads on the suspects. In January, after almost nine months, a rhino was allegedly killed by poachers in the Kohra Range of the Kaziranga National Park. Sources from the forest department said that it is yet to be ascertained when the rhino was killed but the poachers had taken away the horn. The carcass was found in a decomposed state.']
+
+
+Assam----LOC.STATE
+
+arrested----CRIME.CAT
+
+Sarupathar----LOC.EXACT
+
+A----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+Sarupathar----LOC.EXACT
+
+Golaghat----LOC.EXACT
+
+January this year----DATE
+
+arrested----CRIME.CAT
+
+specific inputs----DETECTION_METHOD
+
+Uttam Khaklari----SUS.NAME
+
+Uriamghat----SUS.LOC
+
+Three----SUS.NUMBER
+
+6.3 kg----QTY
+
+pangolin----SP.COMMON
+
+scales----ITEM
+
+Tinsukia----LOC.DISTRICT

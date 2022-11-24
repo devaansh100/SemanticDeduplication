@@ -1,0 +1,15 @@
+
+['Forest guard dies in tiger attack in Corbett, third such death this year in reserve\nForest guard dies in tiger attack in Corbett, third such death this year in reserve']
+
+
+tiger----SP.COMMON
+
+attack----CRIME.CAT
+
+Corbett----LOC.DISTRICT
+
+tiger----SP.COMMON
+
+attack----CRIME.CAT
+
+Corbett----LOC.DISTRICT

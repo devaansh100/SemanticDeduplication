@@ -1,0 +1,33 @@
+
+["Leopard enters Mumbai school’s washroom, rescued later\nA leopard which strayed into a school in Mumbai’s Goregaon was rescued in a joint operation by the forest department, police officials, and other volunteers Tuesday. Photographs and videos of the rescue of the big cat, which was stuck in the school’s washroom, have surfaced online. A security guard spotted the big cat jumping over the school’s gate and informed forest department officials. The leopard was trapped inside the washroom after jumping through a small window. “There is forest-like vegetation nearby. The leopard entered the school campus last night and got confined in a washroom. We have rescued the leopard,” Girija Desai, a Forest Department Official, was quoted as saying by ANI in a tweet. Maharashtra | A leopard that had entered a school in Mumbai's Goregaon rescued successfully There is a forest-like vegetation nearby. The leopard entered the school campus last night & got confined in a washroom. We've rescued the leopard: Girija Desai, Forest Dept Official pic.twitter.com/DiTq06NbM8 — ANI (@ANI) June 29, 2022 Wildlife Welfare Association (WWA), a non-governmental organisation (NGO) working in Thane and Mumbai, shared a clip showing the tranquillised leopard being moved from the school’s washroom to a forest department vehicle. Photographs showed the NGO volunteers and officials of the forest and police departments covering the school premises with a net and monitoring the big cat inside the washroom. Keep up the great Service — Mathew Varghese (@MathewCongress) June 29, 2022 When humans take over nature, the nature take over humans. — Man-niya (@desiw0ke) June 29, 2022 As per WWA’s Facebook post, the rescue operation took around three hours. The tranquillised leopard was transported to Sanjay Gandhi National Park (SGNP) for medical examination and would be released to the forest later following its fitness confirmation. Recently, a leopard trapped in an open well was rescued by forest department officials in Maharashtra. Indian Forest Service officer Susanta Nanda shared the clip on Twitter and urged people to cover wells to prevent dangers to wildlife."]
+
+
+Leopard----SP.COMMON
+
+leopard----SP.COMMON
+
+Goregaon----LOC.EXACT
+
+rescued----CRIME.CAT
+
+forest department----AUTH.SEIZE
+
+police officials----AUTH.SEIZE
+
+Tuesday----DATE
+
+security guard----DETECTION_METHOD
+
+Forest Department Official----AUTH.SEIZE
+
+leopard----SP.COMMON
+
+leopard----SP.COMMON
+
+Forest Dept----AUTH.SEIZE
+
+police departments----AUTH.SEIZE
+
+leopard----SP.COMMON
+
+forest department officials----AUTH.SEIZE

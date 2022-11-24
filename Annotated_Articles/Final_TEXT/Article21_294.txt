@@ -1,0 +1,39 @@
+
+['Leopard poached by poisoning calf carcass, paws and canines removed\nNagpur: A three-year-old leopard with missing paws and canines came to light on Tuesday in Sadak Arjuni forest range under Gondia division. This indicates that local poachers selling carnivore body parts are active in Gondia and Bhandara districts.Highly decomposed carcass of a male leopard was found by a group of tendu leaves collectors in compartment number 556 of Ghogarghat forest area. “We have arrested a father-son duo who sprayed poisonous insecticide thimet on the leopard carcass after it killed their calf,” says assistant conservator of forest ( ACF) Pradeep Patil.The arrested duo, Sukhaldas Torankar (65) and his son Sandeep (40), admitted that the leopard had killed their calf on the night of April 30. On May 1, Sukhaldas sprayed thimet on the carcass.“This means the leopard carcass is 12 days old, and the foresters did not know about the incident despite the carcass lying 50 metres from the roadside,” says Gondia honorary wildlife warden Sawan Bahekar.Sources said all the forest beats where poaching incidents have taken place were manned by women forest guards, indicating the staff is not moving out. Otherwise, such incidents would have come to light days earlier, they said.“After consuming the flesh, the leopard died. But Torankar has denied his hand in removing the four paws and canines. The accused were produced before JMFC Sadak Arjuni, who granted a day’s forest custody remand (FCR),” said Patil.Sources said NTCA protocol to dispose of the carcass was not followed and no post mortem was conducted. ACF Patil, Gondia honorary wildlife warden Mukund Dhurve and vets were present at the spot.Dr SB Waghaye said, “Post-mortem was not conducted as it was 11-day-old carcass. We took samples of both, intestine of calf and leopard, but it is unlikely poisonous substance will be detected from such an old carcass.”This is not the first case of leopard poisoning in Gondia and Bhandara divisions. On January 4-5, 2021, two leopards and a nilgai were disposed of after removing their body parts in Tilli (Mohgaon) under Goregaon range in Gondia. On February 15, two adult male leopards were dumped in a farm well after they were poisoned in the Adyal range under Bhandara division.Prior to that, a tiger was electrocuted at Chutia village in Gondia in November 2020, and during the same period a leopard skin was seized from three persons by Navegaonbandh police. The accused were residents of Sakoli.All these cases seem to be revenge killings, as cattle kill compensation is not paid on time. CCF P Kalyan Kumar said, “The Sadak Arjuni case is different as the farmer did not demand compensation nor informed us. It is true that by March 31, 2021, Rs1.20 crore remains to be paid towards cattle kill and crop damage compensation in four divisions in Nagpur circle.”Bahekar called for deploying special monitoring teams to check poaching menace and develop a local workforce and intelligence network relating to gangs traditionally involved in poaching.']
+
+
+Leopard----SP.COMMON
+
+poisoning----CRIME.CAT
+
+calf carcass----ITEM
+
+paws----ITEM
+
+canines----ITEM
+
+leopard----SP.COMMON
+
+paws----ITEM
+
+canines----ITEM
+
+Tuesday----DATE
+
+compartment number 556 of Ghogarghat forest area----LOC.EXACT
+
+Sukhaldas Torankar----SUS.NAME
+
+65----SUS.AGE
+
+Sandeep----SUS.NAME
+
+40----SUS.AGE
+
+four----QTY
+
+paws----ITEM
+
+canines----SP.SPECIFIC
+
+Sakoli.All----SUS.LOC

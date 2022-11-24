@@ -1,0 +1,47 @@
+
+['Two held with 55 parrots in WB\'s Siliguri\nSiliguri (West Bengal) [India], September 3 (ANI): At least two persons were arrested with 55 parrots by the officials of Sarugarah forest range in Siliguri on Friday. The two accused identified as Sarijat Ali and Dinesh Das were smuggling the parrots, the officials alleged.  The officials said, "The parrots (Alexandrine Parakeet and Red-Breasted Parakeet) were kept in three cages. They were being smuggled in a bike coming from Malbazar in Jalpaiguri to Galgalia, Bihar." Talking about the raid, Divisional Forest Officer (DFO), Baikunthapur forest division, Hari Krishnan said, "A special team headed by Sanjay Dutta, ranger, Sarugarah forest range conducted the operation and arrested two persons along with the birds." "The accused persons will be produced in Jalpaiguri court today and parrots will be released in Bengal Safari park," he added. (ANI) ']
+
+
+Two----SUS.NUMBER
+
+55----QTY
+
+parrots----SP.COMMON
+
+Siliguri----LOC.CITY
+
+West Bengal----LOC.STATE
+
+two----SUS.NUMBER
+
+55----QTY
+
+parrots----SP.COMMON
+
+Sarugarah forest range----AUTH.SEIZE
+
+Siliguri----LOC.CITY
+
+Friday----DATE
+
+Sarijat Ali----SUS.NAME
+
+Dinesh Das----SUS.NAME
+
+smuggling----CRIME.CAT
+
+parrots----SP.COMMON
+
+Alexandrine Parakeet----SP.SPECIFIC
+
+Red-Breasted Parakeet----SP.SPECIFIC
+
+bike----TRANSPORT_MODE
+
+Sanjay Dutta----OFF.NAME
+
+ranger----OFF.DESIG
+
+Sarugarah forest range----AUTH.SEIZE
+
+two----SUS.NUMBER

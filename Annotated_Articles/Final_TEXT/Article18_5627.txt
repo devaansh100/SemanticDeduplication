@@ -1,0 +1,35 @@
+
+['Railway Protection Force recovers 235 turtles of rare species from railway station in Guwahati\nGuwahati (Assam) [India], February 6 (ANI): As many as 235 turtles of rare species were recovered by the Railway Protection Force (RPF) from Kamakhya Railway Station in Guwahati on Saturday.  The Indian flap shell turtles were hidden inside 10 bags. RPF personnel recovered these unclaimed bags from the 19305 Up (Indore-KYQ) train on arrival at Kamakhya Railway Station and handed over the turtles to the Guwahati Forest Range for rescue and rehabilitation. According to the Assam forest department, a wildlife case has been registered and the seized turtles have been taken to the Assam State Zoo for treatment and rehabilitation. Further investigation into the matter is underway. (ANI) ']
+
+
+Railway Protection Force----AUTH.SEIZE
+
+recovers----CRIME.CAT
+
+235----QTY
+
+turtles----SP.COMMON
+
+Guwahati----LOC.CITY
+
+235----QTY
+
+turtles----SP.COMMON
+
+Railway Protection Force (RPF)----AUTH.SEIZE
+
+Kamakhya Railway Station----LOC.EXACT
+
+Guwahati----LOC.CITY
+
+Saturday----DATE
+
+Indian flap shell turtles----SP.SPECIFIC
+
+hidden inside 10 bags----CONCEALMENT_METHOD
+
+RPF----AUTH.SEIZE
+
+19305 Up (Indore-KYQ)----TRANSPORT_MODE
+
+train----TRANSPORT_MODE

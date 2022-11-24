@@ -1,0 +1,65 @@
+
+['5 Arrested For Illegal Wildlife Trade In Odisha\nFive persons were arrested from different areas in Odisha on Friday in connection with their involvement in illegal wildlife trade. Acting on a tip-off, a special squad of the forest department conducted a raid at Khandadhua area in Deogarh district on Friday morning. They nabbed three persons red-handed while they were making a deal to sell leopard skin. The skin of the wild animal was seized from the possession of the accused. Meanwhile, two wildlife criminals were held by a Special Task Force (STF) team at Ainapali village under Tushura police station in Bolangir district for illegally possessing a live pangolin. The accused have been identified as Heamasaga Mahananda from Khaliapalli village and Laxmidhar Nayak from Ainapalli village. On the basis of reliable information, the STF team conducted the raid with the help of Bolangir forest officials and apprehended both the wildlife criminals. During the search operation, one live pangolin weighing around 11 kg and other incriminating materials were recovered from their possession. Later, the live pangolin was handed over to Bolangir District Forest Officer (DFO) for safe custody. Further investigation pertaining to the illegal wildlife trade is going on. The Indian pangolin is a solitary, shy, slow moving, nocturnal mammal. It is a Schedule-I protected species under Wild Life Protection Act, 1972 which provides absolute protection to the endangered species. ']
+
+
+5----SUS.NUMBER
+
+Arrested----CRIME.CAT
+
+Odisha----LOC.STATE
+
+Five----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+Friday----DATE
+
+tip-off----DETECTION_METHOD
+
+special squad of the forest department----AUTH.SEIZE
+
+Khandadhua area----LOC.EXACT
+
+Deogarh----LOC.DISTRICT
+
+Friday----DATE
+
+morning----TIME
+
+three----SUS.NUMBER
+
+leopard----SP.COMMON
+
+skin----ITEM
+
+skin of the wild animal was seized from the possession of the accused. Meanwhile,----OUTCOME
+
+two----SUS.NUMBER
+
+Special Task Force (STF)----AUTH.SEIZE
+
+Ainapali village----LOC.EXACT
+
+Bolangir district----LOC.DISTRICT
+
+pangolin----SP.COMMON
+
+Heamasaga Mahananda----SUS.NAME
+
+Khaliapalli village----SUS.LOC
+
+Laxmidhar Nayak----SUS.NAME
+
+Ainapalli village----SUS.LOC
+
+reliable information----DETECTION_METHOD
+
+STF team----AUTH.SEIZE
+
+Bolangir forest officials----AUTH.SEIZE
+
+one----QTY
+
+pangolin----SP.COMMON
+
+11 kg----QTY

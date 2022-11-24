@@ -1,0 +1,23 @@
+
+['Leopard strays into Meerut colony, trapped after 9-hour rescue operation\nleopard in meerut Photo : Times Now KEY HIGHLIGHTS The forest officer said the leopard would be released into Shivalik range which is its natural habitat. Meerut: Panic gripped Meerut after a leopard strayed into a colony on Friday morning. The big cat entered into a house in Pallav Puram Phase-2 colony on Meerut-Dehradun highway causing a sort of stampede. The leopard could be rescued after 9-hour operation. A colony resident said he was shocked to see the leopard in the colony and immediately contacted police. Other colony residents also raised alarm as they spotted the leopard in the colony. In the meantime, the animal jumped into the house of one Swapnil Kumar. According to Divisional Forest Officer Rajesh Kumar, the big cat was rescued following a nine-hour operation. He said the 3-year-old animal was finally tranquilised and put in a cage. The forest officer said the leopard would be released into Shivalik range which is its natural habitat. Earlier, as forest officials arrived at the spot to tranquilise leopard but it ran away and hid into an empty plot due to crowd noise. Leopard entered from Dulheda It is said the big cat strayed into the colony from Dulheda village in Modipuram area. The Q Pocket house in which the animal entered got scared and locked themselves in the residence. Trapped through net The forest department team had brought huge nets to nab the animal. Several nets were laid at the entrances of the colony to trap the leopard. Interestingly, the leopard did not attack anyone from the crowd in the colony. The house owner Swapnil said he peeped outside from the window when he heard a noise and spotted a leopard. Later, police reached the spot and told them not to venture outside till the animal is caught.']
+
+
+Leopard----SP.COMMON
+
+leopard----SP.COMMON
+
+leopard----SP.COMMON
+
+Friday----DATE
+
+morning----TIME
+
+big cat----SP.COMMON
+
+Pallav Puram Phase-2 colony----LOC.EXACT
+
+Leopard----SP.COMMON
+
+Dulheda----ROUTE.SRC
+
+forest department----AUTH.SEIZE

@@ -1,0 +1,54 @@
+
+['Gujarat: Six Pakistani fishermen held after 11 boats seized in Harami Nala\nBoats seized by the Border Security Force. Photo: ANI AHMEDABAD: The Border Security Force ( BSF ) on Friday arrested six Pakistani nationals in an ongoing operation against the intrusion of Pakistani fishing boats in the Harami Nala creek area along the Indo-Pak maritime border in Gujarat.The Pakistani nationals were held after the Border Security Force (BSF) seized 11 fishing boats on Thursday.After the seizure of boats, the security agency has launched massive search operations."The intrusion of Pakistani fishing boats and fishermen was detected yesterday in Harami Nalla. Gujarat Frontier and BSF immediately launched a massive search operation in the area spread across 300 sq km. 11 Pakistani fishing boats have been seized so far," said BSF.Earlier, in a statement, the BSF said, "During routine patrolling, BSF personnel release a camera-mounted UAV in the sky to get a bird’s eye view of the area. During one such UAV mission, we found nine fishing boats in Harami Nala. BSF patrol boats quickly reached the spot and seized those boats belonging to fishermen from Pakistan."The Indian fishermen are already barred from entering the creek area in Kutch Inspector General of Gujarat’s BSF frontier, GS Malik has reached Kutch from Gandhinagar to supervise the search operation in the creek area after the recovery of the boats.- With inputs from ANI']
+
+
+Six----SUS.NUMBER
+
+Pakistani----SUS.NAT
+
+11----QTY
+
+boats----ITEM
+
+seized----CRIME.CAT
+
+Harami Nala
+Boats----LOC.EXACT
+
+seized----CRIME.CAT
+
+Border Security Force----AUTH.SEIZE
+
+Border Security Force----AUTH.SEIZE
+
+BSF----AUTH.SEIZE
+
+Friday----DATE
+
+arrested----CRIME.CAT
+
+six----SUS.NUMBER
+
+Pakistani----SUS.NAT
+
+Pakistani fishing boats----SUS.AFFIL
+
+Harami Nala creek area----LOC.EXACT
+
+Gujarat.The----LOC.STATE
+
+Border Security Force (BSF)----AUTH.SEIZE
+
+11----QTY
+
+fishing boats----ITEM
+
+Thursday----DATE
+
+Gujarat Frontier and BSF----AUTH.SEIZE
+
+routine patrolling----DETECTION_METHOD
+
+nine----QTY
+
+Harami Nala----LOC.EXACT

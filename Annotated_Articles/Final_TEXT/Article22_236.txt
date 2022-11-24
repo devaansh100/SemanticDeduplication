@@ -1,0 +1,15 @@
+
+['Leopard caged in Assam’s Golaghat\nPixabay With the help of locals, staff of forest department had caged the leopard which had terrorized in the area in last several days. A forest official said: “14 leopards have been caged in this area so far. Today, one leopard was caged by the forest department with the help of local villagers.” “We suspect that, few more leopards are in the jungle area of Betoni Kakatigaon area. The leopards had killed many cattle, goats in this area. After tranquilizing we will forward the caged leopard to the Centre for Wildlife Rehabilitation and Conservation (CWRC) at Panbari,” the forest official said. (Reporting by Hemanta Kumar Nath)']
+
+
+Leopard----SP.COMMON
+
+caged----CRIME.CAT
+
+Assam----LOC.STATE
+
+Golaghat----LOC.EXACT
+
+forest department----AUTH.SEIZE
+
+forest department----AUTH.SEIZE

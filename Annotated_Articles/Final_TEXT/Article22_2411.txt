@@ -1,0 +1,43 @@
+
+['Assam announces cash rewards for wanted rhino poachers\nThe Assam government on Wednesday announced a cash reward of Rs 5 lakh for providing information leading to the arrest of poachers and recovery of the horn of an adult female rhino that was killed at the Kaziranga National Park and Tiger Reserve about a month ago. Assam’s Special Director General of Police, Law, and Order, G.P. Singh offered a cash reward of Rs 2 lakh each leading to the arrest of three suspected poachers and Rs 5 lakh for providing information facilitating the authority to recover the horn of the killed rhino. The wanted poachers have been identified as Abdul Matin, 36, Ataur Rahman, 35, and Asmat Ali, 35 – all residents of Biswanath district of northeastern Assam. Singh, who is also the chief of the Anti-Rhino Poaching Task Force, also tweeted the announcements and released photographs of the three suspected poachers. The police had on January 29, during an operation shot and injured a fourth person, accused of the poaching of the rhino in the Kohora range of Kaziranga. The park officials said that the carcass of the female rhino, aged around 30 years, was found by the forest staff of the Hilekhonda camp area inside tall elephant grass on January 20 and the horn was missing. According to the wildlife officials, it was the first case of rhino poaching in the state in the current year, and the incident happened days after the Assam government declared 2021 as the year with the least cases (only one) of rhino poaching in 21 years. The Assam Police on January 26 deployed 20 commandos in Kaziranga for providing security in vulnerable areas and conducting special operations to curb poaching. Sniffer dogs were also occasionally deployed to track the poachers. Poaching of rhinos and elephants for their horn and tusk had drastically reduced following a series of steps taken by the Assam Forest Department, including the increase in the number of forest guards. The highest number of rhinos killed in Assam was 27 each in 2013 and 2014. Six were killed in 2017, seven in 2018, three in 2019, and two in 2020. The Assam government last year formed the Anti-Poaching Task Force on rhino poaching in Kaziranga, one of India’s seven UNESCO world heritage sites, which is spread across five districts of Golaghat, Nagaon, Sonitpur, Biswanath, and Karbi Anglong. Assam presently has an estimated population of 2,640 Indian one-horn rhinos.']
+
+
+Assam----LOC.STATE
+
+Assam government----AUTH.SEIZE
+
+Wednesday----DATE
+
+poachers----SUS.AFFIL
+
+horn----ITEM
+
+Special Director General of Police, Law, and Order----OFF.DESIG
+
+G.P. Singh----OFF.NAME
+
+three----SUS.NUMBER
+
+horn----ITEM
+
+Abdul Matin----SUS.NAME
+
+36----SUS.AGE
+
+Ataur Rahman----SUS.NAME
+
+35----SUS.AGE
+
+Asmat Ali----SUS.NAME
+
+35----SUS.AGE
+
+Biswanath----SUS.LOC
+
+carcass----ITEM
+
+forest staff of the Hilekhonda camp area----AUTH.SEIZE
+
+January 20----DATE
+
+horn----ITEM

@@ -1,0 +1,43 @@
+
+['Uttar Pradesh: Three poachers held with 2 palm civet cat carcasses in Dudhwa\nBAREILLY: Three poachers were arrested while trying to sneak out of the Mailani range of Dudhwa Tiger reserve with two carcasses of palm civet cats they had allegedly killed. They were planning to sell the civet skins. The trio has been sent to the district jail in Lakhimpur.Anil Patel, deputy director, Dudhwa (buffer), told TOI, “We have intensified patrolling during monsoon as poachers intrude into the forest area for illegal activities. Our patrol team detected some suspicious activity in Mailani range and caught Laxman, Banwari and Rajaraj with the carcass of two palm civet cats. All three were booked under relevant sections of the Wildlife Protection Act and sent to jail.”Last month, four poachers were arrested with the carcass of a cheetal. All the accused were habitual offenders and arrested in the past as well. But each time, they managed to get bail. But this time, they were slapped with the stringent Gangster Act, said Vijay Dhull, Kheri SSP']
+
+
+Uttar Pradesh----LOC.STATE
+
+Three----SUS.NUMBER
+
+2----QTY
+
+palm civet cat----SP.SPECIFIC
+
+carcasses----ITEM
+
+Dudhwa----LOC.DISTRICT
+
+Three----SUS.NUMBER
+
+Mailani range of Dudhwa Tiger reserve----LOC.EXACT
+
+two----QTY
+
+carcasses----ITEM
+
+palm civet cats----SP.SPECIFIC
+
+killed----CRIME.CAT
+
+sent to the district jail----OUTCOME
+
+Lakhimpur.Anil Patel----OFF.NAME
+
+deputy director, Dudhwa (buffer----AUTH.SEIZE
+
+intensified patrolling----DETECTION_METHOD
+
+Laxman----SUS.NAME
+
+Banwari----SUS.NAME
+
+Rajaraj----SUS.LOC
+
+booked under relevant sections of the Wildlife Protection Act----OUTCOME

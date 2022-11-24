@@ -1,0 +1,9 @@
+
+["Karnataka: Poachers who lit fire to dodge guards nabbed inside forest\nEsha Gupta's pics will scorch up your screens Entertainment"]
+
+
+Karnataka----LOC.STATE
+
+Poachers----SUS.AFFIL
+
+nabbed----CRIME.CAT

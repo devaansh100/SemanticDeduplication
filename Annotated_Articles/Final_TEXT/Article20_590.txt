@@ -1,0 +1,57 @@
+
+['Wildlife trafficking racket busted: Pangolin rescued, one arrested in Cuttack\nCuttack: Amidst increasing cases of poaching, tiger and deer skin smuggling and wildlife trafficking, the Special Task Force (STF) of Odisha Crime Branch busted a wildlife trafficking racket, rescued a pangolin and arrested a smuggler for his involvement Tuesday evening. Amidst increasing cases of poaching, tiger and deer skin smuggling and wildlife trafficking, the Special Task Force (STF) of Odisha Crime Branch busted a wildlife trafficking racket, rescued a pangolin and arrested a smuggler for his involvement Tuesday evening. The cops made the information public Wednesday. The raid was conducted on the road near Biribati Canal Road in Kandarpur under Cuttack district. Fast disappearing pangolin, also known as scaly anteater, is coveted for its scales. In order to save this species from extinction, it has been kept in Schedule I species under Wildlife Protection Act, 1972. The species is also considered as endangered species under the International Union for Conservation of Nature and Natural Resources (IUCN). The accused has been identified as Santosh Kumar Dalai. Acting on a tip-off about a deal to sell a live pangolin, STF officials conducted a raid and arrested the accused of Gumutipur village in Dhiasahi of Jagatsinghpur district besides rescuing the animal and other recovering other incriminating materials from his possession. Santosh was arrested as he could not produce any valid document in support of possession of the live pangolin and was later produced before the Sub-Divisional Judicial Magistrate (SDJM) court here Wednesday. A case has been registered at STF police station under Sections 379 and 411 of the IPC R/W 51 of Wild Life (Protection) Act, 1972. was registered. The pangolin will be handed over to the authorities of Nandankanan Zoo authorities, said an official. Further investigation in this connection is underway, he added.']
+
+
+Pangolin----SP.COMMON
+
+one----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+Cuttack----LOC.DISTRICT
+
+poaching----CRIME.CAT
+
+Special Task Force (STF)----AUTH.SEIZE
+
+wildlife trafficking racket----SUS.AFFIL
+
+a----QTY
+
+pangolin----SP.COMMON
+
+arrested----CRIME.CAT
+
+a----SUS.NUMBER
+
+smuggler----SUS.AFFIL
+
+Tuesday----DATE
+
+evening----TIME
+
+poaching----CRIME.CAT
+
+Special Task Force (STF) of Odisha Crime Branch----AUTH.SEIZE
+
+a----QTY
+
+pangolin----SP.COMMON
+
+arrested----CRIME.CAT
+
+a----SUS.NUMBER
+
+Tuesday----DATE
+
+evening----TIME
+
+Santosh Kumar Dalai----SUS.NAME
+
+tip-off----DETECTION_METHOD
+
+pangolin----SP.COMMON
+
+STF----AUTH.SEIZE
+
+Gumutipur village----SUS.LOC

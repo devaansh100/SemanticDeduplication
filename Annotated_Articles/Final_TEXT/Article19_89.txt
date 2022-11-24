@@ -1,0 +1,111 @@
+
+['Huge haul of animal skins, horns in Kothagudem\nKothagudem: The Forest and Police departments, in a joint operation, arrested 13 persons of Gutti Koya community and seized animal skins, horns and other material besides the tools used for hunting and poaching the animals from their possession. The officials jointly conducted raids in Chintalapadu and Chalamannagar villages under the Mulkalapally mandal in the district on Tuesday. Addressing the media in his office after the raids, District Forest Officer Sivala Rambabu said the team consisting over 100 Forest and Police department officials have participated in the raids and seized the animal skins and other material. He informed that the search was carried out from 9 am to 11 am during which they seized seven deer skins, three horns, 28 antlers of spotted deer, two horns of white buffalo, two spines of porcupines besides two traps, 32 snares, 65 bows, 112 arrows, 20 spades, 40 axes and 60 sickles. He said the arrested Gutti Koyas were booked under Section 51 read with 2(16), 9, 39, 50 of Wildlife Protection Act,1972, and under Section 58 read with Section 2 of Biodiversity Act, 2002. They all would be produced before 1st Class Magistrate, Kothagudem, he said. Forest Divisional Officer Sujatha, Forest Range Officers of Yanambile, Chatakonda, Palvoncha, Aswaraopeta, Dammapeta and Kothagudem, task force team and protection watchers, Palvoncha Circle Inspector Ramesh, Mulkalapally SI and constables were part of the raid team.']
+
+
+skins----ITEM
+
+horns----ITEM
+
+Kothagudem----LOC.EXACT
+
+Forest and----AUTH.SEIZE
+
+Police departments----AUTH.SEIZE
+
+arrested----CRIME.CAT
+
+13----SUS.NUMBER
+
+Gutti Koya community----SUS.LOC
+
+skins----ITEM
+
+horns----ITEM
+
+raids----DETECTION_METHOD
+
+Chintalapadu----LOC.EXACT
+
+Chalamannagar----LOC.EXACT
+
+Tuesday----DATE
+
+District Forest Officer----OFF.DESIG
+
+Sivala Rambabu----OFF.NAME
+
+Forest and Police department officials----AUTH.SEIZE
+
+seven----QTY
+
+deer----SP.COMMON
+
+skins----ITEM
+
+three----QTY
+
+horns----ITEM
+
+28----QTY
+
+antlers----ITEM
+
+spotted deer----SP.SPECIFIC
+
+two----QTY
+
+horns----ITEM
+
+white buffalo----SP.SPECIFIC
+
+two----QTY
+
+spines----ITEM
+
+porcupines----SP.COMMON
+
+two----QTY
+
+traps----ITEM
+
+32----QTY
+
+snares----ITEM
+
+65----QTY
+
+bows----ITEM
+
+112----QTY
+
+arrows----ITEM
+
+20----QTY
+
+spades----ITEM
+
+40----QTY
+
+axes----ITEM
+
+60----QTY
+
+sickles----ITEM
+
+Gutti Koyas----SUS.NAME
+
+booked under Section 51 read with 2(16), 9, 39, 50 of Wildlife Protection Act,1972, and under Section 58 read with Section 2 of Biodiversity Act, 2002----OUTCOME
+
+Forest Divisional Officer----OFF.DESIG
+
+Sujatha----OFF.NAME
+
+Forest Range Officers----OFF.DESIG
+
+Circle Inspector----OFF.DESIG
+
+Ramesh, Mulkalapally----OFF.NAME
+
+SI----OFF.DESIG
+
+constables----OFF.DESIG

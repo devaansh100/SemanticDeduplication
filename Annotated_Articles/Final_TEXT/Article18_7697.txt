@@ -1,0 +1,45 @@
+
+['Accused unties violent pet dogs at cops, incident in Kochi\nKOCHI: An accused escaped after letting loose his five violent pet dogs against the police officers who came to arrest him for attacking a young couple. The police officers were injured while trying to escape from the dogs’ attack. None of them were bitten. The accused has been identified as Vishal, a resident of Thammanam AKG Colony. Four others were arrested for helping the man escape and obstructing the police. Ajeesh (37) of Aroor Chittayil house, AKG colony residents Vyshakh (21) of Chaithrathil house, Manish (29) and Yesudas (21) of Chandanaparambil house were those arrested. The incident took place at AKG Colony on Wednesday evening. On Tuesday morning, Vishal had attacked two Thammanam residents, Altaf and his wife, while they were on their way to a shop. Altaf was brutally beaten and his wife, who tried to stop him, was also beaten. Vishal threw away their mobile phones as well. The couple sought hospital treatment and later lodged a complaint at the Palarivattom police station. Vishal seeing the police untied three Rottweilers and two Dobermann dogs and then escaped from the spot. The police officers got injured while trying to escape from the dog. Vishal is involved in drug deals, said the police. The Palarivattom police have lodged a complaint with the Kochi Corporation, seeking action against Vishal for breeding dogs as a nuisance to the locals.']
+
+
+pet dogs----SP.COMMON
+
+Kochi----LOC.CITY
+
+five----QTY
+
+Vishal----SUS.NAME
+
+Thammanam AKG Colony----SUS.LOC
+
+Ajeesh----SUS.NAME
+
+37----SUS.AGE
+
+Aroor Chittayil house----SUS.LOC
+
+Vyshakh----SUS.NAME
+
+21----SUS.AGE
+
+Chaithrathil house----SUS.LOC
+
+Manish----SUS.NAME
+
+29----SUS.AGE
+
+Yesudas----SUS.NAME
+
+21----SUS.AGE
+
+Chandanaparambil house----SUS.LOC
+
+AKG Colony----LOC.EXACT
+
+Wednesday----DATE
+
+evening----TIME
+
+Tuesday----DATE
+
+morning----TIME

@@ -1,0 +1,27 @@
+
+['Odisha: Elderly woman trampled to death by elephant; Tusker returns back to attack corpse at her funeral\nRepresentational Image Photo : iStock Odisha : Maya Murmu (68), left her house on June 11th to fetch water from a nearby area when she encountered a herd of elephants. When she tried to flee the scene, a Maya Murmu (68), left her house on June 11th to fetch water from a nearby area when she encountered a herd of elephants. When she tried to flee the scene, a tusker then proceeded to chase and trampled her. Villagers reached the area and rushed her to PRM Medical College and Hospital in Baripada, however she died on the way. Following the post-mortem, the body was taken back to the village for her funeral. When the body was being taken to the cremation ground for her funeral, the herd of elephants entered the village again. The Tusker then proceeded to attack the dead body of the woman causing villagers to run from the scene. The pachyderms then proceeded to attack her house in the village before returning to the forest. Villagers were terrified to conduct the funeral amidst the threat of the herd returning to attack her. A villager told sources that they have never seen such a ferocious herd of elephants in the area before. Post the elephants returning to the forest, the villagers finally mustered the courage to conduct her final rites early on Friday morning. Rabi Narayan Mohanty, Assistant Conservator of Forests (ACF) told the Times of India that, ‘We have taken steps to provide compensation of Rs 4 lakh to the next of kin of the deceased. Initially, we will release Rs. 10,000 for funeral and related costs. After the family members apply for house damage assistance, we will start the reimbursement process for that”. According to a report in DownToEarth, in 1979, there were 2,044 elephants in Odisha and they ranged across Dhenkanal, Deogarh, Mayurbhanj , Keonjhar, Sambalpur, Angul, Sundargarh and Cuttack,” he said. Today, elephants in Odisha number 1,976 according to the 2017 census. Decreased habitats and development have led to wild animals leaving their homes in search of food and shelter, increasing the chances of Human-Wildlife conflict.']
+
+
+woman----SUS.GENDER
+
+elephant----SP.COMMON
+
+Maya Murmu----SUS.NAME
+
+68----SUS.AGE
+
+June 11th----DATE
+
+elephants----SP.COMMON
+
+Maya Murmu----SUS.NAME
+
+68----SUS.AGE
+
+June 11th----DATE
+
+elephants----SP.COMMON
+
+Friday----DATE
+
+morning----TIME

@@ -1,0 +1,57 @@
+
+['Assam Rifles seizes exotic reptiles in Mizoram\nAssam Rifles troopers on Thursday recovered 29 leopard tortoises, 38 red-footed tortoises, 17 yellow, orange, green iguana, three bearded dragons, three albino iguana, exotic seeds and fertilizer in the general area of Friendship Bridge along the Tyao River in Mizoram on Thursday, sources said. The operation was carried out by a joint team of Assam Rifles and Customs Department based on specific information, AR said in a statement. One person was apprehended in connection with the seizures. The accused along with the seized illegal items was handed over to Customs Department for further legal proceedings, the statement said. Ongoing smuggling of wildlife is a major cause of concern for the state of Mizoram. Assam Rifles, rightly christened as the ‘Sentinels of Northeast’ have been successful in launching such operations against the Wildlife Trafficking activities in Mizoram.']
+
+
+Assam Rifles----AUTH.SEIZE
+
+seizes----CRIME.CAT
+
+reptiles----SP.COMMON
+
+Mizoram----LOC.STATE
+
+Assam Rifles----AUTH.SEIZE
+
+Thursday----DATE
+
+29----QTY
+
+leopard tortoises----SP.SPECIFIC
+
+38----QTY
+
+red-footed tortoises----SP.SPECIFIC
+
+17----QTY
+
+iguana----SP.COMMON
+
+three----QTY
+
+bearded dragons----SP.SPECIFIC
+
+three----QTY
+
+albino----SP.SPECIFIC
+
+iguana----SP.COMMON
+
+seeds----ITEM
+
+fertilizer----ITEM
+
+Friendship Bridge----LOC.EXACT
+
+Mizoram----LOC.STATE
+
+Thursday----DATE
+
+Assam Rifles----AUTH.SEIZE
+
+Customs Department----AUTH.SEIZE
+
+specific information----DETECTION_METHOD
+
+One----SUS.NUMBER
+
+The accused along with the seized illegal items was handed over to Customs Department for further legal proceedings----OUTCOME

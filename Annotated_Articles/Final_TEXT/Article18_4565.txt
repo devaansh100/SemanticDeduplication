@@ -1,0 +1,31 @@
+
+['Teenage boy mauled to death in animal attack in MP’s Sanjay Tiger Reserve\nSidhi (MP), Apr 4 (PTI) A 14-year-old boy was mauled to death by an unidentified wild animal in the Sanjay Tiger Reserve (STR) in Madhya Pradesh’s Sidhi district, forest officials said on Monday. The villagers claimed that the boy was killed in the attack by a tiger but forest officials said that the animal involved in the attack is yet to be identified. The incident occurred in Baghdhara village under the Vastua range of the STR on Sunday, forest ranger Mahavir Pandey said. The blood-stained body of the victim with big wounds on the neck and back caused by an animal attack was found near the Kodmar river where he had gone to graze cattle. PTI COR ADU NSK NSK This report is auto-generated from PTI news service. ThePrint holds no responsibility for its content.']
+
+
+Teenage boy mauled to death in----SUS.AGE
+
+MP’s----LOC.STATE
+
+Sanjay Tiger Reserve----LOC.EXACT
+
+14-year-old----SUS.AGE
+
+boy----SUS.GENDER
+
+mauled to death----CRIME.CAT
+
+wild animal----SP.COMMON
+
+Sanjay Tiger Reserve (STR----LOC.EXACT
+
+Madhya Pradesh’s----LOC.STATE
+
+Sidhi district----LOC.DISTRICT
+
+tiger----SP.COMMON
+
+Baghdhara village----LOC.EXACT
+
+Sunday----DATE
+
+Kodmar river----LOC.EXACT

@@ -1,0 +1,13 @@
+
+['Man kisses King Cobra on its head; watch video to know what happened next\nAdvertisement New Delhi: There is no dearth of adventures videos on the Internet. Every day, we see different viral videos on the internet. In the latest video, a man is going viral for trying to kiss a King Cobra on his head from its back. The man who performed the dangerous stunt is Brian Barczyk. He is famous as an expert on wildlife from Michigan. The video was shared by Baczyk on April 12 on Instagram. The video starts with Barczyk sitting on his knee and preparing for kissing the Cobra. In his first attempt, he managed to kiss the Cobra but it reacted to defend itself from the expert. In the next frame, Barczyk again performs the same act, and this time the Cobra does not react. In the second attempt, he performed the stunt very efficiently. Sharing the video of the dangerous act, Barczyk recommended everyone not doing it. He added he would definitely do it again. The caption of the video read, ”Something I definitely don’t recommend anyone to do but something I would definitely do again.” The video has so far received over 15,000 likes on Instagram. Check the post: View this post on Instagram A post shared by B R I A N B A R C Z Y K (@snakebytestv) Notably, Barczyk also owns an Instagram page known as ”Snakebytesv”. One can easily understand his love for animals. However, he also loves to educate people about animals, especially reptiles. Check details about King Cobra King Cobra is a very poisonous snake and it is also considered to be the most venomous snake in the world. Its maximum length could be 5.85 metres. This is why it is also famous as the longest snake among venomous snakes.']
+
+
+King----SP.SPECIFIC
+
+Cobra----SP.COMMON
+
+King Cobra----SP.COMMON
+
+Brian Barczyk----SUS.NAME
+
+April 12----DATE

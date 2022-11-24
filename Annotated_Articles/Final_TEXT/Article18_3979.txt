@@ -1,0 +1,13 @@
+
+['Lucknow Zoo: Latest News, Videos and Photos of Lucknow Zoo\nlucknow zoo welcomes 3 zebras from Israel in its fold TNN / Nov 26, 2021, 04:58 (IST) The zebra enclosure in zoo, lying vacant for the past six years, became vibrant on Thursday with three residents. The Grant’s zebras, the most commonly found in the world, have travelled about 5,000km from Israel to reach here. Their enclosure has been cleaned and sanitized and the inmates will be in quarantine for 15 days. Their transportation has cost almost Rs 1 crore.']
+
+
+Lucknow Zoo----LOC.EXACT
+
+3----QTY
+
+zebras----SP.COMMON
+
+Thursday----DATE
+
+Rs 1 crore----VALUE

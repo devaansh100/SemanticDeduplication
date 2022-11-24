@@ -1,0 +1,33 @@
+
+['Odisha forest officials baffled by three leopard deaths in less than a month\nFragmentation of forests by humans causes leopards to stray into settlements where they fall prey to poachers: experts The deaths of three leopards in less than a month have left forest department officials in Odisha baffled. Experts blame anthropogenic pressure for the deaths. The state forest department has been caught unawares as leopards have fallen in quick succession: February 9 - The carcass of a six-feet-long female leopard was found in Kanloi forest of Chandipada forest range in Angul district February 5 - a female leopard stepped into a poacher’s trap in Badmal range, Bolangir district, and died January 16 - the caracass of a six-feet-long male leopard was found floating in the Rengali reservoir in Khamara forest, Angul. Prima facie, the most recent death looks like a case of poisoning. The exact cause will be known after an autopsy, Chandipada forest range officer Durga Charan Sahoo, said about the February 9 death. The incident has brought back questions regarding security. The lack of proper patrolling by forest guards is the primary reason behind the deaths, said Biswajit Mohanty, secretary of the Wildlife Society of Odisha. The carcass of a translocated three-year-old tiger was found on the Hindol-Narsinghpur border of the Satkosia Tiger Reserve in Anugul on November 14, 2018, he added. Traps laid by poachers were to be blamed in that case too. “We are baffled by the fact that three carcasses of leopards have been found in the state within a month. Forest officials are investigating all the cases. This is poaching and is punishable under the Wild Life Protection Act, 1972, by up to five years in prison,” said Sandeep Tripathy, the Principal Chief Conservator of Forests (Wildlife), Odisha. Increased pressure Wildlife experts have a reason for the deaths. Leopards are under increasing pressure as their forest habitat shrinks. Among all wildlife, leopards tend to miss the forest track the most often and stray into bewildering situations. They stray out of the forests because of fire set on purpose by humans or while following the scent of dogs used by people who enter forests. Leopards also follow the tracks of goats and calves returning to villages after grazing in the forest. Whatever the reason, the fate of such leopards stranded within or close to human habitations is usually not happy, Lala Aswini Kumar Singh, a former wildlife researcher of the Odisha forest department, said. Forest areas formerly occupied by both tigers and leopards now contain only leopards, perhaps because the suitability and size of tiger habitats is gradually reducing due to an increase in various types of human interference; the leopard is surviving because of adaptability and versatility, Singh, who has worked in the Similipal Tiger Reserve, added. But this adaptatbility comes at a cost. “Among the serious threats facing the leopard are from the active hide-hunters, the edge effect, and the lack of space. The edge effect is appearing due to increasing trend of habitat fragmentation. The lack of space for the leopard is because of expanding human activities for agriculture and various forms of forest-based sustenance. "These conditions have reduced the gap in man-leopard interface. Offenders are said to be taking advantage of the leopard\'s feeding habits and making them easy victims for trapping outside Protected Areas,” added Singh. SUPPORT US We are a voice to you; you have been a support to us. Together we build journalism that is independent, credible and fearless. You can further help us by making a donation. This will mean a lot for our ability to bring you news, perspectives and analysis from the ground so that we can make change together. India Environment Portal Resources :']
+
+
+Odisha forest officials----AUTH.SEIZE
+
+three----QTY
+
+leopard----SP.COMMON
+
+leopards----SP.COMMON
+
+forest department----AUTH.SEIZE
+
+Odisha----LOC.STATE
+
+February 9----DATE
+
+carcass----ITEM
+
+female leopard----SP.COMMON
+
+Kanloi forest of Chandipada forest range----LOC.EXACT
+
+Angul district----LOC.DISTRICT
+
+February 5----DATE
+
+January 16----DATE
+
+caracass----ITEM
+
+poisoning----CRIME.CAT

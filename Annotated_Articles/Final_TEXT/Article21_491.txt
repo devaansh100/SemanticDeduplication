@@ -1,0 +1,51 @@
+
+['Pangolin scales seized in Bokajan, two detained\nGuwahati, July 18 (NKTV): Based on some reliable intelligence input a joint search and raid operation has been conducted on Sunday by Wildlife Crime Control Bureau Govt of India, Guwahati, Assam Police Bokajan area. During the operation the joint team seized dry pangolin scale- 12.33kgs, Live tokay Gecko-13 Nos, Dry tokay Gecko- 02 nos under a vehicle bearing no.NL- 06- 3175 at Bokajan market , from the possession of two person namely Khoto Rhakho, and Ilughue Kuame. They Brought the said wildlife contraband from Dimapur. The whole operation is lead by Jawaharlal Baro, Assistant Director WCCB Guwahati. A case has been registered at range forest office, Bokajan, Karbianlong, under wildlife( protection) act 1972. It is also mentioned that one of the accused namely Khoto Rakho is working at Indian Reserve Battalion. Further investigation is going on.']
+
+
+Pangolin----SP.COMMON
+
+scales----ITEM
+
+seized----CRIME.CAT
+
+Bokajan----LOC.DISTRICT
+
+two----SUS.NUMBER
+
+detained----CRIME.CAT
+
+joint search and raid operation----DETECTION_METHOD
+
+Sunday----DATE
+
+Wildlife Crime Control Bureau Govt of India----AUTH.SEIZE
+
+Assam Police Bokajan area----AUTH.SEIZE
+
+seized----CRIME.CAT
+
+pangolin----SP.COMMON
+
+12.33kgs,----QTY
+
+tokay Gecko-13----SP.COMMON
+
+tokay Gecko-----SP.COMMON
+
+02 nos----QTY
+
+Bokajan market----LOC.EXACT
+
+two----SUS.NUMBER
+
+Khoto Rhakho----SUS.NAME
+
+Ilughue Kuame----SUS.NAME
+
+Dimapur----ROUTE.SRC
+
+Jawaharlal Baro----OFF.NAME
+
+Assistant Director WCCB Guwahati----AUTH.SEIZE
+
+case has been registered at range forest office, Bokajan, Karbianlong, under wildlife( protection) act 1972----OUTCOME

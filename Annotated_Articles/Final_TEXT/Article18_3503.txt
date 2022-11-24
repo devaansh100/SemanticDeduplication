@@ -1,0 +1,29 @@
+
+['Wild cat kills woman sleeping in front yard near Sindewahi\nChandrapur: A predator entered village Chikmara in Sindewahi range and killed a woman sleeping in the front yard of her house late on Wednesday night. This is the third incident of human kill in Sindewahi range in the last 10 days.Sources said a wild cat entered village Chikmara located on the outskirts of the forest under Tambegadi Mendha late in the night. The beast first attacked a cow tethered in the front yard of the house, but the animal managed to escape the attack. The feline then attacked and killed Tulsabai Pendam, who was sleeping nearby in the front yard of the house.The family members heard the noise of the feline dragging the woman away towards the jungle and rushed to her rescue. The startled beast left the dead body and fled into the jungle. It is, however, not clear whether it was a tiger or a leopard responsible for the attack.Leopard attacks have increased in Sindewahi range over the month. Guardian minister Vijay Wadettiwar himself held a meeting over rising predator attacks in Sindewahi and directed MSEDCL to stop load shedding in conflict areas during the night.Earlier, a leopard had entered the village and killed a person in village Saradpar in the same forest range on April 19. Forest department has issued alert in the area and installed camera traps to identify the feline responsible for the attack. Officials have given ex-gratia aid to the kin of the victim.Predators have killed a total of 10 people in separate incidents in the district this year so far. They include six human kills by tigers and three by leopards, while the forest department is yet to attribute the latest kill to any feline. Predators had killed 39 people in district last year.']
+
+
+Wild cat----SP.COMMON
+
+kills----CRIME.CAT
+
+woman----SUS.GENDER
+
+Chikmara----LOC.EXACT
+
+woman----SUS.GENDER
+
+Wednesday----DATE
+
+night----TIME
+
+wild cat----SP.COMMON
+
+night----TIME
+
+Tulsabai Pendam----SUS.NAME
+
+tiger----SP.COMMON
+
+leopard----SP.COMMON
+
+issued alert----DETECTION_METHOD

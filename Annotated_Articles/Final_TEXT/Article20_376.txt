@@ -1,0 +1,37 @@
+
+['Sea cucumber worth ₹32 lakh found buried in Lakshadweep\nAuthorities have recovered a fresh consignment of 41 dead sea cucumbers (taxidermied), the protected marine invertebrates farmed as delicacies, and for traditional medicine across South East Asia, worth ₹32 lakh from Lakshadweep’s Agatti Island. Also read: 51.5kg sea cucumbers worth ₹1 crore seized in Lakshadweep Sea cucumbers are listed under Schedule I of the Wildlife Protection Act that provides them absolute protection and their commercial use is banned. Lakshadweep’s chief wildlife warden, Damodhar AT, said the sea cucumbers recovered on Thursday were killed, processed, and kept in preservatives for transportation to countries like China. He added a case has been registered and further investigation was underway to nab the culprits involved in the illegal activity. On August 13, another consignment of 54 sea cucumbers weighing 51.5 kg and worth ₹1 crore was seized near Agatti Airport. These cases have emerged as the Central Bureau of Investigation (CBI) has taken over all major sea cucumber poaching cases in Lakshadweep. “Unfortunately, due to the Covid-19 pandemic and restrictions on air travel, a CBI team which was supposed to visit Lakshadweep by March 28 is now expected to arrive next week. They will be kept under mandatory quarantine for seven days following which their on-field investigation will commence,” said Damodhar. Forest officials said in both cases sea cucumbers were being stored in plastic containers using preservatives and were buried at select locations either near the airport or jetty areas for swift transportation through international waters. Damodhar said the illegal trade normally ceases during the monsoon but this is the first time they have recovered such consignments even during heavy rains. “Regrettably, plastic containers given to the fishing community for fish preservation are being used for this illegal activity, and sand helps store these marine products better. We have sent samples of the chemical powder [imported from Sri Lanka and used as preservatives] to the Central Marine Fisheries Research Institute (CMFRI), Kochi...[for testing],” said Damodar. Officials said sea cucumbers are usually sent to Kochi, Mumbai, Bengaluru, from where they are transported to countries like China via Sri Lanka. “At selected locations in the southern Indian Ocean, large consignments [six to 10 tons] are packed together in watertight material and dropped in international waters,” said Damodhar. He added smugglers keep a track of the material through the global positioning system. “Divers from large ships collect these shipments from these locations, and funds are simultaneously transferred through illegal web networks,” said Damodhar. In February, the largest global seizure so far of 1,716 sea cucumbers weighing 852 kg worth ₹4.26 crore was recovered from Suheli, a remote uninhabited island around 60 km from Kavaratti, Lakshadweep’s capital. The fresh consignment of sea cucumbers was discovered buried in plastic bags under sand on Thursday during a beach clean up drive. “Education and awareness is key to banning plastics and one of the measures to address this illegal trade in Lakshadweep islands,” said Elsie Gabriel, national coordinator, Oceans Climate Reality Project. SHARE THIS ARTICLE ON']
+
+
+Sea cucumber----SP.SPECIFIC
+
+Lakshadweep----LOC.STATE
+
+41----QTY
+
+sea cucumbers----SP.SPECIFIC
+
+Agatti Island----LOC.EXACT
+
+51.5kg----QTY
+
+sea cucumbers----SP.COMMON
+
+Thursday----DATE
+
+case has been registered----OUTCOME
+
+51.5 kg----QTY
+
+plastic containers----CONCEALMENT_METHOD
+
+buried at select locations either near the airport or jetty areas----CONCEALMENT_METHOD
+
+samples of the----OUTCOME
+
+chemical powder [imported from Sri Lanka and used as preservatives] to the----OUTCOME
+
+Central Marine Fisheries Research Institute----AUTH.MISC
+
+plastic bags under sand----CONCEALMENT_METHOD
+
+Thursday----DATE

@@ -1,0 +1,73 @@
+
+['Leopard skins seized, Tibba man arrested\nLudhiana: In a joint operation, the Centre’s Wildlife Crime Control Bureau and Ludhiana’s forest and wildlife department and Ludhiana police arrested a man for allegedly smuggling leopard skin in Tibba area here on Tuesday.The teams seized three leopard skins from his possession.Initial probe suggests that the accused, identified as Sanjeev Kumar of Prem Vihar, Tibba, was smuggling leopard skin from Jammu and Kashmir to Punjab.Ludhiana range officer (wildlife) Shaminder Singh said, “It was a tip-off of Wildlife Crime Control Bureau, following which a trap was laid by the local officials of wildlife department and police. We managed to nab the accused and also seized three leopard skins from his house, which he had packed properly and which were ready to be smuggled further.”Shaminder said as per information, the accused had been smuggling leopard skin for long in Punjab. He added an FIR had been registered against him at Tibba police station.The accused will be presented in court on Wednesday. The authorities are expected to request the court for his police custody, so they could get more information from him about the racket. Inspector Pardeep Kumar of WCCB also reached the city for the operation.']
+
+
+Leopard----SP.COMMON
+
+skins----ITEM
+
+seized----CRIME.CAT
+
+Tibba----LOC.EXACT
+
+man----SUS.GENDER
+
+arrested----CRIME.CAT
+
+Wildlife Crime Control Bureau----AUTH.SEIZE
+
+Ludhiana’s----AUTH.SEIZE
+
+forest and wildlife department----AUTH.SEIZE
+
+Ludhiana police----AUTH.SEIZE
+
+a----SUS.NUMBER
+
+man----SUS.GENDER
+
+leopard----SP.COMMON
+
+skin----ITEM
+
+Tibba area----LOC.EXACT
+
+Tuesday.The----DATE
+
+three----QTY
+
+leopard----SP.COMMON
+
+skins----ITEM
+
+Sanjeev Kumar----SUS.NAME
+
+Prem Vihar----SUS.LOC
+
+Tibba----SUS.LOC
+
+leopard----SP.COMMON
+
+skin----ITEM
+
+Jammu and Kashmir----ROUTE.SRC
+
+Punjab.Ludhiana range officer (wildlife)----ROUTE.DEST
+
+tip-off----DETECTION_METHOD
+
+Wildlife Crime Control Bureau----AUTH.SEIZE
+
+police----AUTH.SEIZE
+
+three----QTY
+
+leopard----SP.COMMON
+
+skins----ITEM
+
+Inspector----OFF.DESIG
+
+Pardeep Kumar----OFF.NAME
+
+WCCB----AUTH.SEIZE

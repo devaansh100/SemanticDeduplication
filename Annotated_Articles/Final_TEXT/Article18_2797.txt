@@ -1,0 +1,21 @@
+
+['B.C. wildlife: Forestry worker films moose chasing black bear away from her calves\nA man from BC witnessed a lot of conversation between a moose, its calves and a black bear in the Okanagan earlier this week. – Advertisement – Prince George’s Ethan Fell told Granthshala News he was traveling on Smyth Road near Mabel Lake when he saw a bear chasing three moose. Fell, who works for a forestry company, caught hold of his phone conversation. advertisement In the video, a calf fell, causing the black bear to suddenly rush towards it. – Advertisement – The calf’s mother quickly turned and accused the bear, and the much younger Bruin fled the scene. trending stories Parliament Hill reopens, police say no threat to public safety Uvalde shooting survivor, 11, nearly suffered a heart attack at friend’s memorial “After Moose chased the bear, it ran into the bush 10 feet and was quite there when the video stopped,” Fell said. “Mother and the calf got out of the way and went back to the bush.” Fell said he pulled the truck up in front of the bear, and “looked like he wanted to chase. My coworker rolled up his window and started yelling at him, like, ‘Hey, hey you!’ To scare it.” “We pulled the truck in front of the bear. It seemed that he wanted to continue the chase. Fell says he’s seen a lot of wildlife while working in the forestry field, but has never had an encounter like this.']
+
+
+moose----SP.COMMON
+
+black bear----SP.COMMON
+
+BC----LOC.STATE
+
+moose----SP.COMMON
+
+Okanagan----LOC.DISTRICT
+
+Prince----SUS.LOC
+
+Ethan Fell----OFF.NAME
+
+Smyth Road near Mabel Lake----LOC.EXACT
+
+moose----SP.COMMON

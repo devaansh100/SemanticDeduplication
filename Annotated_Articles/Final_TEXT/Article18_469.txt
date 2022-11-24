@@ -1,0 +1,67 @@
+
+['Assam Police arrests one from Arunachal for rhino poaching\nGuwahati: A man wanted for rhino poaching was arrested by the Sadiya Police from Roing in Arunachal Pradesh. The accused person was termed as absconding by the police and was arrested by the police based on specific inputs. Also Read: Assam: Oil theft racket busted in Chabua Sadiya Police following the arrest wrote on Twitter, “In a classic example of inter-district cooperation a team led by Dy SP (HQ), Bivash Das, APS and OC, Sadiya PS arrested an absconded rhino poacher from Roing, Arunachal Pradesh from the lead provided by him, Darrang Police recovered one suspected rhino horn.” In a classic example of inter-district cooperation a team led by Dy. SP (HQ), Shri Bivash Das, APS and OC, Sadiya PS arrested an absconded rhino poacher from Roing, Arunachal Pradesh from the lead provided by him, Darrang Police recovered one suspected rhino horn.@assampolice pic.twitter.com/nOx56YOXqQ — Sadiya Police (@SadiyaPolice) June 4, 2022 Another suspected poacher was arrested by the Darrang Police and as sources, he was connected to the one arrested in Arunachal. Also Read: I will see you soon in Guwahati: Himanta Biswa Sarma to Manish Sisodia The police based on inputs recovered a rhino horn weighing about two kilograms. They were supposed to sell the horn soon but were arrested before execution.']
+
+
+Assam Police----AUTH.SEIZE
+
+arrests----CRIME.CAT
+
+one----SUS.NUMBER
+
+Arunachal----LOC.STATE
+
+poaching----CRIME.CAT
+
+A----SUS.NUMBER
+
+man----SUS.GENDER
+
+arrested----CRIME.CAT
+
+Sadiya Police----AUTH.SEIZE
+
+Roing----LOC.EXACT
+
+specific inputs----DETECTION_METHOD
+
+Dy SP----OFF.DESIG
+
+HQ----OFF.DESIG
+
+Bivash Das----OFF.NAME
+
+APS----OFF.DESIG
+
+OC----OFF.DESIG
+
+Sadiya PS----OFF.NAME
+
+Roing----LOC.EXACT
+
+one----QTY
+
+rhino----SP.COMMON
+
+horn----ITEM
+
+Dy. SP----OFF.DESIG
+
+HQ----OFF.DESIG
+
+Shri Bivash Das----OFF.NAME
+
+APS----OFF.DESIG
+
+OC----OFF.DESIG
+
+, Sadiya PS----OFF.NAME
+
+Roing----LOC.EXACT
+
+a----QTY
+
+rhino----SP.COMMON
+
+horn----ITEM
+
+two kilograms----QTY

@@ -1,0 +1,39 @@
+
+['Gujarat: Endangered Gir lion dies after falling in a trap in Amreli, two detained\nThe place of incident is around 17 km east of Dhari, the headquarters of Gir (east) forest division. “One person is being questioned in connection with the death of the lion,” sources in the forest department said. (Representational Image) An Asiatic lion died allegedly after falling in a trap laid on an agricultural farm in revenue area of Sarasiya range in Gir (east) forest division in Amreli district on Friday. Later in the evening, forest officers said they were treating the incident as a case of lion hunting and that two persons who were working on that farm were detained for questioning. Forest officers said a sub-adult male Asiatic lion was found dead on an agricultural farm lying between Chalala and Mithapur villages in Dhari taluka of Amreli district. The revenue area falls in Sarasiya range of Gir (east) forest division. Officers further said that the farm belonged to one Valjibhai Donga of Mithapur. ALSO READ | Gujarat: 413 lions died in 5 years, 35% from illness “The animal died due to snair trapped into (its) neck region. The snair was made of iron and looks like a clutch wire,” Dushyant Vasavada, chief conservator of forests (CCF) of Junagadh wildlife circle said. After the carnivore was found dead, forest department scanned the area. Later in the evening, Vasavada said they had detained two persons identified as Vijay Agrodiya (25) and Jagu Waghela (32), residents of Chalala village. “They have been detained in connection with the death of the lion. We are questioning them. But prima facie, this is a case of hunting,” the CCF told The Indian Express, adding they were in the process of registering an FIR in this connection. Gir (east) forest division is part of Junagadh wildlife circle. PG Gardi, deputy conservator of forests (DCF) of Gir (east) said Agrodiya and Waghela were working on the agricultural farm. “We are questioning them as to who had laid the trap and what was the motive,” said Gardi. The place of incident is around 17 km east of Dhari, the headquarters of Gir (east) forest division. Advertisement Sarasiya is the range where more than two dozen Asiatic lions had died following an outbreak of canine distemper virus a year ago. Sarasiya is one the biggest ranges in Gir forest, the last natural abode of Asiatic lions. The range is a mixture of forest and agro-pastoral land. Asiatic lions, whom the International Union for Conservation of Nation has categorised as an endangered species, have been included in Schedule-I of the Wildlife (Protection) Act, 1972 and thus enjoy the highest legal protection in the country. Hunting of lion can attract imprisonment up to seven years and monetary fine not less than Rs10,000. Asiatic lion population was estimated to be 523 in year 2015 and the next lion census is due in less than eight months. Gir forest and other protected areas spread across Amreli, Junagadh, Gir Somnath and Bhavnagar districts in Saurasthra region for the last natural habitat of the big cats. The Gir National Park and Sanctuary, which also covers the Gir (east) division, is a highly protected forest area and hunting or poaching of Asiatic lions has been extremely rare since the area was declared a sanctuary in 1965. The only major poaching incident in the history of the sanctuary was recorded in year 2007. However, some Asiatic lions do get killed ocasionally after coming in contact with steel wires that farmers erect round their agricultural fields and then connect them to an electric source to prevent wild animals from raiding their standing crops. In such incidents, forest department takes action against farmers.']
+
+
+Gir lion----SP.SPECIFIC
+
+Amreli----LOC.CITY
+
+two----SUS.NUMBER
+
+Asiatic lion----SP.SPECIFIC
+
+Amreli----LOC.DISTRICT
+
+Friday----DATE
+
+hunting----CRIME.CAT
+
+Asiatic lion----SP.SPECIFIC
+
+Amreli----LOC.DISTRICT
+
+Mithapur----SUS.LOC
+
+forest department----AUTH.SEIZE
+
+two persons----SUS.NUMBER
+
+Vijay Agrodiya----SUS.NAME
+
+25----SUS.AGE
+
+Jagu Waghela----SUS.NAME
+
+32----SUS.AGE
+
+Chalala village----SUS.LOC
+
+CCF----AUTH.SEIZE

@@ -1,0 +1,45 @@
+
+['Man Arrested For Setting Fire In Forest To Hunt Wild Animals\nMan Arrested For Setting Fire In Forest To Hunt Wild Animals Bhubaneswar: Forest department officials today arrested one person for allegedly attempting to set fire in Attei reserve forest near Jamupasi village in Dhurudiamba panchayat under Harichandanpur block in Keonjhar district to hunt wild animals by setting traps. According to reports, the arrestee has been identified as one Champa Munda of Jamupasi village. Acting on a tip-off Forest official of Bhagamunda conducted a raid leading to the Munda’s arrest. Forest officials have seized the trap from Munda’s possession and registered a case against him. He has been forwarded to court.']
+
+
+Man----SUS.GENDER
+
+Arrested----CRIME.CAT
+
+Setting Fire In Forest To Hunt Wild Animals----CRIME.CAT
+
+Arrested----CRIME.CAT
+
+Bhubaneswar----LOC.CITY
+
+Forest department----AUTH.SEIZE
+
+arrested----CRIME.CAT
+
+one----SUS.NUMBER
+
+set fire----CRIME.CAT
+
+Attei reserve forest----LOC.EXACT
+
+Jamupasi village in Dhurudiamba panchayat under Harichandanpur block----LOC.CITY
+
+Keonjhar district----LOC.DISTRICT
+
+hunt wild animals----CRIME.CAT
+
+setting traps----CRIME.CAT
+
+Champa Munda----SUS.NAME
+
+Jamupasi village----SUS.LOC
+
+tip-off----DETECTION_METHOD
+
+Forest official of Bhagamunda----AUTH.SEIZE
+
+seized----CRIME.CAT
+
+trap----ITEM
+
+registered a case----OUTCOME

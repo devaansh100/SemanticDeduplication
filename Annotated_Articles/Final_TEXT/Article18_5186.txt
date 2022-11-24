@@ -1,0 +1,25 @@
+
+['Pet diamond python found inside a bin in Australia’s street. Watch video\nAn abandoned diamond head python—believed to be worth $1000—was found inside a bin in Australia’s Sydney. The passers-by were alarmed to find the reptile outside a barbershop in Oxford Street, reported 9 News Australia. A video shared by 9 News Australia on YouTube shows Benny Eisman, known as the accidental herpetologist, transferring the python from the bin to a leather bag. Later, the Surry Hills police contacted him while he was heading to the vet and the python was handed over to Sydney Wildlife Rescue. Later, a member of the rescue team is seen examining the snake in the video. “It was a bizarre situation,” Eisman told the Wentworth Courier, adding the snake was “really nice looking” and “very healthy and very fat”. So, he put forth the possibility that it may be someone’s escaped pet. A Sydney Wildlife Rescue spokeswoman was cited as saying by NewstalkZB that their team arrived at the spot 25 minutes after receiving the information around 11 am. “But when they arrived the snake had been removed from the bin by a passer-by member of the public who retrieved the snake from the bin and placed it in a hot leather bag,” she added. The Sydney Wildlife Rescue will ensure that the python is examined by a veterinary doctor and provided medical treatment. The snake had suffered from minor injuries and police have initiated a probe into the incident. “It is not only illegal but dangerous for any member of the public to attempt to handle a snake in the wild,” she told NewstalkZB. The spokeswoman also said that over 80 per cent of snake bites in the country happen as people try to capture or harm a snake. Even though this particular breed is non-venomous, they can bite. The spokeswoman also said the diamond python was most likely a pet discarded by its owner.']
+
+
+diamond python----SP.SPECIFIC
+
+bin----CONCEALMENT_METHOD
+
+diamond head python----SP.SPECIFIC
+
+$1000----VALUE
+
+bin----CONCEALMENT_METHOD
+
+Sydney----LOC.CITY
+
+barbershop in Oxford Street----LOC.EXACT
+
+Benny Eisman----OFF.NAME
+
+leather bag----CONCEALMENT_METHOD
+
+Surry Hills police----AUTH.MISC
+
+11 am----TIME

@@ -1,0 +1,37 @@
+
+['Sloth Bear Mauls MP Couple to Death, Eats Corpses for Over 5 Hours; Animal to be Shifted to Zoo\nA sloth bear attacked and killed a couple on Sunday morning and kept devouring the corpses for over five hours in Madhya Pradesh’s Panna district, an official said. Efforts to chase it away while it was eating the body parts were in vain and the bear was caught only after forest department personnel managed to tranquilise it, the official said. “The incident occurred in Khermai area, some one-and-half kilometres from the district headquarters, at around 6.30am. The couple, identified as Mukesh Thakur (50) and Indira Thakur (45) from Raniganj area here, had gone to offer prayers at a temple. Staff which reached the spot found the bear eating the corpses part by part over a period of time," said Divisional Forest Officer (DFO) Gaurav Sharma. “We informed Panna Tiger Reserve teams as well. The bear was caught post tranquilisation and the bodies of the couple have been recovered. The animal will not be released in the forest and we plan to send it to some zoo in another city," he added. He said financial assistance of Rs 4 lakh each will be provided to the kin of the deceased. They allegedly died while fighting the bear together, Times of India reported. According to locals, the bear tore their bodies apart before feeding on the carcasses. Five hours after the incident, the bear was captured, locals said. The kin of the deceased claimed police and forest teams arrived at the site two to three hours after the incident. As soon as the information was received, a crowd gathered. After being notified, forest personnel arrived on the scene a few hours later. It took them another two hours to calm down and rescue the bear. Locals raised a commotion, demanding that members of the aggrieved family be given jobs. Read all the Latest News , Breaking News and IPL 2022 Live Updates here.']
+
+
+Sloth Bear----SP.COMMON
+
+Mauls----CRIME.CAT
+
+MP----LOC.STATE
+
+Couple----SUS.NUMBER
+
+sloth bear----SP.COMMON
+
+a----SUS.NUMBER
+
+couple----SUS.NUMBER
+
+Sunday----DATE
+
+morning----TIME
+
+Madhya Pradesh’s----LOC.STATE
+
+Khermai area----LOC.EXACT
+
+6.30am.----TIME
+
+Mukesh Thakur----SUS.NAME
+
+50----SUS.AGE
+
+Indira Thakur----SUS.NAME
+
+45----SUS.AGE
+
+Raniganj area----SUS.LOC

@@ -1,0 +1,29 @@
+
+['12kgs of recovered Ganjas seized in Guwahati Railway station\nGuwahati, 16 February, 2019: In a major breakthrough, the Guwahati Government Railway Police (GRP) has seized huge amount of suspected Ganja (cannabis) during checking at 15960 Down Kamrup Express (Coach No B/2). According to official reports, the GRP has seized approximately 12 kgs of ganja and apprehended an individual identified as Dinesh Jadav in connection with the case. A case has been registered under Guwahati GRPS case no. 34/19 u/s 20(b) NDPS Act.']
+
+
+Ganjas----SP.COMMON
+
+seized----CRIME.CAT
+
+Guwahati Railway station----LOC.EXACT
+
+Guwahati Government Railway Police (GRP)----AUTH.SEIZE
+
+seized----CRIME.CAT
+
+Ganja----SP.COMMON
+
+cannabis----SP.COMMON
+
+15960 Down Kamrup Express (Coach No B/2)----LOC.EXACT
+
+GRP----AUTH.SEIZE
+
+12 kgs----QTY
+
+ganja----SP.SPECIFIC
+
+Dinesh Jadav----SUS.NAME
+
+case has been registered under Guwahati GRPS case no. 34/19 u/s 20(b) NDPS Act----OUTCOME

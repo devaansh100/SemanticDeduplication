@@ -1,0 +1,95 @@
+
+['AP: Police arrest international red sanders smuggler linked to 60 cases\nCops retrieve 62 red sanders logs, seize vehicles TIRUPATI: Chittoor district police on Saturday arrested international red sanders smuggler G Ramanadha Reddy, who has allegedly smuggled 500 tonnes of red sanders logs, worth several hundreds of crore rupees so far.Special enforcement bureau (SEB) joint director V Vidyasagar Naidu said that Ramanadha Reddy, a resident of Chendluru village in Chapadu mandal of Kadapa district , is a notorious red sanders smuggler, who is a key accused in 60 smuggling cases registered at various police stations in Kadapa, Kurnool, Anantapur, Chittoor and Nellore districts.After establishing ties with Dubai-based Sahul Bhai, who is the kingpin behind the international red sanders smuggling operations, Ramanadha Reddy positioned himself as a red sanders smuggling don and has so far smuggled and exported nearly 500 tonnes of red sanders logs in less than a decade, the police said.He was also a key accused in an important red sanders smuggling case reported in 2013, in which the police had seized 32 tonnes of red sanders logs. This is the same case, in which another notorious smuggler Kollam Gangi Reddy, was also an accused.The SEB joint director said that Ramanadha Reddy also had close ties with a Kolkata-based red sanders smuggler identified as Lakshman.With Lakshman’s help, the wood was exported from different ports across the country.Following a tip off about the movement of a large consignment of red sanders logs along the Andhra Pradesh-Tamil Nadu border, Kuppam urban police inspector A Sadiq Ali and his team conducted vehicular checks near Nadumuru checkpost around 3 am on Saturday.Kuppam police, who found 62 red sanders logs concealed inside a truck and a SUV, seized the vehicles and the consignment and arrested four suspects in the car, including the international red sanders smuggler.The others arrested by police along with Ramanadha Reddy were identified as G Eswar Reddy (43), Vellatoor village in Kadapa district, Chinna Mallaiah (33) from Mydukur mandal in Kadapa district and Sunkara Bhimaiah (40), a resident of Atlur mandal in Kadapa district.Chittoor SP S Senthil Kumar praised Kuppam police.']
+
+
+Police----AUTH.SEIZE
+
+arrest----CRIME.CAT
+
+international red sanders smuggler----SUS.AFFIL
+
+62----QTY
+
+red sanders----SP.COMMON
+
+logs----ITEM
+
+seize----CRIME.CAT
+
+vehicles----ITEM
+
+Chittoor district police----AUTH.SEIZE
+
+Saturday----DATE
+
+international red sanders smuggler----SUS.AFFIL
+
+G Ramanadha Reddy----SUS.NAME
+
+500 tonnes----QTY
+
+red sanders----SP.COMMON
+
+logs----ITEM
+
+hundreds of crore rupees----VALUE
+
+Ramanadha Reddy----SUS.NAME
+
+Chendluru village----SUS.LOC
+
+Sahul Bhai----SUS.NAME
+
+Lakshman.With----SUS.NAME
+
+tip off----DETECTION_METHOD
+
+Kuppam urban police----AUTH.SEIZE
+
+inspector----OFF.DESIG
+
+A Sadiq Ali----OFF.NAME
+
+3 am----TIME
+
+Saturday.Kuppam----DATE
+
+62----QTY
+
+red sanders----SP.COMMON
+
+logs----ITEM
+
+truck----TRANSPORT_MODE
+
+SUV----TRANSPORT_MODE
+
+seized----CRIME.CAT
+
+vehicles----ITEM
+
+four----SUS.NUMBER
+
+international red sanders smuggler.The----SUS.AFFIL
+
+Ramanadha Reddy----OFF.NAME
+
+G Eswar Reddy----SUS.NAME
+
+43----SUS.AGE
+
+Vellatoor village----SUS.LOC
+
+Chinna Mallaiah----SUS.NAME
+
+33----SUS.AGE
+
+Mydukur mandal in Kadapa district----SUS.LOC
+
+Sunkara Bhimaiah----SUS.NAME
+
+40----SUS.AGE
+
+Atlur mandal----SUS.LOC
+
+S Senthil Kumar----OFF.NAME

@@ -1,0 +1,27 @@
+
+['Athagarh elephant deaths: Odisha forest official assures strict action, animal lovers demand more- The New Indian Express\nBy Express News Service BHUBANESWAR: Strict action will be taken against those involved in killing and burial of elephants in Athagarh forest division, said PCCF (Wildlife) Shashi Paul on Monday. The PCCF said that efforts are on to nab the two absconding foresters. Besides, action will be taken against other officials, if found guilty, during the investigation. The Forest department has already forwarded six persons, including a forest guard and three watchers, to court following their arrest in connection with killing and burial of two elephants whose carcasses were exhumed by the Special Task Force (STF) of Crime Branch on June 2 and 3. However, two foresters accused of suppressing the facts are still at large. One of the foresters, Manoj Das, summoned to the DFO office for questioning, fled from the spot by scaling the boundary wall. Meanwhile, raising serious concern over such cover-ups, organisations working in the field of wildlife conservation on Monday demanded more transparency in disposal of elephant carcasses in the State to prevent such incidents. Following recovery of two jumbo carcasses from Athagarh forest division, they demanded that the Project Elephant and the Forest department should follow protocols similar to disposal of tiger carcass laid down by the NTCA. Every tiger postmortem is video recorded in presence of at least two independent wildlife experts to ensure transparency. Similar measures need to be put in place in case of elephant deaths to curb the menace of suppressing information. The organisations also demanded that divisional forest officers (DFOs) should be held accountable in the event of poaching and killing of the elephants. A circular issued by the State government in 2012 which was meant to hold DFOs accountable for each and every unnatural death of elephants has remained on paper till now, members of the organisations claimed. If DFOs are never held responsible for such deaths, they will certainly turn a blind eye to the foul plays, they added. BHUBANESWAR: Strict action will be taken against those involved in killing and burial of elephants in Athagarh forest division, said PCCF (Wildlife) Shashi Paul on Monday. The PCCF said that efforts are on to nab the two absconding foresters. Besides, action will be taken against other officials, if found guilty, during the investigation. The Forest department has already forwarded six persons, including a forest guard and three watchers, to court following their arrest in connection with killing and burial of two elephants whose carcasses were exhumed by the Special Task Force (STF) of Crime Branch on June 2 and 3. However, two foresters accused of suppressing the facts are still at large. One of the foresters, Manoj Das, summoned to the DFO office for questioning, fled from the spot by scaling the boundary wall. Meanwhile, raising serious concern over such cover-ups, organisations working in the field of wildlife conservation on Monday demanded more transparency in disposal of elephant carcasses in the State to prevent such incidents. Following recovery of two jumbo carcasses from Athagarh forest division, they demanded that the Project Elephant and the Forest department should follow protocols similar to disposal of tiger carcass laid down by the NTCA. Every tiger postmortem is video recorded in presence of at least two independent wildlife experts to ensure transparency. Similar measures need to be put in place in case of elephant deaths to curb the menace of suppressing information. The organisations also demanded that divisional forest officers (DFOs) should be held accountable in the event of poaching and killing of the elephants. A circular issued by the State government in 2012 which was meant to hold DFOs accountable for each and every unnatural death of elephants has remained on paper till now, members of the organisations claimed. If DFOs are never held responsible for such deaths, they will certainly turn a blind eye to the foul plays, they added.']
+
+
+Athagarh elephant----LOC.EXACT
+
+Odisha forest official----AUTH.SEIZE
+
+Athagarh forest division----LOC.EXACT
+
+PCCF (Wildlife)----OFF.DESIG
+
+Shashi Paul----OFF.NAME
+
+two----SUS.NUMBER
+
+foresters----SUS.AFFIL
+
+Manoj Das----SUS.NAME
+
+jumbo----SP.COMMON
+
+elephants----SP.COMMON
+
+Athagarh forest division----LOC.EXACT
+
+two----SUS.NUMBER

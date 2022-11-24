@@ -1,0 +1,21 @@
+
+["Shark Sliced in Half Found on Beach in Canada, People Wonder if 'Monster' Killed it\nA shark cut in half has sparked curiosity and speculation regarding the cause of its death. An image of a mutilated shark recently surfaced on the social media forum, Reddit. Netizens feared that a bigger fish could have done this gruesome act. According to the user, the half-cut shark was found at Oak Island in Canada. Sharing the image, the user, in the caption, wrote, “Saw this poor guy yesterday at Oak Island. Any idea what kind it is?” Take a look: The comment section turned into a pool of speculation where Reddit users jumped in with their share, one at a time. Attempting to solve what kind of shark it was, one user claimed that it was the Atlantic Sharpnose, based on the “nose shape, white spots, and dark backside of the dorsal.” Another user popped up with a question, “HowThe claims for the shark to be an Atlantic Sharpnose seemed credible since they are small in size as compared to other sharks, according to NOAA Fisheries. The maximum these sharks can grow is 32 inches, while the average size of a shark can range between 1.5-3 metres long. did it get sliced in half like that?” One user commented, “There is always a bigger fish,” hinting at a creature big enough to slice a shark in half. One jokingly wrote, “That’s clearly half a shark.” Sharks are known to attack their own species in search of food or in an attempt to steal prey from other sharks. Several months ago, visuals of a half-eaten shark surfaced on social media, where netizens gave it the title of ‘Zombie Shark.’ The shark, open and bleeding from one side, was still swimming. Read all the Latest News , Breaking News and IPL 2022 Live Updates here."]
+
+
+Shark----SP.COMMON
+
+Sliced----CRIME.CAT
+
+Canada----LOC.STATE
+
+shark----SP.COMMON
+
+shark----SP.COMMON
+
+shark----SP.COMMON
+
+Oak Island----LOC.EXACT
+
+Oak Island----LOC.EXACT
+
+Atlantic Sharpnose----SP.SPECIFIC

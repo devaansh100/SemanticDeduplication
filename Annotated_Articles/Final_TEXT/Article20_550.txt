@@ -1,0 +1,121 @@
+
+['Andhra Pradesh: Chittoor police seize Rs 4 crore worth red sanders logs, 8 smugglers arrested\nTIRUPATI: Chittoor police seized red sanders logs worth Rs 4 crore and arrested 8 smugglers near Puttur in the early hours on Monday.Briefing reporters on the arrests and the seizure of such a large consignment of red wood, Chittoor SP S Senthil Kumar said that Chittoor DSP N Sudhakar Reddy and Puttur DSP TD Yeswanth and team acted on specific inputs. They were conducting vehicular searches near Taduku forest checkpost in the early hours on Monday when they noticed a mini truck approaching the checkpost at a very high speed.Though the police signalled the truck driver to stop the vehicle, he managed to get past the checkpost without stopping. The police teams felt something was not right and followed the truck and it was brought it to a grinding halt.Upon inspecting the vehicle, the police teams found out that 103 red sanders logs were concealed inside the truck. Police seized the red wood and the vehicle and arrested 6 red sanders smugglers from inside the truck.Meanwhile Chittoor Taluk police arrested two smugglers and seized 65 red sanders logs and two vehicles near Murakambattu along the Tirupati-Bengaluru highway on Monday morning.Chittoor SP appreciated the efforts put in by the Puttur and Chittoor Taluk police teams in terms of seizing such a large consignment of red sanders logs besides arresting 8 smugglers.']
+
+
+Chittoor police----AUTH.SEIZE
+
+seize----CRIME.CAT
+
+Rs 4 crore----VALUE
+
+red sanders----SP.SPECIFIC
+
+logs----ITEM
+
+8----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+Chittoor police----AUTH.SEIZE
+
+seized----CRIME.CAT
+
+red sanders----SP.SPECIFIC
+
+logs----ITEM
+
+Rs 4 crore----VALUE
+
+arrested----CRIME.CAT
+
+8----SUS.NUMBER
+
+Puttur----LOC.EXACT
+
+early hours----TIME
+
+Monday.Briefing----DATE
+
+arrests and the----CRIME.CAT
+
+red wood----ITEM
+
+Chittoor SP----OFF.DESIG
+
+S Senthil Kumar----OFF.NAME
+
+Chittoor DSP----OFF.DESIG
+
+N Sudhakar Reddy----OFF.NAME
+
+Puttur DSP----OFF.DESIG
+
+TD Yeswanth----OFF.NAME
+
+specific inputs----DETECTION_METHOD
+
+vehicular searches----DETECTION_METHOD
+
+Taduku forest checkpost----LOC.EXACT
+
+early hours----TIME
+
+Monday----DATE
+
+mini truck----TRANSPORT_MODE
+
+vehicle----TRANSPORT_MODE
+
+vehicle----TRANSPORT_MODE
+
+103----QTY
+
+red sanders----ITEM
+
+logs----ITEM
+
+truck----TRANSPORT_MODE
+
+seized----CRIME.CAT
+
+red wood----ITEM
+
+6----SUS.NUMBER
+
+red sanders----SP.SPECIFIC
+
+truck.Meanwhile----TRANSPORT_MODE
+
+Chittoor Taluk police----AUTH.SEIZE
+
+arrested----CRIME.CAT
+
+two----SUS.NUMBER
+
+seized----CRIME.CAT
+
+65----QTY
+
+red sanders----ITEM
+
+logs----ITEM
+
+two----QTY
+
+vehicles----ITEM
+
+Murakambattu----LOC.EXACT
+
+Tirupati-Bengaluru highway----ROUTE.TRANSIT
+
+Monday----DATE
+
+morning.Chittoor----TIME
+
+Puttur and Chittoor Taluk police----AUTH.SEIZE
+
+red sanders----ITEM
+
+logs----ITEM
+
+8----SUS.NUMBER

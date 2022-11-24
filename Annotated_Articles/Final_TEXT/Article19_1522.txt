@@ -1,0 +1,89 @@
+
+['Six arrested for hunting red deer in Madikeri\nSix arrested for hunting red deer in Madikeri  Vartha Bharati | 27-04-2019 | 19:29:00 IST  Madkeri: Six people were arrested for illegally hunting down a red deer at Kodagu-Kerala border’s reserved forest area on Saturday early morning here. The accused have been identified as K B Siddique, M H Sameer, A U Sameer all three residents of Ponnam Pete Mapille Todu, and K E Ismail, K A Yusuf and K A Mohammed of Napoklu of Kunjila village. Working on a credible information the police officials at Kutta-Irpu junction arrested the accused and seized their vehicle and 150 kg meat of red deer. The officials also recovered weapons including guns and swords used to hunt down the animal. Superintendent of Police Dr. Suman D Pannekar led the operation along with DCIB Inspector K Nagesh, officials K Anil Kumar, B L Yogish Kumar, K R Vasantha, M M Niranjan and driver K S Shashikumar were part of the team. Dr. Suman D Pannekar also announced a cash prize of ten thousand rupees to the team that carried out the operation. A case has been registered at Kutta Police Station against the six accused. Let the Truth be known. If you read VB and like VB, please be a VB Supporter and Help us deliver the Truth to one and all.']
+
+
+Six----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+red deer----SP.COMMON
+
+Madikeri----LOC.CITY
+
+Six----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+red deer----SP.COMMON
+
+Madikeri----LOC.CITY
+
+Six----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+red deer----SP.COMMON
+
+Kodagu-Kerala border’s reserved forest area----LOC.EXACT
+
+Saturday----DATE
+
+early morning----TIME
+
+K B Siddique----SUS.NAME
+
+M H Sameer----SUS.NAME
+
+A U Sameer----SUS.NAME
+
+Ponnam Pete Mapille Todu----SUS.LOC
+
+K E Ismail----SUS.NAME
+
+K A Yusuf----SUS.NAME
+
+K A Mohammed----SUS.NAME
+
+Napoklu of Kunjila village----SUS.LOC
+
+vehicle----ITEM
+
+150 kg----QTY
+
+meat----ITEM
+
+red deer----SP.COMMON
+
+weapons----ITEM
+
+guns----ITEM
+
+swords----ITEM
+
+Superintendent of Police----OFF.DESIG
+
+Dr. Suman D Pannekar----OFF.NAME
+
+DCIB Inspector----OFF.DESIG
+
+K Nagesh----OFF.NAME
+
+officials----OFF.DESIG
+
+K Anil Kumar----OFF.NAME
+
+B L Yogish Kumar----OFF.NAME
+
+K R Vasantha----OFF.NAME
+
+M M Niranjan----OFF.NAME
+
+driver----OFF.DESIG
+
+K S Shashikumar----OFF.NAME
+
+case has been registered at Kutta Police Station----OUTCOME
+
+six----SUS.NUMBER
+
+accused----OUTCOME

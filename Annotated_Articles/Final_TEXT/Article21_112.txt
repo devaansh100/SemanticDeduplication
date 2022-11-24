@@ -1,0 +1,23 @@
+
+['Wildlife Crime In India\nA court in Katni district of Madhya Pradesh had convicted ten people for electrocuting a wild tiger in December 2012 and sentenced them to 5 years rigorous imprisonment and ₹10,000 fine each.']
+
+
+court----AUTH.MISC
+
+Katni district----LOC.DISTRICT
+
+Madhya Pradesh----LOC.STATE
+
+convicted----CRIME.CAT
+
+ten people----SUS.NUMBER
+
+electrocuting----CRIME.CAT
+
+a----QTY
+
+wild tiger----SP.COMMON
+
+December 2012----DATE
+
+5 years rigorous imprisonment----OUTCOME

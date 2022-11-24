@@ -1,0 +1,93 @@
+
+['Warangal: Sand boa smuggling racket busted, 11 arrested\nWarangal: Sand boa smuggling racket busted, 11 arrested By Telangana Today Published: Updated On - 07:47 PM, Sat - 9 October 21 Warangal: In a successful operation, the Task Force police have arrested a Bihari gang of 11 persons, including a resident of Narsampet, for their alleged attempt to catch the sand boas (two-headed snakes) and sell them in the black market on Sunday. However, the police could not find the snake in the possession of the gang, and it is suspected that the snake would have been smuggled to some other place or kept at a secret location. Task Force teams led by inspectors Ch Srinivas and R Santhosh and ACP Vaibhav Gaikwad Raghunath raided the house of Badavath Nariya at Jayalaxmi centre in Narsampet and took him into custody. Later, the police have also apprehended 11 persons in Warangal. During the interrogation, Badavath Nariya revealed that he along with Mutyala Naveen of Kothagudem and Nagaiah of Miryalagudem were going to the forest areas in Pakhal, Narsampet, in search of the sand boas and were selling them to some smugglers from the Bihar, police said. The arrested were Badavath Naria of Narsampet town, Kanhaiah Jha, Surender Kumar Paswan, Akhlak, Malakar Rajesh, Md Shabraj Alam, Md Essa, Md Rijvan Alam, Md Sarwar Alam, Basi Ahmad, and Bola Jha, and Samrat of Bihar. Meanwhile, three other gang members Mutyala Naveen, Nagaiah and Rita Singh were absconding. Police said sand boas listed under Schedule IV of the Wildlife Protection Act 1972, are fetching good money and people catch it and the middlemen are believed to be making good money. People believe that sand boas bring good luck or that the snakes would help locate treasure troves. The trafficking of the sand boas is continued unchecked despite strict vigil by police. This Bihari gang had come to Warangal five times and had smuggled sand boas.  Police said the main market for the sale of these reptiles was China, Malaysia and other Asian countries. The two-headed sand boa snakes have a tail that visually resembles the head but does not serve as a second head. This unique attribute of the snake is a defence mechanism that helps it to escape predators. These snakes, being non-venomous, prey on their targets by constriction and live on small rodents and rats. Now you can get handpicked stories from Telangana Today on Telegram everyday. Click the link to subscribe. Click to follow Telangana Today Facebook page and Twitter .']
+
+
+Sand boa----SP.COMMON
+
+11----SUS.NUMBER
+
+Sand boa----SP.COMMON
+
+busted----CRIME.CAT
+
+11----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+Task Force police----AUTH.SEIZE
+
+Bihari gang----SUS.AFFIL
+
+11----SUS.NUMBER
+
+Narsampet----SUS.LOC
+
+sand boas----SP.COMMON
+
+snakes----SP.COMMON
+
+Sunday----DATE
+
+snake----SP.COMMON
+
+inspectors----OFF.DESIG
+
+Ch Srinivas----OFF.NAME
+
+R Santhosh----OFF.NAME
+
+ACP----OFF.DESIG
+
+Vaibhav Gaikwad Raghunath----OFF.NAME
+
+Badavath Nariya----SUS.NAME
+
+11----SUS.NUMBER
+
+Warangal----LOC.DISTRICT
+
+Badavath Nariya----SUS.NAME
+
+Mutyala Naveen----OFF.NAME
+
+Kothagudem----SUS.LOC
+
+Nagaiah----SUS.NAME
+
+Miryalagudem----SUS.LOC
+
+sand boas----SP.COMMON
+
+Badavath Naria----SUS.NAME
+
+Narsampet town----SUS.LOC
+
+Kanhaiah Jha----SUS.NAME
+
+Surender Kumar Paswan----SUS.NAME
+
+Akhlak----SUS.NAME
+
+Malakar Rajesh----SUS.NAME
+
+Md Shabraj Alam----SUS.NAME
+
+Md Essa----SUS.NAME
+
+Md Rijvan Alam----SUS.NAME
+
+Md Sarwar Alam----SUS.NAME
+
+Basi Ahmad----SUS.NAME
+
+Bola Jha----SUS.NAME
+
+Samrat----SUS.NAME
+
+Bihar----SUS.LOC
+
+Mutyala Naveen----SUS.NAME
+
+Nagaiah----SUS.NAME
+
+Rita Singh----SUS.NAME

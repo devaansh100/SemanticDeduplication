@@ -1,0 +1,37 @@
+
+["Forest Rangers Use Archimedes' Principle to Rescue Elephant from Ditch in West Bengal\nThanks to the internet that has made us familiar with many instances where human beings have rescued many animals, who were either stuck on the tree or fell into a ditch. But we hardly see an instance where science helps us to rescue an animal. We have one such video which is a perfect example of the same. A video of a group of forest rangers rescuing a young elephant from a ditch is making the rounds on the internet. The elephant was saved by using Archimedes’ principle. Well, you should watch the video to know the details. The over one-minute clip of the smart heroic act was tweeted by IFS officer Parveen Kaswan. The incident took place in West Bengal’s Midnapore, where a young elephant fell into a ditch. As the pit was quite deep, the elephant was stuck into it. In a bid to rescue the elephant, rangers very brilliantly filled the pit with water, and obviously, the water made the elephant float to the top. The team of forest rangers was then able to retrieve the elephant from the ditch with the help of ropes. “An elephant fell into a ditch in Midinapur. Now how to rescue it. By applying Archimedes’ principle. Watch to believe,” Parveen Kaswan wrote while sharing the video. After the forest department was informed about the distressing news at 1 AM, the rescue operation was carried out and was completed by 4 AM. “The information was received by Forest Department at 1 AM in the night. Under the leadership of DFO Shri Sandeep Berwal and ADFOs operation was taken up. By 4 AM rescue was completed successfully,” Kaswan further added. An elephant fell into a ditch in Midinapur. Now how to rescue it. By applying Archimedes' principle. Watch to believe. pic.twitter.com/1mPs3v8VjC— Parveen Kaswan, IFS (@ParveenKaswan) February 21, 2022 The information was received by Forest Department at 1 AM in night. Under the leadership of DFO Shri Sandeep Berwal and ADFOs operation was taken up. By 4 AM rescue was completed successfully. — Parveen Kaswan, IFS (@ParveenKaswan) February 21, 2022 Several netizens praised the smart attempt by the rescuers, and many were impressed by the technique. Informing about the physics technique, Kaswan wrote, “Archimedes’ principle definition: the upward buoyant force that is exerted on a body immersed in a fluid is equal to the weight of the fluid that the body displaces and acts in the upward direction at the center of mass of the displaced fluid.” Read all the Latest News, Breaking News and Assembly Elections Live Updates here."]
+
+
+Forest Rangers----AUTH.SEIZE
+
+Elephant----SP.COMMON
+
+forest rangers----AUTH.SEIZE
+
+West Bengal’s----LOC.STATE
+
+Midnapore----LOC.EXACT
+
+1 AM----TIME
+
+Forest Department----AUTH.SEIZE
+
+1 AM----TIME
+
+night----TIME
+
+DFO----OFF.DESIG
+
+Shri Sandeep Berwal----OFF.NAME
+
+ADFOs----OFF.DESIG
+
+Forest Department----AUTH.SEIZE
+
+1 AM----TIME
+
+DFO----OFF.DESIG
+
+Shri Sandeep Berwal----OFF.NAME
+
+ADFOs----OFF.DESIG

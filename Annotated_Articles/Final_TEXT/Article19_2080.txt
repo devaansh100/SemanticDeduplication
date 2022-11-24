@@ -1,0 +1,41 @@
+
+['Five Leopard Cubs Burnt Alive As Farmers Put Field On Fire To Kill A Snake\nHuman-animal conflicts have been on the rise in India especially in the peripheries of forests. With the increase in population, the demand for more agricultural land remains unabated. And more often than not, it is the forest that pays the price to make way for additional farmlands. This leaves the animals vulnerable as they increasingly stray into \'human settlements\' in search of food and get killed for \'encroaching\'. In a tragic incident of human-animal conflict, five leopard cubs aged just 10 days old were charred to death in Maharashtra\'s Pune after farmers set fire to a sugarcane farm. ANI The incident was reported from Gawadewadi village in Ambegaon taluka on Wednesday. Farm laborers had set fire to crop residual after one of them allegedly spotted a Russell\'s viper snake while cutting the sugarcane. Only after the fire subsided, they spotted the charred bodies of the cubs, three females and two males. REUTERS/ REPRESENTATIONAL IMAGE "Farm workers tried to burn dry waste of the farm, following which a blaze broke out. After some people in the area noticed the presence of cubs, the fire brigade, police and forest department were alerted. But it was too late as by then the cubs were charred to death," a police official said. According to to the farm workers, they were unaware of the presence of the cubs in the field. Maharashtra: 5 leopard cubs were found dead in a sugarcane farm in Awasari village near Junnar tehsil of Pune today. Workes say, "We had come here to cut the harvest. Owner told us to burn the trash on field, we didn\'t know the cubs were there. A woman spotted them later&told us" pic.twitter.com/fSQccuJSoq — ANI (@ANI) April 3, 2019 Forest authorities have warned the laborers against going into the filed as the mother leopard could be still searching for its cubs and could turn violent. BCCL/FILE This is not the first time leopard cubs have been spotted in sugarcane fields in the area. Just last month two leopard cubs were rescued from a sugarcane field in the same area.']
+
+
+Five----QTY
+
+Leopard----SP.COMMON
+
+Burnt----CRIME.CAT
+
+Farmers----SUS.AFFIL
+
+five----QTY
+
+leopard----SP.COMMON
+
+Pune----LOC.CITY
+
+Gawadewadi village in Ambegaon taluka----LOC.EXACT
+
+Wednesday----DATE
+
+Russell's viper snake----SP.SPECIFIC
+
+fire brigade----AUTH.SEIZE
+
+police----AUTH.SEIZE
+
+forest department----AUTH.SEIZE
+
+Maharashtra----LOC.STATE
+
+5----QTY
+
+leopard----SP.COMMON
+
+found dead----CRIME.CAT
+
+sugarcane farm----LOC.EXACT
+
+Awasari village----LOC.EXACT

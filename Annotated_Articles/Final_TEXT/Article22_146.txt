@@ -1,0 +1,49 @@
+
+['Ludhiana: Man arrested on charges of smuggling leopard skin\nLUDHIANA: In a joint operation of Wildlife Crime Control Bureau (WCCB) of Forest and Wildlife Department and Ludhiana police, a man was arrested on charges of smuggling leopard skin from Tibba area on Tuesday.The teams also recovered three leopard skins from the possession of the accused.The arrested accused has been identified as Sanjeev Kumar. The initial probe suggests that the accused was smuggling leopard skin from Jammu and Kashmir to Punjab.“Following a tip-off, a trap was laid. We managed to nab the accused and also recovered three leopard skins from his house,” an official said.He said the accused had been smuggling the leopard skin for a long time in Punjab. The police have lodged an FIR against him.The accused will be presented before the court on Wednesday.']
+
+
+Man----SUS.GENDER
+
+arrested----CRIME.CAT
+
+leopard----SP.COMMON
+
+skin----ITEM
+
+Wildlife Crime Control Bureau----AUTH.SEIZE
+
+WCCB----AUTH.SEIZE
+
+Forest and Wildlife Department----AUTH.SEIZE
+
+Ludhiana police----AUTH.SEIZE
+
+a----SUS.NUMBER
+
+man----SUS.GENDER
+
+arrested----CRIME.CAT
+
+leopard----SP.COMMON
+
+skin----ITEM
+
+Tibba area----LOC.EXACT
+
+Tuesday.The----DATE
+
+three----QTY
+
+leopard----SP.COMMON
+
+skins----ITEM
+
+Sanjeev Kumar----SUS.NAME
+
+Jammu and Kashmir----ROUTE.SRC
+
+tip-off----DETECTION_METHOD
+
+three----QTY
+
+leopard skins----ITEM

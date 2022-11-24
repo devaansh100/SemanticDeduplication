@@ -1,0 +1,33 @@
+
+["Sloth bear attacks villagers in Telangana, leaves 70-year-old man with injured skull\nThe sloth bear is listed as 'vulnerable' on the IUCN Red List (Representative Image) | Photo Credit: BCCL Hyderabad: A sloth bear made his way into the Nagaram village in Telangana's Jayashankar Bhupalpally district and attacked villagers and a herd of cattle on Monday. The shocking incident led to an elderly man incurring severe injuries, said a senior official with the Telangana State Forest Department. The bear is believed to have entered the village from a nearby forest on Monday morning, reported Deccan Chronicle. It attacked a herd of cattle which is when locals tried to scare it away but the animal pounced on them, said Chief Conservator of Forests, Warangal Circle, MJ Akbar. Akbar added that the attack resulted in 70-year-old Saheb incurring severe injuries to his head. The animal ripped off the victim's skin, inflicting a serious injury on his skull, added the Chief Conservator of Forests. Villagers later managed to scare the animal back into the forest and rushed Saheb to a nearby hospital where he is currently being treated in the intensive care unit (ICU). According to the latest report by the national daily, some skull pieces are embedded in Saheb's brain and he needs another surgery. The Chief Conservator of Forests along with the Bhupalpalli forest divisional officer reportedly visited the hospital and offered Saheb's family Rs 10,000 for immediate medical expenses. Earlier this year, a bear was rescued by forest rangers from Jangaon bus depot in the district. In fact, a sloth bear attacked a 17-year-old boy in Goa's Chorla forest. The boy managed to fend off the animal with an umbrella and even managed to escape but ended up sustaining injuries which resulted in heavy loss of blood. Native to the Indian subcontinent, the sloth bear is listed as 'vulnerable' on the International Union for Conservation of Nature (IUCN) Red List. These animals usually feed on termites, honeybee colonies and fruits."]
+
+
+Sloth bear----SP.COMMON
+
+attacks----CRIME.CAT
+
+Telangana----LOC.STATE
+
+70-year-old----SUS.AGE
+
+man----SUS.GENDER
+
+sloth bear----SP.SPECIFIC
+
+Nagaram village----LOC.EXACT
+
+Jayashankar Bhupalpally district----LOC.DISTRICT
+
+Monday----DATE
+
+Monday----DATE
+
+morning----TIME
+
+70-year-old----SUS.AGE
+
+Saheb----SUS.NAME
+
+Chief Conservator of Forests----AUTH.SEIZE
+
+Bhupalpalli forest divisional officer----OFF.DESIG

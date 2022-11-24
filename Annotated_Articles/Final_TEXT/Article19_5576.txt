@@ -1,0 +1,45 @@
+
+['Grotesque! Killing owls for Diwali Good Luck\nThe Ghaziabad Police intercepted two men on a motorbike on October 22 who were carrying a plastic bucket, but cops had no idea that the men were smuggling five rare owls cramped in plastic bucket, worth around Rs 1 crore. By Chayyanika Nigam: The Ghaziabad Police intercepted two men on a motorbike on October 22 who were carrying a plastic bucket, but cops had no idea that the men were smuggling five rare owls cramped in plastic bucket, worth around Rs 1 crore. The owls were being delivered to an occultist for sacrifice during the auspicious night of Diwali, in a rite that many believe will ward off bad luck and bring prosperity. advertisement According to wildlife experts, the smuggling of owls in the national capital is at its all time high as Diwali and Laxmi Puja are round the corners. During Diwali and Laxmi Puja, owls are illegally trapped and sacrificed to supply tantrik rituals and ceremonies during these festivals, Mail Today has learnt. Activists have raised an alarm over the rampant poaching of protected species\' birds, as most of them are being brought to the Capital before being transported to other parts of the country all in the name of "religious belief". Use of owls in black magic and sorcery driven by superstition, totems and taboos is one of the prime drivers of the covert owl trade, finds a TRAFFIC India investigation into the illegal trade, trapping and utilisation of owls in India. Ornithology experts feel raising awareness and busting myths are the only ways to protect the owls. Last year, thousands of owls were killed for occult practices during Laxmi Puja. "No accurate figures can be calculated as owl census has never been done," said Maheshwar Singh, a Delhibased ornithologist. BLACK magic and sorcery driven by superstition is one of the prime drivers of the covert bird trade. Occult practitioners say that sacrificing an owl on the night of Laxmi Puja brings wealth and fortune. There is a high demand for owls as Goddess Laxmi, rides on owl, who is worshipped on this day. Mail Today found several private accounts on social media websites, especially Facebook where people are openly selling owls ranging from `10,000 which goes up to several lakhs. Also, some pet shop owners, who usually sell fish and aquariums, are illegally arranging owls for their customers. Jama Masjid has become a hub where people buy owls with an ease. Last year during Diwali, a 40-year-old man allegedly killed a barn owl to perform black magic to attract a woman he liked in Delhi\'s Sultanpuri. "The postmortem report said the accused had allegedly cut the claws of the owl with a knife and inserted several needles into its liver and lungs, suggesting that he sued the owl as voodoo," an investigating officer said. advertisement "According to some reports, 70,000 to 80,000 owls are killed or exploited every year. The numbers are higher during Diwali and Laxmi Puja in some places - like in West Bengal during Kojagari Laxmi Puja. And these are just the records. The actual number could be higher," Satish Pande, an ornithologist associated with Ela Foundation. Owl smuggling is very common in the national capital, especially during Diwali, claims Abhinav Srihan, the man who initiated Fauna Police, an organisation which provides first aid to animals and foster care. "We have found several places where owls are being sold. Also, there are people who are active on social media and using the platform to smuggle owls. Whenever we reach out to the authorities, they ask us to provide all the details instead of investigating themselves," Srihan said. SRIHAN told Mail Today, "Recently, a peon of a government school in South Delhi\'s Sarojini Nagar found an owl in the school premises. He wanted to sell it, but he does not have any client. During this period, he bought a lottery and he alleged that he won the prize. Then he raised the price of the owl and was searching a potential customer, when we caught him." Superstition and black magic associated with owls drive the spike in owl trade, ornithology experts claim. There are tutorials on YouTube, showing details of the process of sacrificing an owl and the tantrik rituals that had to be followed, which also encouraging owl is smuggling, claim experts. advertisement MS Randhawa, Delhi Police spokesperson, said, "In case any person or an NGO approaches us about such activity, immediate action is taken and the person is being booked under the relevant sections of Prevention of Cruelty to Animals Act." TRAFFIC has issued an advisory to enforcement agencies calling for increased efforts to help curb the trafficking and the sacrifice of owls casting a shadow over the future of the species in India. According to the report, owls are used and traded for a wide variety of purposes including for black magic, street acts, taxidermy, private aviaries or zoos, food, use in folk medicines, capturing other birds, use of claws and feathers in making headgear, and eggs used in gambling. "Illegal trapping and trade peaks around Diwali, especially in northern India. Occult practitioners drive consumer demand by touting the use of owl parts for several purposes," said Dr Saket Badola, IFS, head of TRAFFIC India. advertisement Owls in India are protected under the Wildlife (Protection) Act that prohibits hunting, trade or any other form of utitlisation of the species or their body parts. Their international trade is further restricted under the Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES). Reports have indicated that increased demand for spotted owlets throughout the Delhi market has resulted in the extensive trapping of birds from nearby areas, particularly in Meerut and Lucknow. ALSO READ | Be responsible: celebs say no to crackers --- ENDS ---']
+
+
+Killing----CRIME.CAT
+
+owls----SP.COMMON
+
+Ghaziabad Police----AUTH.SEIZE
+
+two----SUS.NUMBER
+
+men----SUS.GENDER
+
+motorbike----TRANSPORT_MODE
+
+October 22----DATE
+
+plastic bucket----CONCEALMENT_METHOD
+
+five----QTY
+
+owls----SP.COMMON
+
+plastic bucket----CONCEALMENT_METHOD
+
+Rs 1 crore----VALUE
+
+Ghaziabad Police----AUTH.SEIZE
+
+two----SUS.NUMBER
+
+men----SUS.GENDER
+
+motorbike----TRANSPORT_MODE
+
+October 22----DATE
+
+plastic bucket----CONCEALMENT_METHOD
+
+five----QTY
+
+owls----SP.COMMON
+
+Rs 1 crore----VALUE

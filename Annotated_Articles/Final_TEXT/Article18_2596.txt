@@ -1,0 +1,9 @@
+
+['Which of the following is a poisonous snake?\nHome > English > Class 11 > Biology > Chapter > Animal Kingdom > Which of the following is a po ... Which of the following is a poisonous snake? Updated On: 27-06-2022 Video Solution: Which of the following is a poisonous snake? UPLOAD PHOTO AND GET THE ANSWER NOW! Text Solution Naja Krait Viper All of the above Answer : D Solution : Naja, krait and viper are poisonous snakes. Answer Step by step video & image solution for [object Object] by Biology experts to help you in doubts & scoring excellent marks in Class 11 exams.']
+
+
+poisonous snake----SP.COMMON
+
+Naja----SUS.NAME
+
+krait----SP.SPECIFIC

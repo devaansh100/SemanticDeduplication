@@ -1,0 +1,73 @@
+
+['Six held on poaching charge\nSix persons were arrested at Kattikulam in the district on Thursday on the charge of poaching in the Bavali forest section of the Tholpetty forest range in the Wayanad Wildlife Sanctuary. The accused were identified as A. Sasi, 30; P. Suresh, 33; P. Babu, 34; N. Aneesh, 40; K. Kariyan, 50; and C. Mani, 38, of Narangakunnu tribal hamlet near Kattikulam. Wildlife Warden P.K. Asif said that the accused had hunted Malabar giant squirrel, flying squirrel, porcupine and mouse deer from Masalakunnu forest on the Kerala-Karnataka border of the sanctuary on April 21 evening. They entered the forest in the guise of collecting honey from the forest. Officials seized the remains of the carcasses of the animals as well as four arrows and a bow used for hunting. They also vandalised a surveillance camera installed in the Nagarhole tiger reserve in Karnataka adjacent to the sanctuary. The accused will be produced before the First Class Judicial Magistrate Court at Mananthavady on Friday.']
+
+
+Six----SUS.NUMBER
+
+poaching----CRIME.CAT
+
+Six----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+Kattikulam----LOC.CITY
+
+Thursday----DATE
+
+poaching----CRIME.CAT
+
+Bavali forest section of the Tholpetty forest range in the Wayanad Wildlife Sanctuary----ROUTE.SRC
+
+A. Sasi----SUS.NAME
+
+30----SUS.AGE
+
+P. Suresh----SUS.NAME
+
+33----SUS.AGE
+
+P. Babu----SUS.NAME
+
+34----SUS.AGE
+
+N. Aneesh----SUS.NAME
+
+40----SUS.AGE
+
+K. Kariyan----SUS.NAME
+
+50----SUS.AGE
+
+C. Mani----SUS.NAME
+
+38----SUS.AGE
+
+Narangakunnu tribal hamlet near Kattikulam.----SUS.LOC
+
+hunted----CRIME.CAT
+
+Malabar giant squirrel----SP.SPECIFIC
+
+flying squirrel----SP.COMMON
+
+porcupine----SP.COMMON
+
+mouse----SP.SPECIFIC
+
+deer----SP.COMMON
+
+Masalakunnu forest----LOC.EXACT
+
+April 21----DATE
+
+evening----TIME
+
+carcasses----ITEM
+
+four----QTY
+
+arrows----ITEM
+
+a----QTY
+
+bow----ITEM

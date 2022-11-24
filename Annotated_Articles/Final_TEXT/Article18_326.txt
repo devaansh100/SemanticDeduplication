@@ -1,0 +1,35 @@
+
+['Thane: Forest department rescues four caged mongooses from a businessman in Dombivali\nThane: Forest department rescues four caged mongooses from a businessman in Dombivali | Prashant Narvekar Thane: Many would have heard that keeping turtles at home is considered to be auspicious, but in Dombivali one businessman was having a superstitious belief that keeping mongooses at home will bring wealth and prosperity so he kept four mongooses caged at his home. The forest department officials from Kalyan rescued the four mongooses from his home and also took action against him. Kalyan Forest Department forest officer MD Jadhav said, "Vitthal Joshi lives with his family at Ganesh Smriti in Shastri Nagar in old Dombivali. We got information from their neighbours of Joshi that he has kept four mongooses in cages. Keeping mongooses at home is a legal offence under the wildlife conservation Act, 1972. We immediately raided the house of Vitthal Joshi and rescued the four caged mongooses. We have taken legal action against Vitthal Joshi for keeping the mongooses captive." Jadhav further added, "Main habitat of wildlife is a wild habitat as large chains of wildlife depends on each other. It is advisable that no one should bring such wild animals into the house and keep them as pets. Many animals like tiger, lion, deer, rabbit, mongoose are protected wildlife. Mangoose is also protected wildlife and detention of it is an offence under the wildlife conservation Act, 1972. The forest department has made an appeal to all the citizens that they should not keep the wildlife animals as a pet in their homes. If the forest department found anyone violating the rules then strict actions will be initiated against them. Read Also Indigo airlines transports heart from Vadodara to Mumbai in 2.5 hours']
+
+
+Forest department----AUTH.SEIZE
+
+rescues----CRIME.CAT
+
+four----QTY
+
+mongooses----SP.COMMON
+
+Dombivali----LOC.CITY
+
+Forest department----AUTH.SEIZE
+
+rescues----CRIME.CAT
+
+four----QTY
+
+mongooses----SP.COMMON
+
+Dombivali----LOC.CITY
+
+four----QTY
+
+forest department officials----AUTH.SEIZE
+
+Vitthal Joshi----SUS.NAME
+
+Ganesh Smriti in Shastri Nagar in old Dombivali----LOC.EXACT
+
+Vitthal Joshi----SUS.NAME
+
+mongooses----SP.COMMON

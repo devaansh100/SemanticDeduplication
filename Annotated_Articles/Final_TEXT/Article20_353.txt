@@ -1,0 +1,59 @@
+
+['Six arrested for poaching 23 spiny lizards at DNP\nJAISALMER: The forest department arrested six persons for poaching 23 spiny lizards at the Desert National Park DNP ) on Thursday. The spiny lizard, called ‘Sanda’ in local language, is in high demand for its oil in India and abroad. As the poaching is extensive, the species is on the verge of extinction.During lockdown, poaching cases in India has gone up by 151%, as per a report released by international organisation TRAFFIC. The Jaisalmer district too seems to have become a hotspot for poachers.Deputy conservator of forest Kapil Chandrawal said the DNP staff arrested six persons for hunting spiny-tailed lizards inside the sanctuary near Matuo ki Basti in Jaisalmer range. Park officials got a tip-off from an informer and a team was formed to nab the accused.The team under range forest officer Jethmal Singh Sodha reached the spot and caught the accused red-handed along with hunting equipment, weapons and the lizards. Twenty-three spiny lizards, a protected species as per Schedule II of the Wildlife Protection Act 1972, were rescued alive. The accused persons confessed to entering the park illegally and hunting the reptile, the official said.The accused have been identified as Kanaran Bhil, Nemaram Bhil, Devaram Bhil, Rewaram Bhil, Langaram Bhil and Berasiram Bhil , all residents of Manpiya, Jaisalmer. The crime is non-bailable and can invite a minimum prison sentence of three years along with a minimum fine of Rs 10,000.The accused were sent to 15-day judicial custody. Their bail application has been rejected.The DNP team included ACFs Sagar Pawar and Vijay Borana, foresters Hajararam and Kanvraj Singh , forest guards Hukmaram, Ramswaroop Meena and driver Mansingh.']
+
+
+Six----SUS.NUMBER
+
+23----QTY
+
+spiny----SP.SPECIFIC
+
+lizards----SP.COMMON
+
+forest department----AUTH.SEIZE
+
+arrested----CRIME.CAT
+
+six----SUS.NUMBER
+
+23----QTY
+
+spiny----SP.SPECIFIC
+
+lizards----SP.COMMON
+
+Thursday----DATE
+
+spiny----SP.SPECIFIC
+
+lizard----SP.COMMON
+
+Sanda----SP.SPECIFIC
+
+tip-off----DETECTION_METHOD
+
+range forest officer----OFF.DESIG
+
+Jethmal Singh Sodha----OFF.NAME
+
+hunting equipment----ITEM
+
+weapons----ITEM
+
+lizards----SP.COMMON
+
+Kanaran Bhil----SUS.NAME
+
+Nemaram Bhil----SUS.NAME
+
+Devaram Bhil----SUS.NAME
+
+Rewaram Bhil----SUS.NAME
+
+Langaram Bhil----SUS.NAME
+
+Berasiram Bhil----SUS.NAME
+
+Manpiya----SUS.LOC
+
+forest guards----OFF.DESIG

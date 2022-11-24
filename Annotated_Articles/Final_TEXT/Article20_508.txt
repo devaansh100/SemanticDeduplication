@@ -1,0 +1,165 @@
+
+["Deer hides, antlers, timber seized from former sarpanch of Odisha's Sorisiapada- The New Indian Express\nBy Express News Service BHUBANESWAR /DHENKANAL: In another big seizure of wildlife items this year, Dhenkanal forest division sleuths on Sunday recovered five deer hides and antlers apart from huge volumes of timber from the house of a former sarpanch in Kapilash range. The accused, Ashok Kumar Nath (44), was a sarpanch of Sorisiapada, sources in the forest department said. Acting on a tip-off, officials of Kapilash range raided Ashok’s house at Padhantangar village of Goinda located close to Kapilash Wildlife Sanctuary and seized the skins and antlers. They also seized nine teak pole, two teak logs, 25 teak planks and 52 gambhari planks from his possession. The deer and antelope are suspected to have been poached within the Kapilash Wildlife Sanctuary. Bullet marks were found on the recovered skins, said Assistant Conservator of Forest Rashmi Ranjan Swain. During night patrolling inside Kapilash Sanctuary last night, the forest staff had also arrested two poachers and recovered two loaded guns and other poaching materials from their possession. The accused Kamakshya Kapelaswar Pingu and Pira Badra are from Khamar village in Gondia. Dhenkanal DFO Prakash Chand Gogineni said the operation that started late night on Saturday in Kapilash and Sadangi range is still continuing. Stating that there could be an inter-state link to this racket, he said, investigation is underway in both the cases and efforts are on to find out others involvement. Rampant poaching of wild animals for bushmeat trade has become a matter of concern in the area as more such cases are coming to fore. The enforcement teams of the division had arrested 13 persons in different wildlife case last month. At least seven persons have been arrested so far this month in connection with wildlife cases and forest offenses. “Enforcement activities will continue in the coming days to protect wild animals and forest wealth,” the DFO said. BHUBANESWAR /DHENKANAL: In another big seizure of wildlife items this year, Dhenkanal forest division sleuths on Sunday recovered five deer hides and antlers apart from huge volumes of timber from the house of a former sarpanch in Kapilash range. The accused, Ashok Kumar Nath (44), was a sarpanch of Sorisiapada, sources in the forest department said. Acting on a tip-off, officials of Kapilash range raided Ashok’s house at Padhantangar village of Goinda located close to Kapilash Wildlife Sanctuary and seized the skins and antlers. They also seized nine teak pole, two teak logs, 25 teak planks and 52 gambhari planks from his possession. The deer and antelope are suspected to have been poached within the Kapilash Wildlife Sanctuary. Bullet marks were found on the recovered skins, said Assistant Conservator of Forest Rashmi Ranjan Swain. During night patrolling inside Kapilash Sanctuary last night, the forest staff had also arrested two poachers and recovered two loaded guns and other poaching materials from their possession. The accused Kamakshya Kapelaswar Pingu and Pira Badra are from Khamar village in Gondia. Dhenkanal DFO Prakash Chand Gogineni said the operation that started late night on Saturday in Kapilash and Sadangi range is still continuing. Stating that there could be an inter-state link to this racket, he said, investigation is underway in both the cases and efforts are on to find out others involvement. Rampant poaching of wild animals for bushmeat trade has become a matter of concern in the area as more such cases are coming to fore. The enforcement teams of the division had arrested 13 persons in different wildlife case last month. At least seven persons have been arrested so far this month in connection with wildlife cases and forest offenses. “Enforcement activities will continue in the coming days to protect wild animals and forest wealth,” the DFO said."]
+
+
+Deer----SP.COMMON
+
+hides----ITEM
+
+antlers----ITEM
+
+timber----ITEM
+
+seized----CRIME.CAT
+
+Dhenkanal forest division----AUTH.SEIZE
+
+Sunday----DATE
+
+five----QTY
+
+deer----SP.COMMON
+
+hides----ITEM
+
+antlers----ITEM
+
+timber----ITEM
+
+Ashok Kumar Nath----SUS.NAME
+
+44----SUS.AGE
+
+sarpanch----SUS.AFFIL
+
+tip-off----DETECTION_METHOD
+
+officials of Kapilash range----AUTH.SEIZE
+
+Ashok----SUS.NAME
+
+Padhantangar village of Goinda located close to Kapilash Wildlife Sanctuary----SUS.LOC
+
+skins----ITEM
+
+antlers----ITEM
+
+nine----QTY
+
+teak pole----ITEM
+
+two----QTY
+
+teak logs----ITEM
+
+25----QTY
+
+teak planks----ITEM
+
+52----QTY
+
+gambhari planks----ITEM
+
+Kapilash Wildlife Sanctuary----ROUTE.SRC
+
+Assistant Conservator of Forest----OFF.DESIG
+
+Rashmi Ranjan Swain----OFF.NAME
+
+night----TIME
+
+forest staff----AUTH.SEIZE
+
+two----SUS.NUMBER
+
+two----QTY
+
+loaded guns----ITEM
+
+Kamakshya Kapelaswar Pingu----SUS.NAME
+
+Pira Badra----SUS.NAME
+
+Khamar village in Gondia----SUS.LOC
+
+night----TIME
+
+Saturday----DATE
+
+BHUBANESWAR----LOC.DISTRICT
+
+/DHENKANAL----LOC.DISTRICT
+
+Dhenkanal forest division----AUTH.SEIZE
+
+Sunday----DATE
+
+five----QTY
+
+deer----SP.COMMON
+
+hides----ITEM
+
+antlers----ITEM
+
+timber----ITEM
+
+Ashok Kumar Nath----SUS.NAME
+
+44----SUS.AGE
+
+Sorisiapada----SUS.LOC
+
+tip-off----DETECTION_METHOD
+
+officials of Kapilash range----AUTH.SEIZE
+
+Ashok----SUS.NAME
+
+Padhantangar village of Goinda located close to Kapilash Wildlife Sanctuary----SUS.LOC
+
+skins----ITEM
+
+antlers----ITEM
+
+nine----QTY
+
+teak pole----ITEM
+
+two----QTY
+
+teak----SP.COMMON
+
+logs----ITEM
+
+25----QTY
+
+teak planks----ITEM
+
+52----QTY
+
+gambhari planks----ITEM
+
+deer----SP.COMMON
+
+antelope----SP.COMMON
+
+forest staff----AUTH.SEIZE
+
+two----SUS.NUMBER
+
+poachers----SUS.AFFIL
+
+two----QTY
+
+loaded guns----ITEM
+
+Kamakshya Kapelaswar Pingu----SUS.NAME
+
+Pira Badra----SUS.NAME
+
+Khamar village in Gondia----SUS.LOC
+
+DFO----OFF.DESIG
+
+Prakash Chand Gogineni----OFF.NAME

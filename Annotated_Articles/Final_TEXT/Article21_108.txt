@@ -1,0 +1,49 @@
+
+['10 kg venison seized in Mayurbhanj’s Udala; villagers set free two poachers\nUdala Town: Udala Forest Range officials and forest department personnel carried out a joint operation in Jamudiha village under Nuagaon Gram Panchayat under Udala block at around 8 pm last night. The Forest department received information that as many as 100 poachers were dividing the meat of Sambar deer in the area. Following a raid, two poachers from Jamudiha village were arrested and more than 40 kg of sambar meat and two country-made guns seized from them. However, others managed to give a slip to the forest personnel. On their way back from the scene, the forest team was waylaid by the villagers. More than 30 locals vandalised the forest department vehicle. The villagers also assaulted the ranger and the forester. The range officer reported the incident to the district forest department. However, the forest official told that 24 hours had passed but the district police are to take action against the villagers. The villagers snatched away one pistol, 30 kg of confiscated meat from the forest department vehicle, and freed the two poachers. The forest department staff managed to recover the remaining 10 kg venison.']
+
+
+10 kg----QTY
+
+venison----ITEM
+
+seized----CRIME.CAT
+
+Udala----LOC.CITY
+
+Udala Forest Range----AUTH.SEIZE
+
+forest department----AUTH.SEIZE
+
+Jamudiha village----LOC.EXACT
+
+8 pm----TIME
+
+last----DATE
+
+night----TIME
+
+information----DETECTION_METHOD
+
+Sambar deer----SP.SPECIFIC
+
+raid----CRIME.CAT
+
+two----SUS.NUMBER
+
+Jamudiha village----SUS.LOC
+
+arrested----CRIME.CAT
+
+40 kg----QTY
+
+sambar----SP.SPECIFIC
+
+meat----ITEM
+
+two----QTY
+
+guns----ITEM
+
+seized----CRIME.CAT
+
+The villagers snatched away one pistol, 30 kg of confiscated meat from the forest department vehicle, and freed the two poachers----OUTCOME

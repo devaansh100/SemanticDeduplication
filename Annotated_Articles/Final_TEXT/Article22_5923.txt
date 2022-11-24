@@ -1,0 +1,49 @@
+
+['DTR authorities on alert after Friday human killing by tiger\nHuman killing by a tiger near Dudhwa buffer zone forests in Manjhra on Friday night has got the Dudhwa Tiger Reserve (DTR) authorities worried. Their concern has got a lot to do with the manner Mohan Das, 52, a local priest was killed on Friday. Barring head and a portion of the priest’s hand, the rest of the body was eaten up. “Big cats may attack humans leading to their deaths. However, to eat up the human body is a matter of serious concern for us,” said Sanjay Kumar Pathak, field director, DTR. Sundaresh, deputy director, Dudhwa buffer zone said, “Normally big cats avoid eating human flesh, however, the Friday night incident in which the tiger killed and ate up most of the body parts indicates that it is growing into a man-eater.” On Sunday, principal chief conservator of forests (PCCF), Project Tiger Kamlesh Kumar along with additional principal chief conservator of forests (information technology) Vishnu Singh, DTR field director Sanjay Kumar Pathak and deputy director, buffer zone Sundaresha visited tiger Manjhra Purab forest area and inspected the spot. Field director Sanjay Kumar Pathak said “In consultation with the locals, some sensitive spots had been selected where cameras would be installed to identify the errant tiger.” He said “A detailed report about the Friday human killing had been sent to PCCF, wildlife to seek his permission to tranquilize the errant tiger.” DD, buffer zone Sundaresha said “A whatsapp group comprising forest authorities, local villagers had been formed for better communication and coordination about the strayed away tiger.” Elephants to patrol Manjhra Purab forest area The forest authorities have engaged elephants, Jaymala and Champakali, to patrol the Manjhra Purab forest area to prevent any further mishappening. Drone cameras have also been pressed into service to monitor the movements of big cats. FD Sanjay Kumar Pathak said “About two dozen forest officials have been deployed to keep surveillance and assist in patrolling the area.”']
+
+
+DTR authorities----AUTH.SEIZE
+
+Friday----DATE
+
+killing----CRIME.CAT
+
+tiger----SP.COMMON
+
+tiger----SP.COMMON
+
+Dudhwa buffer zone forests----LOC.EXACT
+
+Friday----DATE
+
+night----TIME
+
+Dudhwa Tiger Reserve (DTR) authorities----AUTH.SEIZE
+
+Mohan Das----SUS.NAME
+
+52----SUS.AGE
+
+Friday----DATE
+
+principal chief conservator of forests (PCCF)----OFF.DESIG
+
+Project Tiger----OFF.DESIG
+
+Kamlesh Kumar----OFF.NAME
+
+principal chief conservator of forests (information technology)----OFF.DESIG
+
+Vishnu Singh----OFF.NAME
+
+DTR field director----AUTH.SEIZE
+
+Sanjay Kumar Pathak----OFF.NAME
+
+deputy director, buffer zone----OFF.DESIG
+
+Elephants----SP.COMMON
+
+Manjhra Purab forest area----LOC.EXACT
+
+elephants----SP.COMMON

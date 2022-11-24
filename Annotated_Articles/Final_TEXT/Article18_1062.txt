@@ -1,0 +1,51 @@
+
+['Odisha STF seizes two elephant tusks\nThe Special Task Force of Odisha police flanked by forest officials of Angul forest division arrested a man on charge of possessing two elephant tusks. Acting on a tip-off, the STF and forest teams in a joint operation arrested Duryadhan Pradhan near Kandhakoili village under Purunakote police station jurisdiction of Angul district during a raid and two tusks weighing 4.5 kilograms were seized from his possession. A case was registered under the Wildlife Protection Act for illegal possession of wildlife articles and attempting to sell trophies of scheduled animals. He was later handed over to Angul forest officials for necessary legal action under sections 379/411 Indian Penal Code and section-51 of Wildlife Protection Act. The seized elephant tusks are being sent to Wildlife Institute of India, Dehradun for chemical examination. Further investigation of the matter is continuing. Since 2020, the STF stepping up the drive to curb wildlife crimes has made a seizure of 26 elephant tusks.']
+
+
+Odisha STF----AUTH.SEIZE
+
+seizes----CRIME.CAT
+
+two----QTY
+
+elephant----SP.COMMON
+
+tusks----ITEM
+
+Special Task Force of Odisha police----AUTH.SEIZE
+
+forest officials of Angul forest division----AUTH.SEIZE
+
+man----SUS.GENDER
+
+two----QTY
+
+elephant----SP.COMMON
+
+tusks----ITEM
+
+tip-off----DETECTION_METHOD
+
+STF----AUTH.SEIZE
+
+forest teams----AUTH.SEIZE
+
+arrested----CRIME.CAT
+
+Duryadhan Pradhan----SUS.NAME
+
+Kandhakoili village----LOC.EXACT
+
+two----QTY
+
+tusks----ITEM
+
+4.5 kilograms----QTY
+
+seized----CRIME.CAT
+
+case was registered under the Wildlife Protection Act----OUTCOME
+
+seized----OUTCOME
+
+tusks----ITEM

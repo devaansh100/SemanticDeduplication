@@ -1,0 +1,35 @@
+
+['5 Owls Being Sold For Diwali Sacrifice Rescued By Ghaziabad Police, Suspect Arrested\nThe Ghaziabad police arrested one man for allegedly smuggling owl for a Diwali sacrifice. For those unaware, Diwali is considered an auspicious time to kill the bird for good fortune. The police said the two were arrested from near the culvert in Sector 5 in Vaishali. YouTube According to a TOI report, the two men were delivering the owls on motorbike to the occultist, and they were arrested near Sector 5 in Vaishali late Tuesday. IFS officer Praveen Kaswan and wildlife activist also tweeted about this illegal trade and urged people to keep an eye out for anyone turning these \'innocent birds\' in to objects for sacrifice. He wrote, \'During #Diwali thousands of #Owls are traficked illegally for Tantra. These innocent birds are killed mercilessly. If you notice any such thing, do inform nearest forest/police post.\' During #Diwali thousands of #Owls are traficked illegally for Tantra. These innocent birds are killed mercilessly. If you notice any such thing, do inform nearest forest/police post. Also media friends shouldn’t quote price. It incentivise illegal thing. https://t.co/diiQ7a5itm — Parveen Kaswan, IFS (@ParveenKaswan) October 23, 2019 “The two men were arrested with the birds and were rescued. The two told us that the body parts of these birds are sold at a very high price during Diwali as people use these for sacrifice. The birds will be handed over to the forest department,” HT quoted Keshav Kumar, assistant superintendent as saying. "We are trying to find out the prospective purchasers from the two suspects. They also told us that they caught the birds from the jungle areas in Ghaziabad,” he said. The two were booked under the provisions of the Wildlife Protection Act at the Indirapuram police station. Reuters Driven by religious myths and superstitious beliefs tied to them, these birds are sought for their body parts, meat and blood. Though the exact number of owls traded and sacrificed each year remains unknown, the trade spikes in the days leading up to Diwali, Raj added. The new moon night of Diwali is considered the most auspicious time for owl sacrifices. Black magic practitioners also raise the demand for owl parts by falsely claiming that the bird has special powers that can be harnessed to treat illness and ward off evil spirits. In tribal areas, where the majority of people believe that owls can ward off evil spirits, feathers and talons are placed in amulets, and owls can be found piled up for sale at local fairs. In India, hunting and trading of owl species is prohibited under the Wildlife (Protection) Act of 1972. The Forest Owlet is protected under Schedule I of the Act while other species are protected under Schedule IV. A lot of the trade in the country is routed through Agra, according to wildlife activists. In the city, the birds can even be home delivered. Sometimes, the trader will sacrifice it for believers if they are queasy about it. Wildlife activists say Agra is one of the major hubs for this trade. Places like Korai-Karavili village, near Fatehpuri Sikri, and Kosi Kalan in Mathura are infamous for it.']
+
+
+5----QTY
+
+Owls----SP.COMMON
+
+Diwali----LOC.CITY
+
+Rescued----CRIME.CAT
+
+Ghaziabad Police----AUTH.SEIZE
+
+Arrested----CRIME.CAT
+
+Ghaziabad police----AUTH.SEIZE
+
+arrested----CRIME.CAT
+
+one----SUS.NUMBER
+
+man----SUS.GENDER
+
+owl----SP.COMMON
+
+two----SUS.NUMBER
+
+men----SUS.GENDER
+
+Tuesday----DATE
+
+two----SUS.NUMBER
+
+booked under the provisions of the Wildlife Protection Act----OUTCOME

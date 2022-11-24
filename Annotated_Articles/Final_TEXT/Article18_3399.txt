@@ -1,0 +1,53 @@
+
+['Two arrested for illegally trafficking wildlife\nKathmandu, June 13 (RSS): A team of Nepal Police personnel arrested two persons in possession of wild animals including tortoise.  The team deputed from Police Station Koteswor held Raj Deula, 25, and Rahul Deula, 20, who have been residing in Kirtipur municipality-9, with 10 tortoises on Sunday evening.  Spokesperson at District Police Range Kathmandu Dinesh Raj Mainali informed that the police team arrested both from a café at Kathmandu metropolis-32, Koteswor on charge of being involved in illegal trafficking of wildlife.  Police recovered 10 tortoises, three sets of mobile and a motorbike (Ba 99 Pa 4944) from the smugglers. Mainali further shared that the Koteswor police station is carrying out investigation into the incident.']
+
+
+Two----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+trafficking----CRIME.CAT
+
+Nepal Police----AUTH.SEIZE
+
+arrested----CRIME.CAT
+
+two----SUS.NUMBER
+
+possession----CRIME.CAT
+
+tortoise----SP.COMMON
+
+Raj Deula----SUS.NAME
+
+25----SUS.AGE
+
+Rahul Deula----SUS.NAME
+
+20----SUS.AGE
+
+Kirtipur----SUS.LOC
+
+10----QTY
+
+tortoises----SP.COMMON
+
+Sunday----DATE
+
+evening----TIME
+
+Dinesh Raj Mainali----OFF.NAME
+
+Kathmandu metropolis-32, Koteswor----LOC.EXACT
+
+10----QTY
+
+tortoises----SP.COMMON
+
+three sets----QTY
+
+mobile----ITEM
+
+a----QTY
+
+motorbike----ITEM

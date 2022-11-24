@@ -1,0 +1,27 @@
+
+['Lizards Pops Out Of Hot Chhole Bhature In Chandigarh Mall, Angry Customer Calls Police\nIn a strange event, a Chandigarh based doctor had to call the police after he found a half-dead lizard in the food at Sagar Ratna restaurant at the city’s Nexus Elante Mall on Thursday. Inhouse/Representational Image Dr JK Bansal, 66, a resident of Chandigarh’s Sector 15, had ordered a plate of Chhole Bhature and had barely eaten the food when they found a lizard under the Bhature, News 18 reported The administration in Chandigarh swung into action after a half-dead lizard was found in food.  Unsplash/Representational Image Reports said the Health Department of the Union Territory collected samples from the meal for testing after a doctor and his wife informed the police as they found the reptile in their meal. However, they didn’t lodge a written complaint. Angry over the incident, the couple immediately called the outlet manager and raised a complaint. Later, they also reported to the police. Inhouse/Representational Image An official from the Health Department told NewsBytes, “The samples have been sent to a food testing lab and reports will arrive in 15 days. Action will be initiated thereafter against the outlet and all those responsible.” Meanwhile, Elante Mall authorities said that they would take all necessary steps to ensure such incidents are avoided. The same incidents have been reported from across India in the past as well but no concrete steps are being taken by the authorities to check food quality and other necessary things.   For more on news and current affairs from around the world please visit Indiatimes News.']
+
+
+Lizards----SP.SPECIFIC
+
+Chhole Bhature----LOC.EXACT
+
+Chandigarh Mall----LOC.EXACT
+
+Chandigarh----SUS.LOC
+
+lizard----SP.COMMON
+
+Sagar Ratna restaurant----LOC.EXACT
+
+Thursday----DATE
+
+Dr JK Bansal----SUS.NAME
+
+66----SUS.AGE
+
+Chandigarh’s Sector 15----SUS.LOC
+
+Health Department of the Union Territory----AUTH.SEIZE
+
+samples have been sent to a food testing lab----OUTCOME

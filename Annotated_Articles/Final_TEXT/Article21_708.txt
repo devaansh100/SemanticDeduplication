@@ -1,0 +1,45 @@
+
+['Madhya Pradesh: Bandhavgarh tigress was caught in electric trap & hacked to death\nSearch on for 4 th suspect who has claws, canines BHOPAL: Bandhavgarh ’s “most beautiful tigress” met an extremely gruesome end – hacked in the face and head as it lay paralyzed in an electric trap. The killers turned out to be members of the most primitive tribe group of Madhya Pradesh, the Baigas, say forest officers. Bandhavgarh Tiger Reserve (BTR) field director Vincent Rahim told TOI that three suspects -- Shivkumar, Kailash and Babulal Baiga -- have been arrested on inputs from informers and they have confessed to killing tigress T32. They are residents of Kachoha village in the Manpur buffer zone of BTR. During interrogation, they said that they had laid an electric wire trap from a 11-KV line to poach wild boars, say officers.The trap was set around 9pm on August 27. Two hours later they came to know that a tigress had got snared in the trap. To ensure that the tigress was dead, they hacked it repeatedly in the face and head with an axe, said officials. The poachers broke two canines and yanked out claws and whiskers, say officers. Then, the trio stuffed the carcass in a sack, weighed it down with two heavy stones and threw it into a well. One of the stones got untied and it surfaced on the morning of August 31.Forest officers said Baigas do hunt wild animals for food, but they have taboos against killing certain species. “Their intention was to poach wild boars but the tigress fell into the trap. In any case, the charges against them will be the same,” said an officer.The trio has been booked under Wildlife Protection Act . Teams are out looking for a fourth suspect who has the claws, canines and whiskers.T32 was a popular and much photographed tigress. The magnificent stripes that made it famous stood out even in death and decay. It was 14 years old and known among locals as ‘ Amanalabali Baghin ’ since she was sighted frequently in the Amanalabali area inside the tiger reserve, but never bothered any human. The well where it was found is in Manpur buffer zone near Tamna Basa village, about 50km from Umaria district headquarters and 470 km east of Bhopal.']
+
+
+Bandhavgarh tigress----SP.SPECIFIC
+
+claws----ITEM
+
+canines----ITEM
+
+tigress----SP.COMMON
+
+three----SUS.NUMBER
+
+Shivkumar----SUS.NAME
+
+Kailash----SUS.NAME
+
+Babulal Baiga----SUS.NAME
+
+tigress----SP.COMMON
+
+Kachoha village in the Manpur buffer zone of BTR----SUS.LOC
+
+9pm----TIME
+
+August 27----DATE
+
+claws----ITEM
+
+whiskers----ITEM
+
+sack----CONCEALMENT_METHOD
+
+morning----TIME
+
+August 31.Forest----DATE
+
+fourth----SUS.NUMBER
+
+claws----ITEM
+
+canines----ITEM
+
+whiskers.T32----ITEM

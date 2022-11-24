@@ -1,0 +1,49 @@
+
+['Watch: Month-old leopard cub rescued at Chennai airport by customs\nWatch: Month-old leopard cub rescued at Chennai airport by customs The leopard cub was being smuggled into India and was recovered from the luggage of a man coming from Thailand on Saturday. news Wildlife The Air Intelligence Unit (AIU) at the Chennai International Airport recovered a leopard cub from the luggage of a man returning to the city from Thailand on Saturday. Customs officials had received specific intelligence that prohibited wild animals were likely to be smuggled from Thailand to the city. Even as the customs officials were waiting at the arrival hall, they zeroed in on one male passenger who was reportedly moving in a suspicious manner. The officials were further alerted by the hurried manner in which he was walking, soon after he had picked up his checked-in luggage. According to a statement from the Office of the Commissioner of Customs, “It was observed that a faint trill sound was coming from his checked-in luggage. He was intercepted after he crossed the green channel (i.e. the passage for those carrying goods within the permitted customs limits and not carrying prohibited items) and brought to AIU room for further questioning.” Based on his passport and boarding pass, the man was identified as 45-year-old Kaja Moideen, who had arrived in Chennai via a Thai Airways flight from Bangkok. Authorities opened his bag for further examination since Kaja was evasive in his replies to them. “On examination of his stroller bag, one pink plastic basket was found in which a small animal resembling a leopard cub was found. The animal was in a state of shock and was making trill sounds and appeared to be weak. The custom officers fed the cub milk in a feeding bottle and re-energised the cub,” said the press statement. When officials from the Wildlife Crime Control Bureau (WCCB) arrived, they identified the animal as a leopard cub of the Panthera pardus species. A veterinary doctor was called from the Arignar Anna Zoological Park, who informed the customs authorities that the cub was a one-month old female weighing 1.1 kg and measuring 54cm from nose to tail. According to authorities, the leopard cub was seized under the provisions of the Customs Act 1962, read with the Wildlife Protection Act 1972, as well as the Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES). The cub and the apprehended individual were handed over to the Tamil Nadu Forest Department for further action, said the authorities.']
+
+
+leopard----SP.COMMON
+
+rescued----CRIME.CAT
+
+leopard cub----SP.COMMON
+
+man----SUS.GENDER
+
+Thailand----ROUTE.SRC
+
+Saturday----DATE
+
+Air Intelligence Unit----AUTH.SEIZE
+
+AIU----AUTH.SEIZE
+
+Chennai International Airport----AUTH.SEIZE
+
+a----QTY
+
+leopard cub----SP.COMMON
+
+man----SUS.GENDER
+
+Thailand----ROUTE.SRC
+
+Saturday----DATE
+
+specific intelligence----DETECTION_METHOD
+
+Thailand----ROUTE.SRC
+
+man----SUS.GENDER
+
+45-year-old----SUS.AGE
+
+Kaja Moideen----SUS.NAME
+
+Wildlife Crime Control Bureau (WCCB)----AUTH.SEIZE
+
+leopard----SP.COMMON
+
+veterinary doctor was called from the Arignar Anna Zoological Park----OUTCOME
+
+1.1 kg----QTY

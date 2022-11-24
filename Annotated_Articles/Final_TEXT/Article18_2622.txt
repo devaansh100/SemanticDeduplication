@@ -1,0 +1,5 @@
+
+['Select the most appropriate sequence from the given options to make a meaningful paragraph from jumbled sentences. A. I caught a snake once. B. That well is full of snakes. C. I caught it by its tail \nBCAD CBDA ACBD BACD Answer : C Solution : Sentence A states that I caught a snake once and Sentence C states that the snake had been caught by its tail and dropped in the old well. So, Sentence C will follow Sentence A. However, Sentence B says that the well is full of snakes and Sentence D says that we drop it in the well. So, D will follow B. Hence, Option (c) is the correct sequence.']
+
+
+snake----SP.COMMON

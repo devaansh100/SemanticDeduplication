@@ -1,0 +1,21 @@
+
+['[VIDEO] Kerala: Man falls into well while rescuing python in Thrissur\nA video of a man rescuing a python from a well in Kerala is has gone viral on social media. | Representative image | Photo Credit: Getty Images Thrissur: A video of a man rescuing a python from a well in Kerala has gone viral on social media. The video shows the man climbing down a rope and then using a branch to bring the python close to him to grab it by its tail. As soon as the man takes the reptile out of the water, it coils around his body. The rescuer is then pulled up by locals present at the site, however, the video ends when he loses grip and falls into the well along with the snake. Watch the video here: The rescuer was identified as Shagil who works with the forest department in Peramangalam, Thrissur. Luckily, both Shagil and the snake weren\'t injured. Shagil told a local news channel that an acquaintance alerted him about the python stuck inside the well. Initially, the rescuer wanted to catch the reptile using a trap. However, the well was deep and the python moved away when Shagil tried to capture it. Then, he decided to go down into the well himself using a rope. "As I almost reached the top, I asked one of them to hold onto my hand. But I don\'t know whether they got scared by the sight of the snake. As they held my hand, I lost my grip on the rope and fell down into the well. Since the water was deep, I was not injured. The snake wasn\'t either," Shagil told Manorama news. The locals later dropped a sack down the well to capture the snake. It was released into the wild. Last month, a video of a python leaping out of a pond to attack and constrict and unsuspecting deer had gone viral.']
+
+
+Kerala----LOC.STATE
+
+Man----SUS.GENDER
+
+python----SP.COMMON
+
+Thrissur----LOC.CITY
+
+python----SP.COMMON
+
+Kerala----LOC.STATE
+
+python----SP.COMMON
+
+Kerala----LOC.STATE
+
+rope----CONCEALMENT_METHOD

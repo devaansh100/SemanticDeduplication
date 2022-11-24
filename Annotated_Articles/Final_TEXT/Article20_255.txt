@@ -1,0 +1,79 @@
+
+['Snake smugglers arrested near Melghat, sand boa rescued\nNagpur: Forest officials on Tuesday arrested three men who were trying to illegally sell an endangered species of snake near Melghat Tiger Reserve . Officials received information about a sand boa being smuggled out by three people, who were in the process of completing a deal.Based on the tip off, forest guards KA Choudhary, BB Khodve, SB Sarkate, AZ Hussain and Sujit Tayde laid a trap to catch the smugglers red-handed. Around 8.15pm the forest officials swooped in on the three and found the sand boa in their possession.Assistant forest officer LN Aware and range forest officer PD Patil planned the operation along with their team, which resulted in not only the arrest of smugglers but also successful rescue of the snake. The boa weighed approximately 2kg.Forest officials produced Liladhar Ingle (28), Akshay Panchang (25) and Bhanudas Kokate (50) before the court on Wednesday, which granted them forest custody till June 26. While Ingle and Panchang are from Akola, Kokate hails from Buldhana.Further investigations are being conducted by VS Chavhan, forest range officer (Narnala).']
+
+
+Snake----SP.COMMON
+
+arrested----CRIME.CAT
+
+Melghat----LOC.EXACT
+
+sand boa----SP.COMMON
+
+Nagpur----LOC.DISTRICT
+
+Forest officials----AUTH.SEIZE
+
+Tuesday----DATE
+
+arrested----CRIME.CAT
+
+three----SUS.NUMBER
+
+men----SUS.GENDER
+
+snake----SP.COMMON
+
+Melghat Tiger Reserve----LOC.EXACT
+
+information----DETECTION_METHOD
+
+sand boa----SP.COMMON
+
+three----SUS.NUMBER
+
+tip off----DETECTION_METHOD
+
+forest guards----OFF.DESIG
+
+KA Choudhary----OFF.NAME
+
+BB Khodve----OFF.NAME
+
+SB Sarkate----OFF.NAME
+
+AZ Hussain----OFF.NAME
+
+Sujit Tayde----OFF.NAME
+
+forest officials----AUTH.SEIZE
+
+sand boa----SP.SPECIFIC
+
+LN Aware----OFF.NAME
+
+range forest officer----OFF.DESIG
+
+PD Patil----OFF.NAME
+
+2kg.Forest----QTY
+
+Liladhar Ingle----SUS.NAME
+
+28----SUS.AGE
+
+Akshay Panchang----SUS.NAME
+
+25----SUS.AGE
+
+Bhanudas Kokate----SUS.NAME
+
+50----SUS.AGE
+
+Akola----SUS.LOC
+
+Buldhana----SUS.LOC
+
+VS Chavhan----OFF.NAME
+
+forest range officer (Narnala)----OFF.DESIG

@@ -1,0 +1,29 @@
+
+['Tiger found dead at Chhattisgarh’s Guru Ghasidas National Park\nRAIPUR: An adult tiger was found dead at Guru Ghasidas National Park (GGNP) in Chhattisgarh’s Korea district, officials said on Tuesday and added three people have been arrested for allegedly poisoning the big cat for killing a buffalo. “The male tiger was about eight-year-old. The tiger was poisoned on Sunday and we recovered the carcass on Monday,” said Chhattisgarh’s chief conservator of forests (wildlife) Narsingh Rao PV. He added a partially eaten carcass of a buffalo was found nearby and that they have begun a probe into the revenge angle. He said a toxicological analysis was also been undertaken. Officials said the tiger came from the neighbouring Sanjay-Dubri National Park and Tiger Reserve in Madhya Pradesh. Activist Meetu Gupta said that the state government has got the approval for notifying Guru Gahsidas National Park as a tiger reserve but the forest department is not serious about the conservation of the tiger. “…there is no vision plan or document of conservation. The GGNP staff has not been prepared. The department is apathetic towards the wildlife, their protection and conservation.” SHARE THIS ARTICLE ON']
+
+
+Tiger----SP.COMMON
+
+found dead----CRIME.CAT
+
+Guru Ghasidas National Park----LOC.EXACT
+
+tiger----SP.COMMON
+
+found dead----CRIME.CAT
+
+Guru Ghasidas National Park (GGNP)----LOC.EXACT
+
+Korea district----LOC.DISTRICT
+
+three----SUS.NUMBER
+
+poisoning----CRIME.CAT
+
+buffalo----SP.COMMON
+
+Sunday----DATE
+
+Monday----DATE
+
+buffalo----SP.COMMON

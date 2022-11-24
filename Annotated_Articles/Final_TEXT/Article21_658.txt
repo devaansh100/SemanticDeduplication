@@ -1,0 +1,63 @@
+
+['Maharashtra: Pangolin rescued by forest department in Ratnagiri, 3 detained\nKOLHAPUR: Three people were detained in Dhopave village of Guhagar taluka in a joint operation carried out by the forest department and local crime branch of Ratnagiri police on Thursday night.The team also managed to rescue a Pangolin and seized the car that was used by the suspects for transporting the animal.Range forest officer for Ratnagiri Priyanka Lagad said, “We got information from our sources about the trio being involved in illegal trade of animals. We along with the LCB officials accordingly laid a trap caught the suspects with a pangolin — known as Khawle Manjar in Marathi . We have booked the trio under Wildlife (Protection) Act, 1972, and detained them.”The suspects have been identified as Mahesh Mahipat Pawar (43), Sandesh Shashikant Pawar (36) — both resident of Agarvayangni in Dapoli taluka — and Milind Jadhav (42), a resident of Dhopave in Guhagar. “Further investigation is on to see if more people are involved in this illegal practice,” Lagad said.Just like elephants, tigers and leopards, pangolins are also protected under Schedule 1 of the Wildlife Protection Act , 1972.']
+
+
+Maharashtra----LOC.STATE
+
+Pangolin----SP.COMMON
+
+rescued----OUTCOME
+
+forest department----AUTH.SEIZE
+
+Ratnagiri----LOC.CITY
+
+3----SUS.NUMBER
+
+Three----SUS.NUMBER
+
+Dhopave village----LOC.EXACT
+
+Guhagar----LOC.DISTRICT
+
+forest department----AUTH.SEIZE
+
+local crime branch of Ratnagiri police----AUTH.SEIZE
+
+Thursday----DATE
+
+night.The----TIME
+
+a----QTY
+
+Pangolin----SP.COMMON
+
+seized----CRIME.CAT
+
+car----ITEM
+
+LCB----AUTH.SEIZE
+
+a----QTY
+
+pangolin----SP.COMMON
+
+Khawle Manjar----ITEM
+
+booked the trio under Wildlife (Protection) Act, 1972----OUTCOME
+
+Mahesh Mahipat Pawar----SUS.NAME
+
+43----SUS.AGE
+
+Sandesh Shashikant Pawar----SUS.NAME
+
+36----SUS.AGE
+
+Agarvayangni----SUS.LOC
+
+Milind Jadhav----SUS.NAME
+
+42----SUS.AGE
+
+Dhopave----SUS.LOC

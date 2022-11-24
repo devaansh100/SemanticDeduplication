@@ -1,0 +1,27 @@
+
+['\'Tiger King\' star Doc Antle has been charged with laundering $505,000 that he believed came from human smuggling, prosecutors say\n" Tiger King " star Doc Antle faces federal money laundering charges, authorities said on Monday. " star faces federal charges, authorities said on Monday. Antle and his employee schemed to wash $505,000 through their business, Myrtle Beach Safari. Advertisement "Tiger King" star Doc Antle, 62, has been charged with laundering $505,000 that he believed was the proceeds of illegal human smuggling into the US from Mexico, prosecutors said. Antle, whose full name is Bhagavan Mahamayavi Antle, and his employee, Andrew Sawyer, run a 50-acre wildlife preserve called Myrtle Beach Safari and used the business to wash the cash, according to a Monday statement from the US Attorney for South Carolina\'s office. The federal complaint against them said the pair wrote checks for supposed construction works at the preserve, although this was just a means for the recipient to appear as if they had a legitimate income. Antle and Sawyer received a 15% cut for their services and their scheme took place over four months, until as late as May 29, prosecutors said. To explain the sudden inflow of over half a million dollars in cash, Antle discussed inflating tourist numbers at Myrtle Beach Safari, per the prosecutors. He also said he previously used bulk cash receipts to buy animals he couldn\'t purchase with checks, the prosecutors said. Advertisement The pair were caught through a "reverse money laundering" operation by the FBI in which an unnamed informant wore a recording device while discussing the laundering process with Antle, per the federal complaint. The informant told Antle that he would illegally bring people into the US, and gave the money to Antle on three separate occassions in return for a check, the complaint said. The check given to the informant would be worth 15% less than the amount of cash initially given to Antle to accommodate the zoo operator\'s washing fee, prosecutors said. Antle was repeatedly featured in the 2020 Netflix documentary series "Tiger King: Murder, Mayhem and Madness" about big cat zoo owners, which focused heavily on Joe Exotic, an Oklahoma zoo operator convicted of a plot to kill Carole Baskin, an animal rights activist. A 2021 spinoff show about Antle, called "Tiger King: The Doc Antle Story," describes itself as detailing "disturbing allegations of sexual abuse, violence and misconduct" by the zoo operator. Antle was previously indicted in Virginia on wildlife trafficking and animal cruelty charges in 2020. According to the Associated Press, the case is expected to go to trial in July.']
+
+
+Tiger King'----SP.COMMON
+
+Doc Antle----SUS.NAME
+
+$505,000----VALUE
+
+Doc Antle----SUS.NAME
+
+federal money laundering----OUTCOME
+
+Doc Antle----SUS.NAME
+
+62----SUS.AGE
+
+$505,000----VALUE
+
+Bhagavan Mahamayavi Antle----SUS.NAME
+
+Andrew Sawyer----SUS.NAME
+
+Myrtle Beach Safari----LOC.EXACT
+
+Oklahoma zoo operator----SUS.AFFIL

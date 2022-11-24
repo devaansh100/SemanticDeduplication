@@ -1,0 +1,29 @@
+
+['Renowned Kerala snake handler Vava Suresh bitten by cobra, hospitalised\nRenowned Kerala snake handler Vava Suresh bitten by cobra, hospitalised A video of the incident showed Suresh trying to capture the cobra in a gunny bag when it bit him on his right thigh. news Human Interest Popular snake catcher from Kerala Vava Suresh was hospitalised after being bitten by a cobra on Monday, January 31. Forty-seven-year-old Suresh, who is famous for handling and rescuing snakes, was trying to catch a cobra at a house in Kurichy village near Changanassery in Kottayam district, when he suffered the snakebite. A video of the incident captured by a local resident showed Suresh trying to place the cobra inside a gunny bag while holding it by its tail upside down, when it suddenly bit him on his right thigh. According to several reports, he was unconscious and in a critical condition when he was brought to the hospital. He was first rushed to a private hospital and later moved to the Government Medical College Hospital in Kottayam, according to The Hindu. Right after the cobra bit him, Suresh was seen letting go of the snake in the video, as the local residents panicked. However, according to reports he eventually caught it in the gunny bag before locals rushed him to a hospital, and the cobra was handed over to forest officials. Kerala Health Minister Veena George has assured free medical care for Suresh, and inquired with health officials over his condition, Mathrubhumi reported. "The snake-man of Kerala" Vava Suresh is battling for his life after he was bit by a cobra he was rescuing earlier today. While the govt says they will cover his medical expenses, it\'s surprising that even till today most snake catchers in India are not given/use appropriate gear pic.twitter.com/ayF9UIXjx3 — Deepak Bopanna (@dpkBopanna) January 31, 2022 Suresh is renowned for handling and rescuing snakes, with his services being extremely popular in parts of Kerala and Tamil Nadu. He responds to distress calls from people who spot snakes, catches them and releases them into the wild along with forest department officials. He even has his own TV show called ‘Snake Master’ on a Malayalam channel. Back in 2015, Suresh had said that he had caught more than 38,000 snakes and received more than 3,000 snake bites till then. In February 2020, Suresh was hospitalised after being bitten by a pit viper he was trying to catch.']
+
+
+Vava Suresh----SUS.NAME
+
+cobra----SP.COMMON
+
+Vava Suresh----SUS.NAME
+
+cobra----SP.COMMON
+
+Suresh----SUS.NAME
+
+gunny bag----CONCEALMENT_METHOD
+
+cobra----SP.COMMON
+
+Monday----DATE
+
+January 31----DATE
+
+Forty-seven-year-old----SUS.AGE
+
+Kurichy village near Changanassery in Kottayam district----LOC.EXACT
+
+Suresh----SUS.NAME
+
+gunny bag----CONCEALMENT_METHOD

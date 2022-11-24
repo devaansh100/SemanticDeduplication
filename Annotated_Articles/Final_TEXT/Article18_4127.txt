@@ -1,0 +1,37 @@
+
+['STF of Odisha Police Crime Branch seized leopard skin & other incriminating material from Daringbadi of Kandhamal\nDaringbadi: STF of Odisha Police Crime Branch seized leopard skin & other incriminating material, in a raid with the help of forest officials, from Daringbadi of Kandhamal dist on April 9. One man arrested & handed over to Daringbadi forest officials for legal action, inquiry is going on.']
+
+
+STF of Odisha Police Crime Branch----AUTH.SEIZE
+
+seized----CRIME.CAT
+
+leopard----SP.COMMON
+
+skin----ITEM
+
+Daringbadi----LOC.EXACT
+
+Kandhamal----LOC.DISTRICT
+
+STF of Odisha Police Crime Branch----AUTH.SEIZE
+
+seized----CRIME.CAT
+
+leopard----SP.COMMON
+
+skin----ITEM
+
+raid----CRIME.CAT
+
+forest officials----AUTH.SEIZE
+
+Daringbadi----LOC.EXACT
+
+Kandhamal----LOC.DISTRICT
+
+April 9----DATE
+
+One----SUS.NUMBER
+
+man arrested & handed over to Daringbadi forest officials----OUTCOME

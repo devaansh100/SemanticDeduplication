@@ -1,0 +1,35 @@
+
+['Two bodies fished out from backwaters of Khadakwasla dam\nPUNE The fire brigade department and Haveli police fished out two bodies of youths who were found floating in the backwaters of Khadakwasla dam on Saturday. The incident came to light after, women who were washing clothes at the embankment, informed the local police station, that two pairs of shoes and clothes are lying near the reservoir and no human activity is seen inside the backwater, said officials. The two youths have been identified as Vijay Nagnath Rokade ( 23) and Robin Kuber Waghmare ( 23) both of whom were missing for the past two days. They were residents of Warje Malwadi, police said. The exact circumstances surrounding their death are being investigated, an official said, adding that drowning seems to be the cause of death. According to the police, the duo had entered into water hole in the backwater area of the dam, got trapped inside and later died. Police Inspector Yashwant Nalawade said that a case of accidental death due to drowning has been lodged in connection with the incident. The police have appealed to the revelers to avoid getting into dam waters as huge crowds are visiting the Khadakwasla dam water area during the summer.']
+
+
+Two----QTY
+
+bodies----ITEM
+
+fished----CRIME.CAT
+
+Khadakwasla dam----LOC.EXACT
+
+PUNE----LOC.CITY
+
+fire brigade department----AUTH.SEIZE
+
+Haveli police----AUTH.SEIZE
+
+fished----CRIME.CAT
+
+two----QTY
+
+bodies----ITEM
+
+Saturday----DATE
+
+Vijay Nagnath Rokade----SUS.NAME
+
+23----SUS.AGE
+
+Robin Kuber Waghmare----SUS.NAME
+
+23----SUS.AGE
+
+Warje Malwadi----SUS.LOC

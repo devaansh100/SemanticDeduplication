@@ -1,0 +1,33 @@
+
+['Monitor Lizard Gangraped, Does Human Depravity Know No Bounds?\nIn a disturbing incident reported from Gothane village of Ratnagiri district in Maharashtra, four persons were arrested by the police allegedly for a monitor lizard gangrape. The crime came to light when the police booked the accused persons for illegally entering the forest reserve on March 31. The accused persons were identified as Mangesh Kamtekar, Sandeep Tukaram Pawar, Akshay Kamtekar and Ramesh Ghag. Reportedly, the accused persons illegally entered the Chandoli National Park, part of the Sahyadri Tiger Reserve, with guns for hunting. Bengal Monitor Lizard Gangrape In Maharashtra As the police started investigating the case, they reportedly found evidence that the accused men had allegedly raped a Bengal monitor lizard. One of the accused also recorded the bizarre incident on his phone. The forest official said, “We have recovered all the related evidence from the accused and they were granted forest department custody initially, but are out on bail now.” The accused persons have been asked by the authorities to mark their presence in the forest officer’s office every Monday. The forest officer is investigating the case the further. The accused persons have been booked under the Wild Life (Protection) Act, 1972. This case of sexual assault on an animal is not new in India but it sure makes one question the mentality of humans once again. In case the accused persons are actually guilty of committing such an bizarre crime, they will join the already long list of Indians who have been booked for animal cruelty across the country. As per a report published in 2021, over five lakh cases of animal cruelty including rape was reported between 2010 and 2020. Several animal rights group have been raising voice against the prevalent practice in the country. As per the law is concerned, bestiality is punishable with jail time under Section 377 of the Indian Penal code. The Prevention of Cruelty to Animals Act, 1960 (PCA Act) is also in effect. Suggested Reading: Gauravzone Animal Cruelty Case: Where Does Fun Stop And Crime Begin On Social Media? Looking at the rate of such crimes and the growing rate of sexual crimes against women, one is compelled to ask, are Indian men that deprived? Is there no limits to how many or what sort of creature they can violate in order to fulfill some sort of twisted desire? The accused persons in the said case violated an animal by illegally entering a protected forest reserve. What must be going on with animals on streets, left outside to die and become victims of humans? Views expressed by the author are their own.']
+
+
+Monitor Lizard----SP.COMMON
+
+Gangraped----CRIME.CAT
+
+Gothane village----LOC.EXACT
+
+Ratnagiri----LOC.DISTRICT
+
+Maharashtra----LOC.STATE
+
+four----SUS.NUMBER
+
+monitor lizard----SP.SPECIFIC
+
+gangrape----CRIME.CAT
+
+March 31----DATE
+
+Mangesh Kamtekar----SUS.NAME
+
+Sandeep Tukaram Pawar----SUS.NAME
+
+Akshay Kamtekar----SUS.NAME
+
+Ramesh Ghag----SUS.NAME
+
+Maharashtra----LOC.STATE
+
+Bengal monitor lizard----SP.SPECIFIC

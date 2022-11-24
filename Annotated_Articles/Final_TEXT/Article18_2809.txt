@@ -1,0 +1,35 @@
+
+['Andhra Pradesh: Killer bear dies after it was captured on its way to Vizag zoo\nSRIKAKULAM: A female bear, believed to be around ten-year-old, that had created panic in Srikakulam district by killing a farmer and injuring six others and two cattle in between Kidisingi and Vajrapukotturu, died on its way to Vizag zoo from Srikakulam after it was tranquilized and captured by forest team on Tuesday.It may be recalled that six persons were severely injured in the bear attack at Kidisingi on Monday. The attack comes a day after the sloth bear killed an elderly farmer K Kodanda Rao near a cashew orchard on Sunday.Speaking to TOI, Chief Conservator of Forests (CCF-Vizag), P Ram Mohan said that the bear attacked a bull on Monday night after attacking people, but it suffered injuries when the bull retaliated with its horns.The bear moved to a shed of a farmer near a farm field at Kidisingi village on Tuesday morning and remained calm since then. The forest officials, including a rescue team from the Vizag zoo, with the support of the police, rushed to the spot to capture the wild animal. The bear was administered a tranquilizer shot by a veterinary expert from Vizag zoo on Tuesday to bring the animal under control.Later, the forest officials shifted the animal into a vehicle and moved towards Vizag zoo. On the way the forest officials injected an antibiotic dose , but the animal died after some time.The killer bear was very active till Monday midnight but became calm after its fight with the bull. The bear might have suffered internal injuries though we didn’t find any blood stains due to thick fur. The bear died around 5pm on Tuesday, the forest officials said. We will conduct a post-mortem on the bear to ascertain the exact reasons for the death, they added.The locals said that the bear was the mother of two cubs and it had turned ferocious after the cubs were separated. We have launched an operation to trace and rescue the cubs, Ram Mohand added.The locals said that the wild animal attacked T Shanmukha Rao while he, along with a few others, was building a shed at his cashew and coconut orchard on Monday. Three youngsters, K Appalaswamy, Ch Chalapathi Rao, U Santhosh rushed to the spot and tried to rescue him, but the bear attacked them as well. Later, an ex-army man P Tulasi Rao and his brother P Purushottam, who is currently serving in Indian Army, rushed to the spot and tackled the bear rescuing the other four people. Tulasi and Purushottam also suffered injuries in the incident. However, they managed to succeed in driving the bear away.Srikakulam police chief GR Radhika said that among the six injured persons in the bear attack, four people were shifted to a private hospital in Vizag city for better medical care. The four people on the ventilator are said to be stable in Vizag, she added.']
+
+
+bear----SP.COMMON
+
+Srikakulam----LOC.EXACT
+
+forest team----AUTH.SEIZE
+
+Tuesday----DATE
+
+Tuesday----DATE
+
+morning----TIME
+
+Monday----DATE
+
+midnight----TIME
+
+5pm----TIME
+
+Tuesday----DATE
+
+K Appalaswamy----SUS.NAME
+
+Ch Chalapathi Rao----SUS.NAME
+
+U Santhosh----SUS.NAME
+
+ex-army man----SUS.AFFIL
+
+P Tulasi Rao----SUS.NAME
+
+P Purushottam----SUS.NAME

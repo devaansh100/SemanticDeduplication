@@ -1,0 +1,113 @@
+
+['Forest officers trap men trading in pangolin scales\nBy Express News Service HYDERABAD: A team of forest officials from Kinnerasani division posing as customers of pangolin scales from Nalgonda, bust the plans of a group of people from Yellandu town in Kothagudem district planning to trade in pangolin scales. Pangolin is a protected species under the Wildlife Protection Act and is one of the most traded wildlife species in the world. On Friday based on reliable information, the Forest Divisional Officer (FDO) of Kinnerasani wildlife division along with a team of five forest officers undertook a sting operation. Posing as a purchaser of pangolin scales from Nalgonda, the FDO spoke to a man named Ashok and set up a location for transaction of one kilogram of pangolin scales for Rs 30,000 at Yeallandu crossroads, Kothagudem. Later that evening two persons, Manikanta and Shabbir, reached the location and handed over a white polythene bag containing half kg of the wildlife product, to the forest officer who was undercover as a buyer. Both of them were trapped. The culprits revealed during investigation that they were residents of N Jagganadhapuram, Mukalpalli mandal and were provided the scales by Ashok. Early on Saturday, a team of forest officials raided Ashok’s house in Jinnelagudem of Mulkalapalli mandal. Upon enquiry, Ashok’s mother revealed that she had purchased the scales from their neighbour for Rs 3,000. The neighbours had killed a pangolin while passing through the forest four months back. They removed the scales and consumed its meat. The forest department will soon produce the culprits in court. HYDERABAD: A team of forest officials from Kinnerasani division posing as customers of pangolin scales from Nalgonda, bust the plans of a group of people from Yellandu town in Kothagudem district planning to trade in pangolin scales. Pangolin is a protected species under the Wildlife Protection Act and is one of the most traded wildlife species in the world. On Friday based on reliable information, the Forest Divisional Officer (FDO) of Kinnerasani wildlife division along with a team of five forest officers undertook a sting operation. Posing as a purchaser of pangolin scales from Nalgonda, the FDO spoke to a man named Ashok and set up a location for transaction of one kilogram of pangolin scales for Rs 30,000 at Yeallandu crossroads, Kothagudem. Later that evening two persons, Manikanta and Shabbir, reached the location and handed over a white polythene bag containing half kg of the wildlife product, to the forest officer who was undercover as a buyer. Both of them were trapped. The culprits revealed during investigation that they were residents of N Jagganadhapuram, Mukalpalli mandal and were provided the scales by Ashok. Early on Saturday, a team of forest officials raided Ashok’s house in Jinnelagudem of Mulkalapalli mandal. Upon enquiry, Ashok’s mother revealed that she had purchased the scales from their neighbour for Rs 3,000. The neighbours had killed a pangolin while passing through the forest four months back. They removed the scales and consumed its meat. The forest department will soon produce the culprits in court.']
+
+
+pangolin----SP.COMMON
+
+scales----ITEM
+
+forest officials----AUTH.SEIZE
+
+Kinnerasani division----AUTH.SEIZE
+
+pangolin----SP.COMMON
+
+scales----ITEM
+
+Nalgonda----ROUTE.SRC
+
+Yellandu town----LOC.EXACT
+
+pangolin----SP.COMMON
+
+scales----ITEM
+
+Friday----DATE
+
+reliable information----DETECTION_METHOD
+
+Forest Divisional Officer----AUTH.SEIZE
+
+FDO----OFF.DESIG
+
+forest officers----AUTH.SEIZE
+
+sting operation----DETECTION_METHOD
+
+pangolin----SP.COMMON
+
+scales----ITEM
+
+Nalgonda----LOC.EXACT
+
+Ashok----SUS.NAME
+
+one kilogram----QTY
+
+pangolin----SP.COMMON
+
+scales----ITEM
+
+Rs 30,000----VALUE
+
+Yeallandu crossroads, Kothagudem----LOC.EXACT
+
+Manikanta----SUS.NAME
+
+Shabbir----SUS.NAME
+
+half kg----QTY
+
+N Jagganadhapuram, Mukalpalli mandal----SUS.LOC
+
+scales----ITEM
+
+forest officials----AUTH.SEIZE
+
+pangolin----SP.COMMON
+
+scales----ITEM
+
+Nalgonda----LOC.EXACT
+
+bust----CRIME.CAT
+
+Yellandu town----LOC.EXACT
+
+pangolin----SP.COMMON
+
+scales----ITEM
+
+Forest Divisional Officer (FDO)----OFF.DESIG
+
+forest officers----AUTH.SEIZE
+
+sting operation----DETECTION_METHOD
+
+Posing as a purchaser of pangolin scales from----DETECTION_METHOD
+
+Nalgonda----LOC.EXACT
+
+FDO----AUTH.SEIZE
+
+Ashok----SUS.NAME
+
+one kilogram----QTY
+
+pangolin----SP.COMMON
+
+scales----ITEM
+
+Rs 30,000----VALUE
+
+Manikanta----SUS.NAME
+
+Shabbir----SUS.NAME
+
+white polythene bag----CONCEALMENT_METHOD
+
+half kg----QTY
+
+N Jagganadhapuram, Mukalpalli mandal----SUS.LOC
+
+scales----ITEM

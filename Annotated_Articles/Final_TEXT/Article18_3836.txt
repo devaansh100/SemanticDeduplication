@@ -1,0 +1,17 @@
+
+['Another wild elephant dies in Kovai forest\nCOIMBATORE: A committee constituted by the Principal Chief Conservator of Forests (PCCF) is already probing into the death of wild elephants by visiting Coimbatore. In the latest incident, a team of frontline staff, who were on a routine patrol, found the carcass of a tusker in the Nellithurai reserve forest cover. The reason behind the death of the animal will be known only after the post mortem, which is likely to be done on Thursday. As the carcass of the animal is found deep inside the forest area and could be reached only after a long trek, the post mortem could not be done immediately. Since the tusks remained intact, it may not be a poaching attempt, said an official. In another wildlife-related incident, S Naveen Kumar, 27 from Viscose Colony in Alangombu was trampled to death by a wild elephant in Sirumugai near Coimbatore on Tuesday night. However, the incident was known only on Wednesday after villagers noticed him lying dead and informed the forest department at around 11 am. “He was returning on a two-wheeler when he came under elephant attack. His death by elephant attack was confirmed by the nature of injuries and the presence of footprints of the animal,” said the official.']
+
+
+wild elephant----SP.COMMON
+
+Kovai forest----LOC.EXACT
+
+routine patrol----DETECTION_METHOD
+
+27----SUS.AGE
+
+Viscose Colony in Alangombu----SUS.LOC
+
+Tuesday----DATE
+
+night----TIME

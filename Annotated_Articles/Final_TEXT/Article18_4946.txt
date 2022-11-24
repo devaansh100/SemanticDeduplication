@@ -1,0 +1,21 @@
+
+['Kollam witnesses bumper bidding, fisher sells three ghol fish at Rs 2.15 lakhs\nKollam: A fisher from Kollam’s Neendakara was able to sell his catch of ghol fish at a whooping Rs 2.15 lakhs. Notably, ghol fish or Protonibea diacanthus is one among the most expensive marine fish which has high demand in Asia. The boat named Manu owned by Luka came upon a small school of ghol the other day and the three fish were caught from a 3 km distance away from the shore. More often ghol is spotted on shores of Gujarat, Maharashtra and Odisha. The demand is not for the meat, but its medicinal values. The bladder of fish has been used for making threads employed in sophisticated surgeries. The bladder is also used for purifying wine, especially in Singapore. Similarly, the fish flesh is used as ingredient for manufacture of cosmetic products. The fish is popularly known as sea gold and rich in nutrients like iodine, omega-3, iron, torrin, magnesium, DHA, EPA, fluoride and selenium. Experts said that the presence of ghol on Kerala coast may be due to climate change.']
+
+
+fisher----SUS.AFFIL
+
+three----QTY
+
+ghol----SP.SPECIFIC
+
+fish----SP.COMMON
+
+Rs 2.15 lakhs----VALUE
+
+fisher----SUS.AFFIL
+
+Neendakara----SUS.LOC
+
+ghol fish----SP.SPECIFIC
+
+Rs 2.15 lakhs----VALUE

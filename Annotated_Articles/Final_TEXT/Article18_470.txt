@@ -1,0 +1,49 @@
+
+['Assam: Two arrested with rhino horn in Jorhat\nGuwahati: Two persons were arrested with a rhino horn on Sunday evening from the Teliapatty area of Jorhat. The arrested persons are accused of smuggling rhino horns. They were identified as Azizul Rahman and Rajan Bauri. Of them, Rahman is a desident of Dakhin Hengera and Bauri is a resident of Chutjan Kathoni Bagan. Both in the Golaghat district. Also Read: Assam: After arrest in corruption case, SI Junmoni Rabha suspended from service They were arrested based on a secret input with the police. Based on the input, the police raided a house in the Teliapatty area in Jorhat’s Titabor. During the raid, the police found them with the horn. Also Read: Driver held for stealing music system from Assam CM’s escort vehicle They had allegedly come to Titabor so that they could sell the rhino horn. As per reports, the 700 grams horn was supposed to be sold for Rs 1.5 crore.']
+
+
+Assam----LOC.STATE
+
+Two----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+rhino----SP.COMMON
+
+horn----ITEM
+
+Jorhat----LOC.DISTRICT
+
+Guwahati----LOC.CITY
+
+Two----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+rhino----SP.COMMON
+
+horn----ITEM
+
+Sunday----DATE
+
+evening----TIME
+
+Teliapatty area of Jorhat----LOC.EXACT
+
+smuggling----CRIME.CAT
+
+rhino----SP.COMMON
+
+horns----ITEM
+
+Azizul Rahman----SUS.NAME
+
+Rajan Bauri----SUS.NAME
+
+Chutjan Kathoni Bagan----SUS.LOC
+
+Golaghat----SUS.LOC
+
+700 grams----QTY
+
+Rs 1.5 crore----VALUE

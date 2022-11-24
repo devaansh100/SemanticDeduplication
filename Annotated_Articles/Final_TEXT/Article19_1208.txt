@@ -1,0 +1,29 @@
+
+['Crop-raiding wild elephant Chinna Thambi captured again\nTIRUPUR: Crop-raiding wild elephant Chinna Thambi ’s free run in non-forest areas for 13 days has come to an end on Friday as forest department personnel captured it from near Madathukulam in Tirupur district on Friday.It took more than six hours for forest officials to capture the 25-year-old elephant.After the Madras high court permitted the state government to capture Chinna Thambi, the department deployed more than 100 personnel and a three-member veterinarian team to capture the elephant with the support of two kumkis -- Khaleem and Suyambu.On Friday morning, the forest personnel began the operation when Chinna Thambi was found in a private sugarcane field at Kannadipudur, where it had been camping for the last five days.Veterinarians, led by Sathyamangalam tiger reserve surgeon K Asokan, stood in three different places with darts containing sedatives as the kumkis chased Chinna Thambi. The veterinarians sedated it with five darts, following which the personnel threw ropes around the elephant’ s neck. They removed the radio collar from the jumbo.Later, Chinna Thambi was led to a truck. The elephant was taken to Varakaliyur elephant camp where it will be kept in captivity.The elephant was earlier captured from near Thadagam reserve forest in Coimbatore district on January 25 and was released into reserve forest near Topslip. However, it returned to human habitats and started raiding crops.']
+
+
+wild elephant----SP.COMMON
+
+Chinna Thambi----SP.COMMON
+
+wild elephant----SP.COMMON
+
+Chinna Thambi----SP.SPECIFIC
+
+Friday----DATE
+
+forest department----AUTH.SEIZE
+
+Tirupur----LOC.DISTRICT
+
+Friday.It----null
+
+forest officials----AUTH.SEIZE
+
+Sathyamangalam tiger reserve surgeon----AUTH.SEIZE
+
+K Asokan----OFF.NAME
+
+radio collar----ITEM
+
+truck----TRANSPORT_MODE

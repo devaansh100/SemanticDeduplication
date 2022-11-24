@@ -1,0 +1,35 @@
+
+['Live Pangolin Rescued In Boudh, One Arrested\nBoudh: The Special Task Force (STF) wing of Odisha police rescued a live pangolin and arrested a wildlife smuggler in Boudh district. The accused has been identified as Pradesh Mohakud. According to reports, the officials of STF with help of forest officials conducted a raid near Bagharpur village under Boudh police station in the district and rescued the pangolin weighing 11 kg. While a case has been registered into the incident, the accused has been handed over to district forest officials for legal action, the police said. During the last one year, the task force has seized 13 live pangolins and 30 kg 400 grams of pangolin scales and arrested several wildlife criminals involved in the illegal trade.']
+
+
+Pangolin----SP.COMMON
+
+Rescued----CRIME.CAT
+
+Boudh----LOC.DISTRICT
+
+One----SUS.NUMBER
+
+Arrested----CRIME.CAT
+
+Special Task Force (STF) wing of Odisha police----AUTH.SEIZE
+
+a----QTY
+
+pangolin----SP.COMMON
+
+arrested----CRIME.CAT
+
+a----SUS.NUMBER
+
+Pradesh Mohakud----SUS.NAME
+
+STF----AUTH.SEIZE
+
+forest officials----AUTH.SEIZE
+
+pangolin----SP.COMMON
+
+11 kg----QTY
+
+case has been registered into the incident----OUTCOME

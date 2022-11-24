@@ -1,0 +1,45 @@
+
+['Poacher held; wild boar meat seized in Jajpur\nForest officials in Japur on Sunday arrested a poacher and seized 65 kilograms of wild boar meat, four traps, two bows and arrows from his possession. The poacher Babuli Hanaga (55) was caught at village Fulajhari within the Mahagiri Reserve Forest under the Tamaka Forest Range while he was trying to sell the meat. During interrogation, Babuli confessed that he along with other villagers had killed a wild boar in the forest on Saturday night after putting a trap. He was booked under Sections 9, 27, 29 and 35 of the Wildlife Protection Act, 1972. The department was raiding hideouts to nab other poachers.']
+
+
+wild boar----SP.COMMON
+
+meat----ITEM
+
+seized----CRIME.CAT
+
+Jajpur----LOC.CITY
+
+Forest officials in Japur----AUTH.SEIZE
+
+Sunday----DATE
+
+arrested----CRIME.CAT
+
+a----SUS.NUMBER
+
+65 kilograms----QTY
+
+wild boar----SP.COMMON
+
+meat----ITEM
+
+four----QTY
+
+traps----ITEM
+
+two----QTY
+
+bows and arrows----ITEM
+
+Babuli Hanaga----SUS.NAME
+
+55----SUS.AGE
+
+village Fulajhari within the Mahagiri Reserve Forest under the Tamaka Forest Range----LOC.EXACT
+
+sell----CRIME.CAT
+
+night----TIME
+
+booked under Sections 9, 27, 29 and 35 of the Wildlife Protection Act, 1972----OUTCOME

@@ -1,0 +1,29 @@
+
+['Madras HC refuses to stay relocation of deer from IIT, CLRI\nCHENNAI: The Madras high court on Friday refused to restrain the Tamil Nadu forest department from relocating spotted deer found in non-forest areas of institutions such as IIT-M and Central Leather Research Institute (CLRI) in Guindy.A division bench of Justice M Sathyanarayanan and Justice N Seshasayee, however, observed that the forest department has to frame guidelines on the manner in which wild animals are trapped or caught.The court expressed its anguish on the shrinking forest cover and natural habitat of wild animals despite the laws to meet eventualities. “But as usual, there is no strict implementation of laws and regulations and it is also tardy, and the offenders are also let scot-free on account of improper implementation of the rules,” the court said.The court made the observations while dismissing the PIL filed by S Muralidharan challenging the decision to relocate the free-ranging deer from CLRI campus. The bench then posted the plea to January 21 for the forest department to file an affidavit on the condition of translocated animals and guidelines for catching them.Earlier, the department opposed the plea submitting that 497 spotted deer had died on the IIT-Madras campus and CLRI premises in the past five years. Autopsy had revealed that most of the deer had four to six kilograms of plastic waste in their stomachs, it said.According to the department, Raj Bhavan, IIT -Madras and CLRI premises are not the natural habitat of spotted deer. The areas do not offer food, water and cover offered by natural habitat. Due to fragmentation of the area because of construction of buildings, fences and compound walls all around these institutions, deer which were once moving all around in the open areas got trapped in such campuses and were exposed to various threats, it said.']
+
+
+Madras HC----AUTH.SEIZE
+
+deer----SP.COMMON
+
+IIT----LOC.EXACT
+
+CLRI----LOC.EXACT
+
+CHENNAI----LOC.DISTRICT
+
+Madras high court----AUTH.SEIZE
+
+Tamil Nadu forest department----AUTH.SEIZE
+
+spotted deer----SP.SPECIFIC
+
+IIT-M----LOC.EXACT
+
+Central Leather Research Institute----LOC.EXACT
+
+CLRI----LOC.EXACT
+
+M Sathyanarayanan----OFF.NAME
+
+N Seshasayee----OFF.NAME

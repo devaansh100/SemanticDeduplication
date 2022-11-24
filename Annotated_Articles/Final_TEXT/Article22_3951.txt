@@ -1,0 +1,19 @@
+
+['Khammam: Tiger spotted in Sathupalli forests, public alerted\nKhammam: Tiger spotted in Sathupalli forests, public alerted By Telangana Today Published: Published Date - 06:53 PM, Tue - 1 February 22 Khammam: A tiger was spotted in Sathupalli forest range in the district on Tuesday. The big cat’s pug marks were spotted in Chandrayapalem forests in Sathupalli mandal. The tiger was captured by a camera trap installed in the forests by the forest department officials. It might be noted that the tiger’s pug marks were found on Friday in Jagannadhapuram in the forest range. In the wake of the movements of the tiger, local forest officials alerted the villagers not to venture into the forests and warned not to cause any harm to the tiger. If the tiger kills any cattle in the villages proper compensation would be paid. Now you can get handpicked stories from Telangana Today on Telegram everyday. Click the link to subscribe. Click to follow Telangana Today Facebook page and Twitter .']
+
+
+Tiger----SP.COMMON
+
+Sathupalli forests----LOC.EXACT
+
+Tiger----SP.COMMON
+
+Sathupalli forests----LOC.EXACT
+
+tiger----SP.COMMON
+
+Tuesday----DATE
+
+forest department officials----AUTH.SEIZE
+
+Friday----DATE

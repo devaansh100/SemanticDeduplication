@@ -1,0 +1,41 @@
+
+['Tiger continues to elude capture even after 10 days, doesn’t take bait in cage\nS Trimurthulu By Express News Service KAKINADA: It has been more than 10 days since the tiger strayed into a human habitation in Prathipadu mandal. The adult male tiger which caused panic among people of six villages, besides preying on cattle, is yet to be caught by forest staff. However, officials who are tracking the tiger movement, are of the view that it is better to wait and watch as any hasty decision to catch the wild cat may be counter productive as it has not attacked human beings so far. Use of tranquilizers when the animal is in the wild is not advisable and driving it away by lighting fire balls as demanded by some people of adjacent villages is also unscientific. Use of tranquilizers on wild animals is permitted only in plain areas. In the wild, if an animal is sedated, it may fall from the hilly terrain or into a stream leading to injury or loss of life,” a forest official explained. People of some villages in Prathipadu mandal where normal life has been affected due to the restrictions imposed by the forest officials on their movement, suggested that the tiger be driven away into the forest by lighting torches and beating drums. “These methods are also against the tiger conservation norms as the wild cat may fall while running fast or slip into gorges,’’ the official told TNIE. The tiger should be either forced to return to its habitat by depriving it of easy prey or caught in the cage. “We have adopted the cage method and arranged cages at vantage points to catch the wild cat. If the tiger gets disturbed due use of unscientific methods, it may enter villages and attack humans,” District Forest Officer IKV Raju told TNIE. To ensure that the tiger does not get prey, forest officials have urged local people not to allow their cattle into agricultural fields. However, some villagers did not heed to the appeal of forest officials and let cattle in the open. As a result, the tiger has still stayed in the forest fringe areas preying on cattle.Meanwhile, the tiger did not fall into the trap laid by forest officials to catch it. Though it came close to the cage set up with the flesh of its kill, the tiger did not take the bait. It wandered near the cage and left the place on Saturday night. Around 2 am, the tiger walked up to one of the three cages in which flesh of the cattle killed by it was put as a bait. It wandered near the cages smelling the ground, but did not go into the trap. Meanwhile, the forest officials have brought two more cages from Kurnool district to Sarabavaram to catch the tiger. With this, the total number of cages deployed in Prathipadu to catch the tiger, including three mobile cages, has gone up to eight. Two more cages brought from Kurnool Forest officials have brought two more cages from Kurnool to Sarabavaram to catch the tiger. With this, the total number of cages deployed in Prathipadu to catch the tiger, including three mobile cages, has gone up to eight. The tiger which came close to a cage, did not take the bait on Saturday night KAKINADA: It has been more than 10 days since the tiger strayed into a human habitation in Prathipadu mandal. The adult male tiger which caused panic among people of six villages, besides preying on cattle, is yet to be caught by forest staff. However, officials who are tracking the tiger movement, are of the view that it is better to wait and watch as any hasty decision to catch the wild cat may be counter productive as it has not attacked human beings so far. Use of tranquilizers when the animal is in the wild is not advisable and driving it away by lighting fire balls as demanded by some people of adjacent villages is also unscientific. Use of tranquilizers on wild animals is permitted only in plain areas. In the wild, if an animal is sedated, it may fall from the hilly terrain or into a stream leading to injury or loss of life,” a forest official explained. People of some villages in Prathipadu mandal where normal life has been affected due to the restrictions imposed by the forest officials on their movement, suggested that the tiger be driven away into the forest by lighting torches and beating drums. “These methods are also against the tiger conservation norms as the wild cat may fall while running fast or slip into gorges,’’ the official told TNIE. The tiger should be either forced to return to its habitat by depriving it of easy prey or caught in the cage. “We have adopted the cage method and arranged cages at vantage points to catch the wild cat. If the tiger gets disturbed due use of unscientific methods, it may enter villages and attack humans,” District Forest Officer IKV Raju told TNIE. To ensure that the tiger does not get prey, forest officials have urged local people not to allow their cattle into agricultural fields. However, some villagers did not heed to the appeal of forest officials and let cattle in the open. As a result, the tiger has still stayed in the forest fringe areas preying on cattle.Meanwhile, the tiger did not fall into the trap laid by forest officials to catch it. Though it came close to the cage set up with the flesh of its kill, the tiger did not take the bait. It wandered near the cage and left the place on Saturday night. Around 2 am, the tiger walked up to one of the three cages in which flesh of the cattle killed by it was put as a bait. It wandered near the cages smelling the ground, but did not go into the trap. Meanwhile, the forest officials have brought two more cages from Kurnool district to Sarabavaram to catch the tiger. With this, the total number of cages deployed in Prathipadu to catch the tiger, including three mobile cages, has gone up to eight. Two more cages brought from Kurnool Forest officials have brought two more cages from Kurnool to Sarabavaram to catch the tiger. With this, the total number of cages deployed in Prathipadu to catch the tiger, including three mobile cages, has gone up to eight. The tiger which came close to a cage, did not take the bait on Saturday night']
+
+
+Tiger----SP.COMMON
+
+Saturday----DATE
+
+night----TIME
+
+forest officials----AUTH.SEIZE
+
+two----QTY
+
+cages----ITEM
+
+Kurnool district----ROUTE.SRC
+
+Kurnool Forest officials----ROUTE.SRC
+
+two----QTY
+
+Kurnool to Sarabavaram to----ROUTE.SRC
+
+tiger----SP.COMMON
+
+Saturday----DATE
+
+night----TIME
+
+2 am----TIME
+
+forest officials----AUTH.SEIZE
+
+two----QTY
+
+cages----ITEM
+
+Kurnool district----ROUTE.SRC
+
+Kurnool Forest officials----AUTH.SEIZE

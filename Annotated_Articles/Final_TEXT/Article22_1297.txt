@@ -1,0 +1,45 @@
+
+['3 kangaroos rescued after they were dumped by traffickers in north Bengal; 1 found dead\nForest officials and police personnel rescued three kangaroos from Jalpaiguri in north Bengal on Friday before they could be smuggled out by wildlife traffickers. On Saturday locals found the carcass of one kangaroo near Siliguri. “All three were sub-adults and were in very poor health. They were rescued and sent to the state-run North Bengal Wild Animal Park for treatment. Earlier this month we had rescued one kangaroo from Alipurduar district in north Bengal,” said Debal Roy chief wildlife warden of West Bengal. On Friday, two kangaroos were rescued from Gajoldoba, a tourist destination in Jalpaiguri district, near Siliguri, while another one was rescued from Farabari, around 40 km away, also in Jalpaiguri district near Siliguri. On Saturday morning locals spotted the carcass of another kangaroo and alerted the forest department. “We had information that kangaroos would be trafficked. Naka checking was being done accordingly. Later the kangaroos were found on the road. They were probably dumped by the traffickers. An investigation has been started. None have been arrested so far,” said a forest official. Earlier this month a kangaroo was rescued from Alipurduar district. A challan seized by the forest department from the accused persons showed that two animals were being taken to a zoo in Indore. Police had stopped a truck at the Barobisha Police Outpost on the Assam-Bengal border and found the animal in a small cage in the truck. The truck driver and one more person travelling in the truck were arrested. “We, however, found one animal. It may have been that another animal had died on its way and the traffickers had dumped its body somewhere. The animal was later sent to Alipore Zoo in Kolkata. The case is still going on,” said a forest official.']
+
+
+3----QTY
+
+kangaroos----SP.COMMON
+
+rescued----CRIME.CAT
+
+north Bengal----LOC.STATE
+
+1----SUS.NUMBER
+
+Forest officials----AUTH.SEIZE
+
+police personnel----AUTH.SEIZE
+
+three----QTY
+
+kangaroos----SP.COMMON
+
+Jalpaiguri----LOC.EXACT
+
+Bengal----LOC.STATE
+
+Friday----DATE
+
+carcass----ITEM
+
+one----QTY
+
+kangaroo----SP.COMMON
+
+kangaroo----SP.COMMON
+
+information----DETECTION_METHOD
+
+forest department----AUTH.SEIZE
+
+truck----TRANSPORT_MODE
+
+small cage----CONCEALMENT_METHOD
+
+truck----TRANSPORT_MODE

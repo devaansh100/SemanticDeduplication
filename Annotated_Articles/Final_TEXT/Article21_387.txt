@@ -1,0 +1,67 @@
+
+['Six crests of ‘Himalayan monal’ recovered in Chamba, four held\nThe Dalhousie police in Chamba have recovered six plumes suspected to be that of threatened bird Himalayan monal and arrested four persons, including a woman. Dalhousie DSP Vishal Verma said a police team led by Constable Vipan Kumar had set up a naka at Lahru near Chowari town as a routine exercise on Sunday. “They stopped a car coming from Chamba side for checking. The occupants in the car were jittery after seeing the police which raised the suspicions of them being involved in some illegal act,” he added. Upon checking, the police found six plumes and some feathers in their possession. The accused have been identified as Hans Raj, Anil Kumar and Han Raj from Salooni area of the district while the woman Sajo Devi belongs to Kullu. He said the accused have been booked under the provisions of the Wildlife Protection Act and being quizzed to trace the source where they procured the plumes. Meanwhile, divisional forest officer Kamal Bharti said the plumes have been sent to forensic lab to ascertain to which bird they belong. The monal, which belongs to the pheasant family, is poached for its colourful plumes. It is the national bird of Nepal, where it is known as the ‘danphe’, and the state bird of Uttarakhand. It was also the state bird of Himachal Pradesh until 2007. Its colourful crest is used to decorate caps. Though hunting the monal (lophophorus impejanus) was banned in Himachal in 1982, there has been little check on its poaching and its plumes are smuggled in the market. Wearing a cap with a monal crest is a tradition in upper reaches of Himachal. Such caps are also gifted on auspicious occasions, especially marriages. The state forest department imposed a complete ban on wearing such caps this year. Offence would be punishable with seven year imprisonment or ₹10,000 fine or both. Though the bird is one of the least concerned species in the International Union for Conservation of Nature’s list of endangered species, the monal is under threat in this part of the Himalayas due to large-scale poaching.']
+
+
+Six----QTY
+
+crests----ITEM
+
+Himalayan monal----SP.COMMON
+
+Chamba----LOC.DISTRICT
+
+four----SUS.NUMBER
+
+Dalhousie police----AUTH.SEIZE
+
+Chamba----LOC.DISTRICT
+
+six----QTY
+
+plumes----ITEM
+
+Himalayan monal----SP.COMMON
+
+arrested----CRIME.CAT
+
+four----SUS.NUMBER
+
+Dalhousie DSP----OFF.DESIG
+
+Vishal Verma----OFF.NAME
+
+Constable----OFF.DESIG
+
+Vipan Kumar----OFF.NAME
+
+Lahru near Chowari town----LOC.EXACT
+
+routine exercise----DETECTION_METHOD
+
+Sunday----DATE
+
+Chamba----LOC.DISTRICT
+
+six----QTY
+
+plumes----ITEM
+
+feathers----ITEM
+
+Hans Raj----SUS.NAME
+
+Anil Kumar----SUS.NAME
+
+Han Raj----SUS.NAME
+
+Salooni area----SUS.LOC
+
+woman----SUS.GENDER
+
+Sajo Devi----SUS.NAME
+
+Kullu----SUS.LOC
+
+accused have been booked under the provisions of the Wildlife Protection Act----OUTCOME
+
+plumes----ITEM

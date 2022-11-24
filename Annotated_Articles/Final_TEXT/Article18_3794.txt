@@ -1,0 +1,7 @@
+
+["Watch: frog screams at camera, video goes viral. See what expert said\nAn unusual video of a frog has gone viral on social media The video shows a frog screaming at the camera It pauses for 2-3 seconds, and then starts to scream even more loudly. The video has received thousands of comments and views. The frog in the video is a member of the species called Budgett's frog. A frog expert said that such behaviour is possibly the animal exhibiting aggression in response to a threat. Budgett's frogs eat other frogs, snails, and insects, and can grow 4-5 inches in length. ALSO WATCH: Red Bull plane swap crash: USA's FAA had denied exemption request, say reports, after stunt goes wrong"]
+
+
+frog----SP.COMMON
+
+Budgett's frog----SP.SPECIFIC

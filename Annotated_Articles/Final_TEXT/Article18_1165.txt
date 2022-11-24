@@ -1,0 +1,27 @@
+
+["Odisha: Elephant found with pellet wounds, succumbs to injuries\nRepresentational Image Photo : iStock Cuttack ( Odisha ): A 10-year-old, sub-adult elephant on Tuesday succumbed to severe injuries from pellet wounds in Athagarh forest division of Odisha's Cuttack district, forest officials said. The elephant was found injured with five pellet wounds in Narasinghpur west range on June 7. After getting information from MLA Debi Prasad Mishra, forest officials reached the spot and started treatment. The officials said that the tusker was shot with pellets on the trunk, face, shoulder, ear, and front right leg. Veterinary doctors from Satkosia Tiger Reserve, Nandankanan Zoological Park and Odisha University of Agriculture and Technology (OUAT) were engaged for its treatment. However, on Tuesday morning, the body temperature of the jumbo suddenly increased and it succumbed to its injuries, they said. Odisha's Chief Wildlife Warden, Sashi Paul had earlier informed media persons that the elephant was shot with pellets, not bullets, from a country-made gun and it might be done in self-defence or to divert the wild animal. Due to the injuries, the elephant had developed septicaemia on its right leg. Since the area shares borders with Dhenkanal, Satkosia and Athagarh forest divisions, the Forest Department has formed a joint team comprising officials from these three divisions to investigate the incident. Few days ago, the special task force of Odisha crime branch exhumed skeletal remains of two elephants from Baramba range under the Athagarh forest division."]
+
+
+Odisha----LOC.STATE
+
+Elephant----SP.COMMON
+
+elephant----SP.COMMON
+
+Tuesday----DATE
+
+Athagarh forest division----LOC.EXACT
+
+Cuttack----LOC.DISTRICT
+
+elephant----SP.COMMON
+
+five----QTY
+
+Narasinghpur west range----LOC.EXACT
+
+June 7----DATE
+
+Satkosia Tiger Reserve----AUTH.SEIZE
+
+OUAT----AUTH.MISC

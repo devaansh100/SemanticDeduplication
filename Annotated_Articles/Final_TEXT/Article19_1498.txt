@@ -1,0 +1,51 @@
+
+['Singapore pangolin seizure worth 38.7 million second in a week\nSingapore: Singaporean authorities said Wednesday they had discovered nearly 13 tonnes of pangolin scales worth about $38 million in a shipping container, the second major seizure of the creatures’ parts in a week. Authorities across Southeast Asia are battling to stop the rampant poaching and smuggling of pangolins, the world’s most heavily trafficked mammal, which is sought for use in traditional medicine. In the latest seizure, Singaporean customs and immigration officials on Monday found 12.7 tonnes of the creatures’ scales in 474 bags on a container which was labelled as carrying seeds usually used to make tea. They estimated that around 21,000 pangolins were killed to harvest such a huge quantity of scales, according to a government statement. The container started its journey in Nigeria and was passing through the city-state — a major trading hub — en route to Vietnam, it said. “The Singapore government adopts a zero-tolerance stance on the use of Singapore as a conduit to smuggle endangered species and their parts,” said the statement. April 3, officials seized 12.9 tonnes of pangolin scales worth some USD 38.7 million from a container in Singapore which was also en route to Vietnam from Nigeria. Under Singaporean law, those found guilty of the illegal import or export of wildlife can be fined up to S$500,000 ($370,000) and jailed for up to two years. Pangolins, and particularly their scales, are highly prized in China and Vietnam for use in traditional medicine, despite the fact there is no scientific proof of their medical benefits. Singapore’s extensive trade links and efficient ports have lured wildlife smugglers, who use the country as a transit point to ship exotic creatures to customers worldwide, according to animal welfare activists. AFP']
+
+
+pangolin----SP.COMMON
+
+seizure----CRIME.CAT
+
+38.7 million----VALUE
+
+Singaporean authorities----AUTH.SEIZE
+
+Wednesday----DATE
+
+13 tonnes----QTY
+
+pangolin----SP.COMMON
+
+scales----ITEM
+
+$38 million----VALUE
+
+poaching----CRIME.CAT
+
+smuggling----CRIME.CAT
+
+pangolins----SP.COMMON
+
+Singaporean customs and immigration officials----AUTH.SEIZE
+
+Monday----DATE
+
+12.7 tonnes----QTY
+
+scales----ITEM
+
+474 bags----CONCEALMENT_METHOD
+
+April 3----DATE
+
+12.9 tonnes----QTY
+
+pangolin----SP.COMMON
+
+scales----ITEM
+
+USD 38.7 million----VALUE
+
+illegal import or export----CRIME.CAT
+
+fined up to S$500,000 ($370,000) and jailed for up to two years----OUTCOME

@@ -1,0 +1,35 @@
+
+['Civet cat rescued from Indira Gandhi Hospital, watch video\nVolunteers of Wildlife Welfare Society rescued a civet cat that entered in Indira Gandhi Hospital at LAD College Square on the night of Sunday. The hospital staff members were shocked to see a new wild animal moving inside the premises and contacted Nitish Bhandakkar of the society. He along with some other volunteers reached the spot. They successfully handled the animal and caught it at 8.10 pm on Sunday. Later they handed over the civet cat to Transit Treatment Centre at Seminary Hills run by Forest Department for observation, informed Bhandakkar. The volunteers who participated in the rescue operation included: Sahil Sharnagat, Khushwant Ganorkar and Mrunal Bharne.']
+
+
+Civet cat----SP.SPECIFIC
+
+rescued----CRIME.CAT
+
+Indira Gandhi Hospital----LOC.EXACT
+
+Volunteers of Wildlife Welfare Society----AUTH.SEIZE
+
+rescued----CRIME.CAT
+
+civet cat----SP.SPECIFIC
+
+LAD College Square----LOC.EXACT
+
+night----TIME
+
+Sunday----DATE
+
+Nitish Bhandakkar----OFF.NAME
+
+8.10 pm----TIME
+
+Sunday----DATE
+
+civet cat----SP.SPECIFIC
+
+Sahil Sharnagat----SUS.NAME
+
+Khushwant Ganorkar----SUS.NAME
+
+Mrunal Bharne----SUS.NAME

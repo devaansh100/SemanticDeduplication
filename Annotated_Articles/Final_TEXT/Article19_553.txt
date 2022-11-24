@@ -1,0 +1,15 @@
+
+['Bahraich Forest Division: Latest News, Videos and Photos of Bahraich Forest Division\nForest department yet to take action over tree felling in Bahraich TNN / Oct 31, 2012, 16:15 (IST) The state forest department is yet to conclude whether the illegal felling of more than 200 trees in Bahraich has the involvement of its own staff and officers, or is solely the handiwork of timber mafia.']
+
+
+Bahraich Forest Division----AUTH.SEIZE
+
+Bahraich----LOC.EXACT
+
+illegal felling----CRIME.CAT
+
+200----QTY
+
+Bahraich----LOC.EXACT
+
+timber mafia.----SUS.AFFIL

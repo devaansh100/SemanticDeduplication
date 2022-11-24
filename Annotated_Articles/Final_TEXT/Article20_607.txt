@@ -1,0 +1,29 @@
+
+['Army jawan arrested for hunting giant squirrels\nKOLHAPUR: Sawantwadi forest department has arrested a 25-year-old man for allegedly hunting two Indian giant squirrels (scientific name: Ratufa indica) in Kunkeri village of Sawantwadi taluka.The arrested suspect has been identified as Liladhar Minanath Varadkar, a resident of Kunkeri, Sawantwadi taluka, Sindhudurg district. He was produced before a local court in Sawanatwadi on Sunday, which remanded him in the custody of the forest department for four days.The incident came to light after Varadhkar posted a photo with a rifle in his hand and bodies of two giant squirrels behind him on social media platforms.An environmentalist took note of the post and lodged a complaint with the forest department. The officials of the forest department traced him and arrested him for further investigation.According to the officials, Varadhkar committed the crime on April 4.Clement Ben, chief conservator of forest, Kolhapur division said, “Varadkar works in the Indian Army and is presently posted at Samba in Jammu and Kashmir. He was on leave and had come to his hometown before the lockdown. The concerned officials are investigating the case in details.”Former honorary wildlife warden of the state forest department Rohan Bhate said, “While surfing social media, I came across a status of a person posing with a rifle in his hand with two giant squirrels in the background. I immediately took a screenshot of the status and lodged a complaint with the Sawantwadi deputy conservator of forest and chief conservator of forest, Kolhapur division.”“The giant squirrel is protected under the Wildlife Protection Act, 1972 ,” said Bhate.The giant squirrel, known as ‘shekru’ in Marathi, is the state animal of Maharashtra. It is found in the Western Ghats and Peninsular India. It is most commonly found in the Bhimaskhankar wildlife sanctuary in Junnar taluka.']
+
+
+squirrels----SP.COMMON
+
+forest department----AUTH.SEIZE
+
+arrested----CRIME.CAT
+
+25-year-old----SUS.AGE
+
+two----QTY
+
+Indian giant squirrels----SP.SPECIFIC
+
+Kunkeri----LOC.EXACT
+
+Liladhar Minanath Varadkar----SUS.NAME
+
+Kunkeri----SUS.LOC
+
+Sindhudurg----LOC.DISTRICT
+
+giant squirrels----SP.COMMON
+
+social media platforms.An----DETECTION_METHOD
+
+April 4.Clement Ben----DATE

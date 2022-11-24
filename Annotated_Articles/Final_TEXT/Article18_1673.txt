@@ -1,0 +1,33 @@
+
+['Stray dogs maul, kill child in Katol\nNAGPUR: Katol, around 55 kms from Nagpur city, woke up to a horrifying news on Saturday. Four-and-half year old Viraj Jaiwar was fatally attacked by a group of stray dogs early morning in Dhantoli village, while accompanying his elder cousin on a morning walk.His father Rajendra, a farmer, rushed him to the local hospital but the child was declared dead on arrival.With relatives from Paradsinga arriving a day before, the entire Jaiwar family woke up early on Saturday. The elder cousin Vidhi Jaiwar decided to go for a walk in the nearby garden managed by the nagar parishad, and informed Rajendra that she’s taking little Viraj along.They left the house around 6 am and en route came across a group of eight to nine stray dogs. The entire pack attacked Viraj, according the police complaint filed by Rajendra. The strays mauled the kid seeing which a frantically crying Vidhi rushed back home.Rajendra rushed to the spot nearby and found his child “motionless”. He told the police that the stray dogs had bitten off flesh and injuries looked serious. Viraj was rushed to the rural hospital immediately but upon inspection the doctors declared him dead.Samir Umap, zilla parishad member said the stray dog menace needs to be dealt with seriously. Umap said: “The incident at Dhantoli is shocking and I have spoken with the authorities. These dogs are seen near the meat markets in the day and later venture in village roads posing a threat to residents. Due to Supreme Court’s order, we cannot take any drastic action. We have asked authorities to at least catch these dogs and take them away from here.”He added that such mauling incidents may lead to residents resorting to “other avenues” for resolving the issue. “We don’t want that to happen at any cost, hence its best that authorities step in immediately and catch the strays,” said Umap.Ritesh Parwarkar, a former sarpanch from the area, said, “Private residents too are responsible for this menace because they keep both male and female dogs at home, and later then abandon their litter. So every year the number of strays keeps increasing.”']
+
+
+Stray dogs----SP.COMMON
+
+Katol----LOC.EXACT
+
+Saturday----DATE
+
+Four-and-half year old----SUS.AGE
+
+Viraj Jaiwar----SUS.NAME
+
+stray dogs----SP.COMMON
+
+early morning----TIME
+
+Dhantoli village----LOC.EXACT
+
+Rajendra----OFF.NAME
+
+Saturday----DATE
+
+Vidhi Jaiwar----SUS.NAME
+
+Viraj----SUS.NAME
+
+eight to nine----CRIME.CAT
+
+stray dogs----SP.COMMON
+
+Dhantoli----LOC.EXACT

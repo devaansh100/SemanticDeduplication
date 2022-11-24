@@ -1,0 +1,23 @@
+
+['Leopard beaten to death in UP village\nBahraich (UP), Apr 27 (PTI) A leopard was beaten to death by villagers on Wednesday after it injured 13 villagers in Kathotia village of Katarniaghat Wildlife Sanctuary here, authorities said. Some forest personnel too were injured in the attack, forest officials said. They are being treated at a nearby government hospital. According to the forest department sources, the leopard had wandered out of jungle and reached the village in the early hours of Wednesday. People were working in the fields when the leopard attacked them and injured 13 of them, including three women. On receiving the information, the forest workers tried to catch the leopard by casting a net, but hundreds of villagers who had gathered there surrounded the leopard and thrashed it with sticks. Divisional Forest Officer Akashdeep Badhawan told reporters that the forest department personnel made efforts to catch the leopard but the villagers killed it before it could be caught. Some villagers also attacked and injured forest staff, he said. “We are trying to identify those who did it. We will lodge a case to ensure arrest of the accused,” Badhawan said. PTI COR CDN VN VN This report is auto-generated from PTI news service. ThePrint holds no responsibility for its content.']
+
+
+Leopard----SP.COMMON
+
+beaten to death----CRIME.CAT
+
+UP----LOC.STATE
+
+leopard----SP.COMMON
+
+beaten to death----CRIME.CAT
+
+Wednesday----DATE
+
+13----SUS.NUMBER
+
+Kathotia village----LOC.EXACT
+
+leopard----SP.COMMON
+
+Wednesday----DATE

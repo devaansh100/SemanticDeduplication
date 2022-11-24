@@ -1,0 +1,39 @@
+
+['Six men caught with live pangolin\nSix persons were detained while trying to smuggle a live pangolin near Gaurpadav area in Terai central forest division on Monday. The Terai central divisional forest officer Abhilasha Singh informed that the department received a tip off about some persons trying to smuggle a protected species wild animal. During checks undertaken on Monday morning, a white car was stopped and checked. The police found a jute bag in the back seat which was found to contain a live pangolin.The forest department booked the persons under the Wildlife Act 1972 and will present them in court. It is pertinent to mention here that the pangolin is listed in schedule I of the Wildlife Protection Act. It is poached for its meat and scales which are smuggled to countries including China and Vietnam for use in traditional medicines.']
+
+
+Six----SUS.NUMBER
+
+men----SUS.GENDER
+
+pangolin----SP.COMMON
+
+Six----SUS.NUMBER
+
+smuggle----CRIME.CAT
+
+pangolin----SP.COMMON
+
+Gaurpadav area in Terai central forest division----LOC.EXACT
+
+Monday----DATE
+
+central divisional forest officer----OFF.DESIG
+
+Abhilasha Singh----OFF.NAME
+
+tip off----DETECTION_METHOD
+
+Monday----DATE
+
+morning----TIME
+
+white car----CONCEALMENT_METHOD
+
+jute bag----CONCEALMENT_METHOD
+
+back seat----CONCEALMENT_METHOD
+
+pangolin----SP.COMMON
+
+booked the persons under the Wildlife Act 1972----OUTCOME

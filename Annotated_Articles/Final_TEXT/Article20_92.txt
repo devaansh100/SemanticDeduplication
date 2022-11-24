@@ -1,0 +1,55 @@
+
+['Shrouded in Superstition, Three Red Sand Boa Snakes Worth Rs 2 Crore Rescued from Smugglers in UP\nThe Lakhimpur Kheri police in Uttar Pradesh have rescued three Red Sand Boa snakes, valued at Rs 2 crore in the international market.  Three persons, including a woman, have been arrested for attempting to smuggle the snakes. Those arrested have been identified as Kiran Devi, Mihilal Pasi and Jagatpal. Another member of the gang, Jagdish Kori, is absconding.  Acting on a tip-off, the Lakhimpur police raided a house in Nanhupurva village in Dhaurahra area of the district on Tuesday.  The non-venomous Red Sand Boa is popularly known as a two-headed snake and has several superstitions associated with it.  It is believed that the Sand Boa snake secretes an anti-aging agent in its gland. It is also used for making several medicines.  The Sand Boa snake is also said to be \'\'lucky\'\' and has the \'\'power\'\' to bring prosperity to its owner.  This has resulted in rampant smuggling of this species in the Lakhimpur Kheri district.  An FIR under provisions of the Wildlife Protection Act has been registered against all of the accused persons.  Station House Officer (SHO) of Dhaurhara police station, Hari Om Srivastava, said: "A joint operation was conducted with the forest department to rescue the snakes that were captured from Dudhwa forests. The value of these snakes is nearly Rs 2 crore in the international market. We are trying to zero in on the kingpin of this racket."']
+
+
+Three----QTY
+
+Red Sand Boa Snakes----SP.SPECIFIC
+
+Rs 2 Crore----VALUE
+
+Rescued----CRIME.CAT
+
+UP----LOC.STATE
+
+Lakhimpur Kheri police----AUTH.SEIZE
+
+Uttar Pradesh----LOC.STATE
+
+rescued----CRIME.CAT
+
+three----QTY
+
+Red Sand Boa snakes----SP.SPECIFIC
+
+Rs 2 crore----VALUE
+
+Three----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+attempting to smuggle----CRIME.CAT
+
+Kiran Devi----SUS.NAME
+
+Mihilal Pasi----SUS.NAME
+
+Jagatpal----SUS.NAME
+
+Jagdish Kori----SUS.NAME
+
+tip-off----DETECTION_METHOD
+
+Lakhimpur police----AUTH.SEIZE
+
+Nanhupurva village in Dhaurahra area----LOC.EXACT
+
+Tuesday----DATE
+
+FIR under provisions of the Wildlife Protection Act has been registered against all of the accused persons----OUTCOME
+
+forest department----AUTH.SEIZE
+
+Dudhwa forests----ROUTE.SRC
+
+Rs 2 crore----VALUE

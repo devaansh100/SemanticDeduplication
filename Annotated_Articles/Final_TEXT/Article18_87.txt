@@ -1,0 +1,17 @@
+
+['East Burdwan: Boiled snake found in meal for school children\nOne of the children found a boiled snake in his bowl at home and immediately informed the centre in-charge Sources said that the ICDS centre at Bagh Kalapahar village gave khichdi to 54 children and women as takeaway meals. Six children on Thursday were admitted to a rural hospital in East Burdwan’s Jamalpur for reported unease after consuming a meal that had a dead snake at an Integrated Child Development Service (ICDS) centre. One of the children found a boiled snake in his bowl at home and immediately informed the centre in-charge. “We don’t know how the snake came inside the food. But we immediately asked everyone not to eat it anymore. Six children had eaten the meal and we took them to the hospital,” said Jyotsna Ghosh, the centre in-charge. A doctor in the ICDS centre said no health problems were found among the children who were released after six hours of observation. The parents said cooked food usually was served at the centre but on Thursday the meal was distributed as takeaways as one of the staff members was absent. “If it was distributed in the centre, the snake could have been discovered before anyone ate it. But on Thursday the meal was distributed as takeaway and even pregnant women were asked to take it to their homes. Soon, one of the children’s mothers found the reptile in the bowl,” said a villager. Priyanka Singla, East Burdwan district magistrate, said the administration would conduct a probe in this matter.']
+
+
+Boiled----SP.SPECIFIC
+
+snake----SP.COMMON
+
+snake----SP.COMMON
+
+bowl----CONCEALMENT_METHOD
+
+Thursday----DATE
+
+snake----SP.COMMON
+
+bowl----CONCEALMENT_METHOD

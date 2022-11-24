@@ -1,0 +1,25 @@
+
+['Leopard caught in Seepz, released in Sanjay Gandhi National Park\nMUMBAI: The forest department on Thursday caught a leopard, which had entered a residential area at Seepz in the western suburb of Andheri , an official said.The animal was soon released inside Sanjay Gandhi National Park , he added.The leopard was caught with the help of a trapping cage at around 6 am and was released inside the SGNP at around 8 am, deputy conservator of forest (Thane) Jitendra Ramgaonkar said.The forest department had placed camera traps and closed-circuit cameras in the locality to capture the animal, who had been on the prowl in the area for over a week, the official said.On December 9, the leopard was seen attacking a dog in a compound near the Telecom Power gate opposite Seepz, he said, adding that the animal had attacked another dog in the area on the same night.A security guard also spotted the leopard sitting on a boundary wall in the Mahakali Caves area, the official said.']
+
+
+Leopard----SP.COMMON
+
+Seepz----LOC.EXACT
+
+forest department----AUTH.SEIZE
+
+Thursday----DATE
+
+caught----CRIME.CAT
+
+leopard----SP.COMMON
+
+trapping cage----CONCEALMENT_METHOD
+
+6 am----TIME
+
+8 am----TIME
+
+deputy conservator----OFF.DESIG
+
+Jitendra Ramgaonkar----OFF.NAME

@@ -1,0 +1,53 @@
+
+['Maharashtra: Three arrested for poaching tigress, two cubs in Tadoba Andhari Tiger Reserve\nCHANDRAPUR: The death of three tigers, a mother and two cubs, in buffer zone of Tadoba Andhari Tiger Reserve has turned out to be a well planned poaching case. Forest officials on Tuesday apprehended three suspects from Kondegaon village , who had poached a wild boar, and then poisoned and left its carcass in the forest to kill the tiger family.Even as park rangers continue their search for the third cub of the dead tigress, they meticulously continued to investigate the mystery behind the three tigers deaths. Investigations proved fruitful and foresters on Tuesday rounded up three persons from Kondegaon on suspicion of being involved in the poaching of tigers.CCF and field director of TATR NR Pravin confirmed they have detained three persons from Kondegaon and they are being questioned for their involvement in poaching of tigers. He claimed the poachers had poisoned a wild boar carcass. The tiger family later consumed the wild boar carcass and died of poisoning.The adult tigress was found dead close to Sitarampeth-Kodnegaon road in Moharli (buffer) range of TATR on June 10. During search operations, two carcasses of her one-year-old cubs were detected in same area near Kondegaon talao on June 14. Two dead langurs were also detected in the area, sparking speculation of waterhole poisoning. As all the carcasses were totally petrified, veterinary doctors failed to ascertain the cause of death from the autopsies.Sources claimed poachers first killed the wild boar by poisoning mahua flowers fallen on the ground under a tree in the forest. Then they poisoned the dead body of the boar and left it in the forest. The tigress and its cubs ate the wild boar carcass and died of poisoning. This theory of poisoning mahua also explains the mystery of langurs deaths, since langurs like to eat mahua flowers. Exact modus operandi of poachers will come out during investigations.']
+
+
+Maharashtra----LOC.STATE
+
+Three----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+tigress----SP.COMMON
+
+two----QTY
+
+cubs----SP.COMMON
+
+Tadoba Andhari Tiger Reserve----LOC.EXACT
+
+three----QTY
+
+tigers----SP.COMMON
+
+two----QTY
+
+Forest officials----AUTH.SEIZE
+
+Tuesday----DATE
+
+apprehended----CRIME.CAT
+
+three----SUS.NUMBER
+
+Kondegaon village----SUS.LOC
+
+a----QTY
+
+wild boar----SP.COMMON
+
+Tuesday----DATE
+
+three----SUS.NUMBER
+
+Kondegaon----LOC.EXACT
+
+three----SUS.NUMBER
+
+wild boar----SP.COMMON
+
+June 10----DATE
+
+carcasses----ITEM
+
+June 14----DATE

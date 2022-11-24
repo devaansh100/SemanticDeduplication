@@ -1,0 +1,15 @@
+
+['A 26-Feet Dead Humpback Whale Found In The Middle Of Amazon Jungle Leaves People Confused\nThe discovery of a dead 26-feet-long humpback whale in the middle of an Amazon jungle has left people absolutely baffled. Facebook According to a Mirror UK report, the marine mammal was discovered in the middle of the undergrowth on the island of Marajo off the Araruna Beach, at the mouth of the Amazon River. Soon after locals found the whale\'s dead body, word spread and a group of scientists rushed to see the animal. According to biologists from conservation group Bicha D’Agua, the whale actually died at sea and may have landed in the forested area, among trees, after rough seas and high tides threw it inland, far from the ocean. "We’re still not sure how it landed here, but we’re guessing that the creature was floating close to the shore and the tide, which has been pretty considerable over the past few days, picked it up and threw it inland, into the mangrove,” marine specialist and Bicha D’Agua project president Renata Emin told the Daily Mail. Scientists are currently conducting an investigation on the animal’s actual cause of death.']
+
+
+Humpback Whale----SP.SPECIFIC
+
+Amazon Jungle----LOC.EXACT
+
+26-feet-long----QTY
+
+humpback whale----SP.SPECIFIC
+
+marine mammal----SP.COMMON
+
+island of Marajo off the Araruna Beach----LOC.EXACT

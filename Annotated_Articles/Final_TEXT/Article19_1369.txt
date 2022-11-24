@@ -1,0 +1,27 @@
+
+['Punjab: Rare turtle seizure adds twist to poll liquor raid\nCHANDIGARH: A raid to check the distribution of illicit liquor ahead of the Lok Sabha elections yielded not only copious quantities of country booze from a Tanda municipal councillor’s house in Hoshiarpur but a significant secondary seizure: 11 turtles accorded the highest protection under Schedule I of the Wildlife (Protection) Act, 1972, at par with tigers, leopards and lions.What is of concern to the Punjab forests and wildlife preservation department is that the raid conducted last week in Chandigarh Colony of Tanda town in Hoshiarpur district may be the tip of a poaching racket with turtles from the state’s wetlands and rivers supplied for meat and pet trade. “The police could secure remand only for one day of the accused person, Bachni, who belongs to a tribe, some of whose members are known to be involved in poaching. Though she told the police that the turtles were for personal consumption as their flesh was an alleged cure for some disease, we want to know from where the turtles were poached and if they were supplied further up the chain,” Punjab principal chief conservator of forests (PCCF) (wildlife) Kuldip Kumar told TOI.According to the FIR lodged by the excise and taxation department, Bachni has been booked under Section 61 of the Punjab Excise Act, 1914, and Sections 9, 39, 50 and 51 of the WLPA. She is the mother-in-law of a Tanda municipal councillor, Radha Rani. “The accused told us that she has a disease so she eats turtles off and on. The facts of her claim can only be ascertained by an inquiry by the Tanda police or the wildlife department,” ASI Gurdev Singh of the excise department said.According to heads of India Programme of Turtle Survival Alliance Shailendra Singh, turtles are poached for meat, as pets and for traditional Chinese medicines and also exported illegally.“The turtles seized by the excise department were later released in wetlands flanking the Beas after securing court permission. They would have perished had they been retained as court property. The entire release exercise was videographed,” the PCCF (wildlife) added.A further knot was added to the mystery by the “incorrect identification” of the seized turtles. While the wildlife department claimed the species was the Black Pond turtle (Geoclemys hamiltonii) based on identification by WWF-India functionaries based in Punjab, Shailendra rejected the claim. “These are Indian Flapshell (Lissemys punctata) turtles of the wetland morph, but also placed under Schedule I of the WLPA.”The PCCF (wildlife) told TOI he would have the identification re-checked and if required get a correction issued in the official documentation.']
+
+
+Punjab----LOC.STATE
+
+turtle----SP.COMMON
+
+seizure----CRIME.CAT
+
+raid----DETECTION_METHOD
+
+country booze----ITEM
+
+Hoshiarpur----LOC.CITY
+
+11----QTY
+
+turtles----SP.COMMON
+
+raid----CRIME.CAT
+
+poaching racket----SUS.AFFIL
+
+booked----OUTCOME
+
+Black Pond turtle----SP.SPECIFIC

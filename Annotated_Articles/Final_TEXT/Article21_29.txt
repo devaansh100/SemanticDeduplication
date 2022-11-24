@@ -1,0 +1,51 @@
+
+['Assam: Lakhimpur Police arrest 1, seize Tokay gecko\nLakhimpur Police have arrested one person and seized a Tokay gecko from his possession at Nagaon Chariali under Bogeenadi police station. Acting on a tip-off, the police arrested Babusa Moshahary, son of Kaneg Mosharay of Pameng village under Bhimpora Gaon Panchayat, when he was riding a motorcycle along with a Tokay gecko inside a bag on Tuesday afternoon. After the arrest, the person along with the reptile was handed over to the Lakhimpur forest department. Later, the forest officials released the Tokay gecko in the Kakoi Reserve Forest. The incident once again reminds the rampant wildlife trafficking in the Lakhimpur district, mostly active in the Kakoi and Dulung Reserve Forest areas. A large amount of exotic wild orchids have been trafficked from the Kakoi Reserve Forest to buyers from Arunachal Pradesh, who reportedly pay Rs. 500 for one kilogram of the flower to local pickers. According to sources, huge amount of flowers of Nahar trees are also supplied to traders outside the state from Padumoni area under Dulung Reserve Forest and from Banderdewa region under Harmutty Forest Range. Trafficking of Brwon Fish Owl, exotic Branded Krait snake and timber of endemic Siya Nahar from Kakoi Reserve Forest has also been going on for a long time in Lakhimpur district.']
+
+
+Lakhimpur Police----AUTH.SEIZE
+
+arrest----OUTCOME
+
+1----SUS.NUMBER
+
+seize----CRIME.CAT
+
+Tokay gecko----SP.SPECIFIC
+
+Lakhimpur Police----AUTH.SEIZE
+
+arrested----OUTCOME
+
+one----SUS.NUMBER
+
+a----QTY
+
+Tokay gecko----SP.SPECIFIC
+
+Nagaon Chariali----LOC.EXACT
+
+tip-off----DETECTION_METHOD
+
+police----AUTH.SEIZE
+
+arrested----CRIME.CAT
+
+Babusa Moshahary----SUS.NAME
+
+Pameng village----SUS.LOC
+
+motorcycle----TRANSPORT_MODE
+
+a----QTY
+
+Tokay gecko----SP.SPECIFIC
+
+bag----CONCEALMENT_METHOD
+
+Tuesday----DATE
+
+afternoon----TIME
+
+person along with the reptile was handed over to the----OUTCOME
+
+Lakhimpur forest department----AUTH.MISC

@@ -1,0 +1,21 @@
+
+['Video of leopard hunting goes viral\nVadodara: A video of a leopard hunting a rabbit reportedly in Itola village on the outskirts of the city went viral on Wednesday. The video was shot by a farmer late at night a couple of days ago. The big cat was seen hiding behind the bushes and waiting for its hunt.As soon as a rabbit hopped by, the leopard pounced on it and disappeared with its hunt. Though the video is said to be of Itola, the forest department may inquire about it. The number of leopards has gone up in the state and with city limits expanding, the big cats are often seen wandering in human habitat too.In the past, leopards have been spotted in villages on the outskirts of the city and some even attacked the cattle.']
+
+
+leopard----SP.COMMON
+
+hunting----CRIME.CAT
+
+leopard----SP.COMMON
+
+rabbit----SP.COMMON
+
+Itola village----LOC.EXACT
+
+Wednesday----DATE
+
+night----TIME
+
+couple of days ago----DATE
+
+rabbit----SP.COMMON

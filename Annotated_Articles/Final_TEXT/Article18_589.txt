@@ -1,0 +1,23 @@
+
+["Watch: Leopard runs out of forest, attacks cyclist in Kaziranga. Then…\nA leopard pounced on a passing cyclist in Assam's Kaziranga National Park (Image credit: @ParveenKaswan/Twitter) A leopard attacked a cyclist on a highway passing through the Kaziranga National Park in Assam, and the shocking incident was captured on camera. The widely-shared footage shows that the cyclist was pedaling peacefully on the National Highway in Kaziranga when the leopard emerged from the woods to pounce on him. The animal may have mistaken the passing cyclist for a prey as it made straight for him, hitting his left hip and knocking him off his bike. But as the cyclist lost his balance and fell off the bike, the leopard retreated into the forest. Other cyclists and cars passing on the route stopped briefly after witnessing the attack but the man appeared unhurt. He turned his bike around quickly afterwards and began cycling back, clearly shaken up by the attack and looking over his shoulder.  That cyclist not able to believe on his luck !! @Independent pic.twitter.com/WVbDCMEpX6 — Parveen Kaswan, IFS (@ParveenKaswan) June 15, 2022 The video was shared on Twitter by IFS officer Parveen Kaswan, who said the attack occurred in January and was captured on cameras installed at the Kaziranga National Park by park authorities. “The incident was captured in January in a camera installed by authorities at Kaziranga,” wrote Kaswan. “Leopard was trying to cross the highway. Both were lucky.” According to Kaswan, leopards are a “very adaptable species.” “They live in farmlands, sugarcane crops, tea gardens and even in cities. On hills and in forests. Sometime the interactions are safe but many a times conflicts also arise,” he wrote. Leopard-human conflict has been on the rise in recent years, with several instances of the big cats attacking humans making the news. Shrinking prey population and loss of habitat have led to leopard straying into human settlements, engendering conflict."]
+
+
+Leopard----SP.COMMON
+
+Kaziranga----LOC.DISTRICT
+
+leopard----SP.COMMON
+
+Assam's----LOC.STATE
+
+Kaziranga National Park----LOC.EXACT
+
+leopard----SP.COMMON
+
+Kaziranga National Park----LOC.EXACT
+
+Assam----LOC.STATE
+
+National Highway in Kaziranga----LOC.EXACT
+
+leopard----SP.SPECIFIC

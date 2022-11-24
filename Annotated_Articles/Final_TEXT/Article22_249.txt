@@ -1,0 +1,17 @@
+
+['Trending: A video of tiger jumping from boat is getting viral\nA video of a tiger jumping from the boat is getting viral on social media. See trending video on Dynamite News: New Delhi: A video of the Royal Bengal tiger, jumping from the boat during a rescue operation, is getting viral on the internet. Indian Forest Officer (IFS) Parween Kalwaan has posted the video on his Twitter account. That tiger sized jump though. Old video of rescue & release of tiger from Sundarbans. pic.twitter.com/u6ls2NW7H3 — Parveen Kaswan, IFS (@ParveenKaswan) April 17, 2022 He captioned, "That tiger-sized jump though. Old video of rescue & release of a tiger from Sundarbans.”. In the video, a tiger, being carried into a boat to be released into the Sundarbans, quickly jumps into the water and swims towards the nearby island.']
+
+
+tiger----SP.COMMON
+
+tiger----SP.COMMON
+
+Royal Bengal tiger----SP.SPECIFIC
+
+Indian Forest Officer----OFF.DESIG
+
+IFS----OFF.DESIG
+
+Parween Kalwaan----OFF.NAME
+
+Sundarbans----LOC.EXACT

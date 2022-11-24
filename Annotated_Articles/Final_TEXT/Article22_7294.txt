@@ -1,0 +1,11 @@
+
+['Elephant & Co.\nNon-veg item. Lemon Coriander Grilled Fish. Costs: 460 rupees, Description: Grilled Asian sea bass with coriander cream sauce served with rosemary baby potatoes, corn & bell peppers. Swipe right to add item to cart. Lemon Coriander Grilled Fish 460']
+
+
+Lemon Coriander Grilled Fish----SP.SPECIFIC
+
+460 rupees----VALUE
+
+Asian sea bass----SP.SPECIFIC
+
+Lemon Coriander Grilled Fish----SP.SPECIFIC

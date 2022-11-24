@@ -1,0 +1,91 @@
+
+['Three caught with red panda hides\nKAPILVASTU, August 13: Police have arrested three people in possession of two red panda hides from Baral Hotel, Restaurant and Lodge in Banganga Municipality-9 in Kapilvastu. A joint investigation team of police mobilized by the Lumbini Province Office and the District Police Office, Kapilvastu arrived at the hotel after receiving a tip-off about the hides. Police recovered two hides of the endangered red panda and one tailpiece of the animal from a room of the hotel. Police have arrested 290-year-old Khagendra Puri, 32-year-old Asish Jogi, and 26-year-old Saurav Rajwansi in connection with the incident, Superintendent of Police (SP) Dharmaraj Bhandari informed Republica. Two caught with Brown sugar Police have arrested two people in possession of brown sugar (illegal drug) from Andolan Chowk in Kapilvastu Municipality-1. According to police, the two youths were caught in possession of 2.880 grams of brown sugar. According to SP Dharmaraj Bhandari, the two men have been identified to be 39-year-old Jiwan Gurung and Bijay Sunar of the safe age from Sainamaina Municipality-10 of Rupandehi. The two are currently in police custody for further investigation, he said.']
+
+
+Three----SUS.NUMBER
+
+red panda----SP.COMMON
+
+hides----ITEM
+
+Police----AUTH.SEIZE
+
+arrested----CRIME.CAT
+
+three----SUS.NUMBER
+
+possession----CRIME.CAT
+
+two----QTY
+
+red panda----SP.COMMON
+
+hides----ITEM
+
+Baral Hotel, Restaurant and Lodge----LOC.EXACT
+
+Lumbini Province Office----AUTH.SEIZE
+
+District Police Office----AUTH.SEIZE
+
+tip-off----DETECTION_METHOD
+
+hides----ITEM
+
+two----QTY
+
+hides----ITEM
+
+red panda----SP.COMMON
+
+one----QTY
+
+tailpiece----ITEM
+
+arrested----CRIME.CAT
+
+290-year-old----SUS.AGE
+
+Khagendra Puri----SUS.NAME
+
+32----SUS.AGE
+
+Asish Jogi----SUS.NAME
+
+26----SUS.AGE
+
+Saurav Rajwansi----SUS.NAME
+
+Two----SUS.NUMBER
+
+Brown sugar----SP.COMMON
+
+Police----AUTH.SEIZE
+
+arrested----OUTCOME
+
+two----SUS.NUMBER
+
+brown sugar----SP.COMMON
+
+Andolan Chowk----LOC.EXACT
+
+two----SUS.NUMBER
+
+2.880 grams----QTY
+
+brown sugar----SP.COMMON
+
+two----SUS.NUMBER
+
+men----SUS.GENDER
+
+39-year-old----SUS.AGE
+
+Jiwan Gurung----SUS.NAME
+
+Bijay Sunar----SUS.NAME
+
+Sainamaina Municipality-10 of Rupandehi----SUS.LOC
+
+two are currently in police custody----OUTCOME

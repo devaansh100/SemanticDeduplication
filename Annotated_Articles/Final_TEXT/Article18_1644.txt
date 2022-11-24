@@ -1,0 +1,27 @@
+
+['Chhattisgarh: Tiger found dead in Guru Ghasidas reserve\nA tiger was found dead in Chhattisgarh’s Guru Ghasidas tiger reserve on Monday. Carcass of the animal was found in Salganwa Khurd village, part of Chhattisgarh’s newest tiger reserve, in Koriya district. The adult tiger allegedly killed a domestic buffalo a few days ago, sources said. After the carcass was found, officials from the forest department reached the spot and started an investigation. According to sources, two men from the village are being questioned in the matter. Though the forest officials did not confirm the cause of death, sources said that someone had poured poison on the dead buffalo and when the tiger returned to consume its kill, it died. “After the postmortem, we will be in a better position to say what caused the death. As of now, we are investigating,” a senior officer on the field said. Last October, the National Tiger Conservation Authority (NTCA) approved the Chhattisgarh government’s proposal to declare the combined areas of the Guru Ghasidas National Park and Tamor Pingla Wildlife Sanctuary as a tiger reserve. The tiger reserve is located in the northern part of the state, bordering Madhya Pradesh and Jharkhand. It is the fourth tiger reserve in Chhattisgarh, after the Udanti-Sitanadi, Achanakmar, and Indravati reserves. It is a significant reserve because it connects Jharkhand and Madhya Pradesh and provides a corridor for tigers to move between the Bandhavgarh and Palamau reserves. Advertisement The constituent units of the new Tiger Reserve, Guru Ghasidas National Park and Tamor Pingla Wildlife Sanctuary, are spread over 1,44,000 hectares (1,440 sq km) and 60,850 hectares (608.5 sq km) respectively. Guru Ghasidas National Park is in Koriya district and Tamor Pingla is in Surajpur district in the northwestern corner of the state.']
+
+
+Tiger----SP.COMMON
+
+found dead----CRIME.CAT
+
+Guru Ghasidas reserve----LOC.EXACT
+
+tiger----SP.COMMON
+
+found dead----CRIME.CAT
+
+Guru Ghasidas tiger reserve----LOC.EXACT
+
+Monday----DATE
+
+Carcass----ITEM
+
+Salganwa Khurd village----LOC.EXACT
+
+Koriya district----LOC.DISTRICT
+
+carcass----ITEM
+
+forest department----AUTH.SEIZE

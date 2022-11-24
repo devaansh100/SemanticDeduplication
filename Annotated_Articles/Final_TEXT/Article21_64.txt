@@ -1,0 +1,161 @@
+
+["BODO TERRITORIAL REGION: Safe haven to kill elephants\nSTAFF REPORTER  GUWAHATI: The Corona-induced lockdown leading to the sealing of the India-Bhutan border has brought to light a hitherto unknown fact that the BTR (Bodo Territorial Region) had all along been a haven for elephant killings. Sleuths of the Wildlife Crime Control Bureau recovered four elephant carcasses – one each on March 31, 2020 from Panbari (Chirang), August 28, 2020, October 12, 2020 from Batabari (Baksa), and also on October 16, 2020 from Kumarikata (Baksa). All the four carcasses have their tusks missing. Likewise, the sleuths seized a pair of elephant tusks on August 24, 2020 from Runikhata (Chirang) leading to the arrest of a person; another pair of tusks from the same location on August 25, 2020 leading to the arrest of a person; and yet another pair of tusks on September 7, 2020 from Batabari (Baksa) leading to the arrest of three persons. Likewise, such seizures of pairs of elephant tusks continued on September 30, 2020 from Kachugaon (Chirang) leading to the arrest of four persons; another pair on October 17, 2020 from (by SSB and Forest officials) from Chirang; two pairs of tusks on November 14, 2020 from Koila-Moila in Chirang with the nabbing of three persons and three pairs of tusks on February 3, 2021 from Kajalgaon in Chirang district. A person was also apprehended in that connection. Apart from these, the police apprehended a person along with an elephant tusk on February 5, 2021 from Basugaon in Kokrajhar. Forest and SSB (SashastraSeemaBal) raids also led to the recovery of a number of elephant tusks from the BTR. What's significant is that only the pair of tusks seized on August 24, 2020 from Runikhata matched the carcass that was recovered on March 31, 2020. Rests of the tusks don't match the three other elephant carcasses. This signifies that more elephants were killed and some of their tusks have been seized. According to sources, the illegal supply of elephant tusks to Bhutan from the BTR has been a continuous process that has been disrupted ever since the sealing of the India-Bhutan border in the aftermath of the Coronavirus pandemic. All such seizures have been made during and after the lockdown. Before the lockdown, elephant tusks were sent to Bhutan continuously without being detected, said sources. The moot point now: Who'll protect the elephant herds of Manas? Sources said that in most of the cases, poachers use electrocution to kill the pachyderms. According to sources, elephant tusks are used for making idols, carom strikers, bangles, ornaments, etc in Bhutan and Nepal. Also Read: Wild jumbos create panic in Dhaibari near Demow Also Watch: All India Minorities front to contest almost 27 seats in upcoming polls    "]
+
+
+BODO TERRITORIAL REGION----LOC.EXACT
+
+BTR----LOC.EXACT
+
+Bodo Territorial Region----LOC.EXACT
+
+killings----CRIME.CAT
+
+Wildlife Crime Control Bureau----AUTH.SEIZE
+
+four----QTY
+
+elephant----SP.COMMON
+
+carcasses----ITEM
+
+March 31, 2020----DATE
+
+Panbari (Chirang----LOC.EXACT
+
+August 28, 2020----DATE
+
+October 12, 2020----DATE
+
+Batabari (Baksa----LOC.EXACT
+
+October 16, 2020----DATE
+
+Kumarikata (Baksa----LOC.EXACT
+
+four----QTY
+
+carcasses----ITEM
+
+seized----CRIME.CAT
+
+pair----QTY
+
+elephant----SP.COMMON
+
+tusks----ITEM
+
+August 24, 2020----DATE
+
+Runikhata (Chirang) leading----LOC.EXACT
+
+pair----QTY
+
+tusks----ITEM
+
+August 25, 2020----DATE
+
+pair----QTY
+
+tusks----ITEM
+
+September 7, 2020----DATE
+
+Batabari (Baksa)----LOC.EXACT
+
+three----SUS.NUMBER
+
+pairs----QTY
+
+elephant----SP.COMMON
+
+tusks----ITEM
+
+September 30, 2020----DATE
+
+Kachugaon (Chirang)----LOC.EXACT
+
+arrest----CRIME.CAT
+
+four----SUS.NUMBER
+
+October 17, 2020----DATE
+
+SSB----AUTH.SEIZE
+
+Forest officials----AUTH.SEIZE
+
+Chirang----LOC.EXACT
+
+two pairs----QTY
+
+tusks----ITEM
+
+November 14, 2020----DATE
+
+Koila-Moila----LOC.EXACT
+
+three----SUS.NUMBER
+
+three pairs----QTY
+
+tusks----ITEM
+
+February 3, 2021----DATE
+
+Kajalgaon----LOC.EXACT
+
+Chirang district----LOC.DISTRICT
+
+an----QTY
+
+elephant----SP.COMMON
+
+tusk----ITEM
+
+February 5, 2021----DATE
+
+Basugaon in Kokrajhar----LOC.EXACT
+
+SSB----AUTH.SEIZE
+
+SashastraSeemaBal----AUTH.SEIZE
+
+tusks----ITEM
+
+BTR----LOC.EXACT
+
+pair----QTY
+
+tusks----ITEM
+
+seized----CRIME.CAT
+
+August 24, 2020----DATE
+
+Runikhata----LOC.EXACT
+
+carcass----ITEM
+
+March 31, 2020----DATE
+
+tusks----ITEM
+
+three----QTY
+
+carcasses----ITEM
+
+seized----CRIME.CAT
+
+illegal supply of elephant tusks----CRIME.CAT
+
+Bhutan----ROUTE.DEST
+
+BTR----ROUTE.SRC
+
+seizures----CRIME.CAT
+
+tusks----ITEM
+
+elephant----SP.COMMON
+
+tusks----ITEM

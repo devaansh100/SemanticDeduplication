@@ -1,0 +1,25 @@
+
+['Haryana: 2-year-old leopard crushed to death by truck in Yamunanagar\nYAMUNANAGAR: A 2-year-old female leopard died after being crushed by an unknown truck on Saturday at around 8.15 pm near the rest house of Kalesar National Park forest range under the limits of Yamunanagar district of Haryana.The National Highway (NH) 907 which starts from Paonta Sahib in Himachal Pradesh and ending at Yamunanagar in Haryana passes through the Kalesar National Park range along the banks of Yamuna river Kalesar range inspector Rajesh Chahal said, "On Saturday, at around 8.15 pm, the animal had come out of the dense forest and was crossing the NH from a location having a sharp turn on road when she received a hit by a truck. We received the information from the passerby and reached the spot within 10 minutes as the accident had happened near the department rest house. The face of the animal was crushed severely due to hit; therefore, she had died on the spot. Following that the animal’s dead body was taken into custody and the veterinary team was called. Her cremation was conducted on Sunday following the post-mortem. The animal died due to a road accident and no case has been registered in this regard.”Villagers living near the Kalesar forest range told that the leopards often come out of the dense forest to drink water from the banks of Yamuna river and with time, the NH is proving fatal for them.']
+
+
+leopard----SP.COMMON
+
+truck----TRANSPORT_MODE
+
+Yamunanagar----LOC.DISTRICT
+
+Saturday----DATE
+
+8.15 pm----TIME
+
+Kalesar National Park forest range----LOC.EXACT
+
+Yamunanagar----LOC.DISTRICT
+
+Haryana.----LOC.STATE
+
+Saturday----DATE
+
+8.15 pm----TIME
+
+received the information----DETECTION_METHOD

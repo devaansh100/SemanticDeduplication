@@ -1,0 +1,59 @@
+
+['Assam : Rhino Horn Worth Over 1 Kg Confiscated From Jorhat; 2 Held\nNET Web Desk In a major crackdown against poaching and smuggling of rhino horns, the Assam Police apprehended two offenders and recovered a rhino horn weighing about 1.158 kg from their possession in the Titabor area of Assam’s Jorhat district. Based on specific inputs, a police team of Jorhat district led by the Sub-Divisional Police Officer (SDPO) of Titabor Sub-Division had launched an operation on Sunday night and apprehended these perpetrators, while they were attempting to smuggle the rhino horn. These smugglers have been identified as – Rajen Bauri and Azizul Rahman. According to the Additional Superintendent of Police (ASP) of Jorhat district – Mrinmoy Goswami, the market value of this horn is worth of Rs 1.50 crore.']
+
+
+Assam----LOC.STATE
+
+Rhino----SP.COMMON
+
+Horn----ITEM
+
+1 Kg----QTY
+
+Confiscated----CRIME.CAT
+
+Jorhat----LOC.DISTRICT
+
+2----SUS.NUMBER
+
+rhino----SP.COMMON
+
+horns----ITEM
+
+Assam Police----AUTH.SEIZE
+
+apprehended----CRIME.CAT
+
+two----SUS.NUMBER
+
+recovered----OUTCOME
+
+a----QTY
+
+rhino----SP.COMMON
+
+horn----ITEM
+
+1.158 kg----QTY
+
+Titabor area----LOC.EXACT
+
+Assam----LOC.STATE
+
+Jorhat----LOC.DISTRICT
+
+specific inputs----DETECTION_METHOD
+
+police team of Jorhat district----AUTH.SEIZE
+
+Sub-Divisional Police Officer (SDPO)----AUTH.SEIZE
+
+Sunday----DATE
+
+night----TIME
+
+Rajen Bauri----SUS.NAME
+
+Azizul Rahman----SUS.NAME
+
+Rs 1.50 crore----VALUE

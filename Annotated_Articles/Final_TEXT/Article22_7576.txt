@@ -1,0 +1,47 @@
+
+['Forest staff captures bear after hours of efforts in Andhra Pradesh\nAndhra Pradesh: Forest officials capture bear in Srikakulam district SRIKAKULAM: A female bear , believed to be around ten-year-old, which has created panic by killing an elderly man and causing severe injuries to six people and some cattle between Kidisingi and Vajrapukotturu localities in Srikakulam district in the past two days, was captured by forest officials with the support of police on Tuesday after hours of efforts.It may be recalled that six persons were injured in the bear attack at Kidisingi on Monday. The attack comes a day after the sloth bear killed an elderly farmer K Kodanda Rao near a cashew orchard on Sunday.The bear was sighted inside a shed of a farmer near a farm field at Kidisingi on Tuesday morning. The forest officials, including a rescue team from the Vizag zoo, with the support of the police, rushed to the spot to capture the wild animal. The forest and police personnel managed to stay the animal in the shed without giving any scope of slip from the spot.The bear was finally administered a tranquilizer shot by a veterinary expert from Vizag zoo at around 11.45 am and it was captured by the forest department personnel.Speaking to TOI, Chief Conservator of Forests (CCF-Vizag), P Ram Mohan said that the operation was meticulously planned and executed to ensure that no harm was inflicted either to the animal or people in the locality. The people in Kidisingi and in the vicinity maintained calm, remained indoors and cooperated during the whole operation. The wild animal will be shifted to Vizag zoo, where the animal will be examined for some days.The locals said that the bear was mother of two cubs and it has turned ferocious after the cubs were separated. We have launched an operation to trace and rescue the cubs, Ram Mohand added.The locals said that the wild animal attacked T Shanmukha Rao while he, along with a few others, was building a shed at his cashew and coconut orchard on Monday. Three youngsters, K Appalaswamy, Ch Chalapathi Rao, U Santhosh rushed to the spot and tried to rescue him, but the bear attacked them as well. Later, an ex-army man P Tulasi Rao and his brother P Purushottam, who is currently serving in Indian Army, rushed to the spot and tackled the bear rescuing the other four people. Tulasi and Purushottam also suffered injuries in the incident. However, they managed to succeed in driving the bear away.Srikakulam police Chief GR Radhika said that among the six injured persons in the bear attack, four people were shifted to a private hospital in Vizag city for better medical care. The four people on the ventilator are said to be stable in Vizag, she added.']
+
+
+bear----SP.COMMON
+
+Andhra Pradesh----LOC.STATE
+
+Forest officials----AUTH.SEIZE
+
+bear----SP.COMMON
+
+Srikakulam district----LOC.DISTRICT
+
+man----SUS.GENDER
+
+Srikakulam----LOC.DISTRICT
+
+forest officials----AUTH.SEIZE
+
+police----AUTH.SEIZE
+
+Tuesday----DATE
+
+Tuesday----DATE
+
+morning----TIME
+
+forest officials----AUTH.SEIZE
+
+Vizag zoo----AUTH.SEIZE
+
+police----AUTH.SEIZE
+
+11.45 am----TIME
+
+Monday----DATE
+
+K Appalaswamy----SUS.NAME
+
+Ch Chalapathi Rao----SUS.NAME
+
+U Santhosh----SUS.NAME
+
+P Tulasi Rao----SUS.NAME
+
+P Purushottam----SUS.NAME

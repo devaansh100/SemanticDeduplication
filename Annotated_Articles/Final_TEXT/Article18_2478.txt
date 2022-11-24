@@ -1,0 +1,55 @@
+
+['STF apprehends two wildlife criminals\nSTF apprehends two wildlife criminals Bhubaneswar, June 19 (UNI) A team of Special Task Force (STF) has arrested two wildlife criminals from Sonepur district and seized one live pangolin and other incriminating materials from their possession. STF sources here on Sunday said on the basis of reliable information, a team of STF with the help of Binika Forest Officials conducted raid near Dunguripalli Chhak under Dungurpalli Police Station in Sonepur district on Saturday and apprehended two wildlife criminals — Ashok Bisi and Jaykumar Patel During search one Live Pangolin and other incriminating materials were recovered from their possession.']
+
+
+STF----AUTH.SEIZE
+
+apprehends----CRIME.CAT
+
+two----SUS.NUMBER
+
+STF----AUTH.SEIZE
+
+apprehends----CRIME.CAT
+
+two----SUS.NUMBER
+
+Bhubaneswar----LOC.CITY
+
+Special Task Force (STF)----AUTH.SEIZE
+
+arrested----CRIME.CAT
+
+two----SUS.NUMBER
+
+Sonepur district----LOC.DISTRICT
+
+seized----CRIME.CAT
+
+one----QTY
+
+live----ITEM
+
+pangolin----SP.COMMON
+
+reliable information----DETECTION_METHOD
+
+STF----AUTH.SEIZE
+
+Binika Forest Officials----AUTH.SEIZE
+
+raid----DETECTION_METHOD
+
+Sonepur district----LOC.DISTRICT
+
+Saturday----DATE
+
+two----SUS.NUMBER
+
+Ashok Bisi----SUS.NAME
+
+Jaykumar Patel----SUS.NAME
+
+one----QTY
+
+Pangolin----SP.COMMON

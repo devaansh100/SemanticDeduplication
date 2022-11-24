@@ -1,0 +1,17 @@
+
+['Kr Puram: Latest News, Videos and Photos of Kr Puram\nBengaluru: Two RPF cops rescue man stuck on railway track while crossing TNN / Jul 17, 2022, 08:07 (IST) He tried to stand up when he fell on the railway track, but he froze at the sight of a train that was speeding towards him. Some passengers on the platform shut their eyes not wanting to witness what could have happened next. But something unexpected unfolded: Two Railway Protection Force (RPF) personnel risked their lives and saved the man in the nick of time.']
+
+
+Two----SUS.NUMBER
+
+RPF----AUTH.SEIZE
+
+rescue----CRIME.CAT
+
+man----SUS.GENDER
+
+train----TRANSPORT_MODE
+
+Two Railway Protection Force----AUTH.SEIZE
+
+RPF----AUTH.SEIZE

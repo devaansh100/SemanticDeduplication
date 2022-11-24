@@ -1,0 +1,31 @@
+
+['Ganga Babu: Latest News, Videos and Photos of Ganga Babu\nUP: Three arrested for assault on Muslim man in Kanpur get bail TNN / Aug 13, 2021, 16:04 (IST) Three persons were arrested for allegedly assaulting a 45-year-old Muslim man, accusing him of indulging in religious conversion, in Barra area of Kanpur. The disturbing video clip of the incident showing the man’s little daughter crying and trying to cling with him and begging for mercy from a mob of assaulters, went viral on the social media on Thursday.']
+
+
+Ganga Babu----SP.COMMON
+
+Three----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+assault----CRIME.CAT
+
+Muslim man----SUS.GENDER
+
+Kanpur----LOC.CITY
+
+Three----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+assaulting----CRIME.CAT
+
+45-year-old----SUS.AGE
+
+Muslim man----SUS.GENDER
+
+Barra area----LOC.EXACT
+
+Kanpur----LOC.CITY
+
+Thursday----DATE

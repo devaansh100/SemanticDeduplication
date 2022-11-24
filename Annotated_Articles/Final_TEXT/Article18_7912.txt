@@ -1,0 +1,27 @@
+
+['Two days, 30 people, one mission: Get this leopard’s head out of plastic water can\nRescuers said that as the dart hit, the leopard shuddered with such force that the plastic can came loose. IMAGINE GETTING your head stuck inside a plastic water can, unable to eat and drink, or breathe properly. For a leopard in Maharashtra’s Thane district, this nightmare scenario played out for real, till over over 30 people — from animal welfare groups to forest officials, local administration to villagers — joined hands for a search and rescue mission that took about 48 hours. Around 7 pm on Tuesday night, the leopard was traced near Badlapur village, where it was first spotted, and tranquilised with a dart. Rescuers said that as the dart hit, the leopard shuddered with such force that the plastic can came loose. According to officials, the leopard was without food and water for at least two days, is severely dehydrated and currently undergoing treatment. It is being moved to the Sanjay Gandhi National Park (SGNP) rescue centre for further care before it will be released into the wild. It was on Sunday night that the distressed animal was spotted by passers-by on a path near Badlapur. Video clips taken by them show the leopard desperately trying to free its head. But before rescuers could reach the spot, the animal moved into the surrounding forest area. Soon, officials from the Forest department, and representatives from SGNP and NGO Resqink Association for Wildlife Welfare (RAWW) and other groups, launched the rescue operation. Also Read | Third leopard radio-collared in Mumbai While a ground team patrolled the area, volunteers asked villagers to alert officials if the leopard is spotted, and not to approach it on their own or scare it away. The alert everyone was waiting for came from the villagers on Tuesday evening. Advertisement Pawan Sharma, founder of RAWW, said: “It is a very vast area connecting cities and towns — Kalyan, Badlapur and Murbad. The most difficult part was locating and zeroing down on the animal in this difficult terrain. The leopard will be kept under observation for the next 24 to 48 hours before being released in the wild.” The big challenge, rescuers said, was to ensure that the leopard did not approach a human settlement. According to experts, chemical immobilisation or tranquillisation is standard practice in capturing animals. However, rescuers try to avoid tranquillisation in human settlements or congested areas since it takes time for sedation to kick in, and a free-ranging animal like the leopard instinctively runs away. Advertisement Officials suspect the leopard found in Badlapur could have put its head inside the plastic can to drink water and got stuck. Nilesh Bhange, from Progressive Animal Welfare Society (PAWS), said: “All the ground staff, volunteers along with the villagers, were patrolling day and night for the last two days to spot the animal, but we had no luck. Due to lack of water, the animal was severely dehydrated.” Experts also said the incident points to a larger crisis. “Along with urban areas, plastic garbage has become a big problem in rural and forest areas. It is becoming a threat to wild animals… Either the plastic waste is brought in by heavy winds or indiscriminately dumped on roadsides, railway corridors, etc,” said Milind Pariwakam, who is with Roadkills, an initiative of the Wildlife Conservation Trust to collect data on wild animals killed on roads or rail tracks in India.']
+
+
+leopard----SP.COMMON
+
+7 pm----TIME
+
+Tuesday----DATE
+
+night----TIME
+
+Sunday----DATE
+
+night----TIME
+
+Forest department----AUTH.SEIZE
+
+SGNP----AUTH.SEIZE
+
+RAWW----AUTH.MISC
+
+leopard----SP.COMMON
+
+Badlapur----LOC.EXACT
+
+patrolling----DETECTION_METHOD

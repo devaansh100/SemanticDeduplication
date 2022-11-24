@@ -1,0 +1,21 @@
+
+['In new book, hunter Nawab Shafath Ali Khan tells poignant story behind tigress Avni’s killing\nNew Delhi: A new book by celebrated hunter Nawab Shafath Ali Khan reveals the true story behind the killing of ‘Avni’ or T1, a ‘man-eating’ tigress of Maharashtra that was accused of hunting 13 people. Published by Bloomsbury, the book titled ‘AVNI: Inside the Hunt for India’s Deadliest Man-Eater,’ will be released on 15 June on Softcover, ThePrint’s online venue to launch non-fiction books. Khan hails from a family of conservationists and serves as an advisor to several states in India and outside the country on the tranquillisation of wild animals, especially tigers, leopards and elephants that pose a threat to human life. In his book, Khan paints a deeply empathetic portrait of the complexities of human\xad\xad–animal conflicts, while raising important questions about the state of conservation in India. “If this book can shake up policymakers and awaken the authorities to the harsh realities and challenges that our precious wildlife is facing in today’s world, I’ll consider it to be a success,” Khan said about the book. Avni’s story In 2018, news about a tigress named Avni being shot dead in Maharashtra’s Yavatmal went viral online. When the saga played out on national media, the hunters were denounced as “ruthless” and “bloodthirsty”. However, there was more to the story. Tigress Avni, who was originally named T1, was identified as a ‘man-eater’ and blamed for the deaths of 13 people. For over two years, she had spread fear over 150 square kilometres in Yavatmal, prompting more than 10,000 people to lock themselves inside their homes at night. Several attempts by the Maharashtra forest department to capture the animal alive had proved futile and the authorities finally brought in hunters as a last resort. Through this book, Khan, the man who led the operation to neutralise Avni, tells the poignant story of a tigress pushed to her limits and how he was tasked with stopping her at all costs. “It has all the elements of a thriller. A gripping plot, sharp twists and turns – betrayals, survival and conspiracies. A riveting story where the hunter becomes the hunted. The only thing is that it is not a pot-boiler but a real story played out in the forested area of Borati village in Maharashtra,” writes J.S. Ifthekhar of Telangana Today, in his review of the book. Ifthekhar also commends the book for its “fine description of flora and fauna, smells and sounds of the jungle and the angry roars of tigers”, which he believes makes it a compelling read. “A bit James Bond-like,” he added.']
+
+
+hunter----OFF.DESIG
+
+Nawab Shafath Ali Khan----OFF.NAME
+
+tigress----SP.COMMON
+
+Avni----SUS.NAME
+
+killing----CRIME.CAT
+
+Nawab Shafath Ali Khan----OFF.NAME
+
+Avni----SUS.NAME
+
+T1----SUS.NAME
+
+13 people----SUS.NUMBER

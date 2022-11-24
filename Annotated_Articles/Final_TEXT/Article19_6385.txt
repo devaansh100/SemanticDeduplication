@@ -1,0 +1,31 @@
+
+['Leopard mauls shepherd to death in Kunigal, search on\nCages being set up in and around Doddamalawadi in Kunigal of Tumakuru on Saturday to catch a leopard which has killed two people in the last one month (Photo: DC) TUMAKURU: Forest personnel have spread out across 15 villages in Kunigal taluk of the district to capture a leopard which has created a panic among villagers after it killed two people in the last one month. The search to trace the elusive leopard did not yield any result on Saturday. While the search was on, the big cat killed a sheep about a kilometre from where it had mauled to death Ananthaiah of Doddamalawadi village on Friday. The big cat attacked Ananthaiah (60) when he was grazing sheep in a field on Friday afternoon. It pounced on him, held on to his neck and tore into his abdomen before escaping. Ananthaiah was rushed to a hospital, but he succumbed to injuries. About a month ago, the same leopard killed Lakshmamma (55) in the taluk. On Saturday, after killing the sheep, the leopard did not feast on the kill, but left it back and escaped. Over 40 forest personnel have been engaged in the combing operation in and around Doddamalawadi village and a sheep has been kept as bait. Range Forest Officer Manjunath told Deccan Chronicle that veterinarians have been kept ready to tranquilize the leopard. Forest teams are stationed at every 2 km, but the turf at Doddamalawadi and its surrounding villages is plain and covered with a lot of bushes. RFO Manjunath said that the combing operation will continue till the elusive big cat is caught.']
+
+
+Leopard----SP.COMMON
+
+mauls----CRIME.CAT
+
+shepherd----SP.COMMON
+
+Kunigal----LOC.DISTRICT
+
+Doddamalawadi----LOC.EXACT
+
+Saturday----DATE
+
+leopard----SP.COMMON
+
+leopard----SP.COMMON
+
+Saturday----DATE
+
+sheep----SP.COMMON
+
+Ananthaiah----SUS.NAME
+
+Doddamalawadi village----SUS.LOC
+
+Friday----DATE
+
+Doddamalawadi village----LOC.EXACT

@@ -1,0 +1,53 @@
+
+['4 men arrested for raping Bengal Monitor lizard\nMumbai: Maharashtra police arrested 4 men for gang-raping a monitor lizard at Sahydari Tiger Reserve. The accused were identified as Akshay Sunil, Sandeep Tukram, Pawar Mangesh, and Janardhan Kamtekar. As per reports, the forest officials posted at Sangli forest reserve arrested the accused on the charges of hunting as they were found wandering in the core zone of Sahydari Tiger Reserve.The officials came to know about the incident as they checked the mobile phones of the accused. The accused had recorded their act in the mobile phone. The forest officials also recovered two pistols and two motorcycles from them. The accused had come from Konkan to Kolhapur’s Chandoli village for hunting. Also Read: Curfew in Rajasthan’s Karauli extended till April 17 The bengal monitor lizard is a reserved species under the Wildlife Protection Act 1972. If convicted, the accused could be charged with seven years of imprisonment. A Monitor Lizard has been gang raped in India. The rapists recorded the act on their mobile phones. Their names are Sandeep, Mangesh, Janardan and Akshay. pic.twitter.com/HxfjA6cZhB — Ali The Magnificent (@OpusOfAli) April 13, 2022']
+
+
+4----SUS.NUMBER
+
+men----SUS.GENDER
+
+arrested----CRIME.CAT
+
+raping----CRIME.CAT
+
+Bengal Monitor lizard----SP.SPECIFIC
+
+Mumbai----LOC.CITY
+
+Maharashtra police----AUTH.SEIZE
+
+arrested----CRIME.CAT
+
+4----SUS.NUMBER
+
+men----SUS.GENDER
+
+gang-raping----CRIME.CAT
+
+monitor lizard----SP.COMMON
+
+Sahydari Tiger Reserve. The----LOC.EXACT
+
+Akshay Sunil----SUS.NAME
+
+Sandeep Tukram----SUS.NAME
+
+Pawar Mangesh----SUS.NAME
+
+Janardhan Kamtekar----SUS.NAME
+
+two----QTY
+
+pistols----ITEM
+
+two----QTY
+
+motorcycles----ITEM
+
+Konkan----SUS.LOC
+
+Mangesh----SUS.NAME
+
+Janardan----SUS.NAME
+
+Akshay----SUS.NAME

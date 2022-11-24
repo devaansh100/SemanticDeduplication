@@ -1,0 +1,35 @@
+
+['Poke an ATM, a snake comes out: Cobras rescued from two ATM machines in Coimbatore\nBoth of the snakes were rescued and released at abandoned areas (Representative Image) | Photo Credit: BCCL Coimbatore: Venomous snakes seem to have found a new abode in Coimbatore city of Tamil Nadu, automated teller machines (ATMs). In two separate incidents, the reptiles were found coiling inside ATM kiosks near Peelamedu-Thaneerpandal and Sungam. While no bystander or locals were harmed by the reptiles, back-to-back instances indicate that locals in Coimbatore must check twice before entering an ATM kiosk in the city. The first such matter came to light from an IDBI ATM near Peelamedu-Thaneerpandal on Tuesday night when a customer entered the kiosk and noticed a snake slithering in one corner. The customer then alerted Coimbatore police who along with a snake rescuer rushed to the spot and subdued the snake before it could cause any harm. Reports indicate that the snake which was rescued and later released into a nearby forest was a four feet long cobra. A video of the rescue operation is being widely circulated on social media. In the video, the snake catcher can be seen using a hook handle tool to catch hold of the Cobra which was hiding behind the electrical cabinets placed inside the ATM. #WATCH Tamil Nadu: A Snake found inside an ATM near Thaneerpandal Road in Coimbatore; later rescued by a snake catcher. ( 23.04.2019) pic.twitter.com/Yk6YSOIQVn — ANI (@ANI) April 24, 2019 Less than 24 hours after the incident, a similar matter emerged from an ATM machine near Sungam on Wednesday where a customer found a snake lurking inside the kiosk. A snake rescuer was summoned and managed to capture the two feet long cobra before releasing it at an abandoned area. Similarly, one such instance was reported from Bhandup in Mumbai earlier this month where a BMC employee found a python resting in the bathroom of his municipal quarters where he lived with his wife and two minor sons. Fortunately, members of an animal rights group arrived at the spot and rescued the snake before it could cause any harm to the inhabitants of the home it had entered.']
+
+
+snake----SP.COMMON
+
+Cobras----SP.COMMON
+
+rescued----CRIME.CAT
+
+Coimbatore----LOC.DISTRICT
+
+rescued and released at abandoned areas----OUTCOME
+
+Venomous snakes----SP.COMMON
+
+Coimbatore----LOC.DISTRICT
+
+Tamil Nadu----LOC.STATE
+
+automated teller machines (ATMs----LOC.EXACT
+
+Tuesday----DATE
+
+night----TIME
+
+snake----SP.COMMON
+
+snake----SP.COMMON
+
+Tamil Nadu----LOC.STATE
+
+Snake----SP.COMMON
+
+Wednesday----DATE

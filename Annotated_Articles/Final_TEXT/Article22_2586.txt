@@ -1,0 +1,26 @@
+
+['Elephant kills two women\nDeceased Mafija Begum, 42, and Babita Oraon, 38, were in a group of 12 women. Another woman in their group, Nurjahan Begum, was critically injured by the elephant. She is hospitalised. Two women on the fringes of the Gorumara National Park in Jalpaiguri died on Tuesday after a wild elephant attacked them when they were collecting firewood illegally in the reserve forest. In north Bengal, many people living near reserve forests illegally enter these wildlife habitats to graze cattle or collect firewood, said foresters. “We carry out drives time and again to deter people from indiscriminately entering the forest. It is illegal and they risk their lives by doing so. Even then, some enter these areas which are wildlife habitats,” said a senior forester. “The women were collecting firewood when a wild elephant attacked them. Most escaped but three of them fell behind,” said a source in the forest department.']
+
+
+Elephant----SP.COMMON
+
+kills----CRIME.CAT
+
+two----SUS.NUMBER
+
+women
+----SUS.GENDER
+
+Mafija Begum----SUS.NAME
+
+42----SUS.AGE
+
+Babita Oraon----SUS.NAME
+
+38----SUS.AGE
+
+12 women----SUS.NUMBER
+
+Nurjahan Begum----SUS.NAME
+
+Tuesday----DATE

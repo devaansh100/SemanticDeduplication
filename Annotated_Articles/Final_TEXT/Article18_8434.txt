@@ -1,0 +1,11 @@
+
+['Vava Suresh continues to be critical, Kerala prays for its famous snake catcher\nDoctor’s attending on him said that his condition continues to be critical, but there has been a slight improvement from the condition that he was brought to the hospital from a private medical facility. On Monday evening, when Suresh was trying to put the poisonous reptile into a gunny bag, while holding the snake by its tail on one hand, it bit him on his right thigh. Even though he was bitten and the cobra got away, he caught it, packed it and asked the people to rush him to the nearest hospital. After being administered anti-venom, he was shifted to the state-run Kottayam Medical College hospital. Forty-eight-year-old Suresh, in a career spanning over two decades, has caught more than 50,000 snakes, which includes more than 200 King cobras. And in the process he has suffered close to 300 snake bites. In the past, he has survived almost half a dozen lethal bites after spending a lot of time at various hospitals. Cooperation and Registration Minister V.N. Vasavan, who hails from Kottayam, is overseeing the treatment and State Health Minister Veena George has announced the state will take care of his treatment. Disclaimer: This story is auto-aggregated by a computer program and has not been created or edited by FreshersLIVE.Publisher : IANS-Media']
+
+
+Vava Suresh----SUS.NAME
+
+Monday----DATE
+
+evening----TIME
+
+gunny bag----CONCEALMENT_METHOD

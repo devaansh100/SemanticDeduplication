@@ -1,0 +1,41 @@
+
+['Andhra Pradesh: 23 red sandwood logs seized near ghat road\nTIRUPATI: For the first time in recent times, red sanders anti-smuggling task force seized 23 red sanders logs near the busy Tirumala second ghat road on Thursday.According to task force SP M Sundar Rao , RSI Vinod Kumar and his team who were conducting a comb ing operation inside the Seshachalam forests spotted a group of smugglers carrying logs on shoulders near Vinayaka swamy temple in the early hours.When the sleuths tried to surround them, the smugglers abandoned the logs and escaped. The task force confiscated 23 logs weighing 699 kg and worth approximately 40 lakh.']
+
+
+23----QTY
+
+red sandwood----SP.COMMON
+
+logs----ITEM
+
+red sanders----SP.COMMON
+
+anti-smuggling task force----AUTH.SEIZE
+
+seized----CRIME.CAT
+
+23----QTY
+
+red sanders----SP.COMMON
+
+logs----ITEM
+
+Thursday.According----DATE
+
+SP----OFF.DESIG
+
+M Sundar Rao----OFF.NAME
+
+RSI----OFF.DESIG
+
+Vinod Kumar----OFF.NAME
+
+early hours.When----TIME
+
+23----QTY
+
+logs----ITEM
+
+699 kg----QTY
+
+40 lakh----VALUE

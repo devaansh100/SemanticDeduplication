@@ -1,0 +1,17 @@
+
+["German woman was living with 110 poisonous snakes before one bit her, know the shocking story\nFollow us on Image Source : FREEPIK Image representing a snake Police in Germany said Sunday they discovered more than 110 dangerous snakes on a farm after a woman who lived there sought medical treatment for a poisonous bite. The 35-year-old woman drove to a hospital in Salzgitter, near Hannover, early Sunday and told doctors there that one of her rattlesnakes bit her finger. While the woman’s condition deteriorated and authorities hastily ordered an antidote from a specialist institute in Hamburg, police visited the farm in central Germany and found dozens of snakes. In a statement, police said specialists determined the snake collection included both constrictors and poisonous varieties, which weren’t housed in appropriate terrariums. The reptiles were all impounded. Read: Farhan Akhtar's cameo in Ms Marvel episode 4 invites memes on Twitter, fans say 'bas itna sa' Read More Trending News"]
+
+
+German----SUS.NAT
+
+woman----SUS.GENDER
+
+110----QTY
+
+poisonous snakes----SP.COMMON
+
+Germany----LOC.STATE
+
+110----QTY
+
+35-year-old----SUS.AGE

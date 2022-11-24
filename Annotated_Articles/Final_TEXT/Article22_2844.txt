@@ -1,0 +1,13 @@
+
+['Tiger caught in Sunderbans village released into the wild\nThe tiger that had strayed into a village in Kultali, in the Sunderbans, around 75km southeast of Kolkata, and captured in a trap cage was released into the wild on Friday. The tiger was taken to a forest camp for a medical examination. “The tiger is a female, around five years old. She is young and healthy,” divisional forest officer Milan Mandal said. A mechanised trawler took the caged tiger near the Chamta forest in the Sunderbans Tiger Reserve, in South 24-Parganas district. The forest is on an island sandwiched between two tidal estuaries. During low tide, as the trawler stood on the edge of the forest, the door of the cage was lifted. The big cat jumped into the water and swam towards the riverbank.']
+
+
+Tiger----SP.COMMON
+
+Sunderbans village----LOC.EXACT
+
+tiger----SP.COMMON
+
+Friday----DATE
+
+Chamta forest in the Sunderbans Tiger Reserve----LOC.EXACT

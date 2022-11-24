@@ -1,0 +1,43 @@
+
+['3 held with 142 big cat claws\nWildlife Crime Control Bureau tiger and leopard claws Hakki-pikki tribesmen A team of officials from the(WCCB) has arrived in the city in connection with the seizure of 142made from threefrom Shikaripura near RMC Yard in the city.The trio was arrested with the claws after cops from RMC Yard police station along with wild life activists approached them as decoy customers. They have reportedly confessed a man identified as Vinu had given them the consignment. The WLCCB team arrived here after it was confirmed that the claws were genuine ones retrieved from dead tigers and leopards and not fake ornamental pieces.“It is a serious crime as at least eight to nine wild cats, including tigers could have been killed, for these claws to be pulled out. We will be sending all of it to WLCBB lab in Hyderabad for tests and also to confirm how many of them are from tigers and leopards,” said an official.The arrested men, Gopi, Sanjay and Kabiraj, have been booked under the first schedule of the Wildlife Act. The officials claimed that they were working along with the state police to ascertain whether these men were being used as carriers by professional gang of poachers. Genuine tiger claws are used as good luck talismans and are priced high.']
+
+
+3----SUS.NUMBER
+
+142----QTY
+
+big cat----SP.COMMON
+
+claws----ITEM
+
+Wildlife Crime Control Bureau----AUTH.SEIZE
+
+tiger----SP.COMMON
+
+leopard----SP.COMMON
+
+claws----ITEM
+
+Hakki-pikki tribesmen----SP.SPECIFIC
+
+the(WCCB----AUTH.SEIZE
+
+seizure----CRIME.CAT
+
+Shikaripura----LOC.EXACT
+
+arrested----CRIME.CAT
+
+WLCBB lab in Hyderabad----AUTH.MISC
+
+men----SUS.GENDER
+
+Gopi----SUS.NAME
+
+Sanjay----SUS.NAME
+
+Kabiraj----SUS.NAME
+
+booked under the first schedule of the Wildlife Act----OUTCOME
+
+gang of poachers----SUS.AFFIL

@@ -1,0 +1,16 @@
+
+['Andhra Pradesh: Leopard enters a field, attacks four men at Ankampalem\nAnkampalem village Athreyapuram mandal Godavari Papikonda National Park On Monday (February 4), a leopard entered a paddy field and attacked four people, causing minor injuries. The incident happened atofin EastApparently, the leopard belongs to Gokavaram or Mared-umilli forest areas, which are a part of the. It so happened that the as the leopard entered the field, it created chaos.Nerla Suribabu, a farmer, first noticed the leopard straying into the field. Upon noticing the big cat, he screamed loudly in fear. His scream attracted other farmers who reached the field to help Suribabu.However, soon as they started to get close to the leopard, the big cat attacked them and injured four people. Later, as more people started gathering, the leopard got scared and climbed up a coconut tree.Meanwhile, forest authorities also reached the spot with a veterinary doctor and a rescue van with attached cage. While they tried to catch the carnivore, the big cat escaped by jumping from the tree into the field. The leopard’s escape left people worrying about their safety.']
+
+
+Leopard----SP.COMMON
+
+four----SUS.NUMBER
+
+Ankampalem
+----LOC.EXACT
+
+Monday----DATE
+
+February 4----DATE
+
+leopard----SP.COMMON

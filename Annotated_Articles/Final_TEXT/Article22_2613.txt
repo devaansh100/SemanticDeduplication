@@ -1,0 +1,19 @@
+
+['Now, elephant menace reaches Tirumala hills\nTirupati: The wild elephants menace which was hitherto confined to mostly in the mandals of Madanapalli and Chittoor divisions, reached Tirumala hills, with a five-member elephant herd found moving at the 7th mile area, the meeting point of Alipiri footpath and the first down ghat road. The elephants were found near the footpath on Monday early morning alerting the TTD authorities. TTD Additional EO A V Dharma Reddy, who along with forest officials went to the area, where the elephants were spotted and some of them still roaming in the forest area close to the footpath. Additional staff were pressed into service to drive them back into the deep forests away from the footpath and ghat road. Additional EO directed the forest personnel to alert the pilgrims reaching Tirumala on foot through Alipiri pedestrian path to be more cautious and also urged the motorists to be alert while proceeding to Tirupati down hills as there is every likelihood of the pachyderms still moving in the forest areas near the down ghat road.']
+
+
+elephant----SP.COMMON
+
+Tirumala hills----LOC.EXACT
+
+Monday----DATE
+
+early morning----TIME
+
+TTD authorities----AUTH.SEIZE
+
+TTD Additional EO----OFF.DESIG
+
+A V Dharma Reddy----OFF.NAME
+
+forest officials----AUTH.SEIZE

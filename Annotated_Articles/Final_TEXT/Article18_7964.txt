@@ -1,0 +1,27 @@
+
+['Indore: Female leopard found dead\nIndore\\Mhow  A female leopard, around 2-3 years old, was found dead near Ashapurna hills, Manpur range, Indore, on Sunday morning during routine patrolling by forest workers. Her neck had a canine puncture mark that had ruptured the nasal pipe resulting in sudden death, the official said.  "Several other canine marks were also seen in the neck region. Fighting signs were evident on the ground for nearly 30 metres," chief conservator of forest HS Mohanta said. Circumstantial evidence strongly suggests infighting as the cause of mortality.  Dr RS Sisodiya, Dr CB Nagar and Dr CS Dabar Mhow/ Manpur visited the site for investigation. A combing operation was held in the area to search for the other animal involved in the fight. All the body parts were found intact. The dead animal was cremated as per procedure, officials said.  (To receive our E-paper on whatsapp daily, please click here. To receive it on Telegram, please click here. We permit sharing of the paper\'s PDF on WhatsApp and other social media platforms.)']
+
+
+leopard----SP.COMMON
+
+found dead----CRIME.CAT
+
+found dead----CRIME.CAT
+
+Ashapurna hills, Manpur range, Indore----LOC.EXACT
+
+Sunday----DATE
+
+morning----TIME
+
+routine patrolling----DETECTION_METHOD
+
+RS Sisodiya----OFF.NAME
+
+CB Nagar----OFF.NAME
+
+CS----OFF.DESIG
+
+Dabar Mhow/----OFF.NAME
+
+combing operation----DETECTION_METHOD

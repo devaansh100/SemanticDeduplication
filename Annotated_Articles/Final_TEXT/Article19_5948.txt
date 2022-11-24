@@ -1,0 +1,41 @@
+
+['42 monkeys trapped from Mamallapuram\nCHENNAI: It was a hectic day for the foot soldiers and monkey trappers of the forest department on Friday, ahead of the arrival of Prime Minister Narendra Modi and Chinese President Xi Jinping in Mamallapuram . Acting on the request of the Kancheepuram district administration, they trapped 42 free ranging monkeys A team led by Chennai wildlife warden C H Padma, another team from Kancheepuram and veterinarians and an ambulance with nets and trap cages from Vandalur zoo reached Mamallapuram around 5.30am. The teams started their work around 7am.Monkeys were found everywhere in Mamallapuram. They are found on the ancient monuments. These monkeys had been staying there for years, an officer said.The trapped monkeys were taken over by the Kancheepuram district forest authorities. “We will release them in reserved forests in the districts,” said an officer from Kancheepuram.The operation continued for the second day on Saturday. However, not many monkeys were seen on Saturday, said an officer.']
+
+
+42----QTY
+
+monkeys----SP.COMMON
+
+trapped----CRIME.CAT
+
+Mamallapuram----LOC.DISTRICT
+
+Friday----DATE
+
+Kancheepuram district administration----AUTH.SEIZE
+
+42----QTY
+
+free ranging monkeys----SP.COMMON
+
+Chennai wildlife warden----OFF.DESIG
+
+C H Padma----OFF.NAME
+
+veterinarians----AUTH.SEIZE
+
+nets----ITEM
+
+trap cages----ITEM
+
+Vandalur zoo----LOC.EXACT
+
+Mamallapuram----ROUTE.SRC
+
+5.30am.----TIME
+
+7am.Monkeys----TIME
+
+Saturday----DATE
+
+Saturday----DATE

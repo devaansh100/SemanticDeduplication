@@ -1,0 +1,53 @@
+
+["Assam Police recover 16 tiger teeth, 4 poachers apprehended\n16 tiger teeth were recovered during an operation by Police in Diphu of Karbi Anglong district. Four poachers were arrested in the connection. Based on specific inputs, a team from Assam Police on Wednesday launched an operation at the Birla area under Manja police station in Diphu, the district headquarters of Karbi Anglong. During the operation, the team led by the deputy superintendent of police (headquarters) of Karbi Anglong, Nahid Karisma and the officer-in-charge of Manja police station recovered a consignment of 16 tiger teeth. An investigation into the case have also been started by the Police. In December 2018, Kaziranga National Park authorities arrested seven poachers during an operation at Bokakhat in Golaghat district and had recovered a huge quantity of tiger skin, bones, nails and teeth of Royal Bengal tigers in a Tata Magic on National Highway 37. The divisional forest officer of Kaziranga National Park claimed that the teeth were meant for sale and suspect the tiger was killed in the dense forests of Karbi Anglong. Also Read: Durga Puja minus the festivities; Guwahati Puja committees stick to rituals only Also Watch: Assam BJP Mahila Morcha's Working Committee Meet  "]
+
+
+Assam Police----AUTH.SEIZE
+
+16----QTY
+
+tiger----SP.COMMON
+
+teeth----ITEM
+
+4----SUS.NUMBER
+
+16----QTY
+
+tiger----SP.COMMON
+
+teeth----ITEM
+
+Police----AUTH.SEIZE
+
+Diphu----LOC.EXACT
+
+Four----SUS.NUMBER
+
+poachers----SUS.AFFIL
+
+Based on specific inputs----DETECTION_METHOD
+
+Assam Police----AUTH.SEIZE
+
+Wednesday----DATE
+
+deputy superintendent of police (headquarters)----OFF.DESIG
+
+Nahid Karisma----OFF.NAME
+
+officer-in-charge of Manja police station----OFF.DESIG
+
+16----QTY
+
+teeth----ITEM
+
+seven----SUS.NUMBER
+
+skin----ITEM
+
+bones----ITEM
+
+nails----ITEM
+
+teeth----ITEM

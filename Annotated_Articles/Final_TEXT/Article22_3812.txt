@@ -1,0 +1,35 @@
+
+["NSUI leader arrested on charges of 'stealing' donkey\nThe Jammikunta police registered the case for “stealing a donkey” and “behaving cruelly towards the animal” (Representational image: Wikipedia) KARIMNAGAR: The Jammikunta police arrested Balmuri Venkat Narsinga Rao, the National Students Union of India (NSUI) president, on the charge that he “stole” a donkey. On Friday, Venkat and NSUI activists had “celebrated” the birthday of Chief Minister K. Chandrashekar Rao in Hyderabad by tying the CM’s photo to a donkey’s neck and making it eat a piece of cake. The video went viral and TRS student wing staged protests. Some of them went lodged a complaint at the Jammikunta police station. The Jammikunta police registered the case for “stealing a donkey” and “behaving cruelly towards the animal” and of “humiliation” being caused to a section of society including nomadic tribes who depend on donkeys for their daily sustenance. Venkat was heading to his house after attending the Sammakka Saralamma Jatara in Medaram on Thursday night when the police took him into custody in Huzurabad. The NSUI chief had unsuccessfully contested the Huzurabad bypoll on a Congress ticket. Additional DCP Srinivas said Venkat and his associates harassed the animal by “stealing it” and used it in ways that violated provisions of the animal protection Act. “Donkey is a pet animal and it gives much support to the weaker sections and the nomadic tribes. Venkat was not revealing from where he brought the animal and who was its owner. He tried to create a dispute among some sections of people,” the police claimed."]
+
+
+NSUI leader----SUS.AFFIL
+
+arrested----CRIME.CAT
+
+stealing----CRIME.CAT
+
+donkey----SP.COMMON
+
+registered the case----OUTCOME
+
+donkey----SP.COMMON
+
+Jammikunta police----AUTH.SEIZE
+
+arrested----CRIME.CAT
+
+Balmuri Venkat Narsinga Rao----SUS.NAME
+
+National Students Union of India (NSUI) president----SUS.AFFIL
+
+donkey----SP.COMMON
+
+Friday----DATE
+
+TRS student wing----AUTH.MISC
+
+stealing----CRIME.CAT
+
+donkey----SP.COMMON
+
+humiliation” being caused----OUTCOME

@@ -1,0 +1,15 @@
+
+['Monkey at Mexican Zoo appears stunned after watching magic trick by a visitor. Viral video\nAfter watching the trick, the monkey looks totally bamboozled and gives an expression of disbelief. By Srimoyee Chowdhury: Magic tricks can intrigue and amaze people of all ages. Whether it\'s a child or a grown up, when someone takes out a coin from their ear, they are bound to clap their hands in glee. Now a monkey from a zoo in Mexico has displayed a similar expression and its video is swiftly going viral. The adorable animal\'s surprised face will definitely make your day. advertisement Initially shared on TikTok, the video shows a man identified as Maximiliano Ibarra showing a monkey a magic trick. After watching the trick, the monkey looks totally bamboozled and gives an expression of disbelief. According to a report by DailyMail, the sweet interaction was recorded at the Chapultepec Zoo in Mexico City. Take a look: The video has garnered over 1.6 million views on TikTok and several comments too. People loved the videos and expressed that the monkey\'s expression was almost as if it was saying, "What sorcery is this?". What do you think of this video? ALSO READ: MS Dhoni shares his first look from sci-fi series Atharva. The Internet cannot keep calm ALSO READ: Elderly man plays cricket in full spirit in heartwarming video. Internet loves his energy --- ENDS ---']
+
+
+Monkey----SP.COMMON
+
+Mexican Zoo----LOC.EXACT
+
+magic trick----CRIME.CAT
+
+monkey----SP.COMMON
+
+man----SUS.GENDER
+
+Maximiliano Ibarra----SUS.NAME

@@ -1,0 +1,33 @@
+
+["Indore: Police arrest tantric for keeping brown owl\nRepresentative Photo | Indore (Madhya Pradesh): Tantric Chhotu Maharaj alias Seemanand Giri was arrested under Wildlife Protection Act 1972 for keeping a brown owl, which is a protected species, at his Baikunthdham Ashram located on the Super Corridor. The owl was rescued from the ashram and handed over to the city zoo, while Maharaj was taken into police custody. According to officials, Maharaj used to display the owl to his devotees and say that since the owl is considered as the vehicle of Goddess Laxmi, the goddess of wealth, his devotees would get wealthy through her blessings. Many people used to believe what Maharaj said and gave thousands of rupees in donations to him. He used to fool people by promising that he would be able to sort out problems related to money and relationships. He used 'tantra' and wild animals to 'solve' people's problems. Statement of Chhotu Maharaj recorded In the statement recorded on Monday, the Maharaj admitted using the owl and promising people luxuries. “The Maharaj seems to believe, it’s absolutely okay to do, especially since it’s just a vehicle of Goddess Laxmi,” AK Shrivatasva, sub-divisional officer, forest department, said. He added that the brown owl is protected under Schedule IV of the Wildlife Act. “We have recorded initial statements in the case, further investigation will be done, after the accused is presented in court,” Shrivastava said. The rescue action of the owl According to sources, the police got information that owls were being kept at Baikunthdham Ashram. Immediately the team of Vijay Nagar and forest department had reached the ashram and they found the owl was imprisoned in the case.Deputy ranger Anita Bhandole, forest guard Ashish Kushwaha were involved during the action. Ranger Jaiveer Singh told that owls are often used in tantric activities."]
+
+
+Police----AUTH.SEIZE
+
+arrest----CRIME.CAT
+
+tantric----SUS.NAME
+
+brown owl----SP.SPECIFIC
+
+Tantric Chhotu Maharaj----SUS.NAME
+
+Seemanand Giri----SUS.NAME
+
+arrested----CRIME.CAT
+
+brown owl----SP.SPECIFIC
+
+Baikunthdham Ashram located on the Super Corridor----LOC.EXACT
+
+owl----SP.COMMON
+
+information----DETECTION_METHOD
+
+Baikunthdham Ashram----LOC.EXACT
+
+forest department----AUTH.SEIZE
+
+forest guard----OFF.DESIG
+
+Ashish Kushwaha----OFF.NAME

@@ -1,0 +1,63 @@
+
+["Chennai: Two passengers caught smuggling 23.5 kg shark fins to Dubai\nShark fin Customs Air Intelligence unit officials at the Chennai Airport have seized 23.5kg of processed shark fins, valued at Rs.16.5lakhs, that were being smuggled to Dubai by two passengers. Senior officials said that this was the first seizure of wildlife products since the Covid-19 induced lockdown began and that the last seizure of shark fins was in December 2019 Shark fin soup is an expensive delicacy served in high-end restaurants abroad. The Chinese consider it a symbol of prosperity, status and conferrer of good health. The practice of finning is said to be causing the collapse of shark populations around the world. Estimates say that a bowl of shark soup costs about US $100 and that a pound of shark fins can cost over US $450 in the international market. Officials said that they maintained special vigil based on the intelligence of smuggling of wildlife/marine life products to Dubai. They maintained a close watch on two passengers who were carrying carton boxes and moving in a suspicious manner. The duo was intercepted after clearing immigration and while proceeding for security check. The passengers are said to have given evasive replies on being questioned, following which their boxes were examined. On opening the cartons, three white gunny bags were found. Wildlife products, suspected to be shark fins, weighing 9.5kg was recovered from one bag and the other two bags combined contained 14kg of the same. From their boarding passes and passports, the passengers were identified as Sathackkathullah, 52, of Chennai and Abbas, 29, of Tiruchirappali, who were bound for Dubai by Fly Dubai FZ 8518. Wild Life Crime Control Bureau officials certified the wildlife products as ‘processed shark fins’ and pointed out that these were likely to belong to a CITES-listed species. CITES (The Convention on International Trade in Endangered Species of Wild Fauna and Flora) is an international agreement between governments. It is meant to ensure that international trade in specimens of wild animals and plants does not threaten their survival. Given the high value of the fins, fishermen often retain only the sharks' fin (which hardly weighs up to 5 per cent of its body weight) and throw the shark back into the ocean, where they die bleeding, suffocated, unable to swim. Total of 23.5 kgs shark fins valued at Rs 16.5 lakh were seized under the Customs Act, 1962 read with FT (D&R) 1992, as the export of shark fins is prohibited as per the Foreign Trade Policy."]
+
+
+Chennai----LOC.CITY
+
+Two----SUS.NUMBER
+
+23.5 kg----QTY
+
+shark----SP.COMMON
+
+fins----ITEM
+
+Dubai----ROUTE.DEST
+
+Customs Air Intelligence unit----AUTH.SEIZE
+
+seized----CRIME.CAT
+
+23.5kg----QTY
+
+processed shark----ITEM
+
+fins----ITEM
+
+Rs.16.5lakhs,----VALUE
+
+Dubai----ROUTE.DEST
+
+two----SUS.NUMBER
+
+seizure----CRIME.CAT
+
+carton boxes----CONCEALMENT_METHOD
+
+shark----SP.COMMON
+
+fins----ITEM
+
+9.5kg----QTY
+
+bag----CONCEALMENT_METHOD
+
+bags----CONCEALMENT_METHOD
+
+14kg----QTY
+
+Sathackkathullah----SUS.NAME
+
+52----SUS.AGE
+
+Chennai----SUS.LOC
+
+Abbas----SUS.NAME
+
+29----SUS.AGE
+
+Tiruchirappali----SUS.LOC
+
+Dubai----ROUTE.DEST
+
+Wild Life Crime Control Bureau----AUTH.MISC

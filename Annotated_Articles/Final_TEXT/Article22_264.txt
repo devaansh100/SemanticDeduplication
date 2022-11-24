@@ -1,0 +1,51 @@
+
+["Bengal monitor lizard raped in Maharashtra, 4 arrested\nThe Maharashtra forest authorities have arrested four hunters for allegedly raping a bengal monitor lizard in the Sahydari Tiger Reserve. The forest officials came to know about the incident when they checked the mobile phone of the accused. By India Today Web Desk: Four people have been arrested for allegedly raping a bengal monitor lizard in the Sahydari Tiger Reserve near Gothane village in Maharashthra. The accused, identified as hunters, allegedly entered the core zone of Sahydari Tiger Reserve in the Gabha area at Gothane and committed the abhorrent crime. They have been identified as Sandeep Tukram, Pawar Mangesh, Janardhan Kamtekar and Akshay Sunil. The Maharashtra Forest Department checked the mobile phone of the accused and came to know about the incident. The officials found the recording of the act which showed the accused allegedly gang-raping the monitor lizard. advertisement The forest officials posted at Sangli forest reserve traced the accused with the help of CCTV footage in which they can be seen roaming in the forest. Furnishing further details of the incident, the authorities informed that three accused had come from Konkan to Kolhapur's Chandoli village for hunting. The forest officials, who are perplexed about the incident, will take up the matter with the Indian Penal Court to discuss the charges against the accused. According to the officials, the accused will be produced in a court and appropriate legal action will be taken against them. For the unversed, the bengal monitor lizard is a reserved species under the Wildlife Protection Act 1972. If convicted, the accused could be charged with seven years of imprisonment. ALSO READ| Ayodhya: Man held for raping cows at shelter ALSO READ| Man arrested for raping, killing pregnant goat in Kerala's Kasaragod --- ENDS ---"]
+
+
+Bengal monitor lizard----SP.SPECIFIC
+
+raped----CRIME.CAT
+
+Maharashtra----LOC.STATE
+
+4----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+Maharashtra forest authorities----AUTH.SEIZE
+
+arrested----CRIME.CAT
+
+four----SUS.NUMBER
+
+hunters----SUS.AFFIL
+
+raping----CRIME.CAT
+
+bengal monitor lizard----SP.SPECIFIC
+
+Sahydari Tiger Reserve----ROUTE.SRC
+
+Four----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+raping----CRIME.CAT
+
+bengal monitor lizard----SP.SPECIFIC
+
+Sahydari Tiger Reserve----LOC.EXACT
+
+hunters----SUS.AFFIL
+
+Sandeep Tukram----SUS.NAME
+
+Pawar Mangesh----SUS.NAME
+
+Janardhan Kamtekar----SUS.NAME
+
+Akshay Sunil----SUS.NAME
+
+Konkan----SUS.LOC
+
+accused will be produced in a court----OUTCOME

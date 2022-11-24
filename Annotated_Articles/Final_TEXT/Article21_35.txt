@@ -1,0 +1,45 @@
+
+['414 Indian star tortoises seized\nTwo persons from Odisha arrested Two persons from Odisha arrested Forest Department personnel on Monday seized as many as 414 live endangered Indian star tortoises from a gang which was smuggling them from Samalkot area in East Godavari district to Malkangiri district in Odisha by a van. The Gokavaram Forest Range staff, led by Forest Ranger V. Durga Kumar Babu, nabbed the gang members during a raid near the Burugupudi forest check-post in East Godavari district in the early hours of Monday. According to Mr. Durga Kumar Babu, the arrested were identified as S. Sali and Viswajeet Mandal of Odisha. The tortoises will be released into the river Godavari. “Cases under the Wildlife (Protection) Act, 1972, were registered against the gang members. They were produced before a local court and investigation is on,” said Mr. Durga Kumar Babu. In a similar incident in the end of 2020, the Gokavaram forest range officials busted a gang that was smuggling 437 Indian star tortoises in East Godavari district.']
+
+
+414----QTY
+
+Indian star tortoises----SP.SPECIFIC
+
+seized----CRIME.CAT
+
+Two----SUS.NUMBER
+
+Odisha----LOC.STATE
+
+arrested----CRIME.CAT
+
+Two----SUS.NUMBER
+
+Forest Department----AUTH.SEIZE
+
+Monday----DATE
+
+414----QTY
+
+Indian star tortoises----SP.SPECIFIC
+
+Samalkot area in East Godavari district----ROUTE.SRC
+
+Malkangiri district in Odisha----ROUTE.DEST
+
+Forest Ranger----OFF.DESIG
+
+V. Durga Kumar Babu----OFF.NAME
+
+raid----DETECTION_METHOD
+
+Burugupudi forest check-post in East Godavari district----LOC.EXACT
+
+Monday----DATE
+
+Durga Kumar Babu----OFF.NAME
+
+S. Sali----SUS.NAME
+
+Viswajeet Mandal----SUS.NAME

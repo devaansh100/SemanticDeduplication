@@ -1,0 +1,35 @@
+
+["Bhopal: ‘Wild animal’ not stray dogs mauled boy to death; Rs 4 lakh aid to kin\nForest team inspecting incident site in Nishatpura area in Bhopal on Thursday | FP Bhopal(Madhya Pradesh): The forest department is going to provide Rs 4 lakh compensation to the kin of the seven-year-old boy who was killed by a ‘wild animal’ in Nishatpura area on Wednesday night, said the officials on Friday. Earlier, it was maintained that the child, identified as Ritik Bhamore, was killed by a pack of stray dogs. The family had also claimed the same, however, the doctors after examining the mutilated body had stated that the child was attacked by some wild animals like jackal, hyenas. A short post mortem report also confirmed that the kid was attacked by some wild animal, the Bhopal district administration said in a statement. Sub divisional magistrate (SDM) Manoj Upadhaya told Free Press that as per the norms of the forest department, Rs 10,000 was handed over to the family as immediate relief. “The compensation amount of Rs 4 lakh will be given shortly to the family,” the SDM said. The compensation will be given under ‘Payment of compensation to Persons Attacked by Wild Animal Act’. Meanwhile, Additional Commissioner of Police, Dinesh Koshal said the doctors have confirmed that the death had occurred due to animal bite. “But the police have registered a case and are investigating other angles also. Police want to know which type of animal had attacked the human (the boy). We will ask the forest department to catch the animal, which has turned into a man-eater and has become a threat for the people around,” the ACP said. On Wednesday late evening, the child’s mother had left home leaving the child behind who insisted on riding his bicycle in the park. When the child did not return home, the family and neighbours frantically searched for the boy. The mutilated body of the child was found near bushes in an isolated spot in Nishatpura located near an Army area on Thursday morning around 7. The family had claimed that the child was bitten by a pack of stray dogs, however, the doctors after examining the body had stated that the boy was attacked by wild animals. After the postmortem the boy's body was handed over to his parents."]
+
+
+Wild animal----SP.COMMON
+
+stray dogs----SP.COMMON
+
+mauled----CRIME.CAT
+
+boy----SUS.GENDER
+
+Rs 4 lakh----VALUE
+
+Bhopal----LOC.CITY
+
+Thursday----DATE
+
+wild animal----SP.COMMON
+
+Nishatpura area----LOC.EXACT
+
+Wednesday----DATE
+
+night----TIME
+
+Ritik Bhamore----SUS.NAME
+
+registered a case and are investigating other angles----OUTCOME
+
+Thursday----DATE
+
+morning----TIME
+
+7.----TIME

@@ -1,0 +1,45 @@
+
+['Illegal saw mill sealed - Jammu Kashmir Latest News\nExcelsior Correspondent NOWSHERA, July 13: The Forest team from Kalal Forest block of Lamberi Forest Range has sealed an illegal saw mill at village Dharat. The team constituted by Range Forest Officer Lamberi, Sudesh Kumar, led by Block Forest Officer Kalal, Ghulam Mustafa raided the premises of one Kehar Kumar, son of Balak Ram resident of Dharat, in Tehsil Nowshera and seized one secondary saw mill (18 inch diameter) as per provisions of section 52 (1) of Indian Forest Act, 1927 as said saw mill was running without valid permission from competent authority. The timber lying on spot measuring 20.18 cubic feet was also seized from spot. Whole operation was carried out under guidance and supervision of Divisional Forest Officer, Nowshera Suresh Manda and CF west circle Rajouri, B. Mohan Dass. Divisional Forest Officer, Nowshera Suresh Manda said that the operation will continue in future in order to safe guard green wealth.']
+
+
+saw mill----ITEM
+
+sealed----CRIME.CAT
+
+Jammu Kashmir----LOC.STATE
+
+Kalal Forest block of Lamberi Forest Range----AUTH.SEIZE
+
+Dharat----LOC.EXACT
+
+Range Forest Officer----OFF.DESIG
+
+Sudesh Kumar----OFF.NAME
+
+Block Forest Officer----OFF.DESIG
+
+Ghulam Mustafa----OFF.NAME
+
+Kehar Kumar----SUS.NAME
+
+Dharat----SUS.LOC
+
+one----QTY
+
+secondary saw mill----ITEM
+
+timber----ITEM
+
+20.18 cubic feet----QTY
+
+Divisional Forest Officer----OFF.DESIG
+
+Nowshera Suresh Manda----OFF.NAME
+
+CF west circle Rajouri----OFF.DESIG
+
+B. Mohan Dass----OFF.NAME
+
+Divisional Forest Officer----OFF.DESIG
+
+Nowshera Suresh Manda----OFF.NAME

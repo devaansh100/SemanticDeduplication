@@ -1,0 +1,41 @@
+
+['Customs seize endangered dried shark fins - Breaking News\nA 20-foot container with dried shark fins belong to two endangered species of Sharks, was seized yesterday by the Biodiversity, Customs Cultural and National Heritage Protection (BCNP) Unit, the Customs Department said They said the officers detected the consignment of shark fins weighing about 250kg worth over two million rupees. The international trade of those shark fins are restricted under the Convention on International Trade of Endangered Species of Wild Fauna and Flora (CITES). However, these fins have been found when the BCNP officers examined a Hong Kong bound 20-foot container said to contain dried shark fins at the Export Facilitation Centre of Sri Lanka Customs yesterday. “The fins belong to Shortfin Mako Shark family (Scientific name: Isurus oxyrinchus) and the Hammerhead Shark species (Scientific name: Sphyrna spp.). Both these species are included in the IUCN Red List of Species and also listed under the Appendix II of the CITES, because they are threatened with extinction in the near future due to overexploitation,” the Customs said. Therefore, a prior- obtained CITES Export Permit is required for them to be legally exported from Sri Lanka. Attempting to export CITES listed fishery products without a valid CITES export permit is a violation according to the Fish and Fishery Products Export, Import and Re-export Management Regulations 2017, published under the Extra Ordinary Gazette Notification No. 2023/51 dated 15.06.2017. Further investigations are being carried out by the BCNP Unit under the provisions of the Customs Ordinance. (Chaturanga Samarawickrama and T.K.G Kapila)']
+
+
+Customs----AUTH.SEIZE
+
+seize----CRIME.CAT
+
+dried shark----SP.SPECIFIC
+
+fins----ITEM
+
+20-foot container----CONCEALMENT_METHOD
+
+shark----SP.COMMON
+
+fins----ITEM
+
+Sharks----SP.COMMON
+
+seized----CRIME.CAT
+
+yesterday----DATE
+
+Biodiversity, Customs Cultural and National Heritage Protection (BCNP) Unit----AUTH.SEIZE
+
+Customs Department----AUTH.SEIZE
+
+shark----SP.COMMON
+
+fins----ITEM
+
+250kg----QTY
+
+two million rupees----VALUE
+
+fins----ITEM
+
+Isurus oxyrinchus----SP.SPECIFIC
+
+Hammerhead Shark----SP.SPECIFIC

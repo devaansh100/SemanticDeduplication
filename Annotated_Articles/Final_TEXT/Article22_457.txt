@@ -1,0 +1,25 @@
+
+['Wild jumbo rescued from Wayanad pond\nBy Express News Service KALPETTA: Forest department personnel on Thursday rescued a wild elephant that fell into a pond in Brahmagiri estate in Wayanad. Forest guards saw the dfemale elephant after it trumpeted. A team of officers and residents swung into action and built a path for the jumbo to climb out. After two-and-a-half hours of efforts, the elephant touched land and went into the forest. KALPETTA: Forest department personnel on Thursday rescued a wild elephant that fell into a pond in Brahmagiri estate in Wayanad. Forest guards saw the dfemale elephant after it trumpeted. A team of officers and residents swung into action and built a path for the jumbo to climb out. After two-and-a-half hours of efforts, the elephant touched land and went into the forest.']
+
+
+Wild jumbo----SP.COMMON
+
+rescued----CRIME.CAT
+
+Wayanad pond----LOC.EXACT
+
+Forest department----AUTH.SEIZE
+
+Thursday----DATE
+
+wild elephant----SP.SPECIFIC
+
+Wayanad----LOC.CITY
+
+dfemale elephant----SP.SPECIFIC
+
+Forest department----AUTH.SEIZE
+
+Thursday----DATE
+
+wild elephant----SP.SPECIFIC

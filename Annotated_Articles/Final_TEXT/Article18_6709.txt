@@ -1,0 +1,7 @@
+
+["Dog on tree branch, monkeys disappeared\nPATHANAMTHITTA: When a big dog's puppet was tied to a tree branch, there was no sign of monkeys who destroys tender coconuts and baby coconuts. Maniyar Areekavu native, Binoy's trick became beneficial to neighbours also. As monkeys came in droves to collect tender coconuts, no fruits were received from the farm plot. The people in the high range often use firecrackers to chase off monkeys and other wild animals which destroys the crops. But that didn't stop them. Benoy knew that monkeys would be frightened if they saw dogs and leopards. So he decided to try it out. He decided to buy a doll of the same size as a dog. He got one of those from Lulu Mall, Ernakulam for Rs 5500. The next day, as the monkeys jumped into the tree branch, they saw a dog sitting on the branch. Without going closer, they looked at the dog and yelled for a while. When they saw that the dog was not moving, they returned. The monkeys have not been seen in this area for a month. However, Benoy and his family are happy to be able collect coconuts. The same is the case with neighbors. But there is a small concern. When it rains, the puppet made of cotton balls will be soaked in water. If the monkeys realize this, the plan will fail. Monkeys do not approach the area for a while, if they see big dogs and leopards, said Chittar Anandan, former Social Forestry officer"]
+
+
+Dog----SP.COMMON
+
+monkeys----SP.COMMON

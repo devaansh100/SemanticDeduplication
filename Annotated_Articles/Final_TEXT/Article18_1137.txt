@@ -1,0 +1,13 @@
+
+['Officials clear jackfruits to avoid tusker raids\nCOIMBATORE: Elephants, known for their fondness towards jackfruits, have been frequenting villages adjoining forests in Gudalur in The Nilgiris to get a treat of the sweet fruit. They are lured in herds by trees bearing jackfruits with the start of the fruiting season since last month. But, to keep those elephants at bay, the Forest Department has taken up a rather unique task. Multiple teams of the Forest Department staff have been going around the villages frequented by elephants to pluck away the jackfruits from trees. “Villagers were asked to remove jackfruits on their own, but some are delaying the process. If they are unable to do so, either due to lack of manpower or out of old age, then, our staff would take up the job of plucking the fruits from trees. Intrusion of elephants and conflicts usually increases during the jackfruit season,” said Rajendran, Forest Range Officer, Gudalur division. The staff from the Forest Department are on their toes identifying and removing jackfruits from trees in Padanthorai, Puliamparai, Devarsholai and Devala in the Gudalur forest division. Removal of jackfruits from trees is underway for nearly two weeks after two persons died in elephant attack in ‘O’ Valley forest area. On May 26, a 43-year-old man, who was going by walk to open his teashop, was killed in an elephant attack. Again, on May 28, a 40-year-old woman was trampled when she went to attend nature’s call near her house. Both the incidents, within a span of two days triggered strong protests and forced the Forest Department to deploy kumkis and step up monitoring to prevent wild elephants from straying out. However, the move to pluck away jackfruits has not been received well by the farmers. “It’s a monetary loss as villagers make some money out of selling these jackfruits. Usually, the fruits would be purchased in bulk by traders and taken to markets in Mettupalayam and Coimbatore for sale. The Forest Department could have even bought the jackfruits for a minimum amount and dump them inside the forests for elephants to feed on,” R Chandramohan, who works as a supervisor in a tea estate at Nammalapuram in Gudalur. He was asked to cut down branches and remove jackfruits from eight trees grown in his tea estate. “It may take a few more weeks for the jackfruits to ripen and reach the plucking stage. We have decided to wait as plucking the raw fruits now will be of no use. We don’t find any issues of conflict as elephants haven’t visited our estate so far,” Chandramohan added.']
+
+
+Forest Department----AUTH.SEIZE
+
+43-year-old----SUS.AGE
+
+May 28----DATE
+
+40-year-old----SUS.AGE
+
+woman----SUS.GENDER

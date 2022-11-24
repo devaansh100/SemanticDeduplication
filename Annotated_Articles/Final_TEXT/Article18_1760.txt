@@ -1,0 +1,23 @@
+
+['2 forest staff injured in Similipal bear attack\nBHUBANESWAR: Two forest personnel sustained severe injuries after a sloth bear attacked them during the annual tiger census in Mayurbhanj district’s Similipal Tiger Reserve on Tuesday.The injured — Chaturbhuja Soren , 26, and Raunte Majhi , 21 — were brought in stretchers to the Mayurbhanj district headquarters hospital from the forest, 600ft above sea level, in the reserve’s core area. The incident took place when a team of 12 forest staff was working at Tamalbandh in the Chahala range.Officials said the bear suddenly appeared from the forest and attacked the workers when they were looking for tiger signs, a part of the census.“The other staff, who escaped the attack, tried to drive the animal away. However, Soren and Majhi sustained deep injuries on their feet, thigh and hands,” said assistant conservator of forest (Similipal north) Pradip Dey.“The sign survey is part of the tiger census and workers have to look for different types of signs of tigers and note them,” said Dey.He added that a good number of bears are found in Similipal’s core area, but their census is yet to be done as the species doesn’t come under the purview of the wildlife protection and management.']
+
+
+2----SUS.NUMBER
+
+Similipal bear----LOC.EXACT
+
+sloth bear----SP.COMMON
+
+Similipal Tiger Reserve----LOC.EXACT
+
+Tuesday.The----DATE
+
+Chaturbhuja Soren----SUS.NAME
+
+26----SUS.AGE
+
+Raunte Majhi----SUS.NAME
+
+21----SUS.AGE
+
+Tamalbandh----LOC.EXACT

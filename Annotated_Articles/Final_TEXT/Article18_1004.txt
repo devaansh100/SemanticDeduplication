@@ -1,0 +1,35 @@
+
+["J&K: 3 persons held for possession of 50 kg of endangered medicinal herb\nRepresentative Image Photo : iStock Kashmir: The Police in Handwara have arrested three persons and seized 50kgs of endangered medicinal herb Trillium Govanianum ', locally known as 'Tri Patri' from them. The accused have been identified as Shafiq Ahmad Khan and Reyaz Ahmad Khan , both residents of Mankal, and Jameel Ahmad Mir, a resident of Check Sanzipora, as reported by news agency IANS. The accused were initially stopped in their vehicle at a checkpoint in Lach Qalamabad . While searching the vehicle the officers came across the endangered herb. The officers then seized the package and took the accused into custody. A case has been registered and further investigations are underway. Trillium Govanianum is a medicinal herb that is used in primary healthcare for the treatment of various conditions such as dysentery, wound healing, and menstrual disorders. Overexploitation of the plant for commercial healthcare has led to it being classified as an endangered species . According to a ResearchGate paper, presently, the transportation of the herb through Himachal Pradesh and Jammu and Kashmir requires a permit. However, high economic returns have encouraged citizens to risk legal actions and have led to unregulated trade persisting in the region. In Himachal Pradesh, a fee of INR 8,000 is imposed per 100 kg of material collected."]
+
+
+3----SUS.NUMBER
+
+possession----CRIME.CAT
+
+50 kg----QTY
+
+medicinal herb----ITEM
+
+Police in Handwara----AUTH.SEIZE
+
+three----SUS.NUMBER
+
+medicinal herb----ITEM
+
+Trillium----p.sp
+
+Tri----SP.SPECIFIC
+
+Shafiq Ahmad Khan----SUS.NAME
+
+Reyaz Ahmad Khan----SUS.NAME
+
+Mankal----SUS.LOC
+
+Jameel Ahmad Mir----SUS.NAME
+
+Check Sanzipora----SUS.LOC
+
+vehicle----TRANSPORT_MODE
+
+case has been registered----OUTCOME

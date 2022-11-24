@@ -1,0 +1,19 @@
+
+['Pangolin rescued in East Sikkim\nGangtok: A healthy Indian pangolin was rescued from East Sikkim and released in a nearby forest (suitable habitat) at around 11:30 pm on Friday. As per the video, narrated by one of the wildlife officials, “The pangolin was being chased by dogs in one of the villages (name withheld) in East Sikkim.” ADVERTISEMENT CONTINUE READING BELOW The endangered animal was rescued by Pangolakha South Range – East Wildlife Division. Pangolin is in the Schedule I of Wildlife (Protection) Act, 1972 and listed as Endangered on the IUCN Red List. “It is highly protected and endangered species,” mentioned the wildlife officials. The exact location of the animal has been withheld to avoid poachers. Major threats to pangolins in India are hunting and poaching for local consumptive use as a protein source and traditional medicine and international trade, for its meat and scales in East and South-East Asian countries, particularly China and Vietnam. Trending Stories     ']
+
+
+Pangolin----SP.COMMON
+
+rescued----CRIME.CAT
+
+East Sikkim----LOC.EXACT
+
+Indian pangolin----SP.SPECIFIC
+
+rescued----CRIME.CAT
+
+East Sikkim----LOC.EXACT
+
+11:30 pm----TIME
+
+Friday----DATE

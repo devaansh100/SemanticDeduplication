@@ -1,0 +1,19 @@
+
+['Rajasthan: Stray dogs kill two chinkaras in Jaisalmer village, one wounded\nJAISALMER: Two Chinkaras died because of delay in treatment and one was seriously injured after four stray dogs attacked them near Khetolai village in Lathi area of Jaisalmer district on Wednesday. Later, the forest department tranquilised the dogs and sent them to Jodhpur.On the other hand, alert villagers caught a gang of five poachers roaming in Badoda village of Jaisalmer to kill desert lizards and deer. Equipment used for poaching desert lizards, sticks and two motorcycles were seized from them. They were handed over to the forest department.Wildlife enthusiast Radheyshyam Pemani said stray dogs are becoming a threat to Chinkaras. The strays chase the deer which get trapped in fencings and the dogs eat them. In the latest incidentm a few deer were roaming in the jungle near Khetolai when four dogs attacked and injured them seriously. On hearing the cries, wildlife enthusiast Neembaram Vishnoi from Khetolai village reached the spot and shooed away the dogs with sticks and stones and informed the forest department.He said the forest department team reached late due to which two deer died and later the department tranquilised the dogs and sent them to Jodhpur. Vishnoi said even after informing the forest department, the team did not come on time and two deer died due to this delay. The death of deer due to carelessness of the forest department has caused resentment among wildlife enthusiasts.Degrai pasture land and Usht Sansthan representative Sumer Singh Bhati and field owner Amar Singh said on Tuesday evening, five persons in two motorcycles were seen chasing deer. On getting ,information Pemani, Shyam Nathani and Bhati reached the spot and caught them and handed them over to the forest department.In another case, a person was caught while he was installing nooses around spiny-tailed lizards holes. His suspicious movement alerted volunteers to act swiftly and they nabbed him.']
+
+
+five poachers----SUS.NUMBER
+
+Badoda village----LOC.EXACT
+
+Jaisalmer----LOC.CITY
+
+kill----CRIME.CAT
+
+desert lizards and deer----SP.COMMON
+
+sticks----ITEM
+
+seized----CRIME.CAT
+
+forest department.Wildlife----AUTH.SEIZE

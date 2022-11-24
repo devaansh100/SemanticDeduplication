@@ -1,0 +1,35 @@
+
+['Maharashtra: Drowning Leopard Rescued From 50 Feet Deep Well In Ahmednagar district\nShare this News: Ahmednagar, 21st February 2022: A leopard escaped a narrow brush with death after falling into a 50-feet-deep open well in Alkuti village located in Parner subdivision, Ahmednagar, Maharashtra. Timely intervention by Wildlife SOS & the Forest Department helped save the big cat’s life! A local farmer was shocked to find a leopard paddling helplessly to stay afloat in a nearly 50-feet-deep well in Alkuti village on Monday morning. Fearing that the large feline may not survive much longer in the waist-deep water, he immediately alerted the Forest department. The Wildlife SOS team operating out of the Manikdoh Leopard Rescue Center was also called in for reinforcements. A four-member team from the NGO, led by Veterinary Assistant Mahendra Dhore was dispatched immediately and they drove nearly 60 km to reach the location. Meanwhile, with help from the villagers, a team of Forest officers lowered a metal crate into the well so that the leopard could clamber onto it for temporary support. Once the Wildlife SOS team arrived at the scene, the rescue operation was set in motion and a trap cage was lowered into the well to safely extricate the leopard. Sensing help, the leopard leaped into the trap cage and was carefully pulled up. The leopard was taken into a nearby forest nursery, where it was examined for any injuries and later released back into the wild. Mahendra Dhore, Veterinary Assistant, Wildlife SOS, said, “The leopard was a male, approximately 7 years old. The entire exercise had to be quickly executed with painstaking care. We are grateful to the forest department and villagers for making this rescue a success.” Kartick Satyanarayan, CEO & Co-founder Wildlife SOS said, “Wildlife SOS has saved over 30 leopards from open wells and is investigating ways to cover these wells or give wildlife ways to escape on their own if they fall in. We are glad to see that people are becoming more compassionate and making it their priority to reach out to our team and the forest department in such emergencies.” Pratap Jagtap, Range Forest Officer (Parner), said, “Leopards adapt to surviving around human-dominated landscapes, bringing them into close contact with humans leading to such situations. We are glad the animal was unhurt and was able to return to its natural habitat.” A rapidly growing population, coupled with the unchecked expansion of farmlands in the region has severely compromised not just the jungle territory of the leopards of Maharashtra, but also their water sources. Consequently, these big cats wander into neighbouring villages in their search for water and often fall victim to uncovered wells.']
+
+
+Leopard----SP.COMMON
+
+Ahmednagar----LOC.DISTRICT
+
+leopard----SP.COMMON
+
+Alkuti village located in Parner subdivision----LOC.EXACT
+
+Ahmednagar----LOC.DISTRICT
+
+Maharashtra----LOC.STATE
+
+Wildlife SOS----AUTH.SEIZE
+
+Forest Department----AUTH.SEIZE
+
+leopard----SP.COMMON
+
+Alkuti village----LOC.EXACT
+
+Monday----DATE
+
+morning----TIME
+
+Forest department----AUTH.SEIZE
+
+Veterinary Assistant----OFF.DESIG
+
+Mahendra Dhore----OFF.NAME
+
+trap cage----CONCEALMENT_METHOD

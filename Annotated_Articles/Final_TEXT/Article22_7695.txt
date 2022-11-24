@@ -1,0 +1,27 @@
+
+['Tiger kills farm labourer in Tadoba buffer\nChandrapur: A tiger killed a farm labourer in the Katwan beat under Mul (buffer) range of Tadoba Andhari Tiger Reserve (TATR) on Tuesday morning.Sources said Rambhau Marape (42) went to the forest adjacent to the farm he was working in at around 8am to get some bamboo for fencing. While he was collecting bamboo in compartment number 756, a tiger lurking in the area attacked and killed him. Other farm labourers in the vicinity fled the spot and informed forest officials.Mul (buffer) forest range officer GR Naighamkar and his team recovered Marape’s mutilated body from the forest. The RFO has announced ex gratia aid of Rs20,000 to the kin of the deceased farm labourer.Foresters have alerted nearby villagers and warned them against venturing into the jungle. They have also installed camera traps around the spot to identify the tiger responsible for the kill.Big cats have claimed 18 lives in the district this year — tigers have killed 13 people and leopards five. 39 people were killed in predator attacks in 2021.']
+
+
+Tiger----SP.COMMON
+
+kills----CRIME.CAT
+
+tiger----SP.COMMON
+
+killed----CRIME.CAT
+
+Tuesday----DATE
+
+morning.Sources----TIME
+
+Rambhau Marape----SUS.NAME
+
+42----SUS.AGE
+
+8am----TIME
+
+tiger----SP.SPECIFIC
+
+forest range officer----OFF.DESIG
+
+GR Naighamkar----OFF.NAME

@@ -1,0 +1,71 @@
+
+['Smuggler arrested with leopard pelt in Rudrapur - Pioneer Edge\nFriday, 22 April 2022 | PNS | Rudrapur The authorities nabbed a wildlife smuggler in Rudrapur area of Udham Singh Nagar district with a leopard pelt on Thursday. The circle officer (CO) of the special task force (STF) of the Kumaon division Purnima Garg formed a joint team of the officials from Forest department, police and STF and arrested the wildlife smuggler Deenanath (40) in the wee hours of Thursday from Pulbhatta area in Rudrapur. The officials informed that the accused smuggler, a resident of Khatima, was nabbed with a leopard pelt which was about seven feet long and four feet wide and is worth lakhs of rupees in the international market. The officials said that the police have registered a case against the accused under various sections of the Wildlife Protection Act, 1972. The accused has stated during the interrogation that he hunted the leopard about six months ago in Surai forest range of Khatima using a snare and a sharp weapon, as per the officials. The Uttarakhand STF SSP Ajai Singh said that the authorities have been working consistently to reach the people associated with such hunting and smuggling gangs of wild animals in the forests of Kumaon division. The STF recovered eight pelts of big cats from different areas of Kumaon last year and with time, hunting and smuggling of wild animals has become a matter of grave concern in the Kumaon region. He said that the recently recovered leopard skin also belongs to the species of the leopard which are on the verge of extinction in the state. He said that the arrested smuggler Deenanath has shared some valuable information during the interrogation that will help the authorities to reach such more smugglers and hunters. He also appreciated constables Govind Singh Bisht and Chandrashekhar for their contribution in nabbing the accused. He also appealed to the citizens to contact nearby police stations or call at 01352656202 to register complaints or provide any information regarding hunting or wildlife smugglers.']
+
+
+Smuggler----SUS.AFFIL
+
+arrested----CRIME.CAT
+
+leopard----SP.COMMON
+
+pelt----ITEM
+
+Rudrapur----LOC.CITY
+
+Rudrapur area----LOC.EXACT
+
+Udham Singh Nagar district----LOC.DISTRICT
+
+a----QTY
+
+leopard----SP.COMMON
+
+pelt----ITEM
+
+Thursday----DATE
+
+circle officer----OFF.DESIG
+
+CO----OFF.DESIG
+
+special task force (STF) of the Kumaon division----AUTH.SEIZE
+
+Purnima Garg----OFF.NAME
+
+Forest department----AUTH.SEIZE
+
+police----AUTH.SEIZE
+
+STF----AUTH.SEIZE
+
+wildlife smuggler----SUS.AFFIL
+
+Deenanath----SUS.NAME
+
+40----SUS.AGE
+
+wee hours----TIME
+
+Thursday----DATE
+
+Pulbhatta area in Rudrapur. The officials informed that the accused smuggler, a resident of Khatima, was nabbed----LOC.EXACT
+
+a----QTY
+
+leopard----SP.COMMON
+
+pelt----ITEM
+
+seven feet long----QTY
+
+lakhs of rupees----VALUE
+
+registered a case against the accused under various sections of the Wildlife Protection Act, 1972----OUTCOME
+
+leopard----SP.COMMON
+
+constables----OFF.DESIG
+
+Govind Singh Bisht----OFF.NAME
+
+Chandrashekhar----OFF.NAME

@@ -1,0 +1,47 @@
+
+['STF apprehends a wildlife criminal, a live pangolin seized from his possession\nBhubaneswar, June 8 (UNI) A team of the Special Task Force (STF) has apprehended a wildlife criminal from Boudh district and seized a live pangolin weighing 12. 4 Kg and other incriminating materials from his possession. STF sources here on Wednesday said on the basis of reliable information, a team of STF conducted raid with the help of Boudh Forest Officials on Tuesday near Khuntigura village in between Kantamal-Baliguda Road under Kantamala Police station of Boudh district and apprehended one Biseswar Bagarti of Tentuliamand under Tarava Police station of Sonepur District.']
+
+
+STF----AUTH.SEIZE
+
+apprehends----CRIME.CAT
+
+a----QTY
+
+pangolin----SP.COMMON
+
+Special Task Force (STF)----AUTH.SEIZE
+
+apprehended----CRIME.CAT
+
+Boudh----LOC.DISTRICT
+
+seized----CRIME.CAT
+
+a----QTY
+
+live----ITEM
+
+pangolin----SP.COMMON
+
+12. 4 Kg----QTY
+
+reliable information----DETECTION_METHOD
+
+STF----AUTH.SEIZE
+
+raid----DETECTION_METHOD
+
+Boudh Forest Officials----AUTH.SEIZE
+
+Tuesday----DATE
+
+Khuntigura village in between Kantamal-Baliguda Road----LOC.EXACT
+
+Boudh----LOC.DISTRICT
+
+Biseswar Bagarti----SUS.NAME
+
+Tentuliamand----SUS.LOC
+
+Sonepur District----SUS.LOC

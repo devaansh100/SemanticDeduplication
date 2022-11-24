@@ -1,0 +1,29 @@
+
+["Kakinada tiger scare: Big cat goes on midnight hunt again, kills calf- The New Indian Express\nBy Express News Service KAKINADA: Even as forest officials have been trying to deprive an adult tiger, which strayed into a human habitat in Prathipadu mandal, of any hunt so as to drive it back into the forest, the big cat on Friday night managed to kill a cow calf at Serabhavaram village. After Thursday night's cattle kill, the forest and wildlife conservation authorities set up two cages to catch the tiger, which is on the prowl in the forest fringe villages. Despite the cages having flesh from the kills it made earlier, the tiger attacked a calf kept in a shed belonging to one Bojjayya. By the time Bojjayya and neighbours rushed out hearing the commotion in the shed, the tiger had fled. The tiger could not be captured even after multiple camera traps were installed in the region. According to District Forest Officer IKV Raju, three cages have been arranged with hunted cow flesh. And another two cages are at disposal. Around 52 camera traps are being used to trace the tiger’s movements and capture it. Since May 23, the wild animal has been roaming in Prathipadu and Gollaprolu mandals leaving the people in villages of Dharmavaram, Serabhavaram, Ommangi, Pothuluru, Podurupaka and Kodavali in a state of fear. KAKINADA: Even as forest officials have been trying to deprive an adult tiger, which strayed into a human habitat in Prathipadu mandal, of any hunt so as to drive it back into the forest, the big cat on Friday night managed to kill a cow calf at Serabhavaram village. After Thursday night's cattle kill, the forest and wildlife conservation authorities set up two cages to catch the tiger, which is on the prowl in the forest fringe villages. Despite the cages having flesh from the kills it made earlier, the tiger attacked a calf kept in a shed belonging to one Bojjayya. By the time Bojjayya and neighbours rushed out hearing the commotion in the shed, the tiger had fled. The tiger could not be captured even after multiple camera traps were installed in the region. According to District Forest Officer IKV Raju, three cages have been arranged with hunted cow flesh. And another two cages are at disposal. Around 52 camera traps are being used to trace the tiger’s movements and capture it. Since May 23, the wild animal has been roaming in Prathipadu and Gollaprolu mandals leaving the people in villages of Dharmavaram, Serabhavaram, Ommangi, Pothuluru, Podurupaka and Kodavali in a state of fear."]
+
+
+Big cat----SP.COMMON
+
+Friday----DATE
+
+night----TIME
+
+cow calf----SP.COMMON
+
+Serabhavaram village----LOC.EXACT
+
+wildlife conservation authorities----AUTH.MISC
+
+big cat----SP.COMMON
+
+Friday----DATE
+
+night----TIME
+
+cow calf----SP.COMMON
+
+Serabhavaram village----LOC.EXACT
+
+wildlife conservation authorities----AUTH.SEIZE
+
+shed----CONCEALMENT_METHOD

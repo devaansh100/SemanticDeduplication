@@ -1,0 +1,87 @@
+
+['3 nabbed for selling elephant tusks\nNAGPUR: In a major action against wildlife criminals , Kolhapur forest department officials have nabbed three persons planning to sell three elephant tusks , on Wednesday evening Acting on secret information, the action was taken by Kolhapur and Satara mobile squad RFOs Yuvraj Patil and Sachin Domble respectively, former honorary wildlife warden Rohan Bhate and wildlife expert Hemant Kenjle.Sources said the accused were lured into a trap. When they arrived at the decided spot near a hotel to strike the deal, the raiding party nabbed them. Elephant is listed under Schedule I under the Wildlife Protection Act , 1972.The accused have been identified as Manik Vilasrao Inamdar (59), Parali Ninai (Shahuwadi), Sagar Abasaheb Sable (32) of Male (Panhala), and Dhananjay Kerba Jagdale (21) of Shingnapur (Karvir). The forest officials also seized an Innova vehicle, a bike and three mobile phones.It is not known from where the elephant tusks were procured and whether the accused were habitual offenders. RFO Patil, who was busy with the investigations, was not available for comments.']
+
+
+3----QTY
+
+nabbed----CRIME.CAT
+
+elephant----SP.COMMON
+
+tusks----ITEM
+
+NAGPUR----LOC.DISTRICT
+
+Kolhapur forest department----AUTH.SEIZE
+
+nabbed----CRIME.CAT
+
+three----SUS.NUMBER
+
+three----QTY
+
+elephant tusks----ITEM
+
+Wednesday----DATE
+
+evening----TIME
+
+secret information----DETECTION_METHOD
+
+Kolhapur----AUTH.SEIZE
+
+Satara mobile squad----AUTH.SEIZE
+
+RFOs----OFF.DESIG
+
+Yuvraj Patil----OFF.NAME
+
+Sachin Domble----OFF.NAME
+
+wildlife warden----OFF.DESIG
+
+Rohan Bhate----OFF.NAME
+
+wildlife expert----OFF.DESIG
+
+Hemant Kenjle.Sources----OFF.NAME
+
+near a hotel----LOC.EXACT
+
+nabbed----CRIME.CAT
+
+Manik Vilasrao Inamdar----SUS.NAME
+
+59----SUS.AGE
+
+Parali Ninai----SUS.NAME
+
+Shahuwadi----SUS.LOC
+
+Sagar Abasaheb Sable----SUS.NAME
+
+32----SUS.AGE
+
+Male----SUS.LOC
+
+Panhala----SUS.LOC
+
+Dhananjay Kerba Jagdale----SUS.NAME
+
+21----SUS.AGE
+
+Shingnapur (Karvir----SUS.LOC
+
+an----QTY
+
+Innova----ITEM
+
+vehicle----TRANSPORT_MODE
+
+a----QTY
+
+bike----ITEM
+
+three----QTY
+
+mobile phones.It----iten

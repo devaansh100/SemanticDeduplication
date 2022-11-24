@@ -1,0 +1,51 @@
+
+['Snake Charmer Held For Dancing With Cobra\nVideo: Forest officials arrested a snake charmer and detained four members of a band party for dancing with a snake… https://t.co/O6R5t4zKTg — TOI Bhubaneswar (@TOIBhubaneswar) 1651201976000 Nagin dance with cobra: Marriage party members dance with deadly snake in Odisha, snake charmer held BHUBANESWAR: It is not uncommon to try out the snake dance during a drink-fuelled office or house party, making for silly timeline photos and regretting it later. But to do the snake dance with a live Indian Cobra, and that too at a wedding procession, was not just daring, but a recipe for disaster.Forest officials on Thursday arrested a snake charmer and detained four members of a band party for dancing with a snake during a wedding procession at Karanjia , in Mayurbhanj district on Wednesday night.The snake charmer was booked under various sections of the Wildlife Protection Act (1972), and produced in court, which sent him to judicial custody.The snake charmer was hired by the bridegroom’s family to dance with the cobra, a venomous snake, and display it during the wedding procession.In a video clip that has gone viral, the snake charmer is seen opening a basket out of which the hood of the serpent emerges.As the music picked up tempo, the snake charmer is seen playing the pungi and dancing before the cobra. Later, he carries the basket containing the snake and moves it around, as the crowd gets into a frenzy.“On Wednesday evening a local sent us a video clip of a person dancing with a snake at a wedding procession. We went to the spot and caught some of them red-handed. But members of the wedding party managed to escape,” said Srikant Naik , divisional forest officer of Karanjia. The forest officials detained five persons, including four band party members.The snake has been rescued. The Indian Cobra is listed under Schedule-II of the Wildlife Protection Act. Wildlife experts said those who engaged the snake charmer should also be booked as per law.“The person who engaged the snake charmer for the dance must be arrested under Section 52 (attempts and abetment) for encouraging the crime,” said Subhendu Mallik , honorary wildlife warden of Khurda district.']
+
+
+Snake Charmer----SUS.AFFIL
+
+Cobra----SP.COMMON
+
+arrested----CRIME.CAT
+
+a----SUS.NUMBER
+
+snake charmer----SUS.AFFIL
+
+four----SUS.NUMBER
+
+snake----SP.COMMON
+
+Odisha----LOC.STATE
+
+Thursday----DATE
+
+arrested----CRIME.CAT
+
+a----SUS.NUMBER
+
+snake charmer----SUS.AFFIL
+
+four----SUS.NUMBER
+
+Karanjia----LOC.EXACT
+
+Mayurbhanj district----LOC.DISTRICT
+
+Wednesday----DATE
+
+night----TIME
+
+charmer----SUS.AFFIL
+
+booked under various sections of the Wildlife Protection Act (1972), and produced in court, which sent him----OUTCOME
+
+judicial custody.The----OUTCOME
+
+basket----CONCEALMENT_METHOD
+
+divisional forest officer----OFF.DESIG
+
+five----SUS.NUMBER
+
+snake----SP.COMMON

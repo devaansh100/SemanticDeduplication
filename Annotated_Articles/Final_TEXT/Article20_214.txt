@@ -1,0 +1,47 @@
+
+['Assam: Timber worth Rs 5 lakh seized in Kokrajhar\nWhile the country is under the lockdown to prevent the spread of the novel coronavirus, a huge stock of timber worth Rs 5 lakh has been seized in Kokrajhar in Assam today. The forest department officials in cooperation with the SSB jawans seized three sal timber laden tractors at Ultapani in the district today morning. Timber smuggling has been a major issue in the region. Also read: Assam: Two more tests positive for coronavirus, total climbs to 104 Getting inputs about timber smuggling at Ride no 9 and 10 under Ultapani range office, a joint operation team of forest department and SSB jawans from Saralpara, conducted the operation against the timber mafias since late evening along the Indo-Bhutan border areas inside deep jungles of the Haltugaon division and seized the tractors. Later, the timbers were brought to the to Ultapani forest range office. Also read: Assam Records Third COVID-19 Death As 71-Year-Old Dies In GMCH As per information, the timbers were supposed to be handed over to the timber smugglers Kokrajhar town via Saralbhanga river bank for the market. Also read: In Assam’s Nagaon, people forget social distancing amid lockdown relaxations Speaking to the media persons, the range officer of Ultapani Range, Assam, Hemanta Mushahary said that the forest department has been taking stern measures against the timber smuggling in the area, yet failed to curb smuggling in the area. He further informed that encroachment is on the peak in the jungles of Halugaon forest range. “Lack of sufficient forest officials and staff is one of the main reasons for which strict measures to conduct operation and checks are not taking place in the region,” he added. Readers like you make Inside Northeast’s work possible. To support our brand of fearless and investigative journalism, support us HERE. Download: The Inside Northeast app HERE for News, Views, and Reviews from Northeast India. Do keep following us for news on-the-go. We deliver the Northeast.']
+
+
+Assam----LOC.STATE
+
+Timber----ITEM
+
+Rs 5 lakh----VALUE
+
+seized----CRIME.CAT
+
+Kokrajhar----LOC.EXACT
+
+timber----ITEM
+
+Rs 5 lakh----VALUE
+
+Kokrajhar----LOC.EXACT
+
+Assam----LOC.STATE
+
+today----DATE
+
+forest department----AUTH.SEIZE
+
+SSB jawans----AUTH.SEIZE
+
+seized----CRIME.CAT
+
+three----QTY
+
+Ultapani----LOC.EXACT
+
+today----DATE
+
+morning----TIME
+
+inputs----DETECTION_METHOD
+
+forest department----AUTH.SEIZE
+
+SSB----AUTH.SEIZE
+
+jawans----OFF.DESIG
+
+evening----TIME

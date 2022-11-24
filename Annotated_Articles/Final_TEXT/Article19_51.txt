@@ -1,0 +1,19 @@
+
+['Leopard spotted moving near bungalow in Nashik\n\u200bNashik: A leopard was spotted moving near a bungalow in Nashik city of Maharashtra on Sunday morning, triggering panic among locals, police said. The big cat was captured in a CCTV installed at the bungalow located in the crowded Savarkar Nagar locality, following which its residents informed the police who in-turn alerted the forest department, an official at Gangapur police station said. The forest and police officials rushed to the site and launched a search, he said, adding that the feline was yet to be traced. On January 25, a leopard had strayed in the same area and injured a local politician and two media personnel, police earlier said. The carnivore was later caught by forest officials. The western part of Nashik district has dense forests which are home to several wild animals including leopards, wolves, hyenas and foxes, a forest official said.']
+
+
+Leopard----SP.COMMON
+
+Nashik----LOC.CITY
+
+leopard----SP.COMMON
+
+Nashik----LOC.CITY
+
+Maharashtra----LOC.STATE
+
+Sunday----DATE
+
+morning----TIME
+
+CCTV----DETECTION_METHOD

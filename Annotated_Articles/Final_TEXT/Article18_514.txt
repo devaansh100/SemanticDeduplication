@@ -1,0 +1,19 @@
+
+['Great Indian Hornbill brutally beaten to death in Nagaland, 3 arrested\n- Advertisement - On Wednesday, a video leaked on social media showing residents in Nagaland’s Wokha area torturing and killing a Great Indian Hornbill. Moreover, the police arrested 3 people for the crime. The Wildlife and Arms Act was used to arrest three persons in Nagaland for torturing and killing the bird. Meanwhile, a local can be seen in the video beating and stepping on the bird’s neck with his foot. The Great Indian Hornbill is designated as vulnerable Animal rights activists and netizens equally have slammed the video. The three suspects were taken into custody and turned over to the wildlife division for further investigation. Parts of the hornbill have been found, as well as the weapon used. Since 2018, the IUCN Red List has designated the Great Indian Hornbill as vulnerable. The Wild Life (Protection) Amendment Bill 2021 controls the protection of wild animals, birds, and plants, as well as attempts to expand the number of species protected by law. However, bail will not be granted to the three people arrested. Also Read: Protect Hornbills Project by Nyishi Tribe turns 10 successfully']
+
+
+Great Indian Hornbill----SP.SPECIFIC
+
+Nagaland----LOC.STATE
+
+3----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+Wednesday----DATE
+
+Wokha area----LOC.EXACT
+
+Great Indian Hornbill----SP.SPECIFIC
+
+3----SUS.NUMBER

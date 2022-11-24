@@ -1,0 +1,81 @@
+
+["Pangolin poaching racket busted in Telangana's Kazipet, 8 nabbed\nHYDERABAD: Authorities of Ramagundam police commissionerate busted an eight-member racket involving poaching of critically endangered in Kazipet . A live pangolin, three motorcycles, eight mobile phones, one newspaper and a knife were seized from their possession. One offender is still at large. The other accused are Palle Shankar, Palle Ravi, Dhadi Mahesh, Edhula Lakshman, Marineni Rajkumar, Dhigide Shankar, R Narender and M Kishore. Officials stated that the poachers and the middlemen were attempting to sell the pangolin by initially quoting the price at one and half crore and were then bargaining in lakhs in order to make money by cheating people. “They captured the live pangolin from Bogga forest area near Bellampalli and were caught while trying to sell the animal. They are not aware that pangolin does not carry any medicinal or commercial value,” said Uday Kumar Reddy, DCP, Mancherial. Pangolins fall under the list of critically endangered animals as per appendix – 1 of Cites and are also listed under Schedule – 1 in . Hunting and trading of pangolin is a serious offence with minimum seven years of rigorous imprisonment and a fine of not less than Rs 5 lakh. The police officials urged rural folk not to extend support to those who indulge in wildlife crime. Pangolin was handed over to the officials for safe relocation, DCP said. A case under Wildlife Protection Act will be filed against the eight offenders. The pThe police officials urged rural folk not to extend support to those who indulge in wildlife crime and that the offence can also attract severe punishments. PD Act will be imposed against offenders. angolin was handed over to the forest department officials for safe relocation. A case under Wildlife Protection Act will be filed against the eight offenders"]
+
+
+Pangolin----SP.COMMON
+
+busted----CRIME.CAT
+
+Telangana's----LOC.STATE
+
+Kazipet----LOC.CITY
+
+8----SUS.NUMBER
+
+nabbed----CRIME.CAT
+
+Authorities of Ramagundam police commissionerate----AUTH.SEIZE
+
+busted----CRIME.CAT
+
+eight-member----SUS.NUMBER
+
+Kazipet----LOC.CITY
+
+A----QTY
+
+pangolin----SP.COMMON
+
+three----QTY
+
+motorcycles----ITEM
+
+eight----QTY
+
+mobile phones----ITEM
+
+one----QTY
+
+newspaper----ITEM
+
+a----QTY
+
+knife----ITEM
+
+seized----CRIME.CAT
+
+Palle Shankar----SUS.NAME
+
+Palle Ravi----SUS.NAME
+
+Dhadi Mahesh----SUS.NAME
+
+Edhula Lakshman----SUS.NAME
+
+Marineni Rajkumar----SUS.NAME
+
+Dhigide Shankar----SUS.NAME
+
+R Narender----SUS.NAME
+
+M Kishore----SUS.NAME
+
+pangolin----SP.SPECIFIC
+
+Bogga forest area near Bellampalli----ROUTE.SRC
+
+pangolin----SP.SPECIFIC
+
+Pangolin was handed over to the officials for safe relocation----OUTCOME
+
+A case under Wildlife Protection Act will be filed against the----OUTCOME
+
+eight----SUS.NUMBER
+
+offenders----OUTCOME
+
+PD Act will be imposed against offenders. angolin was handed over to the forest department officials for safe relocation. A case under Wildlife Protection Act will be filed against the----OUTCOME
+
+eight----SUS.NUMBER
+
+offenders----OUTCOME

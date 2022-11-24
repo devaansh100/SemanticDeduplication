@@ -1,0 +1,47 @@
+
+['Fire to kill snake near Pune sugarcane field burns 5 leopard cubs\nPIMPRI CHINCHWAD: Five leopard cubs were found dead in a sugarcane field in Gawdewadi village in Ambegaon taluka in the Pune district of Maharashtra on Wednesday after labourers engaged in sugarcane harvest set a part of the sugarcane field on fire after noticing a snake. The cubs included three female and two male cubs which were around 15 days old.Giving details, Prajot Palve, range forest officer (RFO), Manchar said, "The incident happened in the field of Gopinath Gunage in Gawdewadi village located around 15 km from Manchar. Groups of labourers from Bhimashankar co-operative sugar factory came in the morning to cut the sugar cane at 6am. They spotted a Russel\'s viper - a poisonous snake slithering in a patch of sugarcane field so they set it on fire. Later, at 8am when they went to the field, they found the charred bodies of the five leopard cubs."He said that panchnama was conducted at the spot and the government veterinary officer conducted the post-mortem. Later the bodies were cremated. “The mother leopard will be agitated due to the loss of her cubs so we have appealed to the people to be on alert to prevent a leopard attack," he said.In another case, 73-year-old farmer Ramchandra Dhobale was injured in a leopard attack in Dhobalewadi area of Jarkarwadi village in Ambegaon taluka on Monday evening. This village is around 25 km from Manchar town. The leopard attacked him when he was returning home from his field after watering it around 7.15pm.A forest official said, "The leopard was hiding in the adjacent field and pounced from behind and caught his right leg in its jaw. Dhobale raised an alarm and tried to free himself. The frightened leopard left him and fled away."He said Dhobale was given vaccine at Pimpri Chinchwad Municipal Corporation run Yashwantrao Chavan Memorial hospital in Pimpri. The forest department has installed two cages in the village.”']
+
+
+snake----SP.COMMON
+
+Pune sugarcane field----LOC.EXACT
+
+5----QTY
+
+leopard cubs----SP.COMMON
+
+Five----QTY
+
+leopard----SP.COMMON
+
+found dead----CRIME.CAT
+
+Pune----LOC.DISTRICT
+
+Maharashtra----LOC.STATE
+
+Wednesday----DATE
+
+sugarcane harvest----CRIME.CAT
+
+Gopinath Gunage in Gawdewadi village----LOC.EXACT
+
+Bhimashankar co-operative sugar factory----AUTH.SEIZE
+
+morning----TIME
+
+6am----TIME
+
+Russel's viper----SP.SPECIFIC
+
+8am----TIME
+
+panchnama was conducted at the spot----OUTCOME
+
+Dhobalewadi area of Jarkarwadi village in Ambegaon taluka----LOC.EXACT
+
+Monday----DATE
+
+evening----TIME
+
+leopard----SP.COMMON

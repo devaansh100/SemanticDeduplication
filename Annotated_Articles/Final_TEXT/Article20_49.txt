@@ -1,0 +1,101 @@
+
+['Tamil Nadu: Trichy police arrest three for hunting egrets; rare species seized at Chennai airport\nThe accused were caught red-handed when they were spreading the net to capture the birds. | Photo Credit: Representative Image Key Highlights Forest department officials have arrested three persons for hunting egrets in Trichy Officials have also seized 180 live birds from their possession of three accused Customs officials at Chennai International Airport seized recovered exotic species from a passenger who arrived from Bangkok Trichy/Chennai: In a major operation, the forest department officials have arrested three persons for hunting egrets from Mathanam Tank in Trichy district. The officials have also seized 180 live birds from their possession. Forest officials say they are also looking for six other people who were involved in hunting the birds. The captured birds were later released by the forest officials. All the captured birds were found in good health. According to a report in Times of India, the accused have been identified as 22-year-old Arunachalam, 19-year-old Narasimman and 22-year-old Vijayakannan. All the three accused are residents of Thanjavur district. The arrest came following a specific input to forest officials. "The accused were caught red-handed when they were spreading the net to capture the birds. The accused were capturing the birds for meat and used to sell a pair for Rs 140," the report quoted D Sujatha, District Forest Officer. Officials say little egrets are protected under the Wildlife Protection Act 1972. In another rare species\' seizure, customs officials at Chennai International Airport seized recovered exotic species from a passenger, who arrived from Thai capital Bangkok. The endangered species include marmosets, iguanas, tricolour squirrels. Officials said that a receiver and another person were also detained. Customs officials say a racket was being run to traffic exotic species. The species\' seizure comes following a tip-off to Air Intelligence Unit (AIU) about the smuggling of wildlife from Bangkok. The officials noticed a man moving suspiciously in the arrival area. The man collected the baggage at the checked in and was intercepted at the exit gate. The accused was identified as 35-year-old Suresh, a resident of Chennai. He landed in Chennai from Thai Airways Flight. According to officials, the species have been identified as primates, rodents and reptiles by Wildlife Control Bureau staff. Two black and red eastern grey squirrels were found dead.']
+
+
+Tamil Nadu----LOC.STATE
+
+Trichy police----AUTH.SEIZE
+
+arrest----CRIME.CAT
+
+three----SUS.NUMBER
+
+egrets----SP.COMMON
+
+Chennai airport----LOC.EXACT
+
+Forest department officials----AUTH.SEIZE
+
+three----SUS.NUMBER
+
+egrets----SP.COMMON
+
+seized----CRIME.CAT
+
+180----QTY
+
+live birds----SP.COMMON
+
+three----SUS.NUMBER
+
+Customs officials----AUTH.SEIZE
+
+Chennai International Airport----LOC.EXACT
+
+Bangkok----ROUTE.SRC
+
+forest department----AUTH.SEIZE
+
+three----SUS.NUMBER
+
+egrets----SP.COMMON
+
+Mathanam Tank----LOC.EXACT
+
+180----QTY
+
+live----ITEM
+
+birds----SP.COMMON
+
+six other people----SUS.NUMBER
+
+captured birds were later released by the forest officials----OUTCOME
+
+22-year-old----SUS.AGE
+
+Arunachalam----SUS.NAME
+
+19-year-old----SUS.AGE
+
+Narasimman----SUS.NAME
+
+22-year-old----SUS.AGE
+
+Vijayakannan----SUS.NAME
+
+Thanjavur----SUS.LOC
+
+customs officials----AUTH.SEIZE
+
+Chennai International Airport----LOC.EXACT
+
+marmosets----SP.SPECIFIC
+
+iguanas----SP.SPECIFIC
+
+tricolour squirrels----SP.SPECIFIC
+
+racket----SUS.AFFIL
+
+tip-off----DETECTION_METHOD
+
+Air Intelligence Unit (AIU----AUTH.MISC
+
+smuggling----CRIME.CAT
+
+Bangkok----ROUTE.SRC
+
+35----SUS.AGE
+
+Suresh----SUS.NAME
+
+Chennai----SUS.LOC
+
+primates----SP.COMMON
+
+rodents----SP.COMMON
+
+reptiles----SP.COMMON
+
+eastern grey squirrels----SP.SPECIFIC

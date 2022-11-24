@@ -1,0 +1,27 @@
+
+['Businessman, driver stop to save eagle; killed as cab ploughs into them on Bandra-Worli sea link| VIDEO\nBusinessman, driver stop to save eagle; killed as cab ploughs into them on Bandra-Worli sea link| VIDEO India oi-Madhuri Adnal Mumbai, Jun 10: In a rather tragic and unfortunate accident, a 43-year-old man who stopped on the Bandra Worli Sea Link to save eagle which had crashed into his car, at Mumbai\'s Bandra-Worli Sea Link, was hit by a taxi on May 30. According to reports, the accident took place at around 1.30 pm on May 30 when Amar Manish Jariwala, a resident of the Nepean Sea Road neighbourhood, was travelling to Malad via the Bandra-Worli Sea Link route. All of a sudden, a kite came under his car, following which Jariwala asked his driver Shyam Sundar Kamat to stop the vehicle. Both got down to rescue the injured bird. However, as Jariwala picked up the injured bird, a kaali peeli rammed into him. The impact caused Jariwala to fling into the air and died on the spot after falling on the railing. Both were later rushed to the nearby Lilavati Hospital where Jariwala was declared dead whereas his driver was in a critical condition. The deceased businessman\'s father Manish Jariwala told the police that they do not want any action against the driver as they don\'t want him to suffer. He also mentioned that his son had a lot of compassion for living beings and always helped and cared for birds and animals. However, the police said they will not withdraw the First Information Report (FIR) lodged against the driver. "The taxi driver needs to drive in such a way that the vehicle is in total control. He has to see objects from a distance of 100 metres and drive accordingly. We have taken the correct action. The victim\'s family may not want action against the driver but we have done the right thing. We will not take the case back. We will chargesheet him," said Anil Koli, a senior inspector at the Worli police station.']
+
+
+eagle----SP.COMMON
+
+cab----TRANSPORT_MODE
+
+43-year-old----SUS.AGE
+
+man----SUS.GENDER
+
+eagle----SP.COMMON
+
+May 30----DATE
+
+1.30 pm----TIME
+
+May 30----DATE
+
+Amar Manish Jariwala----SUS.NAME
+
+Nepean Sea Road neighbourhood----SUS.LOC
+
+kite came under his car----DETECTION_METHOD
+
+Shyam Sundar Kamat----OFF.NAME

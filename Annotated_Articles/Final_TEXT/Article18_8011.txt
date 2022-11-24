@@ -1,0 +1,47 @@
+
+["Forest officer rescues cobra from house in Kerala in viral video. Great job, says Internet\nA video of a forest officer rescuing a cobra has gone viral online. The clip was posted on Twitter by IFS officer Sudha Ramen. A video of a forest officer bravely rescuing a cobra found at a house in Kerala has gone viral. By Shubhi Mishra: Snakes can be extremely dangerous reptiles and a majority of people are terrified of them. But, for this woman, fear is just a word. In a video that has gone viral online, a female forest officer can be seen bravely rescuing a snake after it was found at a house in Kattakkada in Kerala’s Thiruvananthpuram. The video was shared by IFS officer Sudha Ramen and has over 50k views. advertisement In the now-viral video, the forest officer named Roshini can be seen rescuing a cobra. She picked up the reptile by its tail and grabbed its neck with a hook. The reptile tried to resist for a few seconds but soon slithered into a bag. She then calmly tied the bag and carried the snake away. “A brave forest staff Roshini, rescues a snake from the human habitations at Kattakada. She is trained at handling snakes. Women force in forest departments across the country is growing in good numbers,” reads the caption of the post. Watch the viral video here: A brave Forest staff Roshini rescues a snake from the human habitations at Kattakada. She is trained in handling snakes.  Women force in Forest depts across the country is growing up in good numbers. VC @jishasurya pic.twitter.com/TlH9oI2KrH — Sudha Ramen (@SudhaRamenIFS) February 3, 2022 Netizens were in awe of the officer’s skills and took to the comments section to praise her. “First wildlife rescue I have seen where people around are not shouting. Great job handling the snake with ease and a bit of prep work,” a user said. Another user commented, “Wow what a courageous lady. She has been well trained.” See the comments here: First wildlife rescue I have seen where people around are not shouting. Great job handling the snake with ease and a bit of prep work — Shankar (@pbshankar) February 3, 2022 Wow what a courageous lady. She has been well trained. I think women should get encouraged more and more. They can do wonders. — Vishal Pandey (@imvishalkpandey) February 3, 2022 Always encourage women. They can manage anything better than men — Gangaram Chauhan (@Gangaram9791981) February 3, 2022 Looks fearless and skilful in handling such beings — Krishna Kunar (@Krishna36645425) February 3, 2022 Excellent Ma'am — Madhukar Patel (@madhuka89082855) February 3, 2022 great mam. Respect & Salutes to u — Santhosh Subramaniam (@pingsanthosh) February 3, 2022 What are your thoughts about this video? ALSO READ: US dancing dad Ricky Pond's desi performance on Nazm Nazm is just too good to miss. Viral video advertisement ALSO WATCH: From Deepika Padukone to Priyanka Chopra Open Up About Body Image Issues --- ENDS ---"]
+
+
+Forest officer----AUTH.SEIZE
+
+rescues----CRIME.CAT
+
+cobra----SP.COMMON
+
+Kerala----LOC.STATE
+
+forest officer----AUTH.SEIZE
+
+cobra----SP.COMMON
+
+IFS officer----OFF.DESIG
+
+Sudha Ramen----OFF.NAME
+
+cobra----SP.COMMON
+
+Kerala----LOC.STATE
+
+snake----SP.COMMON
+
+Kattakkada----LOC.EXACT
+
+IFS officer----OFF.DESIG
+
+Sudha Ramen----OFF.NAME
+
+Roshini----OFF.NAME
+
+reptile----SP.COMMON
+
+bag----CONCEALMENT_METHOD
+
+snake----SP.COMMON
+
+Kattakada----LOC.EXACT
+
+snake----SP.COMMON
+
+Kattakada----LOC.EXACT
+
+snake----SP.COMMON

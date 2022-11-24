@@ -1,0 +1,47 @@
+
+['Yamunanagar Wildlife Dept team arrests three ‘hunters’\nYamunanagar, December 28 A team of the Yamunanagar Wildlife Department arrested three persons, who were set to hunt wild animals, armed with weapons in the area of the Kalesar Wildlife Sanctuary. The team arrested them from two separate places and recovered two guns, several live cartridges, two search lights and two motorcycles from their possession. Yamunanagar Wildlife Department Inspector Sunil Kumar Tanwar, who was heading the team, said working on a tip-off, they had arrested the accused from the area of Darpur beat of the Wildlife Sanctuary, early on Sunday morning. He said two of the arrested persons, identified as Khursheed and Mehboob, were set to hunt wild animals. Tanwar said after their arrest, they nabbed another person identified as Jagmal from near Jatanwala village. Tanwar said however, one person identified as Shaheed (accomplice of Jagmal) managed to escape. He further said Khursheed, Mehboob and Jagmal were produced before a Special Environment Court, Kurukshetra, where they were sent to judicial custody. — TNS']
+
+
+Yamunanagar Wildlife Dept----AUTH.SEIZE
+
+arrests----CRIME.CAT
+
+three----SUS.NUMBER
+
+Yamunanagar Wildlife Department----AUTH.SEIZE
+
+three----SUS.NUMBER
+
+Kalesar Wildlife Sanctuary----LOC.EXACT
+
+arrested----CRIME.CAT
+
+two----QTY
+
+guns----ITEM
+
+live cartridges----ITEM
+
+two----QTY
+
+search lights----ITEM
+
+two----QTY
+
+motorcycles----ITEM
+
+Wildlife Department Inspector----OFF.DESIG
+
+Sunil Kumar Tanwar----OFF.NAME
+
+tip-off----DETECTION_METHOD
+
+Darpur beat of the Wildlife Sanctuary----LOC.EXACT
+
+Sunday----DATE
+
+morning----TIME
+
+Khursheed----SUS.NAME
+
+Mehboob----SUS.NAME

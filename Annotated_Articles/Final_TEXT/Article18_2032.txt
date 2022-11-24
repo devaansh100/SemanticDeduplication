@@ -1,0 +1,21 @@
+
+['To escape fire, deer strays into village, rescued\nBy Express News Service BARIPADA: One of the three deer, which strayed into a human settlement on Saturday, probably to escape wildfire in Similipal forest was rescued by Nihanagundi villagers under Thakurmunda range in Karanjia division while being attacked by a pack of dogs. Two others were also sighted, and reportedly escaped to the nearby forest. On being informed, forest personnel reached the village and later released the rescued deer in the Similipal forest. Due to the fire at different locations in periphery areas of Similipal forest, wild animals are straying into the nearby villages. Karanjia DFO Srikant Naik said wild animals were sighted near human settlements in the last few days but safely rescued and released into Similipal forest. However, he added that no fire points have been identified in Thakurmunda range of the division. BARIPADA: One of the three deer, which strayed into a human settlement on Saturday, probably to escape wildfire in Similipal forest was rescued by Nihanagundi villagers under Thakurmunda range in Karanjia division while being attacked by a pack of dogs. Two others were also sighted, and reportedly escaped to the nearby forest. On being informed, forest personnel reached the village and later released the rescued deer in the Similipal forest. Due to the fire at different locations in periphery areas of Similipal forest, wild animals are straying into the nearby villages. Karanjia DFO Srikant Naik said wild animals were sighted near human settlements in the last few days but safely rescued and released into Similipal forest. However, he added that no fire points have been identified in Thakurmunda range of the division.']
+
+
+deer----SP.COMMON
+
+three----QTY
+
+deer----SP.COMMON
+
+Saturday----DATE
+
+Nihanagundi----SUS.LOC
+
+three----QTY
+
+deer----SP.COMMON
+
+Saturday----DATE
+
+pack of dogs. Two others were also sighted, and reportedly escaped to the nearby forest. On being informed, forest personnel reached the village and later released the rescued deer in the Similipal forest. Due to the fire at different locations in periphery areas of Similipal forest, wild animals are straying into the nearby villages. Karanjia DFO Srikant Naik said wild animals were sighted near human settlements in the last few days but safely rescued and released into Similipal forest. However, he added that no fire points have been identified in Thakurmunda range of the division.----SUS.AFFIL

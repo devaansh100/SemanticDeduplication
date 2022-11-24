@@ -1,0 +1,39 @@
+
+['12-foot-long king cobra rescued in Tenkasi\nForest personnel rescued a 12-foot-long king cobra from a private farm and released it in a place under Kalakkad – Mundanthurai Tiger Reserve area on Tuesday. Following information about the 12-foot-long male king cobra slithering through the bushes of a private farm in Govindaperi under Kadayam Forest Range, a team of forest personnel from Kadayam Range rushed to the spot. The team, comprising forester Murugasamy, guard Veeranan, anti-poaching watchers Petchimuthu, Velraj, Velsamy, Manoj Kumar and Balakrishnan rescued the highly venomous snake after a prolonged struggle. The snake was released into the forest in Kallar area of Sivasailam beat. Public who happened to see wild animals stranded in farms or residential areas could alert the forest personnel by calling 04634 283165, the officials said.']
+
+
+king cobra----SP.COMMON
+
+rescued----CRIME.CAT
+
+Tenkasi----LOC.CITY
+
+12-foot-long----QTY
+
+king cobra----SP.COMMON
+
+Tuesday----DATE
+
+Following information----DETECTION_METHOD
+
+forest personnel----AUTH.SEIZE
+
+Kadayam Range----AUTH.SEIZE
+
+forester----OFF.DESIG
+
+Murugasamy----OFF.NAME
+
+guard----OFF.DESIG
+
+Veeranan----OFF.NAME
+
+anti-poaching watchers----OFF.DESIG
+
+Petchimuthu----OFF.NAME
+
+Velraj----OFF.NAME
+
+Manoj Kumar----OFF.NAME
+
+Balakrishnan----OFF.NAME

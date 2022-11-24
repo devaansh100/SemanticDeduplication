@@ -1,0 +1,27 @@
+
+['Two elephants get stuck in Mahanadi river\nTwo elephants get stuck in Mahanadi river Banki: Two elephants were reportedly stuck in the Mahanadi river near Bhagipur while trying to cross the water body in the Banki forest range. As per information, thr pachyderms were trapped while trying to cross the river to reach Chandaka sanctuary from Sukasen forest. The local spotted the trapped elephant and informed to the forest department. On getting the information, the forest department team arrived at the spot. The forest officials are keeping a close watch on the movement of the wild animals.']
+
+
+Two----QTY
+
+elephants----SP.COMMON
+
+Mahanadi river----LOC.EXACT
+
+Two----SUS.NUMBER
+
+elephants----SP.COMMON
+
+Mahanadi river----LOC.EXACT
+
+elephants----SP.COMMON
+
+Mahanadi river----ROUTE.SRC
+
+pachyderms----SP.COMMON
+
+elephant----SP.COMMON
+
+forest department----AUTH.SEIZE
+
+forest department----AUTH.SEIZE

@@ -1,0 +1,69 @@
+
+['Three held for selling two red sand boa at Goregaon\nRed Sand Boa (Representative Image) | Twitter/@Herpomania In a joint operation by the Wildlife Crime Control Bureau (WCCB) Western Region and the Range Forest Office – Protection, Encroachment Removal (Mobile Squad) Kalyan, two red sand boa were seized and three persons were arrested at Infinity IT Park in Goregaon East in an attempt to sell the reptiles. Acting on a tip-off that a sale of red sand boa was to happen near Infinity IT Park, a trap was laid, wherein two men, who matched the description of the accused, walked in. Upon interception, the team from WCCB found two non-venomous snakes, which are illegally used for black magic, good luck and medicinal purposes, were seized. They were then taken into custody for further interrogation. The trio, identified as Rahim Azaz Ahmed Khan, 48, Subhash Somlal Pawar, 62, and Wasiulla Mohd Shafi Rai, 48, are employed with the entertainment industry, working as technicians with a production house. They were nabbed and booked under relevant sections of the Wildlife (Protection) Act. The accused trio was produced before a magistrate and sent to judicial custody till October 29 for further investigation. Meanwhile, the rescuers conducted medical examinations of seized snakes; they are healthy and will be released, said range forest officer Varsha R Kharmate.']
+
+
+Three----SUS.NUMBER
+
+selling----CRIME.CAT
+
+two----QTY
+
+red sand boa----SP.SPECIFIC
+
+Goregaon----LOC.EXACT
+
+Red Sand Boa----SP.SPECIFIC
+
+Wildlife Crime Control Bureau----AUTH.SEIZE
+
+WCCB) Western Region----AUTH.SEIZE
+
+Range Forest Office – Protection, Encroachment Removal (Mobile Squad) Kalyan----AUTH.SEIZE
+
+two----QTY
+
+red sand boa----SP.SPECIFIC
+
+seized----CRIME.CAT
+
+three----SUS.NUMBER
+
+Infinity IT Park----LOC.EXACT
+
+Goregaon East----LOC.EXACT
+
+sell----CRIME.CAT
+
+tip-off----DETECTION_METHOD
+
+sale----CRIME.CAT
+
+red sand boa----SP.SPECIFIC
+
+Infinity IT Park----LOC.EXACT
+
+two----SUS.NUMBER
+
+men----SUS.GENDER
+
+WCCB----AUTH.SEIZE
+
+non-venomous snakes----SP.SPECIFIC
+
+seized----CRIME.CAT
+
+Rahim Azaz Ahmed Khan----SUS.NAME
+
+48----SUS.AGE
+
+Subhash Somlal Pawar----SUS.NAME
+
+62----SUS.AGE
+
+Wasiulla Mohd Shafi Rai----SUS.NAME
+
+48----SUS.AGE
+
+nabbed and booked under relevant sections of the Wildlife (Protection) Act----OUTCOME
+
+medical examinations of seized snakes----OUTCOME

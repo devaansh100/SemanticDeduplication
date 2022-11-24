@@ -1,0 +1,51 @@
+
+['75 kg sea cucumber seized, one held\nMADURAI: As much as 75 kg of Sea cucumber, which is classified as marine endangered species under Schedule –I of the Wildlife Protection Act of 1972, have been seized near Kenikarai in Ramanathapuram district on Tuesday. A team of police led by Inspector Malaisamy of Kenikarai while patrolling along the East Coast Road at Palangulam village, foiled a bid to smuggle sea cucumbers. He spotted a couple of vehicles stationed in a suspicious manner and while approaching the vehicles, a car carrying four persons fled the scene. However, the police managed to detain the other vehicle and found three gunny bags of processed sea cucumber. The vehicle driver Palani (44) of Anjukottai was caught. Probe revealed that they were about to be smuggled to Sri Lanka via sea through Rameswaram. The seized sea cucumbers were handed over Forest Department. Hunt is not to nab 4 other offenders.']
+
+
+75 kg----QTY
+
+sea cucumber----SP.COMMON
+
+seized----CRIME.CAT
+
+one----SUS.NUMBER
+
+75 kg----QTY
+
+Sea cucumber----SP.COMMON
+
+Kenikarai----LOC.EXACT
+
+Ramanathapuram----LOC.DISTRICT
+
+Tuesday----DATE
+
+police----AUTH.SEIZE
+
+Inspector----OFF.DESIG
+
+Malaisamy----OFF.NAME
+
+smuggle----CRIME.CAT
+
+sea cucumbers----SP.COMMON
+
+vehicles----TRANSPORT_MODE
+
+car----TRANSPORT_MODE
+
+four----SUS.NUMBER
+
+three gunny bags----CONCEALMENT_METHOD
+
+processed sea cucumber----ITEM
+
+Palani----SUS.NAME
+
+44----SUS.AGE
+
+Anjukottai----SUS.LOC
+
+Sri Lanka----ROUTE.DEST
+
+seized----OUTCOME

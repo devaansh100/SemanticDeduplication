@@ -1,0 +1,19 @@
+
+["Krait Snake: Latest News, Videos and Photos of Krait Snake\nUttar Pradesh: Man bitten by snake while trying to film video with it TNN / Aug 22, 2022, 05:44 (IST) Playing with a snake and shooting a video with it proved to be fatal for a 55-year-old man from Uttar Pradesh's Shahjahanpur district as he was bitten by the reptile, eventually leading to his death on Saturday."]
+
+
+Krait Snake----SP.COMMON
+
+Uttar Pradesh----LOC.STATE
+
+Man----SUS.GENDER
+
+snake----SP.COMMON
+
+55-year-old----SUS.AGE
+
+man----SUS.GENDER
+
+Uttar Pradesh's Shahjahanpur district----SUS.LOC
+
+Saturday----DATE

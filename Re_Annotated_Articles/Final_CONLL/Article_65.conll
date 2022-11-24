@@ -1,0 +1,13 @@
+UP B-AUTH.SEIZE
+Police I-AUTH.SEIZE
+arrests B-CRIME.CAT
+3 B-SUS.NUMBER
+poachers O
+, O
+seizes B-CRIME.CAT
+100 B-QTY
+kg I-QTY
+of O
+boar B-SP.COMMON
+meat B-ITEM
+

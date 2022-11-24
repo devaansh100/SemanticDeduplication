@@ -1,0 +1,37 @@
+
+['75 Rose-ringed parakeets rescued\nDistrict Forest Department personnel rescued 75 rose-ringed parakeets, caged by a woman for sale near the New Bus Stand here on Tuesday. Based on a tip-off about the sale of birds, District Forest Officer R. Murugan sent a team to the New Bus Stand and found the woman selling the birds. The woman identified as Jayalakshmi from Tiruchi was arrested and a case was registered against the woman under the Wildlife Protection Act.']
+
+
+75----QTY
+
+Rose-ringed parakeets----SP.SPECIFIC
+
+rescued----CRIME.CAT
+
+District Forest Department----AUTH.SEIZE
+
+75----QTY
+
+rose-ringed parakeets----SP.SPECIFIC
+
+woman----SUS.GENDER
+
+New Bus Stand----LOC.EXACT
+
+Tuesday----DATE
+
+tip-off----DETECTION_METHOD
+
+sale----CRIME.CAT
+
+District Forest Officer----OFF.DESIG
+
+R. Murugan----OFF.NAME
+
+Jayalakshmi----SUS.NAME
+
+Tiruchi----SUS.LOC
+
+arrested----OUTCOME
+
+case was registered against the woman under the Wildlife Protection Act----OUTCOME

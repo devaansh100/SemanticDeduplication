@@ -1,0 +1,55 @@
+
+['Coimbatore: Gun enthusiast turned poacher, three others arrested for hunting wild boar\nCOIMBATORE: The forest department arrested four men, including a national shooter aspirant-turned poacher, for poaching a wild boar at Marudhamalai beat in the Coimbatore forest range on Sunday.The arrested were identified as B Ashok Kumar, 49, of PN Pudur, P Sasikumar, 47, of Chinna Thadagam, AG Sampathkumar, 39, of Pannimadai and S Devaraj, 55, of Athappapalayam near Tiruchengode in Namakkal district. A country-made gun, torchlights were seized from them.On Sunday night, the four were hunting a wild boar in a reserve forest at Marudhamalai beat. After hearing a gunshot, people from Meenakshi Nagar and IOB Colony alerted the forest department officials who along with anti-poaching watchers rushed to the spot.On conducting vehicle checks, they intercepted a car and found a single barrel breech load (SBBL) gun in the vehicle.Immediately, the officials secured the four men who were travelling in the car and seized the gun. They were booked under the Wildlife Protection Act and remanded in judicial custody on Monday night.According to sources, Ashok Kumar wanted to become a national-level shooter and underwent training at a rifle club. Later, he became a hunter. He was fined Rs 1 lakh for hunting wild animals at Pethikuttai in the Sirumugai forest range in 2004.In 2013, former Boluvampatti ranger C Dineshkumar arrested him for hunting three deer. His gun licence was cancelled by the district administration.On October 25, 2018, Ashok Kumar was arrested along with three others for attempting to poach wild animals at Narasipuram and a country-made gun, bullets and two motorcycles were seized from them. TNN']
+
+
+arrested----CRIME.CAT
+
+wild boar----SP.COMMON
+
+forest department----AUTH.SEIZE
+
+four----SUS.NUMBER
+
+men----SUS.GENDER
+
+B Ashok Kumar----SUS.NAME
+
+49----SUS.AGE
+
+PN Pudur----SUS.LOC
+
+P Sasikumar----SUS.NAME
+
+47----SUS.AGE
+
+Chinna Thadagam----SUS.LOC
+
+AG Sampathkumar----SUS.NAME
+
+39----SUS.AGE
+
+Pannimadai----SUS.LOC
+
+S Devaraj----SUS.NAME
+
+55----SUS.AGE
+
+Athappapalayam----SUS.LOC
+
+country-made gun----ITEM
+
+torchlights----ITEM
+
+Sunday----DATE
+
+wild boar----SP.COMMON
+
+forest department----AUTH.SEIZE
+
+anti-poaching watchers----AUTH.MISC
+
+intercepted a car----DETECTION_METHOD
+
+single barrel breech load (SBBL) gun----ITEM
+
+booked under the Wildlife Protection Act----OUTCOME

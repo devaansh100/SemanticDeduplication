@@ -1,0 +1,41 @@
+
+['‘Ghost’ leopard kills 3 blackbucks, 5 deer, 1 antelope in Gorewada centre\nNAGPUR: In a bizarre incident, a leopard killed five deer, three blackbucks and a four-horned antelope housed in an enclosure in Gorewada Rescue Centre in the city on Tuesday night.Though there were no eyewitnesses, the officials have noticed leopard pugmarks inside the enclosure. It remains a mystery how the leopard entered the enclosure for the kill and escaped too as no major breach in the fencing was detected. Though an official claimed that the leopard may have jumped over five-metre-high chain-link fencing, the possibility also seems remote as it has a solar-powered electric fence protection system.Even as an authentic survey on the presence of wild animals in Gorewada has never been done, Forest Development Corporation of Maharashtra (FDCM) divisional manager (DM) Nandkishore Kale says, “There are at least six leopards in the wild and some of them have been frequenting near the enclosures of leopards held in captivity. There have been sporadic reports of domestic animal kills in the vicinity of Gorewada.”The Gorewada reserve forest is spread in 1,914 hectares. Out of this, 850 hectares are on the left side of Katol Road where an international standard zoo is coming up, while remaining area on the lake side houses a rescue centre in 25 hectares and jungle safari, which coincides with the forest.The rescue centre has three separate herbivore enclosures spread in 10,000sqft each. Post treatment, these herbivores were kept in one enclosure and hence fallen prey to the leopard. The carnivore consumed flesh of one blackbuck, while another was left half-eaten. Nilgais (bluebulls) housed in another enclosure were unharmed.Kale said it is difficult to judge how the big cat entered the herbivore cage despite no major breaches seen. “It is really surprising how the carnivore managed to enter the enclosure despite a charged solar fencing,” he added.The herbivores were brought from different parts of the region for treatment. During the last couple of months, the rescue centre has lost at least three leopards and three sloth bears undergoing treatment. “The death of nine herbivores in one go is a big loss as these animals after their re-release in the wild could have added to the numbers and prey base too,” claimed Nagpur district honorary wildlife warden Kundan Hate.FDCM managing director Dr N Rambabu said, “I agree these animals should have been released in the wild. These animals used to be indoors, but learning from the past experience we have recently installed solar-powered electric protection system on the chain-link fencing. We fear the leopard must have found some breaches in the enclosure. I have ordered an inquiry into the incident.”']
+
+
+Ghost’ leopard----SP.SPECIFIC
+
+kills----CRIME.CAT
+
+3----QTY
+
+blackbucks----SP.SPECIFIC
+
+5----QTY
+
+deer----SP.COMMON
+
+1----QTY
+
+antelope----SP.COMMON
+
+Gorewada centre----LOC.EXACT
+
+leopard----SP.COMMON
+
+five----QTY
+
+deer----SP.COMMON
+
+three----QTY
+
+blackbucks----SP.SPECIFIC
+
+a----QTY
+
+four-horned antelope----SP.SPECIFIC
+
+Gorewada Rescue Centre----LOC.EXACT
+
+Tuesday----DATE
+
+night----TIME

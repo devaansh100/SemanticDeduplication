@@ -1,0 +1,99 @@
+
+['Wildlife Smuggling Racket Busted In Deogarh; Five Held, Arms & Ammunition Seized\nDeogarh: Police on Saturday busted a wildlife smuggling racket with the arrest of five poachers in Deogarh district and seized arms and ammunition from them. The arrestees have been identified as Suresh Sabar (56), Hemanta Kisan (40), Rebati Mohan Munda (34), Laanath Naik (50), and Berrudhar Kisan(32). Acting on reliable input, police conducted a raid and arrested five persons on PWD road adjacent to Talabila forest near Marha village under Barkote police limits while they were trying to flee from the spot, informed Deogarh SP Raj Kishore Paikaray, in a press meet. The cops have also seized three country-made guns, Single Barrel Muzzle, wooden butt, two bows, seven arrows, one cutting player, 11 batteries, five clutch GI cab, one bottle containing gun powder substance, 22 lead pallets, two small live bombs, aluminum cable and some raw lead metals from them. A case (308/21) has been registered under Arms Act, 1959/Sec 4/5 of Explosive Substances Act, 1908 and the arrested persons have been forwarded to court, the police said.']
+
+
+Wildlife Smuggling Racket----SUS.AFFIL
+
+Deogarh----LOC.CITY
+
+Five----SUS.NUMBER
+
+Arms & Ammunition----ITEM
+
+Seized----CRIME.CAT
+
+Police----AUTH.SEIZE
+
+Saturday----DATE
+
+wildlife smuggling racket----SUS.AFFIL
+
+five----SUS.NUMBER
+
+poachers----SUS.AFFIL
+
+Deogarh----LOC.DISTRICT
+
+seized----CRIME.CAT
+
+arms and ammunition----ITEM
+
+Suresh Sabar----SUS.NAME
+
+56----SUS.AGE
+
+Hemanta Kisan----SUS.NAME
+
+40----SUS.AGE
+
+Rebati Mohan Munda----SUS.NAME
+
+34----SUS.AGE
+
+Laanath Naik----SUS.NAME
+
+50----SUS.AGE
+
+Berrudhar Kisan(32----SUS.NAME
+
+raid----CRIME.CAT
+
+five----SUS.NUMBER
+
+PWD road adjacent to Talabila forest near Marha village----LOC.EXACT
+
+three----QTY
+
+country-made guns----ITEM
+
+Single Barrel Muzzle----ITEM
+
+wooden butt----ITEM
+
+two----QTY
+
+bows----ITEM
+
+seven----QTY
+
+arrows----ITEM
+
+one----QTY
+
+cutting player----ITEM
+
+11----QTY
+
+batteries----ITEM
+
+five----QTY
+
+clutch GI cab----ITEM
+
+one----QTY
+
+gun powder substance----ITEM
+
+22----QTY
+
+lead pallets----ITEM
+
+two----QTY
+
+small live bombs----ITEM
+
+aluminum cable----ITEM
+
+raw lead metals----ITEM
+
+case (308/21) has been registered under Arms Act, 1959/Sec 4/5 of Explosive Substances Act, 1908----OUTCOME

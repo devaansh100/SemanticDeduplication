@@ -1,0 +1,31 @@
+
+['‘Semi-conscious’ lizard found in ‘chole bhature’ at Chandigarh’s Sagar Ratna\nChandigarh, June 16: A lizard in a semi-conscious state was found in a meal served at the prominent Sagar Ratna outlet in Chandigarh’s Elante Mall. A video was shared by the victim which went viral all over the social media. Following the incident, a team of food and safety officials visited the Sagar Ratna outlet and collected samples from the meal. According to the concerned authorities, the samples were sent to a food testing lab, and reports are expected in the next 15 days. Also Read: India reports 12,213 Covid-19 cases in 24 hours, highest in over 3 months While addressing the media, health department official said that, “Soon after receiving information, a team of food and safety officials visited the Sagar Ratna outlet and collected samples from the meal in which the lizard was found. The samples have been sent to a food testing lab and reports will arrive in next 15 days. Thereafter, action will be taken as per rules.” The victim has shared the video on his Twitter handle and claimed that the “lizard was found in semi-conscious state under the Bhatura”. “Had a very horrible experience on 14.6.22, at Sagar Ratan, food court, Elante Mall, Chandigarh. A live Lizard was found in semi-conscious state under the Bhatura. Complaint given to @DgpChdPolice they made sample seized by food health Dept. Chd. @KirronKherBJP,” he tweeted. Had a very horrible experience on 14.6.22, at Sagar Ratan, food court, Elante Mall, Chandigarh. A live Lizard was found in semi-conscious state under the Bhatura. Complaint given to @DgpChdPolice they made sample seized by food health Dept. Chd. @KirronKherBJP@DoctorAjayita pic.twitter.com/ej4sLHrnH5 — Ravi Rai Rana #RWorld (@raviranabjp) June 15, 2022 Meanwhile, official statement has also been released by Elante spokesperson in which he said “hygiene and safety of patrons is of utmost importance” and necessary action will be taken to avoid such incidents.” Also Read: Monkeypox cases in Britain surpass 500 “The hygiene and safety of patrons is of utmost importance and we will take all necessary steps to ensure incidents like these can be avoided and will assist the authorities in a thorough food safety audit in the food court,” the spokesperson added. -PTC News']
+
+
+lizard----SP.COMMON
+
+chole bhature’----LOC.EXACT
+
+Chandigarh’s Sagar Ratna----LOC.EXACT
+
+lizard----SP.COMMON
+
+meal----CONCEALMENT_METHOD
+
+food and safety officials----AUTH.SEIZE
+
+Sagar Ratna outlet----LOC.EXACT
+
+samples have been sent to a food testing lab----OUTCOME
+
+14.6.22,----DATE
+
+Sagar Ratan, food court, Elante Mall, Chandigarh----LOC.EXACT
+
+Lizard----SP.COMMON
+
+food health Dept. Chd----AUTH.SEIZE
+
+14.6.22,----DATE
+
+Sagar Ratan----LOC.EXACT

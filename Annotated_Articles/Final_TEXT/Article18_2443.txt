@@ -1,0 +1,29 @@
+
+['Body of tigress found in Chhattisgarh; poisoning suspected\nChhattisgarh: Body of tigress found GGNP; poisoning suspected | File Photo The body of a female tiger was spotted lying in mysterious condition in Guru Ghasidas National Park (GGNP), district Korea, Chhattisgarh on Monday. It has been suspected that the tigress was poisoned. The death of the tigress has created uproar and angst in wild animal lovers across the nation, who are worried about the continuously decreasing number of tigers in the state. After the information spread, the team of the Chhattisgarh forest department reached the site, took the body under custody and sent it for autopsy. The director of the park Ramakrishnan confirmed the death of the female tiger and said, they recovered the body of the tigress in the jungles of Salgawan Khurd, close to Sonhat-Ramagarh. The exact reason for the cause of death will only be known after the postmortem report gets tabled, the director said. Meanwhile, the initial information received through the sources said, the tigress killed a buffalo and the villagers were sulking with anger. It has been alleged that the villagers sprayed poison over the body of the killed buffalo and the tigress died from consuming the flesh of the kill. Wildlife activist Nitin Singivi said, the poisoning of tigers is not new in Chhattisgarh, it is called revenge killing. A similar, case was reported in November 2011 in the jungles of Bhoramdev, in 2010 in Kawardha. However, in my opinion, it is a case of sheer negligence of forest department officials because as per SOP, whenever a tiger makes such a kill there are forest guards to follow the pug marks, trap cameras installed and in such cases, initiatives are taken to diffuse the tension. Unfortunately, such things were missing, the activist said.']
+
+
+Body----ITEM
+
+tigress----SP.COMMON
+
+Chhattisgarh----LOC.CITY
+
+poisoning----CRIME.CAT
+
+Body----ITEM
+
+tigress----SP.COMMON
+
+GGNP----LOC.EXACT
+
+poisoning----CRIME.CAT
+
+body----ITEM
+
+Guru Ghasidas National Park (GGNP), district Korea----LOC.EXACT
+
+Monday----DATE
+
+poisoned----CRIME.CAT
+
+Chhattisgarh forest department----AUTH.SEIZE

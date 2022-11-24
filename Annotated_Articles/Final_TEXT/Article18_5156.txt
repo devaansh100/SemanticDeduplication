@@ -1,0 +1,13 @@
+
+['Watch: Staff act quickly after crocodile escapes from zoo van, dashes down Florida street\nAlthough residents of Florida in the US are hardly alarmed by the sight of crocodiles, many were recently surprised to spot one fleeing from a zoo van. A video of the zoo staff wrestling with the huge reptile has now taken social media by storm. The unusual incident happened when the St Augustine Alligator Farm Zoological Park was trying to relocate the creatures. The zoo said the reptiles were secured before they were placed in the vehicle, but “this animal broke the back window of the van and made a dash down the road.” They added that the crew acted quickly to recapture it and the animal was delivered safely to its new habitat. “This is why we have extensive training and do drills, to prepare for moments like this,” the zoo wrote while sharing the mind-boggling video on its Facebook page. While the anxious moments did trigger some panic among those on the street, the zoo reassured: “At no time was there any real danger as the animal’s mouth was secured.” Hailing “girl power”, the zoo thanked reptile keeper Karsyn and general curator Gen Anderson who were able to successfully recapture it. They were assisted by Ryan and Donald from maintenance, the post added. According to the Florida Fish and Wildlife Conservation Commission, South Florida is the only place in the United States which is a natural home to both alligators and crocodiles. The zoo, on its website, said it is the only facility in the world exhibiting living specimens of all 24 currently recognised species of crocodilians.']
+
+
+crocodile----SP.COMMON
+
+St Augustine Alligator Farm Zoological Park----AUTH.SEIZE
+
+Karsyn----OFF.NAME
+
+Ryan----OFF.NAME
+
+Donald----OFF.NAME

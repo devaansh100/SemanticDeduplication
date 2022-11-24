@@ -1,0 +1,43 @@
+
+['Red sanders worth Rs 5 crore seized at Chennai port\nChennai (Tamil Nadu) [India], May 1 (ANI): A total of 6.4 MTS of Red Sanders worth Rs 5 crore was seized by Chennai Sea Customs from a container meant for export to Taiwan, said Chennai Customs on Saturday.  "Chennai Sea Customs on specific intelligence intercepted an export container concealed with 6.4 MTS of Red Sanders of value Rs 5 crore and seized it. The prohibited goods were camouflaged as pavement stone and declared for shipment to Taiwan, to escape from Customs examination check," Chennai Custom said in a tweet. The prohibited goods were camouflaged as pavement stone and declared for shipment to Taiwan, to escape from Customs examination check. (ANI) ']
+
+
+Red sanders----SP.COMMON
+
+Rs 5 crore----VALUE
+
+seized----CRIME.CAT
+
+Chennai port----LOC.EXACT
+
+Chennai----LOC.CITY
+
+Tamil Nadu----LOC.STATE
+
+May 1----DATE
+
+6.4 MTS----QTY
+
+Red Sanders----SP.COMMON
+
+Rs 5 crore----VALUE
+
+Chennai Sea Customs----AUTH.SEIZE
+
+export to Taiwan----ROUTE.DEST
+
+Chennai Customs----AUTH.SEIZE
+
+Saturday----DATE
+
+Chennai Sea Customs----AUTH.SEIZE
+
+intercepted----DETECTION_METHOD
+
+6.4 MTS----QTY
+
+Red Sanders----SP.COMMON
+
+Rs 5 crore----VALUE
+
+camouflaged as pavement stone----CONCEALMENT_METHOD

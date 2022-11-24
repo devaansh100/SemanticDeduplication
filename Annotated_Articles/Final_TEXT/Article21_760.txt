@@ -1,0 +1,47 @@
+
+['Odisha STF seizes leopard skin, arrests wildlife criminal\nIn the latest interception of wildlife offence, the Special Task Force (STF) wing of Odisha police on Wednesday seized a leopard skin and arrested a wildlife criminal in Kandhamal district. The poaching of these protected animals has shot up in Odisha with the seizure of around 20 leopard skins in one year. Of the seizures, the STF alone has accounted for the seizure of 16 skins. The arrested person was identified as Bidyadhar Nayak. The STF personnel in a joint operation with forest staff nabbed the offender at forest-side Siptiguda village under Baliguda wildlife range. He was about to strike a deal to dispose of the skin when the STF arrested him on specific feedback provided from the ground level, said Deputy Inspector General of police, STF, Mr. Jai Narayan Pankaj. The seized skin of leopard, a Schedule I animal under the Wildlife Protection Act, 1972 that provides for absolute protection of the animals, is sized at 6 feet. The accused persons could not produce any valid document for possession of animal skin. He was booked under Section 51 of the Wildlife (Protection) Act, 1972. The seized skin will be sent to the Wildlife Institute of India, Dehradun, for a chemical examination. The arrested person is being interrogated to get further information. It is being investigated to ascertain whether he was part of an organized wildlife trophy smuggling racket, said DIG, STF Mr Pankaj. Leopards have become the latest target of organised poaching rackets in the state. The hides of these protected animals are much in demand in the international market. That is the reason why over 150 leopards have been killed in Odisha during the past one decade, according to wildlife activists. The STF, the specialized investigation wing of Odisha police, is performing an admirable job in intercepting the wildlife offences while the forest department has failed to keep a tab on animals’ poaching, they added. During the last one year, the STF has intensified its special drive against the wildlife criminals and poachers and seized as many as 16 leopard skins, nine elephant tusks, two deerskin, four live pangolin and 15 kg pangolin scales while 33 wildlife criminals were also arrested.']
+
+
+Odisha----LOC.STATE
+
+STF----AUTH.SEIZE
+
+seizes----CRIME.CAT
+
+leopard----SP.COMMON
+
+skin----ITEM
+
+Special Task Force (STF) wing----AUTH.SEIZE
+
+Wednesday----DATE
+
+seized----CRIME.CAT
+
+a----QTY
+
+leopard----SP.COMMON
+
+skin----ITEM
+
+Kandhamal----LOC.DISTRICT
+
+Bidyadhar Nayak----SUS.NAME
+
+STF----AUTH.SEIZE
+
+forest staff----AUTH.SEIZE
+
+Siptiguda village----LOC.EXACT
+
+STF----AUTH.SEIZE
+
+Deputy Inspector General of police, STF----OFF.DESIG
+
+Jai Narayan Pankaj----OFF.NAME
+
+leopard----SP.COMMON
+
+booked under Section 51 of the Wildlife (Protection) Act, 1972----OUTCOME
+
+chemical examination----OUTCOME

@@ -1,0 +1,39 @@
+
+['Communal tension sear UP village after monkey shot dead by miscreants\n- A monkey feeds its baby at Zoological Gardens in Yangon, Myanmar, July 30, 2019. (Xinhua/U Aung/IANS) | Photo Credit: IANS Key Highlights Bajrang Dal workers held protests which were joined by local villagers as the news spread Forest Dept registered FIR against three brothers Asif, Hafiz and Anees but no arrests were made Monkey is revered as representative of Hindu deity Hanuman Lucknow: Tension seared in Uttar Pradesh’s Shamli district after a monkey, revered as representative of Hindu deity Hanuman, was shot dead by miscreants, the police said. Hurting the animal is considered sacrilege. The police said a First Information Report (FIR) was filed against three brothers who surrounded the simian and shot it with a licensed weapon belonging to the family. "An FIR has been filed against three brothers Asif, Hafiz and Anees who allegedly surrounded the monkey and shot at it with one of the four licenced weapons belonging to the family on Saturday," circle officer Kairana, Pradeep Kumar told news agency IANS. The police said the monkey died of bullet wound on its back after which the forest officials reached the spot and took the animal for post mortem. The Forest Department filed an FIR under the Wildlife Protection Act 1972 for the offence which carries six months of imprisonment and a fine. However, no arrests have been made so far. Local Bajrang Dal leader staged a protest after the incident and more people from the village joined in as the news spread. “Three youths from the minority community have shot the monkey, wounding it fatally. They also made some derogatory remarks. We demand their immediate arrest and revocation of their arms licenses," Sunny Saroha, District President of Bajrang Dal youth wing, told IANS. Security was enhanced by the district administration in view of increasing threat after the incident. The incident comes to light even as the dust refuses to settle in a similar 2018 Bulandshahr violence case that followed carcasses of cows being found strewn across farms in Mahav village. The incident led to massive violence leading to the death of local police officer Subodh Kumar Singh. Singh was part of the 2015 Mohammad Akhlaq’s lynching in Dadri, UP.']
+
+
+monkey----SP.COMMON
+
+shot dead----CRIME.CAT
+
+Bajrang Dal workers----AUTH.SEIZE
+
+Forest Dept----AUTH.SEIZE
+
+three----SUS.NUMBER
+
+Asif----SUS.NAME
+
+Hafiz----SUS.NAME
+
+Anees----SUS.NAME
+
+Uttar Pradesh’s----LOC.STATE
+
+Shamli----LOC.DISTRICT
+
+three----SUS.NUMBER
+
+brothers----SUS.AFFIL
+
+three----SUS.NUMBER
+
+brothers----SUS.AFFIL
+
+Asif----SUS.NAME
+
+Hafiz----SUS.NAME
+
+Anees----SUS.NAME
+
+Three----SUS.NUMBER

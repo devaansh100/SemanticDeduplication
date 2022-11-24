@@ -1,0 +1,35 @@
+
+['Straying deer rescued from village near Ambur\nBy Express News Service VELLORE: A deer that had strayed away from its habitat was rescued by the local people at Abigiripattarai in Ambur on Wednesday. When the deer moved up on the Ponnappalli-Abigiripattarai road, the farm workers rescued it and informed the Forest officials. READ | Leopard attacks cattle in Tamil Nadu village, cage set up to trap animal A Forest department official rushed to the spot and took the animal from the local people before letting it go into the nearby reserve forests, sources said. VELLORE: A deer that had strayed away from its habitat was rescued by the local people at Abigiripattarai in Ambur on Wednesday. When the deer moved up on the Ponnappalli-Abigiripattarai road, the farm workers rescued it and informed the Forest officials. READ | Leopard attacks cattle in Tamil Nadu village, cage set up to trap animal A Forest department official rushed to the spot and took the animal from the local people before letting it go into the nearby reserve forests, sources said.']
+
+
+deer----SP.COMMON
+
+rescued----CRIME.CAT
+
+Ambur----LOC.CITY
+
+deer----SP.COMMON
+
+rescued----CRIME.CAT
+
+Abigiripattarai----LOC.EXACT
+
+Ambur----LOC.CITY
+
+Wednesday----DATE
+
+deer----SP.COMMON
+
+Forest department official----AUTH.SEIZE
+
+deer----SP.COMMON
+
+rescued----CRIME.CAT
+
+Abigiripattarai----LOC.EXACT
+
+Ambur----LOC.CITY
+
+Wednesday----DATE
+
+Forest department----AUTH.SEIZE

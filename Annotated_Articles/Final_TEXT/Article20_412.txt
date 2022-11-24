@@ -1,0 +1,27 @@
+
+['Red sanders worth ₹7.41 crore seized by DRI\nThe Directorate of Revenue Intelligence (DRI) of Mumbai has seized 18.5 metric tonnes of red sanders worth ₹7.41 crore at Nhava Sheva port. DRI officials intercepted a container, which had sailed from Mundra port, at Nhava Sheva on September 14. “Red sanders is an endangered species of flora and its export is prohibited. These red sanders were being attempted to be smuggled in the guise of export of some other goods in the container to Port Jabel Ali, UAE,” an official from DRI said. One person was arrested by the agency in connection with the seizure on Wednesday. The accused had declared the goods in the container as ‘handicrafts of SS metal’. The officer said that investigations are on to identify any other accused involved in the smuggling racket.']
+
+
+Red sanders----SP.COMMON
+
+seized----CRIME.CAT
+
+DRI----AUTH.SEIZE
+
+Directorate of Revenue Intelligence (DRI)----AUTH.SEIZE
+
+seized----CRIME.CAT
+
+18.5 metric tonnes----QTY
+
+red sanders----SP.COMMON
+
+Nhava Sheva port----LOC.EXACT
+
+Mundra port----ROUTE.SRC
+
+September 14----DATE
+
+One----SUS.NUMBER
+
+Wednesday----DATE

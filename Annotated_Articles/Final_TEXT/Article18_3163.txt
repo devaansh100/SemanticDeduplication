@@ -1,0 +1,27 @@
+
+['Over 400 Live Corals Caught At City Airport\nPUNE: The customs authorities intercepted two passengers landing at the city airport from Dubai on April 5 and recovered 466 specimens of live corals from their possession.Customs officials said this was the first case at the airport where live corals had been recovered. “Both the individuals are from Mumbai. The corals were packed in two bags,” an official said.Sources in the customs department said one of the bags had water-filled jars containing the corals. “We have talked to the wildlife officials about it to gather more information. These live corals (Order- Scleractinia with various Subfamilies) are covered under Schedule I of the Wildlife Protection Act and Appendix II of CITES (Convention on International Trade in Endangered Species of Wild Fauna and Flora ).The passengers, who were trying to pass through the green channel, admitted that the corals were procured for commercial purposes,” another official said.The official said the duo had been released on bail. However, further investigation was underway.']
+
+
+400----QTY
+
+Live----ITEM
+
+Corals----SP.COMMON
+
+PUNE----LOC.CITY
+
+customs authorities----AUTH.SEIZE
+
+two passengers----SUS.NUMBER
+
+Dubai----ROUTE.SRC
+
+April 5----DATE
+
+466----QTY
+
+corals----SP.COMMON
+
+Mumbai----SUS.LOC
+
+two bags----CONCEALMENT_METHOD

@@ -1,0 +1,65 @@
+
+['Leopard skin seized in Sonepur, smuggler arrested\nSonepur: The Special Task Force (STF) of the Crime Branch Tuesday seized a leopard skin and arrested a person for his involvement in the crime here. While smuggling of animal body parts is rampant in most parts of the state, forest and police departments have increased raids, checks and patrolling to curb the illegal trading of animal body parts. The STF officials of Crime Branch after being tipped off about a leopard skin deal being finalised at a place in Sonepur town raided the spot and caught the miscreant. They identified the miscreant as Ashok Chhatria of Babunektima village under Mahupalli police station in Sambalpur district. They also seized the hide of the animal. Notably, in two seizure cases reported from Nabarangpur and Ganjam September 13 and 15 respectively, five leopard skins and two deer skins were seized respectively. Nabarangpur forest department officials had arrested four persons for allegedly possessing and trying to smuggle a leopard skin in the district September 13. The officials had also seized a leopard hide from the four. Similarly, Berhampur forest officials had arrested a person for possessing and selling the animal’s body part at Balipada village here September 14 evening. Expressing their concern about the rising cases of poaching and smuggling of animals, leopard in particular, some animal lovers are of the opinion that if this goes on unabated, the day would be not far when this species of big cat will be pushed into extinction from the Odisha forests. PNN']
+
+
+Leopard----SP.COMMON
+
+skin----ITEM
+
+seized----CRIME.CAT
+
+Sonepur----LOC.EXACT
+
+arrested----CRIME.CAT
+
+Special Task Force (STF----AUTH.SEIZE
+
+Tuesday----DATE
+
+seized----CRIME.CAT
+
+a----QTY
+
+leopard----SP.COMMON
+
+skin----ITEM
+
+arrested----CRIME.CAT
+
+a----SUS.NUMBER
+
+smuggling----CRIME.CAT
+
+tipped off----DETECTION_METHOD
+
+Sonepur town----LOC.EXACT
+
+raided----CRIME.CAT
+
+Ashok Chhatria----SUS.NAME
+
+Babunektima village----SUS.LOC
+
+hide----ITEM
+
+Nabarangpur forest department officials----AUTH.SEIZE
+
+four----SUS.NUMBER
+
+leopard----SP.COMMON
+
+skin----ITEM
+
+Berhampur forest officials----AUTH.SEIZE
+
+arrested----CRIME.CAT
+
+a----SUS.NUMBER
+
+body part----ITEM
+
+Balipada village----LOC.EXACT
+
+September 14----DATE
+
+evening----TIME

@@ -1,0 +1,15 @@
+
+['Believe it or not, Dutch Police arrest bird for being part of shoplifting\nIn an unusual case, the Dutch police arrested a bird and placed it in custody. Yes, you read it right. A tiny parakeet bird was held in a jail cell in the Netherlands after its owner was arrested for shoplifting. As the adorable avian was a partner-in-crime, sitting atop the man’s shoulder when he violated the law, the cops arrested the offender as well as his feathery friend. Sharing the photo of the yellow and green bird seated in a cell, the Politie Utrecht Centrum on Instagram joked, “We recently arrested a suspect for a shoplifting. During the arrest we found a sneaky witness with feathers and beak on the suspect’s shoulder.” The photo showed the little birdie was even provided some bread and water by the thoughtful cops. “During the confinement on our desk, we were shocked to find out that we are not in possession of a bird cell or cage. After proper consultation with the suspect, we have enclosed them together,” the post added. The cops also added the bird was being “well cared for”. The story went viral on Twitter after local media shared the picture of the feathery suspect with a black bar on its face to protect its identity. Naturally, bird lovers on the internet loved the idea and many rooted for the bird to be freed as soon as possible. While most found it hilarious, others had punny reactions to it. i’ll show it to my birds next time they act up. https://t.co/x2EQpgH3r5 — Ciera 씨에라 | #Parallel #평행우주 (@CiNi501) October 1, 2019 Keep your wings were I can see them https://t.co/91Vnpx6II4 — flopjack (@FauxTwelve) October 1, 2019 @gardainfo I’m tired of seagulls stealing my food! Follow the example. Justice, please! https://t.co/z78WrWQ9pH — Nuno Theodoro (@NunoTheodoro) October 1, 2019 I’m all for privacy but this might be taking things a too far. https://t.co/tWa0DCIgCb — Iain Thomson (@iainthomson) September 30, 2019 You know if it was a dove, it wouldn’t be in there. — Oni (@Inquirer705) September 30, 2019 I hope the bird wasn’t interrogated. It would’ve sung like a canary. — Ken Crossman (@crossmankl) September 29, 2019 Wow he scratched “right to remain silent” into the bed. This bird ain’t no snitch — jackie (@jackiepogona) September 29, 2019 In an update, the cops said the man and his feathery friend were released shortly after. “The bird has not been questioned and as far as we know not guilty of any charges,” the cops added with a dash of humour.']
+
+
+Dutch Police----AUTH.SEIZE
+
+arrest----CRIME.CAT
+
+bird----SP.COMMON
+
+Dutch police----AUTH.SEIZE
+
+arrested----CRIME.CAT
+
+bird----SP.COMMON

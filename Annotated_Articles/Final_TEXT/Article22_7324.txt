@@ -1,0 +1,9 @@
+
+['Etawah Safari Park News\nUttar Pradesh: Leopard alert in Etawah safari TNN / Apr 05, 2022, 04:02 (IST) kanpur etawah’s lion safari park has been hogging limelight after the death of three blackbucks in the past few days though the safari administration is considering the death of the blackbucks as natural it is not ruling out the possibility of the presence of a leopard in the antelope safari section where the blackbucks were housedefforts have been intensified to trap the leopard two cages have been placed to trap the leopard two cages have been placed in the buffer zone.']
+
+
+Etawah Safari Park----LOC.EXACT
+
+Leopard----SP.COMMON
+
+Etawah safari----LOC.EXACT

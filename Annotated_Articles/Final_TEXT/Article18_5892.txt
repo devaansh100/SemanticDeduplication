@@ -1,0 +1,33 @@
+
+['In Bengal, Tiger Kills Fisherman, Drags His Body To Forest; Narrow Escape For 2 Others\nIn an unfortunate incident in the Chilmari forest of the Sundarban area in West Bengal, a fisherman was killed by a tiger, who reportedly dragged his body. On Monday, three fishermen of Sundarbans had set out to catch crabs from Parashamani village, which comes under the Lahiripur gram panchayat. According to witnesses, while the three fishermen were catching crabs at around 10 am on Tuesday, a tiger suddenly leapt out of the bushes, jumped on the boat, and pounced on Chittaranjan Sarkar. The rest of the fishermen rushed after the big cat with sticks while shouting, but it was too late. According to sources, Subrata, Chittaranjan, and Subal went to catch crabs in the Chilmari canal of Jhila No. 4. At that time a tiger jumped into the boat silently without anyone noticing. Although Subrata and SUbal came out unscathed, they could not save their third colleague. Following this incident, the forest department was informed. The Sundarbans Tiger Reserve Field Director said that the fishermen fell into the creek while catching the crabs and were attacked by the tiger. Chitta Sarkar was accompanied by his friends Subal Mandal and Subrata Kayal. Sarkar, a resident of the Gosaba block, is survived by his four children and a wife. Such incidents, however, are extremely common in the Sundarban area, where residents are locked in a perpetual war of livelihood vs the dangers of the wilderness. In November 2021, 69-year-old Hazari Mondal, hailing from Chargheri in Lahiripur in the Gosaba block, had lost his life while catching crabs. According to a report in The Times of India, he had also gone fishing in the Jhila canal, just like Chittaranjan Sarkar and his companions. Read all the Latest News, Breaking News and Assembly Elections updates here.']
+
+
+Bengal----LOC.STATE
+
+Tiger----SP.COMMON
+
+Kills----CRIME.CAT
+
+Fisherman----SUS.AFFIL
+
+West Bengal----LOC.STATE
+
+tiger----SP.COMMON
+
+Monday----DATE
+
+three----SUS.NUMBER
+
+fishermen----SUS.AFFIL
+
+crabs----SP.COMMON
+
+Parashamani village----ROUTE.SRC
+
+10 am----TIME
+
+Tuesday----DATE
+
+tiger----SP.COMMON
+
+Chittaranjan Sarkar----SUS.NAME

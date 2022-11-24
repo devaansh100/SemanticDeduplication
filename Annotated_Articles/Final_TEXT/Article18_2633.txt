@@ -1,0 +1,43 @@
+
+["Mumbai police recover jewellery 'stolen' by four-legged thieves\nMumbai: Gathering of 5 or more, loud speakers, illegal processions banned for a fortnight from Nov 1 Comedian Atul Khatri's joke on seatbelt becomes one on him as Mumbai Police responds Mumbai police recover jewellery 'stolen' by four-legged thieves India oi-Madhuri Adnal Mumbai, Jun 17: A bunch of thieves stole a bag containing gold jewellery and vada-pavs because of the vada-pavs. Police here have managed to recover a missing bag containing gold jewellery from a rat hole. The four-legged thieves who stole' it were probably more interested in vada-pav, Mumbai's favourite snack, than the shiny metal. Sundari Planibel, a resident of suburban Dindoshi, approached police on Monday saying that she had lost ten tolas' of gold jewellery, an official said. Planibel, who works as a domestic help, told police that her employer gave her a couple of vada-pavs when she left for home on Monday evening. She had some jewellery at home which she wanted to deposit in a bank. On reaching home, she picked up the jewellery, put it in the same polythene bag in which she was carrying the vada-pavs, and left for the bank. Thinking that she would not be able to eat vada-pavs at the bank, she gave away the bag containing the snack - and the jewellery - to two teenage boys she met on the way, she told police. On reaching the bank, she realized her blunder. Frantic, she approached police, who tracked down the two boys. But the boys said they had dumped the bag in a dustbin as the vada-pavs looked stale. But the bag was nowhere to be found, the police official said. Police then scanned the CCTV footage in the area, which showed the boys dumping the bag in the dustbin. Sometime later, the footage showed, the bag began to move mysteriously before disappearing. Police surmised that attracted by the smell of vada-pavs, rats from the nearby gutter must have caught hold of it and dragged it away. On Tuesday, police scoured the holes in the gutter and eventually found the bag. The jewellery was inside but the vada-pavs were missing, the official said. The jewellery was returned to the woman, he added. For Breaking News and Instant Updates Allow Notifications Story first published: Friday, June 17, 2022, 10:16 [IST]"]
+
+
+Mumbai police----AUTH.SEIZE
+
+jewellery----ITEM
+
+stolen----CRIME.CAT
+
+Nov 1----DATE
+
+Mumbai police----AUTH.SEIZE
+
+jewellery----ITEM
+
+four-legged thieves----SUS.AFFIL
+
+gold jewellery----ITEM
+
+vada-pavs----SP.COMMON
+
+gold jewellery----ITEM
+
+four-legged thieves----SUS.AFFIL
+
+Sundari Planibel----SUS.NAME
+
+suburban Dindoshi----SUS.LOC
+
+ten tolas'----QTY
+
+gold jewellery----ITEM
+
+Monday----DATE
+
+evening----TIME
+
+jewellery----ITEM
+
+dustbin----CONCEALMENT_METHOD
+
+jewellery----ITEM

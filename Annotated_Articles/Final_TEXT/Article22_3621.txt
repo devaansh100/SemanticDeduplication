@@ -1,0 +1,11 @@
+
+["Vava Suresh Cobra: Kerala's famous snake catcher off ventilator but still in ICU after cobra he went to rescue bit him\nFeb 04, 2022, 01:15PM IST Source: TOI.in Kerala famous snake catcher is off the ventilator and is showing signs of improvement. Vava Suresh suffered a cardiac arrest after he was bitten by a cobra. Vava Suresh was bitten by a cobra he had gone to rescue and suffered a cardiac arrest as he was on his way to the hospital. Vava Suresh on ventilator support since Jan 31. FHe was on ventilator support since Monday. The 48-year-old isn't new to snake bites or complicated hospitalisations. Vava Suresh has 2 decades of experience of handling snakes. In the process, he has been bitten close to 300 times. Over the last 2 decades, he's handled more than 50,000 snakes including 200 King Cobras. Vava Suresh still in ICU. Doctors monitoring him will take a call on moving him out of the ICU after 48 hours."]
+
+
+Vava Suresh----SP.SPECIFIC
+
+cobra----SP.COMMON
+
+cobra----SP.COMMON
+
+cobra----SP.COMMON

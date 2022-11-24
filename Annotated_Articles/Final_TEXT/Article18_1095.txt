@@ -1,0 +1,61 @@
+
+['Odisha: Two killed in elephant attack\nBy Express News Service BARIPADA: Villagers in Bangiriposi range under Baripada territorial division in Mayurbhanj district are in a state of panic after two persons were killed by a herd of elephants on Sunday night. The deceased have been identified as Fulamani Munda (72) and Budhia Munda (38) of Digarisole village. Divisional Forest Officer of Baripada Territorial division, Santosh Kumar Joshi said a herd of elephants from Jharkhand went to the house of the woman and pushed a portion of the wall that fell on her and killed her when she was asleep. Munda was attacked by the herd when he was on way home from the local market. Initially the forest department had provided ` 40000 compensation to the family of the deceased and the rest will be provided after submitting documents though Anukampa App, he added. According to sources, the villagers in Sirsa and adjoining villages are now keeping their doors closed and lighting bonfire in front of their houses after 75 elephants from neighbouring Jharkhand have entered the range and are on a rampage. The elephants came to Sirsa section under Joka beat within the range and later made separate groups. At night, they move to human settlements to search for food, the DFO added. Presently seen in the Joka forest, 25 forest staff from Bangiriposi along with staff of Deuli and Baripada ranges are deployed to keep watch on the movement of the herds. BARIPADA: Villagers in Bangiriposi range under Baripada territorial division in Mayurbhanj district are in a state of panic after two persons were killed by a herd of elephants on Sunday night. The deceased have been identified as Fulamani Munda (72) and Budhia Munda (38) of Digarisole village. Divisional Forest Officer of Baripada Territorial division, Santosh Kumar Joshi said a herd of elephants from Jharkhand went to the house of the woman and pushed a portion of the wall that fell on her and killed her when she was asleep. Munda was attacked by the herd when he was on way home from the local market. Initially the forest department had provided ` 40000 compensation to the family of the deceased and the rest will be provided after submitting documents though Anukampa App, he added. According to sources, the villagers in Sirsa and adjoining villages are now keeping their doors closed and lighting bonfire in front of their houses after 75 elephants from neighbouring Jharkhand have entered the range and are on a rampage. The elephants came to Sirsa section under Joka beat within the range and later made separate groups. At night, they move to human settlements to search for food, the DFO added. Presently seen in the Joka forest, 25 forest staff from Bangiriposi along with staff of Deuli and Baripada ranges are deployed to keep watch on the movement of the herds.']
+
+
+Odisha----LOC.STATE
+
+Two----SUS.NUMBER
+
+killed----CRIME.CAT
+
+elephant----SP.COMMON
+
+Bangiriposi range----LOC.EXACT
+
+Mayurbhanj----LOC.DISTRICT
+
+two----SUS.NUMBER
+
+elephants----SP.COMMON
+
+Sunday----DATE
+
+night----TIME
+
+Fulamani Munda----SUS.NAME
+
+72----SUS.AGE
+
+Budhia Munda----SUS.NAME
+
+38----SUS.AGE
+
+Digarisole village----SUS.LOC
+
+Divisional Forest Officer----OFF.DESIG
+
+Santosh Kumar Joshi----OFF.NAME
+
+Jharkhand----ROUTE.SRC
+
+Bangiriposi range----LOC.EXACT
+
+Mayurbhanj district----LOC.DISTRICT
+
+two----SUS.NUMBER
+
+elephants----SP.COMMON
+
+Sunday----DATE
+
+night----TIME
+
+Fulamani Munda----SUS.NAME
+
+72----SUS.AGE
+
+Budhia Munda----SUS.NAME
+
+38----SUS.AGE
+
+Digarisole village----SUS.LOC

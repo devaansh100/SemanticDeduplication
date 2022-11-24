@@ -1,0 +1,45 @@
+
+['Two arrested with illegal timber scants, mechanical cutter - Jammu Kashmir Latest News\nExcelsior Correspondent DODA, Aug 4: Two smugglers have been arrested by Forest Department Gandoh along with 4 illegal timber scants and one mechanical cutter. As per official sources, the sleuths of Forest Department from Gandoh conducted raid in Compartment 28 of Manoo Chilly and arrested two smugglers along with 4 illegal timber scants and one mechanical cutter. Forest Department has started a crackdown against the timber mafia and land encroachers in said area. After making the seizure of the dumped timber and mechanical cutter, a case has been registered at Forest Office Gandoh under Section 26 of Indian forest Act. Further investigation into the case is going on.']
+
+
+Two----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+timber scants----ITEM
+
+mechanical cutter----ITEM
+
+Jammu Kashmir----LOC.STATE
+
+Two----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+Forest Department Gandoh----AUTH.SEIZE
+
+4----QTY
+
+timber scants----ITEM
+
+one----QTY
+
+mechanical cutter----ITEM
+
+Forest Department----AUTH.SEIZE
+
+raid----DETECTION_METHOD
+
+arrested----CRIME.CAT
+
+two----SUS.NUMBER
+
+4----QTY
+
+timber scants----ITEM
+
+one----QTY
+
+mechanical cutter----ITEM
+
+case has been registered at Forest Office Gandoh----OUTCOME

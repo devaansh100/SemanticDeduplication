@@ -1,0 +1,33 @@
+
+['US man forces small alligator to drink beer, gets arrested\nA man from Florida was arrested after a video of him forcefully pouring beer into the mouth of an alligator caught by his friend went viral on social media. According to a USA Today report, Timothy Kepke, 27, of Hobe Sound and Noah Osborne, 22, of Stuart were arrested and charged with unlawfully taking an alligator. Florida Fish and Wildlife Conservation Commission began investigations after they received a complaint regarding Kepke, who was holding an alligator and feeding him beer, to which the reptile responded aggressively, the news website stated. Watch the video here: In the video, which had earlier gone viral, Kepke can be seen holding a small alligator and trying to get the reptile to bite his hand. He then tries to force alcohol down the alligator’s throat. According to the news website, police officers reached Kepke’s house, where he told them that his friend had caught the reptile with his bare hands in Palm City on August 26. However, the alligator was later released.']
+
+
+small alligator----SP.COMMON
+
+Florida----LOC.STATE
+
+arrested----CRIME.CAT
+
+alligator----SP.COMMON
+
+Timothy Kepke----SUS.NAME
+
+27----SUS.AGE
+
+Hobe Sound----SUS.LOC
+
+Noah Osborne----SUS.NAME
+
+22----SUS.AGE
+
+Stuart----SUS.LOC
+
+arrested----CRIME.CAT
+
+alligator----SP.COMMON
+
+Florida Fish and Wildlife Conservation Commission----AUTH.SEIZE
+
+alligator----SP.COMMON
+
+August 26----DATE

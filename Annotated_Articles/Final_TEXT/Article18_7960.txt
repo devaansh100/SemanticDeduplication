@@ -1,0 +1,65 @@
+
+['Four Men Arrested For Allegedly Raping Calf In Rajasthan, Video Of Incident Goes Viral\nIn a heinous incident from Alwar in Rajasthan, four men were arrested for raping a calf. The incident took place in the Chuhadpur locality of the Bhiwadi region in the Alwar district. Rajasthan police have arrested four people and launched a probe into the matter when a video of the same went viral on social media in which four men are seen doing unnatural sex with a cow. Video goes viral on social media The viral video shows one of the accused raping the calf which was lying down on the road, while another accused prevented her from making a noise. Representational Image Two other people were present at the time of the incident. One of them allegedly filmed the act. An FIR was registered by one Fateh Mohammed who filed a complaint against the accused who had allegedly committed the act in a hilly area in Chopanki in the Alwar district. All the four accused in the case -- Zubair, Talim, Waris and Chuna -- were arrested by Rajasthan police, according to India Today. The Superintendent of Police, Shantanu Kumar Singh said that the police sprung into action as soon as it got the news. “We registered a complaint and started the investigation. We have apprehended two of the culprits as of now and we are sure we will catch the other two very soon,” said the SP. Tijara falls under the Mewat region, which includes parts of Haryana and Rajasthan. Cow smuggling rampant In the past, there had been incidents of cow smuggling, encounters between the police and smugglers and incidents of mob lynching being reported in the area. Three alleged cow smugglers were arrested and a cow was rescued from their possession in Rajasthan’s Alwar district last week. Accused Dinesh Dhiwar (35), Jagat Yadav (27) and Jagjit Singh alias Jeeta (39) were arrested and a case has been registered against them at Sheikhpur Ahir police station. A jeep has also been seized from their possession, Bhiwadi Superintendent of Police Shantanu Kumar Singh said. A few days ago, the police here had arrested a man who was accused of cow slaughter and was absconding for five months.']
+
+
+Four----SUS.NUMBER
+
+Men----SUS.GENDER
+
+Arrested----CRIME.CAT
+
+Raping----CRIME.CAT
+
+Calf----SP.COMMON
+
+Rajasthan----LOC.STATE
+
+Alwar in Rajasthan, four men----LOC.CITY
+
+arrested----CRIME.CAT
+
+raping----CRIME.CAT
+
+Chuhadpur locality----LOC.EXACT
+
+Alwar district----LOC.DISTRICT
+
+arrested----CRIME.CAT
+
+four----SUS.NUMBER
+
+four----SUS.NUMBER
+
+Fateh Mohammed----SUS.NAME
+
+Zubair----SUS.NAME
+
+Talim----SUS.NAME
+
+Waris----SUS.NAME
+
+Chuna----SUS.NAME
+
+Rajasthan police----AUTH.SEIZE
+
+registered a complaint and started the investigation----OUTCOME
+
+last week----DATE
+
+Dinesh Dhiwar----SUS.NAME
+
+35----SUS.AGE
+
+Jagat Yadav----SUS.NAME
+
+27----SUS.AGE
+
+Jagjit Singh----SUS.NAME
+
+Jeeta----SUS.NAME
+
+39----SUS.AGE
+
+arrested----CRIME.CAT
+
+jeep----ITEM

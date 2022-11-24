@@ -1,0 +1,21 @@
+
+['Caught a two-faced snake from the forest, Bengali doctor was going to sell for 1.5 lakh rupees, the court handed over four smugglers on remand for four days. Two bikes were also seized from the smuggl\nforest department news – Caught a two-faced snake from the forest, Bengali doctor was going to sell for 1.5 lakh rupees, the court handed over four smugglers on remand for four days. Two bikes were also seized from the smugglers. Stay Tuned to Janta Yojana for more latest news.']
+
+
+snake----SP.COMMON
+
+1.5 lakh rupees----VALUE
+
+four----SUS.NUMBER
+
+Two----QTY
+
+bikes----ITEM
+
+seized----CRIME.CAT
+
+Two----QTY
+
+bikes----ITEM
+
+seized----CRIME.CAT

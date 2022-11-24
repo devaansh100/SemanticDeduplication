@@ -1,0 +1,37 @@
+
+["Seoni: Tiger found dead in Pench reserve; toll reaches 5 in fortnight\nDead tiger | Representative Photo Seoni (Madhya Pradesh): A tiger was found dead at Pench Tiger Reserve (PTR) in Madhya Pradesh's Seoni district, with officials suspecting that it was killed by another feline during a territorial fight. This is the fifth tiger death in the state in a fortnight. A forest patrolling team on Sunday spotted the carcass of the tiger, around two years old, in Kurai range, PTR's deputy director Rajneesh Kumar Singh said. Following an inspection of the spot, it appears the tiger was killed in a fight with another adult tiger. The attacking carnivore ate most of the carcass and blood stains were found nearby, he said. The dead tiger's front legs and teeth were intact, while its tail and hind legs along with nails were found nearby, he said. A thorough investigation was conducted with the help of a dog squad and there was no evidence of any suspicious activity at the spot, the official said. On April 9, a patrolling team had spotted the presence of an adult big cat in the area and it is suspected that the tiger was killed by the same feline, he said. The carcass was disposed of as per guidelines of the National Tiger Conservation Authority and the viscera was sent to a laboratory for examination, the official said. Since January this year, as many as four tigers have died so far in Seoni district, including one on March 29. On April 3, a tiger was found dead in Lalbarra area of Balaghat district. Besides, a tiger cub and an adult feline were found dead in Satpura Tiger Reserve of Narmadapuram district on April 2 and April 3. As per the All India Tiger Estimation Report-2018, Madhya Pradesh was home to 526 tigers, the highest for any state in the country. MP has many tiger reserves, including Kanha, Bandhavgarh, Pench, Satpura and Panna."]
+
+
+Tiger----SP.COMMON
+
+found dead----CRIME.CAT
+
+Pench reserve----LOC.EXACT
+
+Madhya Pradesh----LOC.STATE
+
+tiger----SP.COMMON
+
+found dead----CRIME.CAT
+
+Pench Tiger Reserve (PTR----LOC.EXACT
+
+Madhya Pradesh's----LOC.STATE
+
+Seoni district----LOC.DISTRICT
+
+forest patrolling----AUTH.SEIZE
+
+carcass----ITEM
+
+tiger----SP.COMMON
+
+dog squad----AUTH.SEIZE
+
+patrolling team----DETECTION_METHOD
+
+carcass was disposed of as per guidelines of the National Tiger Conservation Authority----OUTCOME
+
+viscera----OUTCOME
+
+April 2----DATE

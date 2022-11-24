@@ -1,0 +1,89 @@
+
+['Five wildlife smugglers held in Chhattisgarh with pangolin scales, leopard nails\nJagdalpur, Feb 13 (PTI) The Forest Department seized 19 kg pangolin scales, four star tortoises and six leopard nails and arrested five persons on the charge of wildlife smuggling in four separate incidents in Chhattisgarh’s Bastar division, officials said on Sunday. The arrests were made in the last two days. On a tip-off that some persons were trying to sell parts of wild animals, a joint team of the forest department and police nabbed two men in Jagdalpur, the headquarter of Bastar district located around 300 km away from the capital Raipur, on February 11, said Mohammad Shahid, Chief Conservator of Forest (Jagdalpur circle). The duo was carrying a bag and tried to escape after seeing forest and police personnel, he said. “Pangolin scales, weighed 12 kg, were recovered from their bag following which the duo was arrested”, he said. Based on the information provided by the two, 6.9 kg of pangolin scales and six nails of leopard were recovered in two separate raids in Jagdalpur while four star tortoises were seized from the Dantewada district of the region in another raid, the CCF said, adding that one person each was arrested in the three raids. “A total of five persons were arrested under provisions of the Wildlife (Protection) Act 1972 in four incidents and were brought to the Jagdalpur circle office of the forest department for further action,” he said. Officials of Wildlife Crime and Control Bureau Jabalpur, Wildlife Trust of India (WTI) and Conservation Core Society, also played a major role in these raids, forest officials said. Leopard and pangolin are the protected species under Schedule I of the Wildlife (Protection) Act 1972 while star tortoises fall under Schedule IV, they said. The probe is underway to find whether all the accused are part of a single gang engaged in wildlife smuggling or are operating individually, officials said. PTI Cor TKP NSK NSK This report is auto-generated from PTI news service. ThePrint holds no responsibility for its content.']
+
+
+Five----SUS.NUMBER
+
+Chhattisgarh----LOC.STATE
+
+pangolin----SP.COMMON
+
+scales----ITEM
+
+leopard----SP.COMMON
+
+nails----ITEM
+
+Forest Department----AUTH.SEIZE
+
+seized----CRIME.CAT
+
+19 kg----QTY
+
+pangolin----SP.COMMON
+
+scales----ITEM
+
+four----QTY
+
+star tortoises----SP.SPECIFIC
+
+six----QTY
+
+leopard----SP.COMMON
+
+nails----ITEM
+
+arrested----CRIME.CAT
+
+five----SUS.NUMBER
+
+tip-off----DETECTION_METHOD
+
+sell----CRIME.CAT
+
+forest department----AUTH.SEIZE
+
+police----AUTH.SEIZE
+
+nabbed----CRIME.CAT
+
+two----SUS.NUMBER
+
+men----SUS.GENDER
+
+Jagdalpur----LOC.CITY
+
+February 11----DATE
+
+bag----CONCEALMENT_METHOD
+
+Pangolin----SP.COMMON
+
+scales----ITEM
+
+12 kg----QTY
+
+6.9 kg----QTY
+
+pangolin----SP.COMMON
+
+scales----ITEM
+
+six----QTY
+
+nails----ITEM
+
+leopard----SP.COMMON
+
+Jagdalpur----LOC.DISTRICT
+
+four----QTY
+
+star tortoises----SP.COMMON
+
+seized----CRIME.CAT
+
+Dantewada district----ROUTE.SRC
+
+Wildlife Crime and Control Bureau Jabalpur----AUTH.SEIZE

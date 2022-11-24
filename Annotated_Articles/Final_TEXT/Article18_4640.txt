@@ -1,0 +1,47 @@
+
+['Leopard who injured 3 finally caught in Jalpaiguri\nThe animal, however, injured another person on Thursday a few hours before it was tranquillised The animal, however, injured another person on Thursday a few hours before it was tranquillised. The leopard that had been roaming around in Nagrakata block of Jalpaiguri for the past few days, and had injured two forest staff on Wednesday, was finally darted on Thursday afternoon. On Wednesday, some workers of the Diana tea estate spotted the leopard and informed foresters. The animal managed to evade foresters and injured two of them. On Thursday, Gopal Chhetri of Khasbusty, a locality in Nagrakata near the tea estate, was heading for a corn field to bring back his cattle. Suddenly, the leopard pounced on him. As Chhetri screamed, some others rushed there. The leopard left him and ran inside a betel nut plantation. Soon, teams from three wildlife squads reached the area, along with a team of Nagrakata police. They started scouting for the leopard which evaded them. Finally, in the afternoon, the leopard entered a bamboo plantation and foresters put nets around it and shot a dart. After some time, the unconscious animal was wrapped in a net and taken to the nature interpretation centre in Lataguri as it has an infection in its left hind leg. “We have kept it under observation. It will be treated and released into the wild in due course,” said a forest officer. 6 peacocks dead Six peacocks have been found dead in Mahananda Wildlife Sanctuary on the outskirts of Siliguri in the past one week. “During the past seven days, we have found carcasses of six peacocks from the south range of the sanctuary. Those were sent to the Bengal Safari Park where vets conducted postmortem. The viscera of the birds have been sent to the Institute of Animal Health and Veterinary Biologicals in Calcutta to ascertain the cause of such deaths,” said Suratna Sherpa, the divisional forest officer of Darjeeling wildlife division. In the recent past, such deaths of peacocks have not been reported in the sanctuary area. Last month, four out of six peacocks died at Bengal Safari Park on the northeast end of Siliguri. “We had sent the viscera to Calcutta and the reports suggested that the birds were infected with Newcastle disease,” said Dawa Sangmu Sherpa, the park director. Newcastle disease is a contagious viral disease of birds which affects the respiratory system.']
+
+
+Leopard----SP.COMMON
+
+3----SUS.NUMBER
+
+Jalpaiguri----LOC.DISTRICT
+
+Thursday----DATE
+
+Thursday----DATE
+
+leopard----SP.COMMON
+
+Thursday----DATE
+
+afternoon----TIME
+
+Wednesday----DATE
+
+Diana tea estate----AUTH.SEIZE
+
+Gopal Chhetri----SUS.NAME
+
+Khasbusty----SUS.LOC
+
+leopard----SP.SPECIFIC
+
+6----QTY
+
+peacocks----SP.COMMON
+
+Six----QTY
+
+peacocks----SP.COMMON
+
+sent to the----OUTCOME
+
+viscera of the birds have been sent to the Institute of Animal Health and Veterinary Biologicals in Calcutta----OUTCOME
+
+Suratna Sherpa----OFF.NAME
+
+divisional forest officer----OFF.DESIG
+
+viscera----ITEM

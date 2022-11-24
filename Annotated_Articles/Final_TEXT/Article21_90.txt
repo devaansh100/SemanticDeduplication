@@ -1,0 +1,39 @@
+
+['Group of Sikkim Men arrested for alleged smuggling\nRain may lash several districts of Odisha during Durga Puja 26 Sep 2022 | 5:44 PM Bhubaneswar, Sep 26 (UNI) Rains may dampen the spirit of upcoming Durga Puja festivities in Odisha as a low pressure area (LOPAR) is likely to form over north-west Bay of Bengal on October 2 caused by remnants of typhoon Noru in the South China Sea. see more.. Manipur CM orders probe over planting of bomb by security personnel 26 Sep 2022 | 5:11 PM Imphal, Sep 26 (UNI) Manipur Chief Minister N Biren Singh on Monday said a probe has been ordered into the alleged planting of a bomb by a CRPF man at Nungba at September 24. see more.. No fine if vehicle owner has online booking slip for fixation of HSRP 26 Sep 2022 | 5:08 PM Cuttack, Sep 26 (UNI) The State Transport Authority (STA)on Monday said no e-challan shall be issued, no fine shall be collected and no penal action shall be taken against any old vehicle registered prior to April 1, 2019 for plying vehicles without High Security Registration Plate (HSRP) if the vehicle owner has online booking slip. see more.. 126 year old yoga guru receives Bharat Dignity award 26 Sep 2022 | 5:05 PM Kolkata, Sep 26 (UNI) One hundred and twenty six year old yoga guru Swami Sivananda Baba, Wow Momo co-founder Sagar Daryani and fashion designer Tejas Gandhi were among a host of luminaries presented the inaugural Bharat Dignity awards at a glittering function in the city. see more..']
+
+
+arrested----CRIME.CAT
+
+smuggling----CRIME.CAT
+
+October 2----DATE
+
+Manipur CM----OFF.DESIG
+
+planting of bomb----CRIME.CAT
+
+Manipur Chief Minister----OFF.DESIG
+
+N Biren Singh----OFF.NAME
+
+Monday----DATE
+
+CRPF man----AUTH.SEIZE
+
+Nungba----LOC.EXACT
+
+September 24----DATE
+
+State Transport Authority (STA)on Monday----AUTH.SEIZE
+
+e-challan shall be issued----OUTCOME
+
+26 Sep 2022----DATE
+
+Swami Sivananda Baba----SUS.NAME
+
+Sagar Daryani----OFF.NAME
+
+fashion designer----OFF.DESIG
+
+Tejas Gandhi----OFF.NAME

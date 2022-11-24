@@ -1,0 +1,11 @@
+
+['Viral video: Man wards off black bear using bear spray\nJun 08, 2022, 05:37PM IST Source: TOI.in A man came face to face with a black bear in Saskatchewan, Canada and survived by using bear spray. The man was out photographing the bear from a safe distance but the bear suddenly caught sight of him and approached him. Terrifying, the man started walking back towards his car while using the bear spray.']
+
+
+black bear----SP.SPECIFIC
+
+Jun 08, 2022----DATE
+
+black bear----SP.SPECIFIC
+
+Saskatchewan, Canada----LOC.STATE

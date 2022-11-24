@@ -1,0 +1,29 @@
+
+['Allegedly Poisoning Half A Dozen Dogs News\nThree arrested for poisoning tiger to death in Koriya TNN / Jun 08, 2022, 08:15 (IST) Three villagers were held in Koriya district of Chhattisgarh for poisoning a tiger to death. The carcass of the male tiger aged about 8 years was found in Guru Ghasidas national park.During investigation it came to notice that the feline was poisoned.']
+
+
+Half A Dozen----QTY
+
+Dogs----SP.COMMON
+
+Three----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+tiger----SP.COMMON
+
+Koriya----LOC.EXACT
+
+Three----SUS.NUMBER
+
+Koriya----LOC.DISTRICT
+
+poisoning----CRIME.CAT
+
+tiger----SP.COMMON
+
+carcass----ITEM
+
+tiger----SP.COMMON
+
+Guru Ghasidas national park.During----LOC.EXACT

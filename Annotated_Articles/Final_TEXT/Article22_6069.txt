@@ -1,0 +1,41 @@
+
+['Mumbai: Leopard sneaks into Aarey school at night\nMumbai: Leopard sneaks into Aarey school at night | A male leopard entered Mumbai Public School in Bimbisar Nagar in Goregaon East at 1.30 am on Wednesday. The school is next to Aarey forest, where several instances of leopard attacks were reported last year. The animal was spotted sneaking into the school by the security guard. It was later found resting in the toilet, where it was tranquilised and handed over to Sanjay Gandhi National Park (SGNP) officials. For the students of the civic-run school, though, it was a brief moment of joy when the authorities announced the day off for their safety. School principal Shoba Padmashali said, “Around 2.30 am, the forest department informed me that the leopard was not caught yet. For the safety of the students, we declared the school to remain shut on Wednesday. However, the leopard was later captured and taken to SGNP before the school reopened, so we took a call and conducted normal classes for whoever came in.” The rescue operation was conducted by the Thane Forest Department’s Mumbai Range rescue team and the SGNP rescue team, assisted by Wildlife Welfare Association (WWA) and Resqink Association for Wildlife Welfare (RAWW). RAWW’s founder Pawan Sharma said, “The school security guard confronted the animal, who tried to escape but found a hideout in the toilet next to a classroom. It was reported to the forest department by 1.45 am and we reached by 2.15 am. After locating the animal and evaluating the situation, it was decided to tranquilise it, as redirecting it to the forest was not possible.” Sharma said the area was secured and the animal was rescued by 5.30 am. He said it was a quick strategic rescue well-undertaken in a city landscape. “The animal was shifted to SGNP for a detailed medical check and will be released back into the wild,” he said.']
+
+
+Mumbai----LOC.CITY
+
+Leopard----SP.COMMON
+
+sneaks----CRIME.CAT
+
+Aarey school----LOC.EXACT
+
+night----TIME
+
+Leopard----SP.COMMON
+
+sneaks----CRIME.CAT
+
+Aarey school----LOC.EXACT
+
+night----TIME
+
+leopard----SP.COMMON
+
+1.30 am----TIME
+
+Wednesday----DATE
+
+forest department----AUTH.SEIZE
+
+Thane Forest Department’s Mumbai Range rescue team----AUTH.SEIZE
+
+SGNP rescue team----AUTH.SEIZE
+
+Wildlife Welfare Association----AUTH.SEIZE
+
+WWA----AUTH.SEIZE
+
+Resqink Association for Wildlife Welfare (RAWW)----AUTH.SEIZE
+
+5.30 am----TIME

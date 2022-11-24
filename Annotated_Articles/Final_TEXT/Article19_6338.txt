@@ -1,0 +1,51 @@
+
+['Shiv Sena MP’s SUV kills spotted deer at the Sanjay Gandhi National Park\nA car belonging to Shiv Sena Member of Parliament Rajendra Gavit collided into a spotted deer at the Sanjay Gandhi National Park in Mumbai on Wednesday, killing it. A case has been registered against the driver of the car and the investigation is underway. According to the officials of the Sanjay Gandhi National Park (SGNP), the deer was hit by the speeding SUV when it was crossing the road adjacent to the Trimurti station inside SGNP. “At around 6-6:30 pm on Wednesday evening, the car knocked down the spotted deer near the Gandhi tekdi while it was heading towards the main gate. The driver informed us about the accident. When the deer was taken to the SGNP veterinary hospital, it was declared brought dead,” one anonymous source revealed. The Toyota Fortuner Sigma 4 SUV is registered under the name of Shiv Sena MP Rajendra Gavit. A case has been registered and the vehicle has been seized by the SGNP officials. “We have registered an offence against the SUV’s driver under provisions of the Wildlife Act. The car belongs to MP Rajendra Gavit though he was not in the vehicle at the time of the incident,” The chief conservator of forest and SGNP Director Anwar Ahmed said. Read: Tiger dies after eating a Sambar Deer, Tamil Media reports how it died after consuming ‘Sambhar Rice’ According to an RTI application filed by a member of the River March Group in 2017, about 8 animals were killed thus far inside SGNP. SGNP Director Anwar Ahmed appealed motorists to abide by the driving laws inside SGNP. An awareness campaign is planned to inform the tourists about the same. The SGNP visitors have routinely lodged a complaint about rash driving by tourists and notwithstanding endeavours taken up by functionaries, motorists have seldom adhered to the rules. Speeding a vehicle above 20 km per hour is an offence inside the Sanjay Gandhi National Park and attracts an on-the-spot fine of Rs 500.']
+
+
+Shiv Sena----SUS.NAME
+
+MP----OFF.DESIG
+
+SUV----TRANSPORT_MODE
+
+kills----CRIME.CAT
+
+spotted deer----SP.SPECIFIC
+
+Sanjay Gandhi National Park----LOC.EXACT
+
+car----TRANSPORT_MODE
+
+Rajendra Gavit----SUS.NAME
+
+spotted deer----SP.SPECIFIC
+
+Sanjay Gandhi National Park----LOC.EXACT
+
+Mumbai----LOC.CITY
+
+Wednesday----DATE
+
+case has been registered----OUTCOME
+
+deer----SP.COMMON
+
+6-6:30 pm----TIME
+
+Wednesday----DATE
+
+evening----TIME
+
+spotted deer----SP.SPECIFIC
+
+Toyota Fortuner Sigma 4 SUV----TRANSPORT_MODE
+
+Rajendra Gavit----SUS.NAME
+
+case has been registered----OUTCOME
+
+registered an offence----OUTCOME
+
+Rajendra Gavit----SUS.NAME
+
+Tiger----SP.COMMON

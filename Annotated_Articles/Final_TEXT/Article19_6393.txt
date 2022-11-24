@@ -1,0 +1,25 @@
+
+['Panther in Pink City: Leopard Strays into Jaipur\'s Residential Area, Authorities on Toes to Catch it\nJaipur: A panther which strayed into a residential area in Rajasthan\'s Jaipur district has kept police and forest department teams on their toes as they try to capture the animal. "We are trying to search the animal since Thursday. It\'s movement was last captured in Subodh College. There was an information that the panther could be behind the Assembly building. We are trying to locate the animal," a forest official said. The big cat was first spotted in a posh residential colony on Takhteshahi Road, situated between JLN Road and Tonk Road, of the state capital on Thursday afternoon. At night, search operation was conducted at SMS school, but the panther moved to the RBI office across the road and then in the adjacent Subodh College. Its movement was captured on CCTV cameras. From there, the animal is believed to have crossed Tonk Road and moved towards SMS stadium, officials said. Apart from SMS stadium and Assembly building, the Rajasthan High Court, the state Secretariat and other government offices and buildings are situated in the area.']
+
+
+Panther----SP.COMMON
+
+Pink City----LOC.EXACT
+
+Leopard----SP.COMMON
+
+Strays----CRIME.CAT
+
+Jaipur's Residential Area----LOC.EXACT
+
+panther----SP.COMMON
+
+Jaipur----LOC.DISTRICT
+
+police----AUTH.SEIZE
+
+forest department----AUTH.SEIZE
+
+Takhteshahi Road, situated between JLN Road and Tonk Road----LOC.EXACT
+
+search operation----DETECTION_METHOD

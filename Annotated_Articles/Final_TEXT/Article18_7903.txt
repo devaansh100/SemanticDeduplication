@@ -1,0 +1,17 @@
+
+['One of three tigers that killed man, tranquilised by Maharashtra forest dept\nThe forest department intensifies process to capture the female tigress and the remainder cub Forest department tranquilised one of the three tigers suspected of killing a man on February 17 After the Maharashtra Forest Department successfully tranquilised one of the three tigers suspected of killing a man on the premises of Chandrapur Super Thermal Power Station (CSTPS), the forest department has now intensified the process to capture the female tigress and the remainder cub too. On February 18, Sunil Limaye, Principal Chief Conservator of Forest (PCCF)-Wildlife, had passed the orders to capture the tiger, tigress and a cub after a man was killed on the premises of CSTPS, on February 17. ‘Tigers have adapted’ According to PCCF orders, once the tigress and cubs are captured, they should be kept in huge enclosures with no human contact. The order also states that after conducting the medical examination of the tigers, if found to be fit, they should be released in their natural habitat, as per the NTCA guidelines and their activities should be observed using camera traps. Speaking with mid-day, Limaye said, “The CSTPS area is not a natural forest, but as the tiger cubs have been raised by their mother in this landscape, they have adapted to the area. As there are thorny bushes, the cattle that had come for grazing in this area many years ago, remained there as their owners were unable to find them. The thorny bushes provide a good place for the tigers to hide. The tigers see these free-roaming cattle as their natural prey.” Need for translocation Limaye told mid-day that instances of conflict in this area happen when the cubs reach adulthood and search for new territories. “We have observed that conflict incidents in 2018, 2020 and 2022 have been reported when the grown-up tigers leave the CSTPS area to establish their territories. If the translocation of the tigers from this area is not done, then there will be a surge in man-animal conflict incidents. At present, there is a tigress with five cubs in the Fly Ash Dam area of CSTPS. If the females are not captured, the population will multiply which might lead to conflict,” Limaye said. In the meeting of the State Wildlife Advisory Board of 2020, the chief minister had announced the formation of an 11-member committee to study the issue and suggest measures. “The State Board for Wildlife (SBWL) has approved the report submitted by the state-level members of the committee. It clearly states that tigers and wildlife in industrial areas like CSTPS, WCF etc should be translocated for the larger good,” Limaye added. Feb 18 Date on which Sunil Limaye had passed the orders to capture the tiger, tigress and a cub']
+
+
+tigers----SP.COMMON
+
+Maharashtra forest dept----AUTH.SEIZE
+
+female tigress----SP.COMMON
+
+Forest department----AUTH.SEIZE
+
+February 17----DATE
+
+Maharashtra Forest Department----AUTH.SEIZE
+
+Sunil Limaye----OFF.NAME

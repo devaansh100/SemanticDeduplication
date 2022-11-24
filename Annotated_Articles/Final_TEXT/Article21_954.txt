@@ -1,0 +1,51 @@
+
+['Tigress without head, paws found buried in Allapali\nPoachers kill her by electrocution A carcass of a full-grown tigress was found in a nullah with her head and paws chopped off in Mosam beat of Aheri Forest Range in Allapali Forest Division in Gadchiroli district on Thursday. The big cat has died due to electrocution and poachers chopped off head and paws and buried it in sand. The was found to Kailash Parchuke and Narendra Wadettiwar, Forest Guards, were on regular patrolling duty. They sensed foul smell and reached in that direction to find swarm of flies on dried braches of a tree in compartment no: 615. They got suspicious and alerted higher authorities such as Range Forest Officer and Assistant Conservator of Forest, who reached the spot along with veterinarians and policemen. The body was exhumed with no head and paws but skin intact. The body was decomposed during the last one week. It was observed that 300 metres away from the spot a one km long earthing wire from the 11 Kv electric line was laid and dragging marks were observed near the spot of burial. Preliminary observations revealed that local poachers were involved in this electrocution case. Further action is being taken as per SOP of National Tiger Conservation Authority. Dr Uttareshwar Survase, Dr Pavan Pawle and Dr Dnyaneshwar Gawhane performed post mortem in presence of Honorary Wildlife Warden and foresters. A POR has been registered while police held in investigation. Moreover, Allapali forest staff searched Mosam village and nabbed accused, who accepted their crime and unfolded the whole tragic incident. Foresters seized four canines, 8 claws and whiskers. Some of the culprits have absconded to Telangana. Sunil Limaye, Principal Chief Conservator of Forest (Wildlife), Maharashtra, reached the Allapali on Friday morning, discussed with Conservator of Forest and other officials and gave them necessary instructions. He also contacted Head of Forest Force, Telangana, who assured to send a team to Kagaz Nagar to nab the remaining culprits today itself. Meanwhile, with the death of this tigress, the total number of tigers died in Maharashtra in 2021 has gone to 32.']
+
+
+Tigress----SP.COMMON
+
+paws----ITEM
+
+Allapali----LOC.DISTRICT
+
+Poachers----SUS.AFFIL
+
+kill----CRIME.CAT
+
+electrocution----CRIME.CAT
+
+carcass----ITEM
+
+Gadchiroli district----LOC.DISTRICT
+
+Thursday----DATE
+
+electrocution----CRIME.CAT
+
+poachers----SUS.AFFIL
+
+Kailash Parchuke----OFF.NAME
+
+Narendra Wadettiwar----OFF.NAME
+
+Forest Guards----OFF.DESIG
+
+patrolling----DETECTION_METHOD
+
+Dr Uttareshwar Survase----OFF.NAME
+
+Dr Pavan Pawle----OFF.NAME
+
+Dr Dnyaneshwar Gawhane----OFF.NAME
+
+A POR has been registered while police held in investigation----OUTCOME
+
+four----QTY
+
+canines----ITEM
+
+8----QTY
+
+claws----ITEM
+
+whiskers----ITEM

@@ -1,0 +1,53 @@
+
+['Tamil Nadu marine cops’ seize 450 kg sea cucumbers meant for smuggling to Sri Lanka\nTamil Nadu marine cops’ seize 450 kg sea cucumbers meant for smuggling to Sri Lanka Thoothukudi, Mar 21 (UNI) The Coastal Security Group (CSG) of Tamil Nadu Marine Police on Saturday seized 450 kg of processed sea cucumbers, an endangered marine species meant for smuggling to Sri Lanka from a godown on the Thoothukudi-Ettayapuram road in this district. Police said acting on specific inputs, the CSG personnel raided the godown, where they seized the sea cucumbers packed in plastic bags and kept in a car. The sea cucumbers were meant for smuggling to Sri Lanka via sea route. The value of the seized marine species was estimated at around Rs 25 lakhs.']
+
+
+Tamil Nadu marine cops----AUTH.SEIZE
+
+450 kg----QTY
+
+sea cucumbers----SP.COMMON
+
+smuggling to Sri Lanka----ROUTE.DEST
+
+Tamil Nadu marine cops----AUTH.SEIZE
+
+450 kg----QTY
+
+sea cucumbers----SP.COMMON
+
+smuggling to Sri Lanka----ROUTE.DEST
+
+Thoothukudi----LOC.CITY
+
+Coastal Security Group----AUTH.SEIZE
+
+CSG----AUTH.SEIZE
+
+Saturday----DATE
+
+450 kg----QTY
+
+processed sea cucumbers----ITEM
+
+to Sri Lanka----ROUTE.DEST
+
+godown on the Thoothukudi-Ettayapuram road----ROUTE.SRC
+
+specific inputs----DETECTION_METHOD
+
+CSG----AUTH.SEIZE
+
+sea cucumbers----SP.COMMON
+
+plastic bags----CONCEALMENT_METHOD
+
+car----TRANSPORT_MODE
+
+sea cucumbers----SP.COMMON
+
+smuggling to Sri Lanka----ROUTE.DEST
+
+sea route----ROUTE.SRC
+
+Rs 25 lakhs----VALUE

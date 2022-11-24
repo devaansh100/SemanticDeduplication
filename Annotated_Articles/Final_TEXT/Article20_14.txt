@@ -1,0 +1,57 @@
+
+['Two arrested for smuggling animal parts\nBareilly: A joint team of forest department and Sashastra Seema Bal (SSB) nabbed two alleged poachers on the Dudhwa-Nepal international border on Monday. They seized animals parts from them. One of the arrested men is a Nepalese.The accused have been identified as Jangiram Chaudhary, a native of Nepal’s Kailali district, and Ram Autar, a resident of Lakhimpur Kheri district. During a joint inspection by SSB and forest team of Bankati forest range of Dudhwa Tiger Reserve, they received tip-off that the accused were on way to sell animal parts. The team caught the two men and sent them to jail.Sanjay Pathak, field director, Dudhwa Tiger Reserve, said, “We have recovered claws of a vulture and a crane, a monkey’s leg and a few other parts of animals. An FIR has been lodged against both under the Wildlife Protection Act and Indian Forest Act. They have been sent to jail in Lakhimpur Kheri.”']
+
+
+Two----SUS.NUMBER
+
+smuggling----CRIME.CAT
+
+forest department----AUTH.SEIZE
+
+Sashastra Seema Bal (SSB)----AUTH.SEIZE
+
+two----SUS.NUMBER
+
+Dudhwa-Nepal international border----ROUTE.TRANSIT
+
+Monday----DATE
+
+animals parts----ITEM
+
+Nepalese----SUS.NAT
+
+Jangiram Chaudhary----SUS.NAME
+
+Nepal’s----SUS.NAT
+
+Kailali----SUS.LOC
+
+Ram Autar----SUS.NAME
+
+Lakhimpur----SUS.LOC
+
+tip-off----DETECTION_METHOD
+
+sell animal parts----CRIME.CAT
+
+two----SUS.NUMBER
+
+men----SUS.GENDER
+
+sent them to jail.Sanjay Pathak, field director, Dudhwa Tiger Reserve----OUTCOME
+
+claws of a vulture----ITEM
+
+a----QTY
+
+crane----SP.COMMON
+
+a----QTY
+
+monkey’s leg----ITEM
+
+a few----QTY
+
+parts of animals----ITEM
+
+FIR has been lodged----OUTCOME

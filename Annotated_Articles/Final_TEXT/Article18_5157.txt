@@ -1,0 +1,31 @@
+
+['Crocodile breaks van window and tries to escape in Florida. Viral video\nA crocodile broke the window of a van it was being carried in and tried to escape in a viral video from Florida. A crocodile tried to escape by breaking the window of a van it was being carried in Florida. By Shubhi Mishra: In an incident from Florida, US, a crocodile escaped a van that was relocating the reptiles to another part of a zoo. A video of the whole scenario was captured by a passer-by and was posted on Facebook by the St. Augustine Alligator Farm Zoological Park. The footage has gone viral online with over 250k views. In the now-viral video, workers named Karsyn McCreedy and Gen Anderson can be seen scrambling to capture the crocodile. Actually, the reptile had escaped from the van it was being carried in by breaking a window. Luckily, the women, with the help of two other men named Ryan and Donald, captured the crocodile. The short video was recorded by a passer-by, Jessica Star. advertisement The crocodile was then delivered safely to its new habitat. “This is why we have extensive training and do drills, to prepare for moments like this. Earlier today, we were relocating crocodilians to another area of the zoo. They were secured and placed into our zoo van. This animal broke the back window of the van and made a dash down the road. Our crew acted quickly to recapture it and deliver it safely to it’s new habitat. At no time was there any real danger as the animal’s mouth was secured,” reads the caption of the post. The authorities also gave a shoutout to the women who successfully captured the crocodile. “And impressive GIRL POWER! Karsyn (Reptile Keeper) and Gen (General Curator) recaptured it, with help from Ryan and Donald from maintenance,” read the post further. Watch the viral video here: Netizens hailed the women’s quick reaction to the whole situation and called it a great job. “Great job in a situation that was really scary! Your handlers are the best,” a user said. Another user commented, “Wow, just another reason to love St Augustine Alligator Farm.” See the comments here: What do you think of the video? ALSO READ: Little girl breaks down into tears after meeting baby brother for first time. Viral video ALSO WATCH: Ukraine MP seeks medical, political aid from India amid attack from Russia --- ENDS ---']
+
+
+Crocodile----SP.COMMON
+
+Florida----LOC.STATE
+
+crocodile----SP.COMMON
+
+van----TRANSPORT_MODE
+
+crocodile----SP.COMMON
+
+crocodile----SP.COMMON
+
+Karsyn McCreedy----OFF.NAME
+
+Gen Anderson----OFF.NAME
+
+Ryan----OFF.NAME
+
+Donald----OFF.NAME
+
+Karsyn----OFF.NAME
+
+Gen----OFF.NAME
+
+Ryan----OFF.NAME
+
+Donald----OFF.NAME

@@ -1,0 +1,61 @@
+
+['Task force arrest one smuggler and seized 53 red sanders logs\nTIRUPATI: Red sanders anti smuggling task force sleuths seized 53 red sanders logs and arrested one smuggler in connection with two incidents reported near Tirupati on Tuesday.According to task force SP M Sundara Rao , two teams of task force personnel led by DSP Muralidhar who were conducting combing operations inside the Seshachalam forests near Srivari mettu route over the last two days, spotted a group of smugglers carrying logs inside the forest area late on Monday evening.But before the task force team could surround them, the group of smugglers managed to abandon the red sanders logs and escape into the dark. Police seized 26 red sanders logs at the spot.In the second incident reported near Gollapalli-Timmaraju Kandriga regions, task force sleuths seized 27 red sanders logs and arrested one smuggler identified as Krishnaiah (53), a resident of Sadasiva ST colony near Puttur.']
+
+
+Task force----AUTH.MISC
+
+arrest----CRIME.CAT
+
+one----SUS.NUMBER
+
+seized----CRIME.CAT
+
+53----QTY
+
+red sanders----SP.SPECIFIC
+
+logs----ITEM
+
+Red sanders----SP.COMMON
+
+anti smuggling task force----AUTH.SEIZE
+
+seized----CRIME.CAT
+
+53----QTY
+
+red sanders----SP.SPECIFIC
+
+logs----ITEM
+
+arrested----CRIME.CAT
+
+one----SUS.NUMBER
+
+Tirupati----LOC.CITY
+
+Tuesday.According----DATE
+
+DSP----OFF.DESIG
+
+Monday----DATE
+
+evening.But----TIME
+
+seized----CRIME.CAT
+
+26----QTY
+
+red sanders----SP.SPECIFIC
+
+logs----ITEM
+
+Gollapalli-Timmaraju Kandriga regions----LOC.EXACT
+
+27----QTY
+
+Krishnaiah----SUS.NAME
+
+53----SUS.AGE
+
+Sadasiva ST colony near Puttur----SUS.LOC

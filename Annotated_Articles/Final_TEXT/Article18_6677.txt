@@ -1,0 +1,9 @@
+
+['Leopard found dead near Kotagiri\nAfter preliminary examinations, the officials ruled out any foul play in the death of the big cat. “The female leopard aged around 12 years is suspected to have died of old age and ailment. However, the exact reason for its death will be known only after receiving the post mortem report,” said an official.']
+
+
+Leopard----SP.COMMON
+
+found dead----CRIME.CAT
+
+Kotagiri----LOC.EXACT

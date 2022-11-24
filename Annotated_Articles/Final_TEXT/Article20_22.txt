@@ -1,0 +1,89 @@
+
+['Police seize 4,000 kg red sanders in Mangaluru; 5 held\nPanambur police and personnel from the anti-rowdy squad of Mangaluru North sub-division nabbed a gang that was preparing for illegally exporting 4,000 kg of red sandalwood worth Rs 2 crore through New Mangalore Port. The police have arrested five persons and seized red sandalwood worth Rs 2 crore. The other seized properties from the arrested include a Maruti Brezza, Renault Pulse, Tata Ace, two plywood boxes and seven mobile phones valued Rs 19 lakh. According to Commissioner of Police Dr P S Harsha, the arrested are Tabrez (36), Lohith (35), Rakesh Shetty (44), Hussain kunhimonu (45) and Farooq (45). Based on a tip off, the police raided a godown on the road leading to Jokatte from Baikamlady Industrial Area and seized 4,000 kg of red sanders worth Rs 2 crore. A case has been registered under Sections 50, 62, 80, 104 of Karnataka Forest Act and 144, 165 of Karnataka Forest Rules at the Panambur police station.']
+
+
+Police----AUTH.SEIZE
+
+seize----CRIME.CAT
+
+4,000 kg----QTY
+
+red sanders----SP.COMMON
+
+Mangaluru----LOC.CITY
+
+5----SUS.NUMBER
+
+Panambur police----AUTH.SEIZE
+
+anti-rowdy squad of Mangaluru North sub-division----AUTH.SEIZE
+
+gang----SUS.AFFIL
+
+4,000 kg----QTY
+
+red sandalwood----SP.COMMON
+
+Rs 2 crore----VALUE
+
+New Mangalore Port----LOC.EXACT
+
+arrested----CRIME.CAT
+
+five----SUS.NUMBER
+
+red sandalwood----SP.COMMON
+
+Rs 2 crore----VALUE
+
+a----QTY
+
+Maruti Brezza----ITEM
+
+Renault Pulse----ITEM
+
+Tata Ace----ITEM
+
+two----QTY
+
+plywood boxes----ITEM
+
+seven----QTY
+
+mobile phones----ITEM
+
+Rs 19 lakh----VALUE
+
+Commissioner of Police----OFF.DESIG
+
+Dr P S Harsha----OFF.NAME
+
+Tabrez----SUS.NAME
+
+36----SUS.AGE
+
+Lohith----SUS.NAME
+
+35----SUS.AGE
+
+Rakesh Shetty----SUS.NAME
+
+44----SUS.AGE
+
+Hussain kunhimonu----SUS.NAME
+
+45----SUS.AGE
+
+Farooq----SUS.NAME
+
+45----SUS.AGE
+
+tip off----DETECTION_METHOD
+
+4,000 kg----QTY
+
+red sanders----SP.COMMON
+
+Rs 2 crore----VALUE
+
+case has been registered----OUTCOME

@@ -1,0 +1,13 @@
+
+['Video of a man sleeping with two pythons crawling over him goes viral; netizens say \'Are you mad?\'\nFollow us on Image Source : INSTAGRAM/SNAKEBYTESTV Video of a man sleeping with two pythons crawling over him goes viral; netizens say \'Are you mad?\' The internet is filled with videos of all kinds. Be it kids, weddings, dogs or creepy crawlies, you have everything in your sight in just a click. Well, one such video of a snake has left the internet scared. Who isn\'t scared of snakes? The slithery reptile with its flicking tongue and venom can give anyone a nightmare and send shivers down your spine. However, there are some who are fond of them and keep these creatures as pets in their houses. A video of one such man has gone viral on the internet. It has captured a man sleeping with two large Burmese pythons (yellow in colour) slithering and crawling over him. Uploaded on an Instagram account named snakebytestv, the video also shows how the two snakes do not harm him in any manner. It was captioned, "Sometimes after a long day, taking a nap with your favorites is a must! I can’t be the only one." also read: Fans tout Shah Rukh Khan\'s look in Brahmastra teaser, say \'Theaters Fatt Jayengey\' Have a look: The video was shared a few days back and has garnered more than 1.3 million views and over 24,000 likes so far. people are scared and are wondering how something like this could be possible. A person wrote, "Oh hell na. Lol. That’s like my biggest nightmare." Another one commented, "Snakes r so cool lol I wanna get a Mexican black kingsnake as a pet sometime." A third person shared, "This snack is so beautiful…. But I afraid on it, They are very dangerous….how can u stay with snake." "Umm they sizing you up to eat you .... I know you remember Steve Erwin I think that was his name !! The animal man!" said another. also read: Punjabi singer Mankirat Aulakh gets death threats after Sidhu Moosewala\'s killing, demands security cover What do you have to say about the same? For the unversed, the Instagram handle is run by Brian Barczyk, a Michigan-based wildlife expert who loves educating animal lovers of all kinds about reptiles. His Instagram bio reads, "Traveling the world for animal adventures and daily vlogging it all!" also read: Maggi Case Cooking! Man divorces wife for serving two-minute noodles in breakfast, lunch and dinner Read More Trending News']
+
+
+man----SUS.GENDER
+
+two----QTY
+
+pythons----SP.SPECIFIC
+
+pythons----SP.COMMON
+
+Burmese pythons----SP.SPECIFIC

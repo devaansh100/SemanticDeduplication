@@ -1,0 +1,33 @@
+
+['Bsf Man From Palghar Dies Of Snake Bite\nMUMBAI: A Border Security Force ( BSF ) jawan posted at Madhopur in Pathankot district of Punjab died of a snake bite while sleeping outside his house on Sunday. His wife Parmila and daughter slept inside the house. Mahesh Fadwale (32) was cremated with full military honours at his ancestral home in Kahre-Talavali village in Jawhar taluka of Palghar on Monday.']
+
+
+Palghar----LOC.DISTRICT
+
+Snake Bite----CRIME.CAT
+
+Border Security Force----AUTH.SEIZE
+
+BSF----AUTH.SEIZE
+
+jawan----OFF.DESIG
+
+Madhopur----LOC.EXACT
+
+Pathankot----LOC.DISTRICT
+
+Punjab----LOC.STATE
+
+snake bite----CRIME.CAT
+
+Sunday----DATE
+
+Parmila----SUS.NAME
+
+Mahesh Fadwale----SUS.NAME
+
+32----SUS.AGE
+
+Kahre-Talavali village in Jawhar taluka of Palghar----LOC.EXACT
+
+Monday----DATE

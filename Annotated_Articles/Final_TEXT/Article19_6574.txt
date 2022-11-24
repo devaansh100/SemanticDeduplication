@@ -1,0 +1,19 @@
+
+["Video Of Tiger Roaring In Sunderbans Tiger Reserve Breaks Internet\nA video has surfaced on the internet in which a tiger can be heard announcing itself with a loud roar as it walks on the banks of the Sunderbans Tiger Reserve. The video was shared by IFS officer Parveen Kaswan. According to Kaswan, the roar of a tiger could be heard up to some kilometres which frightened the animals living in the forest. He added that this is the way the tigers announce their presence in the dense forests. READ: Indonesia Poaching Case, Skin And Foetuses Of Endangered Tiger Found They say in #forest animals can hear tigers roar upto kilometres. And that is what terrify them. Listen to believe. Here in an old video at Sunderban #Tiger Reseve tiger is registering it's presence. Goosebumps guaranteed. pic.twitter.com/7lr18rOK0S — Parveen Kaswan, IFS (@ParveenKaswan) December 10, 2019 Video goes viral In the video, a tiger can be seen walking slowly amid the trees in the Sunderban tiger reserve along the banks of the river. The tiger can be heard roaring loudly as it announces its presence in the dense forest. The video managed to attract the attention of netizens and left them bewildered. Some Twitteratis also made fun of the sounds that the animal was making. At the time of penning down the article, the video gained 19.8k views and managed to garner 1.6k likes. READ: MP: Tiger Found Dead At Kanha Reserve Terrifying — Muruga Selvam (@murugaselvaam) December 10, 2019 A lot of dare to take this vedio — Pushparani (@Pushpar00274777) December 10, 2019 Chilling and thrilling... — Debali Basu (@debalib) December 10, 2019 100 % goosebumps 😵 — 🇸 🇮\u200c🇳\u200c🇦\u200c🇲\u200c🇩\u200c🇦\u200c🇷\u200c (@natureloversrk) December 10, 2019 That is just amazing — seema (@mandovi12) December 10, 2019 OMG!! Magnificent Roar!! 🐯 Scary though. — Preethi (@Preethi_Speaks) December 10, 2019 Wow ... what a thrilling video. Thanks for sharing 👍. Damn I’ve been to Sunderban and just was lucky enough to have only a glimpse other these majestic animal. I wonder how many visits will be needed to experience this kind of show. — Sanjit (@jsigns7) December 10, 2019 READ: Maharashtra: Tiger Walks 1,300 Km In Tipeshwar wildlife Sanctuary, Sets New Record READ: Tiger Chases Tourist Safari Jeep At Ranthambore National Park"]
+
+
+Tiger----SP.COMMON
+
+Sunderbans Tiger Reserve----LOC.EXACT
+
+tiger----SP.COMMON
+
+Sunderbans Tiger Reserve----LOC.EXACT
+
+IFS officer----OFF.DESIG
+
+Parveen Kaswan----OFF.NAME
+
+Skin----ITEM
+
+Kanha Reserve----LOC.EXACT

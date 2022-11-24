@@ -1,0 +1,33 @@
+
+['Elephant tramples mahout to death at zoo\nSALEM: A 45-year-old mahout was trampled to death by an elephant at Kurumbapatty Zoological Park in Salem district on Monday evening. A veterinary doctor also suffered injuries in the incident.Police identified the deceased P Kaliappan, 45, of Pollachi in Coimbatore district Kaliappan was standing in front of the elephant while veterinary doctor Prakash was examining it, A Periyasamy, district forest officer said. “The elephant suddenly attacked and trampled Kaliappan. He got stuck between its forelegs and died on the spot,” the officer said.The elephant, Andal, aged around 68, was unwell for the past few days. Forest department officials asked doctor Prakash to check it. “While the doctor was checking the animal, it looked furious. Even after crushing Kaliappan, it was agitated,” a forest officer said. Subsequently, veterinarians tranquilised the elephant and the deceased body was recovered.The zoo authorities informed to the Yercaud police, who reached the spot and sent the body to the Salem government hospital.Andal had trampled three people at the Meenakshi Amman temple in Madurai in 2009. In that same year, it was translocated to Kurumbapatty Zoological Park. At the park, the elephant killed a forest watcher in 2013.Forest officials lodged a complaint with the Yercaud police and further investigation is on.']
+
+
+Elephant----SP.COMMON
+
+mahout----SP.COMMON
+
+mahout----SP.COMMON
+
+elephant----SP.COMMON
+
+Kurumbapatty Zoological Park----LOC.EXACT
+
+Salem----LOC.DISTRICT
+
+Monday----DATE
+
+evening----TIME
+
+P Kaliappan----SUS.NAME
+
+45----SUS.AGE
+
+Pollachi in Coimbatore district----SUS.LOC
+
+veterinary doctor----OFF.DESIG
+
+Prakash was examining----OFF.NAME
+
+Andal----SUS.NAME
+
+68----SUS.AGE

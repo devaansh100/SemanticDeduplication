@@ -1,0 +1,11 @@
+
+['Whale shark carcass washes ashore in Thoothukudi\n The whale shark, aged around 10 years, might have suffered injury after being hit by the propeller of a fishing trawler or a rock, the officials said. The carcass was buried on the beach after post-mortem examination. The whale shark is a protected species under schedule 1 of the Wildlife Protection Act. It is also an endangered species under the International Union for Conservation of Nature (IUCN).']
+
+
+Whale shark----SP.SPECIFIC
+
+carcass----ITEM
+
+Thoothukudi----LOC.DISTRICT
+
+whale shark----SP.SPECIFIC

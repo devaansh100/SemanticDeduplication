@@ -1,0 +1,131 @@
+
+['Over five tons of Sea Cucumber worth several crores seized near Nagai\nAntony Fernando By Express News Service NAGAPATTINAM: Over five tonnes of sea cucumbers worth crores of rupees were seized in three places near Nagapattinam in the past two days. Two illegal preservation centres were also busted for processing the sea cucumbers. In the latest catch on Tuesday, the Marine Police raided a house in Keechankuppam near Nagapattinam district and seized over three tons of sea cucumbers (Kadal Attai) in 56 boxes. The house owner named N Ramadoss (37) fled after learning about the raid. "The house owner was processing sea cucumbers somewhere. He had brought all his stock to his house in Keechankuppam to hide it after learning about the raids by the forest department on Monday. we are investigating and looking our for more suspects." said P Raja, the Marine Police Inspector from Nagapattinam Earlier on Monday, the forest department officials busted the illegal preservation centres near Nagapattinam, which were processing sea cucumbers (Kadal Attai) illegally. They are located in Thideerkuppam and near Mariamman Kovil, close to Akkaraipettai. "We found out about these illegal facilities through our informants. We learnt those running these places were smuggling the processed sea cucumbers to Ramanathapuram and then to Tuticorin and then abroad. We will initiate a detailed investigation to find the links of the suspects," said S Kalanithi, District Forest Officer, Nagapattinam. Marine Police arrested P Senbagam (60), owner of the centre near Mariamman Kovil and his accomplice R Chandrasekar (45) from Ramanathapuram. A person named Muruganandham, who was running the other facility in Thideerkuppam fled the spot after learning of the arrival of officials. The suspects were charged under the Wildlife (Protection) Act, 1972. The seized sea cucumbers were handed over to Forest department officials in Nagapattinam. It is learnt they would be destroyed after seeking permission from a magistrate. Sea cucumbers are marine animals with leathery skin and an elongated body that dwell at the bottom of the sea. It is illegal to catch these echinoderms. However, there is a big demand for sea cucumbers smuggled to countries like China, Thailand, Korea and Japan. Officials seized processed, and under-processed sea cucumbers left to dry in the sun. NAGAPATTINAM: Over five tonnes of sea cucumbers worth crores of rupees were seized in three places near Nagapattinam in the past two days. Two illegal preservation centres were also busted for processing the sea cucumbers. In the latest catch on Tuesday, the Marine Police raided a house in Keechankuppam near Nagapattinam district and seized over three tons of sea cucumbers (Kadal Attai) in 56 boxes. The house owner named N Ramadoss (37) fled after learning about the raid. "The house owner was processing sea cucumbers somewhere. He had brought all his stock to his house in Keechankuppam to hide it after learning about the raids by the forest department on Monday. we are investigating and looking our for more suspects." said P Raja, the Marine Police Inspector from Nagapattinam Earlier on Monday, the forest department officials busted the illegal preservation centres near Nagapattinam, which were processing sea cucumbers (Kadal Attai) illegally. They are located in Thideerkuppam and near Mariamman Kovil, close to Akkaraipettai. "We found out about these illegal facilities through our informants. We learnt those running these places were smuggling the processed sea cucumbers to Ramanathapuram and then to Tuticorin and then abroad. We will initiate a detailed investigation to find the links of the suspects," said S Kalanithi, District Forest Officer, Nagapattinam. Marine Police arrested P Senbagam (60), owner of the centre near Mariamman Kovil and his accomplice R Chandrasekar (45) from Ramanathapuram. A person named Muruganandham, who was running the other facility in Thideerkuppam fled the spot after learning of the arrival of officials. The suspects were charged under the Wildlife (Protection) Act, 1972. The seized sea cucumbers were handed over to Forest department officials in Nagapattinam. It is learnt they would be destroyed after seeking permission from a magistrate. Sea cucumbers are marine animals with leathery skin and an elongated body that dwell at the bottom of the sea. It is illegal to catch these echinoderms. However, there is a big demand for sea cucumbers smuggled to countries like China, Thailand, Korea and Japan. Officials seized processed, and under-processed sea cucumbers left to dry in the sun.']
+
+
+five tons----QTY
+
+Sea Cucumber----SP.COMMON
+
+several crores----VALUE
+
+seized----CRIME.CAT
+
+five tonnes----QTY
+
+sea cucumbers----SP.COMMON
+
+crores of rupees----VALUE
+
+seized----CRIME.CAT
+
+Nagapattinam----LOC.EXACT
+
+sea cucumbers----SP.COMMON
+
+Tuesday----DATE
+
+Marine Police----AUTH.SEIZE
+
+raided----CRIME.CAT
+
+Keechankuppam----LOC.EXACT
+
+Nagapattinam----LOC.DISTRICT
+
+three tons----QTY
+
+sea cucumbers----SP.COMMON
+
+56 boxes----CONCEALMENT_METHOD
+
+N Ramadoss----SUS.NAME
+
+37----SUS.AGE
+
+forest department----AUTH.SEIZE
+
+Monday----DATE
+
+P Raja----OFF.NAME
+
+Marine Police Inspector----OFF.DESIG
+
+forest department officials----AUTH.SEIZE
+
+Thideerkuppam----LOC.EXACT
+
+Marine Police----AUTH.SEIZE
+
+arrested----CRIME.CAT
+
+P Senbagam----SUS.NAME
+
+60----SUS.AGE
+
+R Chandrasekar----SUS.NAME
+
+45----SUS.AGE
+
+Ramanathapuram----SUS.LOC
+
+charged under the Wildlife (Protection) Act, 1972----OUTCOME
+
+five tonnes----QTY
+
+sea cucumbers----SP.COMMON
+
+crores of rupees----VALUE
+
+Nagapattinam----LOC.EXACT
+
+Tuesday----DATE
+
+Marine Police----AUTH.SEIZE
+
+raided----CRIME.CAT
+
+Keechankuppam----LOC.EXACT
+
+seized----CRIME.CAT
+
+three tons----QTY
+
+sea cucumbers----SP.COMMON
+
+56 boxes----CONCEALMENT_METHOD
+
+N Ramadoss----SUS.NAME
+
+37----SUS.AGE
+
+raids----CRIME.CAT
+
+forest department----AUTH.SEIZE
+
+Monday----DATE
+
+P Raja----OFF.NAME
+
+Marine Police Inspector----OFF.DESIG
+
+Thideerkuppam and near Mariamman Kovil----LOC.EXACT
+
+Marine Police----AUTH.SEIZE
+
+arrested----CRIME.CAT
+
+P Senbagam----SUS.NAME
+
+60----SUS.AGE
+
+R Chandrasekar----SUS.NAME
+
+45----SUS.AGE
+
+Ramanathapuram----SUS.LOC
+
+Muruganandham----SUS.NAME
+
+charged under the Wildlife (Protection) Act, 1972----OUTCOME
+
+seized----OUTCOME

@@ -1,0 +1,7 @@
+
+['Monkeys get a specialised lab at IISc\nMonkeys get a specialised lab at IISc Source: TOI.in The setup consists, among other things, of a naturalistic group housing chamber and a behaviour room where monkeys could perform tasks on a touchscreen workstation']
+
+
+Monkeys----SP.COMMON
+
+IISc----LOC.EXACT

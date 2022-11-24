@@ -1,0 +1,43 @@
+
+['Man killed by tiger in Uttar Pradesh’s Katarniaghat Wildlife Sanctuary\nA man was killed by a tiger in the Katarniaghat Wildlife Sanctuary (KWS) near Bhartapur village in Uttar Pradesh’s Bahraich district on Wednesday morning, officials said. “The deceased was identified as Ghanshyam, 57, s/o Shivraj, a resident of Bhartapur village,” said divisional forest officer (DFO), KWS, Akash Deep Badhawan. Ghanshyam was cutting grass in the core area of the sanctuary near Trans Geruwa region when a tiger attacked him, the official said adding that he was severely injured in the attack and he succumbed to his injuries while being taken to the community health centre (CHC), Mihinpurwa. Prima-facie it was a cognizable offence as Ghanshyam was cutting grass from the restricted core area of the sanctuary, the DFO said, however, adding that financial assistance will be given to the family of the deceased as per the rule of the forest department. It may be noted that one Mohan 52, a priest in Khairatiya village was killed in a tiger attack in Dudhwa buffer zone of Lakhimpur district near Tikunia-Bahraich railway track on June 17. Later the tiger killed a cow and a calf in the same area on June 19. When asked, the DFO ruled out the possibility that the same tiger had killed both the men. The DFO said th Katarniaghat forest range has more than 20 tigers. Besides, Khairitiya is about 25 km away from the Trans Geruwa region. Hence, it is not possible for a tiger to reach here from Kharatiya by swimming 15 kilometers in 100 feet deep waters of the Geruwa River. He added that two elephants were also combing in the area close to Dudhwa buffer zone. The DFO said that multiple teams have been constituted and Wildlife Trust of India (WTI) has also been engaged, adding that the tiger that killed the priest and animals in Khairatiya village will be trapped very soon.']
+
+
+Man----SUS.GENDER
+
+killed----CRIME.CAT
+
+tiger----SP.COMMON
+
+Uttar Pradesh’s----LOC.STATE
+
+Katarniaghat Wildlife Sanctuary----LOC.EXACT
+
+man----SUS.GENDER
+
+tiger----SP.COMMON
+
+Katarniaghat Wildlife Sanctuary (KWS----LOC.EXACT
+
+Bhartapur village----LOC.EXACT
+
+Uttar Pradesh’s----LOC.STATE
+
+Bahraich----LOC.DISTRICT
+
+Wednesday----DATE
+
+morning----TIME
+
+Ghanshyam----SUS.NAME
+
+57----SUS.AGE
+
+Shivraj----SUS.NAME
+
+Bhartapur village----SUS.LOC
+
+divisional forest officer (DFO), KWS----OFF.DESIG
+
+Akash Deep Badhawan----OFF.NAME
+
+Ghanshyam----SUS.NAME

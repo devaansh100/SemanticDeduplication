@@ -1,0 +1,73 @@
+
+['Herald: Mouse Deer rescued in Bicholim\n22 Dec 2019 | 05:42am IST Mouse Deer rescued in Bicholim Team Herald BICHOLIM: The Animal Rescue Squad, Bicholim on Saturday rescued Indian Spotted Chevrotain or Mouse Deer and handed over to the Forest Department. BICHOLIM: The Animal Rescue Squad, Bicholim on Saturday rescued Indian Spotted Chevrotain or Mouse Deer and handed over to the Forest Department. According to the information provided by ARE Chief Amrut Singh, the deer was trapped in a canal in Kulagar. One Kashinath Mone from Kolamwada, Karapur-Bicholim informed the ARS chief who swung into action. According to the information provided by ARE Chief Amrut Singh, the deer was trapped in a canal in Kulagar. One Kashinath Mone from Kolamwada, Karapur-Bicholim informed the ARS chief who swung into action. The ARS chief after receiving the information went to the spot and rescued the deer in the presence of RFO Keri-Sattari Vivek Gaonkar, forest guards Vishnu Amonkar, Bala Gosavi and Wildlife Rescuer of Forest Department Keri-Sattari Raj Majik. The ARS chief after receiving the information went to the spot and rescued the deer in the presence of RFO Keri-Sattari Vivek Gaonkar, forest guards Vishnu Amonkar, Bala Gosavi and Wildlife Rescuer of Forest Department Keri-Sattari Raj Majik.  ']
+
+
+Mouse Deer----SP.COMMON
+
+rescued----CRIME.CAT
+
+Bicholim----LOC.EXACT
+
+Mouse Deer----SP.COMMON
+
+rescued----CRIME.CAT
+
+Bicholim----LOC.EXACT
+
+Animal Rescue Squad, Bicholim----AUTH.SEIZE
+
+Saturday----DATE
+
+Indian Spotted Chevrotain----SP.SPECIFIC
+
+Mouse Deer----SP.COMMON
+
+Forest Department----AUTH.MISC
+
+Animal Rescue Squad, Bicholim----AUTH.SEIZE
+
+Saturday----DATE
+
+Indian Spotted Chevrotain----SP.SPECIFIC
+
+Mouse Deer----SP.COMMON
+
+Forest Department----AUTH.MISC
+
+ARE Chief----OFF.DESIG
+
+Amrut Singh----OFF.NAME
+
+Kulagar----LOC.EXACT
+
+ARE Chief----OFF.DESIG
+
+RFO----OFF.DESIG
+
+Sattari Vivek Gaonkar----OFF.NAME
+
+forest guards----OFF.DESIG
+
+Vishnu Amonkar----OFF.NAME
+
+Bala Gosavi----OFF.NAME
+
+Wildlife Rescuer of Forest Department----OFF.DESIG
+
+Keri-Sattari Raj Majik----OFF.NAME
+
+ARS----AUTH.SEIZE
+
+RFO----OFF.DESIG
+
+Vivek Gaonkar----OFF.NAME
+
+forest guards----OFF.DESIG
+
+Vishnu Amonkar----OFF.NAME
+
+Bala Gosavi----OFF.NAME
+
+Wildlife Rescuer of Forest Department----OFF.DESIG
+
+Raj Majik----OFF.NAME

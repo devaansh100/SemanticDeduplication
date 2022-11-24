@@ -1,0 +1,23 @@
+
+["Dtr Tiger Claims 19th Life, Kills Teen\nBAREILLY: A tigress that is believed to have killed at least 18 humans at and near UP's Dudhwa Tiger Reserve ’s Singahi range of forests since 2020, struck again on Thursday evening and killed a 14-year-old boy who was herding his cattle near Khareta beat of Dudhwa forest. This incident was reported at around 6 pm.Forest department officials suspect that it is the same tigress. Field director Sanjay Pathak told TOI, “Since the incident was reported late in the evening, we will check for pugmarks on Friday morning to ascertain if the same tigress is behind the attack.” The boy was killed nearly 3 km from the last attack spot, where a 50-year-old priest was killed on the night of June17. He was attacked near a temple where he lived and dragged into the forest, where his partially eaten body was found the next day. Seven people have been killed by the big cat since October 2021 in and around Singahi range of forests.The victim was identified as Suraj Singh, a resident of Naya Pind village . Two other men were herding cattle when the tigress attacked Suraj. They shouted for help and forced the tigress to leave the body."]
+
+
+Tiger----SP.COMMON
+
+tigress----SP.COMMON
+
+Dudhwa Tiger Reserve ’s Singahi range of forests----LOC.EXACT
+
+Thursday----DATE
+
+evening----TIME
+
+14-year-old----SUS.AGE
+
+boy----SUS.GENDER
+
+6 pm.Forest----TIME
+
+Suraj Singh----SUS.NAME
+
+Naya Pind village----SUS.LOC

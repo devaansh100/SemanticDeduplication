@@ -1,0 +1,39 @@
+
+['Palakkad: Tribal boy killed in wild jumbo attack\nBy Express News Service PALAKKAD: An adivasi boy was trampled to death by a wild elephant at Kadakumanna in Attappadi on Wednesday while he was returning from the forest to his village with his parents. The deceased is Sanju, 15, son of Ponnan and Sumathi . The incident occurred around 5 pm. Sanju had gone to the forest with his parents and relatives to collect honey two days ago. They stayed there for two days and were returning when they were attacked by the elephant. While the others ran helter skelter, the elephant trampled Sanju to death . Sanju was an eighth standard student at Government Vocational Higher Secondary School, Agali.  PALAKKAD: An adivasi boy was trampled to death by a wild elephant at Kadakumanna in Attappadi on Wednesday while he was returning from the forest to his village with his parents. The deceased is Sanju, 15, son of Ponnan and Sumathi . The incident occurred around 5 pm. Sanju had gone to the forest with his parents and relatives to collect honey two days ago. They stayed there for two days and were returning when they were attacked by the elephant. While the others ran helter skelter, the elephant trampled Sanju to death . Sanju was an eighth standard student at Government Vocational Higher Secondary School, Agali.']
+
+
+boy----SUS.GENDER
+
+wild jumbo----SP.COMMON
+
+adivasi----SUS.LOC
+
+trampled to death----CRIME.CAT
+
+Kadakumanna in Attappadi----LOC.EXACT
+
+Wednesday----DATE
+
+Sanju----SUS.NAME
+
+15----SUS.AGE
+
+5 pm----TIME
+
+Sanju----SUS.NAME
+
+Sanju----SUS.NAME
+
+wild elephant----SP.COMMON
+
+Kadakumanna in Attappadi----LOC.EXACT
+
+Wednesday----DATE
+
+Sanju----SUS.NAME
+
+15----SUS.AGE
+
+5 pm----TIME
+
+Sanju----SUS.NAME

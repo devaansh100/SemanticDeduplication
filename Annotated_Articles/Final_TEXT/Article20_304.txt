@@ -1,0 +1,77 @@
+
+['Odisha forest personnel seize 12 kg boar meat, arrest three people as poaching in Bhitarkanika on th- The New Indian Express\nBy Express News Service KENDRAPARA: The impact of Covid-19 pandemic has not only affected life and livelihood of people, it is taking a heavy toll on the wildlife and protected animals too. The situation is clearly visible in Bhitarkanika National Park which in the last few months has become a favourite hunting ground for poachers. And, the poachers are not outsiders but natives, mainly youths who have returned to the villages from their workplace in other states due to the pandemic. The forest personnel on Saturday arrested three persons and seized 12 kg boar meat from them at Charipokhari village within the park. All the accused, who were trying to sell the meat in the village and its nearby areas, worked as carpenters in a plywood company in Kerala and had returned home two months back. DFO of the park Bikash Ranjan Dash said the three-Pramod Kumar Ojha, Sarat Behera and Ramesh Mahunt were arrested during a raid by forest personnel in the village. They were booked under sections 9, 27, 28 and 35 of Wildlife Protection Act, 1972. Even as the DFO assured his personnel are on alert to check instances, sources said the Forest department is faced with a staff crunch. To make matters worse, the migrant workers, in the absence of jobs, are taking advantage of the crisis to make some quick bucks. On August 4, around 15 people were arrested for poaching a boar at Nuagaon village within the park. Two people from the village were arrested for killing a spotted deer in the park two months back. The poachers often trap boars and spotted deer by spreading nylon ropes in the mangrove forest and its nearby areas. Around 450 poachers have been arrested in the last two decades for killing around 200 spotted deer, boars, birds and three crocodiles inside the park. KENDRAPARA: The impact of Covid-19 pandemic has not only affected life and livelihood of people, it is taking a heavy toll on the wildlife and protected animals too. The situation is clearly visible in Bhitarkanika National Park which in the last few months has become a favourite hunting ground for poachers. And, the poachers are not outsiders but natives, mainly youths who have returned to the villages from their workplace in other states due to the pandemic. The forest personnel on Saturday arrested three persons and seized 12 kg boar meat from them at Charipokhari village within the park. All the accused, who were trying to sell the meat in the village and its nearby areas, worked as carpenters in a plywood company in Kerala and had returned home two months back. DFO of the park Bikash Ranjan Dash said the three-Pramod Kumar Ojha, Sarat Behera and Ramesh Mahunt were arrested during a raid by forest personnel in the village. They were booked under sections 9, 27, 28 and 35 of Wildlife Protection Act, 1972. Even as the DFO assured his personnel are on alert to check instances, sources said the Forest department is faced with a staff crunch. To make matters worse, the migrant workers, in the absence of jobs, are taking advantage of the crisis to make some quick bucks. On August 4, around 15 people were arrested for poaching a boar at Nuagaon village within the park. Two people from the village were arrested for killing a spotted deer in the park two months back. The poachers often trap boars and spotted deer by spreading nylon ropes in the mangrove forest and its nearby areas. Around 450 poachers have been arrested in the last two decades for killing around 200 spotted deer, boars, birds and three crocodiles inside the park.']
+
+
+Odisha forest personnel----AUTH.SEIZE
+
+seize----CRIME.CAT
+
+12 kg----QTY
+
+boar----SP.COMMON
+
+meat----ITEM
+
+arrest----CRIME.CAT
+
+three----SUS.NUMBER
+
+Bhitarkanika----LOC.EXACT
+
+Bhitarkanika National Park----LOC.EXACT
+
+Saturday----DATE
+
+arrested----CRIME.CAT
+
+three----SUS.NUMBER
+
+12 kg----QTY
+
+boar----SP.COMMON
+
+meat----ITEM
+
+Charipokhari village----LOC.EXACT
+
+Sarat Behera----SUS.NAME
+
+Ramesh Mahunt----SUS.NAME
+
+booked under sections 9, 27, 28 and 35 of Wildlife Protection Act, 1972----OUTCOME
+
+Nuagaon village----LOC.EXACT
+
+forest personnel----AUTH.SEIZE
+
+Saturday----DATE
+
+arrested----CRIME.CAT
+
+three persons----SUS.NUMBER
+
+seized----CRIME.CAT
+
+12 kg----QTY
+
+boar----SP.COMMON
+
+meat----ITEM
+
+Charipokhari village----LOC.EXACT
+
+Pramod Kumar Ojha----SUS.NAME
+
+Sarat Behera----SUS.NAME
+
+Ramesh Mahunt----SUS.NAME
+
+arrested----CRIME.CAT
+
+raid----CRIME.CAT
+
+forest personnel----AUTH.SEIZE
+
+booked under sections 9, 27, 28 and 35 of Wildlife Protection Act, 1972----OUTCOME
+
+Nuagaon village----LOC.EXACT

@@ -1,0 +1,51 @@
+
+['Two arrested for smuggling pangolin\nChhattisgarh Police arrested two wildlife smugglers in Mahasamund district for smuggling a pangolin valued at Rs 5 lakh, the police said on Sunday. Additional Superintendent of Police Megha Tembhurkar told The Pioneer that the two were Damru Sidar (39) and Nepal Sidar (35), both residents of Mahasamund district. Acting on a tip, the accused were nabbed near a bridge in Temri village on Saturday when they allegedly tried to sell the pangolin weighing 11 kg and 3.5 feet long. They were booked under the Wildlife (Protection) Act 1972.']
+
+
+Two----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+smuggling----CRIME.CAT
+
+pangolin----SP.COMMON
+
+Chhattisgarh Police----AUTH.SEIZE
+
+arrested----CRIME.CAT
+
+two----SUS.NUMBER
+
+Mahasamund----LOC.DISTRICT
+
+a----QTY
+
+pangolin----SP.COMMON
+
+Rs 5 lakh----VALUE
+
+Additional Superintendent of Police----OFF.DESIG
+
+Megha Tembhurkar----OFF.NAME
+
+Damru Sidar----SUS.NAME
+
+39----SUS.AGE
+
+Nepal Sidar----SUS.NAME
+
+35----SUS.AGE
+
+Mahasamund----SUS.LOC
+
+tip----DETECTION_METHOD
+
+bridge in Temri village----LOC.EXACT
+
+Saturday----DATE
+
+pangolin----SP.COMMON
+
+11 kg----QTY
+
+booked under the Wildlife (Protection) Act 1972----OUTCOME

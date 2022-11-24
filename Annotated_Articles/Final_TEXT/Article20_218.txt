@@ -1,0 +1,107 @@
+
+['Another pangolin smuggling racket busted, two arrested\nBy Express News Service BHUBANESWAR: Athagarh forest officials on Thursday busted another inter-state pangolin smuggling racket and rescued a live pangolin from Choudwar in Cuttack. The forest team also nabbed two persons in this connection, and seized an iphone and a number plateless two-wheeler worth over ` one lakh from them. The accused, Chandramani Jena (41) from Rajakanika in Kendrapara and Manoj Dalei (43) from Sikharpur in Cuttack, were forwarded to court and later they were sent to Chaudwar jail. The infant scaly anteater, known as pangopup, was later safely released into the wild within Athagarh forest division. Acting on a tip off, forest officials led by DFO Sasmita Lenka reached Nuaparana bridge in Choudwar and nabbed the smugglers. Lenka said during preliminary investigation, it came to light that the pangolin was being smuggled to Cuttack from Rairakhol. The mother of the pangopup was caught by smugglers and kept somewhere in Rairakhol division. “We are in touch with the Rairakhol forest officials for rescue of the mother pangolin and arrest of other persons involved in this racket,” she said. BHUBANESWAR: Athagarh forest officials on Thursday busted another inter-state pangolin smuggling racket and rescued a live pangolin from Choudwar in Cuttack. The forest team also nabbed two persons in this connection, and seized an iphone and a number plateless two-wheeler worth over ` one lakh from them. The accused, Chandramani Jena (41) from Rajakanika in Kendrapara and Manoj Dalei (43) from Sikharpur in Cuttack, were forwarded to court and later they were sent to Chaudwar jail. The infant scaly anteater, known as pangopup, was later safely released into the wild within Athagarh forest division. Acting on a tip off, forest officials led by DFO Sasmita Lenka reached Nuaparana bridge in Choudwar and nabbed the smugglers. Lenka said during preliminary investigation, it came to light that the pangolin was being smuggled to Cuttack from Rairakhol. The mother of the pangopup was caught by smugglers and kept somewhere in Rairakhol division. “We are in touch with the Rairakhol forest officials for rescue of the mother pangolin and arrest of other persons involved in this racket,” she said.']
+
+
+pangolin----SP.COMMON
+
+two----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+Athagarh forest officials----AUTH.SEIZE
+
+Thursday----DATE
+
+pangolin----SP.COMMON
+
+a----QTY
+
+pangolin----SP.COMMON
+
+Choudwar----LOC.EXACT
+
+nabbed----CRIME.CAT
+
+two----SUS.NUMBER
+
+an----QTY
+
+iphone----ITEM
+
+number plateless two-wheeler----ITEM
+
+` one lakh----VALUE
+
+Chandramani Jena----SUS.NAME
+
+41----SUS.AGE
+
+Rajakanika in Kendrapara----SUS.LOC
+
+Manoj Dalei----SUS.NAME
+
+43----SUS.AGE
+
+Sikharpur in Cuttack----SUS.LOC
+
+forwarded to court and later they were sent to Chaudwar jail----OUTCOME
+
+tip off----DETECTION_METHOD
+
+DFO----OFF.DESIG
+
+Sasmita Lenka----OFF.NAME
+
+Cuttack----ROUTE.DEST
+
+Rairakhol----ROUTE.SRC
+
+Athagarh forest officials----AUTH.SEIZE
+
+Thursday----DATE
+
+busted----CRIME.CAT
+
+pangolin----SP.COMMON
+
+a----QTY
+
+pangolin----SP.COMMON
+
+Choudwar----LOC.EXACT
+
+two----SUS.NUMBER
+
+an----QTY
+
+iphone----ITEM
+
+a----QTY
+
+number plateless two-wheeler----ITEM
+
+` one lakh----VALUE
+
+Chandramani Jena----SUS.NAME
+
+41----SUS.AGE
+
+Rajakanika in Kendrapara----SUS.LOC
+
+Manoj Dalei----SUS.NAME
+
+43----SUS.AGE
+
+Sikharpur in Cuttack----SUS.LOC
+
+forwarded to court and later they were sent to Chaudwar jail----OUTCOME
+
+tip off----DETECTION_METHOD
+
+DFO----OFF.DESIG
+
+Sasmita Lenka----OFF.NAME
+
+Cuttack----ROUTE.DEST
+
+Rairakhol----ROUTE.SRC

@@ -1,0 +1,11 @@
+
+['Bird stuck in thread rescued after 14 hours\nLocal residents said the black kite got entangled in the thread at the top of a tree in a park around 7pm on Sunday.']
+
+
+Bird----SP.COMMON
+
+black kite----SP.SPECIFIC
+
+7pm----TIME
+
+Sunday----DATE

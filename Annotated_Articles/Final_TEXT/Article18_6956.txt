@@ -1,0 +1,23 @@
+
+["Leaked! Salman Khan and Katrina Kaif's pictures from ‘Tiger 3’ sets go viral\nTiger and Zoya are back in action! Katrina Kaif and Salman Khan were spotted on February 17, getting ready to shoot some high-octane action scenes for their upcoming film 'Tiger 3'. Their pictures were leaked on social media and needless to say, they are going viral on social media."]
+
+
+Leaked----DETECTION_METHOD
+
+Salman Khan----SUS.NAME
+
+Katrina Kaif----SUS.NAME
+
+Tiger----SUS.NAME
+
+Zoya----SUS.NAME
+
+Katrina Kaif----SUS.NAME
+
+Salman Khan----SUS.NAME
+
+February 17----DATE
+
+Tiger 3'----SP.COMMON
+
+leaked on social media----DETECTION_METHOD

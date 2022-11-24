@@ -1,0 +1,27 @@
+
+['Rare turtles rescued in city handed over to Delhi zoo\nEfforts on to identify the person who brought them Efforts on to identify the person who brought them Rare turtles were rescued by the Delhi police in north Delhi’s Mori Gate area on Wednesday, the police said, adding that they have been handed over to officials of the Delhi zoo. The police said that they received an information that four live turtles had been found in the MCD Parking in Mori Gate area. A police team reached the spot and found that the turtles were kept in a cardboard box. “No information regarding the person who brought these turtles has been gathered so far,” the police department said in a statement. Subsequently, an inspection of the turtles was conducted by officials of the Wildlife Crime Control Bureau who identified three of the four turtle as Indian Tent Turtle (kachuga tecta tecta) which is listed in schedule I of the Wildlife Protection Act, 1962. “Possession of this species is prohibited. These three are rarest of the rare species. Efforts are being made to identify the person who brought the turtles here. Meanwhile, they have been handed over to the Delhi zoo,” the statement also said.']
+
+
+Rare turtles----SP.SPECIFIC
+
+rescued----CRIME.CAT
+
+Rare turtles----SP.SPECIFIC
+
+rescued----CRIME.CAT
+
+Delhi police----AUTH.SEIZE
+
+Wednesday----DATE
+
+information----DETECTION_METHOD
+
+four----QTY
+
+live----ITEM
+
+cardboard box----CONCEALMENT_METHOD
+
+Wildlife Crime Control Bureau----AUTH.MISC
+
+Indian Tent Turtle----SP.SPECIFIC

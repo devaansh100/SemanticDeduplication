@@ -1,0 +1,43 @@
+
+['Maharashtra: Sarpanch arrested for smuggling and sale of leopard skin\nNAVI MUMBAI: Ratnagiri forest officials have arrested the sarpanch , Ajit Natu, from Sindhudurg district in connection with the smuggling and sale of leopard skin. They also seized two horns and the skull of a Sambar deer from him. Earlier, forest officials had arrested three others (Jayesh Parab, Darshan Gadekar , and Dattaprasad Naik) in the same case after they were found with the leopard skin.']
+
+
+Maharashtra----LOC.STATE
+
+Sarpanch----SUS.AFFIL
+
+arrested----CRIME.CAT
+
+leopard----SP.COMMON
+
+skin----ITEM
+
+Ratnagiri forest officials----AUTH.SEIZE
+
+arrested----CRIME.CAT
+
+sarpanch----SUS.AFFIL
+
+Ajit Natu----SUS.NAME
+
+Sindhudurg district----SUS.LOC
+
+smuggling and sale----CRIME.CAT
+
+leopard----SP.COMMON
+
+skin----ITEM
+
+two----QTY
+
+horns----ITEM
+
+skull----ITEM
+
+Sambar deer----SP.SPECIFIC
+
+Jayesh Parab----SUS.NAME
+
+Darshan Gadekar----SUS.NAME
+
+Dattaprasad Naik----SUS.NAME

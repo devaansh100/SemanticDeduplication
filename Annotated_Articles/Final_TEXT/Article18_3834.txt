@@ -1,0 +1,57 @@
+
+['Electrocution of wild elephant: TN forest department arrest banana farm owner\nElectrocution of wild elephant: TN forest department arrest banana farm owner By IANS Published: Published Date - 12:56 PM, Mon - 18 April 22 Chennai: The Tamil Nadu forest department officials have arrested a banana plantation farm owner in a case related to the electrocution of a wild elephant two months ago at his farm. A male elephant aged between 12 and 15 was found dead on the farm on the morning of February 12 and its trunk was found to be in contact with an iron cable that was erected around the farm for electric fencing. Forest officials told IANS that a special forest squad arrested, Manoharan (57) near a bus stand in Coimbatore on Monday morning at 6.30 am while he was about to board a bus. The forest officials said that the team had acted on a tip-off. Manoharan and his son Naresh have been eluding the forest officials ever since the incident and had moved anticipatory bail petitions in various courts. After all the bail applications were rejected, they had returned to Coimbatore from Karnataka where they were hiding, forest officials told IANS. However, sleuths told IANS that they are on the trial of Naresh who is absconding. The father-son duo was booked by the forest department under Section 9 ( Prohibition of Hunting) of the Wildlife (Protection) Act.']
+
+
+Electrocution----CRIME.CAT
+
+wild elephant----SP.COMMON
+
+TN forest department----AUTH.SEIZE
+
+arrest----CRIME.CAT
+
+Electrocution----CRIME.CAT
+
+wild elephant----SP.COMMON
+
+TN forest department----AUTH.SEIZE
+
+Tamil Nadu forest department----AUTH.SEIZE
+
+arrested----CRIME.CAT
+
+electrocution----CRIME.CAT
+
+wild elephant----SP.COMMON
+
+elephant----SP.COMMON
+
+found dead----CRIME.CAT
+
+morning----TIME
+
+February 12----DATE
+
+arrested----CRIME.CAT
+
+Manoharan----SUS.NAME
+
+57----SUS.AGE
+
+bus stand in Coimbatore----LOC.EXACT
+
+Monday----DATE
+
+morning----TIME
+
+6.30 am----TIME
+
+bus----TRANSPORT_MODE
+
+tip-off----DETECTION_METHOD
+
+Naresh----SUS.NAME
+
+booked----OUTCOME
+
+forest department----AUTH.SEIZE

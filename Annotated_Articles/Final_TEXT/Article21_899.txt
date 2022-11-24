@@ -1,0 +1,47 @@
+
+['2 arrested for attempting to sell baby crocodile\nThey claimed a client wanted to buy the hatchling to keep it as a pet They claimed a client wanted to buy the hatchling to keep it as a pet The C.K. Achukattu police on Thursday cracked another illegal wildlife trade racket and arrested two persons who were allegedly trying to sell a crocodile hatchling to a customer. After receiving a tip-off, a police team led by Inspector P.R. Janardhan rushed to the spot near Eshwari Theatre and caught two men with a plastic can containing a palm-sized crocodile hatchling. The accused have been identified as Abdul Khalid, 32, from Jayanagar and his associate Gangadhar B.S., 32, from Kanakapura. Khalid and Gangadhar allegedly confessed to the police and said they had procured the reptile illegally from the banks of the Cauvery. They brought it to the city after clinching a deal with a client who reportedly wanted to buy the reptile to keep it as a pet. According to the police, while trade of reptiles such as the threatened Indian star tortoise is rampant, it’s rare to see a market for baby crocodiles given that an adult can grow over 10 ft long depending on the species. The rescued hatchling is at Bannerghatta Biological Park, said the police. The two have been booked under various sections of the Wildlife Act and efforts are on to track down the client. In November, in two separate cases, the police rescued 570 Indian star tortoises that were being smuggled to Chennai.']
+
+
+2----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+sell----CRIME.CAT
+
+crocodile----SP.COMMON
+
+C.K. Achukattu police----AUTH.SEIZE
+
+Thursday----DATE
+
+illegal wildlife trade racket----SUS.AFFIL
+
+two----SUS.NUMBER
+
+sell----CRIME.CAT
+
+crocodile----SP.COMMON
+
+tip-off----DETECTION_METHOD
+
+Inspector----OFF.DESIG
+
+P.R. Janardhan----OFF.NAME
+
+near Eshwari Theatre----LOC.EXACT
+
+two----SUS.NUMBER
+
+plastic can----CONCEALMENT_METHOD
+
+Abdul Khalid----SUS.NAME
+
+32----SUS.AGE
+
+Jayanagar----SUS.LOC
+
+Gangadhar B.S.----SUS.NAME
+
+32----SUS.AGE
+
+Kanakapura----SUS.LOC

@@ -1,0 +1,27 @@
+
+["Tiger attacks, kills man in front of wife, mother in Maharashtra; villagers in panic, threaten agitation\nVillagers in Maharashtra's Chandrapur are in panic and terror after a man was mauled to death by a tiger. The victim, 50-year-old Rajendra Arjun Kamdi, had gone with his wife and mother to a forested area to collect wood for a fence. The tiger, lurking in bushes, attacked the man and killed him. When the wife and mother raised an alarm, the wild cat fled from the spot. The incident occurred on June 12 afternoon. The victim, a labourer, was a resident of Halda village in Brahmapuri. The incident created panic among residents of villages in the area. A local leader reportedly threatened an agitation if authorities did not take steps to reduce man-animal conflict. Also Watch| Gujarat: lion attacks, kills 5-yr-old, drags body towards forest before being captured"]
+
+
+Tiger----SP.COMMON
+
+kills----CRIME.CAT
+
+man----SUS.GENDER
+
+Maharashtra----LOC.STATE
+
+Chandrapur----LOC.DISTRICT
+
+50-year-old----SUS.AGE
+
+Rajendra Arjun Kamdi----SUS.NAME
+
+tiger----SP.COMMON
+
+wild cat----SP.COMMON
+
+June 12----DATE
+
+afternoon----TIME
+
+Halda village in Brahmapuri----SUS.LOC

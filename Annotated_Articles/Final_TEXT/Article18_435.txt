@@ -1,0 +1,25 @@
+
+["US: Couple Walking Their Dog Stunned After Black Bear Charges Towards Them; Watch\nA terrifying video has emerged on social media showing a couple and their dog being chased back into their home by a massive black bear. The incident reportedly took place in Florida, US, on Tuesday, when the couple went out for a walk with their dog. The video, which has now gone viral on social media, was caught on a doorbell camera outside the couple's home. The video shows them running toward the house and entering as fast as they can. They are followed by their dog who stops for a while to turn around and bark at something before following them in. “Let's go,” the man is heard saying. “Where is he? Where is he?” asks the woman. It is at this point that a massive black bear can be seen in the camera. Take a look at the video below: Terrifying bear sightings in Florida There would have been several other bear sightings reported in Central Florida in the past weeks, placing residents on alert. Last month, a couple was just about to leave their home when a black bear ran around the corner, forcing the couple to run back inside. Meanwhile, the Florida Fish and Wildlife Conservation Commission (FWC) reported that it receives up to 6,000 bear-related calls annually. The agency added that only 15 incidents of people suffering moderate-to-serious injuries related to a bear encounter have been reported in over 50 years. FWC also advised people to remove or secure any food outside homes, including pet food, and garbage, to avoid attracting bears. As per estimates made by FWC biologists, there are approximately 4,050 black bears in Florida. (Image: Unsplash)"]
+
+
+Couple----SUS.GENDER
+
+Dog----SP.COMMON
+
+Black Bear Charges----SP.COMMON
+
+dog----SP.COMMON
+
+Florida, US----LOC.DISTRICT
+
+Tuesday----DATE
+
+walk----DETECTION_METHOD
+
+doorbell camera----DETECTION_METHOD
+
+bear----SP.COMMON
+
+Florida----LOC.STATE
+
+FWC----AUTH.MISC

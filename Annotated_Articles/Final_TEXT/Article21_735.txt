@@ -1,0 +1,31 @@
+
+['Poachers arrested, country-made gun seized\nPolice on Sunday said they have arrested two poachers in connection with the seizure of a country-made gun. According to the police, a raid was conducted on the house of Perumal (71) near Anthiyur in Erode district on Saturday and the gun seized. Perumal admitted that he, along with his friend Madhan (71), used to poach small animals in the forests nearby, said the police. Following this, the two were arrested. (This story has not been edited by Devdiscourse staff and is auto-generated from a syndicated feed.)']
+
+
+arrested----CRIME.CAT
+
+country-made----ITEM
+
+gun----ITEM
+
+seized----CRIME.CAT
+
+arrested----CRIME.CAT
+
+two----SUS.NUMBER
+
+a----QTY
+
+country-made gun----ITEM
+
+Perumal----SUS.NAME
+
+71----SUS.AGE
+
+Saturday----DATE
+
+gun----ITEM
+
+Madhan----SUS.NAME
+
+71----SUS.AGE

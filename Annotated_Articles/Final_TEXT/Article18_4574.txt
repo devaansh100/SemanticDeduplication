@@ -1,0 +1,31 @@
+
+['[Watch] Baraati Detained For Performing ‘Nagin’ Dance With Live Snake In Odisha’s Mayurbhanj\nBaripada: Five members of a Baraati were detained for carrying a live snake to perform ‘Nagin’ dance during marriage procession in Mayurbhanj district. In order to do something out of box during marriage procession, a groom decided to carry a live snake along with a snake charmer and musicians to play the ‘Nagin’ song in Karanjia town. During the procession to the bride’s place, the snake charmer brought out his basket containing the snake. While the musicians played the song, the snake charmer opened the basket and played the ‘Been’ (musical instrument), moving around with the snake basket on his head. The people accompanying the ‘baraati’ were also seen participating in the dance to the tune of the song from popular Bollywood film ‘Nagin’. [Watch] Baraati Detained For Performing ‘Nagin’ Dance With Live Snake In Odisha’s Mayurbhanj – YouTube However, on being informed about the procession with the live snake, Forest officials from Karanjia reached the spot. They seized the snake and detained the snake charmer and five music players. The Forest officials have registered a case and were questioning the detainees. It may be noted that snakes are protected wild animals under the Wildlife Protection Act, 1972. Hunting and possession of snakes, their body parts and venom are considered punishable under the Act.']
+
+
+Baraati----SUS.NAME
+
+Detained----CRIME.CAT
+
+Nagin’----CRIME.CAT
+
+Snake----SP.COMMON
+
+Odisha----LOC.STATE
+
+Mayurbhanj----LOC.DISTRICT
+
+Five----SUS.NUMBER
+
+snake----SP.COMMON
+
+Mayurbhanj----LOC.DISTRICT
+
+snake----SP.COMMON
+
+basket----CONCEALMENT_METHOD
+
+Snake----SP.COMMON
+
+Forest officials from Karanjia----AUTH.SEIZE
+
+registered a case----OUTCOME

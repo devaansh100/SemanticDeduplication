@@ -1,0 +1,7 @@
+
+['The Wolf And The Crane\nOne day a hungry wolf was eating it’s flesh. All of sudden, one big size bone got stuck in his throat. He started groaning out of pain. His throat was paining. He felt as if he was about to die. He ran around the forest howling in pain. Please help me! I will reward handsomely, any one who remove the bone from my throat. His good luck, he saw a crane. With the lot of difficulty he said, crane crane my friend, please help me. Please take out the bone which has got stuck in my throat. I’ll be grateful to you. I will also reward you. How did this happen to you? I was very hungry and was eating hurriedly. that’s how it got stuck in my throat. Now, will you please help me? I’m in great pain and it’s unbearable. Ok I’ll try my best. So he decided to help him. I will help you but you need to stay still. I’ll look down your throat and then remove the bone. As promised the crane did his job. The jackal heaved a sigh of relief. Friend jackal where is my reward! Reward? What reward, you greedy fellow? You had your head in my throat and instead of eating you up, I let you go unharmed, that should be a reward enough for you. Go away or I’ll crush you. The crane walked away disappointed. Although he felt happy that he had helped in saving someone’s life.']
+
+
+Wolf----SP.COMMON
+
+Crane----SP.COMMON

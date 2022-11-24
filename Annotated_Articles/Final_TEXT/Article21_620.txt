@@ -1,0 +1,51 @@
+
+['Smuggling of 4000 Cubic fit timber foiled, 5 apprehended in Nagaland\nDimapur (Nagaland) [India], August 23 (ANI): Based on an intelligence input on Sunday, Assam Rifles apprehended five individuals and foiled timber smuggling at Jharnapani Village in Dimapur District, Nagaland.  The Assam Rifles recovered 4000 Cubic fit timber worth Rs 60 lakhs from Jharnapani Village. "Assam Rifles based on an intelligence input, on 22 Aug, apprehended five individuals and foiled smuggling of 4000 Cubic fit timber worth Rs 60 Lakhs from Jharnapani Village, Dimapur District, Nagaland", The Assam Rifles said in a tweet. (ANI) ']
+
+
+4000----QTY
+
+Cubic fit timber----SP.COMMON
+
+5----SUS.NUMBER
+
+Nagaland----LOC.STATE
+
+intelligence input----DETECTION_METHOD
+
+Sunday----DATE
+
+Assam Rifles----AUTH.SEIZE
+
+five----SUS.NUMBER
+
+timber----SP.COMMON
+
+Jharnapani Village----LOC.EXACT
+
+Dimapur District----LOC.DISTRICT
+
+Nagaland----LOC.STATE
+
+4000----QTY
+
+Cubic fit timber----SP.COMMON
+
+Rs 60 lakhs----VALUE
+
+Jharnapani Village----LOC.EXACT
+
+intelligence input----DETECTION_METHOD
+
+22 Aug----DATE
+
+five----SUS.NUMBER
+
+4000----QTY
+
+Cubic fit----SP.COMMON
+
+timber----ITEM
+
+Rs 60 Lakhs----VALUE
+
+Jharnapani Village----LOC.EXACT

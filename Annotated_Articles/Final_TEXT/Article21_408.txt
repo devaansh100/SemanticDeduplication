@@ -1,0 +1,33 @@
+
+["Rescued red panda released into wild in Arunachal\nItanagar, June 26: A red panda, rescued recently from a river in Shi-Yomi district of Arunachal Pradesh bordering China, was released back to its natural habitat by forest officials on Saturday. The rare species of the animal was rescued from the Yargyap-Chu river in Mechukha subdivision of the district by Tony Mosing and Takar Kotin Mosu of Mechukha town, who spotted it clinging to a log, forest department sources said. The duo then handed over the red panda to the Mechukha Range Forest Officer (RFO) Tanga Murtem. The exotic animal was successfully released into the wild on Saturday morning, the sources said. As a token of appreciation, the forest department gave cash awards to the rescuers, they said. State Assembly Speaker Pasang D Sona has lauded the efforts of the department and the two men who came to the animal's rescue."]
+
+
+red panda----SP.SPECIFIC
+
+Arunachal----LOC.DISTRICT
+
+June 26----DATE
+
+red panda----SP.SPECIFIC
+
+forest officials----AUTH.SEIZE
+
+Saturday----DATE
+
+Yargyap-Chu river in Mechukha subdivision of the district----ROUTE.SRC
+
+Tony Mosing----OFF.NAME
+
+Takar Kotin Mosu----SUS.NAME
+
+Mechukha town----SUS.LOC
+
+red panda----SP.COMMON
+
+Mechukha Range Forest Officer----AUTH.MISC
+
+Tanga Murtem----OFF.NAME
+
+Saturday----DATE
+
+morning----TIME

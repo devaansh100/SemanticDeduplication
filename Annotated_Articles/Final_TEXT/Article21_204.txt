@@ -1,0 +1,77 @@
+
+['Days later, four more held with second elephant tusk in Uttarakhand\nA joint team of special task force (STF), wildlife crime control bureau and forest department officials on Tuesday arrested four people and recovered an elephant tusk from their possession in Rudrapur area in US Nagar district. This second tusk belongs to the same elephant whose first tusk was recovered from four people held on March 17. Later after questioning the four accused, the carcass of the elephant was spotted at Peepal Parao forest range of Terai Central forest division said officials. Abhilasha Singh, divisional forest officer of Terai Central forest division said acting on a tip-off, a joint team of STF and forest department officials conducted an operation on Rampur road at UP border in Rudrapur area on Tuesday and arrested the four men. “We recovered an elephant’s tusk from them. We also seized a vehicle in which the accused were travelling. The tusk can fetch up to ₹1 crore in the international market,” she said. Abhilasha Singh further said, “This tusk belongs to the same elephant whose tusk was recovered from the four people arrested last week. After the elephant’s carcass was recovered from the Peepal Parao forest range, its second tusk was found to be missing. Since then, we were looking for it.” She said the accused have been identified as Karnail Singh—a resident of Gadarpur, Raju, a resident of Rampur, Ravindra Singh—a resident of Swar Rampur and Kishan Singh, a resident of Lalkuan, Nainital. The four accused are being questioned on how they got this tusk and where they were going to sell it. They are also being questioned on whether they are a part of any wildlife racket, she added. “We have registered a case against the accused under relevant sections of the Wildlife Protection Act, 1972,” she said.']
+
+
+four----SUS.NUMBER
+
+elephant----SP.COMMON
+
+tusk----ITEM
+
+Uttarakhand----LOC.STATE
+
+special task force (STF----AUTH.SEIZE
+
+wildlife crime control bureau----AUTH.SEIZE
+
+forest department officials----AUTH.SEIZE
+
+Tuesday----DATE
+
+arrested----CRIME.CAT
+
+four people----SUS.NUMBER
+
+elephant----SP.COMMON
+
+tusk----ITEM
+
+Rudrapur area----LOC.EXACT
+
+Nagar district----LOC.DISTRICT
+
+March 17----DATE
+
+carcass----ITEM
+
+Abhilasha Singh----OFF.NAME
+
+divisional forest officer----OFF.DESIG
+
+tip-off----DETECTION_METHOD
+
+STF----AUTH.SEIZE
+
+forest department officials----AUTH.SEIZE
+
+Rampur road at UP border in Rudrapur area----LOC.EXACT
+
+Tuesday----DATE
+
+four----SUS.NUMBER
+
+men----SUS.GENDER
+
+an----QTY
+
+elephant’s tusk----ITEM
+
+vehicle----ITEM
+
+Karnail Singh—a----SUS.NAME
+
+Gadarpur----SUS.LOC
+
+Raju----SUS.NAME
+
+Rampur----SUS.LOC
+
+Ravindra Singh—a----SUS.NAME
+
+Swar Rampur----SUS.LOC
+
+Kishan Singh----SUS.NAME
+
+Lalkuan----SUS.LOC
+
+registered a case----OUTCOME

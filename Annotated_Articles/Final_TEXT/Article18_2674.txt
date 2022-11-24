@@ -1,0 +1,39 @@
+
+['Yuck! Doctor finds half-dead lizard in food at Chandigarh mall\nIndia Yuck! Doctor finds half-dead lizard in food at Chandigarh mall Yuck! Doctor finds half-dead lizard in food at Chandigarh mall Written by Srishty Choudhury Jun 16, 2022, 11:56 am 2 min read Chandigarh\'s Health Department has collected samples of the meal for testing (Representational image). After a doctor and his wife found a lizard in a meal from the Sagar Ratna outlet at Chandigarh\'s Nexus Elante Mall on Tuesday, the Health Department of the union territory collected samples from the meal for testing. The couple then reached out to the Chandigarh Police with a complaint about the incident. However, they didn\'t lodge a written complaint. Details Half-dead lizard found on the plate Dr. JK Bansal, 66, a resident of Chandigarh\'s Sector 15, said he and his wife went to the outlet to have dinner at around 8:15 pm. He ordered chhole bhature and had barely eaten half of the meal when they discovered a lizard under the bhature. The couple immediately called for the outlet manager and registered their resentment. Later, the police were also called. Safety and hygiene Elante Mall authorities aware of the incident The spokesperson for the Elante Mall said that the mall authorities were aware of the incident that happened on the premises managed by Ayaan Foods. Talking about the safety and hygiene in the mall, the spokesperson said that they would take all necessary steps to ensure such incidents are avoided. They would also assist the authorities in the food safety audit, they further said. Action \'Samples sent to lab, result in 15 days\' After receiving the information, the food safety authorities of Chandigarh\'s Health Department visited the Sagar Ratna outlet in the mall and collected samples of the meal. "The samples have been sent to a food testing lab and reports will arrive in 15 days," an official said, adding that action will be initiated thereafter against the outlet and all those responsible.']
+
+
+lizard----SP.COMMON
+
+Chandigarh mall----LOC.EXACT
+
+lizard----SP.COMMON
+
+lizard----SP.COMMON
+
+Chandigarh's Health Department----AUTH.SEIZE
+
+collected samples of the meal----OUTCOME
+
+lizard----SP.COMMON
+
+meal----CONCEALMENT_METHOD
+
+Sagar Ratna outlet----LOC.EXACT
+
+Tuesday----DATE
+
+Health Department of the union territory----AUTH.MISC
+
+lizard----SP.COMMON
+
+JK Bansal----SUS.NAME
+
+66----SUS.AGE
+
+Chandigarh----SUS.LOC
+
+8:15 pm----TIME
+
+chhole bhature----CONCEALMENT_METHOD
+
+samples have been sent to a food testing lab----OUTCOME

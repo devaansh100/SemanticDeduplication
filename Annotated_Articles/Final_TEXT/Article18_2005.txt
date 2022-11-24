@@ -1,0 +1,39 @@
+
+['Assam: Three arrested for selling deer meat in Guwahati\nGuwahati: Three persons were apprehended from the Mathgharia area of the city for allegedly selling venison or deer meat. The accused were apprehended by officials of the forest department based on specific inputs. The department seized body parts of the deer from an apartment they were camping in. Also Read: Assam: Zubeen asks people to watch Assamese movies instead of dubbed South Indian films The apprehended persons were identified as Shyam Chandra Rai, Arman Puramanik and Mohammad Sahil. Officials informed that the three will be interrogated to track where they found the deer. They will also be probed to check if they are linked with poaching. Also Read: Assam police arrests Gujarat MLA Jignesh Mevani, likely to be taken to Guwahati today A case was lodged against the, under the Wildlife (Protection) Act, 1972.']
+
+
+Assam----LOC.STATE
+
+Three----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+selling----CRIME.CAT
+
+deer----SP.COMMON
+
+meat----ITEM
+
+Guwahati----LOC.CITY
+
+Three----SUS.NUMBER
+
+Mathgharia area----LOC.EXACT
+
+deer----SP.COMMON
+
+meat----ITEM
+
+forest department----AUTH.SEIZE
+
+specific inputs----DETECTION_METHOD
+
+body parts----ITEM
+
+deer----SP.COMMON
+
+Shyam Chandra Rai----SUS.NAME
+
+Arman Puramanik----SUS.NAME
+
+Mohammad Sahil----SUS.NAME

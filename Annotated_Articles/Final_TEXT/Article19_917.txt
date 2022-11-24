@@ -1,0 +1,15 @@
+
+['Watch Code Name Jackal Full movie Online In HD\nSynopsis Clumsy and off-the-wall hit man Bong Min-jung (Song Ji-hyo) is hired to kill top Hallyu star Choi Hyun (Kim Jaejoong). She ambushes him at Paradise Hotel in Seong-ju where the cops are on a stakeout for serial killer "Jackal". However Min-jung realizes that Hyun is her favorite star, and Hyun finds out that her client is his ex-girlfriend. Then Angela arrives and the two meet Hyun, her boy toy, she is unintentionally stabbed to death by Min-jung. Curious chemistry develops between the two, and he decides to help her.']
+
+
+Bong Min-jung----SUS.NAME
+
+Choi Hyun----SUS.NAME
+
+Kim Jaejoong----SUS.NAME
+
+Paradise Hotel in Seong-ju----LOC.EXACT
+
+serial killer "Jackal"----SUS.AFFIL
+
+Angela----SUS.NAME

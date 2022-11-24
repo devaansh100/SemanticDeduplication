@@ -1,0 +1,27 @@
+
+["Metrovaartha-\nPrasanna Ranatunga Legendary Lankan cricketer Ranatunga's brother sentenced to 2 yrs imprisonment for extortion The younger brother of Sri Lanka's legendary cricketer Arjuna Ranatunga and Sri Lanka's Urban Development Minister Prasanna Ranatunga was on Monday sentenced to two years' rigorous imprisonment for extorting money by threatening a businessman. Colombo | The younger brother of Sri Lanka's legendary cricketer and the 1996 World Cup winning captain was on Monday sentenced to two years' rigorous imprisonment for extorting money by threatening a businessman. The case against Urban Development Minister Prasanna Ranatunga, 55, was filed in 2015. The High Court here convicted Prasanna and sentenced him to two years' rigorous imprisonment, suspended for five years. He was also ordered by the court to pay a fine of Rs 25 million (USD 69,061) rupees and another Rs one million (USD 2,762) as compensation to the businessman. Prasanna's wife, who was also a co-accused, was acquitted of charges. He is the younger brother of the legendary Sri Lankan cricketer Arjuna Ranatunga, under whose captaincy the island nation won the 1996 Cricket World Cup held in India, Pakistan and Sri Lanka."]
+
+
+Prasanna Ranatunga----SUS.NAME
+
+2 yrs imprisonment----OUTCOME
+
+extortion----CRIME.CAT
+
+Arjuna Ranatunga----SUS.NAME
+
+Sri Lanka's Urban Development Minister----SUS.AFFIL
+
+Prasanna Ranatunga----SUS.NAME
+
+Monday----DATE
+
+two years' rigorous imprisonment----OUTCOME
+
+Monday----DATE
+
+two years' rigorous imprisonment----OUTCOME
+
+Urban Development Minister Prasanna Ranatunga----SUS.AFFIL
+
+55----SUS.AGE

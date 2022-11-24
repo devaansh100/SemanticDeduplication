@@ -1,0 +1,61 @@
+
+['Man arrested with 23 turtles in Gurugram\nGurugram, June 25 : A man, who received turtles smuggled from Uttarakhand to Delhi to sell on to customers in Gurugram, has been arrested and 23 turtles seized from him, an official said. The man was identified as Bhavya, 25, a resident of Sector-7, and the turtles were of two different species - ten Indian Tent Turtles and thirteen Black Spotted Pod Turtles. "A team of the Haryana Forest and Wildlife Department had nabbed the accused from MG Road in Gurugram after a tip-off. The accused had received a box containing 23 turtles from a courier boy on Wednesday," a Wildlife Department official in Gurugram said. The accused was also produced before an environment court in Faridabad on Wednesday and it sent him to police custody for further investigation. During interrogation, the accused revealed that he has been involved in the business of smuggling turtles for the past one year, and that a WhatsApp group was also created by the smugglers for this purpose. He said he usually sells one turtle for anything between Rs 3,000 and Rs 5,000. The officer said turtles are in much demand these days as people believe that they bring prosperity. "The accused also revealed that some people, in touch with him, raise turtles as a hobby. Some people buy turtles as they think their presence is auspicious and will bring them a fortune in professional and personal life," he said.']
+
+
+arrested----CRIME.CAT
+
+23----QTY
+
+turtles----SP.COMMON
+
+Gurugram----LOC.CITY
+
+June 25----DATE
+
+turtles----SP.COMMON
+
+Uttarakhand----ROUTE.SRC
+
+Delhi----ROUTE.DEST
+
+Gurugram----LOC.CITY
+
+arrested----CRIME.CAT
+
+23----QTY
+
+turtles----SP.COMMON
+
+seized----CRIME.CAT
+
+Bhavya----SUS.NAME
+
+25----SUS.AGE
+
+Sector-7,----SUS.LOC
+
+turtles----SP.COMMON
+
+ten----QTY
+
+Indian Tent Turtles----SP.SPECIFIC
+
+thirteen----QTY
+
+Black Spotted Pod Turtles----SP.SPECIFIC
+
+Haryana Forest and Wildlife Department----AUTH.SEIZE
+
+MG Road in Gurugram----LOC.EXACT
+
+tip-off----DETECTION_METHOD
+
+23----QTY
+
+turtles----SP.COMMON
+
+Wednesday----DATE
+
+accused was also produced before an environment court in Faridabad on Wednesday and it sent him to police custody for further investigation----OUTCOME
+
+between Rs 3,000 and Rs 5,000----VALUE

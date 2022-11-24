@@ -1,0 +1,91 @@
+
+['Largest global seizure: Forest dept recovers 1,716 sea cucumbers worth ₹4.26 crore\nLakshadweep forest department on Wednesday seized a consignment of 1,716 sea cucumbers weighing 852 kg worth ₹4.26 crore from Suheli, an uninhabited island around 60km away from Kavaratti, Lakshadweep’s capital. Sea cucumbers are single branched marine organisms (invertebrates) and are high in demand across Southeast Asia, mainly China. The country’s premier wildlife investigation agency, Wildlife Crime Control Bureau (WCCB) said this was the largest sea cucumber seizure recorded globally so far, and urged the Interpol to issue a Purple Notice (a category that aids Interpol’s efforts to tackle environment crime and issue notices for criminals hunting wild animals to sell their body parts in international markets). “This has become a grave concern. We asked Interpol to issue a Purple Notice on the modus operandi of this illegal trade in a bid to disseminate the information to other nations about the scale of the trade,” said Tilotama Varma, additional director, WCCB. A Sea Cucumber Protection Task Force (SCPTF) team, recently constituted by the Lakshadweep forest department, acted on a tip-off and made the seizure on Wednesday. “Sea Cucumbers in the consignment were processed by removing their intestinal parts, and kept in a large container with preservatives. They were ready to be exported to Sri Lanka, subsequently to China and other southeast Asian countries,” said Damodhar AT, chief wildlife warden, Lakshadweep. “The sea cucumbers were going to be loaded in a Tamil Nadu registered fishing vessel from Suheli Island, and were further going to be transferred to a Sri Lankan boat at the international border. However, the fishing group received information of our movement and managed to escape, leaving the entire consignmentof 1,716 sea cucumbers worth ₹4.26 crore on board,” added Damodhar. The SCPTF team also recovered weapons used for the crime including 9 catching hooks, one 2.5m harpoon, three knives, collection nets, baskets, 167kg preservatives, 200 litres of kerosene, a GPS set, packing materials etc. “A detailed offence report was filed on Thursday and submitted before a judicial magistrate court in Andrott Island. We have identified several suspects, including local fishermen from the islands based on circumstantial evidence. A thorough investigation is underway,” Damodhar said. However, he pointed that the Lakshadweep administration was not equipped to handle illegal operations of this scale. Only 11 of the 36 islands (across 4 lakh sq km) in Lakshadweep are inhabited and only six forest officers are manning all 11 islands. Following the seizure, WCCB said a team has been dispatched for Lakshadweep to lead the investigation. “Besides collecting intelligence and coordinating operations, WCCB is holding special sensitisation programme for fishermen, coast guards, enforcement agencies at seaports and airports vulnerable to this illegal trade,” said Varma. This is the third major offence within two months. HT had reported on January 15 that 172 sea cucumbers worth ₹1.17 crore were seized, and four persons arrested as part of an international marine animal trafficking syndicate. On January 23, the department arrested an international trade kingpin and seized a consignment of 52 dead sea cucumbers worth ₹5 lakh. Experts explained the importance of these species and why they need to be protected. “These species are ecological indicators for any marine habitat. They enhance the productivity of coral reefs apart from playing a crucial role in the food chain. They maintain overall stability of the ocean sea floor in terms of oxygenation and make other crucial contributions to the community around them,” said E Vivekandan, former chief scientist, Central Marine Fisheries Research Institute. Sea cucumbers are listed under Schedule I of the Wildlife Protection Act (WPA), 1972, akin to the protection garnered to tigers, leopards or elephants. The species is banned from trade or commercial use as it is covered under appendix 1 of the Convention on International Trade in Endangered Species (CITES), to which India is a signatory. A total ban on harvesting sea cucumbers was imposed in 2001 under the WPA by the Union environment ministry. Sea cucumbers are worm like sea creatures that are single branched marine organisms (invertebrates) and are high in demand across Southeast Asia, mainly China, for eating purposes in the form of soup. THE SEA CUCUMBER TRADE Found at the bottom most lagoons and the ocean floor, sea cucumbers can extend from 1.9 centimetres to more than 6 feet (1.8 metres) long. They are listed under Schedule I of the Wildlife Protection Act (WPA), 1972. They cannot be transported in any form for commercial use. A total ban on harvesting of sea cucumbers was imposed in 2001 under the WPA by the Union environment ministry. High in demand across southeast Asia, mainly China, for eating purposes in the form of soup. The cost of 1 kg sea cucumber is around ₹50,000 for local fishermen The illegal trade spreads across different countries. Using Lakshadweep as the source, sea cucumbers are supplied to Kochi, Mumbai, Bengaluru, and then sent across to Sri Lanka, and further to southeast Asian countries, mainly China In India, the Andaman and Nicobar Islands have the maximum varieties of sea cucumbers, followed by Lakshadweep Islands, Gulf of Mannar, Gulf of Kutch, and Palk Bay (between Tamil Nadu and Sri Lanka), and some places along the mainland coasts. DEMAND FOR LAKSHADWEEP MARINE PROTECTION FORCE IN LOK SABHA Following large scale illegal seizures of sea cucumbers from Lakshadweep islands, PP Mohammed Faisal, Member of Parliament, Lakshadweep on Monday submitted a petition to Central government in Lok Sabha for the protection of sea cucumbers and other marine wildlife in Lakshadweep by forming a dedicated marine protection force under the forest department. “Unless a well-equipped dedicated force works round the clock to safeguard the marine species, biodiversity, heritage and ecosystem of Lakshadweep, it will be extremely difficult prevent such large scale organised crime in the Islands. At present, the staff is inadequate in guarding such a huge territory of 4 lakh sq. km in Lakshadweep Islands without any modern logistics, weapons and other equipment, and are risking their life,” the minister wrote in his petition before Lok Sabha. SHARE THIS ARTICLE ON ABOUT THE AUTHOR Badri Chatterjee Badri Chatterjee is an environment correspondent at Hindustan Times, Mumbai. He writes about environment issues - air, water and noise pollution, climate change - weather, wildlife - forests, marine and mangrove conservation ...view detail']
+
+
+Forest dept----AUTH.SEIZE
+
+1,716----QTY
+
+sea cucumbers----SP.SPECIFIC
+
+Lakshadweep forest department----AUTH.SEIZE
+
+Wednesday----DATE
+
+1,716----QTY
+
+sea cucumbers----SP.SPECIFIC
+
+852 kg----QTY
+
+Suheli----LOC.EXACT
+
+tip-off----DETECTION_METHOD
+
+seizure----CRIME.CAT
+
+Wednesday----DATE
+
+large container----CONCEALMENT_METHOD
+
+Sri Lanka----ROUTE.DEST
+
+information----DETECTION_METHOD
+
+1,716----QTY
+
+sea cucumbers----SP.COMMON
+
+weapons----ITEM
+
+9----QTY
+
+catching hooks----ITEM
+
+one----QTY
+
+2.5m----QTY
+
+harpoon----ITEM
+
+three----QTY
+
+knives----ITEM
+
+collection nets----ITEM
+
+baskets----ITEM
+
+167kg----QTY
+
+preservatives----ITEM
+
+200 litres----QTY
+
+kerosene----ITEM
+
+a----QTY
+
+GPS set----ITEM
+
+packing materials----ITEM
+
+international trade kingpin----SUS.AFFIL
+
+52----QTY
+
+LAKSHADWEEP MARINE PROTECTION FORCE----AUTH.SEIZE
+
+LOK----LOC.DISTRICT
+
+illegal seizures----CRIME.CAT
+
+sea cucumbers----SP.SPECIFIC
+
+Lakshadweep islands----LOC.EXACT
+
+PP----OFF.DESIG
+
+Mohammed Faisal----OFF.NAME
+
+Member of Parliament, Lakshadweep----OFF.DESIG

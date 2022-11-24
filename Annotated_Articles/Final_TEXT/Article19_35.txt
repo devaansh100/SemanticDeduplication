@@ -1,0 +1,21 @@
+
+['Leopard found dead near Badamal ordnance factory in Balangir\nTitlagarh: In a matter of concern for environmentalists as well as animal lovers in the state, a leopard was found dead inside the Badamal ordnance factory near here this morning. The incident came to light after some staff of the factory came across the carcass which was lying near Gate no-1 of the factory close to Kalakuta forest this morning. They immediately called up the higher authorities and reported the matter. After forest officials reached the spot and recovered the carcass to send for autopsy, speculations turned rife surrounding a video which surfaced on media a few days back featuring a leopard roaming inside the ordnance factory. However, it was disapproved by the forest officials later by claiming that the Kalakuta area is far away from the place shown in that viral video. While the cause of the death of the leopard is yet to be ascertained, it seems as if the animal fall prey to a trap laid for wild boar. The autopsy report is awaited.']
+
+
+Leopard----SP.COMMON
+
+found dead----CRIME.CAT
+
+Badamal ordnance factory----LOC.EXACT
+
+Balangir----LOC.DISTRICT
+
+leopard----SP.COMMON
+
+found dead----CRIME.CAT
+
+Badamal ordnance factory----LOC.EXACT
+
+this morning----TIME
+
+morning----TIME

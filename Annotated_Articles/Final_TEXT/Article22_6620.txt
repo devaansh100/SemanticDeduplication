@@ -1,0 +1,29 @@
+
+['Leopard enters Mumbai school, rescued by forest dept\nMumbai, Jun 29 (PTI) A leopard was safely rescued from a school in the western suburb of Goregaon here on Wednesday, officials said. The animal had entered a school in Bimbisar Nagar area of Goregaon (east) on Tuesday night and was first spotted by a security guard, they said. The leopard was hiding in the washroom of the school, it was stated. After receiving a distress call, the Mumbai range rescue team of the Thane forest department and a team from Sanjay Gandhi National Park (SGNP) rescued the big cat in the early hours of the day, they said. The animal was tranquilised before being rescued from the premises, as redirecting it to the forests was not possible, they said. The leopard was later shifted to SGNP for medical examination, before being released into the wild. PTI KK ARU ARU This report is auto-generated from PTI news service. ThePrint holds no responsibility for its content.']
+
+
+Leopard----SP.COMMON
+
+Mumbai school----LOC.EXACT
+
+rescued----CRIME.CAT
+
+forest dept----AUTH.SEIZE
+
+leopard----SP.COMMON
+
+Wednesday----DATE
+
+Bimbisar Nagar area of Goregaon (east)----LOC.EXACT
+
+Tuesday----DATE
+
+night----TIME
+
+leopard----SP.COMMON
+
+hiding in the washroom of the school----CONCEALMENT_METHOD
+
+Mumbai range rescue team of the Thane forest department----AUTH.SEIZE
+
+Sanjay Gandhi National Park (SGNP)----AUTH.SEIZE

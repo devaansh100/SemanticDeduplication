@@ -1,0 +1,55 @@
+
+['Odisha: Elephant skeleton found in Satkosia reserve; 3 held, 2 suspended\nANGUL: Satkosia wildlife authorities on Saturday arrested three forest watchers and suspended a forester and forest guard for dereliction of duty in connection with the recovery of skeletal remains of an elephant near the village Satyajayapura under Jilinda range on Friday night.The arrested include Maharda Amanta, Suresh Pradhan, and Pramod Behera and the suspended are Sahadeb Soren (forester) forest guard Anupama Sahu.The skeleton is believed to be more than one year old. It is highly decomposed having no tusk, said a forest officer. “WE had picked some persons in this connection but later arrested three forest watchers. A report has been sent to the government to take action against the range officer as well,” said Satkosia divisional forest officer Saroj Panda.He said they had got an intelligence input that an elephant had been buried somewhere in Jilinda range. “Upon inquiry, we reached the particular site and exhumed the carcass,” Panda added.“It was a skeleton of a male elephant aged about 20 years. We have sent the skeleton samples to Odisha University of Agriculture and Technology (OUAT) for further investigations,” Panda added.Forest officers said further investigation is on into the matter. So far four skeletal remains of elephants have been recovered from different forests divisions under the jurisdiction of Angul regional chief conservator of forests.']
+
+
+Odisha----LOC.STATE
+
+Elephant----SP.COMMON
+
+skeleton----ITEM
+
+Satkosia reserve----LOC.EXACT
+
+3----SUS.NUMBER
+
+Satkosia wildlife authorities----AUTH.SEIZE
+
+Saturday----DATE
+
+arrested----CRIME.CAT
+
+three----SUS.NUMBER
+
+forest watchers----SUS.AFFIL
+
+suspended----OUTCOME
+
+forester----SUS.AFFIL
+
+skeletal remains----ITEM
+
+elephant----SP.COMMON
+
+Satyajayapura under Jilinda range----LOC.EXACT
+
+Friday----DATE
+
+Maharda Amanta----SUS.NAME
+
+Suresh Pradhan----SUS.NAME
+
+Pramod Behera----SUS.NAME
+
+Sahadeb Soren----SUS.NAME
+
+forester)----OFF.DESIG
+
+forest guard----OFF.DESIG
+
+Anupama Sahu.The----OFF.NAME
+
+intelligence input----DETECTION_METHOD
+
+skeleton----ITEM
+
+sent the skeleton samples to Odisha University of Agriculture and Technology (OUAT)----OUTCOME

@@ -1,0 +1,37 @@
+
+['Tirupati: Task Force seizes 38 red sanders logs, 3 held\nTirupati: Red Sanders Anti-Smuggling Task Force (RSASTF) on Friday seized 38 red sanders logs from three different forest areas in Chittoor and Kadapa districts.  In the simultaneous operation in three forest areas following credible information received by Task Force DSP Venkataiah, three smugglers were also arrested. Three Task Force teams which took up combing operations near Srivarimettu forest area, 25 km from here on Friday found the smugglers carrying red sanders logs coming down from the hills in Eethakunta forest area. However, the smugglers after spotting the Task Force personnel ran back into the forests leaving behind the log they were carrying on their heads and escaped taking advantage of darkness and steep hills. In the subsequent searches, the three teams recovered 11 logs from the forest area. In the second operation in the forest area in Veeraballi mandal of Rayachoti area, the Task Force team combing the forests found a group of smugglers carrying red sanders logs on their head and surrounded them. One smuggler was arrested while others managed to escape. In all 14 red sanders logs left behind by the smugglers were recovered in the forest area.']
+
+
+Task Force----AUTH.MISC
+
+seizes----CRIME.CAT
+
+38----QTY
+
+red sanders logs----SP.SPECIFIC
+
+3----SUS.NUMBER
+
+Red Sanders Anti-Smuggling Task Force (RSASTF)----AUTH.SEIZE
+
+Friday----DATE
+
+38----QTY
+
+red sanders----SP.COMMON
+
+logs----ITEM
+
+Chittoor----LOC.DISTRICT
+
+Kadapa----LOC.DISTRICT
+
+information----DETECTION_METHOD
+
+DSP----OFF.DESIG
+
+Venkataiah----OFF.NAME
+
+three----SUS.NUMBER
+
+Friday----DATE

@@ -1,0 +1,11 @@
+
+['Presence of leopard near Ponmudi school poses threat\nThiruvananthapuram: Leopard’s presence near a school in Ponmudi poses threat to the natives. It has been the second instance in which the leopard’s presence is being identified within a week here. The students and teachers informed that paw marks of leopard were found in front of the school on Monday. After spotting six days ago, the parents and students used to arrive at school only in groups. However, the presence of the leopard was confirmed on Monday. Soon they passed the information to the forest department. It was the sweeping staff in the school who saw the leopard in the backyard of the school six days past. They immediately ran and shut themselves in a classroom in the school. Later, the forest guards and Palode AE office staff arrived and inspected the region. The threat of other animals, including bear and wild elephants, have also surged here in the wake of jackfruit season.']
+
+
+leopard----SP.COMMON
+
+Ponmudi school----LOC.EXACT
+
+Leopard----SP.COMMON
+
+Ponmudi----LOC.EXACT

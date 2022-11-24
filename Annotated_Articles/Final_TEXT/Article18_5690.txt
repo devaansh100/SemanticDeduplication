@@ -1,0 +1,71 @@
+
+['Four TN government employees held for helping smuggle red sanders in Andhra\nFour Tamil Nadu state road transport corporation employees were arrested in Andhra Pradesh for helping red sandalwood smugglers. One of the accused was allegedly working closely with dreaded smugglers Damodaran and Sekhar. By Ashish Pandey: In a major crackdown on red sandalwood smugglers, Andhra Pradesh police nabbed four Tamil Nadu government employees while 36 red sandalwood smugglers managed to give the police a slip. The Task Force personnel were conducting vehicle checks at Pakalavaripalli toll plaza on the Puthalapattu-Naidupet national highway on Thursday, February 10. Four Tamil Nadu state transport corporation employees were arrested for helping red sandalwood smugglers. advertisement Ismail (46) is the Vaniyambadi-Vellore driver, Jayashankar (46) is the Vaniyambadi-Vellore conductor, Govinda Swamy (45) is the Vaniyambadi-Vellore extra conductor and Tiruvannamalai Road Transport Corporation (RTC) mechanic, Gunasekharan, (46) were taken into custody for further interrogation. It is alleged that the bus staff used to transport woodcutters from Tamilnadu to Andhra Pradesh at the behest of smugglers. They also used to help them logistically. According to police circle inspector Srinivasan, Gunasekharan was a key person in the smuggling of red sandalwood woodcutters. He was working closely with dreaded smugglers Damodaran and Sekhar. He was smuggling red sandalwood with the help of Tamil Nadu RTC staff. As many as 28 school bags, 3 luggage bags and 8 plastic bags were seized from the Tamil Nadu RTC bus, and a case was registered against them. All the arrested persons were remanded. A manhunt has also been launched to nab the kingpin Damodaran and Sekhar. Also Read: System will run as per Constitution, not Shariat: Yogi Adityanath on Karnataka hijab row --- ENDS ---']
+
+
+Four----SUS.NUMBER
+
+smuggle----CRIME.CAT
+
+red sanders----SP.COMMON
+
+Andhra----LOC.STATE
+
+Four----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+Andhra Pradesh----LOC.STATE
+
+red sandalwood----SP.COMMON
+
+Damodaran----SUS.NAME
+
+red sandalwood smugglers----SUS.AFFIL
+
+Andhra Pradesh police----AUTH.SEIZE
+
+four----SUS.NUMBER
+
+Tamil Nadu government employees----AUTH.SEIZE
+
+36----SUS.NUMBER
+
+red sandalwood smugglers----SUS.AFFIL
+
+Thursday----DATE
+
+February 10----DATE
+
+Four----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+Vaniyambadi-Vellore driver----SUS.AFFIL
+
+Jayashankar----SUS.NAME
+
+46----SUS.AGE
+
+Govinda Swamy----SUS.NAME
+
+45----SUS.AGE
+
+Tiruvannamalai Road Transport Corporation (RTC)----SUS.AFFIL
+
+Gunasekharan----SUS.NAME
+
+46----SUS.AGE
+
+Tamil Nadu RTC staff----AUTH.SEIZE
+
+28----QTY
+
+3----QTY
+
+8----QTY
+
+plastic bags----CONCEALMENT_METHOD
+
+Damodaran----SUS.NAME
+
+Sekhar----SUS.NAME

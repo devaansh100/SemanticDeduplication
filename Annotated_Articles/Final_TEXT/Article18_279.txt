@@ -1,0 +1,69 @@
+
+['Valuable Ambergris (whale vomit) seized in city for first time by foresters\nPersonnel from Forest Department seized Ambergris, commonly called whale vomit or grey amber, from four persons during smuggling in Nagpur on Friday. It is suspected that the material must have been brought from south parts of the country. All four persons were arrested and investigation was focused on how the illegal trade of Ambergris, which was found in the city for the first time, a forest officer said on Saturday. Ambergris is largely used to make perfumes, beauty products and few medicines and is in huge demand in the international market. Ambergris, created by the bile duct of the sperm whale, is often called â€œfloating goldâ€\x9d due to immense price it fetches in the international market for its use in luxury perfumes. Narendra Chandewar, Assistant Conservator of Forest, said, acting on a tip-off about a gang from Nagpur active in trade of Ambergris, forestmen laid a trap in the city and nabbed Arun Gujar (51), Pawan Gajghate (40), Rahul Dupare (56) and Praful Madane (30), all residents of the city and district. They registered an offence under relevant sections of Wildlife Protection Act, 1972. The team seized Ambergris and cellphones from the culprits, informed Chandewar. The laid was trapped under the guidance of Dr Bharat Singh Hada, Deputy Conservator of Forest. Further investigation is being done by Surendra Kale, ACF.']
+
+
+Ambergris----ITEM
+
+whale----SP.COMMON
+
+vomit----ITEM
+
+seized----CRIME.CAT
+
+foresters----AUTH.SEIZE
+
+Forest Department----AUTH.SEIZE
+
+seized----CRIME.CAT
+
+Ambergris----ITEM
+
+whale----SP.COMMON
+
+vomit----ITEM
+
+grey amber----ITEM
+
+four----SUS.NUMBER
+
+smuggling----CRIME.CAT
+
+Nagpur----LOC.CITY
+
+Friday----DATE
+
+south parts of the country----ROUTE.SRC
+
+four----SUS.NUMBER
+
+arrested----OUTCOME
+
+tip-off----DETECTION_METHOD
+
+gang----SUS.AFFIL
+
+Nagpur----SUS.LOC
+
+Arun Gujar----SUS.NAME
+
+51----SUS.AGE
+
+Pawan Gajghate----SUS.NAME
+
+40----SUS.AGE
+
+Rahul Dupare----SUS.NAME
+
+56----SUS.AGE
+
+Praful Madane----SUS.NAME
+
+30----SUS.AGE
+
+city and district----SUS.LOC
+
+registered an offence under relevant sections of Wildlife Protection Act, 1972----OUTCOME
+
+Ambergris----ITEM
+
+cellphones----ITEM

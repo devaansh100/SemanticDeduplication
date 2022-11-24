@@ -1,0 +1,49 @@
+
+['2 poachers arrested with leopard skin in Dehradun\nDEHRADUN: Dehradun police on Wednesday arrested two members of inter-state wildlife poaching and smuggling gang and seized one leopard skin from them.Acting on a tip-off provided by wildlife crime control bureau, a team of Dehradun police nabbed the smugglers, identified as Dharam Singh and Chandar Singh Chauhan , both residents of Dehradun. According to senior superintendent of police Arun Mohan Joshi , “Both were arrested from Anaarwala area of the city with a 8-ft-long leopard skin. Both confessed of killing the leopard near Chakrata last month. They said that they brought the skin to Dehradun for sale.”']
+
+
+2----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+leopard----SP.COMMON
+
+skin----ITEM
+
+Dehradun----LOC.CITY
+
+police----AUTH.SEIZE
+
+Wednesday----DATE
+
+arrested----CRIME.CAT
+
+two----SUS.NUMBER
+
+inter-state wildlife poaching----SUS.AFFIL
+
+smuggling gang----SUS.AFFIL
+
+seized----CRIME.CAT
+
+one----QTY
+
+leopard----SP.COMMON
+
+skin----ITEM
+
+tip-off----DETECTION_METHOD
+
+wildlife crime control bureau----AUTH.SEIZE
+
+police----AUTH.SEIZE
+
+smugglers----SUS.AFFIL
+
+Dharam Singh----SUS.NAME
+
+Chandar Singh Chauhan----SUS.NAME
+
+Dehradun----SUS.LOC
+
+leopard----SP.COMMON

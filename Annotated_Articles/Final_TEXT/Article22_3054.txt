@@ -1,0 +1,23 @@
+
+['Gujarat: Sardar Patel Zoological Park welcomes two lion cubs\nThe Sardar Patel Zoological Park and Jungle Safari at Ekta Nagar — formerly called Kevadia — in Guajrat’s Narmada district on Monday welcomed two Asiatic lion cubs, delivered by a lioness in captivity in the safari. The zoological park announced the birth of the two lion cubs on Tuesday, stating in a release that the lioness had a “stress-free delivery despite the constant inflow of visitors” and the two cubs had “livened up the lion’s cage”. According to the authorities, the gender of the cubs is yet to be determined by experts but both of them and the mother lioness are healthy. The two cubs were born after midnight on Monday. The zoo had recently seen a pair of leopards and deer deliver offspring. Several birds from the aviaries in the safari park also successfully hatched eggs and multiplied in numbers, the release said.']
+
+
+Sardar Patel Zoological Park----AUTH.SEIZE
+
+two----QTY
+
+lion cubs----SP.COMMON
+
+Sardar Patel Zoological Park and Jungle Safari----AUTH.SEIZE
+
+Ekta Nagar----LOC.EXACT
+
+Narmada----LOC.DISTRICT
+
+Monday----DATE
+
+two----QTY
+
+Asiatic lion----SP.SPECIFIC
+
+Monday----DATE

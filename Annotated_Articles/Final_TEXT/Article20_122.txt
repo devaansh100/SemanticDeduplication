@@ -1,0 +1,53 @@
+
+['Two caught with hides of wild animals in Surat\nSURAT: Two men were arrested for trying to sell skin of wild animals in Godadara area of the city on Wednesday.The city crime branch sleuths said they have seized skin of tiger, leopard and deer worth Rs 40 lakh from the duo identified as Aarif alias Aryan Babu Sha (28), a resident of Limbayat and Wasim Sharif Shaikh, a resident of Bandra East in Mumbai. They were arrested from Shiv Krupa Society in Godadara.Police said that the accused were searching for buyers for the wild animal skins."We had specific information about the accused being in possession of animal skins and were searching for buyers. After verification of the facts, the duo were arrested," said a police officer from the crime branch.The accused however, are yet to reveal from where they got the skins and if they were in contact with some of the prospective buyers. "Detailed investigation will be done by forest department," said police.The police will be handing over the custody of the accused duo to the forest department after producing them before court on Thursday. Forest officials too joined police in questioning the accused and examining the skins seized.Skin sent for testingThe sample of the skins recovered will be sent for testing to find if it was real or fake. Wildlife Institute of India Dehradun and Centre for Cellular and Molecular Biology, Hyderabad, are equipped for DNA finger printing to verify if the skin is of wildlife animal or something else. The varification report can take around 15 days time, said a forest official.']
+
+
+Two----SUS.NUMBER
+
+hides----ITEM
+
+wild animals----SP.COMMON
+
+Surat----LOC.CITY
+
+SURAT----LOC.CITY
+
+Two----SUS.NUMBER
+
+men----SUS.GENDER
+
+arrested----CRIME.CAT
+
+skin----ITEM
+
+Godadara area----LOC.EXACT
+
+Wednesday.The----DATE
+
+city crime branch----AUTH.SEIZE
+
+seized----CRIME.CAT
+
+skin----ITEM
+
+tiger----SP.COMMON
+
+leopard----SP.COMMON
+
+deer----SP.COMMON
+
+Rs 40 lakh----VALUE
+
+Aarif----SUS.NAME
+
+Aryan Babu Sha----SUS.NAME
+
+28----SUS.AGE
+
+Limbayat----SUS.LOC
+
+Wasim Sharif Shaikh----SUS.NAME
+
+Bandra East in Mumbai----SUS.LOC
+
+Shiv Krupa Society in Godadara.Police----LOC.EXACT

@@ -1,0 +1,31 @@
+
+["'Poacher' nabbed near Bannerghatta National Park before he could kill animals\nIntensifying vigilance around the Bannerghatta National Park, forest officials on Friday arrested a suspected poacher and recovered from him weapons and other materials used in wildlife hunting. An official identified the suspect as Balaraju, a resident of Thataguppe village, located along Kanakapura Road near the BNP. A court has remanded him in judicial custody. Three other suspects — identified as John, Antony Raju and Naveen — are on the run, said Ganesh V, Range Forest Officer, Ragihalli. Wildlife hunt for meat Raj is a fisheries contractor and had planned to hunt wildlife for meat, Ganesh said, adding the case is unusual in that the suspects were apprehended before they actually killed the animals. A case has been opened under the Wildlife Protection Act, according to the forest official."]
+
+
+Poacher----SUS.AFFIL
+
+Bannerghatta National Park----LOC.EXACT
+
+Bannerghatta National Park----LOC.EXACT
+
+forest officials----AUTH.SEIZE
+
+Friday----DATE
+
+arrested----CRIME.CAT
+
+poacher----SUS.AFFIL
+
+weapons----ITEM
+
+Balaraju----SUS.NAME
+
+Thataguppe village, located along Kanakapura Road near the BNP. A court----SUS.LOC
+
+John----SUS.NAME
+
+Antony Raju----SUS.NAME
+
+Naveen----SUS.NAME
+
+case has been opened under the Wildlife Protection Act----OUTCOME

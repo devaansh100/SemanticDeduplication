@@ -1,0 +1,45 @@
+
+['DRI busts wildlife smuggling syndicate, seizes 22 exotic birds\nKolkata, June 22 The Directorate of Revenue Intelligence has busted a major wildlife smuggling syndicate and seized 22 exotic birds, including the Hyacinth Macaw, illegally brought into the country from Bangladesh, the DRI said on Monday. Other birds seized at the Kolkata airport were Pesquet’s Parrot, Severe Macaw and Hahn’s Macaw, the DRI said in a statement. The cobalt-coloured Hyacinth Macaw is possibly the most stunning of the macaw family, with a ring of bright yellow around its eye and at the base and the corners of its beak, and it is also the largest of all parrots. These birds are protected under the Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES) with Hyacinth Macaw being accorded the highest protection. This makes them more vulnerable to smugglers and DRI says the increasing trend of smuggling of endangered fauna from the world over into India is apparently “driven by the human greed to have such wildlife as exotic pets” in farmhouses. Illegal wildlife trade ranks as the fourth-largest transnational organised crime, after narcotics, counterfeit goods and human trafficking. “West Bengal and Northeast India have become particularly exposed to this type of wildlife smuggling due to the border with Bangladesh and Myanmar along with proximity to Thailand,” the agency said. “There is consequently an urgent need to step up the fight against wildlife crime, which has clear environmental and therefore social and economic impact as well. The possibility of spread of zoonotic diseases on account of smuggling in such exotic species of fauna is increasingly becoming not just a concern for India, but a global concern, in the backdrop of COVID-19,” the DRI said. “Apart from the risk of an ecological disaster that this kind of smuggling entails, increasingly, these can also pose significant health hazards as they are potential harbingers of zoonotic diseases,” it added. The birds, smuggled in through Bongaon area on the Indo-Bangla border and being taken to Bangalore, have been handed over to the Alipore Zoological Garden. The DRI said two Kolkata residents, both under 30 years of age and well-educated, had been arrested in connection with the case. They were aware that these highly endangered birds had been smuggled from the Indo-Bangladesh border, the DRI said. The two face a sentence of up to seven years of imprisonment, it said. “DRI has been over the past few years, frequently conducting wildlife enforcement operations leading to successful interceptions and seizures of such exotic wildlife. Amongst the birds seized in these operations, it does appear that Macaws are an unfortunate favourite of the smuggling syndicates,” it added. PTI']
+
+
+DRI----AUTH.SEIZE
+
+busts----CRIME.CAT
+
+wildlife smuggling syndicate----SUS.AFFIL
+
+seizes----CRIME.CAT
+
+22----QTY
+
+exotic birds----SP.COMMON
+
+Kolkata----LOC.CITY
+
+June 22----DATE
+
+Directorate of Revenue Intelligence----AUTH.SEIZE
+
+wildlife smuggling syndicate----SUS.AFFIL
+
+seized----CRIME.CAT
+
+22----QTY
+
+exotic birds----SP.COMMON
+
+Hyacinth Macaw----SP.SPECIFIC
+
+Bangladesh----ROUTE.SRC
+
+seized----CRIME.CAT
+
+Pesquet’s Parrot----SP.SPECIFIC
+
+Severe Macaw----SP.SPECIFIC
+
+Hahn’s Macaw----SP.SPECIFIC
+
+two----SUS.NUMBER
+
+Kolkata----SUS.LOC

@@ -1,0 +1,7 @@
+
+['A Chinese Pangolin\nA Chinese Pangolin was rescued by one Chanwang Konyak at Satakha town area which was handed over to Tizu Valley Biodiversity Conservation and Livelihood Network and released in the Sukhai Community Conservation Area CCA on June 21. Team leader of the Network, Ivan Zhimomi while acknowledging Chanwang stated that such good gestures towards the endangered species should be followed by the all responsible citizens of the State. Endangered species like Blythe Tragopan, Hornbill, hollock Gibbons, Chinese pangolin and clouded Leopard should be preserved, he added.']
+
+
+Chinese Pangolin----SP.SPECIFIC
+
+Satakha town area----LOC.EXACT

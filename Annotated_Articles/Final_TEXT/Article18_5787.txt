@@ -1,0 +1,69 @@
+
+["Forest dept informer among five held in Maharashtra for poaching leopard\nA forest department informant was among five people arrested in Maharashtra for poaching a leopard. By Press Trust of India: The forest department at Bramhapuri in Maharashtra's Chandrapur district has arrested five persons in connection with the poaching of a leopard, a senior official said. The five accused, including an informer of the forest department, were presented in a local court on Monday, which sent them to magisterial custody remand (MCR) till February 25, he said. advertisement Recently, in a joint operation of Bhandara and Nagpur forest departments, a man was arrested from Bramhapuri tehsil in connection with the poaching of a leopard. Whiskers, 13 nails and 12 canines were recovered from him. The case was later handed over to Bramhapuri forest department. Read | First case of rhino poaching this year: Female rhino killed in Assam's Kaziranga National Park During the course of investigation, the accused - Ranganath Shankar Matere - confessed that the informer, Nandkishore Pimple alias Jayshreeram Maharaj, had allegedly encouraged the accused to poach the leopard for monetary consideration, he added. During the interrogation of Matere, the names of their Kamalkant Gangadhar Kuthe (32), Vijay Devidas Watankar (43), Shivraj Fating (52) came to light, the officer said. He said that the forest department informer confessed that he took money from the four accused on the pretext of doubling their amount through black magic for which he sought the organs of a leopard. Read | Only 1 rhino poaching case in Assam in 2021, lowest in 21 years --- ENDS ---"]
+
+
+five----SUS.NUMBER
+
+Maharashtra----LOC.STATE
+
+poaching----CRIME.CAT
+
+leopard----SP.COMMON
+
+five----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+Maharashtra----LOC.STATE
+
+leopard----SP.COMMON
+
+forest department----AUTH.SEIZE
+
+Bramhapuri----LOC.EXACT
+
+five----SUS.NUMBER
+
+leopard----SP.COMMON
+
+accused, including an informer of the forest department----OUTCOME
+
+forest departments----AUTH.SEIZE
+
+a----SUS.NUMBER
+
+man----SUS.GENDER
+
+arrested----CRIME.CAT
+
+Bramhapuri tehsil----LOC.EXACT
+
+leopard----SP.COMMON
+
+Whiskers----ITEM
+
+13----QTY
+
+nails----ITEM
+
+12----QTY
+
+canines----ITEM
+
+case was later handed over to Bramhapuri forest department----OUTCOME
+
+Ranganath Shankar Matere----SUS.NAME
+
+Nandkishore Pimple----SUS.NAME
+
+Jayshreeram Maharaj----SUS.NAME
+
+32----SUS.AGE
+
+Vijay Devidas Watankar----SUS.NAME
+
+43----SUS.AGE
+
+Shivraj Fating----SUS.NAME
+
+52----SUS.AGE

@@ -1,0 +1,29 @@
+
+['Chandrapur: Tiger kills man collecting firewood in Halada forest\nCHANDRAPUR: A tiger killed a person in Halada forest under South Bramhapuri forest range on Sunday afternoon. Victim Rajendra Kamdi (50) from Halada village had gone to the forest with his wife and son to collect firewood.While the family was busy collecting firewood in compartment no. 1,146, a tiger lurking in the area attacked and killed Rajendra while his family members could only watch in horror. His wife and son fled to the village and informed the foresters.A team of forest officials reached the spot and recovered the mutilated dead body. Forest officials paid ex-gratia aid of Rs20,000 to the kin of diseased. They have alerted villages nearby and warned people against venturing into the forest.This is the 20th human kill in predator attacks this year in the district. Out of these, 15 people have been killed by tigers while remaining five fell victim to leopard attacks.']
+
+
+Tiger----SP.COMMON
+
+kills----CRIME.CAT
+
+man----SUS.GENDER
+
+firewood----SP.COMMON
+
+Halada forest----LOC.EXACT
+
+tiger----SP.COMMON
+
+Halada forest----LOC.EXACT
+
+Sunday----DATE
+
+afternoon----TIME
+
+Rajendra Kamdi----SUS.NAME
+
+50----SUS.AGE
+
+Halada village----SUS.LOC
+
+Rajendra----SUS.NAME

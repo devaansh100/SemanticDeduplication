@@ -1,0 +1,13 @@
+
+['Lucky escape for dog as leopard tries to kill canine in Mumbai\nDec 11, 2019, 07:50PM IST Source: TOI.in A video showing a leopard trying to kill a dog has gone viral on social media. The incident took place near Seepz in Mumbai. Later, the dog luckily managed to escape.']
+
+
+leopard----SP.COMMON
+
+kill----CRIME.CAT
+
+Mumbai----LOC.CITY
+
+leopard----SP.COMMON
+
+near Seepz in Mumbai----LOC.EXACT

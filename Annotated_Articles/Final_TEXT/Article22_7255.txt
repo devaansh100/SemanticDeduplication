@@ -1,0 +1,25 @@
+
+['Woman Trampled To Death By Elephant In Angul\nAngul: A woman was trampled to death by an elephant at the Khairaberini village under the Chhendipada Forest Range. The deceased has been identified as Sailabala Dehury. According to reports, the incident took place while Sailabala was going to her farmland through the village forest in the morning when she fronted an elephant all of a sudden and tried to leap forward. However, the elephant threw her with its tusks and crushed her fiercely. On hearing her screaming, locals rushed to the spot to rescue her but in vain. She died on the spot. On being informed, police and forest officials reached the spot and launched an investigation into the matter.']
+
+
+Woman----SUS.GENDER
+
+Trampled To Death----CRIME.CAT
+
+Elephant----SP.COMMON
+
+Angul----LOC.DISTRICT
+
+woman----SUS.GENDER
+
+trampled to death----CRIME.CAT
+
+elephant----SP.COMMON
+
+Khairaberini village----LOC.EXACT
+
+Sailabala Dehury----SUS.NAME
+
+morning----TIME
+
+elephant----SP.COMMON

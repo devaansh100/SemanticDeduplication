@@ -1,0 +1,31 @@
+
+['Injured barn owl used for tantrik rituals rescued\nVadodara: An owl that was reportedly used for tantrik (black magic) rituals was rescued by the Gujarat Society for Prevention of Cruelty to Animals (GSPCA) and Wildlife-SOS volunteers in the Vadodara city. The barn owl was found injured in the Gotri area on November 4 by the volunteers who took it for medical treatment.According to the GSPCA, one of the owl’s wings was clipped by some unidentified person. “It may be the handiwork of some people who believe in tantrik rituals performed on Kali Chaudas – a day before Diwali. We have given it medical treatment and kept the owl under observation. Once it recovers, it will be released in its natural habitat,” said Raj Bhavsar, secretary, GSPCA.“In India, owls are considered to be the ‘vahana’ or mount of Lakshmi — the goddess of wealth and prosperity— worshipped during Diwali. Many people believe that sacrificing owls in black magic rituals will provide them with favours from the goddess. So many wildlife traffickers trade live owls and owl body parts such as talons, skulls, bones, feathers, meat and blood, which are then used in talismans, black magic and traditional medicines,” said GSPCA volunteers.On the night of November 3, nearly a dozen persons were also booked for sacrificing two goats behind Khaswadi crematorium in Karelibaug.The GSPCA volunteers and forest officials raided the spot after they received a tip-off about the animal sacrifice. They found two dead goats that were buried after performing rituals at the spot.']
+
+
+barn owl----SP.SPECIFIC
+
+owl----SP.COMMON
+
+Gujarat Society for Prevention of Cruelty to Animals----AUTH.SEIZE
+
+GSPCA----AUTH.SEIZE
+
+Wildlife-SOS----AUTH.SEIZE
+
+barn owl----SP.SPECIFIC
+
+Gotri area----LOC.EXACT
+
+November 4----DATE
+
+owl----SP.COMMON
+
+November 3----DATE
+
+GSPCA volunteers----AUTH.SEIZE
+
+forest officials----AUTH.SEIZE
+
+raided----DETECTION_METHOD
+
+tip-off----DETECTION_METHOD

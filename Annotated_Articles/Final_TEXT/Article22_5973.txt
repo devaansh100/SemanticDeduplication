@@ -1,0 +1,23 @@
+
+['Tiger dies in MP’s Panna reserve\nPanna, Jun 9 (PTI) A tiger was found dead in Madhya Pradesh’s Panna reserve on Thursday, a forest official said. The tiger, named P-111, was nearly 13 years’ old. Prima facie, it appears that the feline died due to age-related issues as there was no sign of any illegal activity near the spot where the carcass was found, he said. A forest patrolling team spotted the carcass on the Panna-Katni state highway, he said. It was the offspring of tigress T-1, the official said. The feline’s samples were sent for virology and toxicology testing to ascertain the exact cause of the death, he said. After the autopsy, the carcass was disposed of in the presence of senior forest officials and National Tiger Conservation Authority (NTCA) representatives, he added. As per the All India Tiger Estimation Report 2018, Madhya Pradesh had the highest number of 526 big cats in the country. The state has a number of tiger reserves, including Kanha, Bandhavgarh, Satpura, Pench, Panna and Sanjay-Dubri Tiger Reserve. PTI COR MAS GK GK This report is auto-generated from PTI news service. ThePrint holds no responsibility for its content.']
+
+
+Tiger----SP.COMMON
+
+MP’s----LOC.STATE
+
+Panna reserve----LOC.EXACT
+
+tiger----SP.COMMON
+
+found dead----CRIME.CAT
+
+Madhya Pradesh’s----LOC.STATE
+
+Thursday----DATE
+
+tiger----SP.COMMON
+
+samples were sent for virology and toxicology testing----OUTCOME
+
+National Tiger Conservation Authority (NTCA)----AUTH.MISC

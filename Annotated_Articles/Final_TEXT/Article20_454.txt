@@ -1,0 +1,49 @@
+
+['Two poachers arrested for killing antelope in Nashik\nTwo poachers arrested for killing antelope in Nashik Nashik, Oct 11 (UNI) The Forest department squad has arrested two poachers for allegedly hunting a male antelope in Nandgaon forest reserve of the district. While patrolling on Saturday night at around 0100 hours in Jamdari to Panjan road, a squad of Nandgaon forest range found two people riding suspiciously on a two-wheeler. When the squad tried to stop the poachers, the duo tried to flee away on the vehicle, but the squad gave a chase and arrested them.']
+
+
+Two----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+killing----CRIME.CAT
+
+antelope----SP.COMMON
+
+Nashik----LOC.CITY
+
+Two----SUS.NUMBER
+
+arrested----CRIME.CAT
+
+antelope----SP.COMMON
+
+Nashik----LOC.CITY
+
+Forest department----AUTH.SEIZE
+
+arrested----CRIME.CAT
+
+two----SUS.NUMBER
+
+hunting----CRIME.CAT
+
+a----QTY
+
+antelope----SP.COMMON
+
+Nandgaon forest reserve----LOC.EXACT
+
+patrolling----DETECTION_METHOD
+
+Saturday----DATE
+
+night----TIME
+
+0100 hours----TIME
+
+Jamdari to Panjan road----LOC.EXACT
+
+Nandgaon forest range----AUTH.SEIZE
+
+two----SUS.NUMBER

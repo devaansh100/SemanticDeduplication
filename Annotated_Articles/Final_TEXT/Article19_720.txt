@@ -1,0 +1,17 @@
+
+['Seahorses getting trapped in Sindhudurg estuaries\nOn Sunday, a fisherman from Sindhudurg saw a live seahorse trapped in the net in an estuary. Mumbai: Seahorses have been landing up in the nets of fishermen in Sindhudurg. Experts have stated that fishermen usually discard these marine animals, considering them by-catch, while the species is actually given the same protection given to the tiger under the Wildlife Protection Act, 1972. The presence of seahorses in estuaries is witnessed mostly in winter. On Sunday, a fisherman from Sindhudurg saw a live seahorse trapped in the net in an estuary. While the fishing community stated that there have been similar instances since last month, a live specimen of the hippocampus kuda species was netted this time. Swapnil Tandel, a former researcher with the Central Marine Fisheries Research Institute, who was present at the site, said, “The fishermen have been getting dead seahorses in their catch, which is why they have been discarding them as by-catch. Not many were aware that it is a protected species,” said Mr Tandel. Tatkar Devbag, the fisherman, who caught the seahorse, told The Asian Age that they are mostly found in the estuaries during February and March in Sindhudurg. Seahorses also get caught during non-winter days while fishing in deep waters. “The dead ones, after being dried, are sometimes kept at the entrance of one’s home for good luck. When we find live ones, we release them back into the sea as they do not have any commercial value,” he said. While there are around 40 seahorse species, as per the International Union for the Conservation of Nature, some are considered endangered and are protected by the Conv-ention on International Trade in Endangered Spe-cies of Wild Fauna and Flora. “There is a high demand for seahorses in traditional medicine, aquarium trade and animal décor, making them prone to exploitation globally,” said Mr Tandel.']
+
+
+Seahorses----SP.COMMON
+
+Sunday----DATE
+
+fisherman----DETECTION_METHOD
+
+seahorse----SP.COMMON
+
+Seahorses----SP.COMMON
+
+fisherman----DETECTION_METHOD
+
+seahorse----SP.COMMON

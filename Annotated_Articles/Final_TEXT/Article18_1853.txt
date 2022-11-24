@@ -1,0 +1,39 @@
+
+['STF Rescues Pangolin From Sonepur, Two ‘Poachers’ Detained\nBhubaneswar: The Special Task Force (STF) of the Crime Branch rescued a pangolin during a raid near Dunguripalli Chowk under Dungurpalli police limits in Sonepur district on Saturday night. Two persons Ashok Bisi and Jaykumar Patel who had the animal in their possession were detained by the STF. The STF also recovered other incriminating material from the possession of Bisi and Patel residents of Sankhua and Duduka in Loisingha in Bolangir district. The accused could not produce any authority in support of the Pangolin, for which they have been detained and handed over to Binika Forest personnel under Sonepur Forest Division. “The Pangolin was handed over to DFO, Sonepur for safe custody and an inquiry has been initiated,” an STF official said. The Indian pangolin (Maniscrassicaudata), also called thick-tailed pangolin, scaly anteater and ‘bajrakapta’ in Odia, is a solitary, shy, slow-moving, nocturnal mammal. It is a schedule-I protected animal under Wild Life Protection act, 1972. Schedule I provides absolute protection – offences under these are prescribed for the highest penalties. “The STF initiated a special drive against the wildlife criminals/poachers in 2020, and it still continues. Since 2020, STF has rescued as many as 16 pangolins,” the official added.']
+
+
+STF----AUTH.SEIZE
+
+Rescues----CRIME.CAT
+
+Pangolin----SP.COMMON
+
+Sonepur----LOC.DISTRICT
+
+Two----SUS.NUMBER
+
+Special Task Force (STF) of the Crime Branch----AUTH.SEIZE
+
+a----QTY
+
+pangolin----SP.COMMON
+
+Dunguripalli Chowk under Dungurpalli police limits----LOC.EXACT
+
+Sonepur district----LOC.DISTRICT
+
+Saturday----DATE
+
+night----TIME
+
+Two----SUS.NUMBER
+
+Ashok Bisi----SUS.NAME
+
+Jaykumar Patel----SUS.NAME
+
+Sankhua----SUS.LOC
+
+Duduka----SUS.LOC
+
+Bolangir----SUS.LOC

@@ -1,0 +1,23 @@
+
+['Tiger In Bhopal: Latest News, Videos and Photos of Tiger In Bhopal\nBhopal: Tiger attacks cow on MANIT campus, caught on camera again TNN / Oct 10, 2022, 07:51 (IST) The elusive tiger that has been moving on the MANIT campus for the last seven days, was again caught on camera traps on Sunday. The big cat attacked a cow just 1km away from the administrative building and classrooms but did not kill it.']
+
+
+Tiger----SP.COMMON
+
+Bhopal----LOC.DISTRICT
+
+Bhopal----LOC.DISTRICT
+
+Tiger----SP.COMMON
+
+cow----SP.COMMON
+
+MANIT campus----LOC.EXACT
+
+tiger----SP.COMMON
+
+Sunday----DATE
+
+big cat----SP.COMMON
+
+cow----SP.COMMON

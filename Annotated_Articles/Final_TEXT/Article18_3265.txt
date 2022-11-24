@@ -1,0 +1,7 @@
+
+['Watch: Dolphin attacks trainer at Miami Seaquarium during show; PETA wants facility shut\nIn a scary video viral on social media, a dolphin at the Miami Seaquariam attacked its trainer. Animal rights group PETA claimed that the trainer was forcing the dolphin, named Sundance, to perform, following which she was attacked. In the video, the trainer is thrown around in the water a few times, before she is able to reach the edge and climb out. The trainer was reportedly hospitalised after the incident.  The Miami Seaquariam reportedly claimed that the dolphin and the trainer "accidentally collided" in the water, and the "uncomfortable interaction" led to the dolphin "breaking away from the routine and striking the trainer".  PETA has claimed that the Miami Seaquarium has been found subjecting animals in its care to horrible conditions in the past. The animal rights group has been pitching for shutting down the Seaquarium and sending the animals to seaside sanctuaries.']
+
+
+Dolphin----SP.COMMON
+
+Miami Seaquarium----LOC.EXACT

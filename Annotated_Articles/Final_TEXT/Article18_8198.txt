@@ -1,0 +1,33 @@
+
+["Snake Found On Flight From Kuala Lumpur\nImagine your worst nightmare involving snakes coming to life, then double it. This flight from Kuala Lumpur sure had passengers feeling this way after a snake was found hanging out in the illuminated area of the plane. The Air Asia Airbus A320-200 was headed to Tawau, Malaysia from Kuala Lumpur. The short clip was originally tweeted by Hana Mohsin Khan, a commercial pilot. It's unclear whether she was manning said flight. Yikes! Snake on a plane! Either an escaped pet from passenger carry on/luggage or possibly climbed its way into the aircraft from the ground.  Air Asia Airbus A320-200,Kuala Lumpur to Tawau. This dude happily stayed inside the illuminated area till plane was diverted😂 pic.twitter.com/jqopi3Ofvp — Hana Mohsin Khan | هناء (@girlpilot_) February 12, 2022 Summing up exactly how any sane person would feel about snakes and planes, and snakes on planes, here's how these users reacted: Id have lost it and run off the flight. Good lord thr site of it freaked me out.  😳😳😳😳😳 — Jeevika (@jeevika_shiv) February 12, 2022 I would freak out!! — Sadho (@sadhosays) February 12, 2022   I hope Hissss flight was comfortable. — TheBoringGuy (@NurulQuamar) February 12, 2022     Meanwhile, a man in Maryland, U.S., is said to have accidentally set his house on fire in an attempt to rid it of snakes. According to CNN, the man was trying to use smoke from burning coal to draw his slithery friends out of his house. Instead, the 10,000-square foot house was up in flames leaving the helpless guy with a $1 million bill from damage. For the latest from trending, click here."]
+
+
+Snake----SP.COMMON
+
+Flight----TRANSPORT_MODE
+
+Kuala----LOC.EXACT
+
+Lumpur----LOC.EXACT
+
+flight----TRANSPORT_MODE
+
+Kuala----ROUTE.SRC
+
+Lumpur----ROUTE.SRC
+
+snake----SP.COMMON
+
+Air Asia Airbus A320-200----TRANSPORT_MODE
+
+Tawau, Malaysia----ROUTE.DEST
+
+Kuala----ROUTE.SRC
+
+Lumpur----ROUTE.SRC
+
+Hana Mohsin Khan----OFF.NAME
+
+commercial pilot----OFF.DESIG
+
+Maryland----LOC.STATE

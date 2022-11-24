@@ -1,0 +1,39 @@
+
+['Mumbai: 43-year-old motorist run over by taxi on Sea Link while trying to save kite\nThough devastated by the loss, the family does not want any action against the taxi driver, against whom a case has been registered by the Worli police Illustration/Uday Mohite In a tragic accident, a 43-year-old man was killed in an accident after he stopped on the Bandra Worli Sea Link to save a kite, which had crashed into his car. As Amar Manish Jariwala picked up the injured bird, a kaali peeli rammed into him, and he died on the spot. Though devastated by the loss, the family does not want any action against the taxi driver, against whom a case has been registered by the Worli police.  Amar Manish Jariwala Amar, a resident of Nepean Sea Road in south Mumbai, was travelling to Malad via the sea link when the accident happened on Monday. His driver, Shayam Sundar Kamat, was also injured and is currently undergoing treatment. He had stopped after a kite flew into the window of his vehicle. Amar came out of the car to check on the bird, and Kamat also accompanied him. However, a running taxi rammed into them, killing Amar on the spot.  Amar was travelling to Malad via Bandra Worli Sea Link Speaking with mid-day Amar’s father Manish Jariwala said, “My son was a Jivdaya [a person having compassion for living beings] and he was always helping birds and animals. When a kite crashed into his car, he asked his driver to stop and got out. As Amar picked up the hurt bird, a taxi hit him and he died on the spot. Kamat was also injured.” “Amar and Kamat were rushed to Lilavati Hospital. Both their hearts had stopped, but doctors were able to revive only Kamat. His condition is still serious and he is on oxygen support,” Manish added.  When a kite (a representation picture) crashed into his car’s window. File pic “When my son and his driver came out of the car to save the bird, none of the passing cars stopped. We saw it on the CCTV cameras installed on the sea link,” Manish pointed out. “We do not want the police to charge the taxi driver. I have already lost my son, and do not want the family of the taxi driver to also suffer. We will forgive him,” said the father. Amar lived with his father Manish, mother Shobhaben Jariwala, wife Reena and two daughters Prisha and Kiya. His final rites were conducted on Tuesday. May 30 Day Amar Jariwala died']
+
+
+Mumbai----LOC.CITY
+
+43-year-old----SUS.AGE
+
+kite----SP.COMMON
+
+43-year-old----SUS.AGE
+
+man----SUS.GENDER
+
+kite----SP.COMMON
+
+Amar Manish Jariwala Amar----SUS.NAME
+
+Nepean Sea Road in south Mumbai----SUS.LOC
+
+Monday----DATE
+
+Shayam Sundar Kamat----SUS.NAME
+
+Amar----SUS.NAME
+
+Manish----SUS.NAME
+
+Shobhaben Jariwala----SUS.NAME
+
+Reena----SUS.NAME
+
+Prisha----SUS.NAME
+
+Kiya----SUS.NAME
+
+May 30 Day----DATE
+
+Amar Jariwala----SUS.NAME

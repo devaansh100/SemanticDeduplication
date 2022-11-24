@@ -1,0 +1,71 @@
+
+['In Bengal, more than 500 endangered turtles seized from UP smugglers\nMore than 500 endangered turtles were seized near a Kolkata railway station on Saturday morning by personnel of the Wildlife Crime Control Bureau (WCCB) of the Union ministry of environment, forests and climate change and the West Bengal forest department from two smugglers belonging to Sultanpur in Uttar Pradesh. The team seized 519 Indian softshell turtles, two Peacock softshell turtles and two Gangetic softshell turtles. The Peacock softshell turtle figures in the Red List of the International Union for Conservation of Nature (IUCN) as ‘threatened species’. The smugglers were travelling in the Purvanchal Express and wanted to take the turtles to Basirhat in North 24 Parganas district, said Agni Mitra, deputy director, WCCB (eastern region). The train travels between Gorakhpur and Kolkata. The smugglers were identified as Jain Kumar, 40, and Sunil Kanjar, 23. Smuggling of endangered turtles, which are considered a delicacy in some parts of Bengal and Bangladesh, has become a cause for concern for the Central agency, especially because smugglers have started using innovative methods. In a first, families travelling with women and children from UP were caught red-handed on February 1. They were carrying around 650 Indian softshell turtles in their luggage and school bags. WBCCB arrested 14 men and eight women, making it the biggest arrest in recent history. There were several children in the group. The families posed as common travellers to evade suspicion. The arrested people said they were to sell the turtles at Rs 300 a kilo. The raids are being carried out on a regular basis as part of Operation Turtshield, a new Central programme to protect endangered turtles. On January 12, the officers seized 983 Indian flap-shell turtles and two Indian peacock softshell turtles from a market at Bongaon in North-24 Parganas. In January 2019, more than 1,700 Indian flap-shell turtles were seized in back to back raids in Bengal, while being smuggled from Uttar Pradesh and Andhra Pradesh. These, too, were seized in North-24 Parganas.']
+
+
+Bengal----LOC.STATE
+
+500----QTY
+
+turtles----SP.COMMON
+
+seized----CRIME.CAT
+
+UP----LOC.STATE
+
+500----QTY
+
+turtles----SP.COMMON
+
+seized----CRIME.CAT
+
+Kolkata railway station----LOC.EXACT
+
+Saturday----DATE
+
+morning----TIME
+
+Wildlife Crime Control Bureau (WCCB)----AUTH.SEIZE
+
+West Bengal forest department----AUTH.SEIZE
+
+two----SUS.NUMBER
+
+Sultanpur----SUS.LOC
+
+519----QTY
+
+Indian softshell turtles----SP.SPECIFIC
+
+two----QTY
+
+Peacock softshell turtles----SP.SPECIFIC
+
+two----QTY
+
+Gangetic softshell turtles----SP.SPECIFIC
+
+Jain Kumar----SUS.NAME
+
+40----SUS.AGE
+
+Sunil Kanjar----SUS.NAME
+
+23----SUS.AGE
+
+February 1----DATE
+
+650----QTY
+
+Indian softshell turtles----SP.SPECIFIC
+
+WBCCB----AUTH.SEIZE
+
+14----SUS.NUMBER
+
+men----SUS.GENDER
+
+eight----SUS.NUMBER
+
+women----SUS.GENDER
+
+Rs 300 a kilo----VALUE

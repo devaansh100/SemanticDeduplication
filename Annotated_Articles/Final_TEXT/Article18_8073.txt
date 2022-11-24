@@ -1,0 +1,39 @@
+
+['Leopard Strays Into Nashik City, Injures 75-yr-old Before Capture\nNASHIK: Residents of the Jai Bhawani Road neighbourhood, in the Nashik Road area, were in for a shock on Monday morning. For almost six-and-a-half hours, a leopard that had strayed into this densely populated locality kept running from one place to another — even injuring a senior citizen — before hiding itself under a parked car within the compound of a bungalow.The leopard was finally tranquilised and rescued from under the car by the forest department personnel around 2 pm.Vast farm sections spread around the city, including the Nashik Road area, and human habitats getting closer and closer to the forest areas have led to an increase in the number of cases of wild cats straying into the city. Pankaj Garg , the Nashik West deputy conservator of forests, said, “Leopards often move along the boundaries of forests and human habitats. They usually come into human habitats to catch prey and quickly return to the forests. Conflict occurs when any leopard cannot find its way back.”That is exactly what happened in Sadguru Nagar , along Jai Bhavani Road, which has a vast Army area.A group of morning walkers from Sadguru Nagar first spotted the leopard around 7.30 am. They raised an alarm and chaos ensued. As people shouted and screamed, the bewildered animal too kept running from one place to another trying to find a way out.“We got a call about a leopard being spotted at 9 am. It took us more than five hours to rescue the leopard. But the operation was successful. With the exception of one person, no one suffered injuries. The three-year-old male leopard was tranquilised and then shifted to the forest department’s nursery in Gangapur, where it is kept under observation. The leopard is fine and will be released in the forest area soon,” GargA heavy bandobast had to be maintained by the police who had a tough time controlling the crowd. The rescue operation got over by 2 pm.Lakshika Sharma, a resident of the area, said she came to know of the leopard at 8 am when her domestic help did not turn up for work, and instead telephoned to say there is a leopard on the prowl. Sharma said people bolted their gates to prevent the animal from entering their homes.Archana Sonar, another resident, said she was on the terrace of her bungalow and shouting at her elderly neighbour to get inside his house. “Within a few seconds, the leopard leapt from one corner of the bungalow and ran to the other side.”The neighbour, 75-year-old Sudhir Kshatriya , who was outside the compound gate fell down when the leopard jumped over him. “I suffered injuries from his claws on my stomach and hands. Before I could understand anything, the animal was gone,” said Kshatriya. This happened around 11.30 pm.Garg said, “Nashik has a good forest cover and sugar cane fields around it. Currently, the leopard breeding season is on, and some leopards are giving birth in the sugar cane fields. At the same time, encroachments into the forest areas are also taking place. This is creating a conflict situation.”Last year, there was one death caused by a leopard on the outskirts of Nashik city.']
+
+
+Leopard----SP.COMMON
+
+Nashik----LOC.CITY
+
+Injures----CRIME.CAT
+
+Jai Bhawani Road neighbourhood----LOC.EXACT
+
+Nashik Road area----LOC.EXACT
+
+Monday----DATE
+
+morning----TIME
+
+leopard----SP.COMMON
+
+bungalow.The----LOC.EXACT
+
+leopard----SP.COMMON
+
+leopard----SP.COMMON
+
+7.30 am----TIME
+
+call----DETECTION_METHOD
+
+9 am----TIME
+
+leopard----SP.COMMON
+
+75-year-old----SUS.AGE
+
+Sudhir Kshatriya----SUS.NAME
+
+11.30 pm.Garg----TIME

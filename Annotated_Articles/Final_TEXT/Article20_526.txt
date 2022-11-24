@@ -1,0 +1,29 @@
+
+['Pangolin headed for Chinese wet market rescued in West Bengal\nShubhadeep Choudhury Tribune News Service Kolkata, November 23 The COVID-19 pandemic and its catastrophic consequences have failed to douse the Chinese appetite for pangolin. A pangolin, which would have in all likelihood ended in the notorious wet markets of China where exotic animals including pangolins are sold for consumption, was on Sunday rescued by the personnel of the 34th Battalion of SSB and West Bengal Forest Department near Chilakhana in Cooch Behar district of West Bengal. One person was arrested in this connection and a motorbike used for transporting the creature has been confiscated, official sources here said. A number of studies have suggested that pangolin---the only scaled mammal found in the world---may have played a key role in passing the novel coronavirus to humans. “That scaly, anteater-like animals called pangolins are the missing link for SARS-CoV-2 transmission between bats and humans,” a recent paper published by American Chemical Society researchers said. A wet market in Wuhan in China, having a section for live and slaughtered wild animals, is stated to be the source of COVID-19. Wildlife Crime Control Bureau (WCCB) had provided the intelligence on the basis of which the SSB and WB Forest Department acted and netted the pangolin trafficker near Cooch Behar on Sunday. WCCB officials said while flesh of pangolin is considered a delicacy in China, its scales are also used for traditional Chinese medicines. Pangolin is a schedule I species under the Wildlife Protection Act, like the tiger, and international trade in their parts is banned under CITES (the Convention on International Trade in Endangered Species of Wild Fauna and Flora) treaty. They were reclassified from Appendix II to I in the CITES sometime back. Close to 6,000 pangolins have been trafficked from India to China and Southeast Asia between 2009 and 2017, says a report of TRAFFIC (The Wildlife Trade Monitoring Network) India. According WCCB officials, pangolins from India are smuggled first to Myanmar through the Indo-Myanmar border in north-east, and from there it travels to China. The reopening of the Chinese wet markets has given rise to fresh demand for pangolin in China, the sources said.']
+
+
+Pangolin----SP.COMMON
+
+West Bengal----LOC.STATE
+
+pangolin----SP.COMMON
+
+Sunday----DATE
+
+rescued----CRIME.CAT
+
+34th Battalion of SSB and----AUTH.SEIZE
+
+West Bengal Forest Department----AUTH.SEIZE
+
+Chilakhana----LOC.EXACT
+
+Cooch Behar district----LOC.DISTRICT
+
+West Bengal----LOC.STATE
+
+One----SUS.NUMBER
+
+a----QTY
+
+motorbike----ITEM

@@ -1,0 +1,25 @@
+
+['Hog deer rescued\nHog deer rescued IMPHAL, Apr 23 : One hog deer was rescued from Wangoo Ahallup Mayai Leikai, today. Reportedly, the hog deer was found taking shelter at a rice mill at Wangoo Ahallup Mayai Leikai. After rescuing the animal, the locals of Wangoo Ahallup Mayai Leikai communicated with the Forest officials and members of Environmental Social Reformation and Sangai Protection Forum and released the deer to the rescue centre being set up at Keibul Lamjao National Park.']
+
+
+Hog----SP.SPECIFIC
+
+deer----SP.COMMON
+
+Hog----SP.SPECIFIC
+
+deer----SP.COMMON
+
+One----QTY
+
+hog deer----SP.SPECIFIC
+
+Wangoo Ahallup Mayai Leikai----LOC.EXACT
+
+today----DATE
+
+deer----SP.COMMON
+
+Forest officials----AUTH.SEIZE
+
+Environmental Social Reformation and Sangai Protection Forum----AUTH.SEIZE

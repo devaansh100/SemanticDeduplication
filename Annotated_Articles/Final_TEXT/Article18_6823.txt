@@ -1,0 +1,15 @@
+
+['Caught on cam: Tigers battle in MP’s Pench National Park\nFeb 16, 2022, 10:35AM IST Source: TOI.in A video of two full-grown tigers battling it out has gone viral on social media. The video was reportedly shot in Madhya Pradesh’s Pench National park. Wildlife enthusiasts on a safari captured the incident on camera.']
+
+
+Tigers----SP.COMMON
+
+MP’s----LOC.STATE
+
+Pench National Park----LOC.EXACT
+
+Feb 16, 2022----DATE
+
+Madhya Pradesh’s----LOC.STATE
+
+Pench National park----LOC.EXACT

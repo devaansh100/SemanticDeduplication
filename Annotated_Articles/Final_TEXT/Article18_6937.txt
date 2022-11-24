@@ -1,0 +1,21 @@
+
+['Nagpur: Tiger cub rescued, kept under observation in Goregaon forest range\nNAGPUR: The four-month-old tiger cub that was found on Thursday in Garada under Goregaon forest range in Gondia division was rescued in a late-night operation and has been kept in the range office under observation.As reported by TOI, the incident has caused a flutter in the forest department when the fragile cub was noticed by villagers near a canal. The cub was just watched but was not rescued by the RFO and his team till it vanished in the forest in the evening.At night, the cub is reported to have entered a poultry farm in the Ramatola area from where it was rescued and shifted to the Goregaon range office. Generally, tigresses are very protective about the cubs and never leave such small cubs alone.Chief conservator of forests (CCF) P Kalyan Kumar , Nagpur circle, said, “The cub is under medical examination and veterinarians are monitoring its health parameters. We will monitor the cub for a couple of days.”“Meanwhile, extensive camera trapping is being done to trace the location of the tigress. Once we establish the location, the future course of action will be taken to reunite the cub with its mother,” said Kalyan Kumar.According to forest sources, the cub is moving solitary for the last 15 days. “It was recorded with its mother 15-20 days ago in Rengepaar on the fringes of Nagzira wildlife sanctuary. Since then, it is moving alone and whereabouts of the mother are not known.”Gondia deputy conservator of forest (DyCF) Kulraj Singh said the cub is in good condition and 10 teams have been formed to trace the tigress. A local committee has been formed as per the NTCA SoP to monitor the cub and the situation arising out of it.']
+
+
+Nagpur----LOC.DISTRICT
+
+Tiger cub----SP.COMMON
+
+rescued----CRIME.CAT
+
+tiger cub----SP.COMMON
+
+Thursday----DATE
+
+rescued----CRIME.CAT
+
+late-night----TIME
+
+RFO----OFF.DESIG
+
+evening----TIME

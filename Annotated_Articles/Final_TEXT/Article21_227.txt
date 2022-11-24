@@ -1,0 +1,53 @@
+
+["4 held, 46 red sanders logs seized in Andhra's Chittoor district\nTIRUPATI: Red sanders anti-smuggling task force arrested four Tamil Nadu-based woodcutters and seized 46 red sanders logs during a combing operation inside the Seshachalam forests near Talakona in Chittoor district on Friday.Two teams of task force personnel undertook combing operations near Nerabailu and Talakona on Friday morning. The teams spotted a group of about 50 people carrying red sanders logs.They tried to abandon the logs and abscond but the cops arrested four woodcutters identified as Venkata Raman (32), Settu Kumaran (20), Babu Kalai Arasan (26) and Annamalai Ramasamy (33)."]
+
+
+4----SUS.NUMBER
+
+46----QTY
+
+red sanders----SP.COMMON
+
+logs----ITEM
+
+Andhra's Chittoor district----LOC.DISTRICT
+
+Red sanders----SP.COMMON
+
+anti-smuggling task force----AUTH.SEIZE
+
+arrested----CRIME.CAT
+
+four----SUS.NUMBER
+
+Tamil Nadu-based----SUS.LOC
+
+46----QTY
+
+red sanders----SP.COMMON
+
+logs----ITEM
+
+Seshachalam forests----LOC.EXACT
+
+Chittoor----LOC.DISTRICT
+
+Friday.Two----null
+
+woodcutters----SUS.AFFIL
+
+Venkata Raman----SUS.NAME
+
+32----SUS.AGE
+
+Settu Kumaran----SUS.NAME
+
+20----SUS.AGE
+
+Babu Kalai Arasan----SUS.NAME
+
+26----SUS.AGE
+
+Annamalai Ramasamy----SUS.NAME
+
+33----SUS.AGE

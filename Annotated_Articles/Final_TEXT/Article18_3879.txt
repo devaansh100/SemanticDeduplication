@@ -1,0 +1,15 @@
+
+['Angry elephant smashes windshield of Tamil Nadu bus, driver maintains his cool [Viral Video]\nViral: Video of angry elephant chasing off Safari jeep sure to send chills down your spine Angry elephant smashes windshield of Tamil Nadu bus, driver maintains his cool [Viral Video] India oi-Deepika S Chennai, Apr 06: Not everyone can keep calm when a wild elephant charges towards you. But this Kerala State Road Transport Corporation driver did just that and the internet is all praise for him. The incident occurred at around 4pm when the bus was on its way to Munnar. In the video, the driver can be seen keeping calm inside the bus as the elephant kept approaching. The jumbo struck the windshield glass with its trunk, while the passengers onboard take out their mobiles to click photos and videos of the wild elephant. "Don\'t know who is the driver of this Government Bus but he is certainly Mr Cool. The way he handled the supervision check by Mr Elephant it was like business as usual between them. video shared by K.Vijay," tweeted Sahu, Additional Chief Secretary of Environment Climate Change and Forests in Tamil Nadu. Don\'t know who is the driver of this Government Bus but he is certainly Mr Cool 😎The way he handled the supervision check by Mr Elephant it was like bussiness as usual between them. 😊 video shared by K.Vijay #elephants #noconflict pic.twitter.com/WHxQStNv7K — Supriya Sahu IAS (@supriyasahuias) April 6, 2022 The video is a hit on social media, garnering thousands of views. Netizens praised the driver for his presence of mind. Wonderful post Supriya. Great to see lovely Man-Animal interactions. He looked real curious. — Krsna (@narayan_krs) April 6, 2022 Driver has guts really! I wouldn’t have done this … scary!! But beautiful to watch !😊 — Prem (@Premtwt) April 6, 2022 Scary moment. We also came across such a moment in Corbett long back against small Maruti 800. — Gyaneshwar Gupta (@GyaneshwarGup18) April 6, 2022 For Breaking News and Instant Updates Allow Notifications Story first published: Wednesday, April 6, 2022, 19:05 [IST]']
+
+
+elephant----SP.COMMON
+
+Kerala State Road Transport Corporation----AUTH.SEIZE
+
+4pm----TIME
+
+bus----TRANSPORT_MODE
+
+Supriya Sahu----OFF.NAME
+
+IAS----OFF.DESIG

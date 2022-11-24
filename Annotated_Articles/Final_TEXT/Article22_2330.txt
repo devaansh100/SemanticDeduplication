@@ -1,0 +1,29 @@
+
+['Lizard found in rice served to kids at anganwadi\nBy Express News Service TIRUVANNAMALAI: A lizard was reportedly found in the food served to five children at an Anganwadi centre on Monday. The incident took place at the centre located at Paramananthal in Chengam, Tiruvannamalai.  The Anganwadi houses over 25 students and two staff members - a teacher and a cook. On Monday, only five of them, two boys and three girls, were present.  One of the children\'s grandmother spotted a lizard in the food and raised a complaint, police sources said. The children--all under five years of age--were immediately taken to a government hospital for a check-up. However, they did not develop any reaction to the food, said the police sources.  "We have collected food samples and sent them to the Food Safety Department for analysis," B Kandhan, Project Officer, Integrated Child Development Services (ICDS), told TNIE. He said that an inquiry was launched into the matter and the staff members were questioned.  The health condition of five children who ate the rice was normal, said the ICDS officer. Further probe is on. TIRUVANNAMALAI: A lizard was reportedly found in the food served to five children at an Anganwadi centre on Monday. The incident took place at the centre located at Paramananthal in Chengam, Tiruvannamalai. The Anganwadi houses over 25 students and two staff members - a teacher and a cook. On Monday, only five of them, two boys and three girls, were present. One of the children\'s grandmother spotted a lizard in the food and raised a complaint, police sources said. The children--all under five years of age--were immediately taken to a government hospital for a check-up. However, they did not develop any reaction to the food, said the police sources. "We have collected food samples and sent them to the Food Safety Department for analysis," B Kandhan, Project Officer, Integrated Child Development Services (ICDS), told TNIE. He said that an inquiry was launched into the matter and the staff members were questioned. The health condition of five children who ate the rice was normal, said the ICDS officer. Further probe is on.']
+
+
+Lizard----SP.COMMON
+
+rice----CONCEALMENT_METHOD
+
+anganwadi----LOC.EXACT
+
+lizard----SP.COMMON
+
+Monday----DATE
+
+Paramananthal in Chengam, Tiruvannamalai----LOC.EXACT
+
+Monday----DATE
+
+food samples and sent them to the Food Safety Department----OUTCOME
+
+lizard----SP.COMMON
+
+Monday----DATE
+
+Paramananthal in Chengam, Tiruvannamalai----LOC.EXACT
+
+Monday----DATE
+
+collected food samples and sent them to the Food Safety Department----OUTCOME

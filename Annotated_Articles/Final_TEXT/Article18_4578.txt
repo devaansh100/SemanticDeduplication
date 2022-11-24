@@ -1,0 +1,81 @@
+
+['Two ‘cattle smugglers’ killed in Assam ambush after being arrested from UP\nGuwahati/Lucknow: Two cattle smugglers from Meerut in Uttar Pradesh, who had been arrested and brought to Assam, were killed in an alleged ambush by militants Monday night in Assam’s Kokrajhar district, the police said. The two smugglers – brothers Akbar Banjara and Sameem Banjara – allegedly had links to militant groups and ran an international cattle smuggling racket. “A magisterial enquiry has already been ordered,” Kokrajhar Deputy Commissioner Varnali Deka said. UP police had tweeted on 15 April saying they had “busted a gang of inter-state cow smugglers who ran an international syndicate till Bangladesh”. An Assam police had handed over a reward of Rs 2 lakh to Meerut police for the arrest. According to an Indian Express report, Kokrajhar SP Prateek Thube said the duo were arrested by UP Police on 13 April and then handed over to Assam Police. He also said investigation revealed that the two had links to militant groups and there were multiple cases against them. Who were the accused According to Meerut police, a truck was apprehended on April 11 by Phalawda police and a special operations group that was being used by cow smugglers – identified as Phalawda (in Meerut district) resident Babu Khan and Jalandhar native Ranjit. On the same day, Meerut SSP Prabhakar Chaudhary said that the animals recovered were “of cow progeny”. Chaudhary added that four other accused – Phalawda natives Akbar Banjara, Sameem Banjara and Salman Banjara, and Muzaffarnagar native Iqbal – had fled the spot, and possibly taken the animals for slaughter. While Babu Khan and Ranjit were sent to jail, a Crime Branch team along with a team from the Meerut police continued to track the four absconding men. Akbar, Salman and Sameem were apprehended from Meerut’s Jailchungi area last Wednesday. A Dainik Jagran report stated that Akbar owned property worth crores in Phalawda and a farmhouse in Assam along the Bangladesh border. Also read: Uttar Pradesh: Cow smuggling syndicate busted, 5 held How the duo was brought to Assam Meerut police sources confirmed that police subsequently ran a background check and discovered that Akbar and Salman had several cases lodged against them in Assam. The Meerut police contacted its counterpart in Kokrajhar to inform them about the arrest. On 15 April, a team led by an SP-rank officer from Assam took the accused into their custody after a transit remand was issued from a local court. UP police said that Akbar had been running a cow smuggling racket across the northeast and UP along with another cattle smuggler Ravi Reddy. Earlier this month, a cattle smuggler was killed and another injured during an alleged exchange of gunfire in Assam’s Dhubri district. Last year, at least two cattle smugglers were among those killed in alleged police shootings in various parts of the state. Last month, Assam Chief Minister Himanta Biswa Sarma informed the state assembly that a total of 29 people had been killed and 96 people injured in police shootings since he took charge in May 2021. Also read: Assam: Truck with 35 cattle heads seized in Biswanath, five arrested']
+
+
+Two----SUS.NUMBER
+
+Assam----LOC.STATE
+
+UP----SUS.LOC
+
+Two----SUS.NUMBER
+
+Meerut----SUS.LOC
+
+Monday----DATE
+
+night----TIME
+
+Assam----LOC.STATE
+
+Kokrajhar----LOC.DISTRICT
+
+Akbar Banjara----SUS.NAME
+
+Sameem Banjara----SUS.NAME
+
+truck----TRANSPORT_MODE
+
+April 11----DATE
+
+Phalawda----SUS.LOC
+
+Babu Khan----SUS.NAME
+
+Jalandhar----SUS.LOC
+
+Ranjit.----SUS.NAME
+
+SSP----OFF.DESIG
+
+Prabhakar Chaudhary----OFF.NAME
+
+Phalawda----SUS.LOC
+
+Akbar Banjara----SUS.NAME
+
+Sameem Banjara----SUS.NAME
+
+Salman Banjara----SUS.NAME
+
+Muzaffarnagar----SUS.LOC
+
+Babu Khan----SUS.NAME
+
+Ranjit----SUS.NAME
+
+sent to jail----OUTCOME
+
+Crime Branch team----AUTH.SEIZE
+
+Meerut police----AUTH.SEIZE
+
+Akbar----SUS.NAME
+
+Salman----SUS.NAME
+
+Sameem----SUS.NAME
+
+5----SUS.NUMBER
+
+Truck----TRANSPORT_MODE
+
+35----QTY
+
+cattle heads----ITEM
+
+seized----CRIME.CAT
+
+Biswanath----LOC.EXACT
+
+five----SUS.NUMBER

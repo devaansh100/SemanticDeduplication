@@ -1,0 +1,89 @@
+
+["Sleuths rescue three dozen exotic animals, reptiles from passenger's luggage at Chennai airport- WATCH\nAmong those rescued were iguanas (Representative Image) | Photo Credit: BCCL Key Highlights Among the animals rescued are two marmosets and three red-handed tamarins A total of 21 primates, rodents and reptiles were rescued during the operation They were kept in plastic baskets concealed inside the passenger's stroller Chennai: Security personnel deployed at the Chennai International Airport busted a racket of smugglers seeking to transport exotic animals on Tuesday. The matter came to light as the result of a watch out that had been issued earlier for passengers with suspicious cargo. A total of three individuals have been booked and arrested under relevant sections of the Wildlife Protection Act. Based on a tip-off, officers identified a man who flew in from Bangkok. Suspicious behaviour led to airport security personnel urging the man to stay back for a thorough baggage check. During the inspection, they found four plastic baskets and one cardboard box kept hidden between clothes and other personal items. Inside the baskets were rodents, monkeys, and reptiles. Among the animals rescued are marmosets, red-handed tamarins, tricolour squirrels, and iguanas. A total of 21 exotic animals and reptiles were recovered from the passenger's stroller. When questioned, he claimed that someone handed him the stroller outside the Bangkok airport and asked him to deliver it to a local contact in Chennai. A total of three men have been booked in connection with their links to the smuggling racket. Meanwhile, the seized animals and reptiles have been handed over to customs officials and are likely to be returned to their country of origin. Personnel attached with the Wildlife Control Bureau (WCCB) were informed about the recovery and veterinarians from the Arignar Anna Zoological Park were summoned to check on the health of the animals and reptiles rescued at the Chennai International Airport. Officers also reportedly rescued two Prevost's squirrels, one of whom was found dead along with two black and red eastern grey squirrels. While some of them are protected under Convention on International Trade in Endangered Species (CITES) Appendix II, others are not listed under CITES or the Wildlife Protection Act."]
+
+
+Sleuths----AUTH.SEIZE
+
+three dozen----QTY
+
+exotic animals----SP.COMMON
+
+reptiles----SP.COMMON
+
+Chennai airport-----LOC.EXACT
+
+iguanas----SP.SPECIFIC
+
+two----QTY
+
+marmosets----SP.SPECIFIC
+
+three----QTY
+
+red-handed tamarins----SP.SPECIFIC
+
+21----QTY
+
+primates----SP.COMMON
+
+rodents----SP.COMMON
+
+reptiles----SP.COMMON
+
+rescued----CRIME.CAT
+
+plastic baskets----CONCEALMENT_METHOD
+
+concealed inside the passenger's stroller----CONCEALMENT_METHOD
+
+Chennai----LOC.CITY
+
+Security personnel----AUTH.SEIZE
+
+Chennai International Airport----LOC.EXACT
+
+Tuesday----DATE
+
+three----SUS.NUMBER
+
+tip-off----DETECTION_METHOD
+
+man----SUS.GENDER
+
+Bangkok----ROUTE.SRC
+
+plastic baskets----CONCEALMENT_METHOD
+
+cardboard box----CONCEALMENT_METHOD
+
+rodents----SP.SPECIFIC
+
+monkeys----SP.SPECIFIC
+
+reptiles----SP.COMMON
+
+marmosets----SP.SPECIFIC
+
+red-handed tamarins----SP.SPECIFIC
+
+tricolour squirrels----SP.SPECIFIC
+
+iguanas----SP.SPECIFIC
+
+21----QTY
+
+exotic animals----SP.COMMON
+
+three----SUS.NUMBER
+
+seized animals and reptiles have been handed over to customs officials and are likely to be returned to their country of origin----OUTCOME
+
+WCCB----AUTH.MISC
+
+two----QTY
+
+Prevost's squirrels----SP.SPECIFIC
+
+two----QTY
+
+eastern grey squirrels----SP.SPECIFIC

@@ -1,0 +1,7 @@
+
+['Indian Kite Market News\nProtected birds and animals still being sold at Murgi Chowk TNN / Dec 09, 2019, 04:51 (IST) Filled with pet stores that cram hundreds of exotic birds and animals into cages, Murgi Chowk, a bustling pet market in Old City, continues to flourish in Hyderabad despite regulations and raids by the police and forest department.']
+
+
+Murgi Chowk----LOC.EXACT
+
+forest department----AUTH.SEIZE

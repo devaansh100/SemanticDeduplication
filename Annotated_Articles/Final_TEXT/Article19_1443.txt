@@ -1,0 +1,25 @@
+
+['Pet Dog Saves Couple From Two Tigers In Madhya Pradesh\nShare Recently, a brave pet dog saved his owners’ lives by squaring off against two tigers in a forest area of Mandla district in Madhya Pradesh. The couple named Kunjiram Yadav and his wife Phoolwati were attacked by a tiger, but their brave dog came in between and saved the couple from the tigers. The best thing is that the dog made it out alive as well. According to sources, the couple entered the buffer zone of Kanha with their pet dog in order to find their missing cow. By the time they were in Jhangul beat, the daylight was waning off. They were around 100mts in, when they saw their cow being guarded by two tigers as their kill. They told foresters that the tigers kept snarling at them for some time. Then, seeing that the couple was not backing down, the tigers leapt at them. Yadav took the brunt of the initial flurry of claws, but then his pet dog jumped in. It stood between the couple and the tigers, barking furiously. The tigers were taken aback by the dog’s ferociousness. The dog charged the tigers and they stepped back. This gave time to the couple to run back. The dog soon joined the couple after a few minutes. “Seeing a dog for the first time, tigers got confused. The dog apparently forced the two tigers to retreat,” forest officials told media after hospitalising Yadav and his wife. A forest officer said the tigers were confused probably because they were seeing a dog for the first time. “Wild dogs in the jungle don’t bark. So, they may have been surprised,” he said. Yadav received several stitches for his injuries. Reference- TOI']
+
+
+Pet Dog----SP.COMMON
+
+Saves----CRIME.CAT
+
+Couple----SUS.NUMBER
+
+Two----SUS.NUMBER
+
+Tigers----SP.COMMON
+
+Madhya Pradesh----LOC.STATE
+
+tigers----SP.COMMON
+
+Madhya Pradesh----LOC.STATE
+
+Kunjiram Yadav----SUS.NAME
+
+Phoolwati----SUS.NAME
+
+tiger----SP.COMMON

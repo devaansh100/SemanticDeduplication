@@ -1,0 +1,61 @@
+
+['Smuggled sand boa snake seized in Pune; two held\nThe police arrested two men late on Sunday for smuggling a sand boa serpent, an endangered species for sale in the city at Rs 9lakh. The arrested men have been identified as Saurabh Jadhav (21), a resident of Pisoli in Haveli and Kalidas Chavan, according to the police. One other person is on the run in the case. Hawaldar Mahesh Mandalik of Sahakarnagar police station had received information that two people arriving with a rare kind of sand boa snake for sale in the city. A trap was set around 10pm on Sunday near an open ground in Dhankawadi where the two were expected. Forest official Ganesh Sarode was called for assistance and the reptile was seized from the arrested man’s possession. Jadhav arrived at the spot around 10pm on a two-wheeler registered in Pune. “Upon inspection of the storage of the vehicle, a white bag was found. In the bag was a black coloured serpent around three feet long and 2kg weight. Upon questioning Saurabh Jadhav, he revealed that he intended to sell the sand boa for Rs 9,00,000 in Pune,” read a statement from Arun Vaykar, senior police inspector of Sahakarnagar police station. Based on Jadhav’s interrogation, Chavan was arrested. A case under relevant sections of the Wildlife Protection Act, 1972 was registered at Sahkarnagar police station.']
+
+
+sand boa snake----SP.SPECIFIC
+
+seized----CRIME.CAT
+
+Pune----LOC.CITY
+
+two----SUS.NUMBER
+
+two----SUS.NUMBER
+
+men----SUS.GENDER
+
+late----TIME
+
+Sunday----DATE
+
+smuggling----CRIME.CAT
+
+a----QTY
+
+sand boa serpent----SP.SPECIFIC
+
+Rs 9lakh----VALUE
+
+Saurabh Jadhav----SUS.NAME
+
+21----SUS.AGE
+
+Pisoli in Haveli----SUS.LOC
+
+Kalidas Chavan----SUS.NAME
+
+information----DETECTION_METHOD
+
+two----SUS.NUMBER
+
+sand boa snake----SP.SPECIFIC
+
+10pm----TIME
+
+Sunday----DATE
+
+Ganesh Sarode----OFF.NAME
+
+10pm----TIME
+
+two-wheeler----TRANSPORT_MODE
+
+white bag----CONCEALMENT_METHOD
+
+2kg weight----QTY
+
+Saurabh Jadhav----SUS.NAME
+
+sand boa----SP.COMMON
+
+case under relevant sections of the Wildlife Protection Act, 1972 was registered at Sahkarnagar police station----OUTCOME

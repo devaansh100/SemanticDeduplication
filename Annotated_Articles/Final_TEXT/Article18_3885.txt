@@ -1,0 +1,19 @@
+
+['Karnataka: Jumbos run amok in Kodagu and Hassan\nTusker raids rice warehouse in Hassan MADIKERI/ HASSAN: A herd of elephants has raided villages in Igooru and surrounding areas, and has camped at the coffee estates there, where they have damaged crops.The villagers and labourers working in the estate are fearful of moving outside their houses due to this. The elephants are roaming around in the coffee estates at Kajuru, Igooru, Covercolli, Yedavare and Sajjalli villages. The elephants walk on the highways during the day, as if they are one among the villagers. Vehicle users, especially two-wheeler riders, are fearful that they may be attacked. On Thursday, some elephants caused heavy damage at the entrance of a Tata coffee estate. They broke open the front gate of the estate, and entered inside. The forest department has dug trenches and installed solar fences in many places. The elephants have devised going through alternative routes, to circumvent the man-made blockades. The elephants are damaging farms in addition to coffee estates, said farmer S L Ramesh.Panic prevailed at the Primary Agricultural Credit Society ( PACS ) in Anugutta in Belur taluk, Hassan, when a tusker barged into the building in the early hours of Friday. The tusker left the place in a state of mess. Deputy conservator of forests KN Basavaraju said that the odour of the fermentation that sets in on rice stored for long attracts the elephants, owing to the smell resembling that of alcohol. "This is the first such incident in the region. I have directed our officers to raise awareness among the locals and officials to spray chilli powder on the stored crops, to deter elephants," he added. As many as five sacks of rice were ripped open by the elephant. A complaint has been registered with the forest department.']
+
+
+Karnataka----LOC.STATE
+
+Jumbos----SUS.AFFIL
+
+Kodagu----LOC.DISTRICT
+
+Hassan----LOC.DISTRICT
+
+Hassan----LOC.EXACT
+
+herd of elephants----SUS.AFFIL
+
+Igooru----LOC.EXACT
+
+Friday----DATE

@@ -1,0 +1,9 @@
+
+["Watch: Angry orangutan attacking a man in Indonesiaʼs zoo, netizens express heat over internet\nA panic situation prevailed at Indonesia's Kasang Kulim Zoo where an angry orangutan attacked a man. When another person came to help him out, the orangutan tried to pull his shirt too. According to local reports, zoo officials have claimed that the man had crossed the fence that separated the animal's cage from the visitors. The video of the incident that has gone viral shows the orangutan grabbing the man by his t-shirt first but when a friend tries to pull the man away, the ape grabs the man by his leg. A tug of war then ensues to free the man from the orangutan's grip.  ALSO WATCH: Bihar teacher sleeps during class, student fans her | Watch"]
+
+
+orangutan----SP.COMMON
+
+Kasang Kulim Zoo----LOC.EXACT
+
+orangutan----SP.SPECIFIC

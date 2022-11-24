@@ -1,0 +1,29 @@
+
+['Seventh Wild Leopard Dies in N Bengal in 2 Months\nSiliguri: Yet another wild leopard has died in north Bengal in mysterious circumstances. The latest death has been reported from Chuapara tea garden at Kalchini in Alipurduar district, which is adjacent to the Buxa Tiger Reserve. The carcass of the adult leopard was found on Tuesday afternoon (19 February) lying in a dried up water irrigation drain that runs amidst the tea bushes. There were no visible injury marks in its body. Forest depart retrieved the carcass today and sent it for post-mortem. It is suspected that the leopard may have been poisoned by someone associated with the tea garden as wild leopards tend to attack workers.']
+
+
+Wild Leopard----SP.COMMON
+
+Bengal----LOC.STATE
+
+wild leopard----SP.COMMON
+
+Bengal----LOC.STATE
+
+Chuapara tea garden at Kalchini in Alipurduar district----LOC.EXACT
+
+Buxa Tiger Reserve----LOC.EXACT
+
+carcass----ITEM
+
+leopard----SP.COMMON
+
+Tuesday----DATE
+
+afternoon----TIME
+
+19 February----DATE
+
+Forest depart----AUTH.MISC
+
+leopard----SP.COMMON

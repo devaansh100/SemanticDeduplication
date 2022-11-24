@@ -1,0 +1,15 @@
+
+['Monkey menace keeps villagers indoors in Yadgir\nKalaburagi: Villagers of Gurusanagi in Yadgir district have stopped venturing out of their homes and children have stopped playing outdoors for the last couple of months. Gabbar Singh is not who they fear, but a troop of nearly 60 monkeys.The monkeys camp in the village most of the time and have bitten residents and stolen food from homes. Nayeem Mallevale , a villager, said: “We are fed up with the monkeys. There is panic every day. We step outside with lathis to protect ourselves.” He said the monkeys had bitten several people in the leg, arms and face. Children and the elderly were easy targets.Another villager, Saibanna Pujari , said: “We have told the forest department, requesting them to put the police here to stop to monkey menace.” He added that sometimes the monkeys entered houses and took away rotis. “When we tried to stop them, they attacked us immediately.”The villagers said that sometimes the animals disappeared for a couple of days but returned. “When they disappear, people start to sit outside their houses together. When they hear the sound of the monkeys, immediately we run inside,” said another villager. “Children cannot play.”The villagers have requested the Yadgir district administration as well as the forest department for help.']
+
+
+Monkey----SP.COMMON
+
+Yadgir----LOC.DISTRICT
+
+Gabbar Singh----SUS.NAME
+
+troop----SUS.AFFIL
+
+monkeys.The monkeys----SUS.AFFIL
+
+forest department----AUTH.MISC

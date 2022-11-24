@@ -1,0 +1,11 @@
+
+['Leopard Died By Falling In Well In Chikhalthan In Aurangabad\nLeopard Died By Falling In Wel In Chikhalthan Aurangabad']
+
+
+Leopard----SP.COMMON
+
+Chikhalthan----LOC.EXACT
+
+Aurangabad----LOC.DISTRICT
+
+Leopard----SP.COMMON

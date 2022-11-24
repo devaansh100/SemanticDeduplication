@@ -1,0 +1,55 @@
+
+['Indore: Four red sand boa smugglers arrested, sent to court\nRepresentative Photo | (Photo Credits: Wikipedia) Indore (Madhya Pradesh): Four smugglers with red sand boa were arrested and sent to court in the Choral Range on Thursday. They were sent to remand. A team of the State Tiger Strike Force (STSF) from Indore division reached the spot to arrest the smugglers. The forest department and STSF teams had been informed by the local range officer. The four smugglers had captured the red sand boa from the city’s outskirts and were planning to sell it for a good amount. A non-venomous snake, the red sand boa is protected under Schedule IV of the Wild Life Protection Act of 1972. Chief conservator of forests (CCF) HS Mohanta said that the snake, widely believed to have ‘supernatural powers’, had no proven medicinal value and that people were cheated in the name of black magic by tantrics, some of whom even promised to shower money. Officials running awareness programmes in villages often say, ‘If the snakes were to make us rich or powerful, I guess all the forest officers should be millionaires as we tend to come across boa snakes almost daily’. On Wednesday, some sources informed the forest officials about illegal smuggling of red sand boa in the Choral range. The local forest team, led by forest ranger Ravi Kumar Jain, raided the spot and caught the three smugglers red-handed. They were later identified. The main smuggler is Arjun, who is the son of Rasmay Gine, and is known to be a local Choral resident. Another accused was Chagan, son of Sewaram. He, along with Ranjeet, son of Hari Singh, was arrested from the Choral Dam area. According to forest officials, Chagan and Ranjeet are Bengali doctors. The fourth accused is Santosh, son of Gurudutt Rai, and a resident of Mhow. The smugglers said they had an offer to sell it for Rs 150,000. Supernatural powers? Considered one of the most harmless snakes, sand boas are captured due to the superstition that they possess supernatural powers. This is mainly attributed to its ‘double-headed’ appearance for which it is called ‘do muha’ in Hindi. Their appearance has made them a soft target for poaching and illegal trading, as with owls. They are used in black magic, and even in the name of esoteric science Read Also Bhopal: HomeTown found guilty of unfair trade practice under Sales of Goods Act']
+
+
+Four----SUS.NUMBER
+
+red sand boa----SP.SPECIFIC
+
+arrested----CRIME.CAT
+
+Madhya Pradesh----LOC.STATE
+
+Four----SUS.NUMBER
+
+red sand boa----SP.SPECIFIC
+
+arrested----CRIME.CAT
+
+Thursday----DATE
+
+State Tiger Strike Force (STSF)----AUTH.SEIZE
+
+forest department----AUTH.SEIZE
+
+illegal smuggling----CRIME.CAT
+
+red sand boa----SP.SPECIFIC
+
+local forest team----AUTH.SEIZE
+
+forest ranger----OFF.DESIG
+
+Ravi Kumar Jain----OFF.NAME
+
+raided----DETECTION_METHOD
+
+three----SUS.NUMBER
+
+Arjun----SUS.NAME
+
+Chagan----SUS.NAME
+
+Sewaram----SUS.LOC
+
+Ranjeet----SUS.NAME
+
+Choral Dam area----SUS.LOC
+
+Bengali----SUS.NAT
+
+Santosh----SUS.NAME
+
+Mhow----SUS.LOC
+
+Rs 150,000----VALUE

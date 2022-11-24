@@ -1,0 +1,15 @@
+
+['WCCB India on Instagram: "A joint operation conducted by WCCB/NR in association with U.P Forest Dept. on 10-11-2021, resulted in seizure of two Red Sand Boa Snakes and arrest of one wildlife trafficke\n']
+
+
+WCCB/NR----AUTH.SEIZE
+
+U.P Forest Dept----AUTH.SEIZE
+
+seizure----CRIME.CAT
+
+two----QTY
+
+Red Sand Boa Snakes----SP.SPECIFIC
+
+one----SUS.NUMBER

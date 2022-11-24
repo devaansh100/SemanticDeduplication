@@ -1,0 +1,21 @@
+
+["Elusive 'Telangana Veerappan' lands in police dragnet\nHYDERABAD: Elusive timber smuggler Yedla Srinu also dubbed ‘ Telangana Veerappan ’, who is wanted by forest and police of Telangana , Maharashtra and Chhattisgarh , finally landed in the police dragnet on Tuesday. Four members of his gang, which has been smuggling timber for the past 20 years, were also nabbed.“Srinu’s modus operandi was not different from sandalwood smuggler Veerappan’s,” a police officer said. Several MLAs, sarpanches, police and forest officials, including district forest officers (DFOs), were on his payroll, claimed police officers, who have identified timber stock points using drones and geo-tagged areas where the gang operated.Ramagundam police commissioner V Satyanarayana said the 42-year-old smuggler managed to prevent his capture, so far, due to political support. “He would evade arrest by bribing police and forest officials. After we began a crackdown on smugglers, Srinu went underground,” he said.Srinu, a native of Potharam in Peddapalli district, laid low and took shelter in Hyderabad, Vijayawada, Warangal, Guntur, Agency areas in Badrachalam and Araku. He even changed his SIM frequently to avoid being tracked.He had founded Mayuri Fertilisers in 1999, but gave up after his business ran into losses. “He then began smuggling timber. His gang gradually spread its tentacles across Karimnagar, Adilabad and Warangal before expanding to neighbouring Maharashtra and Chhattisgarh. Twelve cases have been registered against him since 1999. The gang has ravaged reserve forests in Mahadevpur, Guduru of Manthani and Adavi Mutharam,” Satyanarayana said.The modus operandi of the accused was to form three separate modules, comprising 20 to 30 members each. “One team fells and attacks officials and villagers who stand up to them, another takes care of shifting the timber from forest to plain areas using different modes of transport. The third team will shift the goods from the plain areas to towns and cities in vehicles with a pilot vehicle always moving ahead to give information about police and forest checking,” the commissioner said.Police discovered that around 2,000 bullock carts were used for smuggling wood and 50 persons were found helping him. Canals and rivers were also used for transport of the smuggled timber. The culprits change number plates of vehicles used for smuggling five to six times from the loading point to destination. The Ramagundam police have identified that 10 sawmills, including Sairam Sawmills, Sri Balaji Sawmills in Godavarikhani of Telangana and S Narayana Reddy Sawmills in Erraguntapalem, Prakasam district of Andhra Pradesh, were procuring illegal teakwood from Srinu."]
+
+
+Telangana Veerappan----SP.SPECIFIC
+
+timber----SP.COMMON
+
+Yedla Srinu----SUS.NAME
+
+Telangana Veerappan----SP.COMMON
+
+Tuesday----DATE
+
+Four----SUS.NUMBER
+
+gang----SUS.AFFIL
+
+teakwood----SP.COMMON
+
+Srinu----ROUTE.TRANSIT

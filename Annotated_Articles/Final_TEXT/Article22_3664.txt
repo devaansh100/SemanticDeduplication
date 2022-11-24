@@ -1,0 +1,25 @@
+
+['Video of forest officer catching cobra goes viral: Roshni catches snakes using scientific methods\nThiruvananthapuram: Beat Forest Officer Roshni GS doesn’t usually allow people to capture videos or photos of her catching snakes. But someone took one in Kattakkada. This video soon went viral on social media. Roshni, a member of the Rapid Response Team at the Paruthipalli Range Office in Thiruvananthapuram, caught the cobra using scientific methods. Roshni and her team arrived at the house in Kattakkada after receiving information that a cobra was spotted there. The cobra was caught using the tools used for catching snakes, put in a sack and later released into the forest. Roshni joined the force as a Beat Forest officer in 2017. The forest department in 2019 provided training on how to catch snakes safely. Roshni has caught many snakes, including python and viper since then. She says that snakes most often get trapped in human-inhabited areas. Snakes that are caught are safely transported to their habitat. The forest department has provided the tool kit required to catch snakes. The kit includes a bag, PVC pipe and hook. Roshni sought the transfer to the Rapid Response Team, which rescues and rehabilitates wild animals. She is currently working at the Paruthipalli Range Office.']
+
+
+forest officer----AUTH.SEIZE
+
+cobra----SP.COMMON
+
+Roshni----OFF.NAME
+
+snakes----SP.COMMON
+
+Beat Forest Officer----OFF.DESIG
+
+Roshni GS----OFF.NAME
+
+Kattakkada----LOC.EXACT
+
+Rapid Response Team at the Paruthipalli Range Office----AUTH.SEIZE
+
+Kattakkada----LOC.EXACT
+
+information----DETECTION_METHOD
+
+sack----CONCEALMENT_METHOD
