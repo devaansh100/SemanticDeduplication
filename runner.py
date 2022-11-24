@@ -7,7 +7,7 @@ class Runner:
 	def __init__(self, train_dl, test_dl, files = None):
 		self.train_dl = train_dl
 		self.test_dl = test_dl
-		self.files = None
+		self.files = files
 
 	def save_model(self, model, name, epoch):
 		checkpoint = {
@@ -66,7 +66,7 @@ class Runner:
 
 		os.makedirs(f'{params.data_dir}/Final_POS', exist_ok = True)
 		for i, article in enumerate(articles_gen):
-			with open(f'{params.data_dir}/Final_POS/{self.files[i]}') as f:
+			with open(f'{params.data_dir}/Final_POS/{self.files[i].split("/")[-1].replace(".conll", ".txt")}', 'w') as f:
 				f.write(article)
 
 	def train(self, model, params):
@@ -105,7 +105,7 @@ class RunnerContrastive(Runner):
 
 	def send_to_cuda(self, batch):
 		for loss_set in batch:
-			for key in loss_set:
+			for key in batch[loss_set]:
 				batch[loss_set][key] = batch[loss_set][key].cuda()
 		return batch
 

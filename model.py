@@ -1,6 +1,7 @@
 import torch
 import torch.nn as nn
 from transformers import T5TokenizerFast, T5ForConditionalGeneration
+from transformers import DistilBertTokenizer, DistilBertModel
 
 class PositiveGenerator(nn.Module):
 	def __init__(self):
@@ -59,10 +60,12 @@ class PositiveGenerator(nn.Module):
 class ContrastiveModel(nn.Module):
 	def __init__(self):
 		super(ContrastiveModel, self).__init__()
-		self.tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
+		self.tokenizer = DistilBertTokenizer.from_pretrained("distilbert-base-uncased")
+		self.bert = DistilBertModel.from_pretrained("distilbert-base-uncased")
 		self.bert = BertModel.from_pretrained('bert-base-uncased')
 		self.seq_len = 512
 		self.sim = nn.CosineSimilarity(dim = 0)
+		self.loss_fn = nn.TripletMarginLoss()
 
 	def get_scores(self, article_1_emb, article_2_emb, article_1_att_mask, article_2_att_mask):
 		score = torch.zeros(article_1_emb.shape[0])
@@ -77,21 +80,19 @@ class ContrastiveModel(nn.Module):
 			score[b] = score[b]/(n_article_1 + n_article_2)
 		return score
 
-	def forward(self, anchor_encoded, positives_encoded = None, negatives_encoded = None):
-		is_training = negatives_encoded is not None
+	def forward(self, anchor_encoded, positives_encoded = None):
+		is_training = self.training
 		anchor_outputs = self.bert(**anchor_encoded)
 		pos_outputs = self.bert(**positives_encoded)
 		if is_training:
-			neg_outputs = self.bert(**negatives_encoded)
-
 			anchor_embs = torch.sum(anchor_outputs[1:]) * torch.reciprocal(torch.sum(anchor_encoded['attention_mask']))
-			pos_embs = torch.sum(pos_outputs[1:]) * torch.reciprocal(torch.sum(pos_encoded['attention_mask']))
+			pos_embs = torch.sum(pos_outputs[1:]) * torch.reciprocal(torch.sum(positives_encoded['attention_mask']))
 			neg_embs = anchor_embs[torch.randperm(anchor_embs.shape[0])]
 			loss = self.loss_fn(anchor_embs, pos_embs, neg_embs)
 
 			return loss, anchor_embs, pos_embs, neg_embs
 		else:
-			return self.get_scores(anchor_outputs[1:], pos_outputs[1:], anchor_encoded['attention_mask'], pos_encoded['attention_mask'])
+			return self.get_scores(anchor_outputs.last_hidden_state[:, 1:], pos_outputs.last_hidden_state[:, 1:], anchor_encoded['attention_mask'], positives_encoded['attention_mask'])
 
 		
 
