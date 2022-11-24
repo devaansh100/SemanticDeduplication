@@ -1,9 +1,0 @@
-
-["Giant anaconda crosses busy road in Brazil. Watch viral video\nTraffic jams can turn out to be frustrating at times. We all have been in traffic jams, haven't we? Have you ever been a part of any traffic jam for a good reason? Something similar happened in Brazil recently and we don't know how to react. Traffic on a busy road was interrupted and forced to make an unexpected stop after people spotted a giant anaconda across the road in the northwestern state of Rondônia. In a viral video that has been doing the rounds on the internet, a huge green anaconda, at least 10-foot-long, slithered its way across multiple lanes of the highway in Porto Velho, Brazil. The beautiful creature was seen making its way with all glory and social media is going crazy over the video. As the snake crawled slowly over the road's median divider, courageous spectators stood close by to capture an iconic moment. Beautiful animal, indeed. But till it eats you alive... Reportedly, the video of the incident was shared by Italo Nascimento Fernandes. The clip shows a mammoth snake trying to cross the road as people around it watched curiously. Many bystanders can be seen getting down from their respective cars and helping to stop other vehicles from approaching to let the reptile pass. The snake was over three-metres long and weighs around 30 kilograms, as per news reports. Biologist Flavio Terassini told a Brazilian news website that the mammal had wandered on the road in search of something to eat."]
-
-
-Giant anaconda----SP.SPECIFIC
-
-Brazil----LOC.STATE
-
-Rondônia----LOC.DISTRICT

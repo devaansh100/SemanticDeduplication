@@ -1,9 +1,0 @@
-
-['Two arrested for poaching Nilgai\nWhat each zodiac looks for in a relationship Lifestyle']
-
-
-Two----SUS.NUMBER
-
-arrested----CRIME.CAT
-
-Nilgai----SP.SPECIFIC

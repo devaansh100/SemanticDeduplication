@@ -1,7 +1,0 @@
-
-['Close encounter: A stranded tourist bus and two Royal Bengal tigers\nTigers in their enclosure at Bengal Safari in Siliguri. The bus being towed by the rescue vehicle; (right) the two tigers that had come uncomfortably close to the vehicle.']
-
-
-Royal Bengal tigers----SP.SPECIFIC
-
-bus----TRANSPORT_MODE

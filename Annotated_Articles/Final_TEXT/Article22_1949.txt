@@ -1,9 +1,0 @@
-
-['Navi Mumbai: Electrocuted cat\'s body not removed from DP box for a year\nNAVI MUMBAI: In a surprising case of negligence, an electrocuted cat \'s body was not removed from an uncovered DP (distribution panel) box at Nerul , sector 21, for nearly a year. Hence, activists have again reminded the authorities about this issue."Last year during the monsoon period, some locals had pointed out at this dangerous and open DP box at the footpath, where a street cat was tragically electrocuted after coming in contact with a high voltage wire. It is shocking that the cat\'s body was not removed from the DP box since then. I visited the site on Friday evening and confirmed it. The MSEDCL officials must look into this serious problem," said Arati Chauhan of Navi Mumbai Animals Protection Cell.When TOI visited the spot, the furry remains of the cat could be noticed inside the open DP box. A local resident Mitesh Kumar said: "We try to carefully avoid this unsafe DP box while walking on the footpath. The monsoon season will again arrive in June this year. So, hopefully things will be sorted out by then."An MSEDCL official who did not want to be quoted said that they will immediately check this particular DP box and the cat\'s body in it.By Saturday evening, a tin sheet was fixed on the uncovered side of the DP box, to ensure public safety.']
-
-
-Electrocuted cat's----SP.SPECIFIC
-
-body----ITEM
-
-body----ITEM

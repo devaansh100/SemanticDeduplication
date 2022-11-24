@@ -1,9 +1,0 @@
-
-['Dead dolphin calf found off Sarteneja - Breaking Belize News\nFacebook पर Breaking Belize News को और देखें']
-
-
-dolphin----SP.COMMON
-
-calf----ITEM
-
-Sarteneja----LOC.EXACT

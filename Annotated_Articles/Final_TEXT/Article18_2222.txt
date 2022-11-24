@@ -1,7 +1,0 @@
-
-['Great Indian Hornbill tortured to death\nAn undated video, which has gone viral on social media, has drawn severe criticism where an endangered great Indian Hornbill is seen being tortured and beaten to death, reportedly in Wokha district. When contacted, forest officials said that they have taken cognizance of the video and would initiate appropriate action as the Great Indian Hornbill is among those under vulnerable/endangered list. A member of the Society for the prevention of cruelty to animals (SPCA) said that they have also taken note of the incident and would approach the appropriate authorities to take strict action. As per Prevention of Cruelty to Animals Act provisions empower law enforcement agencies, animal welfare workers, and citizens who care for animals to take action against the culprits. The Wild Life (Protection) Amendment Bill 2021 regulates the protection of wild animals, birds and plants and also seeks to increase the species protected under the law, and implement the Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES).']
-
-
-Great Indian Hornbill----SP.SPECIFIC
-
-tortured to death----CRIME.CAT

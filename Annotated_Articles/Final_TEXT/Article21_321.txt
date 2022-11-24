@@ -1,9 +1,0 @@
-
-['6 peacocks die mysteriously near Pollachi; Forest Dept. investigating to ascertain if they were poisoned\n']
-
-
-6----QTY
-
-peacocks----SP.COMMON
-
-Pollachi----LOC.CITY

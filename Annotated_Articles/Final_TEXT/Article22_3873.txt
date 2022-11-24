@@ -1,9 +1,0 @@
-
-['Wild bear poaching gang arrested in Telangana\nThis is how your zodiac sign talks on the phone! Lifestyle']
-
-
-Wild bear poaching gang----SUS.AFFIL
-
-arrested----CRIME.CAT
-
-Telangana----LOC.STATE

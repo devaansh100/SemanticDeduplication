@@ -1,9 +1,0 @@
-
-['American family discovers five bears in hibernation under the house: ‘We heard snoring sounds’\n An American family discovered a black bear and her four cubs, about a year old, under their home in the US state of California. The animals had entrenched there in the winter to hibernate. The residents had been hearing ‘snoring sounds’ for several months and could not figure out where they came from.']
-
-
-five bears----SP.SPECIFIC
-
-black bear----SP.SPECIFIC
-
-California----LOC.STATE

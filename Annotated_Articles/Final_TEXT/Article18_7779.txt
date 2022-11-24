@@ -1,7 +1,0 @@
-
-['The snake was killed by the boys with a stick.\nThe snake was killed by the boys with a stick. A stick was killed by the boys with a snake. A snake with a stick was killed by the boys. A snake is killed by the boys with a stick. Answer : A Solution : The snake was killed by the boys with a stick. (Passive) <br> The sentence is in Simple Past Tense. (Active)']
-
-
-snake----SP.COMMON
-
-stick----ITEM

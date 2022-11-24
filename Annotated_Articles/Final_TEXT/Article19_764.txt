@@ -1,9 +1,0 @@
-
-['A dead humpback whale was found in the Amazon\n> Science A young humpback whale was found dead some miles off the shore of the Amazon River. The strange part was not that there was a whale in the Amazon, since many live off the coast of Brazil, but that it should have migrated to Antarctica at this time of the year.']
-
-
-humpback whale----SP.SPECIFIC
-
-Amazon----SUS.LOC
-
-humpback whale----SP.SPECIFIC

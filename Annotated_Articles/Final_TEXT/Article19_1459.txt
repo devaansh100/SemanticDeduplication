@@ -1,9 +1,0 @@
-
-['Year after village is cleared of people, a tigress moves in with her cubs\nIn a development bound to bring cheer to wildlife conservationists, the images of a tigress and its four cubs have been captured by a camera trap in Madhya Pradesh’s Kheoni wildlife sanctuary from the area where a village used to exist till its 100-odd inhabitants were relocated a year-and-a-half ago. Senior state forest officials, including principal chief conservator of forests U Prakasham and Ujjain chief conservator of forests Ajay Yadav, have confirmed the development, a first in the sanctuary. They said they had known of the presence of the tigress and her cubs since end of March but had decided not to go public with it. The tigress has made two kills so far — first of a calf, followed by a cow believed to be its mother, Yadav said. Other forest officials said little was known about the felines and where they came from and how long they would be staying. “It is possible they came from nearby jungles and have settled there to raise the cubs,” an official, who did not wish to be identified, said. Spread over 132 sq km, the Kheoni wildlife sanctuary is located 110km from Bhopal. SHARE THIS ARTICLE ON']
-
-
-tigress----SP.COMMON
-
-Kheoni wildlife sanctuary----LOC.EXACT
-
-U Prakasham----OFF.NAME

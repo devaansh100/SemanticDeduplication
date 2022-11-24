@@ -1,9 +1,0 @@
-
-['बिबट्याला ठार मारून त्याच्या मांसाचं गावजेवण घातलं\nvillagers kill leopard, feast on its meat in assam dibrugarh district']
-
-
-kill----CRIME.CAT
-
-leopard----SP.COMMON
-
-dibrugarh----LOC.DISTRICT

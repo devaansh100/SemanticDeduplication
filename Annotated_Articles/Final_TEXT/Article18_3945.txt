@@ -1,7 +1,0 @@
-
-["Latest News on Vadgaon Phata - Times of India\nFour pilgrims killed, 20 injured in road accident near Pune TNN / Nov 27, 2021, 10:47 (IST) The warkaris were walking down towards Alandi from Khalapur when the accident took place when the pick-up truck entered the wari procession and went on knocking them down. The police said that the pick-up truck's driver lost control over the wheel and it hit the warkaris."]
-
-
-20----SUS.NUMBER
-
-pick-up truck----TRANSPORT_MODE

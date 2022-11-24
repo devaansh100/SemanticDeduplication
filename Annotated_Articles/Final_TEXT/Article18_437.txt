@@ -1,7 +1,0 @@
-
-['Watch: Bear and cub break into parked van, give it a thorough inspection\nBEAR BREAK-IN: A group of bears in search of food decided to check inside a van—effortlessly unlatching the door, sliding it open and jumping inside. https://t.co/XZH1riqubI pic.twitter.com/TANqI5Rks7']
-
-
-Bear----SP.COMMON
-
-van----TRANSPORT_MODE

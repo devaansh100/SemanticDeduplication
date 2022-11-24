@@ -1,7 +1,0 @@
-
-['KDMC to revamp 3 lakes in Kalyan; activists demand conservation-friendly beautification\nLate in January 2022, an incident of the death of hundreds of turtles at the Gauripada Lake in Kalyan sent shockwaves across the state. A month after the incident, a laboratory report suggested water pollution and the presence of different bacteria in the body parts of the turtles as the reason behind their death. The walls of the lake were concretised and beautified by the civic body two years ago. ']
-
-
-KDMC----AUTH.SEIZE
-
-Kalyan----LOC.DISTRICT

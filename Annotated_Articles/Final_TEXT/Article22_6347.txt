@@ -1,9 +1,0 @@
-
-['The Tie Dyed Tarantula\nContact and Address Address: 110 Gott Rd B, Princeton, West Virginia 24740, US Advertisement Map Location: About the Business: the Tie Dyed Tarantula is a Pet store located at 110 Gott Rd B, Princeton, West Virginia 24740, US. The business is listed under pet store category. It has received 0 reviews with an average rating of stars.']
-
-
-Tie Dyed Tarantula----SP.SPECIFIC
-
-110 Gott Rd B----LOC.EXACT
-
-Princeton----LOC.DISTRICT

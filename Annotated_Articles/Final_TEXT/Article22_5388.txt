@@ -1,7 +1,0 @@
-
-['Chilika, Mangalajodi: extreme Rare Bird Spotted at the lake\nGet Breaking news alerts from Argus Be the first to know any news. You will get latest stories and video updates through the day. You can turn them off anytime.']
-
-
-Chilika----LOC.DISTRICT
-
-Rare Bird----SP.COMMON

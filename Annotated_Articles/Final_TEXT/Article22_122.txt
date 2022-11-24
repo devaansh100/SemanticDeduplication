@@ -1,9 +1,0 @@
-
-['Katarniaghat Wildlife Sanctuary: Latest News, Videos and Photos of Katarniaghat Wildlife Sanctuary\nIn a first, UP to set up four tiger rescue centres TNN / May 27, 2019, 04:16 (IST) With the number of both tigers and leopards increasing in the state reserves, the UP government has decided to set up four rescue centres in Pilibhit, Dudhwa, Chitrakoot and Meerut.']
-
-
-UP----LOC.STATE
-
-Chitrakoot----LOC.EXACT
-
-Meerut----LOC.EXACT

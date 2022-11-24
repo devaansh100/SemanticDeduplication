@@ -1,9 +1,0 @@
-
-['[Solved] Which of the following animal can be converted into Transgen\nQuestion Download Solution PDF Which of the following animal can be converted into Transgenic Animals? 1. Sheep 2. Rabbit 3. Cow 4. Fish Select the correct answer using the codes given below.']
-
-
-Sheep----SP.COMMON
-
-Rabbit----SP.COMMON
-
-Cow----SP.COMMON

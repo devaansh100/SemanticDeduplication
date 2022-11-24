@@ -1,9 +1,0 @@
-
-["Taste Adventure and Thrill with the Exciting Jeep Safari in Dooars,Bengal\nWould you believe, if I tell you that we were actually chased by a herd of elephants ?? Okay, now there is nothing to get scared off. We were inside our jeep, with proper guides and a pro driver. And not to mention the famous Kukri that our guide had, it made us feel absolutely secured from any form of danger.... The Dooars or Duars are the foothills of the eastern Himalayas in North-East India around Bhutan. Duar means 'door' and the region forms the gateway to Bhutan from India. So you can reach Dooars area via 3 ways 1) Via Air - Land in Bagdogra & take a cab (2 h 58 min approx 134.3 km) 2) Via Rail - Land in Siliguri or NJP from Kolkata and take private or shared cab to Dooars area (2 h 44 min approx 125.4 km) 3) Via Roadways - From Kolkata hire a cab or take a bus (17 h 56 min approx 790.4 km). Note if you take a bus you have to get down to Siliguri or NJP. So we were 3 friends and we chose to do a Jeep Safari in the famous Jaldapara National Park in Dooars. Jaldapara, the vast grassland with patches of riverine forests was declared a sanctuary in 1941 for protection of the great variety flora and fauna, particularly the one-horned rhinoceros, an animal threatened with extinction. We started our journey from Kolkata and we boarded the famous Darjeeling Mail from Sealdah Station. Once we landed, we took a private cab from NJP station to reach Jaldapara National Park. Tips : Try to book a train which takes you to New Mal Junction or Hasimara, the closest railway station to the Dooars region."]
-
-
-Dooars----LOC.DISTRICT
-
-Bengal----LOC.DISTRICT
-
-Jaldapara National Park in Dooars----ROUTE.SRC

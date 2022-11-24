@@ -1,9 +1,0 @@
-
-["Trending in TN: Jungle survivor war games, a 'passed out' rat and a child seated on a tyre dragged by a car\nHow would you react to a sight where a rat is (most likely) lying dead or passed out next to an empty bottle of alcohol? The neighbourhood in Brooklyn witnessed this on a sidewalk of Bedford-Stuyvesant. This is now breaking the internet. Chris Williamson spotted the rat on the corner of Monroe Street and Ralph Avenue. The rat was lying near a bottle of Hennessy. He went on to share the picture on Twitter."]
-
-
-Bedford-Stuyvesant----LOC.EXACT
-
-Monroe Street and Ralph Avenue----LOC.EXACT
-
-bottle of Hennessy----CONCEALMENT_METHOD
