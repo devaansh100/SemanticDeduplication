@@ -89,7 +89,7 @@ class ContrastiveModel(nn.Module):
 			neg_embs = anchor_embs[torch.randperm(anchor_embs.shape[0])]
 			labels = torch.zeros(2 * anchor_embs.shape[0]).cuda()
 			labels[0:pos_embs.shape[0]] = 1
-			labels[pos_embs.embs[0]:neg_embs.shape[0]] = -1
+			labels[pos_embs.shape[0]:neg_embs.shape[0]] = -1
 			all_anchors = torch.cat((anchor_embs, anchor_embs))
 			all_comps = torch.cat((pos_embs, neg_embs))
 			loss = self.loss_fn(all_anchors, all_comps, target = labels)
