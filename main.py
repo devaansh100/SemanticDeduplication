@@ -48,6 +48,7 @@ def main(params):
 	init_seed(42)
 	entities, files = get_conll_data(f'{params.data_dir}/Final_CONLL')
 	articles = get_raw_data(f'{params.data_dir}/Final_TEXT', files)
+	breakpoint()
 	if params.train_contrastive:
 		positives = get_raw_data(f'{params.data_dir}/Final_POS', files)
 
