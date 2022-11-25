@@ -48,7 +48,6 @@ def main(params):
 	init_seed(42)
 	entities, files = get_conll_data(f'{params.data_dir}/Final_CONLL')
 	articles = get_raw_data(f'{params.data_dir}/Final_TEXT', files)
-	breakpoint()
 	if params.train_contrastive:
 		positives = get_raw_data(f'{params.data_dir}/Final_POS', files)
 
@@ -93,7 +92,7 @@ if __name__ == '__main__':
 	parser.add_argument('--mb', dest = 'batch_size', type = int, default = 128)
 	parser.add_argument('--lr', type = float, default = 1e-5)
 	parser.add_argument('--subset', type = int, default = 5)
-	parser.add_argument('--data_dir', type = str, default = 'Re_Annotated_Articles')
+	parser.add_argument('--data_dir', type = str, default = 'Annotated_Articles')
 	parser.add_argument('--epochs', type = int, default = 15)
 	parser.add_argument('--seq_len', type = int, default = 512)
 	params = parser.parse_args()
