@@ -65,7 +65,7 @@ class Runner:
 			# 	print(f'Target Article: {target}\n')
 
 		os.makedirs(f'{params.data_dir}/Final_POS', exist_ok = True)
-		for i, article in enumerate(articles_gen):
+		for i, article in enumerate(self.articles_gen):
 			with open(f'{params.data_dir}/Final_POS/{self.files[i].split("/")[-1].replace(".conll", ".txt")}', 'w') as f:
 				f.write(article)
 
