@@ -24,12 +24,24 @@ class ContrastiveDataset(Dataset):
 		self.anchors = anchors
 		self.positives = positives
 		self.seq_len = params.seq_len
+		self.pos_method = params.positive_method
 
 	def __len__(self):
 		return len(self.anchors)
 
 	def __getitem__(self, idx):
 		anchor = self.anchors[idx]
-		pos = self.positives[idx]
+		if self.pos_method == 'generate':
+			pos = self.positives[idx]
+		else:
+			first_non_zero = torch.where(self.anchors[idx] == 0)[0][0]
+			pos_input_ids = anchor['input_ids'][:first_non_zero]
+			drop_mask = torch.FloatTensor(pos_input_ids.shape).uniform_() > 0.5
+			pos_input_ids = pos_input_ids * drop_mask
+			pos_input_ids = pos_input_ids[pos_input_ids > 0]
+			pos_att_mask = torch.cat((torch.ones_like(pos_input_ids), torch.zeros(len(anchor) - len(pos_input_ids))), dim = 0)
+			pos_input_ids = torch.cat((pos_input_ids, torch.zeros(len(anchor) - len(pos_input_ids))), dim = 0).long()
+			pos = {'input_ids': pos_input_ids, 'attention_mask': pos_att_mask}
+
 		return anchor, pos
 

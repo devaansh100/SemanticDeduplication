@@ -59,7 +59,7 @@ def main(params):
 					   "Smugglers caught near Chennai. 7 kg of bear claws and a bear skin recovered. Local authorities carried out a raid on Saturday, apprehending two men and seizing 7 kg of bear claws and a bear skin from them.",
 					   "Smugglers caught near Chennai. 7 kg of bear claws and a bear skin recovered. Local authorities carried out a raid on Saturday, apprehending two men and seizing 7 kg of bear claws and a bear skin from them.",
 					   ]
-	model = PositiveGenerator() if not params.train_contrastive else ContrastiveModel()
+	model = PositiveGenerator() if not params.train_contrastive else ContrastiveModel(params.positive_method)
 	print('Tokenizing Articles')
 	tokenized_articles = tokenize(articles, model.tokenizer)
 	print('Tokenizing Entities')
@@ -95,5 +95,6 @@ if __name__ == '__main__':
 	parser.add_argument('--data_dir', type = str, default = 'Annotated_Articles')
 	parser.add_argument('--epochs', type = int, default = 15)
 	parser.add_argument('--seq_len', type = int, default = 512)
+	parser.add_argument('--positive_method', type = str, choices = ['generate', 'masking'], default = 'masking')
 	params = parser.parse_args()
 	main(params)
