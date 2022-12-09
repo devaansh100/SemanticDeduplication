@@ -3,6 +3,38 @@ import glob
 import json
 from tqdm import tqdm
 
+
+def read_test_files(test_folder):
+	folders = glob.glob(f'{test_folder}/URL*')
+	article_sets = [[] for _ in folders]
+	for i, folder in enumerate(folders):
+		files = glob.glob(f'{folder}/*txt')
+		for file in sorted(files):
+			f = open(file)
+			contents = f.readlines()[1] # 2nd line contains the text
+			contents = contents[2:-2] # Skipping first 2 and last 2 chars
+			article_sets[i].append(contents)
+
+	test_articles_1 = article_sets[0]
+	test_articles_2 = article_sets[1]
+
+	test_articles_1 += article_sets[2]
+	test_articles_2 += article_sets[3]
+
+	test_articles_1 += article_sets[3]
+	test_articles_2 += article_sets[4]
+
+	num_pos = len(test_articles_2)
+
+	test_articles_1 += test_articles_1
+	test_articles_2 += test_articles_2[::-1]
+
+	labels = [1] * num_pos + [0] * num_pos
+
+	return labels, test_articles_1, test_articles_2
+
+
+
 def get_conll_data(conll_folder):
 	entities = []
 	files = glob.glob(f'{conll_folder}/*conll')

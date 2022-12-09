@@ -42,7 +42,8 @@ def collate_test(batch):
 	article_1_att_mask = collate_util('attention_mask', 0, batch)
 	article_2_ids      = collate_util('input_ids', 1, batch)
 	article_2_att_mask = collate_util('attention_mask', 1, batch)
-	return {'article_1_ids': article_1_ids, 'article_1_att_mask': article_1_att_mask, 'article_2_ids': article_2_ids, 'article_2_att_mask': article_2_att_mask}
+	labels 			   = torch.tensor([x[2] for x in batch])
+	return {'article_1_ids': article_1_ids, 'article_1_att_mask': article_1_att_mask, 'article_2_ids': article_2_ids, 'article_2_att_mask': article_2_att_mask, 'labels': labels}
 
 def main(params):
 	init_seed(42)
@@ -51,14 +52,7 @@ def main(params):
 	if params.train_contrastive:
 		positives = get_raw_data(f'{params.data_dir}/Final_POS', files)
 
-	test_articles_1 = ["Smugglers caught near Chennai. 2kg of tiger claws and a tiger skin recovered. Local authorities carried out a raid on Saturday, apprehending two men and seizing 2kg of tiger claws and a tiger skin from them.",
-					   "7 men apprehended near Guwahati for smuggling bear pelts. Two pelts recovered in a raid on Saturday. Local authorities carried out a raid on Saturday and caught 7 men, seizing two bear skins from them.",
-					   "Smugglers caught near Chennai. 2 kg of tiger claws and a tiger skin recovered. Local authorities carried out a raid on Saturday, apprehending two men and seizing 2 kg of tiger claws and a tiger skin from them.",
-					   ]
-	test_articles_2 = ["Police recently arrested a group of smugglers near Manali, Chennai. Tigers nails and hide have also been seized. Chennai police and forest rangers arrested two men in a joint operation yesterday. They were found with 2kg of tiger nails and a hide.",
-					   "Smugglers caught near Chennai. 7 kg of bear claws and a bear skin recovered. Local authorities carried out a raid on Saturday, apprehending two men and seizing 7 kg of bear claws and a bear skin from them.",
-					   "Smugglers caught near Chennai. 7 kg of bear claws and a bear skin recovered. Local authorities carried out a raid on Saturday, apprehending two men and seizing 7 kg of bear claws and a bear skin from them.",
-					   ]
+	test_labels, test_articles_1,  test_articles_2 = read_test_articles(f'{params.data_dir}/Test_files')
 	model = PositiveGenerator() if not params.train_contrastive else ContrastiveModel(params.positive_method)
 	print('Tokenizing Articles')
 	tokenized_articles = tokenize(articles, model.tokenizer)
@@ -75,7 +69,7 @@ def main(params):
 		train_ds = WildlifeDataset(tokenized_entities, tokenized_articles, model.tokenizer, params)
 	else:
 		train_ds = ContrastiveDataset(tokenized_articles, tokenized_positives, model.tokenizer, params)
-	test_ds = WildlifeDataset(tokenized_test_1, tokenized_test_2, model.tokenizer, params)
+	test_ds = WildlifeDataset(tokenized_test_1, tokenized_test_2, model.tokenizer, params, labels)
 
 	train_dl = DataLoader(train_ds, batch_size = params.batch_size, shuffle = not params.test, pin_memory = True, num_workers = 4, collate_fn = collate if not params.train_contrastive else collate_contrastive)
 	test_dl = DataLoader(test_ds, batch_size = params.batch_size, pin_memory = True, num_workers = 4, collate_fn = collate_test if not params.train_contrastive else collate_contrastive)

@@ -3,11 +3,12 @@ import random
 import torch
 
 class WildlifeDataset(Dataset):
-	def __init__(self, entities, articles, tokenizer, params):
+	def __init__(self, entities, articles, tokenizer, params, labels):
 		super().__init__()
 		self.entities = entities
 		self.articles = articles
 		self.seq_len = params.seq_len
+		self.labels = labels
 
 	def __len__(self):
 		return len(self.articles)
@@ -15,7 +16,8 @@ class WildlifeDataset(Dataset):
 	def __getitem__(self, idx):
 		entity = self.entities[idx]
 		article = self.articles[idx]
-		return entity, article
+		labels = self.labels[idx]
+		return entity, article, labels
 
 
 class ContrastiveDataset(Dataset):

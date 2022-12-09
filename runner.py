@@ -105,19 +105,27 @@ class RunnerContrastive(Runner):
 
 	def send_to_cuda(self, batch):
 		for loss_set in batch:
-			for key in batch[loss_set]:
-				batch[loss_set][key] = batch[loss_set][key].cuda()
+			if torch.is_tensor(loss_set):
+				batch[loss_set] = batch[loss_set].cuda()
+			else:
+				for key in batch[loss_set]:
+					batch[loss_set][key] = batch[loss_set][key].cuda()
 		return batch
 
 	def test(self, model, params, epoch):
 		model.eval()
+		correct_count = 0
 		for i, batch in enumerate(tqdm(self.test_dl, desc = f'Epoch {epoch}')):
 			batch = self.send_to_cuda(batch)
+			labels = batch.pop('labels')
 			output = model.forward(**batch)
-			for article_1, article_2, score in zip(batch['anchor_encoded']['input_ids'], batch['positives_encoded']['input_ids'], output):
-				print(f'\nArticle 1: {model.tokenizer.decode(article_1, skip_special_tokens=True, clean_up_tokenization_spaces=True)}')
-				print(f'Article 2: {model.tokenizer.decode(article_2, skip_special_tokens=True, clean_up_tokenization_spaces=True)}')
-				print(f'Similarity: {score}\n')
+			preds = torch.where(output > 0.95, 1, 0)
+			correct_count += (labels == preds).sum().item()
+			# for article_1, article_2, score in zip(batch['anchor_encoded']['input_ids'], batch['positives_encoded']['input_ids'], output):
+			# 	print(f'\nArticle 1: {model.tokenizer.decode(article_1, skip_special_tokens=True, clean_up_tokenization_spaces=True)}')
+			# 	print(f'Article 2: {model.tokenizer.decode(article_2, skip_special_tokens=True, clean_up_tokenization_spaces=True)}')
+			# 	print(f'Similarity: {score}\n')
+		print(f'Epoch {epoch}: Test Accuracy = {round(100*correct_count/len(self.test_dl.dataset), 2)}%')
 
 	def train(self, model, params):
 		ret_val = super().train(model, params)
