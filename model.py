@@ -63,17 +63,17 @@ class ContrastiveModel(nn.Module):
 		super(ContrastiveModel, self).__init__()
 		self.tokenizer = DistilBertTokenizer.from_pretrained("distilbert-base-uncased")
 		self.bert = DistilBertModel.from_pretrained("distilbert-base-uncased")
-		self.vocab_weights = nn.Embedding(num_embeddings = self.bert.embeddings.shape[0], embedding_dim = 1, padding_idx = 0)
+		self.vocab_weights = nn.Embedding(num_embeddings = self.bert.embeddings.word_embeddings.num_embeddings, embedding_dim = 1, padding_idx = 0)
 		self.seq_len = 512
 		self.sim = nn.CosineSimilarity(dim = 0)
 		self.pos_method = pos_method
-		self.loss_fn = nn.CosineEmbeddingLoss() if self.pos_method == 'generate' else nn.CrossEntryopyLoss()
+		self.loss_fn = nn.CosineEmbeddingLoss()# if self.pos_method == 'generate' else nn.CrossEntropyLoss()
 
 	def get_scores(self, article_1_emb, article_2_emb, article_1_att_mask, article_2_att_mask):
 		score = torch.zeros(article_1_emb.shape[0])
 		for b in range(article_1_emb.shape[0]):
-			n_article_1 = torch.sum(article_1_att_mask[b])
-			n_article_2 = torch.sum(article_2_att_mask[b])
+			n_article_1 = torch.sum(article_1_att_mask[b]).int().item()
+			n_article_2 = torch.sum(article_2_att_mask[b]).int().item()
 			sim_matrix = torch.zeros((n_article_1, n_article_2))
 			for i in range(n_article_1):
 				for j in range(n_article_2):
@@ -88,8 +88,8 @@ class ContrastiveModel(nn.Module):
 		pos_outputs = self.bert(**positives_encoded).last_hidden_state
 
 		# For weighted entities
-		anchor_outputs = self.vocab_weights[anchor_encoded['input_ids']] * anchor_outputs
-		pos_outputs = self.vocab_weights[positives_encoded['input_ids']] * pos_outputs
+		anchor_outputs = self.vocab_weights(anchor_encoded['input_ids']) * anchor_outputs
+		pos_outputs = self.vocab_weights(positives_encoded['input_ids']) * pos_outputs
 		
 		if is_training:
 			anchor_embs = torch.sum(anchor_outputs[:, 1:], dim = 1) * torch.reciprocal(torch.sum(anchor_encoded['attention_mask'], dim = 1)).unsqueeze(-1)
@@ -98,13 +98,13 @@ class ContrastiveModel(nn.Module):
 			labels = torch.zeros(2 * anchor_embs.shape[0]).cuda()
 			labels[0:pos_embs.shape[0]] = 1
 			labels[pos_embs.shape[0]:neg_embs.shape[0]] = -1
-			if self.pos_method == 'generate':
-				all_anchors = torch.cat((anchor_embs, anchor_embs))
-				all_comps = torch.cat((pos_embs, neg_embs))
-				loss = self.loss_fn(all_anchors, all_comps, target = labels)
-			else:
-				scores = self.get_scores(anchor_outputs[:, 1:], pos_outputs[:, 1:], anchor_encoded['attention_mask'], positives_encoded['attention_mask'])
-				loss = self.loss_fn(scores, labels)
+			#if self.pos_method == 'generate':
+			all_anchors = torch.cat((anchor_embs, anchor_embs))
+			all_comps = torch.cat((pos_embs, neg_embs))
+			loss = self.loss_fn(all_anchors, all_comps, target = labels)
+			#else:
+			#scores = self.get_scores(anchor_outputs[:, 1:], pos_outputs[:, 1:], anchor_encoded['attention_mask'], positives_encoded['attention_mask'])
+			#loss = self.loss_fn(scores, labels)
 
 			return loss, anchor_embs, pos_embs, neg_embs
 		else:

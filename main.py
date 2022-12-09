@@ -77,8 +77,8 @@ def main(params):
 		train_ds = ContrastiveDataset(tokenized_articles, tokenized_positives, model.tokenizer, params)
 	test_ds = WildlifeDataset(tokenized_test_1, tokenized_test_2, model.tokenizer, params)
 
-	train_dl = DataLoader(train_ds, batch_size = params.batch_size, shuffle = not params.test, pin_memory = True, num_workers = 2, collate_fn = collate if not params.train_contrastive else collate_contrastive)
-	test_dl = DataLoader(test_ds, batch_size = params.batch_size, pin_memory = True, num_workers = 2, collate_fn = collate_test if not params.train_contrastive else collate_contrastive)
+	train_dl = DataLoader(train_ds, batch_size = params.batch_size, shuffle = not params.test, pin_memory = True, num_workers = 4, collate_fn = collate if not params.train_contrastive else collate_contrastive)
+	test_dl = DataLoader(test_ds, batch_size = params.batch_size, pin_memory = True, num_workers = 4, collate_fn = collate_test if not params.train_contrastive else collate_contrastive)
 	runner = RunnerContrastive(train_dl, test_dl) if params.train_contrastive else Runner(train_dl, test_dl, files)
 	runner.train(model, params)
 

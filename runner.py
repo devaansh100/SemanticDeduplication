@@ -124,7 +124,7 @@ class RunnerContrastive(Runner):
 		if ret_val == 0:
 			return
 
-		self.test(model, params, 0)
+		# self.test(model, params, 0)
 		for epoch in range(params.epochs):
 			self.fit_one_epoch(model, params, epoch + 1)
 			self.test(model, params, epoch + 1)
